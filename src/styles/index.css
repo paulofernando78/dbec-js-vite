@@ -21,17 +21,17 @@
   font-size: 1.1rem;
 }
 
+svg {
+  min-width: 24px;
+}
+
 .icon-alighment {
   display: flex;
   gap: 0.625rem;
 }
 
-.whatsapp {
-  margin-left: 0.4rem;
-}
-
 .whatsapp-icon {
   position: relative;
   top: 2px;
-  right: 3px;
+  left: 1px;
 }
