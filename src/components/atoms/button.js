@@ -25,8 +25,8 @@ class Button extends HTMLElement {
     button.style.cursor = "pointer";
     button.textContent = "";
 
-    const svg = document.createElement("svg")
-    this.shadowRoot.appendChild(svg)
+    // const svg = document.createElement("svg")
+    // this.shadowRoot.appendChild(svg)
 
 
     this.shadowRoot.appendChild(button);
