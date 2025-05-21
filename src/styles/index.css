@@ -1,0 +1,37 @@
+.container-presentation {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.logo-name {
+  width: 300px;
+  margin: 10px 0 70px 0;
+  filter: drop-shadow(2px 2px 2px gray);
+}
+
+.avatar {
+  width: 230px;
+  margin-bottom: 20px;
+  filter: drop-shadow(0 0 5px gray);
+}
+
+.dbec {
+  font-family: "Anton", sans-serif;
+  font-size: 1.1rem;
+}
+
+.icon-alighment {
+  display: flex;
+  gap: 0.625rem;
+}
+
+.whatsapp {
+  margin-left: 0.4rem;
+}
+
+.whatsapp-icon {
+  position: relative;
+  top: 2px;
+  right: 3px;
+}

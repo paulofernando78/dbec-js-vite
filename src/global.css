@@ -1,0 +1,34 @@
+/* Base */
+@import "/src/styles/base/reset.css";
+@import "/src/styles/base/font-face.css";
+@import "/src/styles/base/typography.css";
+
+/* Theme */
+@import "/src/styles/theme/colors.css";
+@import "/src/styles/theme/dark-mode.css";
+
+/* Ultilities */
+@import "/src/styles/ultilities/borders.css";
+@import "/src/styles/ultilities/spacing.css";
+@import "/src/styles/ultilities/text.css";
+
+@import "/src/styles/index.css";
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  max-width: 1050px;
+  margin: 0 auto;
+  font-family: "Montserrat", sans-serif;
+  font-display: swap;
+  /* user-select: none; */
+  /* scrollbar-gutter: stable */
+}
+
+html {
+  padding: 10px;
+}
+
+hr {
+  border-color: rgba(255, 255, 255, 0.5);
+}
