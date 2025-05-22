@@ -6,9 +6,11 @@ class NavBar extends HTMLElement {
     const css = document.createElement("style") /*css*/
     css.textContent = `
       nav {
-        
+
       }
     `
+
+    
   }
 }
 
