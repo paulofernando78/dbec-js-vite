@@ -1,18 +1,18 @@
 /* Base */
-@import "/src/styles/base/reset.css";
-@import "/src/styles/base/font-face.css";
-@import "/src/styles/base/typography.css";
+@import "/src/css/base/reset.css";
+@import "/src/css/base/font-face.css";
+@import "/src/css/base/typography.css";
 
 /* Theme */
-@import "/src/styles/theme/colors.css";
-@import "/src/styles/theme/dark-mode.css";
+@import "/src/css/theme/colors.css";
+@import "/src/css/theme/dark-mode.css";
 
 /* Ultilities */
-@import "/src/styles/ultilities/borders.css";
-@import "/src/styles/ultilities/spacing.css";
-@import "/src/styles/ultilities/text.css";
+@import "/src/css/ultilities/borders.css";
+@import "/src/css/ultilities/spacing.css";
+@import "/src/css/ultilities/text.css";
 
-@import "/src/styles/index.css";
+@import "/src/css/index.css";
 
 body {
   background-color: var(--background-color);

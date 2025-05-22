@@ -6,13 +6,13 @@ class Header extends HTMLElement {
     const style = document.createElement("style"); /*css*/
     style.textContent = `
       header {
+        margin-bottom: .625rem;
+        padding: var(--padding);
         border: var(--border);
         border-radius: 5px;
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: var(--padding);
-        margin-bottom: .625rem;
       }
 
       span {
@@ -27,15 +27,11 @@ class Header extends HTMLElement {
         top: 2px;
         left: 2px;
       }
-      .right-button {
+
+       .right-button {
         position: relative;
         top: 2px;
         right: 2px;
-      }
-
-      .menu-button.hidden {
-        left: 6px;
-        display: none;
       }
 
       @media (max-width: 768px) {
@@ -49,12 +45,12 @@ class Header extends HTMLElement {
     template.innerHTML = `
       <header>
         <div>
-          <wc-button data-icon="login"></wc-button>
-          <wc-button data-icon="logout"></wc-button>
-          <wc-button data-icon="menu"></wc-button>
+          <wc-button data-icon="login" class="left-button"></wc-button>
+          <wc-button data-icon="logout" class="left-button"></wc-button>
+          <wc-button data-icon="menu" class="left-button"></wc-button>
         </div>
           <span>DAILY BASIS ENGLISH COURSE</span>
-          <wc-button data-icon="darkMode"></wc-button>
+          <wc-button data-icon="darkMode" class="right-button"></wc-button>
       </header>
     `;
 

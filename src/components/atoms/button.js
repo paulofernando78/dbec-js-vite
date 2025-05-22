@@ -49,23 +49,49 @@ class Button extends HTMLElement {
     this.shadowRoot.appendChild(style);
 
     // Button
-    this.button = document.createElement("button");    
+    this.button = document.createElement("button");
+    
     this.shadowRoot.appendChild(this.button);
   }
-  
+
+  createdButton(icon) {
+    
+  }
+
   connectedCallback() {
     const icon = this.getAttribute("data-icon");
-    
+
     if (!svgIcons[icon]) {
-      throw new error(`Unknown icon: ${icon}`)
+      throw new error(`Unknown icon: ${icon}`);
     }
     this.button.innerHTML = svgIcons[icon];
+
+    // blur
+    this.button.addEventListener("blur", () => {
+      this.button.classList.remove("active");
+    });
+
+    this.button.addEventListener("keydown", () => {
+      this.button.classList.add("active");
+    });
+
+    this.button.addEventListener("keyup", () => {
+      this.button.classList.remove("active");
+    });
 
     this.button.addEventListener("mousedown", () => {
       this.button.classList.add("active");
     });
 
     this.button.addEventListener("mouseup", () => {
+      this.button.classList.remove("active");
+    });
+
+    this.button.addEventListener("touchstart", () => {
+      this.button.classList.add("active");
+    });
+
+    this.button.addEventListener("touchend", () => {
       this.button.classList.remove("active");
     });
   }
