@@ -1,12 +1,13 @@
+import cssImportsPath from "/src/css/imports.css?inline";
+
 class NavBar extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    const cssImports = document.createElement("link");
-    cssImports.rel = "stylesheet";
-    cssImports.href = "/src/css/imports.css";
-    this.shadowRoot.appendChild(cssImports);
+    const cssImports = document.createElement("style");
+    cssImports.textContent = cssImportsPath;
+    this.shadowRoot.appendChild(cssImports)
 
     const style = document.createElement("style"); /*css*/
     style.textContent = `

@@ -1,2 +1,2 @@
-import "./index"
-import "./components/index"
+import "./index";
+import "./components/index";
