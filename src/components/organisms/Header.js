@@ -45,12 +45,15 @@ class Header extends HTMLElement {
     template.innerHTML = `
       <header>
         <div>
-          <wc-button data-icon="login" class="left-button"></wc-button>
-          <wc-button data-icon="logout" class="left-button"></wc-button>
-          <wc-button data-icon="menu" class="left-button"></wc-button>
+          
+        <wc-button data-icon="menu" class="left-button"></wc-button>
         </div>
-          <span>DAILY BASIS ENGLISH COURSE</span>
+        <span>DAILY BASIS ENGLISH COURSE</span>
+        <div>
           <wc-button data-icon="darkMode" class="right-button"></wc-button>
+          <wc-button data-icon="login" class="right-button"></wc-button>
+          <wc-button data-icon="logout" class="right-button"></wc-button>
+        </div>
       </header>
     `;
 

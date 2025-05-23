@@ -5,29 +5,33 @@ class Layout extends HTMLElement {
 
     const css = document.createElement("style"); /*css*/
     css.textContent = `
-      .header-navbar {
+      .layout {
         display: flex;
-        flex-direction: column;
+        gap: 10px
       }
 
       #content {
         border: var(--border);
         border-radius: var(--border-radius);
-        height: 300px
+        width: 100%;
+        height: 100dvh
       }
 
+      @media (max-width: 768px) {
+        .layout {
+          flex-direction: column
+        } 
+      }
       `;
 
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
-        <div class="layout">
-          <div class="header-header">
-            <wc-header></wc-header>
-            <wc-navbar></wc-navbar>
-          </div>
-          <div id="content"></div>
-        </div>
-      `;
+      <wc-header></wc-header>
+      <div class="layout">
+        <wc-navbar></wc-navbar>
+        <div id="content"></div>
+      </div>
+    `;
 
     this.shadowRoot.appendChild(css);
     this.shadowRoot.appendChild(template.content.cloneNode(true));
