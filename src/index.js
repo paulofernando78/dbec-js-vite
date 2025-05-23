@@ -2,17 +2,19 @@ import "./components/index";
 
 let header = document.querySelector("wc-header");
 
-const login = header.shadowRoot.querySelector("[data-icon=login]")
-login.addEventListener("click", () => {
-  const layout = document.createElement("wc-layout");
-  document.body.appendChild(layout)
-})
-
 const logout = header.shadowRoot.querySelector("[data-icon=logout]");
-logout.style.display = "none"
+logout.style.display = "none";
 
-const menu = header.shadowRoot.querySelector("[data-icon=menu]")
+const menu = header.shadowRoot.querySelector("[data-icon=menu]");
 menu.style.display = "none";
+
+const login = header.shadowRoot.querySelector("[data-icon=login]");
+login.addEventListener("click", () => {
+  document.body.innerHTML = "";
+
+  const layout = document.createElement("wc-layout");
+  document.body.appendChild(layout);
+});
 
 const phrases = document.querySelector("#home-phrases-display");
 
@@ -59,8 +61,6 @@ function updatePhrase() {
     li.textContent = phraseList[index]; //Updates content
     li.style.opacity = 1; //Fade in new phrase
   }, 500);
-
 }
-
 
 setInterval(updatePhrase, 2000);
