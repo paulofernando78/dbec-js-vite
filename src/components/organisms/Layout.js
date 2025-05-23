@@ -20,7 +20,10 @@ class Layout extends HTMLElement {
       @media (max-width: 768px) {
         .layout {
           flex-direction: column
-        } 
+        }
+        #navbar {
+          display: none
+        }
       }
       `;
 
@@ -28,7 +31,7 @@ class Layout extends HTMLElement {
     template.innerHTML = `
       <wc-header></wc-header>
       <div class="layout">
-        <wc-navbar></wc-navbar>
+        <wc-navbar id="navbar"></wc-navbar>
         <div id="content"></div>
       </div>
     `;

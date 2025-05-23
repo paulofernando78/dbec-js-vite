@@ -34,9 +34,9 @@ class Header extends HTMLElement {
         right: 2px;
       }
 
-      @media (max-width: 768px) {
-        .menu-button.visible {
-          display: inline-block;
+      @media (min-width: 768px) {
+        #menu-button {
+          display: none;
         }
       }
     `;
@@ -46,7 +46,7 @@ class Header extends HTMLElement {
       <header>
         <div>
           
-        <wc-button data-icon="menu" class="left-button"></wc-button>
+        <wc-button data-icon="menu" class="left-button" id="menu-button"></wc-button>
         </div>
         <span>DAILY BASIS ENGLISH COURSE</span>
         <div>
