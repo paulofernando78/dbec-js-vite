@@ -1,7 +1,13 @@
+import cssImportsPath from "/src/css/imports.css?inline";
+
 class Layout extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
+
+    const cssImports = document.createElement("style");
+    cssImports.textContent = cssImportsPath;
+    this.shadowRoot.appendChild(cssImports);
 
     const css = document.createElement("style"); /*css*/
     css.textContent = `
@@ -11,6 +17,7 @@ class Layout extends HTMLElement {
       }
 
       #content {
+        padding: var(--padding);
         border: var(--border);
         border-radius: var(--border-radius);
         width: 100%;
@@ -21,6 +28,7 @@ class Layout extends HTMLElement {
         .layout {
           flex-direction: column
         }
+
         #navbar {
           display: none
         }

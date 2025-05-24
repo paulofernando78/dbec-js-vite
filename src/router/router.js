@@ -1,42 +1,46 @@
-import Layout from '../components/organisms/Layout.js'; 
+import Welcome from "../pages/welcome"
 
-const routes = {
-  '/dashboard': () => {
-    const layout = document.createElement('wc-layout');
-    return layout;
+const Router = {
+  init: () => {
+    console.log("Router running");
+    Router.handleRouter();
+    window.addEventListener("popstate", Router.handleLocation);
+
+    const header = document.querySelector("wc-header");
+    const login = header.shadowRoot.querySelector("[data-icon=login]");
+    if (login) {
+      login.addEventListener("click", () => {
+        Router.nav("/dashboard");
+      });
+    }
   },
-  '/': () => {
-    const home = document.createElement('div');
-    home.innerHTML = `<h1>Welcome Home</h1>`;
-    return home;
-  }
+
+  nav: (route, addToHistory = true) => {
+    console.log(route);
+
+    if (addToHistory) {
+      history.pushState({ route }, null, route);
+    }
+
+    Router.handleRouter();
+  },
+
+  handleRouter: () => {
+    const path = window.location.pathname;
+
+    if (path === "/dashboard") {
+      document.body.innerHTML = "";
+
+      const layout = document.createElement("wc-layout");
+      document.body.appendChild(layout);
+
+      const content = layout.shadowRoot.querySelector("#content");
+      content.innerHTML = "";
+
+      const welcome = document.createElement("wc-welcome");
+      content.appendChild(welcome);
+    }
+  },
 };
 
-function router() {
-  const path = window.location.pathname;
-  const route = routes[path];
-
-  document.body.innerHTML = "";
-
-  if (route) {
-    const component = route();
-    document.body.appendChild(component);
-  } else {
-    document.body.innerHTML = "<h1>404 - Not Found</h1>";
-  }
-}
-
-function navigateTo(url) {
-  history.pushState(null, null, url);
-  router();
-}
-
-function init() {
-  router();
-  window.addEventListener('popstate', router);
-}
-
-export default {
-  init,
-  navigateTo
-};
+export default Router;

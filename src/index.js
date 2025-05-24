@@ -8,14 +8,6 @@ logout.style.display = "none";
 const menu = header.shadowRoot.querySelector("[data-icon=menu]");
 menu.style.display = "none";
 
-const login = header.shadowRoot.querySelector("[data-icon=login]");
-login.addEventListener("click", () => {
-  document.body.innerHTML = "";
-
-  const layout = document.createElement("wc-layout");
-  document.body.appendChild(layout);
-});
-
 const phrases = document.querySelector("#home-phrases-display");
 
 const ul = document.createElement("ul");

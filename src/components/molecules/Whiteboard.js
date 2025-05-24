@@ -1,12 +1,13 @@
+import cssImportsPath from "/src/css/imports.css?inline";
+
 class Whiteboard extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    const imports = document.createElement("link");
-    imports.rel = "stylesheet";
-    imports.href = "/css/imports.css";
-    this.shadowRoot.appendChild(imports);
+    const cssImports = document.createElement("style");
+    cssImports.textContent = cssImportsPath;
+    this.shadowRoot.appendChild(cssImports);
 
     const style = document.createElement("style"); /*css*/
     style.textContent = `

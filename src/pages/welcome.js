@@ -1,12 +1,13 @@
+import cssImportsPath from "/src/css/imports.css?inline";
+
 class Welcome extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    const imports = document.createElement("link");
-    imports.rel = "stylesheet";
-    imports.href = "/css/imports.css";
-    this.shadowRoot.appendChild(imports);
+    const cssImports = document.createElement("style");
+    cssImports.textContent = cssImportsPath;
+    this.shadowRoot.appendChild(cssImports);
 
     const style = document.createElement("style"); /*css*/
     style.textContent = `
@@ -41,8 +42,8 @@ class Welcome extends HTMLElement {
     const board = document.createElement("wc-whiteboard");
     board.items = {
       title: "Dashboard",
-    }
-    this.shadowRoot.appendChild(board)
+    };
+    this.shadowRoot.appendChild(board);
 
     const container = document.createElement("div");
     container.classList.add("line-break");
@@ -69,31 +70,31 @@ class Welcome extends HTMLElement {
 
     const emojis = [
       {
-        img: "/assets/img/gif/emoji/good.gif",
+        img: "/src/assets/images/gifs/emoji/good.gif",
         word: "good",
       },
       {
-        img: "/assets/img/gif/emoji/happy.gif",
+        img: "/src/assets/images/gifs/emoji/happy.gif",
         word: "happy",
       },
       {
-        img: "/assets/img/gif/emoji/sad.gif",
+        img: "/src/assets/images/gifs/emoji/sad.gif",
         word: "sad",
       },
       {
-        img: "/assets/img/gif/emoji/angry.gif",
+        img: "/src/assets/images/gifs/emoji/angry.gif",
         word: "angry",
       },
       {
-        img: "/assets/img/gif/emoji/annoyed.gif",
+        img: "/src/assets/images/gifs/emoji/annoyed.gif",
         word: "annoyed",
       },
       {
-        img: "/assets/img/gif/emoji/calm.gif",
+        img: "/src/assets/images/gifs/emoji/calm.gif",
         word: "calm",
       },
       {
-        img: "/assets/img/gif/emoji/crazy.gif",
+        img: "/src/assets/images/gifs/emoji/crazy.gif",
         word: "crazy",
       },
       {
@@ -173,3 +174,5 @@ class Welcome extends HTMLElement {
 }
 
 export default Welcome;
+
+customElements.define("wc-welcome", Welcome);
