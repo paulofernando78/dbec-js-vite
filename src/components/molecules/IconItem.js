@@ -17,6 +17,7 @@ class IconItem extends HTMLElement {
   `;
 
     const svg = this.getAttribute("svg");
+    // const width = this.getAttribute("width") || "24";
     const link = this.getAttribute("link") || "";
     const item = this.getAttribute("item") || "";
 
@@ -30,6 +31,11 @@ class IconItem extends HTMLElement {
 
     const clone = template.content.cloneNode(true);
     clone.querySelector("span.icon").innerHTML = svg;
+
+    // const svgElement = clone.querySelector("span.icon svg");
+    // if (svgElement) {
+    //   svgElement.setAttribute("width", width);
+    // }
 
     this.shadowRoot.appendChild(css);
     this.shadowRoot.appendChild(clone);

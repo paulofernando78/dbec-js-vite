@@ -51,7 +51,7 @@ class NavBar extends HTMLElement {
     template.innerHTML = `
       <nav>
         <ul>
-          <li><wc-icon-item svg='${book}' link="#" item="Placement Test"></wc-icon-item></li>
+          <li><wc-icon-item svg='${book}' width="30" link="#" item="Placement Test"></wc-icon-item></li>
           <li class="section-title">COURSES</li>
           <li><wc-icon-item svg='${beginner}' link="#" item="Beginner (A1)"></wc-icon-item></li>
           <li><wc-icon-item svg='${elementary}' link="#" item="Elementary (A1-A2)"></wc-icon-item></a></li>
