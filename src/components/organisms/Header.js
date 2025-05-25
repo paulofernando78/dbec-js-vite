@@ -32,6 +32,7 @@ class Header extends HTMLElement {
         position: relative;
         top: 2px;
         right: 2px;
+        margin-left: 4px
       }
 
       @media (min-width: 768px) {
@@ -60,6 +61,13 @@ class Header extends HTMLElement {
     `;
 
     this.shadowRoot.appendChild(template.content.cloneNode(true));
+  }
+
+  connectedCallback() {
+    const login = this.shadowRoot.querySelector("[data-icon=login]");
+    if (login && window.location.pathname === "/dashboard") {
+      login.style.display = "none"
+    }
   }
 }
 

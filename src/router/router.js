@@ -1,4 +1,4 @@
-import Welcome from "../pages/welcome"
+import Welcome from "@components/organisms/welcome";
 
 const Router = {
   init: () => {
@@ -13,9 +13,6 @@ const Router = {
         Router.nav("/dashboard");
       });
     }
-
-    header.shadowRoot.querySelector("[data-icon=logout]");
-    header.style.display = "none"
   },
 
   nav: (route, addToHistory = true) => {
