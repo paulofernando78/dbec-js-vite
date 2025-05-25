@@ -4,7 +4,7 @@ import {
   menu,
   darkMode,
   lightMode,
-} from "../../assets/images/svg-imports";
+} from "@images/svg-imports";
 
 const svgIcons = {
   login: login,

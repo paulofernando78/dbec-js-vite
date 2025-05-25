@@ -1,5 +1,20 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
+import {
+  book,
+  beginner,
+  elementary,
+  preIntermediate,
+  Intermediate,
+  audiobook,
+  grammar,
+  vocabulary,
+  pronunciation,
+  songs,
+  travel,
+  business,
+} from "@images/svg-imports";
+
 class NavBar extends HTMLElement {
   constructor() {
     super();
@@ -19,7 +34,7 @@ class NavBar extends HTMLElement {
         height: 100dvh
       }
 
-      h1 {
+      .section-title {
         font-size: 1.1rem;
         margin-top: 20px
       }
@@ -36,20 +51,20 @@ class NavBar extends HTMLElement {
     template.innerHTML = `
       <nav>
         <ul>
-          <li><a href="">Placement Test</a></li>
-          <h1>COURSES</h1>
-          <li><a href="/beginner">Beginner (A1)</a></li>
-          <li><a href="/elementary">Elementary (A1-A2)</a></li>
-          <li><a href="/pre-intermediate">Pre-Intermediate (A2)</a></li>
-          <li><a href="/intermediate">Intermediate (B1)</a></li>
-          <h1>EXTRAS</h1>
-          <li><a href="/audiobooks">Audiobooks</a></li>
-          <li><a href="/grammar">Grammar</a></li>
-          <li><a href="/pronunciation">Pronunciation</a></li>
-          <li><a href="/songs">Songs</a></li>
-          <h1>SPECIFIC PURPOSES</h1>
-          <li><a href="/travel">Travel</a></li>
-          <li><a href="/business">Business</a></li>
+          <li><wc-icon-item svg='${book}' link="#" item="Placement Test"></wc-icon-item></li>
+          <li class="section-title">COURSES</li>
+          <li><wc-icon-item svg='${beginner}' link="#" item="Beginner (A1)"></wc-icon-item></li>
+          <li><wc-icon-item svg='${elementary}' link="#" item="Elementary (A1-A2)"></wc-icon-item></a></li>
+          <li><wc-icon-item svg='${preIntermediate}' link="#" item="Pre-Intermediate (A2)"></wc-icon-item></a></li>
+          <li><wc-icon-item svg='${Intermediate}' link="#" item="Intermediate (B1)"></wc-icon-item></a></li>
+          <li class="section-title">EXTRAS</li>
+          <li><wc-icon-item svg='${audiobook}' link="#" item="Audiobooks"></wc-icon-item></li>
+          <li><wc-icon-item svg='${grammar}' link="#" item="Grammar"></wc-icon-item></li>
+          <li><wc-icon-item svg='${pronunciation}' link="#" item="Pronunciation"></wc-icon-item></li>
+          <li><wc-icon-item svg='${songs}' link="#" item="Songs"></wc-icon-item></li>
+          <li class="section-title">SPECIFIC PURPOSES</li>
+          <li><wc-icon-item svg='${travel}' link="#" item="Travel"></wc-icon-item></li>
+          <li><wc-icon-item svg='${business}' link="#" item="Business"></wc-icon-item></li>
         </ul>
       </nav>
     `;

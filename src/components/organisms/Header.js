@@ -41,14 +41,12 @@ class Header extends HTMLElement {
         }
       }
     `;
-
     this.shadowRoot.appendChild(style);
 
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
       <header>
         <div>
-          
         <wc-button data-icon="menu" class="left-button" id="menu-button"></wc-button>
         </div>
         <span id="logo-name">DAILY BASIS ENGLISH COURSE</span>
@@ -65,8 +63,26 @@ class Header extends HTMLElement {
 
   connectedCallback() {
     const login = this.shadowRoot.querySelector("[data-icon=login]");
-    if (login && window.location.pathname === "/dashboard") {
-      login.style.display = "none"
+    if (login) {
+      login.addEventListener("click", () => {
+        const navigateEvent = new CustomEvent("navigate", {
+          detail: "/dashboard",
+        });
+        this.dispatchEvent(navigateEvent);
+      });
+      if (login && window.location.pathname === "/dashboard") {
+        login.style.display = "none";
+      }
+    }
+
+    const logout = this.shadowRoot.querySelector("[data-icon=logout]");
+    if (logout) {
+      logout.addEventListener("click", () => {
+        const navigateEvent = new CustomEvent("navigate", {
+          detail: "/",
+        });
+        this.dispatchEvent(navigateEvent);
+      });
     }
   }
 }
