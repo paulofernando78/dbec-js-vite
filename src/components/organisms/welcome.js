@@ -36,10 +36,6 @@ class Welcome extends HTMLElement {
 
     const style = document.createElement("style"); /*css*/
     style.textContent = `
-      p {
-          font-weight: bold;
-      }
-
       .gifs-container {
         display: grid;
         grid-template-columns: repeat(auto-fit, 120px);
