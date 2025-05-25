@@ -41,6 +41,8 @@ class Header extends HTMLElement {
       }
     `;
 
+    this.shadowRoot.appendChild(style);
+
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
       <header>
@@ -48,7 +50,7 @@ class Header extends HTMLElement {
           
         <wc-button data-icon="menu" class="left-button" id="menu-button"></wc-button>
         </div>
-        <span>DAILY BASIS ENGLISH COURSE</span>
+        <span id="logo-name">DAILY BASIS ENGLISH COURSE</span>
         <div>
           <wc-button data-icon="darkMode" class="right-button"></wc-button>
           <wc-button data-icon="login" class="right-button"></wc-button>
@@ -57,7 +59,6 @@ class Header extends HTMLElement {
       </header>
     `;
 
-    this.shadowRoot.appendChild(style);
     this.shadowRoot.appendChild(template.content.cloneNode(true));
   }
 }

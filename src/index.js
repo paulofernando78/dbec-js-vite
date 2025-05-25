@@ -8,6 +8,9 @@ logout.style.display = "none";
 const menu = header.shadowRoot.querySelector("[data-icon=menu]");
 menu.style.display = "none";
 
+const logoName = header.shadowRoot.querySelector("#logo-name");
+logoName.style.display = "none";
+
 const phrases = document.querySelector("#home-phrases-display");
 
 const ul = document.createElement("ul");

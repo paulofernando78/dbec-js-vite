@@ -1,5 +1,30 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
+import {
+  GifGood,
+  GifHappy,
+  GifSad,
+  GifAngry,
+  GifAnnoyed,
+  GifCalm,
+  GifCrazy,
+  GifTired,
+  GifAnxious,
+  GifBored,
+  GifSilly,
+  GifScared,
+  GifThoughtful,
+  GifFrustrated,
+  GifDisappointed,
+  GifEmbarrassed,
+  GifSleepy,
+  GifPeaceful,
+  GifSick,
+  GifThankful,
+  GifIDK,
+
+} from "@images/image-imports";
+
 class Welcome extends HTMLElement {
   constructor() {
     super();
@@ -70,87 +95,87 @@ class Welcome extends HTMLElement {
 
     const emojis = [
       {
-        img: "/src/assets/images/gifs/emoji/good.gif",
+        img: GifGood,
         word: "good",
       },
       {
-        img: "/src/assets/images/gifs/emoji/happy.gif",
+        img: GifHappy,
         word: "happy",
       },
       {
-        img: "/src/assets/images/gifs/emoji/sad.gif",
+        img: GifSad,
         word: "sad",
       },
       {
-        img: "/src/assets/images/gifs/emoji/angry.gif",
+        img: GifAngry,
         word: "angry",
       },
       {
-        img: "/src/assets/images/gifs/emoji/annoyed.gif",
+        img: GifAnnoyed,
         word: "annoyed",
       },
       {
-        img: "/src/assets/images/gifs/emoji/calm.gif",
+        img: GifCalm,
         word: "calm",
       },
       {
-        img: "/src/assets/images/gifs/emoji/crazy.gif",
+        img: GifCrazy,
         word: "crazy",
       },
       {
-        img: "/src/assets/images/gifs/emoji/tired.gif",
+        img: GifTired,
         word: "tired",
       },
       {
-        img: "/src/assets/images/gifs/emoji/anxious.gif",
+        img: GifAnxious,
         word: "anxious",
       },
       {
-        img: "/src/assets/images/gifs/emoji/bored.gif",
+        img: GifBored,
         word: "bored",
       },
       {
-        img: "/src/assets/images/gifs/emoji/silly.gif",
+        img: GifSilly,
         word: "silly",
       },
       {
-        img: "/src/assets/images/gifs/emoji/scared.gif",
+        img: GifScared,
         word: "scared",
       },
       {
-        img: "/src/assets/images/gifs/emoji/thoughtful.gif",
+        img: GifThoughtful,
         word: "thoughtful",
       },
       {
-        img: "/src/assets/images/gifs/emoji/frustrated.gif",
+        img: GifFrustrated,
         word: "frustrated",
       },
       {
-        img: "/src/assets/images/gifs/emoji/disappointed.gif",
+        img: GifDisappointed,
         word: "disappointed",
       },
       {
-        img: "/src/assets/images/gifs/emoji/embarrassed.gif",
+        img: GifEmbarrassed,
         word: "embarrassed",
       },
       {
-        img: "/src/assets/images/gifs/emoji/sleepy.gif",
+        img: GifSleepy,
         word: "sleepy",
       },
       {
-        img: "/src/assets/images/gifs/emoji/peaceful.gif",
+        img: GifPeaceful,
         word: "peaceful",
       },
       {
-        img: "/src/assets/images/gifs/emoji/thankful.gif",
-        word: "thankful",
-      },
-      {
-        img: "/src/assets/images/gifs/emoji/sick.gif",
+        img: GifSick,
         word: "sick",
       },
       {
-        img: "/src/assets/images/gifs/emoji/i-dont-know.gif",
+        img: GifThankful,
+        word: "thankful",
+      },
+      {
+        img: GifIDK,
         word: "I don't know",
       },
     ];

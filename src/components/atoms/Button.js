@@ -4,7 +4,7 @@ import {
   menu,
   darkMode,
   lightMode,
-} from "../../assets/images/svg-icons";
+} from "../../assets/images/svg-imports";
 
 const svgIcons = {
   login: login,
@@ -52,10 +52,6 @@ class Button extends HTMLElement {
     this.button = document.createElement("button");
     
     this.shadowRoot.appendChild(this.button);
-  }
-
-  createdButton(icon) {
-    
   }
 
   connectedCallback() {

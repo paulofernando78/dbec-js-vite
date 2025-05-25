@@ -13,6 +13,9 @@ const Router = {
         Router.nav("/dashboard");
       });
     }
+
+    header.shadowRoot.querySelector("[data-icon=logout]");
+    header.style.display = "none"
   },
 
   nav: (route, addToHistory = true) => {
