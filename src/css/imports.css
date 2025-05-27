@@ -5,7 +5,6 @@
 
 /* Theme */
 @import "/src/css/theme/colors.css";
-@import "/src/css/theme/dark-mode.css";
 
 /* Ultilities */
 @import "/src/css/ultilities/borders.css";

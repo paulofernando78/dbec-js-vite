@@ -1,6 +1,18 @@
 @import "/src/css/index.css";
 @import "/src/css/imports.css";
 
+:root {
+  --background-color: #e0e0e0;
+  --text-color: #000000;
+  --button__color: #e0e0e0;
+
+  /* Neumorphism */
+  --neumorphism: -2px -2px 3px rgba(255, 255, 255, 1),
+    3px 3px 6px rgba(0, 0, 0, 0.15);
+  --neumorphism-active: inset -3px -3px 6px rgba(255, 255, 255, 1),
+    inset 3px 3px 6px rgba(0, 0, 0, 0.15);
+}
+
 body {
   background-color: var(--background-color);
   color: var(--text-color);
@@ -8,8 +20,19 @@ body {
   margin: 0 auto;
   font-family: "Montserrat", sans-serif;
   font-display: swap;
+  transition: background-color 1s, color 1s;
   /* user-select: none; */
   /* scrollbar-gutter: stable */
+}
+
+body.dark {
+  --background-color: #18191f;
+  --text-color: #ffffff;
+  --button__color: #18191f;
+
+   /* Neumorphism */
+  --neumorphism: 2px 2px 1px #000000, -1px -1px 1px #2c2c2c;
+  --neumorphism-active: -0.5px -0.5px 1px #000000, 1px 1px 1px #2c2c2c;
 }
 
 html {

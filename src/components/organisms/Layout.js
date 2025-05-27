@@ -9,8 +9,8 @@ class Layout extends HTMLElement {
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
-    const css = document.createElement("style"); /*css*/
-    css.textContent = `
+    const style = document.createElement("style"); /*css*/
+    style.textContent = `
       .layout {
         display: flex;
         gap: 10px
@@ -44,7 +44,7 @@ class Layout extends HTMLElement {
       </div>
     `;
 
-    this.shadowRoot.appendChild(css);
+    this.shadowRoot.appendChild(style);
     this.shadowRoot.appendChild(template.content.cloneNode(true));
   }
 }

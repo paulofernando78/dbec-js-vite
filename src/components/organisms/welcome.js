@@ -34,8 +34,8 @@ class Welcome extends HTMLElement {
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
-    const style = document.createElement("style"); /*css*/
-    style.textContent = `
+    const css = document.createElement("style"); /*css*/
+    css.textContent = `
       .gifs-container {
         display: grid;
         grid-template-columns: repeat(auto-fit, 120px);
@@ -58,7 +58,7 @@ class Welcome extends HTMLElement {
         width: 60px
       }
     `;
-    this.shadowRoot.appendChild(style);
+    this.shadowRoot.appendChild(css);
 
     const board = document.createElement("wc-whiteboard");
     board.items = {

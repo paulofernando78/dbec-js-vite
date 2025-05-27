@@ -3,8 +3,8 @@ class Header extends HTMLElement {
     super();
     this.attachShadow({ mode: "open" });
 
-    const style = document.createElement("style"); /*css*/
-    style.textContent = `
+    const css = document.createElement("style"); /*css*/
+    css.textContent = `
       header {
         margin-bottom: .625rem;
         padding: var(--padding);
@@ -41,7 +41,7 @@ class Header extends HTMLElement {
         }
       }
     `;
-    this.shadowRoot.appendChild(style);
+    this.shadowRoot.appendChild(css);
 
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
@@ -62,6 +62,13 @@ class Header extends HTMLElement {
   }
 
   connectedCallback() {
+    const darkMode = this.shadowRoot.querySelector("[data-icon=darkMode]");
+    if (darkMode) {
+      darkMode.addEventListener("click", () => {
+        document.body.classList.toggle("dark")
+      });
+    }
+
     const login = this.shadowRoot.querySelector("[data-icon=login]");
     if (login) {
       login.addEventListener("click", () => {
