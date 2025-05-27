@@ -65,13 +65,14 @@ class Header extends HTMLElement {
     const darkMode = this.shadowRoot.querySelector("[data-icon=darkMode]");
     if (darkMode) {
       darkMode.addEventListener("click", () => {
-        document.body.classList.toggle("dark")
+        document.body.classList.toggle("dark");
       });
     }
 
     const login = this.shadowRoot.querySelector("[data-icon=login]");
     if (login) {
       login.addEventListener("click", () => {
+        console.log(login);
         const navigateEvent = new CustomEvent("navigate", {
           detail: "/dashboard",
         });
@@ -85,10 +86,8 @@ class Header extends HTMLElement {
     const logout = this.shadowRoot.querySelector("[data-icon=logout]");
     if (logout) {
       logout.addEventListener("click", () => {
-        const navigateEvent = new CustomEvent("navigate", {
-          detail: "/",
-        });
-        this.dispatchEvent(navigateEvent);
+        console.log(logout);
+        window.location.href = "/";
       });
     }
   }

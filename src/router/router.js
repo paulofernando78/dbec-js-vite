@@ -18,6 +18,8 @@ const Router = {
   handleRouter: () => {
     const path = window.location.pathname;
 
+    
+
     if (path === "/dashboard") {
       document.body.innerHTML = "";
       const layout = document.createElement("wc-layout");
