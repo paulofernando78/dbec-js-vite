@@ -5,7 +5,16 @@
   gap: 30px;
 
   div img {
-    width: 200px
+    width: 200px;
   }
 }
 
+.info-container {
+  margin-bottom: 60px;
+}
+
+.contact-container {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
