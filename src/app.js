@@ -10,6 +10,8 @@ window.addEventListener("DOMContentLoaded", () => {
 
 // Listening to <wc-header>
 const header = document.querySelector("wc-header");
-header.addEventListener("navigate", (e) => {
-  Router.nav(e.detail);
-});
+if (header) {
+  header.addEventListener("navigate", (e) => {
+    Router.nav(e.detail);
+  });
+}
