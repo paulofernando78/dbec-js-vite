@@ -5,6 +5,8 @@ import Footer from "./organisms/Footer";
 
 import Button from "./atoms/Button";
 import IconItem from "./molecules/IconItem"
+import Whiteboard from "./molecules/Whiteboard";
+import Welcome from "./organisms/welcome";
 
 customElements.define("wc-header", Header);
 customElements.define("wc-navbar", NavBar)
@@ -13,3 +15,5 @@ customElements.define("wc-footer", Footer);
 
 customElements.define("wc-button", Button);
 customElements.define("wc-icon-item", IconItem);
+customElements.define("wc-whiteboard", Whiteboard);
+customElements.define("wc-welcome", Welcome);

@@ -8,6 +8,7 @@ window.addEventListener("DOMContentLoaded", () => {
   app.router.init(); // Initialize the router
 });
 
+// Listening to <wc-header>
 const header = document.querySelector("wc-header");
 header.addEventListener("navigate", (e) => {
   Router.nav(e.detail);

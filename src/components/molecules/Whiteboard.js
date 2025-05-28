@@ -32,11 +32,26 @@ class Whiteboard extends HTMLElement {
     this.shadowRoot.appendChild(this.container);
   }
 
+  connectedCallback() {
+    this.render();
+  }
+
   set items(data) {
     this.render(data);
   }
 
   render(data) {
+    if (!data) {
+      data = {
+        title: this.getAttribute("title") || "",
+        subtitle: this.getAttribute("subtitle") || "",
+        description: this.getAttribute("description") || "",
+        time: this.getAttribute("time") || "",
+        americanEnglish: this.getAttribute("american-english") || "",
+        britishEnglish: this.getAttribute("british-english") || "",
+      };
+    }
+
     const title = document.createElement("h1");
     title.textContent = data.title;
     this.container.appendChild(title);

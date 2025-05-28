@@ -60,6 +60,7 @@ class Welcome extends HTMLElement {
     `;
     this.shadowRoot.appendChild(css);
 
+    // Whiteboard
     const board = document.createElement("wc-whiteboard");
     board.items = {
       title: "Dashboard",
@@ -75,7 +76,7 @@ class Welcome extends HTMLElement {
         item: "Welcome to the Daily Basis English Course. Here you'll find a lot of interesting materials. Use it wisely.",
       },
       {
-        item: "How are you feeling today? I'm / I'm feeling...",
+        item: "How are you feeling today? I'm... / I'm feeling...",
       },
     ];
 
@@ -196,4 +197,3 @@ class Welcome extends HTMLElement {
 
 export default Welcome;
 
-customElements.define("wc-welcome", Welcome);

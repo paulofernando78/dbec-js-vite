@@ -3,8 +3,8 @@ import Welcome from "@components/organisms/welcome";
 const Router = {
   init: () => {
     console.log("Router running");
-    Router.handleRouter();
-    window.addEventListener("popstate", Router.handleRouter);
+    Router.handleLocation();
+    window.addEventListener("popstate", Router.handleLocation);
   },
 
   nav: (route, addToHistory = true) => {
@@ -12,13 +12,11 @@ const Router = {
     if (addToHistory) {
       history.pushState({ route }, null, route);
     }
-    Router.handleRouter();
+    Router.handleLocation();
   },
 
-  handleRouter: () => {
+  handleLocation: () => {
     const path = window.location.pathname;
-
-    
 
     if (path === "/dashboard") {
       document.body.innerHTML = "";
