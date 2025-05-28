@@ -66,6 +66,9 @@ class Header extends HTMLElement {
     if (darkMode) {
       darkMode.addEventListener("click", () => {
         document.body.classList.toggle("dark");
+
+        const isDark = document.body.classList.contains("dark");
+        darkMode.setIcon(isDark ? "lightMode" : "darkMode")
       });
     }
 

@@ -1,10 +1,4 @@
-import {
-  login,
-  logout,
-  menu,
-  darkMode,
-  lightMode,
-} from "@images/svg-imports";
+import { login, logout, menu, darkMode, lightMode } from "@images/svg-imports";
 
 const svgIcons = {
   login: login,
@@ -50,7 +44,6 @@ class Button extends HTMLElement {
 
     // Button
     this.button = document.createElement("button");
-    
     this.shadowRoot.appendChild(this.button);
   }
 
@@ -90,6 +83,14 @@ class Button extends HTMLElement {
     this.button.addEventListener("touchend", () => {
       this.button.classList.remove("active");
     });
+  }
+
+  setIcon(iconName) {
+    if (!svgIcons[iconName]) {
+      throw new Error(`Unknown icon: $(iconName)`);
+    }
+    this.button.innerHTML = svgIcons[iconName];
+    this.setAttribute("data-icon", iconName);
   }
 }
 
