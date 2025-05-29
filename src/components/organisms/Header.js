@@ -6,6 +6,7 @@ class Header extends HTMLElement {
     const css = document.createElement("style"); /*css*/
     css.textContent = `
       header {
+        height: auto;
         margin-bottom: .625rem;
         padding: var(--padding);
         border: var(--border);
