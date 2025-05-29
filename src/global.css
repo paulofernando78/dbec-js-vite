@@ -30,7 +30,7 @@ body.dark {
   --text-color: #ffffff;
   --button__color: #18191f;
 
-   /* Neumorphism */
+  /* Neumorphism */
   --neumorphism: 2px 2px 1px #000000, -1px -1px 1px #2c2c2c;
   --neumorphism-active: -0.5px -0.5px 1px #000000, 1px 1px 1px #2c2c2c;
 }
@@ -41,4 +41,8 @@ html {
 
 hr {
   border-color: rgba(255, 255, 255, 0.5);
+}
+
+wc-header {
+  display: block;
 }
