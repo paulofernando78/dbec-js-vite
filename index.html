@@ -17,15 +17,18 @@
   <body>
     <div id="app">
       <div class="line-break">
-        <wc-header></wc-header>
+        <div class="header">
+          <wc-header></wc-header>
+        </div>
         <!-- Presentation -->
         <section>
           <div class="container-presentation">
-            <img
-              src="/src/assets/images/presentation/logo-name.svg"
-              alt="Logo name"
-              class="logo-name"
-            />
+            <div class="logo-name">
+              <img
+                src="/src/assets/images/presentation/logo-name.svg"
+                alt="Logo name"
+              />
+            </div>
             <div class="greetings" id="home-phrases-display"></div>
             <img
               src="/src/assets/images/presentation/avatar.avif"
@@ -164,13 +167,10 @@
                 </svg>
               </a>
             </li>
-            
+
             <!-- youtube -->
             <li class="icon-alighment">
-              <a
-              href="#"
-              target="_blank"
-              >
+              <a href="#" target="_blank">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   x="0px"

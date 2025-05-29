@@ -1,3 +1,7 @@
+.header {
+  height: 57.5px;
+}
+
 .container-presentation {
   display: flex;
   align-items: center;
@@ -16,6 +20,7 @@
 
 .avatar {
   width: 230px;
+  height: 230px;
   margin-bottom: 20px;
   filter: drop-shadow(0 0 5px gray);
 }
