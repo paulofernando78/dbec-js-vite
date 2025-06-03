@@ -1,4 +1,4 @@
-class contents extends HTMLElement {
+class Contents extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -13,12 +13,16 @@ class contents extends HTMLElement {
       }  
     `;
     
+    this.shadowRoot.appendChild(css);
+
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
-    <div class="ribbon">${ribbon}</div>
+      <wc-whiteboard title="Contents"></wc-whiteboard>
+      <div class="ribbon">Ribbon</div>
     `;
-    
-    this.shadowRoot.appendChild(css);
+
     this.shadowRoot.appendChild(template.content.clodeNode(true));
   }
 }
+
+export default Contents;

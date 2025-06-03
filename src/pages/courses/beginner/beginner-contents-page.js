@@ -1,6 +1,6 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-class SBELAAContents extends HTMLElement {
+class BeginnerContentsPage extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -9,25 +9,18 @@ class SBELAAContents extends HTMLElement {
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
-    /*css*/
     const css = document.createElement("style");
-    css.textContent = `
-			p {
-				color: green;
-			}
-		`;
+    this.style.textContent = `
 
-    /*html*/
-    const template = document.createElement("template");
+    `;
+
+    const template = document.createElement("template"); /*html*/
     template.innerHTML = `
-      <wc-whiteboard></wc-whiteboard>
-			<wc-icon-item><wc-icon-item>
-      <p>Test</p>
-		`;
+      <p>Beginner contents</p>
+    `;
 
-    this.shadowRoot.appendChild(css);
     this.shadowRoot.appendChild(template.content.cloneNode(true));
   }
 }
 
-export default SBELAAContents;
+export default BeginnerContentsPage;
