@@ -1,27 +1,30 @@
+import cssImportsPath from "/src/css/imports.css?inline";
+
 class Contents extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    const css = document.createLElement("style"); /*css*/
-    css.textContent = `
-      .ribbon {
-        border: 1px solid #000;
-        border-radius: 5px;
-        padding: 10px;
-        background-color: #f0f0f0;
-      }  
-    `;
+    const cssImports = document.createElement("style");
+    cssImports.textContent = cssImportsPath;
+    this.shadowRoot.appendChild(cssImports);
+  }
+
+  set data(content) {
+    this.render(content);
+  }
+
+  render(content) {
     
-    this.shadowRoot.appendChild(css);
+    // Whiteboard
+    const whiteboard = document.createElement("wc-whiteboard");
+    whiteboard.data = content.whiteboard;
+    this.shadowRoot.appendChild(whiteboard);
 
-    const template = document.createElement("template"); /*html*/
-    template.innerHTML = `
-      <wc-whiteboard title="Contents"></wc-whiteboard>
-      <div class="ribbon">Ribbon</div>
-    `;
-
-    this.shadowRoot.appendChild(template.content.clodeNode(true));
+    // Ribbon
+    const ribbon = document.createElement("wc-ribbon");
+    ribbon.data = content.ribbon;
+    this.shadowRoot.appendChild(ribbon);
   }
 }
 

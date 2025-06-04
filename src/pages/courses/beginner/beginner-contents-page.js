@@ -9,17 +9,13 @@ class BeginnerContentsPage extends HTMLElement {
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
-    const css = document.createElement("style");
-    this.style.textContent = `
-
-    `;
-
-    const template = document.createElement("template"); /*html*/
-    template.innerHTML = `
-      <p>Beginner contents</p>
-    `;
-
-    this.shadowRoot.appendChild(template.content.cloneNode(true));
+    fetch("/data/courses/beginner/contents.json")
+      .then((res) => res.json())
+      .then((data) => {
+        const contents = document.createElement("wc-contents");
+        contents.data = data;
+        this.shadowRoot.appendChild(contents)
+      });
   }
 }
 

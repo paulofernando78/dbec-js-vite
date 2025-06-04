@@ -61,11 +61,11 @@ class Welcome extends HTMLElement {
     this.shadowRoot.appendChild(css);
 
     // Whiteboard
-    const board = document.createElement("wc-whiteboard");
-    board.items = {
+    const whiteboard = document.createElement("wc-whiteboard");
+    whiteboard.data = {
       title: "Dashboard",
     };
-    this.shadowRoot.appendChild(board);
+    this.shadowRoot.appendChild(whiteboard);
 
     const container = document.createElement("div");
     container.classList.add("line-break");

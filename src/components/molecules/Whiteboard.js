@@ -12,7 +12,7 @@ class Whiteboard extends HTMLElement {
     const style = document.createElement("style"); /*css*/
     style.textContent = `
       div {
-        padding: 10px;
+        padding: var(--padding);
         border: 8px solid gray;
         border-radius: 5px;
         background-image: url("/assets/img/whiteboard.png");
@@ -32,48 +32,35 @@ class Whiteboard extends HTMLElement {
     this.shadowRoot.appendChild(this.container);
   }
 
-  connectedCallback() {
-    this.render();
+  set data(whiteboard) {
+    this.render(whiteboard);
   }
 
-  set items(data) {
-    this.render(data);
-  }
-
-  render(data) {
-    if (!data) {
-      data = {
-        title: this.getAttribute("title") || "",
-        subtitle: this.getAttribute("subtitle") || "",
-        description: this.getAttribute("description") || "",
-        time: this.getAttribute("time") || "",
-        americanEnglish: this.getAttribute("american-english") || "",
-        britishEnglish: this.getAttribute("british-english") || "",
-      };
-    }
-
+  render(whiteboard) {
     const title = document.createElement("h1");
-    title.textContent = data.title;
+    title.textContent = whiteboard.title;
     this.container.appendChild(title);
 
     const subtitle = document.createElement("h2");
-    subtitle.textContent = data.subtitle;
+    subtitle.textContent = whiteboard.subtitle ?? "";
     this.container.appendChild(subtitle);
 
-    const description = document.createElement("p");
-    description.textContent = data.description;
-    this.container.appendChild(description);
+    whiteboard.description?.forEach(desc => {
+      const description = document.createElement("p");
+      description.textContent = desc;
+      this.container.appendChild(description);
+    })
 
     const time = document.createElement("span");
-    time.textContent = data.time;
+    time.textContent = whiteboard.time ?? "";
     this.container.appendChild(time);
 
     const americanEnglish = document.createElement("span");
-    americanEnglish.textContent = data.americanEnglish;
+    americanEnglish.textContent = whiteboard.americanEnglish ?? "";
     this.container.appendChild(americanEnglish);
 
     const britishEnglish = document.createElement("span");
-    britishEnglish.textContent = data.britishEnglish;
+    britishEnglish.textContent = whiteboard.britishEnglish ?? "";
     this.container.appendChild(britishEnglish);
   }
 }

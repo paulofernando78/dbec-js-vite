@@ -61,35 +61,35 @@ class NavBar extends HTMLElement {
           <wc-icon-item svg='${beginner}' link="/courses/beginner" item="Beginner (A1)"></wc-icon-item>
           </li>
           <li>
-          <wc-icon-item svg='${elementary}' link="/elementary" item="Elementary (A1-A2)"></wc-icon-item></a>
+          <wc-icon-item svg='${elementary}' link="/courses/elementary" item="Elementary (A1-A2)"></wc-icon-item></a>
           </li>
           <li>
-          <wc-icon-item svg='${preIntermediate}' link="/pre-intermediate" item="Pre-Intermediate (A2)"></wc-icon-item></a>
+          <wc-icon-item svg='${preIntermediate}' link="/courses/pre-intermediate" item="Pre-Intermediate (A2)"></wc-icon-item></a>
           </li>
           <li>
-          <wc-icon-item svg='${Intermediate}' link="/intermediate" item="Intermediate (B1)"></wc-icon-item></a>
+          <wc-icon-item svg='${Intermediate}' link="/courses/intermediate" item="Intermediate (B1)"></wc-icon-item></a>
           </li>
 
           <li class="section-title">EXTRAS</li>
           <li>
-          <wc-icon-item svg='${audiobook}' link="/audiobooks" item="Audiobooks"></wc-icon-item>
+          <wc-icon-item svg='${audiobook}' link="/courses/audiobooks" item="Audiobooks"></wc-icon-item>
           </li>
           <li>
-          <wc-icon-item svg='${grammar}' link="/grammar" item="Grammar"></wc-icon-item>
+          <wc-icon-item svg='${grammar}' link="/courses/grammar" item="Grammar"></wc-icon-item>
           </li>
           <li>
           <wc-icon-item svg='${pronunciation}' link="/pronunciation" item="Pronunciation"></wc-icon-item>
           </li>
           <li>
-          <wc-icon-item svg='${songs}' link="/songs" item="Songs"></wc-icon-item>
+          <wc-icon-item svg='${songs}' link="/courses/songs" item="Songs"></wc-icon-item>
           </li>
 
           <li class="section-title">SPECIFIC PURPOSES</li>
           <li>
-          <wc-icon-item svg='${travel}' link="/travel" item="Travel"></wc-icon-item>
+          <wc-icon-item svg='${travel}' link="/courses/travel" item="Travel"></wc-icon-item>
           </li>
           <li>
-          <wc-icon-item svg='${business}' link="/business" item="Business"></wc-icon-item>
+          <wc-icon-item svg='${business}' link="/courses/business" item="Business"></wc-icon-item>
           </li>
         </ul>
       </nav>
