@@ -53,7 +53,7 @@ class NavBar extends HTMLElement {
       <nav>
         <ul>
           <li>
-          <wc-icon-item svg='${book}' width="30" link="#" item="Placement Test"></wc-icon-item>
+          <wc-icon-item svg='${book}' link="/dashboard" item="Dashboard"></wc-icon-item>
           </li>
 
           <li class="section-title">COURSES</li>
@@ -113,6 +113,7 @@ class NavBar extends HTMLElement {
             composed: true,
           })
         );
+        this.classList.remove("open")
       }
     });
   }
