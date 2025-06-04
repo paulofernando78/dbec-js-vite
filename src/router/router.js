@@ -22,11 +22,11 @@ const Router = {
   handleLocation: () => {
     const path = window.location.pathname;
 
-    let layout = document.querySelector("wc-layout")
+    let layout = document.querySelector("wc-layout");
 
     if (!layout && path === "/dashboard") {
       document.body.innerHTML = "";
-      layout = document.createElement("wc-layout")
+      layout = document.createElement("wc-layout");
       document.body.appendChild(layout);
     }
 
@@ -38,7 +38,9 @@ const Router = {
         content.appendChild(document.createElement("wc-welcome"));
         break;
       case "/courses/beginner":
-        content.appendChild(document.createElement("wc-beginner-contents-page"));
+        content.appendChild(
+          document.createElement("wc-beginner-contents-page")
+        );
         break;
       default:
         content.innerHTML = `<h2>404 Page not found</h2>`;

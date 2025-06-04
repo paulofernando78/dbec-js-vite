@@ -7,8 +7,8 @@ customElements.whenDefined("wc-header").then(() => {
     const logout = header.shadowRoot.querySelector("[data-icon=logout]");
     logout.style.display = "none";
 
-    const menu = header.shadowRoot.querySelector("[data-icon=menu]");
-    menu.style.display = "none";
+    const menuBtn = header.shadowRoot.querySelector("[data-icon=menu]");
+    menuBtn.style.display = "none";
 
     const logoName = header.shadowRoot.querySelector("#logo-name");
     logoName.style.display = "none";

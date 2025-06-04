@@ -29,17 +29,23 @@ class Layout extends HTMLElement {
           flex-direction: column
         }
 
-        #navbar {
-          display: none
+        wc-navbar {
+          display: none;
+        }
+
+        wc-navbar.open {
+          display: block;
         }
       }
       `;
 
+
+      
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
       <wc-header></wc-header>
       <div class="layout">
-        <wc-navbar id="navbar"></wc-navbar>
+        <wc-navbar></wc-navbar>
         <div id="content"></div>
       </div>
     `;

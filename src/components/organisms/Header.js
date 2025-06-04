@@ -63,13 +63,27 @@ class Header extends HTMLElement {
   }
 
   connectedCallback() {
+    const menuBtn = this.shadowRoot.querySelector("#menu-button");
+
+    if (menuBtn) {
+      menuBtn.addEventListener("click", () => {
+        const layout = document.querySelector("wc-layout");
+        if (layout) {
+          const navBar = layout.shadowRoot.querySelector("wc-navbar");
+          if (navBar) {
+            navBar.classList.toggle("open")
+          }
+        }
+      });
+    }
+
     const darkMode = this.shadowRoot.querySelector("[data-icon=darkMode]");
     if (darkMode) {
       darkMode.addEventListener("click", () => {
         document.body.classList.toggle("dark");
 
         const isDark = document.body.classList.contains("dark");
-        darkMode.setIcon(isDark ? "lightMode" : "darkMode")
+        darkMode.setIcon(isDark ? "lightMode" : "darkMode");
       });
     }
 
