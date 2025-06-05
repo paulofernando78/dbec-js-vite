@@ -8,6 +8,13 @@ class Contents extends HTMLElement {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
+
+    const css = document.createElement("style"); /*css*/
+    css.textContent = `
+      
+    `
+    this.shadowRoot.appendChild(css)
+
   }
 
   set data(content) {
@@ -15,16 +22,25 @@ class Contents extends HTMLElement {
   }
 
   render(content) {
-    
+    const contentContainer = document.createElement("div");
+    contentContainer.classList.add("line-break")
+
     // Whiteboard
     const whiteboard = document.createElement("wc-whiteboard");
     whiteboard.data = content.whiteboard;
-    this.shadowRoot.appendChild(whiteboard);
+    contentContainer.appendChild(whiteboard)
 
     // Ribbon
     const ribbon = document.createElement("wc-ribbon");
     ribbon.data = content.ribbon;
-    this.shadowRoot.appendChild(ribbon);
+    contentContainer.appendChild(ribbon)
+
+    //Card
+    const card = document.createElement("wc-card");
+    card.data = content.card;
+    contentContainer.appendChild(card)
+
+    this.shadowRoot.appendChild(contentContainer)
   }
 }
 

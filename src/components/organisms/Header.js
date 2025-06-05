@@ -10,7 +10,8 @@ class Header extends HTMLElement {
         margin-bottom: .625rem;
         padding: var(--padding);
         border: var(--border);
-        border-radius: 5px;
+        border-radius: var(--border-radius);
+        box-shadow: var(--box-shadow);
         display: flex;
         justify-content: space-between;
         align-items: center;

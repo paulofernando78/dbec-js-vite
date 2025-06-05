@@ -1,6 +1,7 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
 import {
+  dashboard,
   book,
   beginner,
   elementary,
@@ -28,6 +29,7 @@ class NavBar extends HTMLElement {
       nav {
         border: var(--border);
         border-radius: var(--border-radius);
+        box-shadow: var(--box-shadow);
         padding: var(--padding);
         width: max-content;
         height: 100dvh
@@ -53,7 +55,7 @@ class NavBar extends HTMLElement {
       <nav>
         <ul>
           <li>
-          <wc-icon-item svg='${book}' link="/dashboard" item="Dashboard"></wc-icon-item>
+          <wc-icon-item svg='${dashboard}' link="/dashboard" item="Dashboard"></wc-icon-item>
           </li>
 
           <li class="section-title">COURSES</li>

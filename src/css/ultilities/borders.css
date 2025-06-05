@@ -1,6 +1,7 @@
 :root {
-  --border: 1px solid rgb(153, 153, 153);
+  --border: 1px solid rgb(203, 203, 203);
   --border-radius: 5px;
+  --box-shadow: 0 0 2px rgba(0, 0, 0, 0.342);
   --img-border: 5px solid rgba(211, 211, 211, 0.233);
   --img-border: 5px solid grey;
 }

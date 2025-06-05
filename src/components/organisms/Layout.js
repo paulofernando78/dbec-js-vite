@@ -16,10 +16,11 @@ class Layout extends HTMLElement {
         gap: 10px
       }
 
-      #content {
+      #app {
         padding: var(--padding);
         border: var(--border);
         border-radius: var(--border-radius);
+        box-shadow: var(--box-shadow);
         width: 100%;
         height: 100dvh
       }
@@ -46,7 +47,7 @@ class Layout extends HTMLElement {
       <wc-header></wc-header>
       <div class="layout">
         <wc-navbar></wc-navbar>
-        <div id="content"></div>
+        <div id="app"></div>
       </div>
     `;
 

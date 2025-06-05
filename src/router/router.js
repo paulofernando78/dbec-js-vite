@@ -23,14 +23,14 @@ const Router = {
     const path = window.location.pathname;
 
     let layout = document.querySelector("wc-layout");
-
-    if (!layout && path === "/dashboard") {
+    
+    if (!layout && path !== "/") {
       document.body.innerHTML = "";
       layout = document.createElement("wc-layout");
       document.body.appendChild(layout);
     }
 
-    const content = layout.shadowRoot.querySelector("#content");
+    const content = layout.shadowRoot.querySelector("#app");
     content.innerHTML = "";
 
     switch (path) {

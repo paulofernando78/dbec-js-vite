@@ -1,6 +1,7 @@
 // Atoms
 import Button from "./atoms/Button";
 import Ribbon from "./atoms/Ribbon"
+import Card from "./atoms/Card";
 
 
 // Molecules
@@ -45,6 +46,7 @@ import BeginnerContentsPage from "../pages/courses/beginner/beginner-contents-pa
 // Atoms
 customElements.define("wc-button", Button);
 customElements.define("wc-ribbon", Ribbon);
+customElements.define("wc-card", Card)
 
 // Molecules
 customElements.define("wc-icon-item", IconItem);

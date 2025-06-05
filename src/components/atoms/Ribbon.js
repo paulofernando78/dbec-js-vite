@@ -14,6 +14,7 @@ class Ribbon extends HTMLElement {
         font-weight: bold;
       }
     `;
+    
     this.shadowRoot.appendChild(css);
   }
 
@@ -24,6 +25,7 @@ class Ribbon extends HTMLElement {
   render(ribbon) {
     const div = document.createElement("div");
     div.textContent = ribbon.label;
+
     this.shadowRoot.appendChild(div);
   }
 }
