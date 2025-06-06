@@ -17,12 +17,8 @@ class Layout extends HTMLElement {
       }
 
       #app {
-        padding: var(--padding);
-        border: var(--border);
-        border-radius: var(--border-radius);
-        box-shadow: var(--box-shadow);
         width: 100%;
-        height: 100dvh
+        height: 100%
       }
 
       @media (max-width: 768px) {

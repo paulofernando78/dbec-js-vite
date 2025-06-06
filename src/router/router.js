@@ -43,7 +43,7 @@ const Router = {
         );
         break;
       default:
-        content.innerHTML = `<h2>404 Page not found</h2>`;
+        content.innerHTML = `<wc-four-oh-four></wc-four-oh-four>`;
     }
   },
 };

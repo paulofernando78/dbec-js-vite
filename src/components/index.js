@@ -1,3 +1,5 @@
+import fourOhfour from "./organisms/404";
+
 // Atoms
 import Button from "./atoms/Button";
 import Ribbon from "./atoms/Ribbon"
@@ -42,6 +44,8 @@ import BeginnerContentsPage from "../pages/courses/beginner/beginner-contents-pa
 // Specific Purposes - Speak Business English like an American
 
 // ******************************
+
+customElements.define("wc-four-oh-four", fourOhfour)
 
 // Atoms
 customElements.define("wc-button", Button);

@@ -4,7 +4,10 @@ class Whiteboard extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
+    this.build();
+  }
 
+  build() {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
@@ -45,11 +48,11 @@ class Whiteboard extends HTMLElement {
     subtitle.textContent = whiteboard.subtitle ?? "";
     this.container.appendChild(subtitle);
 
-    whiteboard.description?.forEach(desc => {
+    whiteboard.description?.forEach((desc) => {
       const description = document.createElement("p");
       description.textContent = desc;
       this.container.appendChild(description);
-    })
+    });
 
     const time = document.createElement("span");
     time.textContent = whiteboard.time ?? "";

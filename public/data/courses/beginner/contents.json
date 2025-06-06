@@ -1,18 +1,86 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Beginner",
-    "description": ["Contents", "test"]
+    "subtitle": "Beginner"
+  },
 
-  },
-  "ribbon": {
-    "label": "Ribbon"
-  },
-  "card": {
-    "headerText": "Header",
-    "descriptionText": "Description",
-    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewBox=\"0 -960 960 960\" width=\"24px\" fill=\"${colorSvg}\"><path d=\"M240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h480q33 0 56.5 23.5T800-800v640q0 33-23.5 56.5T720-80H240Zm0-80h480v-640h-80v280l-100-60-100 60v-280H240v640Zm0 0v-640 640Zm200-360 100-60 100 60-100-60-100 60Z\"/></svg>",
-    "link": "https://www.youtube.com/watch?v=PgUrC-Zj6pc",
-    "item": "test"
-  }
+  "contents": [
+    {
+      "card": {
+        "headerText": "CEFR (Common European Framework of Reference)",
+        "descriptions": [
+          {
+            "descriptionText": "• Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has."
+          },
+          {
+            "descriptionText": "• Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type."
+          },
+          {
+            "descriptionText": "• Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help."
+          }
+        ]
+      }
+    },
+    {
+      "ribbon": {
+        "label": "Lessons 1 - 6 + Written and Oral Quiz"
+      },
+      "card": {
+        "headerText": "Lesson 1",
+        "descriptions": [
+          {
+            "descriptionText": "Welcome / Icebreaker"
+          },
+          {
+            "descriptionText": "Let's get to know each other / one another better."
+          }
+        ],
+        "items": [
+          {
+            "svg": "book",
+            "link": "/courses/beginner/lesson-2-flipped-classroom",
+            "label": "Flipped Classroom • What's your name? (Cycle 1)"
+          },
+          {
+            "svg": "book",
+            "link": "/courses/beginner/lesson-2-classwork",
+            "label": "Classwork • What's your name? (Cycle 1)"
+          },
+          {
+            "svg": "book",
+            "link": "/courses/beginner/lesson-2-Homework",
+            "label": "Homework • What's your name? (Cycle 1)"
+          }
+        ]
+      }
+    },
+    {
+      "ribbon": {
+        "label": "Ribbon"
+      },
+      "card": {
+        "headerText": "Lesson 2",
+        "descriptions": [
+          {
+            "descriptionText": "Description 1"
+          },
+          {
+            "descriptionText": "Description 2"
+          }
+        ],
+        "items": [
+          {
+            "svg": "book 1",
+            "link": "/courses/beginner/lesson-2",
+            "label": "Link 1"
+          },
+          {
+            "svg": "book 2",
+            "link": "https://www.youtube.com/watch?v=PgUrC-Zj6pc",
+            "label": "Link 1"
+          }
+        ]
+      }
+    }
+  ]
 }

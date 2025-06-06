@@ -2,7 +2,6 @@ import cssImportsPath from "/src/css/imports.css?inline";
 
 import {
   dashboard,
-  book,
   beginner,
   elementary,
   preIntermediate,
@@ -19,7 +18,10 @@ class NavBar extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
+    this.build();
+  }
 
+  build() {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
@@ -32,7 +34,7 @@ class NavBar extends HTMLElement {
         box-shadow: var(--box-shadow);
         padding: var(--padding);
         width: max-content;
-        height: 100dvh
+        height: 100%
       }
 
       .section-title {
@@ -50,50 +52,53 @@ class NavBar extends HTMLElement {
 
     this.shadowRoot.appendChild(css);
 
+    const navLinks = [
+      { svg: dashboard, link: "/dashboard", label: "Dashboard" },
+
+      { title: "COURSES" },
+      { svg: beginner, link: "/courses/beginner", label: "Beginner (A1)" },
+      {
+        svg: elementary,
+        link: "/courses/elementary",
+        label: "Elementary (A1-A2)",
+      },
+      {
+        svg: preIntermediate,
+        link: "/courses/pre-intermediate",
+        label: "Pre-Intermediate (A2)",
+      },
+      {
+        svg: Intermediate,
+        link: "/courses/intermediate",
+        label: "Intermediate (B1)",
+      },
+
+      { title: "EXTRAS" },
+      { svg: audiobook, link: "/courses/audiobooks", label: "Audiobooks" },
+      { svg: grammar, link: "/courses/grammar", label: "Grammar" },
+      { svg: pronunciation, link: "/pronunciation", label: "Pronunciation" },
+      { svg: songs, link: "/courses/songs", label: "Songs" },
+
+      { title: "SPECIFIC PURPOSES" },
+      { svg: travel, link: "/courses/travel", label: "Travel" },
+      { svg: business, link: "/courses/business", label: "Business" },
+    ];
+
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
       <nav>
         <ul>
-          <li>
-          <wc-icon-item svg='${dashboard}' link="/dashboard" item="Dashboard"></wc-icon-item>
+        ${navLinks
+          .map((item) =>
+            item.title
+              ? `<li class="section-title">${item.title}</li>`
+              : `<li>
+          <wc-icon-item svg='${item.svg}' link="${item.link}" label="${item.label}"></wc-icon-item>
           </li>
-
-          <li class="section-title">COURSES</li>
-          <li>
-          <wc-icon-item svg='${beginner}' link="/courses/beginner" item="Beginner (A1)"></wc-icon-item>
-          </li>
-          <li>
-          <wc-icon-item svg='${elementary}' link="/courses/elementary" item="Elementary (A1-A2)"></wc-icon-item></a>
-          </li>
-          <li>
-          <wc-icon-item svg='${preIntermediate}' link="/courses/pre-intermediate" item="Pre-Intermediate (A2)"></wc-icon-item></a>
-          </li>
-          <li>
-          <wc-icon-item svg='${Intermediate}' link="/courses/intermediate" item="Intermediate (B1)"></wc-icon-item></a>
-          </li>
-
-          <li class="section-title">EXTRAS</li>
-          <li>
-          <wc-icon-item svg='${audiobook}' link="/courses/audiobooks" item="Audiobooks"></wc-icon-item>
-          </li>
-          <li>
-          <wc-icon-item svg='${grammar}' link="/courses/grammar" item="Grammar"></wc-icon-item>
-          </li>
-          <li>
-          <wc-icon-item svg='${pronunciation}' link="/pronunciation" item="Pronunciation"></wc-icon-item>
-          </li>
-          <li>
-          <wc-icon-item svg='${songs}' link="/courses/songs" item="Songs"></wc-icon-item>
-          </li>
-
-          <li class="section-title">SPECIFIC PURPOSES</li>
-          <li>
-          <wc-icon-item svg='${travel}' link="/courses/travel" item="Travel"></wc-icon-item>
-          </li>
-          <li>
-          <wc-icon-item svg='${business}' link="/courses/business" item="Business"></wc-icon-item>
-          </li>
-        </ul>
+        `
+          )
+          .join("")}
+         </ul>
       </nav>
     `;
 
@@ -115,7 +120,7 @@ class NavBar extends HTMLElement {
             composed: true,
           })
         );
-        this.classList.remove("open")
+        this.classList.remove("open");
       }
     });
   }

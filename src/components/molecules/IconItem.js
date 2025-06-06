@@ -3,7 +3,10 @@ class IconItem extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
+    this.build();
+  }
 
+  build() {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
@@ -15,29 +18,23 @@ class IconItem extends HTMLElement {
       gap: 8px
     }
   `;
+    this.shadowRoot.appendChild(css);
 
     const svg = this.getAttribute("svg");
-    // const width = this.getAttribute("width") || "24";
     const link = this.getAttribute("link") || "";
-    const item = this.getAttribute("item") || "";
+    const label = this.getAttribute("label") || "";
 
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
     <div class="alignment">
       <span class="icon"></span>
-      <a href="${link}">${item}</a>
+      <a href="${link}">${label}</a>
     </div>
   `;
 
     const clone = template.content.cloneNode(true);
     clone.querySelector("span.icon").innerHTML = svg;
 
-    // const svgElement = clone.querySelector("span.icon svg");
-    // if (svgElement) {
-    //   svgElement.setAttribute("width", width);
-    // }
-
-    this.shadowRoot.appendChild(css);
     this.shadowRoot.appendChild(clone);
   }
 }

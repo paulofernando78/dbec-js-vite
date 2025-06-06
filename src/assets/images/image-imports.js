@@ -21,8 +21,37 @@ import GifSick from "./gifs/emoji/sick.gif";
 import GifThankful from "./gifs/emoji/thankful.gif";
 import GifIDK from "./gifs/emoji/i-dont-know.gif";
 
+// A
+// B
+// C
+// D
+// E
+// F
+// G
+// H
+// I
+// J
+// K
+// L
+// M
+// N
+// O
+// P
+// K
+// R
+// S
+
+import sorry from "./general/sorry.png"
+
+// T
+// U
+// V
+// W
+// X
+// Y
+// Z
+
 export {
-  
   //Gifs
   GifGood,
   GifHappy,
@@ -45,4 +74,34 @@ export {
   GifSick,
   GifThankful,
   GifIDK,
+
+  // A
+  // B
+  // C
+  // D
+  // E
+  // F
+  // G
+  // H
+  // I
+  // J
+  // K
+  // L
+  // M
+  // N
+  // O
+  // P
+  // K
+  // R
+  // S
+
+  sorry
+
+  // T
+  // U
+  // V
+  // W
+  // X
+  // Y
+  // Z
 };
