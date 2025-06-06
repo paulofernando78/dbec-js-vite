@@ -1,10 +1,6 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-import { book } from "@images/svg-imports";
-
-const svgIcons = {
-  book: book,
-};
+import * as svgIcons from "@images/svg-imports";
 
 class Card extends HTMLElement {
   constructor() {
@@ -46,6 +42,11 @@ class Card extends HTMLElement {
       hr {
         margin: 10px
       }
+
+      wc-icon-item.last {
+        display: block;
+        margin-bottom: 5px
+      }
     `;
     this.shadowRoot.appendChild(css);
   }
@@ -69,11 +70,12 @@ class Card extends HTMLElement {
         
         
         ${card.items && Array.isArray(card.items)
-          ? `<hr/> ${card.items.map((item) => `
+          ? `<hr/> ${card.items.map((item, index, array) => `
               <wc-icon-item
-                svg='${item.svg}'
+                svg='${svgIcons[item.svg]}'
                 link="${item.link}"
                 label="${item.label}"
+                class="${index === array.length - 1 ? "last" : ""}"
               ></wc-icon-item>
               `).join("")}
             `

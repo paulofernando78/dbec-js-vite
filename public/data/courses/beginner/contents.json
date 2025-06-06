@@ -34,50 +34,64 @@
           {
             "descriptionText": "Let's get to know each other / one another better."
           }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lesson 2",
+        "descriptions": [
+          {
+            "descriptionText": "By the end of this lesson, students will be able to say hello and make introductions using my, your, his, and her."
+          }
         ],
         "items": [
           {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-2-flipped-classroom",
+            "svg": "beginner",
+            "link": "/courses/beginner/lesson-2/flipped-classroom",
             "label": "Flipped Classroom • What's your name? (Cycle 1)"
           },
           {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-2-classwork",
+            "svg": "beginner",
+            "link": "/courses/beginner/lesson-2/classwork",
             "label": "Classwork • What's your name? (Cycle 1)"
           },
           {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-2-Homework",
+            "svg": "beginnerAssignment",
+            "link": "/courses/beginner/lesson-2/homework",
             "label": "Homework • What's your name? (Cycle 1)"
           }
         ]
       }
     },
     {
-      "ribbon": {
-        "label": "Ribbon"
-      },
       "card": {
-        "headerText": "Lesson 2",
+        "headerText": "Lesson 3",
         "descriptions": [
           {
-            "descriptionText": "Description 1"
-          },
-          {
-            "descriptionText": "Description 2"
+            "descriptionText": "By the end of this lesson, students will be able to say good-bye and exchange contact information using subject pronouns and the verb be."
           }
         ],
         "items": [
           {
-            "svg": "book 1",
-            "link": "/courses/beginner/lesson-2",
-            "label": "Link 1"
+            "svg": "beginner",
+            "link": "/courses/beginner/lesson-3/flipped-classroom",
+            "label": "Flipped Classroom • What's your name? (Cycle 2)"
           },
           {
-            "svg": "book 2",
-            "link": "https://www.youtube.com/watch?v=PgUrC-Zj6pc",
-            "label": "Link 1"
+            "svg": "beginner",
+            "link": "/courses/beginner/lesson-3/classwork",
+            "label": "Classwork • What's your name? (Cycle 2)"
+          },
+          {
+            "svg": "beginner",
+            "link": "/courses/beginner/lesson-3/homework",
+            "label": "Homework • What's your name? (Cycle 2)"
+          },
+          {
+            "svg": "beginnerAssignment",
+            "link": "/extra/grammar/basic-english/unit-1",
+            "label": "Homework • Basic Grammar in Use • Unit 1"
           }
         ]
       }

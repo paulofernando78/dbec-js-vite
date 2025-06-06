@@ -15,7 +15,8 @@ class IconItem extends HTMLElement {
     css.textContent = `
     .alignment {
       display: flex;
-      gap: 8px
+      gap: 4px;
+      margin-left: 4px
     }
   `;
     this.shadowRoot.appendChild(css);

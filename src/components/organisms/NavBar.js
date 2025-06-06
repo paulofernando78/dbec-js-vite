@@ -34,7 +34,7 @@ class NavBar extends HTMLElement {
         box-shadow: var(--box-shadow);
         padding: var(--padding);
         width: max-content;
-        height: 100%
+        height: 100dvh
       }
 
       .section-title {
