@@ -1,6 +1,6 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-class BeginnerContentsPage extends HTMLElement {
+class IntermediateContentsPage extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -9,7 +9,7 @@ class BeginnerContentsPage extends HTMLElement {
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
-    const JSON_PATH = "/data/courses/beginner/contents.json"
+    const JSON_PATH = "/data/courses/intermediate/contents.json"
 
     fetch(JSON_PATH)
       .then((res) => res.json())
@@ -21,4 +21,4 @@ class BeginnerContentsPage extends HTMLElement {
   }
 }
 
-export default BeginnerContentsPage;
+export default IntermediateContentsPage;

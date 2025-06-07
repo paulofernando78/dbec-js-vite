@@ -25,6 +25,8 @@ import GifIDK from "./gifs/emoji/i-dont-know.gif";
 // B
 // C
 // D
+
+import deskCat from "./general/desk-cat.png"
 // E
 // F
 // G
@@ -79,6 +81,9 @@ export {
   // B
   // C
   // D
+
+    deskCat,
+
   // E
   // F
   // G

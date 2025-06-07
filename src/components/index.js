@@ -1,4 +1,3 @@
-import fourOhfour from "./organisms/404";
 
 // Atoms
 import Button from "./atoms/Button";
@@ -15,6 +14,8 @@ import Footer from "./organisms/Footer";
 import Header from "./organisms/Header";
 import Layout from "./organisms/Layout"
 import NavBar from "./organisms/NavBar"
+import FourOhFour from "./organisms/404";
+import UnderConstruction from "./organisms/UnderConstruction";
 
 //Templates
 import Contents from "./templates/Contents";
@@ -22,30 +23,18 @@ import Contents from "./templates/Contents";
 // Pages
 import Welcome from "./organisms/welcome";
 
-// Courses - Beginner
+// Courses
 import BeginnerContentsPage from "../pages/courses/beginner/beginner-contents-page";
+import ElementaryContentsPage from "../pages/courses/elementary/elementary-contents-page";
+import PreIntermediateContentsPage from "../pages/courses/pre-intermediate/pre-intermediate-contents-page";
+import IntermediateContentsPage from "../pages/courses/intermediate/intermediate-contents-page";
 
-// Courses - Elementary
+// Extras
 
-// Courses - Pre-Intermediate
-
-// Courses - Intermmediate
-
-// Extras - Audiobooks
-
-// Extras - Grammar
-
-// Extras - Pronunciation
-
-// Extras - Songs
-
-// Specific Purposes - Travel
-
-// Specific Purposes - Speak Business English like an American
+// Specific Purposes
 
 // ******************************
 
-customElements.define("wc-four-oh-four", fourOhfour)
 
 // Atoms
 customElements.define("wc-button", Button);
@@ -61,6 +50,8 @@ customElements.define("wc-footer", Footer);
 customElements.define("wc-header", Header);
 customElements.define("wc-layout", Layout)
 customElements.define("wc-navbar", NavBar)
+customElements.define("wc-four-oh-four", FourOhFour)
+customElements.define("wc-under-construction", UnderConstruction)
 
 // Templates
 customElements.define("wc-contents", Contents)
@@ -68,23 +59,12 @@ customElements.define("wc-contents", Contents)
 // Pages
 customElements.define("wc-welcome", Welcome);
 
-// Courses - Beginner
+// Courses
 customElements.define("wc-beginner-contents-page", BeginnerContentsPage)
+customElements.define("wc-elementary-contents-page", ElementaryContentsPage)
+customElements.define("wc-pre-intermediate-contents-page", PreIntermediateContentsPage)
+customElements.define("wc-intermediate-contents-page", IntermediateContentsPage)
 
-// Courses - Elementary
+// Extras
 
-// Courses - Pre-Intermediate
-
-// Courses - Intermmediate
-
-// Extras - Audiobooks
-
-// Extras - Grammar
-
-// Extras - Pronunciation
-
-// Extras - Songs
-
-// Specific Purposes - Travel
-
-// Specific Purposes - Speak Business English like an American
+// Specific Purposes

@@ -5,7 +5,7 @@ import {
   beginner,
   elementary,
   preIntermediate,
-  Intermediate,
+  intermediate,
   audiobook,
   grammar,
   pronunciation,
@@ -68,7 +68,7 @@ class NavBar extends HTMLElement {
         label: "Pre-Intermediate (A2)",
       },
       {
-        svg: Intermediate,
+        svg: intermediate,
         link: "/courses/intermediate",
         label: "Intermediate (B1)",
       },

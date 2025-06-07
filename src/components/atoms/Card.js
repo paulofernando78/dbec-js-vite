@@ -2,6 +2,13 @@ import cssImportsPath from "/src/css/imports.css?inline";
 
 import * as svgIcons from "@images/svg-imports";
 
+const bookBgColors = {
+  beginner: "#FBC519",
+  elementary: "#EC3B3C",
+  preIntermediate: "#1E8FEB",
+  intermediate: "#82C122",
+};
+
 class Card extends HTMLElement {
   constructor() {
     super();
@@ -25,7 +32,6 @@ class Card extends HTMLElement {
       }
 
       .card-header {
-        background-color: var(--beginner);
         padding: 2px 0 2px 5px;
         color: #000;
         font-weight: bold;
@@ -56,11 +62,17 @@ class Card extends HTMLElement {
   }
 
   render(card) {
+    const bgColor = bookBgColors[card.bgColor];
+
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
       <div class="card-container">
-        <h1 class="card-header">${card.headerText}</h1>
-        ${card.descriptions.map((description) => `
+        <h1 class="card-header" style="background-color: ${bgColor}">${
+      card.headerText
+    }</h1>
+        ${card.descriptions
+          .map(
+            (description) => `
           <p class="card-description">
             ${description.descriptionText}
           </p>
@@ -69,17 +81,22 @@ class Card extends HTMLElement {
           .join("")}
         
         
-        ${card.items && Array.isArray(card.items)
-          ? `<hr/> ${card.items.map((item, index, array) => `
+        ${
+          card.links && Array.isArray(card.links)
+            ? `<hr/> ${card.links
+                .map(
+                  (link, index, array) => `
               <wc-icon-item
-                svg='${svgIcons[item.svg]}'
-                link="${item.link}"
-                label="${item.label}"
+                svg='${svgIcons[link.svg]}'
+                link="${link.link}"
+                label="${link.label}"
                 class="${index === array.length - 1 ? "last" : ""}"
               ></wc-icon-item>
-              `).join("")}
+              `
+                )
+                .join("")}
             `
-          : ""
+            : ""
         }
       </div>
     `;

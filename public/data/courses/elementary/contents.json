@@ -1,22 +1,22 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Beginner"
+    "subtitle": "Elementary"
   },
   "contents": [
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "CEFR (Common European Framework of Reference)",
         "descriptions": [
           {
-            "descriptionText": "• Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has."
+            "descriptionText": "..."
           },
           {
-            "descriptionText": "• Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type."
+            "descriptionText": "..."
           },
           {
-            "descriptionText": "• Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help."
+            "descriptionText": "..."
           }
         ]
       }
@@ -26,7 +26,7 @@
         "label": "Lessons 1 - 6 + Written and Oral Quiz"
       },
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 1",
         "descriptions": [
           {
@@ -40,35 +40,35 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 2",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to say hello and make introductions using my, your, his, and her."
+            "descriptionText": "..."
           }
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-2/flipped-classroom",
-            "label": "Flipped Classroom • What's your name? (Cycle 1)"
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-2/flipped-classroom",
+            "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-2/classwork",
-            "label": "Classwork • What's your name? (Cycle 1)"
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-2/classwork",
+            "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-2/homework",
-            "label": "Homework • What's your name? (Cycle 1)"
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-2/homework",
+            "label": "Homework • ..."
           }
         ]
       }
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 3",
         "descriptions": [
           {
@@ -77,31 +77,26 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-3/flipped-classroom",
-            "label": "Flipped Classroom • What's your name? (Cycle 2)"
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-3/flipped-classroom",
+            "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-3/classwork",
-            "label": "Classwork • What's your name? (Cycle 2)"
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-3/classwork",
+            "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-3/homework",
-            "label": "Homework • What's your name? (Cycle 2)"
-          },
-          {
-            "svg": "beginnerAssignment",
-            "link": "/extra/grammar/basic-english/unit-1",
-            "label": "Homework • Basic Grammar in Use • Unit 1"
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-3/homework",
+            "label": "Homework • ..."
           }
         ]
       }
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 4",
         "descriptions": [
           {
@@ -110,26 +105,26 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-4/flipped-classroom",
-            "label": "Flipped Classroom • Where are my keys? (Cycle 1)"
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-4/flipped-classroom",
+            "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-4/classwork",
-            "label": "Classwork • Where are my keys? (Cycle 1)"
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-4/classwork",
+            "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-4/homework",
-            "label": "Homework • Where are my keys? (Cycle 1)"
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-4/homework",
+            "label": "Homework • ..."
           }
         ]
       }
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 5",
         "descriptions": [
           {
@@ -138,26 +133,26 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-5/flipped-classroom",
-            "label": "Flipped Classroom • Where are my keys? (Cycle 2)"
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-5/flipped-classroom",
+            "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-5/classwork",
-            "label": "Classwork • Where are my keys? (Cycle 2)"
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-5/classwork",
+            "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-5/homework",
-            "label": "Homework • Where are my keys? (Cycle 2)"
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-5/homework",
+            "label": "Homework • ..."
           }
         ]
       }
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 6",
         "descriptions": [
           {
@@ -172,8 +167,8 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-6/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-6/classwork",
             "label": "Classwork • Review lessons 2-5 + Written and Oral Quiz"
           }
         ]
@@ -186,7 +181,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 7",
         "descriptions": [
           {
@@ -195,18 +190,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-7/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-7/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-7/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-7/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-7/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-7/homework",
             "label": "Homework • ..."
           }
         ]
@@ -214,7 +209,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 8",
         "descriptions": [
           {
@@ -223,18 +218,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-8/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-8/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-8/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-8/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-8/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-8/homework",
             "label": "Homework • ..."
           }
         ]
@@ -242,7 +237,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 9",
         "descriptions": [
           {
@@ -251,18 +246,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-9/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-9/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-9/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-9/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-9/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-9/homework",
             "label": "Homework • ..."
           }
         ]
@@ -270,7 +265,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 10",
         "descriptions": [
           {
@@ -279,18 +274,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-10/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-10/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-10/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-10/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-10/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-10/homework",
             "label": "Homework • ..."
           }
         ]
@@ -298,7 +293,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 11",
         "descriptions": [
           {
@@ -313,8 +308,8 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-11/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-11/classwork",
             "label": "Classwork • Review lessons 7-10 + Written and Oral Quiz"
           }
         ]
@@ -327,7 +322,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 12",
         "descriptions": [
           {
@@ -336,18 +331,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-12/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-12/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-12/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-12/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-12/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-12/homework",
             "label": "Homework • ..."
           }
         ]
@@ -355,7 +350,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 13",
         "descriptions": [
           {
@@ -364,18 +359,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-13/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-13/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-13/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-13/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-13/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-13/homework",
             "label": "Homework • ..."
           }
         ]
@@ -383,7 +378,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 14",
         "descriptions": [
           {
@@ -392,18 +387,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-14/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-14/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-14/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-14/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-14/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-14/homework",
             "label": "Homework • ..."
           }
         ]
@@ -411,7 +406,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 15",
         "descriptions": [
           {
@@ -420,18 +415,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-15/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-15/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-15/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-15/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-15/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-15/homework",
             "label": "Homework • ..."
           }
         ]
@@ -439,7 +434,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 16",
         "descriptions": [
           {
@@ -454,8 +449,8 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-16/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-16/classwork",
             "label": "Classwork • Review lessons 12-15 + Written and Oral Quiz"
           }
         ]
@@ -468,7 +463,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 17",
         "descriptions": [
           {
@@ -477,18 +472,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-17/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-17/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-17/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-17/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-17/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-17/homework",
             "label": "Homework • ..."
           }
         ]
@@ -496,7 +491,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 18",
         "descriptions": [
           {
@@ -505,18 +500,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-18/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-18/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-18/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-18/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-18/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-18/homework",
             "label": "Homework • ..."
           }
         ]
@@ -524,7 +519,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 19",
         "descriptions": [
           {
@@ -533,18 +528,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-19/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-19/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-19/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-19/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-19/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-19/homework",
             "label": "Homework • ..."
           }
         ]
@@ -552,7 +547,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 20",
         "descriptions": [
           {
@@ -561,18 +556,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-20/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-20/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-20/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-20/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-20/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-20/homework",
             "label": "Homework • ..."
           }
         ]
@@ -580,7 +575,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 21",
         "descriptions": [
           {
@@ -595,8 +590,8 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-21/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-21/classwork",
             "label": "Classwork • Review lessons 17-20 + Written and Oral Quiz"
           }
         ]
@@ -609,7 +604,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 22",
         "descriptions": [
           {
@@ -624,8 +619,8 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-22/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-22/classwork",
             "label": "Classwork • Review lessons 2-20 + Written Test"
           }
         ]
@@ -638,7 +633,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 23",
         "descriptions": [
           {
@@ -647,18 +642,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-23/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-23/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-23/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-23/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-23/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-23/homework",
             "label": "Homework • ..."
           }
         ]
@@ -666,7 +661,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 24",
         "descriptions": [
           {
@@ -675,18 +670,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-24/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-24/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-24/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-24/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-24/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-24/homework",
             "label": "Homework • ..."
           }
         ]
@@ -694,7 +689,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 25",
         "descriptions": [
           {
@@ -703,18 +698,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-25/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-25/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-25/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-25/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-25/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-25/homework",
             "label": "Homework • ..."
           }
         ]
@@ -722,7 +717,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 26",
         "descriptions": [
           {
@@ -731,18 +726,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-26/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-26/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-26/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-26/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-26/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-26/homework",
             "label": "Homework • ..."
           }
         ]
@@ -750,7 +745,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 27",
         "descriptions": [
           {
@@ -765,8 +760,8 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-27/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-27/classwork",
             "label": "Classwork • Review lessons 23-26 + Written and Oral Quiz"
           }
         ]
@@ -779,7 +774,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 28",
         "descriptions": [
           {
@@ -788,18 +783,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-28/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-28/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-28/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-28/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-28/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-28/homework",
             "label": "Homework • ..."
           }
         ]
@@ -807,7 +802,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 29",
         "descriptions": [
           {
@@ -816,18 +811,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-29/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-29/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-29/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-29/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-29/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-29/homework",
             "label": "Homework • ..."
           }
         ]
@@ -835,7 +830,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 30",
         "descriptions": [
           {
@@ -844,18 +839,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-31/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-31/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-31/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-31/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-31/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-31/homework",
             "label": "Homework • ..."
           }
         ]
@@ -863,7 +858,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 31",
         "descriptions": [
           {
@@ -872,18 +867,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-31/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-31/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-31/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-31/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-31/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-31/homework",
             "label": "Homework • ..."
           }
         ]
@@ -891,7 +886,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 32",
         "descriptions": [
           {
@@ -906,8 +901,8 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-32/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-32/classwork",
             "label": "Classwork • Review lessons 28-31 + Written and Oral Quiz"
           }
         ]
@@ -920,7 +915,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 33",
         "descriptions": [
           {
@@ -929,18 +924,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-33/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-33/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-33/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-33/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-33/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-33/homework",
             "label": "Homework • ..."
           }
         ]
@@ -948,7 +943,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 34",
         "descriptions": [
           {
@@ -957,18 +952,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-34/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-34/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-34/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-34/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-34/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-34/homework",
             "label": "Homework • ..."
           }
         ]
@@ -976,7 +971,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 35",
         "descriptions": [
           {
@@ -985,18 +980,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-35/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-35/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-35/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-35/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-35/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-35/homework",
             "label": "Homework • ..."
           }
         ]
@@ -1004,7 +999,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 36",
         "descriptions": [
           {
@@ -1013,18 +1008,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-36/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-36/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-36/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-36/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-36/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-36/homework",
             "label": "Homework • ..."
           }
         ]
@@ -1032,7 +1027,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 37",
         "descriptions": [
           {
@@ -1047,8 +1042,8 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-37/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-37/classwork",
             "label": "Classwork • Review lessons 33-36 + Written and Oral Quiz"
           }
         ]
@@ -1061,7 +1056,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 38",
         "descriptions": [
           {
@@ -1070,18 +1065,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-38/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-38/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-38/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-38/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-38/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-38/homework",
             "label": "Homework • ..."
           }
         ]
@@ -1089,7 +1084,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 39",
         "descriptions": [
           {
@@ -1098,18 +1093,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-39/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-39/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-39/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-39/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-39/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-39/homework",
             "label": "Homework • ..."
           }
         ]
@@ -1117,7 +1112,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 40",
         "descriptions": [
           {
@@ -1126,18 +1121,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-40/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-40/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-40/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-40/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-40/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-40/homework",
             "label": "Homework • ..."
           }
         ]
@@ -1145,7 +1140,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 41",
         "descriptions": [
           {
@@ -1154,18 +1149,18 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-41/flipped-classroom",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-41/flipped-classroom",
             "label": "Flipped Classroom • ..."
           },
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-41/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-41/classwork",
             "label": "Classwork • ..."
           },
           {
-            "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-41/homework",
+            "svg": "elementaryAssignment",
+            "link": "/courses/elementary/lesson-41/homework",
             "label": "Homework • ..."
           }
         ]
@@ -1173,7 +1168,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 42",
         "descriptions": [
           {
@@ -1188,8 +1183,8 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-42/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-42/classwork",
             "label": "Classwork • Review lessons 38-41 + Written and Oral Quiz"
           }
         ]
@@ -1202,7 +1197,7 @@
     },
     {
       "card": {
-        "bgColor": "beginner",
+        "bgColor": "elementary",
         "headerText": "Lesson 43",
         "descriptions": [
           {
@@ -1217,8 +1212,8 @@
         ],
         "links": [
           {
-            "svg": "beginner",
-            "link": "/courses/beginner/lesson-43/classwork",
+            "svg": "elementary",
+            "link": "/courses/elementary/lesson-43/classwork",
             "label": "Classwork • Classwork • Review lessons 23-41 + Written Test"
           }
         ]

@@ -42,6 +42,51 @@ const Router = {
           document.createElement("wc-beginner-contents-page")
         );
         break;
+      case "/courses/elementary":
+        content.appendChild(
+          document.createElement("wc-elementary-contents-page")
+        );
+        break;
+      case "/courses/pre-intermediate":
+        content.appendChild(
+          document.createElement("wc-pre-intermediate-contents-page")
+        );
+        break;
+      case "/courses/intermediate":
+        content.appendChild(
+          document.createElement("wc-intermediate-contents-page")
+        );
+        break;
+      case "/courses/audiobooks":
+        content.appendChild(
+          document.createElement("wc-under-construction")
+        );
+        break;
+      case "/courses/grammar":
+        content.appendChild(
+          document.createElement("wc-under-construction")
+        );
+        break;
+      case "/courses/pronunciation":
+        content.appendChild(
+          document.createElement("wc-under-construction")
+        );
+        break;
+      case "/courses/songs":
+        content.appendChild(
+          document.createElement("wc-under-construction")
+        );
+        break;
+      case "/courses/travel":
+        content.appendChild(
+          document.createElement("wc-under-construction")
+        );
+        break;
+      case "/courses/business":
+        content.appendChild(
+          document.createElement("wc-under-construction")
+        );
+        break;
       default:
         content.innerHTML = `<wc-four-oh-four></wc-four-oh-four>`;
     }
