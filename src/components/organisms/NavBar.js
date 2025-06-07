@@ -55,7 +55,7 @@ class NavBar extends HTMLElement {
     const navLinks = [
       { svg: dashboard, link: "/dashboard", label: "Dashboard" },
 
-      { title: "COURSES" },
+      { title: "<b>COURSES</b>" },
       { svg: beginner, link: "/courses/beginner", label: "Beginner (A1)" },
       {
         svg: elementary,
@@ -73,13 +73,13 @@ class NavBar extends HTMLElement {
         label: "Intermediate (B1)",
       },
 
-      { title: "EXTRAS" },
+      { title: "<b>EXTRAS</b>" },
       { svg: audiobook, link: "/courses/audiobooks", label: "Audiobooks" },
       { svg: grammar, link: "/courses/grammar", label: "Grammar" },
       { svg: pronunciation, link: "/pronunciation", label: "Pronunciation" },
       { svg: songs, link: "/courses/songs", label: "Songs" },
 
-      { title: "SPECIFIC PURPOSES" },
+      { title: "<b>SPECIFIC PURPOSES</b>" },
       { svg: travel, link: "/courses/travel", label: "Travel" },
       { svg: business, link: "/courses/business", label: "Business" },
     ];
