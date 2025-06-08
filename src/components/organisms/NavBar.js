@@ -74,14 +74,14 @@ class NavBar extends HTMLElement {
       },
 
       { title: "<b>EXTRAS</b>" },
-      { svg: audiobook, link: "/courses/audiobooks", label: "Audiobooks" },
-      { svg: grammar, link: "/courses/grammar", label: "Grammar" },
-      { svg: pronunciation, link: "/pronunciation", label: "Pronunciation" },
-      { svg: songs, link: "/courses/songs", label: "Songs" },
+      { svg: audiobook, link: "/extras/audiobooks", label: "Audiobooks" },
+      { svg: grammar, link: "/extras/grammar", label: "Grammar" },
+      { svg: pronunciation, link: "/extras/pronunciation", label: "Pronunciation" },
+      { svg: songs, link: "/extras/songs", label: "Songs" },
 
       { title: "<b>SPECIFIC PURPOSES</b>" },
-      { svg: travel, link: "/courses/travel", label: "Travel" },
-      { svg: business, link: "/courses/business", label: "Business" },
+      { svg: travel, link: "/specific-purposes/travel", label: "Travel" },
+      { svg: business, link: "/specific-purposes/business", label: "Business" },
     ];
 
     const template = document.createElement("template"); /*html*/

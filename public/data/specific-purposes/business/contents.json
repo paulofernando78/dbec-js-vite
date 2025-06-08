@@ -1,0 +1,26 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business"
+  },
+  "contents": [
+    {
+      "card": {
+        "bgColor": "beginner",
+        "headerText": "Idioms / Vocabulary",
+        "links": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/",
+            "label": "Speak Business English like an American"
+          },
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbbe/",
+            "label": "Better Business English and make more money"
+          }
+        ]
+      }
+    }
+  ]
+}

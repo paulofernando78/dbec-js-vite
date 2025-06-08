@@ -1,0 +1,23 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business"
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "label": "Lessons 1-5"
+      },
+      "card": {
+        "headerText": "Lessons 1",
+        "links": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "Talking about a new project"
+          }
+        ]
+      }
+    }
+  ]
+}

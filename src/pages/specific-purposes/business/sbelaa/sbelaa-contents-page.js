@@ -1,6 +1,6 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-class PreIntermediateContentsPage extends HTMLElement {
+class SBELAAContentsPage extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -9,7 +9,7 @@ class PreIntermediateContentsPage extends HTMLElement {
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
-    const JSON_PATH = "/data/courses/pre-intermediate/contents.json";
+    const JSON_PATH = "/data/specific-purposes/business/sbelaa/contents.json";
 
     fetch(JSON_PATH)
       .then((res) => res.json())
@@ -21,4 +21,4 @@ class PreIntermediateContentsPage extends HTMLElement {
   }
 }
 
-export default PreIntermediateContentsPage;
+export default SBELAAContentsPage;

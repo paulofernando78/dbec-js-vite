@@ -32,6 +32,7 @@ import IntermediateContentsPage from "../pages/courses/intermediate/intermediate
 // Extras
 
 // Specific Purposes
+import BusinessContentsPage from "../pages/specific-purposes/business/business-contents-page";
 
 // ******************************
 
@@ -68,3 +69,4 @@ customElements.define("wc-intermediate-contents-page", IntermediateContentsPage)
 // Extras
 
 // Specific Purposes
+customElements.define("wc-business-contents-page", BusinessContentsPage)

@@ -49,6 +49,11 @@ class Card extends HTMLElement {
         margin: 10px
       }
 
+      wc-icon-item.first {
+        display: block;
+        margin-top: 5px
+      }
+
       wc-icon-item.last {
         display: block;
         margin-bottom: 5px
@@ -67,30 +72,25 @@ class Card extends HTMLElement {
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
       <div class="card-container">
-        <h1 class="card-header" style="background-color: ${bgColor}">${
-      card.headerText
-    }</h1>
-        ${card.descriptions
-          .map(
-            (description) => `
-          <p class="card-description">
+        <h1 class="card-header" style="background-color: ${bgColor}">${card.headerText} </h1>
+        ${card.descriptions && Array.isArray(card.descriptions)
+          ? card.descriptions.map((description) => `
+            <p class="card-description">
             ${description.descriptionText}
-          </p>
-        `
-          )
-          .join("")}
-        
-        
-        ${
-          card.links && Array.isArray(card.links)
-            ? `<hr/> ${card.links
+            </p>
+          `
+          ).join("")
+        : ""}
+        ${card.hr ? "<hr />" : ""}
+        ${card.links && Array.isArray(card.links)
+            ? `${card.links
                 .map(
                   (link, index, array) => `
               <wc-icon-item
                 svg='${svgIcons[link.svg]}'
                 link="${link.link}"
                 label="${link.label}"
-                class="${index === array.length - 1 ? "last" : ""}"
+                class="${index === 0 ? "first" : ""} ${index === array.length - 1 ? "last" : ""}"
               ></wc-icon-item>
               `
                 )

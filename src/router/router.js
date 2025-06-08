@@ -57,34 +57,34 @@ const Router = {
           document.createElement("wc-intermediate-contents-page")
         );
         break;
-      case "/courses/audiobooks":
+      case "/extras/audiobooks":
         content.appendChild(
           document.createElement("wc-under-construction")
         );
         break;
-      case "/courses/grammar":
+      case "/extras/grammar":
         content.appendChild(
           document.createElement("wc-under-construction")
         );
         break;
-      case "/courses/pronunciation":
+      case "/extras/pronunciation":
         content.appendChild(
           document.createElement("wc-under-construction")
         );
         break;
-      case "/courses/songs":
+      case "/extras/songs":
         content.appendChild(
           document.createElement("wc-under-construction")
         );
         break;
-      case "/courses/travel":
+      case "/specific-purposes/travel":
         content.appendChild(
           document.createElement("wc-under-construction")
         );
         break;
-      case "/courses/business":
+      case "/specific-purposes/business":
         content.appendChild(
-          document.createElement("wc-under-construction")
+          document.createElement("wc-business-contents-page")
         );
         break;
       default:
