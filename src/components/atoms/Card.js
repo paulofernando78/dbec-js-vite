@@ -67,12 +67,13 @@ class Card extends HTMLElement {
   }
 
   render(card) {
-    const bgColor = bookBgColors[card.bgColor];
+    const bgColor = bookBgColors[card.bgColor] || "#000";
+    const textColor = card.textColor || "#fff"
 
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
       <div class="card-container">
-        <h1 class="card-header" style="background-color: ${bgColor}">${card.headerText} </h1>
+        <h1 class="card-header" style="background-color: ${bgColor}; color: ${textColor}">${card.headerText} </h1>
         ${card.descriptions && Array.isArray(card.descriptions)
           ? card.descriptions.map((description) => `
             <p class="card-description">

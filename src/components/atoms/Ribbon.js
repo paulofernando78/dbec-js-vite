@@ -2,7 +2,10 @@ class Ribbon extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
+    this.build();
+  }
 
+  build() {
     const css = document.createElement("style"); /*css */
     css.textContent = `
       div {
@@ -14,8 +17,9 @@ class Ribbon extends HTMLElement {
         font-weight: bold;
       }
     `;
-    
-    this.shadowRoot.appendChild(css);
+
+    this.div = document.createElement("div");
+    this.shadowRoot.append(css, this.div);
   }
 
   set data(ribbon) {
@@ -23,10 +27,9 @@ class Ribbon extends HTMLElement {
   }
 
   render(ribbon) {
-    const div = document.createElement("div");
-    div.textContent = ribbon.label;
-
-    this.shadowRoot.appendChild(div);
+    this.div.textContent = ribbon.label;
+    this.div.style.backgroundColor = ribbon.bgColor || "#000";
+    this.div.style.color = ribbon.textColor || "#fff";
   }
 }
 
