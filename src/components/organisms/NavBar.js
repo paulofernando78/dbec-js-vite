@@ -6,7 +6,7 @@ import {
   elementary,
   preIntermediate,
   intermediate,
-  audiobook,
+  audiobooks,
   grammar,
   pronunciation,
   songs,
@@ -74,7 +74,7 @@ class NavBar extends HTMLElement {
       },
 
       { title: "<b>EXTRAS</b>" },
-      { svg: audiobook, link: "/extras/audiobooks", label: "Audiobooks" },
+      { svg: audiobooks, link: "/extras/audiobooks", label: "Audiobooks" },
       { svg: grammar, link: "/extras/grammar", label: "Grammar" },
       { svg: pronunciation, link: "/extras/pronunciation", label: "Pronunciation" },
       { svg: songs, link: "/extras/songs", label: "Songs" },

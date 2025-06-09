@@ -23,7 +23,7 @@ const Router = {
     const path = window.location.pathname;
 
     let layout = document.querySelector("wc-layout");
-    
+
     if (!layout && path !== "/") {
       document.body.innerHTML = "";
       layout = document.createElement("wc-layout");
@@ -37,6 +37,8 @@ const Router = {
       case "/dashboard":
         content.appendChild(document.createElement("wc-welcome"));
         break;
+
+      // COURSES
       case "/courses/beginner":
         content.appendChild(
           document.createElement("wc-beginner-contents-page")
@@ -57,30 +59,26 @@ const Router = {
           document.createElement("wc-intermediate-contents-page")
         );
         break;
+
+      // EXTRAS
       case "/extras/audiobooks":
         content.appendChild(
-          document.createElement("wc-under-construction")
+          document.createElement("wc-audiobooks-contents-page")
         );
         break;
       case "/extras/grammar":
-        content.appendChild(
-          document.createElement("wc-under-construction")
-        );
+        content.appendChild(document.createElement("wc-under-construction"));
         break;
       case "/extras/pronunciation":
-        content.appendChild(
-          document.createElement("wc-under-construction")
-        );
+        content.appendChild(document.createElement("wc-under-construction"));
         break;
       case "/extras/songs":
-        content.appendChild(
-          document.createElement("wc-under-construction")
-        );
+        content.appendChild(document.createElement("wc-under-construction"));
         break;
+
+      // SPECIFIC PURPOSES
       case "/specific-purposes/travel":
-        content.appendChild(
-          document.createElement("wc-under-construction")
-        );
+        content.appendChild(document.createElement("wc-under-construction"));
         break;
       case "/specific-purposes/business":
         content.appendChild(

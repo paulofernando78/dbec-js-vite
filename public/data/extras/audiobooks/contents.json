@@ -1,0 +1,115 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Audiobooks"
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "label": "Starter (Pre-A1) 200 headwords"
+      },
+      "card": {
+        "headerText": "Kids",
+        "links": [
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/kids/cinderella",
+            "label": "Cinderella"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/kids/dumbo",
+            "label": "Dumbo"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/kids/finding- nemo",
+            "label": "Finding Nemo"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/kids/puss-in-boots",
+            "label": "Puss-in-Boots"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/kids/sleeping-beauty",
+            "label": "Sleeping Beauty"
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Young learners / Adults",
+        "links": [
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "A New Zealand Adventure"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "Flying home"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "Marcel and the Mona Lisa"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "Marcel and the White Star"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "Newspaper Chase"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "Simon and the Spy"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "The Fireboy"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "The Last Photo"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "The Leopard and the Lighthouse"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "The Pearl Girl"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "The Troy Stone"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "The White Oryx"
+          },
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "Who Wants to be a star"
+          }
+        ]
+      }
+    }
+  ]
+}

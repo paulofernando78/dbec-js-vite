@@ -30,6 +30,7 @@ import PreIntermediateContentsPage from "../pages/courses/pre-intermediate/pre-i
 import IntermediateContentsPage from "../pages/courses/intermediate/intermediate-contents-page";
 
 // Extras
+import AudiobooksContentsPage from "../pages/extras/audiobooks/audiobooks-contents-page";
 
 // Specific Purposes
 import BusinessContentsPage from "../pages/specific-purposes/business/business-contents-page";
@@ -67,6 +68,7 @@ customElements.define("wc-pre-intermediate-contents-page", PreIntermediateConten
 customElements.define("wc-intermediate-contents-page", IntermediateContentsPage)
 
 // Extras
+customElements.define("wc-audiobooks-contents-page", AudiobooksContentsPage)
 
 // Specific Purposes
 customElements.define("wc-business-contents-page", BusinessContentsPage)
