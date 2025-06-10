@@ -22,12 +22,13 @@ class NavBar extends HTMLElement {
   }
 
   build() {
+    // css Imports
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
-    const css = document.createElement("style"); /*css*/
-    css.textContent = `
+    /*css*/
+    const css = `
       nav {
         border: var(--border);
         border-radius: var(--border-radius);
@@ -54,8 +55,7 @@ class NavBar extends HTMLElement {
       }
     `;
 
-    this.shadowRoot.appendChild(css);
-
+    // link list
     const navLinks = [
       {
         svg: dashboard,
@@ -109,25 +109,19 @@ class NavBar extends HTMLElement {
       { svg: business, link: "/specific-purposes/business", label: "Business" },
     ];
 
-    const template = document.createElement("template"); /*html*/
-    template.innerHTML = `
+    /*html*/
+    this.shadowRoot.innerHTML = `
+    <style>${cssImportsPath}</style>  
+    <style>${css}</style>
       <nav>
         <ul>
-        ${navLinks
-          .map((item) =>
-            item.title
-              ? `<li class="section-title">${item.title}</li>`
-              : `<li>
-          <wc-icon-item svg='${item.svg}' link="${item.link}" label="${item.label}"></wc-icon-item>
-          </li>
-        `
-          )
-          .join("")}
+        ${navLinks.map((item) =>item.title
+          ? `<li class="section-title">${item.title}</li>`
+          : `<li><wc-icon-item svg='${item.svg}' link="${item.link}" label="${item.label}"></wc-icon-item></li>
+          `).join("")}
          </ul>
       </nav>
     `;
-
-    this.shadowRoot.appendChild(template.content.cloneNode(true));
   }
 
   connectedCallback() {

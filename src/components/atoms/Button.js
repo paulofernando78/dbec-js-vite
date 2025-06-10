@@ -12,8 +12,10 @@ class Button extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
+    this.build();
+  }
 
-    
+  build() {
     const css = document.createElement("style"); /*css*/
     css.textContent = `
       button {
@@ -42,7 +44,6 @@ class Button extends HTMLElement {
     `;
     this.shadowRoot.appendChild(css);
 
-    // Button
     this.button = document.createElement("button");
     this.shadowRoot.appendChild(this.button);
   }
