@@ -18,6 +18,10 @@ class IconItem extends HTMLElement {
       gap: 4px;
       margin-left: 4px
     }
+
+    .svg {
+      min-width: 24px
+    }
   `;
     this.shadowRoot.appendChild(css);
 
@@ -28,13 +32,13 @@ class IconItem extends HTMLElement {
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
     <div class="alignment">
-      <span class="icon"></span>
+      <span class="svg"></span>
       <a href="${link}">${label}</a>
     </div>
   `;
 
     const clone = template.content.cloneNode(true);
-    clone.querySelector("span.icon").innerHTML = svg;
+    clone.querySelector("span.svg").innerHTML = svg;
 
     this.shadowRoot.appendChild(clone);
   }

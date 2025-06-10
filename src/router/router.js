@@ -7,8 +7,8 @@ const Router = {
       Router.nav(url);
     });
 
-    Router.handleLocation();
-    window.addEventListener("popstate", Router.handleLocation);
+    Router.locationHandler();
+    window.addEventListener("popstate", Router.locationHandler);
   },
 
   nav: (route, addToHistory = true) => {
@@ -16,15 +16,15 @@ const Router = {
     if (addToHistory) {
       history.pushState({ route }, null, route);
     }
-    Router.handleLocation();
+    Router.locationHandler();
   },
 
-  handleLocation: () => {
+  locationHandler: () => {
     const path = window.location.pathname;
 
     let layout = document.querySelector("wc-layout");
 
-    if (!layout && path !== "/") {
+    if (path !== "/" && !layout ) {
       document.body.innerHTML = "";
       layout = document.createElement("wc-layout");
       document.body.appendChild(layout);
@@ -33,61 +33,36 @@ const Router = {
     const content = layout.shadowRoot.querySelector("#app");
     content.innerHTML = "";
 
-    switch (path) {
-      case "/dashboard":
-        content.appendChild(document.createElement("wc-welcome"));
-        break;
+    const routes = {
+      "/dashboard": () => document.createElement("wc-welcome"),
 
       // COURSES
-      case "/courses/beginner":
-        content.appendChild(
-          document.createElement("wc-beginner-contents-page")
-        );
-        break;
-      case "/courses/elementary":
-        content.appendChild(
-          document.createElement("wc-elementary-contents-page")
-        );
-        break;
-      case "/courses/pre-intermediate":
-        content.appendChild(
-          document.createElement("wc-pre-intermediate-contents-page")
-        );
-        break;
-      case "/courses/intermediate":
-        content.appendChild(
-          document.createElement("wc-intermediate-contents-page")
-        );
-        break;
+      "/courses/beginner": () => document.createElement("wc-beginner-contents-page"),
+      "/courses/elementary": () => document.createElement("wc-elementary-contents-page"),
+      "/courses/pre-intermediate": () => document.createElement("wc-pre-intermediate-contents-page"),
+      "/courses/intermediate": () => document.createElement("wc-intermediate-contents-page"),
 
       // EXTRAS
-      case "/extras/audiobooks":
-        content.appendChild(
-          document.createElement("wc-audiobooks-contents-page")
-        );
-        break;
-      case "/extras/grammar":
-        content.appendChild(document.createElement("wc-under-construction"));
-        break;
-      case "/extras/pronunciation":
-        content.appendChild(document.createElement("wc-under-construction"));
-        break;
-      case "/extras/songs":
-        content.appendChild(document.createElement("wc-under-construction"));
-        break;
-
+      "/extras/audiobooks": () => document.createElement("wc-under-construction"),
+      "/extras/grammar": () => document.createElement("wc-under-construction"),
+      "/extras/pronunciation": () => document.createElement("wc-under-construction"),
+      "/extras/songs": () => document.createElement("wc-under-construction"),
+      
       // SPECIFIC PURPOSES
-      case "/specific-purposes/travel":
-        content.appendChild(document.createElement("wc-under-construction"));
-        break;
-      case "/specific-purposes/business":
-        content.appendChild(
-          document.createElement("wc-business-contents-page")
-        );
-        break;
-      default:
-        content.innerHTML = `<wc-four-oh-four></wc-four-oh-four>`;
+      "/specific-purposes/travel": () => document.createElement("wc-under-construction"),
+      "/specific-purposes/business": () => document.createElement("wc-business-contents-page"),
+
     }
+    
+    const routeHandler = routes[path];
+
+    if (routeHandler) {
+      const node = routeHandler() // invoke function
+      content.appendChild(node);
+    } else {
+      content.innerHTML = `<wc-four-oh-four></wc-four-oh-four>`
+    }
+    
   },
 };
 

@@ -7,7 +7,7 @@ import {
   preIntermediate,
   intermediate,
   audiobooks,
-  grammar,
+  assignment,
   pronunciation,
   songs,
   travel,
@@ -34,12 +34,16 @@ class NavBar extends HTMLElement {
         box-shadow: var(--box-shadow);
         padding: var(--padding);
         width: max-content;
-        height: 100dvh
+        height: 100dvh;
       }
 
       .section-title {
         font-size: 1.1rem;
         margin-top: 20px
+      }
+
+      wc-icon-item {
+        font-weight: bold
       }
 
       @media (max-width: 768px) {
@@ -53,10 +57,16 @@ class NavBar extends HTMLElement {
     this.shadowRoot.appendChild(css);
 
     const navLinks = [
-      { svg: dashboard, link: "/dashboard", label: "Dashboard" },
-
+      {
+        svg: dashboard,
+        link: "/dashboard",
+        label: "Dashboard"
+      },
       { title: "<b>COURSES</b>" },
-      { svg: beginner, link: "/courses/beginner", label: "Beginner (A1)" },
+      { svg: beginner,
+        link: "/courses/beginner",
+        label: "Beginner (A1)"
+      },
       {
         svg: elementary,
         link: "/courses/elementary",
@@ -72,16 +82,36 @@ class NavBar extends HTMLElement {
         link: "/courses/intermediate",
         label: "Intermediate (B1)",
       },
-
       { title: "<b>EXTRAS</b>" },
-      { svg: audiobooks, link: "/extras/audiobooks", label: "Audiobooks" },
-      { svg: grammar, link: "/extras/grammar", label: "Grammar" },
-      { svg: pronunciation, link: "/extras/pronunciation", label: "Pronunciation" },
-      { svg: songs, link: "/extras/songs", label: "Songs" },
-
+      {
+        svg: audiobooks,
+        link: "/extras/audiobooks",
+        label: "Audiobooks"
+      },
+      {
+        svg: assignment,
+        link: "/extras/grammar",
+        label: "Grammar" },
+      {
+        svg: pronunciation,
+        link: "/extras/pronunciation",
+        label: "Pronunciation"
+      },
+      {
+        svg: songs,
+        link: "/extras/songs",
+        label: "Songs" },
       { title: "<b>SPECIFIC PURPOSES</b>" },
-      { svg: travel, link: "/specific-purposes/travel", label: "Travel" },
-      { svg: business, link: "/specific-purposes/business", label: "Business" },
+      {
+        svg: travel,
+        link: "/specific-purposes/travel",
+        label: "Travel"
+
+      },
+      { svg: business,
+        link: "/specific-purposes/business",
+        label: "Business"
+      },
     ];
 
     const template = document.createElement("template"); /*html*/
