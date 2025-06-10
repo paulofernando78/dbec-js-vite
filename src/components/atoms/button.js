@@ -13,9 +13,9 @@ class Button extends HTMLElement {
     super();
     this.attachShadow({ mode: "open" });
 
-    // CSS
-    const style = document.createElement("style"); /*css*/
-    style.textContent = `
+    
+    const css = document.createElement("style"); /*css*/
+    css.textContent = `
       button {
         width: 33px;
         height: 33px;
@@ -40,7 +40,7 @@ class Button extends HTMLElement {
         transform: scale(0.950);
       }
     `;
-    this.shadowRoot.appendChild(style);
+    this.shadowRoot.appendChild(css);
 
     // Button
     this.button = document.createElement("button");

@@ -10,12 +10,12 @@
         "links": [
           {
             "svg": "book",
-            "link": "/src/specific-purposes/business/sbelaa/",
+            "link": "/specific-purposes/business/sbelaa",
             "label": "Speak Business English like an American"
           },
           {
             "svg": "book",
-            "link": "/src/specific-purposes/business/sbbe/",
+            "link": "/specific-purposes/business/",
             "label": "Better Business English and make more money"
           }
         ]

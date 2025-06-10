@@ -48,9 +48,9 @@ class Whiteboard extends HTMLElement {
     subtitle.textContent = whiteboard.subtitle ?? "";
     this.container.appendChild(subtitle);
 
-    whiteboard.description?.forEach((desc) => {
+    whiteboard.descriptions?.forEach((desc) => {
       const description = document.createElement("p");
-      description.textContent = desc;
+      description.textContent = desc.text;
       this.container.appendChild(description);
     });
 

@@ -42,7 +42,8 @@ class Card extends HTMLElement {
       }
 
       .card-description {
-        padding: 2px 0 0 5px;
+        padding: 2px 5px 0 5px;
+        text-align: justify
       }
 
       hr {

@@ -1,7 +1,12 @@
 {
   "whiteboard": {
     "title": "Specific Purposes",
-    "subtitle": "Business"
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "text": "Speak Business English Like an American"
+      }
+    ]
   },
   "contents": [
     {
@@ -10,6 +15,12 @@
       },
       "card": {
         "headerText": "Lessons 1",
+        "descriptions": [
+          {
+            "descriptionText": "come up with a winner <b>•</b> blockbuster <b>•</b> bells and whistles <b>•</b> fast track a project <b>•</b> stocking stuffer <b>•</b> big win <b>•</b> make a killing <b>•</b> mum's the word <b>•</b> get wind of <b>•</b> rip something off <b>•</b> game plan <b>•</b> get a project off the ground"
+          }
+        ],
+        "hr": true,
         "links": [
           {
             "svg": "book",

@@ -1,6 +1,6 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-class SBELAAContentsPage extends HTMLElement {
+class SbelaaContentsPage extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -21,4 +21,4 @@ class SBELAAContentsPage extends HTMLElement {
   }
 }
 
-export default SBELAAContentsPage;
+export default SbelaaContentsPage;

@@ -49,8 +49,8 @@ class NavBar extends HTMLElement {
       @media (max-width: 768px) {
         nav {
           width: 100%;
-          height: max-content
-        } 
+          height: max-content;
+        }
       }
     `;
 
@@ -60,13 +60,10 @@ class NavBar extends HTMLElement {
       {
         svg: dashboard,
         link: "/dashboard",
-        label: "Dashboard"
+        label: "Dashboard",
       },
       { title: "<b>COURSES</b>" },
-      { svg: beginner,
-        link: "/courses/beginner",
-        label: "Beginner (A1)"
-      },
+      { svg: beginner, link: "/courses/beginner", label: "Beginner (A1)" },
       {
         svg: elementary,
         link: "/courses/elementary",
@@ -86,32 +83,30 @@ class NavBar extends HTMLElement {
       {
         svg: audiobooks,
         link: "/extras/audiobooks",
-        label: "Audiobooks"
+        label: "Audiobooks",
       },
       {
         svg: assignment,
         link: "/extras/grammar",
-        label: "Grammar" },
+        label: "Grammar",
+      },
       {
         svg: pronunciation,
         link: "/extras/pronunciation",
-        label: "Pronunciation"
+        label: "Pronunciation",
       },
       {
         svg: songs,
         link: "/extras/songs",
-        label: "Songs" },
+        label: "Songs",
+      },
       { title: "<b>SPECIFIC PURPOSES</b>" },
       {
         svg: travel,
         link: "/specific-purposes/travel",
-        label: "Travel"
-
+        label: "Travel",
       },
-      { svg: business,
-        link: "/specific-purposes/business",
-        label: "Business"
-      },
+      { svg: business, link: "/specific-purposes/business", label: "Business" },
     ];
 
     const template = document.createElement("template"); /*html*/

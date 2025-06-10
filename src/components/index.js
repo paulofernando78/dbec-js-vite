@@ -35,6 +35,9 @@ import AudiobooksContentsPage from "../pages/extras/audiobooks/audiobooks-conten
 // Specific Purposes
 import BusinessContentsPage from "../pages/specific-purposes/business/business-contents-page";
 
+// Speak Business English Like an American
+import SbelaaContentsPage from "../pages/specific-purposes/business/sbelaa/sbelaa-contents-page";
+
 // ******************************
 
 
@@ -72,3 +75,6 @@ customElements.define("wc-audiobooks-contents-page", AudiobooksContentsPage)
 
 // Specific Purposes
 customElements.define("wc-business-contents-page", BusinessContentsPage)
+
+// Speak Business English Like an American
+customElements.define("wc-sbelaa-contents-page", SbelaaContentsPage)

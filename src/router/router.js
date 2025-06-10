@@ -43,7 +43,7 @@ const Router = {
       "/courses/intermediate": () => document.createElement("wc-intermediate-contents-page"),
 
       // EXTRAS
-      "/extras/audiobooks": () => document.createElement("wc-under-construction"),
+      "/extras/audiobooks": () => document.createElement("wc-audiobooks-contents-page"),
       "/extras/grammar": () => document.createElement("wc-under-construction"),
       "/extras/pronunciation": () => document.createElement("wc-under-construction"),
       "/extras/songs": () => document.createElement("wc-under-construction"),
@@ -51,6 +51,9 @@ const Router = {
       // SPECIFIC PURPOSES
       "/specific-purposes/travel": () => document.createElement("wc-under-construction"),
       "/specific-purposes/business": () => document.createElement("wc-business-contents-page"),
+
+      // Speak Business English Like an American
+      "/specific-purposes/business/sbelaa": () => document.createElement("wc-sbelaa-contents-page")
 
     }
     
@@ -62,7 +65,6 @@ const Router = {
     } else {
       content.innerHTML = `<wc-four-oh-four></wc-four-oh-four>`
     }
-    
   },
 };
 
