@@ -27,17 +27,23 @@ class IconItem extends HTMLElement {
       position: relative;
       top: 1px
     }
+
+    .svg.songs-svg {
+      position: relative;
+      top: 2px
+    }
   `;
     this.shadowRoot.appendChild(css);
 
     const svg = this.getAttribute("svg");
     const link = this.getAttribute("link") || "";
     const label = this.getAttribute("label") || "";
+    const variant = this.getAttribute("variant") || "";
 
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
     <div class="alignment">
-      <span class="svg"></span>
+      <span class="svg ${variant}"></span>
       <a href="${link}">${label}</a>
     </div>
   `;

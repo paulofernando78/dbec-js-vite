@@ -48,6 +48,11 @@ class NavBar extends HTMLElement {
         font-weight: bold
       }
 
+      li.songs-item {
+        position: relative;
+        top: 5px
+      }
+
       @media (max-width: 768px) {
         nav {
           width: 100%;
@@ -100,6 +105,7 @@ class NavBar extends HTMLElement {
         svg: songs,
         link: "/extras/songs",
         label: "Songs",
+        variant: "songs-svg"
       },
       { title: "<b>SPECIFIC PURPOSES</b>" },
       {
@@ -118,7 +124,7 @@ class NavBar extends HTMLElement {
         <ul>
         ${navLinks.map((item) =>item.title
           ? `<li class="section-title">${item.title}</li>`
-          : `<li><wc-icon-item svg='${item.svg}' link="${item.link}" label="${item.label}"></wc-icon-item></li>
+          : `<li class="${item.className || ""}"><wc-icon-item svg='${item.svg}' variant=${item.variant} link="${item.link}" label="${item.label}"></wc-icon-item></li>
           `).join("")}
          </ul>
       </nav>
