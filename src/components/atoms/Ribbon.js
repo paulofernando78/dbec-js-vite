@@ -1,3 +1,5 @@
+import cssImportsPath from "/src/css/imports.css?inline";
+
 class Ribbon extends HTMLElement {
   constructor() {
     super();
@@ -6,6 +8,10 @@ class Ribbon extends HTMLElement {
   }
 
   build() {
+    const cssImports = document.createElement("style");
+    cssImports.textContent = cssImportsPath;
+    this.shadowRoot.appendChild(cssImports);
+
     const css = document.createElement("style"); /*css */
     css.textContent = `
       div {

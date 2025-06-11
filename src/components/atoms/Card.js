@@ -28,37 +28,32 @@ class Card extends HTMLElement {
         border-radius: var(--border-radius);
         box-shadow: var(--box-shadow);
         overflow: hidden;
-
       }
 
       .card-header {
-        padding: 2px 0 2px 5px;
+        padding: var(--padding);
         color: #000;
         font-weight: bold;
       }
 
       h1 {
-        font-size: 1.1rem
+        font-size: 1rem
+      }
+
+      .inner-card {
+        padding: var(--padding);
+
       }
 
       .card-description {
-        padding: 2px 5px 0 5px;
-        text-align: justify
+        text-align: justify;
       }
 
       hr {
         margin: 10px
       }
 
-      wc-icon-item.first {
-        display: block;
-        margin-top: 5px
-      }
-
-      wc-icon-item.last {
-        display: block;
-        margin-bottom: 5px
-      }
+      
     `;
     this.shadowRoot.appendChild(css);
   }
@@ -74,32 +69,26 @@ class Card extends HTMLElement {
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
       <div class="card-container">
-        <h1 class="card-header" style="background-color: ${bgColor}; color: ${textColor}">${card.headerText} </h1>
+        <h1 class="card-header" style="background-color: ${bgColor}; color: ${textColor}">${card.headerText}</h1>
+        <div class="inner-card">
         ${card.descriptions && Array.isArray(card.descriptions)
           ? card.descriptions.map((description) => `
             <p class="card-description">
             ${description.descriptionText}
             </p>
           `
-          ).join("")
-        : ""}
+          ).join(""): ""}
         ${card.hr ? "<hr />" : ""}
-        ${card.links && Array.isArray(card.links)
-            ? `${card.links
-                .map(
-                  (link, index, array) => `
+        ${card.items && Array.isArray(card.items)
+            ? `${card.items.map((item, index, array) => `
               <wc-icon-item
-                svg='${svgIcons[link.svg]}'
-                link="${link.link}"
-                label="${link.label}"
-                class="${index === 0 ? "first" : ""} ${index === array.length - 1 ? "last" : ""}"
-              ></wc-icon-item>
-              `
-                )
-                .join("")}
-            `
-            : ""
+                svg='${item.svg ? svgIcons[item.svg] : ""}'
+                link="${item.link || ""}"
+                label="${item.label || ""}" 
+              ></wc-icon-item>`
+                ).join("")}`: ""
         }
+        </div>
       </div>
     `;
 

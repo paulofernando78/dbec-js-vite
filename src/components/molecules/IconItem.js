@@ -15,12 +15,17 @@ class IconItem extends HTMLElement {
     css.textContent = `
     .alignment {
       display: flex;
-      gap: 4px;
-      margin-left: 4px
+      gap: 5px;
     }
 
     .svg {
-      min-width: 24px
+      min-width: 24px;
+      // margin-left: 4px
+    }
+
+    a {
+      position: relative;
+      top: 1px
     }
   `;
     this.shadowRoot.appendChild(css);

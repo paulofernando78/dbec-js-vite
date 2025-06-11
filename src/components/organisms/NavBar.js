@@ -40,7 +40,8 @@ class NavBar extends HTMLElement {
 
       .section-title {
         font-size: 1.1rem;
-        margin-top: 20px
+        margin-top: 20px;
+        padding-left: 2px
       }
 
       wc-icon-item {
@@ -111,7 +112,7 @@ class NavBar extends HTMLElement {
 
     /*html*/
     this.shadowRoot.innerHTML = `
-    <style>${cssImportsPath}</style>  
+    <style>${cssImportsPath}</style>
     <style>${css}</style>
       <nav>
         <ul>

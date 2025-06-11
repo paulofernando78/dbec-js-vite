@@ -12,8 +12,11 @@
     {
       "ribbon": {
         "label": "Lessons 1-5"
-      },
+      }
+    },
+    {
       "card": {
+        "bgColor": "gray-1",
         "headerText": "Lessons 1",
         "descriptions": [
           {
@@ -21,11 +24,558 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
             "label": "Talking about a new project"
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 2",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "Talking about financial issues"
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 3",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "Discussing a new ad campaign"
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 4",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "Talking about manufacturing"
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 5",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "Talking about company strategy"
+          }
+        ]
+      }
+    },
+    {
+      "ribbon": {
+        "label": "Lessons 6-10"
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 6",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "Discussing good results"
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 7",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "Discussing bad results"
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 8",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "Discussing a difficult decision"
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 9",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "ribbon": {
+        "label": "Lessons 11-15"
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 10",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 11",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 12",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 13",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 14",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 15",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "ribbon": {
+        "label": "Lessons 16-20"
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 16",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 17",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 18",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 19",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 20",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "ribbon": {
+        "label": "Lessons 21-25"
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 21",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 22",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 23",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 24",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 25",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "ribbon": {
+        "label": "Lessons 26-30"
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 26",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 27",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 28",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 29",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "headerText": "Lessons 30",
+        "descriptions": [
+          {
+            "descriptionText": "... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ... <b>•</b> ..."
+          }
+        ],
+        "hr": true,
+        "items": [
+          {
+            "svg": "book",
+            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "label": "..."
           }
         ]
       }

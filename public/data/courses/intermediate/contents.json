@@ -51,7 +51,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-2/flipped-classroom",
@@ -80,7 +80,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-3/flipped-classroom",
@@ -109,7 +109,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-4/flipped-classroom",
@@ -138,7 +138,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-5/flipped-classroom",
@@ -173,7 +173,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-6/classwork",
@@ -197,7 +197,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-7/flipped-classroom",
@@ -226,7 +226,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-8/flipped-classroom",
@@ -255,7 +255,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-9/flipped-classroom",
@@ -284,7 +284,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-10/flipped-classroom",
@@ -319,7 +319,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-11/classwork",
@@ -343,7 +343,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-12/flipped-classroom",
@@ -372,7 +372,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-13/flipped-classroom",
@@ -401,7 +401,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-14/flipped-classroom",
@@ -430,7 +430,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-15/flipped-classroom",
@@ -465,7 +465,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-16/classwork",
@@ -489,7 +489,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-17/flipped-classroom",
@@ -518,7 +518,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-18/flipped-classroom",
@@ -547,7 +547,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-19/flipped-classroom",
@@ -576,7 +576,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-20/flipped-classroom",
@@ -611,7 +611,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-21/classwork",
@@ -641,7 +641,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-22/classwork",
@@ -665,7 +665,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-23/flipped-classroom",
@@ -694,7 +694,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-24/flipped-classroom",
@@ -723,7 +723,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-25/flipped-classroom",
@@ -752,7 +752,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-26/flipped-classroom",
@@ -787,7 +787,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-27/classwork",
@@ -811,7 +811,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-28/flipped-classroom",
@@ -840,7 +840,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-29/flipped-classroom",
@@ -869,7 +869,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-31/flipped-classroom",
@@ -898,7 +898,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-31/flipped-classroom",
@@ -933,7 +933,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-32/classwork",
@@ -957,7 +957,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-33/flipped-classroom",
@@ -986,7 +986,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-34/flipped-classroom",
@@ -1015,7 +1015,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-35/flipped-classroom",
@@ -1044,7 +1044,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-36/flipped-classroom",
@@ -1079,7 +1079,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-37/classwork",
@@ -1103,7 +1103,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-38/flipped-classroom",
@@ -1132,7 +1132,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-39/flipped-classroom",
@@ -1161,7 +1161,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-40/flipped-classroom",
@@ -1190,7 +1190,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-41/flipped-classroom",
@@ -1225,7 +1225,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-42/classwork",
@@ -1255,7 +1255,7 @@
           }
         ],
         "hr": true,
-        "links": [
+        "items": [
           {
             "svg": "intermediate",
             "link": "/courses/intermediate/lesson-43/classwork",
