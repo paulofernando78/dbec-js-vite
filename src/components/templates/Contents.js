@@ -26,8 +26,8 @@ class Contents extends HTMLElement {
     whiteboard.data = content.whiteboard;
     contentContainer.appendChild(whiteboard);
 
+    // Ribbon
     content.contents.forEach((section) => {
-      // Ribbon
       if (section.ribbon) {
         const ribbon = document.createElement("wc-ribbon");
         ribbon.data = section.ribbon;
@@ -39,6 +39,16 @@ class Contents extends HTMLElement {
         const card = document.createElement("wc-card");
         card.data = section.card;
         contentContainer.appendChild(card);
+      }
+
+      // Paragraph
+
+      if (section.paragraphs) {
+        section.paragraphs.forEach((p) => {
+          const paragraph = document.createElement("wc-paragraph");
+          paragraph.data = p;
+          contentContainer.appendChild(paragraph);
+        });
       }
     });
 

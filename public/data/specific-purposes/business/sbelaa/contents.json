@@ -27,7 +27,7 @@
         "items": [
           {
             "svg": "book",
-            "link": "/src/specific-purposes/business/sbelaa/lesson-1",
+            "link": "/specific-purposes/business/sbelaa/lesson-1",
             "label": "Talking about a new project"
           }
         ]
@@ -177,14 +177,9 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Dealing with a dissastified customer"
           }
         ]
-      }
-    },
-    {
-      "ribbon": {
-        "label": "Lessons 11-15"
       }
     },
     {
@@ -200,9 +195,14 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Discussing a difficult request"
           }
         ]
+      }
+    },
+     {
+      "ribbon": {
+        "label": "Lessons 11-15"
       }
     },
     {
@@ -218,7 +218,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Motivating Co-Workers"
           }
         ]
       }
@@ -236,7 +236,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Running a meeting"
           }
         ]
       }
@@ -254,7 +254,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Discussing A Mistake"
           }
         ]
       }
@@ -272,7 +272,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Taking Credit For Good Results"
           }
         ]
       }
@@ -290,7 +290,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Shifting Blame"
           }
         ]
       }
@@ -313,7 +313,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Politely Disagreeing With Someone"
           }
         ]
       }
@@ -331,7 +331,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Telling Somebody Off"
           }
         ]
       }
@@ -349,7 +349,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Discussing Office Scandals"
           }
         ]
       }
@@ -367,7 +367,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Complaining About A Co-Worker"
           }
         ]
       }
@@ -385,7 +385,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Talking About A Brown Noser"
           }
         ]
       }
@@ -408,7 +408,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Explaining That You're Feeling Overworked"
           }
         ]
       }
@@ -426,7 +426,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Calling In Sick"
           }
         ]
       }
@@ -444,7 +444,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Requesting A Bank Loan"
           }
         ]
       }
@@ -462,7 +462,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Negotiating A Purchase"
           }
         ]
       }
@@ -480,7 +480,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Conducting A Performance Review"
           }
         ]
       }
@@ -503,7 +503,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Promoting An Employee"
           }
         ]
       }
@@ -521,7 +521,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Firing Somebody"
           }
         ]
       }
@@ -539,7 +539,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Job Interview 1"
           }
         ]
       }
@@ -557,7 +557,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Job Interview 2"
           }
         ]
       }
@@ -575,7 +575,7 @@
           {
             "svg": "book",
             "link": "/src/specific-purposes/business/sbelaa/lesson-1",
-            "label": "..."
+            "label": "Negotiating a Salary Offer"
           }
         ]
       }

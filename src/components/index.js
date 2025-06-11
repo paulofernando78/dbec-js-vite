@@ -3,6 +3,7 @@
 import Button from "./atoms/Button";
 import Ribbon from "./atoms/Ribbon"
 import Card from "./atoms/Card";
+import Paragraph from "./atoms/Paragraph";
 
 
 // Molecules
@@ -37,6 +38,7 @@ import BusinessContentsPage from "../pages/specific-purposes/business/business-c
 
 // Speak Business English Like an American
 import SbelaaContentsPage from "../pages/specific-purposes/business/sbelaa/sbelaa-contents-page";
+import SbelaaLesson1 from "../pages/specific-purposes/business/sbelaa/lesson-1";
 
 // ******************************
 
@@ -45,6 +47,7 @@ import SbelaaContentsPage from "../pages/specific-purposes/business/sbelaa/sbela
 customElements.define("wc-button", Button);
 customElements.define("wc-ribbon", Ribbon);
 customElements.define("wc-card", Card)
+customElements.define("wc-paragraph", Paragraph)
 
 // Molecules
 customElements.define("wc-icon-item", IconItem);
@@ -78,3 +81,4 @@ customElements.define("wc-business-contents-page", BusinessContentsPage)
 
 // Speak Business English Like an American
 customElements.define("wc-sbelaa-contents-page", SbelaaContentsPage)
+customElements.define("wc-sbelaa-lesson-1", SbelaaLesson1)

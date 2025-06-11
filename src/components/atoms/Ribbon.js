@@ -15,7 +15,7 @@ class Ribbon extends HTMLElement {
     const css = document.createElement("style"); /*css */
     css.textContent = `
       div {
-        padding: var(--padding);
+        padding: 5px 5px 5px 6px;
         border: var(--border);
         border-radius: 5px;
         background-color: #000;

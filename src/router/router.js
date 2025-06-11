@@ -53,8 +53,8 @@ const Router = {
       "/specific-purposes/business": () => document.createElement("wc-business-contents-page"),
 
       // Speak Business English Like an American
-      "/specific-purposes/business/sbelaa": () => document.createElement("wc-sbelaa-contents-page")
-
+      "/specific-purposes/business/sbelaa": () => document.createElement("wc-sbelaa-contents-page"),
+      "/specific-purposes/business/sbelaa/lesson-1": () => document.createElement("wc-sbelaa-lesson-1")
     }
     
     const routeHandler = routes[path];

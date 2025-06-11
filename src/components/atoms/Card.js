@@ -80,7 +80,7 @@ class Card extends HTMLElement {
           ).join(""): ""}
         ${card.hr ? "<hr />" : ""}
         ${card.items && Array.isArray(card.items)
-            ? `${card.items.map((item, index, array) => `
+            ? `${card.items.map((item) => `
               <wc-icon-item
                 svg='${item.svg ? svgIcons[item.svg] : ""}'
                 link="${item.link || ""}"
