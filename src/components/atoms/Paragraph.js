@@ -21,7 +21,7 @@ class Paragraph extends HTMLElement {
   }
 
   render(paragraph) {
-    this.p.style.color = paragraph.textColor || "#000";
+    this.p.style.color = paragraph.textColor;
     this.p.innerHTML = paragraph.enText || paragraph.ptText || "";
   }
 }

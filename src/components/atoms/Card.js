@@ -74,10 +74,10 @@ class Card extends HTMLElement {
         ${card.descriptions && Array.isArray(card.descriptions)
           ? card.descriptions.map((description) => `
             <p class="card-description">
-            ${description.descriptionText}
+            ${description.description}
             </p>
           `
-          ).join(""): ""}
+        ).join(""): ""}
         ${card.hr ? "<hr />" : ""}
         ${card.items && Array.isArray(card.items)
             ? `${card.items.map((item) => `

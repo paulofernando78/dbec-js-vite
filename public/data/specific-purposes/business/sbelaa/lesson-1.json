@@ -18,47 +18,52 @@
     {
       "audioPlayer": [
         {
-          "src": "/audio/specific-purposes/business/sbelaa/lesson-1.mp3"
+          "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-1.mp3"
         }
       ]
     },
     {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "<b>Lesson 1 • Talking about a new project</b>",
+        "descriptions": [
+          {
+            "description": "Carl, Greg and Anne work for WaterSonic Corporation. Recently, the company has come up with an idea for a new electric toothbrush."
+          }
+        ]
+      }
+    },
+    {
       "paragraphs": [
         {
-          "enText": "<b>Lesson 1 • Talking about a new project</b>"
+          "enText": "<b>Carl:</b> I think we've <mark>come up with a winner</mark>."
         },
         {
-          "enText": "Carl, Greg and Anne work for WaterSonic Corporation. Recently, the company has come up with an idea for a new electric toothbrush."
+          "enText": "<b>Anne:</b> I agree. The new Brush-o-matic should be a <mark>blockbuster</mark>!"
         },
         {
-          "enText": "<b>Carl:</b> I think we've come up with a winner."
+          "enText": "<b>Carl:</b> Our designers have already made up some prototypes. The toothbrushes have a tooth-whitening attachment and many other <mark>bells and whistles</mark>."
         },
         {
-          "enText": "<b>Anne:</b> I agree. The new Brush-o-matic should be a blockbuster!"
+          "enText": "<b>Greg:</b> We should <mark>fast track a project</mark>. Let's try to launch it in time for the holiday season."
         },
         {
-          "enText": "<b>Carl:</b> Our designers have already made up some prototypes. The toothbrushes have a tooth-whitening attachment and many other bells and whistles."
+          "enText": "<b>Ane:</b> This will be a great <mark>stocking stuffer</mark>!"
         },
         {
-          "enText": "<b>Greg:</b> We should fast track a project. Let's try to launch it in time for the holiday season."
+          "enText": "<b>Carl:</b> We definitely need a <mark>big win</mark> for the holidays."
         },
         {
-          "enText": "<b>Ane:</b> This will be a great stocking stuffer!"
+          "enText": "<b>Anne:</b> This is a great idea. We're going to <mark>make a killing</mark>."
         },
         {
-          "enText": "<b>Carl:</b> We definitely need a big win for the holidays."
+          "enText": "<b>Greg:</b> Let's not talk about this project to anybody who doesn't need to know. We'll <mark>keep something under wraps</mark>."
         },
         {
-          "enText": "<b>Anne:</b> This is a great idea. We're going to make a killing."
+          "enText": "<b>Carl:</b> I agree <mark>mum's the word</mark>. We don't want any of our competitors to <mark>get wind of</mark> the idea and <mark>rip it off</mark>."
         },
         {
-          "enText": "<b>Greg:</b> Let's not talk about this project to anybody who doesn't need to know. We'll keep something under wraps."
-        },
-        {
-          "enText": "<b>Carl:</b> I agree mum's the word. We don't want any of our competitors to get wind of the idea and rip it off."
-        },
-        {
-          "enText": "<b>Anne:</b> Right. Let's meet again on Monday morning and discuss our game plan for getting this project off the ground!"
+          "enText": "<b>Anne:</b> Right. Let's meet again on Monday morning and discuss our <mark>game plan</mark> for <mark>getting this project off the ground</mark>!"
         }
       ]
     }

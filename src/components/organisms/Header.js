@@ -63,6 +63,14 @@ class Header extends HTMLElement {
     this.shadowRoot.appendChild(template.content.cloneNode(true));
   }
 
+  updateLoginVisibility = () => {
+    const login = this.shadowRoot.querySelector("data-icon=login");
+    if (login) {
+      login.style.display =
+        window.location.pathname === "/" ? "inline-block" : "none";
+    }
+  };
+
   connectedCallback() {
     const menuBtn = this.shadowRoot.querySelector("#menu-button");
 
@@ -72,7 +80,7 @@ class Header extends HTMLElement {
         if (layout) {
           const navBar = layout.shadowRoot.querySelector("wc-navbar");
           if (navBar) {
-            navBar.classList.toggle("open")
+            navBar.classList.toggle("open");
           }
         }
       });
@@ -97,7 +105,8 @@ class Header extends HTMLElement {
         });
         this.dispatchEvent(navigateEvent);
       });
-      if (login && window.location.pathname === "/dashboard") {
+      
+      if (login && window.location.pathname !== "/") {
         login.style.display = "none";
       }
     }

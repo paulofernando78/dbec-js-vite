@@ -10,13 +10,13 @@
         "headerText": "CEFR (Common European Framework of Reference)",
         "descriptions": [
           {
-            "descriptionText": "<b>•</b> Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has."
+            "description": "<b>•</b> Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has."
           },
           {
-            "descriptionText": "<b>•</b> Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type."
+            "description": "<b>•</b> Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type."
           },
           {
-            "descriptionText": "<b>•</b> Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help."
+            "description": "<b>•</b> Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help."
           }
         ]
       }
@@ -30,10 +30,10 @@
         "headerText": "Lesson 1",
         "descriptions": [
           {
-            "descriptionText": "Welcome / Icebreaker"
+            "description": "Welcome / Icebreaker"
           },
           {
-            "descriptionText": "Let's get to know each other / one another better."
+            "description": "Let's get to know each other / one another better."
           }
         ]
       }
@@ -44,7 +44,7 @@
         "headerText": "Lesson 2",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to say hello and make introductions using my, your, his, and her."
+            "description": "By the end of this lesson, students will be able to say hello and make introductions using my, your, his, and her."
           }
         ],
         "hr": true,
@@ -73,7 +73,7 @@
         "headerText": "Lesson 3",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to say good-bye and exchange contact information using subject pronouns and the verb be."
+            "description": "By the end of this lesson, students will be able to say good-bye and exchange contact information using subject pronouns and the verb be."
           }
         ],
         "hr": true,
@@ -107,7 +107,7 @@
         "headerText": "Lesson 4",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to identify and discuss personal and classroom objects using the articles a/ an, plurals, this / these, and it / they."
+            "description": "By the end of this lesson, students will be able to identify and discuss personal and classroom objects using the articles a/ an, plurals, this / these, and it / they."
           }
         ],
         "hr": true,
@@ -136,7 +136,7 @@
         "headerText": "Lesson 5",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss the location of items using yes/ no and where questions with be, the article the, and prepositions of place."
+            "description": "By the end of this lesson, students will be able to discuss the location of items using yes/ no and where questions with be, the article the, and prepositions of place."
           }
         ],
         "hr": true,
@@ -165,13 +165,13 @@
         "headerText": "Lesson 6",
         "descriptions": [
           {
-            "descriptionText": "Learning objectives:"
+            "description": "Learning objectives:"
           },
           {
-            "descriptionText": "<b>•</b> reflect on one's learning"
+            "description": "<b>•</b> reflect on one's learning"
           },
           {
-            "descriptionText": "<b>•</b> identify areas that need improvement"
+            "description": "<b>•</b> identify areas that need improvement"
           }
         ],
         "hr": true,
@@ -195,7 +195,7 @@
         "headerText": "Lesson 7",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss cities, countries, nationalities, and languages using yes / no questions with be."
+            "description": "By the end of this lesson, students will be able to discuss cities, countries, nationalities, and languages using yes / no questions with be."
           }
         ],
         "hr": true,
@@ -224,7 +224,7 @@
         "headerText": "Lesson 8",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss people's appearances, personalities, and ages using Wh- questions with be."
+            "description": "By the end of this lesson, students will be able to discuss people's appearances, personalities, and ages using Wh- questions with be."
           }
         ],
         "hr": true,
@@ -253,7 +253,7 @@
         "headerText": "Lesson 9",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss work and free- time clothes and colors using possessive adjectives, possessive pronouns, and possessives with names."
+            "description": "By the end of this lesson, students will be able to discuss work and free- time clothes and colors using possessive adjectives, possessive pronouns, and possessives with names."
           }
         ],
         "hr": true,
@@ -282,7 +282,7 @@
         "headerText": "Lesson 10",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss the weather and what people are wearing using the present continuous and conjunctions."
+            "description": "By the end of this lesson, students will be able to discuss the weather and what people are wearing using the present continuous and conjunctions."
           }
         ],
         "hr": true,
@@ -311,13 +311,13 @@
         "headerText": "Lesson 11",
         "descriptions": [
           {
-            "descriptionText": "Learning objectives:"
+            "description": "Learning objectives:"
           },
           {
-            "descriptionText": "<b>•</b> reflect on one's learning"
+            "description": "<b>•</b> reflect on one's learning"
           },
           {
-            "descriptionText": "<b>•</b> identify areas that need improvement"
+            "description": "<b>•</b> identify areas that need improvement"
           }
         ],
         "hr": true,
@@ -341,7 +341,7 @@
         "headerText": "Lesson 12",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss cities and time zones using time expressions."
+            "description": "By the end of this lesson, students will be able to discuss cities and time zones using time expressions."
           }
         ],
         "hr": true,
@@ -370,7 +370,7 @@
         "headerText": "Lesson 13",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss people's activities using the present continuous."
+            "description": "By the end of this lesson, students will be able to discuss people's activities using the present continuous."
           }
         ],
         "hr": true,
@@ -399,7 +399,7 @@
         "headerText": "Lesson 14",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss transportation and family using simple present statements."
+            "description": "By the end of this lesson, students will be able to discuss transportation and family using simple present statements."
           }
         ],
         "hr": true,
@@ -428,7 +428,7 @@
         "headerText": "Lesson 15",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss daily and weekly routines using simple present questions."
+            "description": "By the end of this lesson, students will be able to discuss daily and weekly routines using simple present questions."
           }
         ],
         "hr": true,
@@ -457,13 +457,13 @@
         "headerText": "Lesson 16",
         "descriptions": [
           {
-            "descriptionText": "Learning objectives:"
+            "description": "Learning objectives:"
           },
           {
-            "descriptionText": "<b>•</b> reflect on one's learning"
+            "description": "<b>•</b> reflect on one's learning"
           },
           {
-            "descriptionText": "<b>•</b> identify areas that need improvement"
+            "description": "<b>•</b> identify areas that need improvement"
           }
         ],
         "hr": true,
@@ -487,7 +487,7 @@
         "headerText": "Lesson 17",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to describe houses and apartments using simple present questions and short answers."
+            "description": "By the end of this lesson, students will be able to describe houses and apartments using simple present questions and short answers."
           }
         ],
         "hr": true,
@@ -516,7 +516,7 @@
         "headerText": "Lesson 18",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss furniture, appliances, and dream homes using statements with there is / there are."
+            "description": "By the end of this lesson, students will be able to discuss furniture, appliances, and dream homes using statements with there is / there are."
           }
         ],
         "hr": true,
@@ -545,7 +545,7 @@
         "headerText": "Lesson 19",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss jobs and workplaces using simple present Wh- questions."
+            "description": "By the end of this lesson, students will be able to discuss jobs and workplaces using simple present Wh- questions."
           }
         ],
         "hr": true,
@@ -574,7 +574,7 @@
         "headerText": "Lesson 20",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to give opinions about jobs using be + adjective and adjective + noun."
+            "description": "By the end of this lesson, students will be able to give opinions about jobs using be + adjective and adjective + noun."
           }
         ],
         "hr": true,
@@ -603,13 +603,13 @@
         "headerText": "Lesson 21",
         "descriptions": [
           {
-            "descriptionText": "Learning objectives:"
+            "description": "Learning objectives:"
           },
           {
-            "descriptionText": "<b>•</b> reflect on one's learning"
+            "description": "<b>•</b> reflect on one's learning"
           },
           {
-            "descriptionText": "<b>•</b> identify areas that need improvement"
+            "description": "<b>•</b> identify areas that need improvement"
           }
         ],
         "hr": true,
@@ -633,13 +633,13 @@
         "headerText": "Lesson 22",
         "descriptions": [
           {
-            "descriptionText": "Learning objectives:"
+            "description": "Learning objectives:"
           },
           {
-            "descriptionText": "<b>•</b> reflect on one's learning"
+            "description": "<b>•</b> reflect on one's learning"
           },
           {
-            "descriptionText": "<b>•</b> identify areas that need improvement"
+            "description": "<b>•</b> identify areas that need improvement"
           }
         ],
         "hr": true,
@@ -663,7 +663,7 @@
         "headerText": "Lesson 23",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss foods they like, need, and have using some/ any and count / noncount nouns."
+            "description": "By the end of this lesson, students will be able to discuss foods they like, need, and have using some/ any and count / noncount nouns."
           }
         ],
         "hr": true,
@@ -692,7 +692,7 @@
         "headerText": "Lesson 24",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to describe eating habits using adverbs of frequency."
+            "description": "By the end of this lesson, students will be able to describe eating habits using adverbs of frequency."
           }
         ],
         "hr": true,
@@ -721,7 +721,7 @@
         "headerText": "Lesson 25",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss sports they watch and play using simple present Wh- questions."
+            "description": "By the end of this lesson, students will be able to discuss sports they watch and play using simple present Wh- questions."
           }
         ],
         "hr": true,
@@ -750,7 +750,7 @@
         "headerText": "Lesson 26",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss skills, abilities, and talents using can and can’t."
+            "description": "By the end of this lesson, students will be able to discuss skills, abilities, and talents using can and can’t."
           }
         ],
         "hr": true,
@@ -779,13 +779,13 @@
         "headerText": "Lesson 27",
         "descriptions": [
           {
-            "descriptionText": "Learning objectives:"
+            "description": "Learning objectives:"
           },
           {
-            "descriptionText": "<b>•</b> reflect on one's learning"
+            "description": "<b>•</b> reflect on one's learning"
           },
           {
-            "descriptionText": "<b>•</b> identify areas that need improvement"
+            "description": "<b>•</b> identify areas that need improvement"
           }
         ],
         "hr": true,
@@ -809,7 +809,7 @@
         "headerText": "Lesson 28",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss evening, weekend, and birthday plans using statements and yes / no questions with be going to."
+            "description": "By the end of this lesson, students will be able to discuss evening, weekend, and birthday plans using statements and yes / no questions with be going to."
           }
         ],
         "hr": true,
@@ -838,7 +838,7 @@
         "headerText": "Lesson 29",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss plans to celebrate holidays, special occasions, and festivals using Wh- questions with be going to."
+            "description": "By the end of this lesson, students will be able to discuss plans to celebrate holidays, special occasions, and festivals using Wh- questions with be going to."
           }
         ],
         "hr": true,
@@ -867,7 +867,7 @@
         "headerText": "Lesson 30",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss the body and common ailments using have + noun and feel + adjective."
+            "description": "By the end of this lesson, students will be able to discuss the body and common ailments using have + noun and feel + adjective."
           }
         ],
         "hr": true,
@@ -896,7 +896,7 @@
         "headerText": "Lesson 31",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss common remedies and give health advice using imperatives."
+            "description": "By the end of this lesson, students will be able to discuss common remedies and give health advice using imperatives."
           }
         ],
         "hr": true,
@@ -925,13 +925,13 @@
         "headerText": "Lesson 32",
         "descriptions": [
           {
-            "descriptionText": "Learning objectives:"
+            "description": "Learning objectives:"
           },
           {
-            "descriptionText": "<b>•</b> reflect on one's learning"
+            "description": "<b>•</b> reflect on one's learning"
           },
           {
-            "descriptionText": "<b>•</b> identify areas that need improvement"
+            "description": "<b>•</b> identify areas that need improvement"
           }
         ],
         "hr": true,
@@ -955,7 +955,7 @@
         "headerText": "Lesson 33",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss stores, items to buy in stores, and store locations using prepositions of place."
+            "description": "By the end of this lesson, students will be able to discuss stores, items to buy in stores, and store locations using prepositions of place."
           }
         ],
         "hr": true,
@@ -984,7 +984,7 @@
         "headerText": "Lesson 34",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to ask for and give directions to various locations."
+            "description": "By the end of this lesson, students will be able to ask for and give directions to various locations."
           }
         ],
         "hr": true,
@@ -1013,7 +1013,7 @@
         "headerText": "Lesson 35",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss weekend activities using simple past statements with regular and irregular verbs."
+            "description": "By the end of this lesson, students will be able to discuss weekend activities using simple past statements with regular and irregular verbs."
           }
         ],
         "hr": true,
@@ -1042,7 +1042,7 @@
         "headerText": "Lesson 36",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss vacation activities using simple past yes/ no questions and short answers."
+            "description": "By the end of this lesson, students will be able to discuss vacation activities using simple past yes/ no questions and short answers."
           }
         ],
         "hr": true,
@@ -1071,13 +1071,13 @@
         "headerText": "Lesson 37",
         "descriptions": [
           {
-            "descriptionText": "Learning objectives:"
+            "description": "Learning objectives:"
           },
           {
-            "descriptionText": "<b>•</b> reflect on one's learning"
+            "description": "<b>•</b> reflect on one's learning"
           },
           {
-            "descriptionText": "<b>•</b> identify areas that need improvement"
+            "description": "<b>•</b> identify areas that need improvement"
           }
         ],
         "hr": true,
@@ -1101,7 +1101,7 @@
         "headerText": "Lesson 38",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss family and personal history using the past of be."
+            "description": "By the end of this lesson, students will be able to discuss family and personal history using the past of be."
           }
         ],
         "hr": true,
@@ -1130,7 +1130,7 @@
         "headerText": "Lesson 39",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to discuss school experiences and memories using Wh- questions with did, was, and were."
+            "description": "By the end of this lesson, students will be able to discuss school experiences and memories using Wh- questions with did, was, and were."
           }
         ],
         "hr": true,
@@ -1159,7 +1159,7 @@
         "headerText": "Lesson 40",
         "descriptions": [
           {
-            "descriptionText": "By the end of this lesson, students will be able to make phone calls and leave messages using subject and object pronouns."
+            "description": "By the end of this lesson, students will be able to make phone calls and leave messages using subject and object pronouns."
           }
         ],
         "hr": true,
@@ -1188,7 +1188,7 @@
         "headerText": "Lesson 41",
         "descriptions": [
           {
-            "descriptionText": "By the end of Cycle 2, students will be able to make, accept, and decline invitations using Do you want to ... ?, Would you like to ... ?, and verb + to."
+            "description": "By the end of Cycle 2, students will be able to make, accept, and decline invitations using Do you want to ... ?, Would you like to ... ?, and verb + to."
           }
         ],
         "hr": true,
@@ -1217,13 +1217,13 @@
         "headerText": "Lesson 42",
         "descriptions": [
           {
-            "descriptionText": "Learning objectives:"
+            "description": "Learning objectives:"
           },
           {
-            "descriptionText": "<b>•</b> reflect on one's learning"
+            "description": "<b>•</b> reflect on one's learning"
           },
           {
-            "descriptionText": "<b>•</b> identify areas that need improvement"
+            "description": "<b>•</b> identify areas that need improvement"
           }
         ],
         "hr": true,
@@ -1247,13 +1247,13 @@
         "headerText": "Lesson 43",
         "descriptions": [
           {
-            "descriptionText": "Learning objectives:"
+            "description": "Learning objectives:"
           },
           {
-            "descriptionText": "<b>•</b> reflect on one's learning"
+            "description": "<b>•</b> reflect on one's learning"
           },
           {
-            "descriptionText": "<b>•</b> identify areas that need improvement"
+            "description": "<b>•</b> identify areas that need improvement"
           }
         ],
         "hr": true,
