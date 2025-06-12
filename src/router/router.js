@@ -43,9 +43,20 @@ const Router = {
       "/courses/intermediate": () => document.createElement("wc-intermediate-contents-page"),
 
       // EXTRAS
+
+      // Audiobooks
       "/extras/audiobooks": () => document.createElement("wc-audiobooks-contents-page"),
-      "/extras/grammar": () => document.createElement("wc-under-construction"),
+
+      //Grammar
+      "/extras/grammar": () => document.createElement("wc-grammar-contents-page"),
+      // Elementary
+      "/extras/grammar/elementary": () => document.createElement("wc-grammar-elementary"),
+      "/extras/grammar/intermediate": () => document.createElement("wc-grammar-intermediate"),
+
+      // Pronunciation
       "/extras/pronunciation": () => document.createElement("wc-under-construction"),
+
+      // Songs
       "/extras/songs": () => document.createElement("wc-under-construction"),
       
       // SPECIFIC PURPOSES

@@ -32,6 +32,12 @@ import IntermediateContentsPage from "../pages/courses/intermediate/intermediate
 
 // Extras
 import AudiobooksContentsPage from "../pages/extras/audiobooks/audiobooks-contents-page";
+// Grammar
+import GrammarContentsPage from "../pages/extras/grammar/grammar-contents-page";
+// Elementary
+import GrammarElementary from "../pages/extras/grammar/elementary/grammar-elementary";
+// Intermediate
+import GrammarIntermediate from "../pages/extras/grammar/intermediate/grammar-intermediate"
 
 // Specific Purposes
 import BusinessContentsPage from "../pages/specific-purposes/business/business-contents-page";
@@ -75,6 +81,12 @@ customElements.define("wc-intermediate-contents-page", IntermediateContentsPage)
 
 // Extras
 customElements.define("wc-audiobooks-contents-page", AudiobooksContentsPage)
+// Grammar
+customElements.define("wc-grammar-contents-page", GrammarContentsPage)
+// Elementary
+customElements.define("wc-grammar-elementary", GrammarElementary)
+// Intermediate
+customElements.define("wc-grammar-intermediate", GrammarIntermediate)
 
 // Specific Purposes
 customElements.define("wc-business-contents-page", BusinessContentsPage)

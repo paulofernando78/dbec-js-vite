@@ -3,9 +3,9 @@ import cssImportsPath from "/src/css/imports.css?inline";
 class AudioPlayer extends HTMLElement {
   constructor() {
     super();
-    this.attachShadow({ mode: "open" });
+    this.attachShadow({ mode: "open" })
     this.build();
-  }
+  }b
 
   build() {
     const cssImports = document.createElement("style");
