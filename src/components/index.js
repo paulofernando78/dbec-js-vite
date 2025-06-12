@@ -1,5 +1,6 @@
 
 // Atoms
+import AudioPlayer from "./atoms/AudioPlayer";
 import Button from "./atoms/Button";
 import Ribbon from "./atoms/Ribbon"
 import Card from "./atoms/Card";
@@ -50,6 +51,7 @@ import SbelaaLesson1 from "../pages/specific-purposes/business/sbelaa/lesson-1";
 
 
 // Atoms
+customElements.define("wc-audio-player", AudioPlayer)
 customElements.define("wc-button", Button);
 customElements.define("wc-ribbon", Ribbon);
 customElements.define("wc-card", Card)

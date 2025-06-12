@@ -50,6 +50,12 @@ class Contents extends HTMLElement {
           contentContainer.appendChild(paragraph);
         });
       }
+
+      if (section.audioPlayer) {
+        const audioPlayer = document.createElement("wc-audio-player");
+        audioPlayer.data = section.audioPlayer;
+        contentContainer.appendChild(audioPlayer)
+      }
     });
 
     this.shadowRoot.appendChild(contentContainer);

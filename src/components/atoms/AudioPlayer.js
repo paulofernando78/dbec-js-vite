@@ -5,12 +5,20 @@ class AudioPlayer extends HTMLElement {
     super();
     this.attachShadow({ mode: "open" })
     this.build();
-  }b
+  }
 
   build() {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
+    /*css*/
+    cssImports.textContent += `
+      audio {
+        display: block;
+        width: 100%;
+        height: 40px
+      }
+    `
 
     this.audioPlayer = document.createElement("audio");
     this.shadowRoot.append(this.audioPlayer);
@@ -21,7 +29,8 @@ class AudioPlayer extends HTMLElement {
   }
 
   render(audioPlayer) {
-    this.p.innerHTML = audioPlayer.ptText;
+    this.audioPlayer.controls = true;
+    this.audioPlayer.src = audioPlayer[0]?.src || "";
   }
 }
 
