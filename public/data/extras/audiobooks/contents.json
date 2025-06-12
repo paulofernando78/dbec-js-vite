@@ -9,8 +9,9 @@
         "label": "Starter (Pre-A1) 200 headwords"
       },
       "card": {
+        "bgColor": "var(--gray-4)",
         "headerText": "Kids",
-        "links": [
+        "items": [
           {
             "svg": "audiobooks",
             "link": "/src/extras/audiobooks/starter/kids/cinderella",
@@ -41,8 +42,9 @@
     },
     {
       "card": {
+        "bgColor": "var(--gray-4)",
         "headerText": "Young learners / Adults",
-        "links": [
+        "items": [
           {
             "svg": "audiobooks",
             "link": "/src/extras/audiobooks/starter/young-learners-adults/",
@@ -107,6 +109,130 @@
             "svg": "audiobooks",
             "link": "/src/extras/audiobooks/starter/young-learners-adults/",
             "label": "Who Wants to be a star"
+          }
+        ]
+      }
+    },
+    {
+      "ribbon": {
+        "label": "Beginner (A1)"
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "Kids",
+        "items": [
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/kids/",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "Young learners / Adults",
+        "items": [
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "ribbon": {
+        "label": "Elementary (A2)"
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "Kids",
+        "items": [
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/kids/",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "Young learners / Adults",
+        "items": [
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "ribbon": {
+        "label": "Pre-Intermediate (A2-B1)"
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "Kids",
+        "items": [
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/kids/",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "Young learners / Adults",
+        "items": [
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "ribbon": {
+        "label": "Intermediate (B1)"
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "Kids",
+        "items": [
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/kids/",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "Young learners / Adults",
+        "items": [
+          {
+            "svg": "audiobooks",
+            "link": "/src/extras/audiobooks/starter/young-learners-adults/",
+            "label": "..."
           }
         ]
       }

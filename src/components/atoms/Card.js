@@ -63,7 +63,7 @@ class Card extends HTMLElement {
   }
 
   render(card) {
-    const bgColor = bookBgColors[card.bgColor] || "#000";
+    const bgColor = bookBgColors[card.bgColor] || card.bgColor || "#000";
     const textColor = card.textColor || "#fff"
 
     const template = document.createElement("template"); /*html*/
