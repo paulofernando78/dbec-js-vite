@@ -1,0 +1,47 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Audiobooks",
+    "descriptions": [
+      {
+        "description": "Starter (Pre-A1)"
+      },
+      {
+        "description": "A New Zealand Adventure"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "label": "Summary"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "enText": "Sarah and Jessica arrive in New Zealand for a holiday. They find a mobile phone in the taxi from the airport. It is Michael's mobile, but can they find him? He has messages from home - are they important? Go with the girls on a New Zealand adventure."
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "label": "Paragraph 1"
+      }
+    },
+    {
+      "audioPlayer": [
+        {
+          "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-1.mp3"
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "enText": "Sarah and Jessica arrive in New Zealand for a holiday. They find a mobile phone in the taxi from the airport. It is Michael's mobile, but can they find him? He has messages from home - are they important? Go with the girls on a New Zealand adventure."
+        }
+      ]
+    }
+  ]
+}

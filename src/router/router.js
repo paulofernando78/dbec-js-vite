@@ -46,6 +46,7 @@ const Router = {
 
       // Audiobooks
       "/extras/audiobooks": () => document.createElement("wc-audiobooks-contents-page"),
+      "/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure": () => document.createElement("wc-audiobooks-a-new-zealand-adventure"),
 
       //Grammar
       "/extras/grammar": () => document.createElement("wc-grammar-contents-page"),
