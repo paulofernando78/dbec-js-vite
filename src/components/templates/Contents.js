@@ -42,7 +42,6 @@ class Contents extends HTMLElement {
       }
 
       // Paragraph
-
       if (section.paragraphs) {
         section.paragraphs.forEach((p) => {
           const paragraph = document.createElement("wc-paragraph");
@@ -51,10 +50,20 @@ class Contents extends HTMLElement {
         });
       }
 
+      //Image
+      if (section.images) {
+        section.images.forEach((img) => {
+          const image = document.createElement("wc-image");
+          image.data = img;
+          contentContainer.appendChild(image)
+        });
+      }
+
+      // Audioplayer
       if (section.audioPlayer) {
         const audioPlayer = document.createElement("wc-audio-player");
         audioPlayer.data = section.audioPlayer;
-        contentContainer.appendChild(audioPlayer)
+        contentContainer.appendChild(audioPlayer);
       }
     });
 

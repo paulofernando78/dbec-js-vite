@@ -18,7 +18,21 @@
       }
     },
     {
+      "images": [
+        {
+          "width": "200px",
+          "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/cover.jpg",
+          "alt": "A new zealand adventure cover"
+        }
+      ]
+    },
+    {
       "paragraphs": [
+        {
+          "imgPosition": "",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/-new-zealand-adventure/cover.png",
+          "imgAlt": "A new zealand adventure cover"
+        },
         {
           "enText": "Sarah and Jessica arrive in New Zealand for a holiday. They find a mobile phone in the taxi from the airport. It is Michael's mobile, but can they find him? He has messages from home - are they important? Go with the girls on a New Zealand adventure."
         }
