@@ -15,10 +15,12 @@ class Whiteboard extends HTMLElement {
     const style = document.createElement("style"); /*css*/
     style.textContent = `
       div {
+        color: black;
         padding: var(--padding);
         border: 8px solid gray;
         border-radius: 5px;
-        background-image: url("/assets/img/whiteboard.png");
+        box-shadow: var(--box-shadow);
+        background-image: url("/assets/images/general/whiteboard.png");
         background-size: cover;
         background-position: center;
         margin-bottom: 20px;

@@ -21,8 +21,8 @@ body {
   font-family: "Montserrat", sans-serif;
   font-display: swap;
   transition: background-color 1s, color 1s;
+  scrollbar-gutter: stable
   /* user-select: none; */
-  /* scrollbar-gutter: stable */
 }
 
 body.dark {

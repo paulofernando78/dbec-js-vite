@@ -6,8 +6,14 @@ class Footer extends HTMLElement {
     const style = document.createElement("style"); /*css*/
     style.textContent = `
       footer {
-        margin: 1rem;
-        text-align: center
+        text-align: center;
+        border: var(--border);
+        border-radius: var(--border-radius);
+
+      small {
+        font-family: "Anton", sans-serif;
+        font-size: 1rem;
+}
       }
     `;
 

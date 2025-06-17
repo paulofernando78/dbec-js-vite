@@ -19,6 +19,7 @@ li {
 
 a {
   text-decoration: none;
+  color: var(--text-color);
 }
 
 img, picture, video, canvas, svg {

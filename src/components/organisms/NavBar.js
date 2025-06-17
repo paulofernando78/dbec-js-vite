@@ -34,8 +34,8 @@ class NavBar extends HTMLElement {
         border-radius: var(--border-radius);
         box-shadow: var(--box-shadow);
         padding: var(--padding);
-        width: max-content;
-        height: 100dvh;
+        height: 100%;
+        overflow: auto
       }
 
       .section-title {

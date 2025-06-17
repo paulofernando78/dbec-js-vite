@@ -25,11 +25,6 @@
   filter: drop-shadow(0 0 5px gray);
 }
 
-.dbec {
-  font-family: "Anton", sans-serif;
-  font-size: 1.1rem;
-}
-
 svg {
   min-width: 24px;
 }
@@ -43,4 +38,8 @@ svg {
   position: relative;
   top: 2px;
   left: 1px;
+}
+
+.contact-container {
+  margin-bottom: 20px;
 }

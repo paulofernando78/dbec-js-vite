@@ -7,7 +7,6 @@ class Header extends HTMLElement {
     css.textContent = `
       header {
         height: auto;
-        margin-bottom: .625rem;
         padding: var(--padding);
         border: var(--border);
         border-radius: var(--border-radius);
@@ -17,12 +16,12 @@ class Header extends HTMLElement {
         align-items: center;
       }
 
-      span {
-        display: inline-block;
-        font-family: "Anton", sans-serif;
-        font-size: 1.25rem;
-        text-align: center;
-      }
+      // span {
+      //   display: inline-block;
+      //   font-family: "Anton", sans-serif;
+      //   font-size: 1.25rem;
+      //   text-align: center;
+      // }
 
       .left-button {
         position: relative;
@@ -51,7 +50,6 @@ class Header extends HTMLElement {
         <div>
         <wc-button data-icon="menu" class="left-button" id="menu-button"></wc-button>
         </div>
-        <span id="logo-name">DAILY BASIS ENGLISH COURSE</span>
         <div>
           <wc-button data-icon="darkMode" class="right-button"></wc-button>
           <wc-button data-icon="login" class="right-button"></wc-button>

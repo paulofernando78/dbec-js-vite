@@ -12,17 +12,27 @@ class Layout extends HTMLElement {
     const style = document.createElement("style"); /*css*/
     style.textContent = `
       .layout {
-        display: flex;
-        gap: 10px
+        display: grid;
+        grid-template-columns: auto 1fr;
+        grid-template-rows: auto 1fr auto;
+        gap: 10px;
+        height: calc(100dvh - 20px)
+      }
+
+      .grid-span {
+        grid-column: 1 / 3
       }
 
       #app {
-        width: 100%;
-        height: 100%
+        grid-column: 2;
+        grid-row: 2;
+        overflow-y: auto;
+        padding-right: 8px
       }
 
       @media (max-width: 768px) {
         .layout {
+          display: flex;
           flex-direction: column
         }
 
@@ -36,14 +46,15 @@ class Layout extends HTMLElement {
       }
       `;
 
-
-      
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
-      <wc-header></wc-header>
       <div class="layout">
-        <wc-navbar></wc-navbar>
+        <wc-header class="grid-span"></wc-header>
+        <aside>
+          <wc-navbar></wc-navbar>
+        </aside>
         <div id="app"></div>
+        <wc-footer class="grid-span"></wc-footer>
       </div>
     `;
 
