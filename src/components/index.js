@@ -25,33 +25,9 @@ import Contents from "./templates/Contents";
 
 // Pages
 import Welcome from "./organisms/welcome";
-
-// Courses
-import BeginnerContentsPage from "../pages/courses/beginner/beginner-contents-page";
-import ElementaryContentsPage from "../pages/courses/elementary/elementary-contents-page";
-import PreIntermediateContentsPage from "../pages/courses/pre-intermediate/pre-intermediate-contents-page";
-import IntermediateContentsPage from "../pages/courses/intermediate/intermediate-contents-page";
-
-// Extras
-import AudiobooksContentsPage from "../pages/extras/audiobooks/audiobooks-contents-page";
-import AudiobooksANewZealandAdventure from "../pages/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure"
-
-// Grammar
-import GrammarContentsPage from "../pages/extras/grammar/grammar-contents-page";
-// Elementary
-import GrammarElementary from "../pages/extras/grammar/elementary/grammar-elementary";
-// Intermediate
-import GrammarIntermediate from "../pages/extras/grammar/intermediate/grammar-intermediate"
-
-// Specific Purposes
-import BusinessContentsPage from "../pages/specific-purposes/business/business-contents-page";
-
-// Speak Business English Like an American
-import SbelaaContentsPage from "../pages/specific-purposes/business/sbelaa/sbelaa-contents-page";
-import SbelaaLesson1 from "../pages/specific-purposes/business/sbelaa/lesson-1";
+import ContentPage from "../pages/content-page";
 
 // ******************************
-
 
 // Atoms
 customElements.define("wc-audio-player", AudioPlayer)
@@ -78,28 +54,4 @@ customElements.define("wc-contents", Contents)
 
 // Pages
 customElements.define("wc-welcome", Welcome);
-
-// Courses
-customElements.define("wc-beginner-contents-page", BeginnerContentsPage)
-customElements.define("wc-elementary-contents-page", ElementaryContentsPage)
-customElements.define("wc-pre-intermediate-contents-page", PreIntermediateContentsPage)
-customElements.define("wc-intermediate-contents-page", IntermediateContentsPage)
-
-// Extras
-customElements.define("wc-audiobooks-contents-page", AudiobooksContentsPage)
-customElements.define("wc-audiobooks-a-new-zealand-adventure", AudiobooksANewZealandAdventure)
-
-
-// Grammar
-customElements.define("wc-grammar-contents-page", GrammarContentsPage)
-// Elementary
-customElements.define("wc-grammar-elementary", GrammarElementary)
-// Intermediate
-customElements.define("wc-grammar-intermediate", GrammarIntermediate)
-
-// Specific Purposes
-customElements.define("wc-business-contents-page", BusinessContentsPage)
-
-// Speak Business English Like an American
-customElements.define("wc-sbelaa-contents-page", SbelaaContentsPage)
-customElements.define("wc-sbelaa-lesson-1", SbelaaLesson1)
+customElements.define("wc-content-page", ContentPage)
