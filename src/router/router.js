@@ -39,13 +39,24 @@ const Router = {
 
     const routeHandler = routes[path];
 
+    const lessonMatch = path.match(/^\/courses\/([^\/]+)\/lesson-(\d+)\/([^\/]+)$/);
+      if (lessonMatch) {
+        const [, level, lesson, part] = lessonMatch;
+        const node = document.createElement("wc-data-page");
+        node.setAttribute("path", `courses/${level}`);
+        node.setAttribute("lesson", lesson);
+        node.setAttribute("part", part);
+        content.appendChild(node);
+        return;
+      }
+
     if (routeHandler) {
       const node = routeHandler(); // invoke function
       content.appendChild(node);
     } else {
       const contentMatch = path.match(/^\/(courses|extras|specific-purposes)(\/.+)+$/);
       if (contentMatch) {
-        const node = document.createElement("wc-content-page");
+        const node = document.createElement("wc-data-page");
         node.setAttribute("path", path.slice(1));
         content.appendChild(node);
         return;

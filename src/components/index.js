@@ -25,7 +25,7 @@ import Contents from "./templates/Contents";
 
 // Pages
 import Welcome from "./organisms/welcome";
-import ContentPage from "../pages/content-page";
+import DataPage from "../pages/data-page";
 
 // ******************************
 
@@ -54,4 +54,4 @@ customElements.define("wc-contents", Contents)
 
 // Pages
 customElements.define("wc-welcome", Welcome);
-customElements.define("wc-content-page", ContentPage)
+customElements.define("wc-data-page", DataPage)
