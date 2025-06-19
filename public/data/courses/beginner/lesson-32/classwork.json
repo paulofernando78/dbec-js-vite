@@ -4,21 +4,23 @@
     "subtitle": "Beginner",
     "descriptions": [
       {
-        "description": "Lesson 2"
+        "description": "Lesson 32"
       },
       {
         "description": "Classwork"
       },
       {
-        "description": "What's your name (Cycle 1)"
+        "description": "Review lessons 28-31 + Written and Oral Quiz"
       }
     ]
   },
   "contents": [
     {
-      "ribbon": {
-        "label": "Teste"
-      }
+      "paragraphs": [
+        {
+          "enText": "<b>Under construction...</b>"
+        }
+      ]
     }
   ]
 }

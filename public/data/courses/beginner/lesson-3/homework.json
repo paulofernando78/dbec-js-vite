@@ -4,21 +4,23 @@
     "subtitle": "Beginner",
     "descriptions": [
       {
-        "description": "Lesson 2"
+        "description": "Lesson 3"
       },
       {
         "description": "Homework"
       },
       {
-        "description": "What's your name (Cycle 1)"
+        "description": "What's your name (Cycle 2)"
       }
     ]
   },
   "contents": [
     {
-      "ribbon": {
-        "label": "Teste"
-      }
+      "paragraphs": [
+        {
+          "enText": "<b>Under construction...</b>"
+        }
+      ]
     }
   ]
 }
