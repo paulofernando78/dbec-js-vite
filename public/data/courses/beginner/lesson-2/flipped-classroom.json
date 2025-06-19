@@ -17,7 +17,40 @@
   "contents": [
     {
       "ribbon": {
-        "label": "..."
+        "label": "The Alphabet"
+      }
+    },
+    {
+      "audioPlayer": [
+        {
+          "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-1.mp3"
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "label": "Titles"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+        "enText": "Mr. = Single or married male"
+        },
+        {
+        "enText": "Mrs. = Married females"
+        },
+        {
+        "enText": "Ms. Single or Married females"
+        },
+        {
+        "enText": "Miss. Single females"
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "label": "My, your, his, her"
       }
     }
   ]
