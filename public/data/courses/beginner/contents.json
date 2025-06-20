@@ -874,17 +874,17 @@
         "items": [
           {
             "svg": "beginner",
-            "link": "/courses/beginner/lesson-31/flipped-classroom",
+            "link": "/courses/beginner/lesson-30/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> How do you feel? (Cycle 1)"
           },
           {
             "svg": "beginner",
-            "link": "/courses/beginner/lesson-31/classwork",
+            "link": "/courses/beginner/lesson-30/classwork",
             "label": "Classwork <b>•</b> How do you feel? (Cycle 1)"
           },
           {
             "svg": "beginnerAssignment",
-            "link": "/courses/beginner/lesson-31/homework",
+            "link": "/courses/beginner/lesson-30/homework",
             "label": "Homework <b>•</b> How do you feel? (Cycle 1)"
           }
         ]
