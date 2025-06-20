@@ -10,48 +10,17 @@
         "description": "Flipped classroom"
       },
       {
-        "description": "..."
+        "description": "Good memories (Cycle 1)"
       }
     ]
   },
   "contents": [
     {
-      "ribbon": {
-        "label": "The Alphabet"
-      }
-    },
-    {
-      "audioPlayer": [
-        {
-          "src": "/assets/audio/"
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "label": "Titles"
-      }
-    },
-    {
       "paragraphs": [
         {
-          "enText": "Mr. = Single or married male"
-        },
-        {
-          "enText": "Mrs. = Married females"
-        },
-        {
-          "enText": "Ms. = Single or Married females"
-        },
-        {
-          "enText": "Miss. = Single females"
+          "enText": "<b>Under construction...</b>"
         }
       ]
-    },
-    {
-      "ribbon": {
-        "label": "My, your, his, her"
-      }
     }
   ]
 }
