@@ -7,4 +7,51 @@
         "description": "Lesson 2"
       },
       {
-        "description": "
+        "description": "Flipped classroom"
+      },
+      {
+        "description": "What's your name (Cycle 1)"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "label": "The Alphabet"
+      }
+    },
+    {
+      "audioPlayer": [
+        {
+          "src": "/assets/audio/"
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "label": "Titles"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "enText": "Mr. = Single or married male"
+        },
+        {
+          "enText": "Mrs. = Married females"
+        },
+        {
+          "enText": "Ms. = Single or Married females"
+        },
+        {
+          "enText": "Miss. = Single females"
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "label": "My, your, his, her"
+      }
+    }
+  ]
+}
