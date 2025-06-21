@@ -66,6 +66,19 @@ const Router = {
       return;
     }
 
+    // Generic units
+    const genericUnitsMatch = path.match(
+      /^\/(.+)\/unit-(\d+)$/
+    );
+    if (genericUnitsMatch) {
+      const [, basePath, unit] = genericUnitsMatch;
+      const node = document.createElement("wc-data-page");
+      node.setAttribute("path", basePath);
+      node.setAttribute("unit", unit);
+      content.appendChild(node);
+      return;
+    }
+
     if (routeHandler) {
       const node = routeHandler(); // invoke function
       content.appendChild(node);

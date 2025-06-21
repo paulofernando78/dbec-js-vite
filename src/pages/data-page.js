@@ -20,14 +20,18 @@ class DataPage extends HTMLElement {
     let JSON_PATH;
     const lesson = this.getAttribute("lesson");
     const part = this.getAttribute("part");
+    const unit = this.getAttribute("unit")
     // console.log("🚀 Atributos recebidos:", { path, lesson, part });
     
 
-    if (lesson && part) {
+    if (lesson && unit && part) {
       JSON_PATH = `/data/${path}/lesson-${lesson}/${part}.json`;
     } else if (lesson) {
       JSON_PATH = `/data/${path}/lesson-${lesson}.json`;
-    } else {
+    } else if (unit) {
+      JSON_PATH = `/data/${path}/unit-${unit}.json`;
+    } 
+    else {
       JSON_PATH = `/data/${path}/contents.json`;
     }
 

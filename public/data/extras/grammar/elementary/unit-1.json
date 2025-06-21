@@ -1,0 +1,70 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Extra",
+    "descriptions": [
+      {
+        "description": "Elementary"
+      },
+      {
+        "description": "Unit 1"
+      },
+      {
+        "description": "..."
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-4)",
+        "label": "A"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "enText": "..."
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-4)",
+        "label": "B"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "enText": "..."
+        }
+      ]
+    },{
+      "ribbon": {
+        "bgColor": "var(--gray-4)",
+        "label": "C"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "enText": "..."
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-4)",
+        "label": "D"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "enText": "..."
+        }
+      ]
+    }
+  ]
+}
