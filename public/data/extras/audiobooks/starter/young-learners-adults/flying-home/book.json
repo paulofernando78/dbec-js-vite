@@ -1,0 +1,52 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Audiobooks",
+    "descriptions": [
+      {
+        "description": "Starter (Pre-A1)"
+      },
+      {
+        "description": "Flying Home"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "label": "Summary"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "imgPosition": "",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1"
+        },
+        {
+          "enText": "..."
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "label": "Paragraph 1"
+      }
+    },
+    {
+      "audioPlayer": [
+        {
+          "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/audio.mp3"
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "enText": "..."
+        }
+      ]
+    }
+  ]
+}

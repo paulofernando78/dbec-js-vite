@@ -39,50 +39,60 @@ const Router = {
 
     const routeHandler = routes[path];
 
-    // courses/{level}/lesson-{number}/{part}
-    const courseLessonMatch = path.match(
-      /^\/courses\/([^\/]+)\/lesson-(\d+)\/([^\/]+)$/
-    );
-    if (courseLessonMatch) {
-      const [, level, lesson, part] = courseLessonMatch;
-      const node = document.createElement("wc-data-page");
-      node.setAttribute("path", `courses/${level}`);
-      node.setAttribute("lesson", lesson);
-      node.setAttribute("part", part);
-      content.appendChild(node);
-      return;
-    }
-
-    // Generic lessons
-    const genericLessonMatch = path.match(
-      /^\/(.+)\/lesson-(\d+)$/
-    );
-    if (genericLessonMatch) {
-      const [, basePath, lesson] = genericLessonMatch;
-      const node = document.createElement("wc-data-page");
-      node.setAttribute("path", basePath);
-      node.setAttribute("lesson", lesson);
-      content.appendChild(node);
-      return;
-    }
-
-    // Generic units
-    const genericUnitsMatch = path.match(
-      /^\/(.+)\/unit-(\d+)$/
-    );
-    if (genericUnitsMatch) {
-      const [, basePath, unit] = genericUnitsMatch;
-      const node = document.createElement("wc-data-page");
-      node.setAttribute("path", basePath);
-      node.setAttribute("unit", unit);
-      content.appendChild(node);
-      return;
-    }
-
     if (routeHandler) {
       const node = routeHandler(); // invoke function
       content.appendChild(node);
     } else {
+      
+      // courses/{level}/lesson-{number}/{part}
+      const courseLessonMatch = path.match(
+        /^\/courses\/([^\/]+)\/lesson-(\d+)\/([^\/]+)$/
+      );
+      if (courseLessonMatch) {
+        const [, level, lesson, part] = courseLessonMatch;
+        const node = document.createElement("wc-data-page");
+        node.setAttribute("path", `courses/${level}`);
+        node.setAttribute("lesson", lesson);
+        node.setAttribute("part", part);
+        content.appendChild(node);
+        console.log("Matched course lesson part route:");
+        console.log({ level, lesson, part });
+        return;
+      }
+
+      // Generic lessons
+      const genericLessonMatch = path.match(/^\/(.+)\/lesson-(\d+)$/);
+      if (genericLessonMatch) {
+        const [, basePath, lesson] = genericLessonMatch;
+        const node = document.createElement("wc-data-page");
+        node.setAttribute("path", basePath);
+        node.setAttribute("lesson", lesson);
+        content.appendChild(node);
+        return;
+      }
+
+      // Generic units
+      const genericUnitsMatch = path.match(/^\/(.+)\/unit-(\d+)$/);
+      if (genericUnitsMatch) {
+        const [, basePath, unit] = genericUnitsMatch;
+        const node = document.createElement("wc-data-page");
+        node.setAttribute("path", basePath);
+        node.setAttribute("unit", unit);
+        content.appendChild(node);
+        return;
+      }
+
+      // Generic books
+      const genericBooksMatch = path.match(/^\/(.+)\/book$/);
+      if (genericBooksMatch) {
+        const [, basePath] = genericBooksMatch;
+        const node = document.createElement("wc-data-page");
+        node.setAttribute("path", basePath);
+        node.setAttribute("book", "true");
+        content.appendChild(node);
+        return;
+      }
+
       // For all contents.json
       const contentMatch = path.match(
         /^\/(courses|extras|specific-purposes)(\/.+)+$/

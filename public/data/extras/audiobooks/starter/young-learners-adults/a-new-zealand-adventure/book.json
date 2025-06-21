@@ -18,15 +18,6 @@
       }
     },
     {
-      "images": [
-        {
-          "width": "200px",
-          "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/cover.jpg",
-          "alt": "A new zealand adventure cover"
-        }
-      ]
-    },
-    {
       "paragraphs": [
         {
           "imgPosition": "",
@@ -46,7 +37,7 @@
     {
       "audioPlayer": [
         {
-          "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-1.mp3"
+          "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/-new-zealand-adventure/audio.mp3"
         }
       ]
     },
