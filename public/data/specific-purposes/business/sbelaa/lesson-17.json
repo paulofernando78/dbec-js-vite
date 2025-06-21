@@ -1,0 +1,86 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "description": "Lesson 17"
+      },
+      {
+        "description": "Telling Somebody Off"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "audioPlayer": [
+        {
+          "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-17.mp3"
+        }
+      ]
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "Lesson 17 • Telling Somebody Off",
+        "descriptions": [
+          {
+            "description": "..."
+          }
+        ]
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ...."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        }
+      ]
+    }
+  ]
+}

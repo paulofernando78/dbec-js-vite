@@ -1,0 +1,86 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "description": "Lesson 22"
+      },
+      {
+        "description": "Calling In Sick"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "audioPlayer": [
+        {
+          "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-22.mp3"
+        }
+      ]
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "Lesson 22 • Calling In Sick",
+        "descriptions": [
+          {
+            "description": "..."
+          }
+        ]
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ...."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        }
+      ]
+    }
+  ]
+}

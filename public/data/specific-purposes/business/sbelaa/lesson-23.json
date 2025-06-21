@@ -1,0 +1,86 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "description": "Lesson 23"
+      },
+      {
+        "description": "Requesting A Bank Loan"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "audioPlayer": [
+        {
+          "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-23.mp3"
+        }
+      ]
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "Lesson 23 • Requesting A Bank Loan",
+        "descriptions": [
+          {
+            "description": "..."
+          }
+        ]
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ...."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        }
+      ]
+    }
+  ]
+}

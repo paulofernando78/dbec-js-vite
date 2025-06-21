@@ -1,0 +1,86 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "description": "Lesson 20"
+      },
+      {
+        "description": "Talking About A Brown Noser"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "audioPlayer": [
+        {
+          "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-20.mp3"
+        }
+      ]
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "Lesson 20 • Talking About A Brown Noser",
+        "descriptions": [
+          {
+            "description": "..."
+          }
+        ]
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ...."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        }
+      ]
+    }
+  ]
+}

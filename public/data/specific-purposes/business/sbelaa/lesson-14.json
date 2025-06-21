@@ -1,0 +1,86 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "description": "Lesson 14"
+      },
+      {
+        "description": "Taking Credit For Good Results"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "audioPlayer": [
+        {
+          "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-14.mp3"
+        }
+      ]
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "Lesson 14 • Taking Credit For Good Results",
+        "descriptions": [
+          {
+            "description": "..."
+          }
+        ]
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ...."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        },
+        {
+          "enText": "<b>xxx:</b> ..."
+        }
+      ]
+    }
+  ]
+}
