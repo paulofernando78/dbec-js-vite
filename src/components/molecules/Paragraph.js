@@ -4,16 +4,31 @@ class Paragraph extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-    this.build();
-  }
 
-  build() {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
+    const css = document.createElement("style");
+    /*css*/
+    css.textContent = `
+      .img-left {
+        display: grid;
+        grid-template-columns: 200px 1fr;
+        gap: 10px
+      }
+      .img-right {
+        display: grid;
+        grid-template-columns: 1fr 200px;
+        gap: 10px
+      }
+    `;
+
+    this.image = document.createElement("wc-image");
     this.p = document.createElement("p");
-    this.shadowRoot.append(this.p);
+
+    this.container = document.createElement("div");
+    this.shadowRoot.append(css, this.container);
   }
 
   set data(paragraph) {
@@ -21,8 +36,33 @@ class Paragraph extends HTMLElement {
   }
 
   render(paragraph) {
-    this.p.style.color = paragraph.textColor;
+    const hasImage = paragraph.imgSrc || paragraph.imgAlt;
+
+    if (hasImage) {
+      this.image.data = {
+        src: paragraph.imgSrc || "",
+        alt: paragraph.imgAlt || "",
+        width: paragraph.imgWidth || "100%",
+      };
+    }
+
+    this.p.style.color = paragraph.textColor || "inherit";
     this.p.innerHTML = paragraph.enText || paragraph.ptText || "";
+
+    const position = paragraph.imgPosition || "left";
+    const validPosition =
+      position === "left" || position === "right" ? position : "left";
+    this.container.className = hasImage ? `img-${validPosition}` : "";
+
+    this.container.innerHTML = "";
+
+    if (paragraph.imgPosition === "right") {
+      this.container.appendChild(this.p);
+      this.container.appendChild(this.image);
+    } else {
+      this.container.appendChild(this.image);
+      this.container.appendChild(this.p);
+    }
   }
 }
 
