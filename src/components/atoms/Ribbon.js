@@ -1,10 +1,12 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-import { schedule, page } from "@images/svg-imports";
+import { schedule, page, pages, songs } from "@images/svg-imports";
 
 const svgIcons = {
   schedule,
-  page
+  page,
+  pages,
+  songs
 };
 class Ribbon extends HTMLElement {
   constructor() {
@@ -64,6 +66,7 @@ class Ribbon extends HTMLElement {
       this.div.appendChild(subIcon);
       console.log('subIcon:', ribbon.subIcon, svgIcons[ribbon.subIcon]);
     }
+
 
     if (ribbon.subLabel) {
       const subLabel = document.createElement("span");

@@ -6,7 +6,8 @@
   "contents": [
     {
       "ribbon": {
-        "label": "Starter (Pre-A1) 200 headwords"
+        "icon": "pages",
+        "iconLabel": "Starter (Pre-A1) 200 headwords"
       },
       "card": {
         "bgColor": "var(--gray-4)",
@@ -115,7 +116,8 @@
     },
     {
       "ribbon": {
-        "label": "Beginner (A1)"
+        "icon": "pages",
+        "iconLabel": "Beginner (A1)"
       }
     },
     {
@@ -146,7 +148,8 @@
     },
     {
       "ribbon": {
-        "label": "Elementary (A2)"
+        "icon": "pages",
+        "iconLabel": "Elementary (A2)"
       }
     },
     {
@@ -177,7 +180,8 @@
     },
     {
       "ribbon": {
-        "label": "Pre-Intermediate (A2-B1)"
+        "icon": "pages",
+        "iconLabel": "Pre-Intermediate (A2-B1)"
       }
     },
     {
@@ -208,7 +212,8 @@
     },
     {
       "ribbon": {
-        "label": "Intermediate (B1)"
+        "icon": "pages",
+        "iconLabel": "Intermediate (B1)"
       }
     },
     {

@@ -1,0 +1,54 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Songs"
+  },
+  "contents": [
+    {
+      "paragraphs": [
+        {
+        "enText": "<b>Under construction</b>"
+        }
+      ]
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "A",
+        "items": [
+          {
+            "svg": "songs",
+            "link": "/extras/songs/",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "B",
+        "items": [
+          {
+            "svg": "songs",
+            "link": "/extras/songs/",
+            "label": "..."
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-4)",
+        "headerText": "C",
+        "items": [
+          {
+            "svg": "songs",
+            "link": "/extras/songs/",
+            "label": "..."
+          }
+        ]
+      }
+    }
+  ]
+}

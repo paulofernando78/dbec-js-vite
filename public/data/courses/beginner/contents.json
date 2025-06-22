@@ -23,7 +23,8 @@
     },
     {
       "ribbon": {
-        "label": "Lessons 1 - 6 + Written and Oral Quiz"
+        "icon": "pages",
+        "iconLabel": "Lessons 1 - 6 + Written and Oral Quiz"
       },
       "card": {
         "bgColor": "beginner",
@@ -186,7 +187,8 @@
     },
     {
       "ribbon": {
-        "label": "Lessons 7 - 11 + Written and Oral Quiz"
+        "icon": "pages",
+        "iconLabel": "Lessons 7 - 11 + Written and Oral Quiz"
       }
     },
     {
@@ -332,7 +334,8 @@
     },
     {
       "ribbon": {
-        "label": "Lessons 12 - 16 + Written and Oral Quiz"
+        "icon": "pages",
+        "iconLabel": "Lessons 12 - 16 + Written and Oral Quiz"
       }
     },
     {
@@ -478,7 +481,8 @@
     },
     {
       "ribbon": {
-        "label": "Lessons 17 - 21 + Written and Oral Quiz"
+        "icon": "pages",
+        "iconLabel": "Lessons 17 - 21 + Written and Oral Quiz"
       }
     },
     {
@@ -624,7 +628,8 @@
     },
     {
       "ribbon": {
-        "label": "Lessons 2-22 + Written Test"
+        "icon": "pages",
+        "iconLabel": "Lessons 2-22 + Written Test"
       }
     },
     {
@@ -654,7 +659,8 @@
     },
     {
       "ribbon": {
-        "label": "Lessons 23 - 27 + Written and Oral Quiz"
+        "icon": "pages",
+        "iconLabel": "Lessons 23 - 27 + Written and Oral Quiz"
       }
     },
     {
@@ -800,7 +806,8 @@
     },
     {
       "ribbon": {
-        "label": "Lessons 28 - 32 + Written and Oral Quiz"
+        "icon": "pages",
+        "iconLabel": "Lessons 28 - 32 + Written and Oral Quiz"
       }
     },
     {
@@ -946,7 +953,8 @@
     },
     {
       "ribbon": {
-        "label": "Lessons 33 - 37 + Written and Oral Quiz"
+        "icon": "pages",
+        "iconLabel": "Lessons 33 - 37 + Written and Oral Quiz"
       }
     },
     {
@@ -1092,7 +1100,8 @@
     },
     {
       "ribbon": {
-        "label": "Lessons 38 - 42 + Written and Oral Quiz"
+        "icon": "pages",
+        "iconLabel": "Lessons 38 - 42 + Written and Oral Quiz"
       }
     },
     {
@@ -1238,7 +1247,8 @@
     },
     {
       "ribbon": {
-        "label": "Lessons 23-41 - Written Test"
+        "icon": "pages",
+        "iconLabel": "Lessons 23-41 - Written Test"
       }
     },
     {

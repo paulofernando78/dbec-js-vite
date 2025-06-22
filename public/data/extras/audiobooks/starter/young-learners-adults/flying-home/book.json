@@ -14,7 +14,8 @@
   "contents": [
     {
       "ribbon": {
-        "label": "Summary"
+        "icon": "page",
+        "iconLabel": "Summary"
       }
     },
     {
