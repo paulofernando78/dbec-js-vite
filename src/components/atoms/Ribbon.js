@@ -1,5 +1,11 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
+import { schedule, page } from "@images/svg-imports";
+
+const svgIcons = {
+  schedule,
+  page
+};
 class Ribbon extends HTMLElement {
   constructor() {
     super();
@@ -15,6 +21,9 @@ class Ribbon extends HTMLElement {
     const css = document.createElement("style"); /*css */
     css.textContent = `
       div {
+        display: flex;
+        align-items: center;
+        gap: 7px;
         padding: 5px 5px 5px 6px;
         border: var(--border);
         border-radius: 5px;
@@ -33,9 +42,35 @@ class Ribbon extends HTMLElement {
   }
 
   render(ribbon) {
-    this.div.textContent = ribbon.label;
     this.div.style.backgroundColor = ribbon.bgColor || "#000";
     this.div.style.color = ribbon.textColor || "#fff";
+
+    if (ribbon.icon && svgIcons[ribbon.icon]) {
+      const icon = document.createElement("span");
+      icon.innerHTML = svgIcons[ribbon.icon];
+      this.div.appendChild(icon);
+      console.log(icon)
+    }
+
+    if (ribbon.iconLabel) {
+      const iconLabel = document.createElement("span");
+      iconLabel.textContent = ribbon.iconLabel;
+      this.div.appendChild(iconLabel);
+    }
+
+    if (ribbon.subIcon && svgIcons[ribbon.subIcon]) {
+      const subIcon = document.createElement("span");
+      subIcon.innerHTML = svgIcons[ribbon.subIcon];
+      this.div.appendChild(subIcon);
+      console.log('subIcon:', ribbon.subIcon, svgIcons[ribbon.subIcon]);
+    }
+
+    if (ribbon.subLabel) {
+      const subLabel = document.createElement("span");
+      subLabel.textContent = ribbon.subLabel;
+      this.div.appendChild(subLabel);
+      console.log('subLabel:', ribbon.subLabel);
+    }
   }
 }
 

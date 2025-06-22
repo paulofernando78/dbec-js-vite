@@ -14,7 +14,8 @@
   "contents": [
     {
       "ribbon": {
-        "label": "Summary"
+        "icon": "page",
+        "iconLabel": "Summary"
       }
     },
     {
@@ -36,7 +37,8 @@
     },
     {
       "ribbon": {
-        "label": "Paragraph 1"
+        "icon": "page",
+        "iconLabel": "Paragraph 1"
       }
     },
     {
@@ -51,7 +53,10 @@
     },
     {
       "ribbon": {
-        "label": "Paragraph 2"
+        "icon": "page",
+        "iconLabel": "Paragraph 2",
+        "subIcon": "schedule",
+        "subLabel": "0:31"
       }
     },
     {
@@ -66,7 +71,10 @@
     },
     {
       "ribbon": {
-        "label": "Paragraph 3"
+        "icon": "page",
+        "iconLabel": "Paragraph 3",
+        "subIcon": "schedule",
+        "subLabel": "1:08"
       }
     },
     {
@@ -81,7 +89,10 @@
     },
     {
       "ribbon": {
-        "label": "Paragraph 4"
+        "icon": "page",
+        "iconLabel": "Paragraph 4",
+        "subIcon": "schedule",
+        "subLabel": "1:47"
       }
     },
     {
@@ -96,7 +107,10 @@
     },
     {
       "ribbon": {
-        "label": "Paragraph 5"
+        "icon": "page",
+        "iconLabel": "Paragraph 5",
+        "subIcon": "schedule",
+        "subLabel": "2:22"
       }
     },
     {
@@ -111,7 +125,10 @@
     },
     {
       "ribbon": {
-        "label": "Paragraph 6"
+        "icon": "page",
+        "iconLabel": "Paragraph 6",
+        "subIcon": "schedule",
+        "subLabel": "2:59"
       }
     },
     {
@@ -126,7 +143,10 @@
     },
     {
       "ribbon": {
-        "label": "Paragraph 7"
+        "icon": "page",
+        "iconLabel": "Paragraph 7",
+        "subIcon": "schedule",
+        "subLabel": "3:34"
       }
     },
     {
@@ -141,7 +161,10 @@
     },
     {
       "ribbon": {
-        "label": "Paragraph 8"
+        "icon": "page",
+        "iconLabel": "Paragraph 8",
+        "subIcon": "schedule",
+        "subLabel": "4:10"
       }
     },
     {
@@ -156,7 +179,10 @@
     },
     {
       "ribbon": {
-        "label": "Paragraph 9"
+        "icon": "page",
+        "iconLabel": "Paragraph 9",
+        "subIcon": "schedule",
+        "subLabel": "4:42"
       }
     },
     {
@@ -171,7 +197,10 @@
     },
     {
       "ribbon": {
-        "label": "Paragraph 10"
+        "icon": "page",
+        "iconLabel": "Paragraph 10",
+        "subIcon": "schedule",
+        "subLabel": "5:19"
       }
     },
     {
@@ -186,7 +215,10 @@
     },
     {
       "ribbon": {
-        "label": "Paragraph 11"
+        "icon": "page",
+        "iconLabel": "Paragraph 11",
+        "subIcon": "schedule",
+        "subLabel": "5:55"
       }
     },
     {
@@ -201,7 +233,10 @@
     },
     {
       "ribbon": {
-        "label": "Paragraph 12"
+        "icon": "page",
+        "iconLabel": "Paragraph 12",
+        "subIcon": "schedule",
+        "subLabel": "6:29"
       }
     },
     {
@@ -216,7 +251,10 @@
     },
     {
       "ribbon": {
-        "label": "Paragraph 13"
+        "icon": "page",
+        "iconLabel": "Paragraph 13",
+        "subIcon": "schedule",
+        "subLabel": "7:03"
       }
     },
     {
@@ -231,7 +269,10 @@
     },
     {
       "ribbon": {
-        "label": "Paragraph 14"
+        "icon": "page",
+        "iconLabel": "Paragraph 14",
+        "subIcon": "schedule",
+        "subLabel": "7:35"
       }
     },
     {
