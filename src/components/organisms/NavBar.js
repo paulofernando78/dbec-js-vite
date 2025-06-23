@@ -141,24 +141,28 @@ class NavBar extends HTMLElement {
 
   connectedCallback() {
     const currentPath = window.location.pathname;
-    
-     const allItems = this.shadowRoot.querySelectorAll("wc-icon-item");
-        allItems.forEach((item) => {
-          const href = item.getAttribute("link");
-          if (href === currentPath) {
-            item.style.textDecoration = "underline";
-          } else {
-            item.style.textDecoration = "none";
-          }
-        });
+
+    const allItems = this.shadowRoot.querySelectorAll("wc-icon-item");
+    allItems.forEach((item) => {
+      const href = item.getAttribute("link");
+      if (href === currentPath) {
+        item.style.textDecoration = "underline";
+        item.style.textDecorationThickness = "2px";
+        item.style.textUnderlineOffset = "2px";
+      } else {
+        item.style.textDecoration = "none";
+      }
+    });
 
     this.shadowRoot.addEventListener("click", (e) => {
       const iconItem = e.target.closest("wc-icon-item");
       if (iconItem) {
         e.preventDefault?.();
 
-        allItems.forEach((item) => item.style.textDecoration = "none");
-        iconItem.style.textDecoration = "underline"
+        allItems.forEach((item) => (item.style.textDecoration = "none"));
+        iconItem.style.textDecoration = "underline";
+        iconItem.style.textDecorationThickness = "2px";
+        iconItem.style.textUnderlineOffset = "2px";
 
         const href = iconItem.getAttribute("link");
 
