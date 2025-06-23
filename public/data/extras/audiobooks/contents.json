@@ -10,7 +10,8 @@
         "iconLabel": "Starter (Pre-A1) 200 headwords"
       },
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "kid",
         "headerText": "Kids",
         "items": [
           {
@@ -43,7 +44,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "adult",
         "headerText": "Young learners / Adults",
         "items": [
           {
@@ -122,7 +124,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "kid",
         "headerText": "Kids",
         "items": [
           {
@@ -135,7 +138,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "adult",
         "headerText": "Young learners / Adults",
         "items": [
           {
@@ -154,7 +158,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "kid",
         "headerText": "Kids",
         "items": [
           {
@@ -167,7 +172,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "adult",
         "headerText": "Young learners / Adults",
         "items": [
           {
@@ -186,7 +192,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "kid",
         "headerText": "Kids",
         "items": [
           {
@@ -199,7 +206,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "adult",
         "headerText": "Young learners / Adults",
         "items": [
           {
@@ -218,7 +226,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "kid",
         "headerText": "Kids",
         "items": [
           {
@@ -231,7 +240,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "adult",
         "headerText": "Young learners / Adults",
         "items": [
           {

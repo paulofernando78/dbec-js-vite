@@ -9,9 +9,6 @@ customElements.whenDefined("wc-header").then(() => {
 
     const menuBtn = header.shadowRoot.querySelector("[data-icon=menu]");
     menuBtn.style.display = "none";
-
-    const logoName = header.shadowRoot.querySelector("#logo-name");
-    logoName.style.display = "none";
   }
 });
 

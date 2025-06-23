@@ -36,7 +36,7 @@ class Header extends HTMLElement {
         margin-left: 4px
       }
 
-      @media (min-width: 768px) {
+      @media (min-width: 778px) {
         #menu-button {
           display: none;
         }

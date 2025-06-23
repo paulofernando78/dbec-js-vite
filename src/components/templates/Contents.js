@@ -8,6 +8,17 @@ class Contents extends HTMLElement {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
+
+    const style = document.createElement("style")
+    /*css*/
+    style.textContent = `
+      wc-audio-player.audio-player {
+        position: sticky;
+        top: 0;
+        z-index: 999
+      }
+    `
+    this.shadowRoot.appendChild(style)
   }
 
   set data(content) {
@@ -59,6 +70,7 @@ class Contents extends HTMLElement {
       // Audioplayer
       if (section.audioPlayer) {
         const audioPlayer = document.createElement("wc-audio-player");
+        audioPlayer.classList.add("audio-player")
         audioPlayer.data = section.audioPlayer;
         contentContainer.appendChild(audioPlayer);
       }

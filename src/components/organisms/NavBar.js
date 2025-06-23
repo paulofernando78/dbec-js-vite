@@ -105,7 +105,7 @@ class NavBar extends HTMLElement {
         svg: songs,
         link: "/extras/songs",
         label: "Songs",
-        variant: "songs-svg"
+        variant: "songs-svg",
       },
       { title: "<b>SPECIFIC PURPOSES</b>" },
       {
@@ -122,20 +122,43 @@ class NavBar extends HTMLElement {
     <style>${css}</style>
       <nav>
         <ul>
-        ${navLinks.map((item) =>item.title
-          ? `<li class="section-title">${item.title}</li>`
-          : `<li class="${item.className || ""}"><wc-icon-item svg='${item.svg}' variant=${item.variant} link="${item.link}" label="${item.label}"></wc-icon-item></li>
-          `).join("")}
+        ${navLinks
+          .map((item) =>
+            item.title
+              ? `<li class="section-title">${item.title}</li>`
+              : `<li class="${item.className || ""}"><wc-icon-item svg='${
+                  item.svg
+                }' variant=${item.variant} link="${item.link}" label="${
+                  item.label
+                }"></wc-icon-item></li>
+          `
+          )
+          .join("")}
          </ul>
       </nav>
     `;
   }
 
   connectedCallback() {
+    const currentPath = window.location.pathname;
+    
+     const allItems = this.shadowRoot.querySelectorAll("wc-icon-item");
+        allItems.forEach((item) => {
+          const href = item.getAttribute("link");
+          if (href === currentPath) {
+            item.style.textDecoration = "underline";
+          } else {
+            item.style.textDecoration = "none";
+          }
+        });
+
     this.shadowRoot.addEventListener("click", (e) => {
       const iconItem = e.target.closest("wc-icon-item");
       if (iconItem) {
         e.preventDefault?.();
+
+        allItems.forEach((item) => item.style.textDecoration = "none");
+        iconItem.style.textDecoration = "underline"
 
         const href = iconItem.getAttribute("link");
 

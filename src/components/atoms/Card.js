@@ -13,10 +13,7 @@ class Card extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-    this.build();
-  }
 
-  build() {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
@@ -30,8 +27,15 @@ class Card extends HTMLElement {
         overflow: hidden;
       }
 
+      .card-header-container {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        padding: 4px 4px 4px 3px;
+        height: 30px
+      }
+
       .card-header {
-        padding: var(--padding);
         color: #000;
         font-weight: bold;
       }
@@ -69,7 +73,12 @@ class Card extends HTMLElement {
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
       <div class="card-container">
-        <h1 class="card-header" style="background-color: ${bgColor}; color: ${textColor}">${card.headerText}</h1>
+        <div class="card-header-container" style="background-color: ${bgColor}; color: ${textColor}">
+          ${card.icon ? `<p class="card-description">
+            ${svgIcons[card.icon]}
+          </p>` : ""}
+          <h1 class="card-header">${card.headerText}</h1>
+        </div>
         <div class="inner-card">
         ${card.descriptions && Array.isArray(card.descriptions)
           ? card.descriptions.map((description) => `

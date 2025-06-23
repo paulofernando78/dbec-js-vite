@@ -25,8 +25,8 @@ class Ribbon extends HTMLElement {
       div {
         display: flex;
         align-items: center;
-        gap: 7px;
-        padding: 5px 5px 5px 6px;
+        gap: 6px;
+        padding: var(--padding);
         border: var(--border);
         border-radius: 5px;
         background-color: #000;

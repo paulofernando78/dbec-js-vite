@@ -6,7 +6,8 @@
   "contents": [
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "CEFR (Common European Framework of Reference)",
         "descriptions": [
           {
@@ -21,7 +22,8 @@
         "iconLabel": "Lessons 1 - 6 + Written and Oral Quiz"
       },
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 1",
         "descriptions": [
           {
@@ -35,7 +37,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 2",
         "descriptions": [
           {
@@ -64,7 +67,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 3",
         "descriptions": [
           {
@@ -93,7 +97,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 4",
         "descriptions": [
           {
@@ -122,7 +127,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 5",
         "descriptions": [
           {
@@ -151,7 +157,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 6",
         "descriptions": [
           {
@@ -182,7 +189,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 7",
         "descriptions": [
           {
@@ -211,7 +219,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 8",
         "descriptions": [
           {
@@ -240,7 +249,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 9",
         "descriptions": [
           {
@@ -269,7 +279,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 10",
         "descriptions": [
           {
@@ -298,7 +309,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 11",
         "descriptions": [
           {
@@ -329,7 +341,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 12",
         "descriptions": [
           {
@@ -358,7 +371,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 13",
         "descriptions": [
           {
@@ -387,7 +401,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 14",
         "descriptions": [
           {
@@ -416,7 +431,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 15",
         "descriptions": [
           {
@@ -445,7 +461,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 16",
         "descriptions": [
           {
@@ -476,7 +493,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 17",
         "descriptions": [
           {
@@ -505,7 +523,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 18",
         "descriptions": [
           {
@@ -534,7 +553,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 19",
         "descriptions": [
           {
@@ -563,7 +583,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 20",
         "descriptions": [
           {
@@ -592,7 +613,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 21",
         "descriptions": [
           {
@@ -623,7 +645,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 22",
         "descriptions": [
           {
@@ -654,7 +677,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 23",
         "descriptions": [
           {
@@ -683,7 +707,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 24",
         "descriptions": [
           {
@@ -712,7 +737,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 25",
         "descriptions": [
           {
@@ -741,7 +767,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 26",
         "descriptions": [
           {
@@ -770,7 +797,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 27",
         "descriptions": [
           {
@@ -801,7 +829,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 28",
         "descriptions": [
           {
@@ -830,7 +859,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 29",
         "descriptions": [
           {
@@ -859,7 +889,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 30",
         "descriptions": [
           {
@@ -888,7 +919,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 31",
         "descriptions": [
           {
@@ -917,7 +949,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 32",
         "descriptions": [
           {
@@ -948,7 +981,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 33",
         "descriptions": [
           {
@@ -977,7 +1011,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 34",
         "descriptions": [
           {
@@ -1006,7 +1041,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 35",
         "descriptions": [
           {
@@ -1035,7 +1071,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 36",
         "descriptions": [
           {
@@ -1064,7 +1101,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 37",
         "descriptions": [
           {
@@ -1095,7 +1133,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 38",
         "descriptions": [
           {
@@ -1124,7 +1163,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 39",
         "descriptions": [
           {
@@ -1153,7 +1193,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 40",
         "descriptions": [
           {
@@ -1182,7 +1223,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 41",
         "descriptions": [
           {
@@ -1211,7 +1253,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 42",
         "descriptions": [
           {
@@ -1242,7 +1285,8 @@
     },
     {
       "card": {
-        "bgColor": "preIntermediate",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lesson 43",
         "descriptions": [
           {
