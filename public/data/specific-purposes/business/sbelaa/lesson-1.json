@@ -36,34 +36,56 @@
     {
       "paragraphs": [
         {
-          "enText": "<b>Carl:</b> I think we've <mark>come up with a winner</mark>."
-        },
-        {
-          "enText": "<b>Anne:</b> I agree. The new Brush-o-matic should be a <mark>blockbuster</mark>!"
-        },
-        {
-          "enText": "<b>Carl:</b> Our designers have already made up some prototypes. The toothbrushes have a tooth-whitening attachment and many other <mark>bells and whistles</mark>."
-        },
-        {
-          "enText": "<b>Greg:</b> We should <mark>fast track a project</mark>. Let's try to launch it in time for the holiday season."
-        },
-        {
-          "enText": "<b>Ane:</b> This will be a great <mark>stocking stuffer</mark>!"
-        },
-        {
-          "enText": "<b>Carl:</b> We definitely need a <mark>big win</mark> for the holidays."
-        },
-        {
-          "enText": "<b>Anne:</b> This is a great idea. We're going to <mark>make a killing</mark>."
-        },
-        {
-          "enText": "<b>Greg:</b> Let's not talk about this project to anybody who doesn't need to know. We'll <mark>keep something under wraps</mark>."
-        },
-        {
-          "enText": "<b>Carl:</b> I agree <mark>mum's the word</mark>. We don't want any of our competitors to <mark>get wind of</mark> the idea and <mark>rip it off</mark>."
-        },
-        {
-          "enText": "<b>Anne:</b> Right. Let's meet again on Monday morning and discuss our <mark>game plan</mark> for <mark>getting this project off the ground</mark>!"
+          "enText": [
+            {
+              "text": "<b>Carl:</b> I think we've <mark>come up with a winner</mark>."
+            },
+            {
+              "breakLine": true
+            },
+            {
+              "text": "<b>Anne:</b> I agree. The new Brush-o-matic should be a <mark>blockbuster</mark>!"
+            },
+            {
+              "breakLine": true
+            },
+            {
+              "text": "<b>Carl:</b> Our designers have already made up some prototypes. The toothbrushes have a tooth-whitening attachment and many other <mark>bells and whistles</mark>."
+            },
+            {
+              "breakLine": true
+            },
+            {
+              "text": "<b>Greg:</b> We should <mark>fast track a project</mark>. Let's try to launch it in time for the holiday season."
+            },
+            {
+              "enText": "<b>Ane:</b> This will be a great <mark>stocking stuffer</mark>!"
+            },
+            {
+              "text": "<b>Carl:</b> We definitely need a <mark>big win</mark> for the holidays."
+            },
+            {
+              "breakLine": true
+            },
+            {
+              "text": "<b>Anne:</b> This is a great idea. We're going to <mark>make a killing</mark>."
+            },
+            {
+              "breakLine": true
+            },
+            {
+              "text": "<b>Greg:</b> Let's not talk about this project to anybody who doesn't need to know. We'll <mark>keep something under wraps</mark>."
+            },
+            {
+              "breakLine": true
+            },
+            {
+              "text": "<b>Carl:</b> I agree <mark>mum's the word</mark>. We don't want any of our competitors to <mark>get wind of</mark> the idea and <mark>rip it off</mark>."
+            },
+            {
+              "text": "<b>Anne:</b> Right. Let's meet again on Monday morning and discuss our <mark>game plan</mark> for <mark>getting this project off the ground</mark>!"
+            }
+          ]
         }
       ]
     }

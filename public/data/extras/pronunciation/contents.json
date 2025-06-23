@@ -12,48 +12,175 @@
     {
       "paragraphs": [
         {
-          "enText": "aggressor /əˈɡres.ɚ/"
+          "enText": [
+            {
+              "boldText": "aggressor",
+              "phonetics": "/əˈɡres.ɚ/"
+            }
+          ],
+          "ptText": [
+            {
+              "text": "agressor"
+            }
+          ]
         },
         {
-          "enText": "assault /əˈsɑːlt/"
+          "enText": [
+            {
+              "boldText": "to commence",
+              "phonetics": "/kəˈmens/"
+            }
+          ],
+          "ptText": [
+            {
+              "text": "..."
+            }
+          ]
         },
         {
-          "enText": "to commence /kəˈmens/"
+          "enText": [
+            {
+              "text": "to compromise",
+              "phonetics": "/ˈkɑːm.prə.maɪz/"
+            }
+          ],
+          "ptText": [
+            {
+              "text": "(\"falso cognato reverso\" — parece que não tem relação, mas tem) • The attack compromised security. [O ataque comprometeu a segurança.], mas We need to find a compromise. [Precisamos encontrar um acordo] • I won’t compromise on my values. [Não vou ceder / fazer concessões nos meus valores.]"
+            }
+          ]
         },
         {
-          "enText": "to compromise /ˈkɑːm.prə.maɪz/ (\"falso cognato reverso\" — parece que não tem relação, mas tem) • The attack compromised security. [O ataque comprometeu a segurança.], mas We need to find a compromise. [Precisamos encontrar um acordo] • I won’t compromise on my values. [Não vou ceder / fazer concessões nos meus valores.]"
+          "enText": [
+            {
+              "text": "to converse",
+              "phonetics": "/kənˈvɝːs/"
+            }
+          ],
+          "ptText": [
+            {
+              "text": "xxx"
+            }
+          ]
         },
         {
-          "enText": "to converse /kənˈvɝːs/"
+          "enText": [
+            {
+              "text": "to deteriorate ",
+              "phonetics": "/dɪˈtɪr.i.ə.reɪt/"
+            }
+          ],
+          "ptText": [
+            {
+              "text": "xxx"
+            }
+          ]
         },
         {
-          "enText": "to deteriorate /dɪˈtɪr.i.ə.reɪt/"
+          "enText": [
+            {
+              "text": "to detest ",
+              "phonetics": "/dɪˈtest/"
+            }
+          ],
+          "ptText": [
+            {
+              "text": "xxx"
+            }
+          ]
         },
         {
-          "enText": "to detest /dɪˈtest/"
+          "enText": [
+            {
+              "text": "assault",
+              "phonetics": "/əˈsɑːlt/"
+            }
+          ],
+          "ptText": [
+            {
+              "text": "xxx"
+            }
+          ]
         },
         {
-          "enText": "to devour /dɪˈvaʊ.ɚ/"
+          "enText": [
+            {
+              "text": "to devour ",
+              "phonetics": "/dɪˈvaʊ.ɚ/"
+            }
+          ],
+          "ptText": [
+            {
+              "text": "xxx"
+            }
+          ]
         },
         {
-          "enText": "macaque /məˈkɑːk/"
+          "enText": [
+            {
+              "text": "macaque ",
+              "phonetics": "/məˈkɑːk/"
+            }
+          ],
+          "ptText": [
+            {
+              "text": "xxx"
+            }
+          ]
         },
         {
-          "enText": "obtain /əbˈteɪn/"
+          "enText": [
+            {
+              "text": "obtain ",
+              "phonetics": "/əbˈteɪn/"
+            }
+          ],
+          "ptText": [
+            {
+              "text": "to regurgitate ",
+              "phonetics": "/rɪˈɡɝː.dʒə.teɪt/"
+            }
+          ]
         },
         {
-          "enText": "to regurgitate /rɪˈɡɝː.dʒə.teɪt/"
+          "enText": [
+            {
+              "text": "summary ",
+              "phonetics": "/ˈsʌm.ɚ.i/"
+            }
+          ],
+          "ptText": [
+            {
+              "text": "xxx"
+            }
+          ]
         },
         {
-          "enText": "summary /ˈsʌm.ɚ.i/"
+          "enText": [
+            {
+              "text": "validate ",
+              "phonetics": "/ˈvæl.ə.deɪt/"
+            }
+          ],
+          "ptText": [
+            {
+              "text": "xxx"
+            }
+          ]
         },
         {
-          "enText": "validate /ˈvæl.ə.deɪt/"
-        },
-        {
-          "enText": "value /ˈvæl.juː/"
+          "enText": [
+            {
+              "text": "value ",
+              "phonetics": "/ˈvæl.juː/"
+            }
+          ],
+          "ptText": [
+            {
+              "text": "xxx"
+            }
+          ]
         }
-        
       ]
     }
   ]

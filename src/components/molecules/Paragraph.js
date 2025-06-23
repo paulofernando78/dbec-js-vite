@@ -54,9 +54,28 @@ class Paragraph extends HTMLElement {
         const breakLine = document.createElement("div");
         breakLine.style.marginBottom = "var(--break-line)";
         textWrapper.appendChild(breakLine);
-      } else if (item.text) {
+      } else if (item.text || item.boldText || item.phonetics) {
         const enP = document.createElement("p");
-        enP.innerHTML = item.text;
+        enP.style.display = "inline";
+
+        if (item.text) {
+          const text = document.createTextNode(item.text);
+          enP.appendChild(text);
+        }
+
+        if (item.boldText) {
+          const bold = document.createElement("b");
+          bold.textContent = item.boldText;
+          enP.appendChild(bold);
+        }
+
+        if (item.phonetics) {
+          const phonetics = document.createElement("span");
+          phonetics.textContent = item.phonetics;
+          phonetics.classList.add("phonetics");
+          enP.appendChild(phonetics);
+        }
+
         textWrapper.appendChild(enP);
       }
     });
