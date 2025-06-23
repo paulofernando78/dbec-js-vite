@@ -24,10 +24,11 @@ class Paragraph extends HTMLElement {
       }
     `;
 
+    this.container = document.createElement("div");
+
     this.image = document.createElement("wc-image");
     this.p = document.createElement("p");
 
-    this.container = document.createElement("div");
     this.shadowRoot.append(css, this.container);
   }
 
@@ -46,22 +47,52 @@ class Paragraph extends HTMLElement {
       };
     }
 
-    this.p.style.color = paragraph.textColor || "inherit";
-    this.p.innerHTML = paragraph.enText || paragraph.ptText || "";
+    const textWrapper = document.createElement("div");
+
+    paragraph.enText.forEach((item) => {
+      if (item.breakLine) {
+        const breakLine = document.createElement("div");
+        breakLine.style.marginBottom = "var(--break-line)";
+        textWrapper.appendChild(breakLine);
+      } else if (item.text) {
+        const enP = document.createElement("p");
+        enP.innerHTML = item.text;
+        textWrapper.appendChild(enP);
+      }
+    });
+
+    if (paragraph.breakLine) {
+      const breakLine = document.createElement("div");
+      breakLine.style.marginBottom = "var(--break-line)";
+      textWrapper.appendChild(breakLine);
+    }
+
+    if (paragraph.ptText) {
+      paragraph.ptText.forEach((item) => {
+        if (item.breakLine) {
+          const breakLine = document.createElement("div");
+          breakLine.style.marginBottom = "var(--break-line)";
+          textWrapper.appendChild(breakLine);
+        } else if (item.text) {
+          const ptP = document.createElement("p");
+          ptP.innerHTML = item.text;
+          ptP.style.color = "var(--gray-4)";
+          textWrapper.appendChild(ptP);
+        }
+      });
+    }
 
     const position = paragraph.imgPosition || "left";
     const validPosition =
       position === "left" || position === "right" ? position : "left";
     this.container.className = hasImage ? `img-${validPosition}` : "";
 
-    this.container.innerHTML = "";
-
     if (paragraph.imgPosition === "right") {
-      this.container.appendChild(this.p);
+      this.container.appendChild(textWrapper);
       this.container.appendChild(this.image);
     } else {
       this.container.appendChild(this.image);
-      this.container.appendChild(this.p);
+      this.container.appendChild(textWrapper);
     }
   }
 }

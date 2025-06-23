@@ -1,5 +1,6 @@
 :root {
   --padding: 5px 5px 5px 5px ;
+  --break-line: .625rem
 }
 
 .line-break {

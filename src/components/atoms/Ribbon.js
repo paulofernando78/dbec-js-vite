@@ -1,12 +1,13 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-import { schedule, page, pages, songs } from "@images/svg-imports";
+import { schedule, page, pages, songs, snippet } from "@images/svg-imports";
 
 const svgIcons = {
   schedule,
   page,
   pages,
-  songs
+  songs,
+  snippet
 };
 class Ribbon extends HTMLElement {
   constructor() {

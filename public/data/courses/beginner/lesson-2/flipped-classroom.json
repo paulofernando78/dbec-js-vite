@@ -17,7 +17,10 @@
   "contents": [
     {
       "ribbon": {
-        "label": "The Alphabet"
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "iconLabel": "The Alphabet"
       }
     },
     {
@@ -29,28 +32,43 @@
     },
     {
       "ribbon": {
-        "label": "Titles"
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "iconLabel": "Titles"
       }
     },
     {
       "paragraphs": [
         {
-          "enText": "Mr. = Single or married male"
-        },
-        {
-          "enText": "Mrs. = Married females"
-        },
-        {
-          "enText": "Ms. = Single or Married females"
-        },
-        {
-          "enText": "Miss. = Single females"
+          "enText": [
+            {
+              "text": "Mr. (Single or married male)"
+            },
+            { "breakLine": true },
+            {
+              "text": "Mr. (Single or married male)"
+            }
+          ],
+          "breakLine": true,
+          "ptText": [
+            {
+              "text": "Senhor"
+            },
+            { "breakLine": true },
+            {
+              "text": "Senhor"
+            }
+          ]
         }
       ]
     },
     {
       "ribbon": {
-        "label": "My, your, his, her"
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "iconLabel": "My, your, his, her"
       }
     }
   ]
