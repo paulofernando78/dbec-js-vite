@@ -19,7 +19,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 1 - 6 + Written and Oral Quiz"
+        "iconLabel": "Lessons 1 - 6 + Quiz"
       },
       "card": {
         "bgColor": "var(--gray-3)",
@@ -176,7 +176,7 @@
           {
             "svg": "preIntermediate",
             "link": "/courses/pre-intermediate/lesson-6/classwork",
-            "label": "Classwork <b>•</b> Review lessons 2-5 + Written and Oral Quiz"
+            "label": "Classwork <b>•</b> Review lessons 2-5 + Quiz"
           }
         ]
       }
@@ -184,7 +184,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 7 - 11 + Written and Oral Quiz"
+        "iconLabel": "Lessons 7 - 11 + Quiz"
       }
     },
     {
@@ -328,7 +328,7 @@
           {
             "svg": "preIntermediate",
             "link": "/courses/pre-intermediate/lesson-11/classwork",
-            "label": "Classwork <b>•</b> Review lessons 7-10 + Written and Oral Quiz"
+            "label": "Classwork <b>•</b> Review lessons 7-10 + Quiz"
           }
         ]
       }
@@ -336,7 +336,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 12 - 16 + Written and Oral Quiz"
+        "iconLabel": "Lessons 12 - 16 + Quiz"
       }
     },
     {
@@ -480,7 +480,7 @@
           {
             "svg": "preIntermediate",
             "link": "/courses/pre-intermediate/lesson-16/classwork",
-            "label": "Classwork <b>•</b> Review lessons 12-15 + Written and Oral Quiz"
+            "label": "Classwork <b>•</b> Review lessons 12-15 + Quiz"
           }
         ]
       }
@@ -488,7 +488,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 17 - 21 + Written and Oral Quiz"
+        "iconLabel": "Lessons 17 - 21 + Quiz"
       }
     },
     {
@@ -632,7 +632,7 @@
           {
             "svg": "preIntermediate",
             "link": "/courses/pre-intermediate/lesson-21/classwork",
-            "label": "Classwork <b>•</b> Review lessons 17-20 + Written and Oral Quiz"
+            "label": "Classwork <b>•</b> Review lessons 17-20 + Quiz"
           }
         ]
       }
@@ -640,7 +640,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 2-22 + Written Test"
+        "iconLabel": "Lessons 2-22 + Test"
       }
     },
     {
@@ -664,7 +664,7 @@
           {
             "svg": "preIntermediate",
             "link": "/courses/pre-intermediate/lesson-22/classwork",
-            "label": "Classwork <b>•</b> Review lessons 2-20 + Written Test"
+            "label": "Classwork <b>•</b> Review lessons 2-20 + Test"
           }
         ]
       }
@@ -672,7 +672,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 23 - 27 + Written and Oral Quiz"
+        "iconLabel": "Lessons 23 - 27 + Quiz"
       }
     },
     {
@@ -816,7 +816,7 @@
           {
             "svg": "preIntermediate",
             "link": "/courses/pre-intermediate/lesson-27/classwork",
-            "label": "Classwork <b>•</b> Review lessons 23-26 + Written and Oral Quiz"
+            "label": "Classwork <b>•</b> Review lessons 23-26 + Quiz"
           }
         ]
       }
@@ -824,7 +824,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 28 - 32 + Written and Oral Quiz"
+        "iconLabel": "Lessons 28 - 32 + Quiz"
       }
     },
     {
@@ -968,7 +968,7 @@
           {
             "svg": "preIntermediate",
             "link": "/courses/pre-intermediate/lesson-32/classwork",
-            "label": "Classwork <b>•</b> Review lessons 28-31 + Written and Oral Quiz"
+            "label": "Classwork <b>•</b> Review lessons 28-31 + Quiz"
           }
         ]
       }
@@ -976,7 +976,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 33 - 37 + Written and Oral Quiz"
+        "iconLabel": "Lessons 33 - 37 + Quiz"
       }
     },
     {
@@ -1120,7 +1120,7 @@
           {
             "svg": "preIntermediate",
             "link": "/courses/pre-intermediate/lesson-37/classwork",
-            "label": "Classwork <b>•</b> Review lessons 33-36 + Written and Oral Quiz"
+            "label": "Classwork <b>•</b> Review lessons 33-36 + Quiz"
           }
         ]
       }
@@ -1128,7 +1128,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 38 - 42 + Written and Oral Quiz"
+        "iconLabel": "Lessons 38 - 42 + Quiz"
       }
     },
     {
@@ -1272,7 +1272,7 @@
           {
             "svg": "preIntermediate",
             "link": "/courses/pre-intermediate/lesson-42/classwork",
-            "label": "Classwork <b>•</b> Review lessons 38-41 + Written and Oral Quiz"
+            "label": "Classwork <b>•</b> Review lessons 38-41 + Quiz"
           }
         ]
       }
@@ -1280,7 +1280,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 23-41 - Written Test"
+        "iconLabel": "Lessons 23-41 - Test"
       }
     },
     {
@@ -1304,7 +1304,7 @@
           {
             "svg": "preIntermediate",
             "link": "/courses/pre-intermediate/lesson-43/classwork",
-            "label": "Classwork <b>•</b> Classwork <b>•</b> Review lessons 23-41 + Written Test"
+            "label": "Classwork <b>•</b> Classwork <b>•</b> Review lessons 23-41 + Test"
           }
         ]
       }

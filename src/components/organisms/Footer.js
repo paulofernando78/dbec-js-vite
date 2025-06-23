@@ -9,6 +9,7 @@ class Footer extends HTMLElement {
         text-align: center;
         border: var(--border);
         border-radius: var(--border-radius);
+        box-shadow: var(--box-shadow);
 
       small {
         font-family: "Anton", sans-serif;

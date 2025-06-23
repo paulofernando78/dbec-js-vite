@@ -34,29 +34,26 @@ class Card extends HTMLElement {
         padding: 4px 4px 4px 3px;
         height: 30px
       }
-
-      .card-header {
+      
+      h1 {
         color: #000;
         font-weight: bold;
-      }
-
-      h1 {
         font-size: 1rem
       }
 
       .inner-card {
         padding: var(--padding);
-
-      }
-
-      .card-description {
         text-align: justify;
+
       }
 
       hr {
         margin: 10px
       }
 
+      svg {
+        min-width: 24px;
+      }
       
     `;
     this.shadowRoot.appendChild(css);
@@ -68,34 +65,49 @@ class Card extends HTMLElement {
 
   render(card) {
     const bgColor = bookBgColors[card.bgColor] || card.bgColor || "#000";
-    const textColor = card.textColor || "#fff"
+    const textColor = card.textColor || "#fff";
 
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
       <div class="card-container">
         <div class="card-header-container" style="background-color: ${bgColor}; color: ${textColor}">
-          ${card.icon ? `<p class="card-description">
+          ${
+            card.icon
+              ? `<span class="card-icon">
             ${svgIcons[card.icon]}
-          </p>` : ""}
-          <h1 class="card-header">${card.headerText}</h1>
+          </span>`
+              : ""
+          }
+          <h1>${card.headerText}</h1>
         </div>
         <div class="inner-card">
-        ${card.descriptions && Array.isArray(card.descriptions)
-          ? card.descriptions.map((description) => `
-            <p class="card-description">
+        ${
+          card.descriptions && Array.isArray(card.descriptions)
+            ? card.descriptions
+                .map(
+                  (description) => `
+            <p>
             ${description.description}
             </p>
           `
-        ).join(""): ""}
+                )
+                .join("")
+            : ""
+        }
         ${card.hr ? "<hr />" : ""}
-        ${card.items && Array.isArray(card.items)
-            ? `${card.items.map((item) => `
+        ${
+          card.items && Array.isArray(card.items)
+            ? `${card.items
+                .map(
+                  (item) => `
               <wc-icon-item
                 svg='${item.svg ? svgIcons[item.svg] : ""}'
                 link="${item.link || ""}"
                 label="${item.label || ""}" 
               ></wc-icon-item>`
-                ).join("")}`: ""
+                )
+                .join("")}`
+            : ""
         }
         </div>
       </div>
