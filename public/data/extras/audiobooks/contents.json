@@ -6,7 +6,7 @@
   "contents": [
     {
       "ribbon": {
-        "icon": "pages",
+        "icon": "books",
         "iconLabel": "Starter (Pre-A1) 200 headwords"
       },
       "card": {
@@ -15,27 +15,27 @@
         "headerText": "Kids",
         "items": [
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/kids/cinderella",
             "label": "Cinderella"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/kids/dumbo",
             "label": "Dumbo"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/kids/finding- nemo",
             "label": "Finding Nemo"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/kids/puss-in-boots",
             "label": "Puss-in-Boots"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/kids/sleeping-beauty",
             "label": "Sleeping Beauty"
           }
@@ -49,67 +49,67 @@
         "headerText": "Young learners / Adults",
         "items": [
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/book",
             "label": "A New Zealand Adventure"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/flying-home/book",
             "label": "Flying home"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa",
             "label": "Marcel and the Mona Lisa"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star",
             "label": "Marcel and the White Star"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/newspaper-chase",
             "label": "Newspaper Chase"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/simon-and-the-spy",
             "label": "Simon and the Spy"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/the-fireboy",
             "label": "The Fireboy"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/the-last-photo",
             "label": "The Last Photo"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/the-leopard-and-the-lighthouse",
             "label": "The Leopard and the Lighthouse"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/the-pearl-jam",
             "label": "The Pearl Girl"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/the-troy-stone",
             "label": "The Troy Stone"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/the-white-oryx",
             "label": "The White Oryx"
           },
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/who-wants-to-be-a-star",
             "label": "Who Wants to be a star"
           }
@@ -118,7 +118,7 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
+        "icon": "books",
         "iconLabel": "Beginner (A1)"
       }
     },
@@ -129,7 +129,7 @@
         "headerText": "Kids",
         "items": [
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/kids/",
             "label": "..."
           }
@@ -143,7 +143,7 @@
         "headerText": "Young learners / Adults",
         "items": [
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/",
             "label": "..."
           }
@@ -152,7 +152,7 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
+        "icon": "books",
         "iconLabel": "Elementary (A2)"
       }
     },
@@ -163,7 +163,7 @@
         "headerText": "Kids",
         "items": [
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/kids/",
             "label": "..."
           }
@@ -177,7 +177,7 @@
         "headerText": "Young learners / Adults",
         "items": [
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/",
             "label": "..."
           }
@@ -186,7 +186,7 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
+        "icon": "books",
         "iconLabel": "Pre-Intermediate (A2-B1)"
       }
     },
@@ -197,7 +197,7 @@
         "headerText": "Kids",
         "items": [
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/kids/",
             "label": "..."
           }
@@ -211,7 +211,7 @@
         "headerText": "Young learners / Adults",
         "items": [
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/",
             "label": "..."
           }
@@ -220,7 +220,7 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
+        "icon": "books",
         "iconLabel": "Intermediate (B1)"
       }
     },
@@ -231,7 +231,7 @@
         "headerText": "Kids",
         "items": [
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/kids/",
             "label": "..."
           }
@@ -245,7 +245,7 @@
         "headerText": "Young learners / Adults",
         "items": [
           {
-            "svg": "audiobooks",
+            "svg": "book",
             "link": "/extras/audiobooks/starter/young-learners-adults/",
             "label": "..."
           }

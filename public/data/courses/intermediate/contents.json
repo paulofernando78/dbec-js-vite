@@ -57,17 +57,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+            "svg": "book",
             "link": "/courses/intermediate/lesson-2/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> That's my kind of friend! (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-2/classwork",
             "label": "Classwork <b>•</b> That's my kind of friend! (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-2/homework",
             "label": "Homework <b>•</b> That's my kind of friend! (Cycle 1)"
           }
@@ -87,17 +87,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-3/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> That's my kind of friend! (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-3/classwork",
             "label": "Classwork <b>•</b> That's my kind of friend! (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-3/homework",
             "label": "Homework <b>•</b> That's my kind of friend! (Cycle 2)"
           }
@@ -117,17 +117,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-4/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Working 9 to 5 (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-4/classwork",
             "label": "Classwork <b>•</b> Working 9 to 5 (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-4/homework",
             "label": "Homework <b>•</b> Working 9 to 5 (Cycle 1)"
           }
@@ -147,17 +147,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-5/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Working 9 to 5 (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-5/classwork",
             "label": "Classwork <b>•</b> Working 9 to 5 (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-5/homework",
             "label": "Homework <b>•</b> Working 9 to 5 (Cycle 2)"
           }
@@ -183,7 +183,7 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-6/classwork",
             "label": "Classwork <b>•</b> Review lessons 2-5 + Quiz"
           }
@@ -209,17 +209,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-7/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Lend a hand (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-7/classwork",
             "label": "Classwork <b>•</b> Lend a hand (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-7/homework",
             "label": "Homework <b>•</b> Lend a hand (Cycle 1)"
           }
@@ -239,17 +239,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-8/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Lend a hand (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-8/classwork",
             "label": "Classwork <b>•</b> Lend a hand (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-8/homework",
             "label": "Homework <b>•</b> Lend a hand (Cycle 2)"
           }
@@ -269,17 +269,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-9/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> What happened? (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-9/classwork",
             "label": "Classwork <b>•</b> What happened? (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-9/homework",
             "label": "Homework <b>•</b> What happened? (Cycle 1)"
           }
@@ -299,17 +299,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-10/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> What happened? (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-10/classwork",
             "label": "Classwork <b>•</b> What happened? (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-10/homework",
             "label": "Homework <b>•</b> What happened? (Cycle 2)"
           }
@@ -335,7 +335,7 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-11/classwork",
             "label": "Classwork <b>•</b> Review lessons 7-10 + Quiz"
           }
@@ -361,17 +361,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-12/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Expanding your horizons (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-12/classwork",
             "label": "Classwork <b>•</b> Expanding your horizons (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-12/homework",
             "label": "Homework <b>•</b> Expanding your horizons (Cycle 1)"
           }
@@ -391,17 +391,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-13/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Expanding your horizons (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-13/classwork",
             "label": "Classwork <b>•</b> Expanding your horizons (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-13/homework",
             "label": "Homework <b>•</b> Expanding your horizons (Cycle 2)"
           }
@@ -421,17 +421,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-14/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> That needs fixing (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-14/classwork",
             "label": "Classwork <b>•</b> That needs fixing (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-14/homework",
             "label": "Homework <b>•</b> That needs fixing (Cycle 1)"
           }
@@ -451,17 +451,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-15/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> That needs fixing (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-15/classwork",
             "label": "Classwork <b>•</b> That needs fixing (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-15/homework",
             "label": "Homework <b>•</b> That needs fixing (Cycle 2)"
           }
@@ -487,7 +487,7 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-16/classwork",
             "label": "Classwork <b>•</b> Review lessons 12-15 + Quiz"
           }
@@ -513,17 +513,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-17/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> What can we do? (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-17/classwork",
             "label": "Classwork <b>•</b> What can we do? (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-17/homework",
             "label": "Homework <b>•</b> What can we do? (Cycle 1)"
           }
@@ -543,17 +543,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-18/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> What can we do? (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-18/classwork",
             "label": "Classwork <b>•</b> What can we do? (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-18/homework",
             "label": "Homework <b>•</b> What can we do? (Cycle 2)"
           }
@@ -573,17 +573,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-19/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Never stop learning (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-19/classwork",
             "label": "Classwork <b>•</b> Never stop learning (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-19/homework",
             "label": "Homework <b>•</b> Never stop learning (Cycle 1)"
           }
@@ -603,17 +603,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-20/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Never stop learning (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-20/classwork",
             "label": "Classwork <b>•</b> Never stop learning (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-20/homework",
             "label": "Homework <b>•</b> Never stop learning (Cycle 2)"
           }
@@ -639,7 +639,7 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-21/classwork",
             "label": "Classwork <b>•</b> Review lessons 17-20 + Quiz"
           }
@@ -671,7 +671,7 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-22/classwork",
             "label": "Classwork <b>•</b> Review lessons 2-20 + Test"
           }
@@ -697,17 +697,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-23/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Getting things done? (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-23/classwork",
             "label": "Classwork <b>•</b> Getting things done? (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-23/homework",
             "label": "Homework <b>•</b> Getting things done? (Cycle 1)"
           }
@@ -727,17 +727,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-24/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Getting things done? (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-24/classwork",
             "label": "Classwork <b>•</b> Getting things done? (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-24/homework",
             "label": "Homework <b>•</b> Getting things done? (Cycle 2)"
           }
@@ -757,17 +757,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-25/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> A matter of time (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-25/classwork",
             "label": "Classwork <b>•</b> A matter of time (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-25/homework",
             "label": "Homework <b>•</b> A matter of time (Cycle 1)"
           }
@@ -787,17 +787,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-26/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> A matter of time (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-26/classwork",
             "label": "Classwork <b>•</b> A matter of time (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-26/homework",
             "label": "Homework <b>•</b> A matter of time (Cycle 2)"
           }
@@ -823,7 +823,7 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-27/classwork",
             "label": "Classwork <b>•</b> Review lessons 23-26 + Quiz"
           }
@@ -849,17 +849,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-28/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Rites of passage (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-28/classwork",
             "label": "Classwork <b>•</b> Rites of passage (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-28/homework",
             "label": "Homework <b>•</b> Rites of passage (Cycle 1)"
           }
@@ -879,17 +879,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-29/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Rites of passage (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-29/classwork",
             "label": "Classwork <b>•</b> Rites of passage (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-29/homework",
             "label": "Homework <b>•</b> Rites of passage (Cycle 2)"
           }
@@ -909,17 +909,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-31/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Keys to success (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-31/classwork",
             "label": "Classwork <b>•</b> Keys to success (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-31/homework",
             "label": "Homework <b>•</b> Keys to success (Cycle 1)"
           }
@@ -939,17 +939,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-31/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Keys to success (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-31/classwork",
             "label": "Classwork <b>•</b> Keys to success (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-31/homework",
             "label": "Homework <b>•</b> Keys to success (Cycle 2)"
           }
@@ -975,7 +975,7 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-32/classwork",
             "label": "Classwork <b>•</b> Review lessons 28-31 + Quiz"
           }
@@ -1001,17 +1001,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-33/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> What might have been (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-33/classwork",
             "label": "Classwork <b>•</b> What might have been (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-33/homework",
             "label": "Homework <b>•</b> What might have been (Cycle 1)"
           }
@@ -1031,17 +1031,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-34/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> What might have been (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-34/classwork",
             "label": "Classwork <b>•</b> What might have been (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-34/homework",
             "label": "Homework <b>•</b> What might have been (Cycle 2)"
           }
@@ -1061,17 +1061,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-35/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Creative carrers (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-35/classwork",
             "label": "Classwork <b>•</b> Creative carrers (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-35/homework",
             "label": "Homework <b>•</b> Creative carrers (Cycle 1)"
           }
@@ -1091,17 +1091,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-36/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Creative carrers (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-36/classwork",
             "label": "Classwork <b>•</b> Creative carrers (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-36/homework",
             "label": "Homework <b>•</b> Creative carrers (Cycle 2)"
           }
@@ -1127,7 +1127,7 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-37/classwork",
             "label": "Classwork <b>•</b> Review lessons 33-36 + Quiz"
           }
@@ -1153,17 +1153,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-38/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> A law must be passed! (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-38/classwork",
             "label": "Classwork <b>•</b> A law must be passed! (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-38/homework",
             "label": "Homework <b>•</b> A law must be passed! (Cycle 1)"
           }
@@ -1183,17 +1183,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-39/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> A law must be passed! (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-39/classwork",
             "label": "Classwork <b>•</b> A law must be passed! (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-39/homework",
             "label": "Homework <b>•</b> A law must be passed! (Cycle 2)"
           }
@@ -1213,17 +1213,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-40/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Reaching your goals (Cycle 1)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-40/classwork",
             "label": "Classwork <b>•</b> Reaching your goals (Cycle 1)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-40/homework",
             "label": "Homework <b>•</b> Reaching your goals (Cycle 1)"
           }
@@ -1243,17 +1243,17 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-41/flipped-classroom",
             "label": "Flipped Classroom <b>•</b> Reaching your goals (Cycle 2)"
           },
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-41/classwork",
             "label": "Classwork <b>•</b> Reaching your goals (Cycle 2)"
           },
           {
-            "svg": "intermediateAssignment",
+            "svg": "assignment",
             "link": "/courses/intermediate/lesson-41/homework",
             "label": "Homework <b>•</b> Reaching your goals (Cycle 2)"
           }
@@ -1279,7 +1279,7 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-42/classwork",
             "label": "Classwork <b>•</b> Review lessons 38-41 + Quiz"
           }
@@ -1311,7 +1311,7 @@
         "hr": true,
         "items": [
           {
-            "svg": "intermediate",
+             "svg": "book",
             "link": "/courses/intermediate/lesson-43/classwork",
             "label": "Classwork <b>•</b> Classwork <b>•</b> Review lessons 23-41 + Test"
           }

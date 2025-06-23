@@ -21,19 +21,15 @@
     {
       "paragraphs": [
         {
-          "imgPosition": "",
           "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
-          "imgAlt": "Paragraph 1"
-        },
-        {
-          "enText": "..."
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
         }
       ]
-    },
-    {
-      "ribbon": {
-        "label": "Paragraph 1"
-      }
     },
     {
       "audioPlayer": [
@@ -43,9 +39,302 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "snippet",
+        "iconLabel": "Paragraph 1"
+      }
+    },
+    {
       "paragraphs": [
         {
-          "enText": "..."
+          "imgPosition": "right",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "iconLabel": "Paragraph 1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "imgPosition": "right",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "iconLabel": "Paragraph 1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "imgPosition": "right",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "iconLabel": "Paragraph 1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "imgPosition": "right",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "iconLabel": "Paragraph 1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "imgPosition": "right",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "iconLabel": "Paragraph 1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "imgPosition": "right",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "iconLabel": "Paragraph 1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "imgPosition": "right",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "iconLabel": "Paragraph 1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "imgPosition": "right",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "iconLabel": "Paragraph 1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "imgPosition": "right",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "iconLabel": "Paragraph 1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "imgPosition": "right",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "iconLabel": "Paragraph 1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "imgPosition": "right",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "iconLabel": "Paragraph 1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "imgPosition": "right",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "iconLabel": "Paragraph 1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "imgPosition": "right",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "iconLabel": "Paragraph 1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "imgPosition": "right",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "iconLabel": "Paragraph 1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "imgPosition": "right",
+          "imgSrc:": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/cover.jpg",
+          "imgAlt": "Paragraph 1",
+          "enText": [
+            {
+              "text": "..."
+            }
+          ]
         }
       ]
     }

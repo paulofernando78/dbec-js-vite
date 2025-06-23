@@ -2,10 +2,7 @@ import cssImportsPath from "/src/css/imports.css?inline";
 
 import {
   dashboard,
-  beginner,
-  elementary,
-  preIntermediate,
-  intermediate,
+  book,
   audiobooks,
   assignment,
   pronunciation,
@@ -69,19 +66,22 @@ class NavBar extends HTMLElement {
         label: "Dashboard",
       },
       { title: "<b>COURSES</b>" },
-      { svg: beginner, link: "/courses/beginner", label: "Beginner (A1)" },
       {
-        svg: elementary,
+        svg: book,
+        link: "/courses/beginner",
+        label: "Beginner (A1)" },
+      {
+        svg: book,
         link: "/courses/elementary",
         label: "Elementary (A1-A2)",
       },
       {
-        svg: preIntermediate,
+        svg: book,
         link: "/courses/pre-intermediate",
         label: "Pre-Intermediate (A2)",
       },
       {
-        svg: intermediate,
+        svg: book,
         link: "/courses/intermediate",
         label: "Intermediate (B1)",
       },

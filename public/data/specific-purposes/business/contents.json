@@ -6,7 +6,9 @@
   "contents": [
     {
       "card": {
-        "headerText": "Idioms / Vocabulary",
+        "bgColor": "var(--gray-3)",
+        "icon": "books",
+        "headerText": "Idioms / Expressions",
         "items": [
           {
             "svg": "book",

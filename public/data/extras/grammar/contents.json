@@ -6,16 +6,17 @@
   "contents": [
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "books",
         "headerText": "Grammar in Use",
         "items": [
           {
-            "svg": "assignment",
+            "svg": "book",
             "link": "/extras/grammar/elementary",
             "label": "Elementary"
           },
           {
-            "svg": "assignment",
+            "svg": "book",
             "link": "/extras/grammar/intermediate",
             "label": "Intermediate"
           }
