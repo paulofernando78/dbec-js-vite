@@ -6,178 +6,236 @@
   "contents": [
     {
       "ribbon": {
-        "iconLabel": "From English to Portuguese"
+        "icon": "page",
+        "iconLabel": "English influence"
       }
     },
     {
       "paragraphs": [
         {
-          "enText": [
+          "paragraph": [
             {
-              "boldText": "aggressor",
-              "phonetics": "/əˈɡres.ɚ/"
-            }
-          ],
-          "ptText": [
+              "enBoldText": "aggressor",
+              "phonetics": "/əˈɡres.ɚ/",
+              "partOfSpeech": "noun"
+            },
             {
-              "text": "agressor"
-            }
-          ]
-        },
-        {
-          "enText": [
-            {
-              "boldText": "to commence",
-              "phonetics": "/kəˈmens/"
-            }
-          ],
-          "ptText": [
-            {
-              "text": "..."
+              "ptText": "agressor"
             }
           ]
         },
         {
-          "enText": [
+          "paragraph": [
             {
-              "text": "to compromise",
-              "phonetics": "/ˈkɑːm.prə.maɪz/"
-            }
-          ],
-          "ptText": [
+              "enBoldText": "to commence",
+              "phonetics": "/kəˈmens/",
+              "partOfSpeech": "verb"
+            },
             {
-              "text": "(\"falso cognato reverso\" — parece que não tem relação, mas tem) • The attack compromised security. [O ataque comprometeu a segurança.], mas We need to find a compromise. [Precisamos encontrar um acordo] • I won’t compromise on my values. [Não vou ceder / fazer concessões nos meus valores.]"
-            }
-          ]
-        },
-        {
-          "enText": [
+              "enText": "• The ceremony will commence at noon.",
+              "ptText": "• A cerimônia começará ao meio-dia."
+            },
             {
-              "text": "to converse",
-              "phonetics": "/kənˈvɝːs/"
-            }
-          ],
-          "ptText": [
+              "enText": "• The court commenced the trial yesterday.",
+              "ptText": "• O tribunal começou o julgamento ontem. / O tribunal deu início ao julgamento ontem."
+            },
             {
-              "text": "xxx"
+              "ptText": "É muito mais formal. Costuma aparecer em documentos oficiais, cerimônias, linguagem jurídica ou acadêmica."
             }
           ]
         },
         {
-          "enText": [
+          "paragraph": [
             {
-              "text": "to deteriorate ",
-              "phonetics": "/dɪˈtɪr.i.ə.reɪt/"
-            }
-          ],
-          "ptText": [
+              "enBoldText": "to compromise",
+              "phonetics": "/ˈkɑːm.prə.maɪz/",
+              "partOfSpeech": "verb"
+            },
             {
-              "text": "xxx"
-            }
-          ]
-        },
-        {
-          "enText": [
+              "enText": "• The attack compromised security."
+            },
             {
-              "text": "to detest ",
-              "phonetics": "/dɪˈtest/"
-            }
-          ],
-          "ptText": [
+              "ptText": "• O ataque comprometeu a segurança."
+            },
             {
-              "text": "xxx"
-            }
-          ]
-        },
-        {
-          "enText": [
+              "enText": "• We need to find a compromise."
+            },
             {
-              "text": "assault",
-              "phonetics": "/əˈsɑːlt/"
-            }
-          ],
-          "ptText": [
+              "ptText": "• Precisamos encontrar um acordo."
+            },
             {
-              "text": "xxx"
+              "enText": "• I won’t compromise on my values."
+            },
+            {
+              "ptText": "• Não vou ceder / fazer concessões nos meus valores."
+            },
+            {
+              "ptText": "\"falso cognato reverso\" — parece que não tem relação, mas tem"
             }
           ]
         },
         {
-          "enText": [
+          "paragraph": [
             {
-              "text": "to devour ",
-              "phonetics": "/dɪˈvaʊ.ɚ/"
-            }
-          ],
-          "ptText": [
+              "enBoldText": "to converse",
+              "phonetics": "/kənˈvɝːs/",
+              "partOfSpeech": "verb"
+            },
             {
-              "text": "xxx"
-            }
-          ]
-        },
-        {
-          "enText": [
+              "enText": "..."
+            },
             {
-              "text": "macaque ",
-              "phonetics": "/məˈkɑːk/"
-            }
-          ],
-          "ptText": [
-            {
-              "text": "xxx"
+              "ptText": "É mais formal ou técnico. Costuma aparecer em situações mais sofisticadas, educadas ou acadêmicas."
             }
           ]
         },
         {
-          "enText": [
+          "paragraph": [
             {
-              "text": "obtain ",
-              "phonetics": "/əbˈteɪn/"
-            }
-          ],
-          "ptText": [
+              "enBoldText": "to deteriorate",
+              "phonetics": "/dɪˈtɪr.i.ə.reɪt",
+              "partOfSpeech": "verb"
+            },
             {
-              "text": "to regurgitate ",
-              "phonetics": "/rɪˈɡɝː.dʒə.teɪt/"
-            }
-          ]
-        },
-        {
-          "enText": [
+              "enText": "..."
+            },
             {
-              "text": "summary ",
-              "phonetics": "/ˈsʌm.ɚ.i/"
-            }
-          ],
-          "ptText": [
-            {
-              "text": "xxx"
+              "ptText": "..."
             }
           ]
         },
         {
-          "enText": [
+          "paragraph": [
             {
-              "text": "validate ",
-              "phonetics": "/ˈvæl.ə.deɪt/"
-            }
-          ],
-          "ptText": [
+              "enBoldText": "to detest",
+              "phonetics": "/dɪˈtest/",
+              "partOfSpeech": "verb"
+            },
             {
-              "text": "xxx"
+              "enText": "..."
+            },
+            {
+              "ptText": "..."
             }
           ]
         },
         {
-          "enText": [
+          "paragraph": [
             {
-              "text": "value ",
-              "phonetics": "/ˈvæl.juː/"
+              "enBoldText": "assault",
+              "phonetics": "/əˈsɑːlt/",
+              "partOfSpeech": "noun / verb"
+            },
+            {
+              "enText": "..."
+            },
+            {
+              "ptText": "..."
             }
-          ],
-          "ptText": [
+          ]
+        },
+        {
+          "paragraph": [
             {
-              "text": "xxx"
+              "enBoldText": "to devour",
+              "phonetics": "/dɪˈvaʊ.ɚ/",
+              "partOfSpeech": "verb"
+            },
+            {
+              "enText": "..."
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "enBoldText": "macaque",
+              "phonetics": "/məˈkɑːk/",
+              "partOfSpeech": "noun"
+            },
+            {
+              "enText": "..."
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "enBoldText": "to obtain",
+              "phonetics": "/əbˈteɪn/",
+              "partOfSpeech": "verb"
+            },
+            {
+              "enText": "..."
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "enBoldText": "to regurgitate",
+              "phonetics": "/rɪˈɡɝː.dʒə.teɪt/",
+              "partOfSpeech": "verb"
+            },
+            {
+              "enText": "..."
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "enBoldText": "summary",
+              "phonetics": "/ˈsʌm.ɚ.i/",
+              "partOfSpeech": "noun"
+            },
+            {
+              "enText": "..."
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "enBoldText": "to validate",
+              "phonetics": "/ˈvæl.ə.deɪt/",
+              "partOfSpeech": "verb"
+            },
+            {
+              "enText": "..."
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "enBoldText": "value",
+              "phonetics": "/ˈvæl.juː/",
+              "partOfSpeech": "noun  verb"
+            },
+            {
+              "enText": "..."
+            },
+            {
+              "ptText": "..."
             }
           ]
         }

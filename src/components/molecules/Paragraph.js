@@ -22,6 +22,9 @@ class Paragraph extends HTMLElement {
         grid-template-columns: 1fr 200px;
         gap: 10px
       }
+      .displayBlock {
+        display: block
+      }
     `;
 
     this.container = document.createElement("div");
@@ -49,34 +52,66 @@ class Paragraph extends HTMLElement {
 
     const textWrapper = document.createElement("div");
 
-    paragraph.enText.forEach((item) => {
+    const marginLeft = ".4rem";
+
+    paragraph.paragraph.forEach((item) => {
       if (item.breakLine) {
         const breakLine = document.createElement("div");
         breakLine.style.marginBottom = "var(--break-line)";
         textWrapper.appendChild(breakLine);
-      } else if (item.text || item.boldText || item.phonetics) {
-        const enP = document.createElement("p");
-        enP.style.display = "inline";
+      } else if (
+        item.enBoldText ||
+        item.phonetics ||
+        item.partOfSpeech ||
+        item.enText ||
+        item.ptBoldText ||
+        item.ptText
+      ) {
+        const paragraphElement = document.createElement("p");
 
-        if (item.text) {
-          const text = document.createTextNode(item.text);
-          enP.appendChild(text);
-        }
-
-        if (item.boldText) {
-          const bold = document.createElement("b");
-          bold.textContent = item.boldText;
-          enP.appendChild(bold);
+        if (item.enBoldText) {
+          const enBoldText = document.createElement("b");
+          enBoldText.textContent = item.enBoldText;
+          paragraphElement.appendChild(enBoldText);
         }
 
         if (item.phonetics) {
           const phonetics = document.createElement("span");
           phonetics.textContent = item.phonetics;
           phonetics.classList.add("phonetics");
-          enP.appendChild(phonetics);
+          phonetics.style.marginLeft = marginLeft;
+          paragraphElement.appendChild(phonetics);
         }
 
-        textWrapper.appendChild(enP);
+        if (item.partOfSpeech) {
+          const partOfSpeech = document.createElement("span");
+          partOfSpeech.textContent = item.partOfSpeech;
+          partOfSpeech.classList.add("part-of-speech");
+          partOfSpeech.style.marginLeft = marginLeft;
+          paragraphElement.appendChild(partOfSpeech);
+        }
+
+        if (item.enText) {
+          const enText = document.createTextNode("p");
+          enText.textContent = item.enText;
+          paragraphElement.appendChild(enText);
+        }
+
+        if (item.ptBoldText) {
+          const ptBoldText = document.createElement("b");
+          ptBoldText.textContent = item.ptBoldText;
+          ptBoldText.style.color = "var(--gray-4)";
+          paragraphElement.appendChild(ptBoldText);
+        }
+
+        if (item.ptText) {
+          const ptText = document.createElement("p");
+          ptText.textContent = item.ptText;
+          ptText.style.color = "var(--gray-4)";
+          paragraphElement.appendChild(ptText);
+        }
+
+        textWrapper.appendChild(paragraphElement);
       }
     });
 
@@ -84,21 +119,6 @@ class Paragraph extends HTMLElement {
       const breakLine = document.createElement("div");
       breakLine.style.marginBottom = "var(--break-line)";
       textWrapper.appendChild(breakLine);
-    }
-
-    if (paragraph.ptText) {
-      paragraph.ptText.forEach((item) => {
-        if (item.breakLine) {
-          const breakLine = document.createElement("div");
-          breakLine.style.marginBottom = "var(--break-line)";
-          textWrapper.appendChild(breakLine);
-        } else if (item.text) {
-          const ptP = document.createElement("p");
-          ptP.innerHTML = item.text;
-          ptP.style.color = "var(--gray-4)";
-          textWrapper.appendChild(ptP);
-        }
-      });
     }
 
     const position = paragraph.imgPosition || "left";
