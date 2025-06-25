@@ -1,0 +1,31 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Pronunciation",
+    "descriptions": [
+      {
+        "description": "Letters 'i' and 'ea', 'ee'"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "icon": "book",
+        "iconLabel": "Letters 'o' and 'u'"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "text": "teste"
+            }
+          ]
+
+        }
+      ]
+    }
+  ]
+}

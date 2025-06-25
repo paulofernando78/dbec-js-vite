@@ -93,6 +93,17 @@ const Router = {
         return;
       }
 
+      // Generic pronunciation
+      const genericPronunciationMatch = path.match(/^\/(.+)\/letter$/);
+      if (genericPronunciationMatch) {
+        const [, basePath] = genericPronunciationMatch;
+        const node = document.createElement("wc-data-page");
+        node.setAttribute("path", basePath);
+        node.setAttribute("letter", "true");
+        content.appendChild(node);
+        return;
+      }
+
       // For all contents.json
       const contentMatch = path.match(
         /^\/(courses|extras|specific-purposes)(\/.+)+$/

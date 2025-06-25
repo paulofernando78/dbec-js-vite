@@ -60,57 +60,57 @@
           },
           {
             "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa",
+            "link": "/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/book",
             "label": "Marcel and the Mona Lisa"
           },
           {
             "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star",
+            "link": "/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/book",
             "label": "Marcel and the White Star"
           },
           {
             "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/newspaper-chase",
+            "link": "/extras/audiobooks/starter/young-learners-adults/newspaper-chase/book",
             "label": "Newspaper Chase"
           },
           {
             "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/simon-and-the-spy",
+            "link": "/extras/audiobooks/starter/young-learners-adults/simon-and-the-spy/book",
             "label": "Simon and the Spy"
           },
           {
             "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/the-fireboy",
+            "link": "/extras/audiobooks/starter/young-learners-adults/the-fireboy/book",
             "label": "The Fireboy"
           },
           {
             "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/the-last-photo",
+            "link": "/extras/audiobooks/starter/young-learners-adults/the-last-photo/book",
             "label": "The Last Photo"
           },
           {
             "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/the-leopard-and-the-lighthouse",
+            "link": "/extras/audiobooks/starter/young-learners-adults/the-leopard-and-the-lighthouse/book",
             "label": "The Leopard and the Lighthouse"
           },
           {
             "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/the-pearl-jam",
+            "link": "/extras/audiobooks/starter/young-learners-adults/the-pearl-jam/book",
             "label": "The Pearl Girl"
           },
           {
             "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/the-troy-stone",
+            "link": "/extras/audiobooks/starter/young-learners-adults/the-troy-stone/book",
             "label": "The Troy Stone"
           },
           {
             "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/the-white-oryx",
+            "link": "/extras/audiobooks/starter/young-learners-adults/the-white-oryx/book",
             "label": "The White Oryx"
           },
           {
             "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/who-wants-to-be-a-star",
+            "link": "/extras/audiobooks/starter/young-learners-adults/who-wants-to-be-a-star/book",
             "label": "Who Wants to be a star"
           }
         ]
@@ -144,8 +144,8 @@
         "items": [
           {
             "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/",
-            "label": "..."
+            "link": "/extras/audiobooks/beginner/young-learners-adults/sherlock-holmes/book",
+            "label": "Sherlock Holmes"
           }
         ]
       }

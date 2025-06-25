@@ -29,18 +29,18 @@
         "items": [
           {
             "svg": "page",
-            "link": "/extras/pronunciation/letter-a",
+            "link": "/extras/pronunciation/letter-a-e/letter",
             "label": "Letter 'a' and 'e'"
           },
           {
             "svg": "page",
-            "link": "/extras/pronunciation/letter-e",
-            "label": "Letters 'i' and 'e'"
+            "link": "/extras/pronunciation/letter-i-ea-ee/letter",
+            "label": "Letters 'i' and 'ea', 'ee' "
           },
           {
             "svg": "page",
-            "link": "/extras/pronunciation/letter-i",
-            "label": "Letter 'o and u'"
+            "link": "/extras/pronunciation/letter-o-u/letter",
+            "label": "Letter 'o' and 'u'"
           }
         ]
       }

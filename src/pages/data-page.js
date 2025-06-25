@@ -22,24 +22,32 @@ class DataPage extends HTMLElement {
     const part = this.getAttribute("part");
     const unit = this.getAttribute("unit");
     const book = this.getAttribute("book");
-    // console.log("🔍 path:", path);
-    // console.log("📘 lesson:", lesson);
-    // console.log("📎 part:", part);
-    // console.log("📎 unit:", unit);
-    // console.log("📚 book:", book);
+    const letter = this.getAttribute("letter");
+    console.log("🔍 path:", path);
+    console.log("📘 lesson:", lesson);
+    console.log("📎 part:", part);
+    console.log("📎 unit:", unit);
+    console.log("📚 book:", book);
+    console.log("📚 letter:", letter);
     
     if (lesson && part) {
+      // Courses
       JSON_PATH = `/data/${path}/lesson-${lesson}/${part}.json`;
     } else if (lesson) {
       JSON_PATH = `/data/${path}/lesson-${lesson}.json`;
     } else if (unit) {
+      // Audiobooks
       JSON_PATH = `/data/${path}/unit-${unit}.json`;
     } else if (book) {
       JSON_PATH = `/data/${path}/book.json`;
+      // Pronunciation
+    } else if (letter) {
+      JSON_PATH = `/data/${path}/letter.json`;
+      // Contents
     } else {
       JSON_PATH = `/data/${path}/contents.json`;
     }
-    // console.log("📥 JSON_PATH:", JSON_PATH);
+    console.log("📥 JSON_PATH:", JSON_PATH);
     
     fetch(JSON_PATH)
       .then((res) => res.json())
