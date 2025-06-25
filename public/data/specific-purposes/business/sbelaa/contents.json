@@ -4,7 +4,7 @@
     "subtitle": "Business",
     "descriptions": [
       {
-        "text": "Speak Business English Like an American"
+        "description": "Speak Business English Like an American"
       }
     ]
   },
@@ -17,7 +17,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 1",
         "descriptions": [
           {
@@ -41,7 +42,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 2",
         "descriptions": [
           {
@@ -65,7 +67,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 3",
         "descriptions": [
           {
@@ -89,7 +92,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 4",
         "descriptions": [
           {
@@ -113,7 +117,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 5",
         "descriptions": [
           {
@@ -143,7 +148,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 6",
         "descriptions": [
           {
@@ -167,7 +173,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 7",
         "descriptions": [
           {
@@ -191,7 +198,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 8",
         "descriptions": [
           {
@@ -215,7 +223,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 9",
         "descriptions": [
           {
@@ -239,7 +248,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 10",
         "descriptions": [
           {
@@ -269,7 +279,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 11",
         "descriptions": [
           {
@@ -293,7 +304,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 12",
         "descriptions": [
           {
@@ -317,7 +329,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 13",
         "descriptions": [
           {
@@ -341,7 +354,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 14",
         "descriptions": [
           {
@@ -365,7 +379,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 15",
         "descriptions": [
           {
@@ -395,7 +410,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 16",
         "descriptions": [
           {
@@ -419,7 +435,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 17",
         "descriptions": [
           {
@@ -443,7 +460,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 18",
         "descriptions": [
           {
@@ -467,7 +485,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 19",
         "descriptions": [
           {
@@ -491,7 +510,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 20",
         "descriptions": [
           {
@@ -521,7 +541,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 21",
         "descriptions": [
           {
@@ -545,7 +566,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 22",
         "descriptions": [
           {
@@ -569,7 +591,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 23",
         "descriptions": [
           {
@@ -593,7 +616,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 24",
         "descriptions": [
           {
@@ -617,7 +641,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 25",
         "descriptions": [
           {
@@ -647,7 +672,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 26",
         "descriptions": [
           {
@@ -671,7 +697,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 27",
         "descriptions": [
           {
@@ -695,7 +722,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 28",
         "descriptions": [
           {
@@ -719,7 +747,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 29",
         "descriptions": [
           {
@@ -743,7 +772,8 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
         "headerText": "Lessons 30",
         "descriptions": [
           {
