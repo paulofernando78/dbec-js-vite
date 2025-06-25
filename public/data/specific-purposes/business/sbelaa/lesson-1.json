@@ -24,7 +24,7 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
+        "bgColor": "var(--gray-3)",
         "headerText": "Lesson 1 • Talking about a new project",
         "descriptions": [
           {
@@ -36,54 +36,172 @@
     {
       "paragraphs": [
         {
-          "enText": [
+          "paragraph": [
             {
-              "text": "<b>Carl:</b> I think we've <mark>come up with a winner</mark>."
+              "boldText": "Carl: "
+            },
+            {
+              "text": "I think we've "
+            },
+            {
+              "mark": "come up with a winner"
+            },
+            {
+              "text": "."
             },
             {
               "breakLine": true
             },
             {
-              "text": "<b>Anne:</b> I agree. The new Brush-o-matic should be a <mark>blockbuster</mark>!"
+              "boldText": "Anne: "
+            },
+            {
+              "text": "I agree. The new Brush-o-matic should be a "
+            },
+            {
+              "mark": "blockbuster"
+            },
+            {
+              "text": "!"
             },
             {
               "breakLine": true
             },
             {
-              "text": "<b>Carl:</b> Our designers have already made up some prototypes. The toothbrushes have a tooth-whitening attachment and many other <mark>bells and whistles</mark>."
+              "boldText": "Carl: ",
+              "text": "Our designers have already made up some prototypes. The toothbrushes have a tooth-whitening attachment and many other "
+            },
+            {
+              "mark": "bells and whitles"
+            },
+            {
+              "text": "."
             },
             {
               "breakLine": true
             },
             {
-              "text": "<b>Greg:</b> We should <mark>fast track a project</mark>. Let's try to launch it in time for the holiday season."
+              "boldText": "Greg: "
             },
             {
-              "enText": "<b>Ane:</b> This will be a great <mark>stocking stuffer</mark>!"
+              "text": "We should "
             },
             {
-              "text": "<b>Carl:</b> We definitely need a <mark>big win</mark> for the holidays."
+              "mark": "fast track a project"
             },
             {
-              "breakLine": true
-            },
-            {
-              "text": "<b>Anne:</b> This is a great idea. We're going to <mark>make a killing</mark>."
+              "text": ". Let's try to launch it in time for the holiday season."
             },
             {
               "breakLine": true
             },
             {
-              "text": "<b>Greg:</b> Let's not talk about this project to anybody who doesn't need to know. We'll <mark>keep something under wraps</mark>."
+              "boldText": "Ane: "
+            },
+            {
+              "text": "This will be a great "
+            },
+            {
+              "mark": "stocking stuffer"
+            },
+            {
+              "text": "!"
             },
             {
               "breakLine": true
             },
             {
-              "text": "<b>Carl:</b> I agree <mark>mum's the word</mark>. We don't want any of our competitors to <mark>get wind of</mark> the idea and <mark>rip it off</mark>."
+              "boldText": "Carl: "
             },
             {
-              "text": "<b>Anne:</b> Right. Let's meet again on Monday morning and discuss our <mark>game plan</mark> for <mark>getting this project off the ground</mark>!"
+              "text": "We definitely need a "
+            },
+            {
+              "mark": "big win"
+            },
+            {
+              "text": " for the holidays."
+            },
+            {
+              "breakLine": true
+            },
+            {
+              "boldText": "Anne: "
+            },
+            {
+              "text": "This is a great idea. We're going to "
+            },
+            {
+              "mark": "make a killing"
+            },
+            {
+              "text": "."
+            },
+            {
+              "breakLine": true
+            },
+            {
+              "boldText": "Greg: "
+            },
+            {
+              "text": "Let's not talk about this project to anybody who doesn't need to know. We'll "
+            },
+            {
+              "mark": "keep it under wraps"
+            },
+            {
+              "text": "."
+            },
+            {
+              "breakLine": true
+            },
+            {
+              "boldText": "Carl: "
+            },
+            {
+              "text": "I agree. "
+            },
+            {
+              "mark": "Mum's the word"
+            },
+            {
+              "text": " ."
+            },
+            {
+              "text": "We don't want any of our competitors to "
+            },
+            {
+              "mark": "get wind of"
+            },
+            {
+              "text": " the idea and "
+            },
+            {
+              "mark": "rip it off"
+            },
+            {
+              "text": "."
+            },
+            {
+              "breakLine": true
+            },
+            {
+              "boldText": "Anne: "
+            },
+            {
+              "text": "Right. Let's meet again on Monday morning and discuss our "
+            },
+            {
+              "mark": "game plan"
+            },
+            {
+              "text": " for "
+            },
+            {
+              "mark": "getting this project off the ground"
+            },
+            {
+              "text": "!"
             }
           ]
         }

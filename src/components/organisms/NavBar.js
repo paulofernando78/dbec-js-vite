@@ -4,7 +4,7 @@ import {
   dashboard,
   book,
   audiobooks,
-  assignment,
+  vocabulary,
   pronunciation,
   songs,
   travel,
@@ -92,9 +92,14 @@ class NavBar extends HTMLElement {
         label: "Audiobooks",
       },
       {
-        svg: assignment,
+        svg: book,
         link: "/extras/grammar",
         label: "Grammar",
+      },
+      {
+        svg: vocabulary,
+        link: "/extras/vocabulary",
+        label: "Vocabulary",
       },
       {
         svg: pronunciation,

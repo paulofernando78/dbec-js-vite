@@ -60,19 +60,21 @@ class Paragraph extends HTMLElement {
         breakLine.style.marginBottom = "var(--break-line)";
         textWrapper.appendChild(breakLine);
       } else if (
-        item.enBoldText ||
+        item.boldText ||
         item.phonetics ||
         item.partOfSpeech ||
-        item.enText ||
+        item.text ||
         item.ptBoldText ||
-        item.ptText
+        item.ptText ||
+        item.mark
       ) {
         const paragraphElement = document.createElement("p");
+        paragraphElement.style.display = "inline"
 
-        if (item.enBoldText) {
-          const enBoldText = document.createElement("b");
-          enBoldText.textContent = item.enBoldText;
-          paragraphElement.appendChild(enBoldText);
+        if (item.boldText) {
+          const boldText = document.createElement("b");
+          boldText.textContent = item.boldText;
+          paragraphElement.appendChild(boldText);
         }
 
         if (item.phonetics) {
@@ -91,10 +93,10 @@ class Paragraph extends HTMLElement {
           paragraphElement.appendChild(partOfSpeech);
         }
 
-        if (item.enText) {
-          const enText = document.createTextNode("p");
-          enText.textContent = item.enText;
-          paragraphElement.appendChild(enText);
+        if (item.text) {
+          const text = document.createTextNode("p");
+          text.textContent = item.text;
+          paragraphElement.appendChild(text);
         }
 
         if (item.ptBoldText) {
@@ -109,6 +111,12 @@ class Paragraph extends HTMLElement {
           ptText.textContent = item.ptText;
           ptText.style.color = "var(--gray-4)";
           paragraphElement.appendChild(ptText);
+        }
+
+        if (item.mark) {
+          const mark = document.createElement("mark");
+          mark.textContent = item.mark;
+          paragraphElement.appendChild(mark)
         }
 
         textWrapper.appendChild(paragraphElement);

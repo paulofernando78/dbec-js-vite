@@ -7,10 +7,13 @@
     {
       "paragraphs": [
         {
-          "enText": "<b>Under construction</b>"
+          "paragraph": [
+            {
+              "boldText": "Under construction..."
+            }
+          ]
         }
       ]
     }
-    
   ]
 }
