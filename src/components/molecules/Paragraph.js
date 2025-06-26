@@ -25,6 +25,18 @@ class Paragraph extends HTMLElement {
       .displayBlock {
         display: block
       }
+
+      @media (max-width: 768px) {
+        .img-left, .img-right {
+        grid-template-columns: 1fr;
+      }
+
+      wc-image {
+        width: 75%;
+        margin: 0 auto
+      }
+
+      }
     `;
 
     this.container = document.createElement("div");

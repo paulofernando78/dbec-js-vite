@@ -32,11 +32,11 @@
               "partOfSpeech": "verb"
             },
             {
-              "enText": "• The ceremony will commence at noon.",
+              "text": "• The ceremony will commence at noon.",
               "ptText": "• A cerimônia começará ao meio-dia."
             },
             {
-              "enText": "• The court commenced the trial yesterday.",
+              "text": "• The court commenced the trial yesterday.",
               "ptText": "• O tribunal começou o julgamento ontem. / O tribunal deu início ao julgamento ontem."
             },
             {
@@ -52,19 +52,19 @@
               "partOfSpeech": "verb"
             },
             {
-              "enText": "• The attack compromised security."
+              "text": "• The attack compromised security."
             },
             {
               "ptText": "• O ataque comprometeu a segurança."
             },
             {
-              "enText": "• We need to find a compromise."
+              "text": "• We need to find a compromise."
             },
             {
               "ptText": "• Precisamos encontrar um acordo."
             },
             {
-              "enText": "• I won’t compromise on my values."
+              "text": "• I won’t compromise on my values."
             },
             {
               "ptText": "• Não vou ceder / fazer concessões nos meus valores."
@@ -82,7 +82,7 @@
               "partOfSpeech": "verb"
             },
             {
-              "enText": "..."
+              "text": "..."
             },
             {
               "ptText": "É mais formal ou técnico. Costuma aparecer em situações mais sofisticadas, educadas ou acadêmicas."
@@ -97,7 +97,7 @@
               "partOfSpeech": "verb"
             },
             {
-              "enText": "..."
+              "text": "..."
             },
             {
               "ptText": "..."
@@ -112,7 +112,7 @@
               "partOfSpeech": "verb"
             },
             {
-              "enText": "..."
+              "text": "..."
             },
             {
               "ptText": "..."
@@ -127,7 +127,7 @@
               "partOfSpeech": "noun / verb"
             },
             {
-              "enText": "..."
+              "text": "..."
             },
             {
               "ptText": "..."
@@ -142,7 +142,7 @@
               "partOfSpeech": "verb"
             },
             {
-              "enText": "..."
+              "text": "..."
             },
             {
               "ptText": "..."
@@ -157,7 +157,7 @@
               "partOfSpeech": "noun"
             },
             {
-              "enText": "..."
+              "text": "..."
             },
             {
               "ptText": "..."
@@ -172,7 +172,7 @@
               "partOfSpeech": "verb"
             },
             {
-              "enText": "..."
+              "text": "..."
             },
             {
               "ptText": "..."
@@ -187,7 +187,7 @@
               "partOfSpeech": "verb"
             },
             {
-              "enText": "..."
+              "text": "..."
             },
             {
               "ptText": "..."
@@ -202,7 +202,7 @@
               "partOfSpeech": "noun"
             },
             {
-              "enText": "..."
+              "text": "..."
             },
             {
               "ptText": "..."
@@ -217,7 +217,7 @@
               "partOfSpeech": "verb"
             },
             {
-              "enText": "..."
+              "text": "..."
             },
             {
               "ptText": "..."
@@ -232,7 +232,7 @@
               "partOfSpeech": "noun  verb"
             },
             {
-              "enText": "..."
+              "text": "..."
             },
             {
               "ptText": "..."
