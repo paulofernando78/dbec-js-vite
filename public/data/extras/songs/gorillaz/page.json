@@ -1,0 +1,27 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Songs",
+    "descriptions": [
+      {
+        "description": "Gorillaz"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "headerText": "Album",
+        "items": [
+          {
+            "svg": "songs",
+            "link": "/extras/songs/gorillaz/gorillaz/clinton-eastwood",
+            "label": "Clinton Eastwood"
+          }
+        ]
+      }
+    }
+  ]
+}

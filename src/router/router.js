@@ -34,7 +34,7 @@ const Router = {
     content.innerHTML = "";
 
     const routes = {
-      "/dashboard": () => document.createElement("wc-welcome"),
+      "/dashboard": () => document.createElement("wc-dashboard"),
     };
 
     const routeHandler = routes[path];

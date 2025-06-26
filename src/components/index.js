@@ -24,7 +24,7 @@ import UnderConstruction from "./organisms/UnderConstruction";
 import Contents from "./templates/Contents";
 
 // Pages
-import Welcome from "./organisms/welcome";
+import Dashboard from "./organisms/dashboard";
 import DataPage from "../pages/data-page";
 
 // ******************************
@@ -53,5 +53,5 @@ customElements.define("wc-under-construction", UnderConstruction)
 customElements.define("wc-contents", Contents)
 
 // Pages
-customElements.define("wc-welcome", Welcome);
+customElements.define("wc-dashboard", Dashboard);
 customElements.define("wc-data-page", DataPage)

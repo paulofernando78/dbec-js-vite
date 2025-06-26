@@ -25,7 +25,7 @@ import {
 
 } from "@images/image-imports";
 
-class Welcome extends HTMLElement {
+class Dashboard extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -67,9 +67,17 @@ class Welcome extends HTMLElement {
     };
     this.shadowRoot.appendChild(whiteboard);
 
+    const board = document.createElement("textarea")
+    board.style.width = "100%"
+    board.style.height = "200px"
+    board.style.marginBottom = "1rem"
+    this.shadowRoot.appendChild(board)
+
+
     const container = document.createElement("div");
     container.classList.add("line-break");
     this.shadowRoot.appendChild(container);
+
 
     const texts = [
       {
@@ -195,5 +203,5 @@ class Welcome extends HTMLElement {
   }
 }
 
-export default Welcome;
+export default Dashboard;
 

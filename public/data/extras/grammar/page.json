@@ -12,12 +12,12 @@
         "items": [
           {
             "svg": "book",
-            "link": "/extras/grammar/elementary/page",
+            "link": "/extras/grammar/elementary",
             "label": "Elementary"
           },
           {
             "svg": "book",
-            "link": "/extras/grammar/intermediate/page",
+            "link": "/extras/grammar/intermediate",
             "label": "Intermediate"
           }
         ]
