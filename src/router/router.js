@@ -43,74 +43,12 @@ const Router = {
       const node = routeHandler(); // invoke function
       content.appendChild(node);
     } else {
-      
-      // courses/{level}/lesson-{number}/{part}
-      const courseLessonMatch = path.match(
-        /^\/courses\/([^\/]+)\/lesson-(\d+)\/([^\/]+)$/
-      );
-      if (courseLessonMatch) {
-        const [, level, lesson, part] = courseLessonMatch;
-        const node = document.createElement("wc-data-page");
-        node.setAttribute("path", `courses/${level}`);
-        node.setAttribute("lesson", lesson);
-        node.setAttribute("part", part);
-        content.appendChild(node);
-        console.log("Matched course lesson part route:");
-        console.log({ level, lesson, part });
-        return;
-      }
-
-      // Generic lessons
-      const genericLessonMatch = path.match(/^\/(.+)\/lesson-(\d+)$/);
-      if (genericLessonMatch) {
-        const [, basePath, lesson] = genericLessonMatch;
+      const genericPageMatch = path.match(/^\/(.+)$/);
+      if (genericPageMatch) {
+        const [, basePath] = genericPageMatch;
         const node = document.createElement("wc-data-page");
         node.setAttribute("path", basePath);
-        node.setAttribute("lesson", lesson);
-        content.appendChild(node);
-        return;
-      }
-
-      // Generic units
-      const genericUnitsMatch = path.match(/^\/(.+)\/unit-(\d+)$/);
-      if (genericUnitsMatch) {
-        const [, basePath, unit] = genericUnitsMatch;
-        const node = document.createElement("wc-data-page");
-        node.setAttribute("path", basePath);
-        node.setAttribute("unit", unit);
-        content.appendChild(node);
-        return;
-      }
-
-      // Generic books
-      const genericBooksMatch = path.match(/^\/(.+)\/book$/);
-      if (genericBooksMatch) {
-        const [, basePath] = genericBooksMatch;
-        const node = document.createElement("wc-data-page");
-        node.setAttribute("path", basePath);
-        node.setAttribute("book", "true");
-        content.appendChild(node);
-        return;
-      }
-
-      // Generic pronunciation
-      const genericPronunciationMatch = path.match(/^\/(.+)\/letter$/);
-      if (genericPronunciationMatch) {
-        const [, basePath] = genericPronunciationMatch;
-        const node = document.createElement("wc-data-page");
-        node.setAttribute("path", basePath);
-        node.setAttribute("letter", "true");
-        content.appendChild(node);
-        return;
-      }
-
-      // For all contents.json
-      const contentMatch = path.match(
-        /^\/(courses|extras|specific-purposes)(\/.+)+$/
-      );
-      if (contentMatch) {
-        const node = document.createElement("wc-data-page");
-        node.setAttribute("path", path.slice(1));
+        node.setAttribute("page", "true");
         content.appendChild(node);
         return;
       }

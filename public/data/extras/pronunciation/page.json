@@ -1,0 +1,49 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Pronunciation"
+  },
+  "contents": [
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "boldText": "Under construction..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "book",
+        "iconLabel": "By letters"
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "headerText": "Vowels",
+        "items": [
+          {
+            "svg": "page",
+            "link": "/extras/pronunciation/letter-a-e/page",
+            "label": "Letter 'a' and 'e'"
+          },
+          {
+            "svg": "page",
+            "link": "/extras/pronunciation/letter-i-ea-ee/page",
+            "label": "Letters 'i' and 'ea', 'ee' "
+          },
+          {
+            "svg": "page",
+            "link": "/extras/pronunciation/letter-o-u/page",
+            "label": "Letter 'o' and 'u'"
+          }
+        ]
+      }
+    }
+  ]
+}

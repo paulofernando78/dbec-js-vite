@@ -1,0 +1,27 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Grammar"
+  },
+  "contents": [
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "icon": "books",
+        "headerText": "Grammar in Use",
+        "items": [
+          {
+            "svg": "book",
+            "link": "/extras/grammar/elementary/page",
+            "label": "Elementary"
+          },
+          {
+            "svg": "book",
+            "link": "/extras/grammar/intermediate/page",
+            "label": "Intermediate"
+          }
+        ]
+      }
+    }
+  ]
+}

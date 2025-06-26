@@ -22,7 +22,8 @@ class Paragraph extends HTMLElement {
         grid-template-columns: 1fr 200px;
         gap: 10px
       }
-      .displayBlock {
+
+      .display-block {
         display: block
       }
 
@@ -67,11 +68,7 @@ class Paragraph extends HTMLElement {
     const marginLeft = ".4rem";
 
     paragraph.paragraph.forEach((item) => {
-      if (item.breakLine) {
-        const breakLine = document.createElement("div");
-        breakLine.style.marginBottom = "var(--break-line)";
-        textWrapper.appendChild(breakLine);
-      } else if (
+      if (
         item.boldText ||
         item.phonetics ||
         item.partOfSpeech ||
@@ -81,7 +78,6 @@ class Paragraph extends HTMLElement {
         item.mark
       ) {
         const paragraphElement = document.createElement("p");
-        paragraphElement.style.display = "inline"
 
         if (item.boldText) {
           const boldText = document.createElement("b");
@@ -106,7 +102,7 @@ class Paragraph extends HTMLElement {
         }
 
         if (item.text) {
-          const text = document.createTextNode("p");
+          const text = document.createTextNode("span");
           text.textContent = item.text;
           paragraphElement.appendChild(text);
         }
@@ -119,7 +115,7 @@ class Paragraph extends HTMLElement {
         }
 
         if (item.ptText) {
-          const ptText = document.createElement("p");
+          const ptText = document.createElement("span");
           ptText.textContent = item.ptText;
           ptText.style.color = "var(--gray-4)";
           paragraphElement.appendChild(ptText);
@@ -128,18 +124,18 @@ class Paragraph extends HTMLElement {
         if (item.mark) {
           const mark = document.createElement("mark");
           mark.textContent = item.mark;
-          paragraphElement.appendChild(mark)
+          paragraphElement.appendChild(mark);
+        }
+
+        if (item.displayBlock) {
+          paragraphElement.classList.add("display-block");
+        } else {
+          paragraphElement.style.display = "inline";
         }
 
         textWrapper.appendChild(paragraphElement);
       }
     });
-
-    if (paragraph.breakLine) {
-      const breakLine = document.createElement("div");
-      breakLine.style.marginBottom = "var(--break-line)";
-      textWrapper.appendChild(breakLine);
-    }
 
     const position = paragraph.imgPosition || "left";
     const validPosition =

@@ -18,34 +18,12 @@ class DataPage extends HTMLElement {
   connectedCallback() {
     let JSON_PATH;
     const path = this.getAttribute("path");
-    const lesson = this.getAttribute("lesson");
-    const part = this.getAttribute("part");
-    const unit = this.getAttribute("unit");
-    const book = this.getAttribute("book");
-    const letter = this.getAttribute("letter");
+    const page = this.getAttribute("page");
     console.log("🔍 path:", path);
-    console.log("📘 lesson:", lesson);
-    console.log("📎 part:", part);
-    console.log("📎 unit:", unit);
-    console.log("📚 book:", book);
-    console.log("📚 letter:", letter);
+    console.log("📘 page:", page);
     
-    if (lesson && part) {
-      // Courses
-      JSON_PATH = `/data/${path}/lesson-${lesson}/${part}.json`;
-    } else if (lesson) {
-      JSON_PATH = `/data/${path}/lesson-${lesson}.json`;
-    } else if (unit) {
-      // Audiobooks
-      JSON_PATH = `/data/${path}/unit-${unit}.json`;
-    } else if (book) {
-      JSON_PATH = `/data/${path}/book.json`;
-      // Pronunciation
-    } else if (letter) {
-      JSON_PATH = `/data/${path}/letter.json`;
-      // Contents
-    } else {
-      JSON_PATH = `/data/${path}/contents.json`;
+    if (page) {
+      JSON_PATH = `/data/${path}/page.json`;
     }
     console.log("📥 JSON_PATH:", JSON_PATH);
     
@@ -60,6 +38,11 @@ class DataPage extends HTMLElement {
 
         const contents = document.createElement("wc-contents");
         contents.data = data;
+
+        if (data.meta?.type) {
+          contents.setAttribute("data-type", data.meta.type)
+        }
+
         this.shadowRoot.appendChild(contents);
       });
   }
