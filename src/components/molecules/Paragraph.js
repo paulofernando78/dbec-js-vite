@@ -26,7 +26,7 @@ class Paragraph extends HTMLElement {
         display: block
       }
 
-      @media (max-width: 768px) {
+      @media (max-width:     480px) {
         .img-left, .img-right {
         grid-template-columns: 1fr;
       }
