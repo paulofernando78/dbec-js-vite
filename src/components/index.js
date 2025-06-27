@@ -5,6 +5,7 @@ import Button from "./atoms/Button";
 import Ribbon from "./atoms/Ribbon"
 import Card from "./atoms/Card";
 import Paragraph from "./molecules/Paragraph";
+import VideoPlayer from "./atoms/VideoPlayer";
 
 
 // Molecules
@@ -35,6 +36,7 @@ customElements.define("wc-button", Button);
 customElements.define("wc-ribbon", Ribbon);
 customElements.define("wc-card", Card)
 customElements.define("wc-paragraph", Paragraph)
+customElements.define("wc-video-player", VideoPlayer)
 
 // Molecules
 customElements.define("wc-icon-item", IconItem);

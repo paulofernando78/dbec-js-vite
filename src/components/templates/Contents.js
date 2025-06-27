@@ -74,6 +74,13 @@ class Contents extends HTMLElement {
         audioPlayer.data = section.audioPlayer;
         contentContainer.appendChild(audioPlayer);
       }
+
+      // VideoPlayer
+      if (section.videoPlayer) {
+        const videoPlayer = document.createElement("wc-video-player");
+        videoPlayer.data = section.videoPlayer;
+        contentContainer.appendChild(videoPlayer)
+      }
     });
 
     this.shadowRoot.appendChild(contentContainer);

@@ -8,19 +8,33 @@ class VideoPlayer extends HTMLElement {
     cssImports.href = "/src/css/imports.css";
     this.shadowRoot.appendChild(cssImports);
 
-    const css = document.createElement("style");
+    const css = document.createElement("style"); /*css*/
     css.textContent = `
-			p {
-				color: green; 
+			iframe {
+				aspect-ratio: 16 / 9;
+        width: 100%;
+        border: none 
 			}
 		`;
 
-    const videoPlayer = document.createElement("video");
-    videoPlayer.src = item.src;
-    videoPlayer.style.width = "100%";
+    this.videoPlayer = document.createElement("iframe");
+    this.videoPlayer.setAttribute("frameborder", "0");
+    this.videoPlayer.setAttribute(
+      "allow",
+      "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    );
 
-    this.shadowRoot.appendChild(css);
-    this.shadowRoot.appendChild(template.content.cloneNode(true));
+    this.shadowRoot.append(cssImports, css, this.videoPlayer);
+  }
+
+  set data(item) {
+    this.render(item);
+  }
+
+  render(item) {
+    if (item.src) {
+      this.videoPlayer.src = item.src;
+    }
   }
 }
 

@@ -16,14 +16,33 @@
   },
   "contents": [
     {
+      "videoPlayer": {
+        "src": "https://www.youtube.com/embed/1V_xRb0x9aw?list=RD1V_xRb0x9aw&start_radio=1"
+      }
+    },
+    {
       "paragraphs": [
         {
           "paragraph": [
             {
-              "text": "letra"
+              "text": "I ain't happy, I'm feeling glad"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Eu não estou feliz, estou me sentindo contente"
             }
           ]
-
+        },
+        {
+          "paragraph": [
+            {
+              "text": "xxx"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "xxx"
+            }
+          ]
         }
       ]
     }
