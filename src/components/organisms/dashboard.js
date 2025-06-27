@@ -57,6 +57,10 @@ class Dashboard extends HTMLElement {
       .emoji-img {
         width: 60px
       }
+
+      textarea {
+        padding: var(--padding)
+      }
     `;
     this.shadowRoot.appendChild(css);
 

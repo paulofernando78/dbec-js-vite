@@ -26,7 +26,7 @@
           {
             "svg": "songs",
             "link": "/extras/songs/",
-            "label": "..."
+            "label": "Bush"
           }
         ]
       }
@@ -92,6 +92,11 @@
             "svg": "songs",
             "link": "/extras/songs/gorillaz",
             "label": "Gorillaz"
+          },
+          {
+            "svg": "songs",
+            "link": "/extras/songs/guns-and-roses",
+            "label": "Guns N' Roses"
           }
         ]
       }

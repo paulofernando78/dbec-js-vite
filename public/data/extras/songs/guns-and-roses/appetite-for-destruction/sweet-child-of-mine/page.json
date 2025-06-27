@@ -1,0 +1,39 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Songs",
+    "descriptions": [
+      {
+        "description": "Guns N' Roses"
+      },
+      {
+        "description": "Appetite For Destruction"
+      },
+      {
+        "description": "Sweet Child O' Mine"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "videoPlayer": {
+        "src": "https://www.youtube.com/embed/"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "text": "..."
+            },
+            {
+              "displayBlock": true,
+              "ptText": "..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

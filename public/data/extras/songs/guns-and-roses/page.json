@@ -4,7 +4,7 @@
     "subtitle": "Songs",
     "descriptions": [
       {
-        "description": "Gorillaz"
+        "description": "..."
       }
     ]
   },
@@ -13,12 +13,12 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "pages",
-        "label": "Gorillaz",
+        "label": "Appetite For Destruction",
         "items": [
           {
             "svg": "songs",
-            "link": "/extras/songs/gorillaz/gorillaz/clinton-eastwood",
-            "label": "Clinton Eastwood"
+            "link": "/extras/songs/guns-and-roses/appetite-for-destruction/sweet-child-of-mine",
+            "label": "Sweet Child O' Mine"
           }
         ]
       }
