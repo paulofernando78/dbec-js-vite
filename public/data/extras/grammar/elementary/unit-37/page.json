@@ -51,21 +51,48 @@
     {
       "paragraphs": [
         {
-          "imgSrc": "",
-          "imgAlt": "",
-          "i mgPosition": "",
           "paragraph": [
             {
-              "boldText": ".."
+              "boldText": "Singular"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "displayBlock": true,
+              "text": "there is... (there's)"
             },
             {
-              "text": "..."
+              "displayBlock": true,
+              "text": "there is not... (there isn't or there's not)"
             },
             {
-              "boldPtText": "..."
+              "displayBlock": true,
+              "text": "is there... ?"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "plural"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "displayBlock": true,
+              "text": "there are"
             },
             {
-              "ptText": "..."
+              "displayBlock": true,
+              "text": "there are not... (there aren't"
+            },
+            {
+              "displayBlock": true,
+              "text": "are there... ?"
             }
           ]
         }
