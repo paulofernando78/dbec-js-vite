@@ -25,7 +25,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "Lesson 1 • Talking about a new project",
+        "label": "Lesson 1 • Talking about a new project",
         "descriptions": [
           {
             "description": "Carl, Greg and Anne work for WaterSonic Corporation. Recently, the company has come up with an idea for a new electric toothbrush."

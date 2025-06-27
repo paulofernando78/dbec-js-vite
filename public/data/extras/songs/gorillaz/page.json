@@ -13,7 +13,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "pages",
-        "headerText": "Album",
+        "label": "Album",
         "items": [
           {
             "svg": "songs",

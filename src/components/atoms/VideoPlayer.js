@@ -13,7 +13,9 @@ class VideoPlayer extends HTMLElement {
 			iframe {
 				aspect-ratio: 16 / 9;
         width: 100%;
-        border: none 
+        // border: none;
+        border-radius: var(--border-radius)
+
 			}
 		`;
 

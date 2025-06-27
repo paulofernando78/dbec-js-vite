@@ -8,7 +8,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "books",
-        "headerText": "Grammar in Use",
+        "label": "Grammar in Use",
         "items": [
           {
             "svg": "book",

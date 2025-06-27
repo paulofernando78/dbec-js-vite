@@ -12,7 +12,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "kid",
-        "headerText": "Kids",
+        "label": "Kids",
         "items": [
           {
             "svg": "book",
@@ -46,7 +46,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "adult",
-        "headerText": "Young learners / Adults",
+        "label": "Young learners / Adults",
         "items": [
           {
             "svg": "book",
@@ -126,7 +126,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "kid",
-        "headerText": "Kids",
+        "label": "Kids",
         "items": [
           {
             "svg": "book",
@@ -140,7 +140,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "adult",
-        "headerText": "Young learners / Adults",
+        "label": "Young learners / Adults",
         "items": [
           {
             "svg": "book",
@@ -160,7 +160,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "kid",
-        "headerText": "Kids",
+        "label": "Kids",
         "items": [
           {
             "svg": "book",
@@ -174,7 +174,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "adult",
-        "headerText": "Young learners / Adults",
+        "label": "Young learners / Adults",
         "items": [
           {
             "svg": "book",
@@ -194,7 +194,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "kid",
-        "headerText": "Kids",
+        "label": "Kids",
         "items": [
           {
             "svg": "book",
@@ -208,7 +208,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "adult",
-        "headerText": "Young learners / Adults",
+        "label": "Young learners / Adults",
         "items": [
           {
             "svg": "book",
@@ -228,7 +228,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "kid",
-        "headerText": "Kids",
+        "label": "Kids",
         "items": [
           {
             "svg": "book",
@@ -242,7 +242,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "adult",
-        "headerText": "Young learners / Adults",
+        "label": "Young learners / Adults",
         "items": [
           {
             "svg": "book",

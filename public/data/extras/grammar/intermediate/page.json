@@ -11,8 +11,9 @@
   "contents": [
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Present and past",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Present and past",
         "items": [
           {
             "svg": "assignment",
@@ -49,8 +50,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Present perfect and past",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Present perfect and past",
         "items": [
           {
             "svg": "assignment",
@@ -102,12 +104,12 @@
             "link": "/extras/grammar/intermediate/unit-16",
             "label": "Unit 16 • Past perfect continouos (<b>I had been doing</b>)"
           },
-             {
+          {
             "svg": "assignment",
             "link": "/extras/grammar/intermediate/unit-17",
             "label": "Unit 17 • <b>have</b> and <b>have got</b>"
           },
-             {
+          {
             "svg": "assignment",
             "link": "/extras/grammar/intermediate/unit-18",
             "label": "Unit 18 • <b>used to</b> (<b>do</b>)"
@@ -117,8 +119,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Future",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Future",
         "items": [
           {
             "svg": "assignment",
@@ -160,8 +163,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Modals",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Modals",
         "items": [
           {
             "svg": "assignment",
@@ -228,8 +232,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "If and wish",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "If and wish",
         "items": [
           {
             "svg": "assignment",
@@ -256,8 +261,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Passive",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Passive",
         "items": [
           {
             "svg": "assignment",
@@ -289,8 +295,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Reported speech",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Reported speech",
         "items": [
           {
             "svg": "assignment",
@@ -307,8 +314,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Questions and auxilixary verbs",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Questions and auxilixary verbs",
         "items": [
           {
             "svg": "assignment",
@@ -335,8 +343,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "-ing and to",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "-ing and to",
         "items": [
           {
             "svg": "assignment",
@@ -423,8 +432,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Articles",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Articles",
         "items": [
           {
             "svg": "assignment",
@@ -496,8 +506,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Pronouns and determiners",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Pronouns and determiners",
         "items": [
           {
             "svg": "assignment",
@@ -544,7 +555,7 @@
             "link": "/extras/grammar/intermediate/unit-90",
             "label": "Unit 90 • <b>all</b>, <b>every</b>, <b>whole</b>"
           },
-           {
+          {
             "svg": "assignment",
             "link": "/extras/grammar/intermediate/unit-91",
             "label": "Unit 91 • <b>each</b> and <b>every</b>"
@@ -554,8 +565,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Relative clauses",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Relative clauses",
         "items": [
           {
             "svg": "assignment",
@@ -592,8 +604,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Adjetives and adverbs",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Adjetives and adverbs",
         "items": [
           {
             "svg": "assignment",
@@ -675,8 +688,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Conjuctions and prepositions",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Conjuctions and prepositions",
         "items": [
           {
             "svg": "assignment",
@@ -723,8 +737,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Prepositions",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Prepositions",
         "items": [
           {
             "svg": "assignment",
@@ -811,8 +826,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Phrasal verbs",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Phrasal verbs",
         "items": [
           {
             "svg": "assignment",

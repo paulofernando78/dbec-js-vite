@@ -11,7 +11,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "CEFR",
+        "label": "CEFR",
         "descriptions": [
           {
             "description": "<b>•</b> Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has."
@@ -33,7 +33,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 1",
+        "label": "Lesson 1",
         "descriptions": [
           {
             "description": "Welcome / Icebreaker"
@@ -48,7 +48,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 2",
+        "label": "Lesson 2",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to say hello and make introductions using my, your, his, and her."
@@ -78,7 +78,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 3",
+        "label": "Lesson 3",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to say good-bye and exchange contact information using subject pronouns and the verb be."
@@ -113,7 +113,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 4",
+        "label": "Lesson 4",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to identify and discuss personal and classroom objects using the articles a/ an, plurals, this / these, and it / they."
@@ -143,7 +143,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 5",
+        "label": "Lesson 5",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss the location of items using yes/ no and where questions with be, the article the, and prepositions of place."
@@ -173,7 +173,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 6",
+        "label": "Lesson 6",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -205,7 +205,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 7",
+        "label": "Lesson 7",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss cities, countries, nationalities, and languages using yes / no questions with be."
@@ -235,7 +235,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 8",
+        "label": "Lesson 8",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss people's appearances, personalities, and ages using Wh- questions with be."
@@ -265,7 +265,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 9",
+        "label": "Lesson 9",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss work and free- time clothes and colors using possessive adjectives, possessive pronouns, and possessives with names."
@@ -295,7 +295,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 10",
+        "label": "Lesson 10",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss the weather and what people are wearing using the present continuous and conjunctions."
@@ -325,7 +325,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 11",
+        "label": "Lesson 11",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -357,7 +357,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 12",
+        "label": "Lesson 12",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss cities and time zones using time expressions."
@@ -387,7 +387,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 13",
+        "label": "Lesson 13",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss people's activities using the present continuous."
@@ -417,7 +417,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 14",
+        "label": "Lesson 14",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss transportation and family using simple present statements."
@@ -447,7 +447,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 15",
+        "label": "Lesson 15",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss daily and weekly routines using simple present questions."
@@ -477,7 +477,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 16",
+        "label": "Lesson 16",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -509,7 +509,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 17",
+        "label": "Lesson 17",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe houses and apartments using simple present questions and short answers."
@@ -539,7 +539,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 18",
+        "label": "Lesson 18",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss furniture, appliances, and dream homes using statements with there is / there are."
@@ -569,7 +569,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 19",
+        "label": "Lesson 19",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss jobs and workplaces using simple present Wh- questions."
@@ -599,7 +599,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 20",
+        "label": "Lesson 20",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to give opinions about jobs using be + adjective and adjective + noun."
@@ -629,7 +629,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 21",
+        "label": "Lesson 21",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -661,7 +661,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 22",
+        "label": "Lesson 22",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -693,7 +693,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 23",
+        "label": "Lesson 23",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss foods they like, need, and have using some/ any and count / noncount nouns."
@@ -723,7 +723,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 24",
+        "label": "Lesson 24",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe eating habits using adverbs of frequency."
@@ -753,7 +753,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 25",
+        "label": "Lesson 25",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss sports they watch and play using simple present Wh- questions."
@@ -783,7 +783,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 26",
+        "label": "Lesson 26",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss skills, abilities, and talents using can and can’t."
@@ -813,7 +813,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 27",
+        "label": "Lesson 27",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -845,7 +845,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 28",
+        "label": "Lesson 28",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss evening, weekend, and birthday plans using statements and yes / no questions with be going to."
@@ -875,7 +875,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 29",
+        "label": "Lesson 29",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss plans to celebrate holidays, special occasions, and festivals using Wh- questions with be going to."
@@ -905,7 +905,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 30",
+        "label": "Lesson 30",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss the body and common ailments using have + noun and feel + adjective."
@@ -935,7 +935,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 31",
+        "label": "Lesson 31",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss common remedies and give health advice using imperatives."
@@ -965,7 +965,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 32",
+        "label": "Lesson 32",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -997,7 +997,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 33",
+        "label": "Lesson 33",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss stores, items to buy in stores, and store locations using prepositions of place."
@@ -1027,7 +1027,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 34",
+        "label": "Lesson 34",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to ask for and give directions to various locations."
@@ -1057,7 +1057,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 35",
+        "label": "Lesson 35",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss weekend activities using simple past statements with regular and irregular verbs."
@@ -1087,7 +1087,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 36",
+        "label": "Lesson 36",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss vacation activities using simple past yes/ no questions and short answers."
@@ -1117,7 +1117,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 37",
+        "label": "Lesson 37",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -1149,7 +1149,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 38",
+        "label": "Lesson 38",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss family and personal history using the past of be."
@@ -1179,7 +1179,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 39",
+        "label": "Lesson 39",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss school experiences and memories using Wh- questions with did, was, and were."
@@ -1209,7 +1209,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 40",
+        "label": "Lesson 40",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to make phone calls and leave messages using subject and object pronouns."
@@ -1239,7 +1239,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 41",
+        "label": "Lesson 41",
         "descriptions": [
           {
             "description": "By the end of Cycle 2, students will be able to make, accept, and decline invitations using Do you want to ... ?, Would you like to ... ?, and verb + to."
@@ -1269,7 +1269,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 42",
+        "label": "Lesson 42",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -1301,7 +1301,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 43",
+        "label": "Lesson 43",
         "descriptions": [
           {
             "description": "Learning objectives:"

@@ -1,0 +1,39 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Songs",
+    "descriptions": [
+      {
+        "description": "..."
+      },
+      {
+        "description": "..."
+      },
+      {
+        "description": "..."
+      }
+    ]
+  },
+  "contents": [
+    {
+      "videoPlayer": {
+        "src": "https://www.youtube.com/embed/"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "text": "..."
+            },
+            {
+              "displayBlock": true,
+              "ptText": "..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

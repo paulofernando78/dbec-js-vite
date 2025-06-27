@@ -78,7 +78,7 @@ class Card extends HTMLElement {
           </span>`
               : ""
           }
-          <h1>${card.headerText}</h1>
+          <h1>${card.label}</h1>
         </div>
         <div class="inner-card">
         ${
@@ -94,7 +94,7 @@ class Card extends HTMLElement {
                 .join("")
             : ""
         }
-        ${card.hr ? "<hr />" : ""}
+        ${card.hr ? "<hr/>" : ""}
         ${
           card.items && Array.isArray(card.items)
             ? `${card.items

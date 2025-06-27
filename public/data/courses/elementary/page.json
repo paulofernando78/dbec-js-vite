@@ -8,7 +8,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "CEFR (Common European Framework of Reference)",
+        "label": "CEFR (Common European Framework of Reference)",
         "descriptions": [
           {
             "description": "<b>•</b> Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment)."
@@ -30,7 +30,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 1",
+        "label": "Lesson 1",
         "descriptions": [
           {
             "description": "Welcome / Icebreaker"
@@ -45,7 +45,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 2",
+        "label": "Lesson 2",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to introduce themselves and others using be and possessive adjectives, and ask and answer Wh-questions</mark> to find out information about others and to state information about themselves."
@@ -75,7 +75,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 3",
+        "label": "Lesson 3",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to ask and answer yes/no questions to find out information about others and to state information about themselves."
@@ -105,7 +105,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 4",
+        "label": "Lesson 4",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to ask and answer questions about occupations using the simple present."
@@ -135,7 +135,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 5",
+        "label": "Lesson 5",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe routines and daily schedules using time expressions."
@@ -165,7 +165,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 6",
+        "label": "Lesson 6",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -197,7 +197,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 7",
+        "label": "Lesson 7",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to use demonstratives, one, and ones to ask about and describe prices."
@@ -227,7 +227,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 8",
+        "label": "Lesson 8",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss preferences using comparisons with adjectives."
@@ -257,7 +257,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 9",
+        "label": "Lesson 9",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss entertainment likes and dislikes using yes/no and Wh-questions with do."
@@ -287,7 +287,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 10",
+        "label": "Lesson 10",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to make, accept, and decline invitations using would and verb + to + verb."
@@ -317,7 +317,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 11",
+        "label": "Lesson 11",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -349,7 +349,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 12",
+        "label": "Lesson 12",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe families and ask and answer questions using the present continuous."
@@ -379,7 +379,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 13",
+        "label": "Lesson 13",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to use quantifiers to describe families."
@@ -409,7 +409,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 14",
+        "label": "Lesson 14",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss sports and exercise habits."
@@ -439,7 +439,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 15",
+        "label": "Lesson 15",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to ask and answer questions about frequency of free-time activities."
@@ -469,7 +469,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 16",
+        "label": "Lesson 16",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -501,7 +501,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 17",
+        "label": "Lesson 17",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss daily and free-time activities using the simple past with regular and irregular verbs."
@@ -531,7 +531,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 18",
+        "label": "Lesson 18",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss vacations using the past tense of be."
@@ -561,7 +561,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 19",
+        "label": "Lesson 19",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to ask about and describe places using there is/there are and prepositions of place."
@@ -591,7 +591,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 20",
+        "label": "Lesson 20",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe features of a1 neighborhood using quantifiers."
@@ -621,7 +621,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 21",
+        "label": "Lesson 21",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -653,7 +653,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 22",
+        "label": "Lesson 22",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -685,7 +685,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 23",
+        "label": "Lesson 23",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe people’s physical appearance."
@@ -715,7 +715,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 24",
+        "label": "Lesson 24",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to identify people using modifiers with participles and prepositions to describe how they look, what they are wearing, what they’re doing, and where they are."
@@ -745,7 +745,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 25",
+        "label": "Lesson 25",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe recent activities using the present perfect, already, and yet."
@@ -775,7 +775,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 26",
+        "label": "Lesson 26",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe experiences from the recent and distant past using the present perfect, simple past, for, and since."
@@ -805,7 +805,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 27",
+        "label": "Lesson 27",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -837,7 +837,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 28",
+        "label": "Lesson 28",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe their hometowns using adjectives, adverbs, and conjunctions, and make suggestions about places using can and should."
@@ -867,7 +867,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 29",
+        "label": "Lesson 29",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to make suggestions about places using can and should."
@@ -897,7 +897,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 30",
+        "label": "Lesson 30",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to state health problems and give advice using adjective + infinitive and noun + infinitive."
@@ -927,7 +927,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 31",
+        "label": "Lesson 31",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to ask for advice and give suggestions about health care products using can, could, and may."
@@ -957,7 +957,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 32",
+        "label": "Lesson 32",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -989,7 +989,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 33",
+        "label": "Lesson 33",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to agree and disagree about food preferences using so, too, neither, and either."
@@ -1019,7 +1019,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 34",
+        "label": "Lesson 34",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to use would and will to order food at a1 restaurant."
@@ -1049,7 +1049,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 35",
+        "label": "Lesson 35",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe geography using comparative and superlative forms of adjectives."
@@ -1079,7 +1079,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 36",
+        "label": "Lesson 36",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe distances and measurements, and ask and answer questions with how."
@@ -1109,7 +1109,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 37",
+        "label": "Lesson 37",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -1141,7 +1141,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 38",
+        "label": "Lesson 38",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss future activities and plans using the present continuous, be going to, and time expressions."
@@ -1171,7 +1171,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 39",
+        "label": "Lesson 39",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to give messages using tell and ask."
@@ -1201,7 +1201,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 40",
+        "label": "Lesson 40",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe changes in their lives using the comparative and present, past, and present perfect tenses."
@@ -1231,7 +1231,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 41",
+        "label": "Lesson 41",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe plans for the future using verb + infinitive."
@@ -1261,7 +1261,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 42",
+        "label": "Lesson 42",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -1293,7 +1293,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 43",
+        "label": "Lesson 43",
         "descriptions": [
           {
             "description": "Learning objectives:"

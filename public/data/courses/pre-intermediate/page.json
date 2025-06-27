@@ -8,7 +8,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "CEFR (Common European Framework of Reference)",
+        "label": "CEFR (Common European Framework of Reference)",
         "descriptions": [
           {
             "description": "A2 ➜ B1"
@@ -24,7 +24,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 1",
+        "label": "Lesson 1",
         "descriptions": [
           {
             "description": "Welcome / Icebreaker"
@@ -39,7 +39,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 2",
+        "label": "Lesson 2",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to use past-tense questions with did and was/were to ask people about their past."
@@ -69,7 +69,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 3",
+        "label": "Lesson 3",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss their childhoods using used to."
@@ -99,7 +99,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 4",
+        "label": "Lesson 4",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss city issues and public services using expressions of quantity and compound nouns."
@@ -129,7 +129,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 5",
+        "label": "Lesson 5",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to ask indirect questions."
@@ -159,7 +159,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 6",
+        "label": "Lesson 6",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -191,7 +191,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 7",
+        "label": "Lesson 7",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to evaluate and compare houses and apartments using too and comparatives."
@@ -221,7 +221,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 8",
+        "label": "Lesson 8",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss changes in their lives using I wish."
@@ -251,7 +251,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 9",
+        "label": "Lesson 9",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe personal experiences using the past tense and the present perfect."
@@ -281,7 +281,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 10",
+        "label": "Lesson 10",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe recipes using sequence adverbs."
@@ -311,7 +311,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 11",
+        "label": "Lesson 11",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -343,7 +343,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 12",
+        "label": "Lesson 12",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe plans using the future with be going to and will."
@@ -373,7 +373,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 13",
+        "label": "Lesson 13",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to give travel advice."
@@ -403,7 +403,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 14",
+        "label": "Lesson 14",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to use two-part verbs to make and respond to requests."
@@ -433,7 +433,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 15",
+        "label": "Lesson 15",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to make and respond to requests using modals and Would you mind?"
@@ -463,7 +463,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 16",
+        "label": "Lesson 16",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -495,7 +495,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 17",
+        "label": "Lesson 17",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to use infinitives and gerunds to describeuses and purposes."
@@ -525,7 +525,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 18",
+        "label": "Lesson 18",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to use imperatives and infinitives to give suggestions."
@@ -555,7 +555,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 19",
+        "label": "Lesson 19",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe celebrations and annual events using relative clauses of time."
@@ -585,7 +585,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 20",
+        "label": "Lesson 20",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to describe customs using adverbial clauses of time."
@@ -615,7 +615,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 21",
+        "label": "Lesson 21",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -647,7 +647,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 22",
+        "label": "Lesson 22",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -679,7 +679,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 23",
+        "label": "Lesson 23",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to use the past, present, and future tenses."
@@ -709,7 +709,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 24",
+        "label": "Lesson 24",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss consequences using conditional sentences with if clauses."
@@ -739,7 +739,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 25",
+        "label": "Lesson 25",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss job skills using gerunds and short responses."
@@ -769,7 +769,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 26",
+        "label": "Lesson 26",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss the kinds of jobs they want and don’t want using clauses with because."
@@ -799,7 +799,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 27",
+        "label": "Lesson 27",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -831,7 +831,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 28",
+        "label": "Lesson 28",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss famous landmarks, monuments, and works of art using the passive with by (simple past)."
@@ -861,7 +861,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 29",
+        "label": "Lesson 29",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss key features of countries around the world using the passive without by (simple present)."
@@ -891,7 +891,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 30",
+        "label": "Lesson 30",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss events, accidents, and accomplishments in their lives using the past continuous and the simple past."
@@ -921,7 +921,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 31",
+        "label": "Lesson 31",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss events using the present perfect continuous."
@@ -951,7 +951,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 32",
+        "label": "Lesson 32",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -983,7 +983,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 33",
+        "label": "Lesson 33",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss books, movies, and TV programs using participles as adjectives."
@@ -1013,7 +1013,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 34",
+        "label": "Lesson 34",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss more about movies and famous Hollywood names using relative clauses."
@@ -1043,7 +1043,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 35",
+        "label": "Lesson 35",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to explain gestures using modals and adverbs."
@@ -1073,7 +1073,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 36",
+        "label": "Lesson 36",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss signs using terms of permission, obligation, and prohibition."
@@ -1103,7 +1103,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 37",
+        "label": "Lesson 37",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -1135,7 +1135,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 38",
+        "label": "Lesson 38",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss imaginary situations using unreal conditional sentences with if clauses."
@@ -1165,7 +1165,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 39",
+        "label": "Lesson 39",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss predicaments using the past modals would have and should have."
@@ -1195,7 +1195,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 40",
+        "label": "Lesson 40",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to discuss excuses and requests using reported speech."
@@ -1225,7 +1225,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 41",
+        "label": "Lesson 41",
         "descriptions": [
           {
             "description": "By the end of this lesson, students will be able to use reported speech to discuss statements that other people made."
@@ -1255,7 +1255,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 42",
+        "label": "Lesson 42",
         "descriptions": [
           {
             "description": "Learning objectives:"
@@ -1287,7 +1287,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "headerText": "Lesson 43",
+        "label": "Lesson 43",
         "descriptions": [
           {
             "description": "Learning objectives:"

@@ -8,7 +8,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "books",
-        "headerText": "Idioms / Expressions",
+        "label": "Idioms / Expressions",
         "items": [
           {
             "svg": "book",

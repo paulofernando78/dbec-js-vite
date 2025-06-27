@@ -25,7 +25,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "pages",
-        "headerText": "Vowels",
+        "label": "Vowels",
         "items": [
           {
             "svg": "page",

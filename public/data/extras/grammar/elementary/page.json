@@ -11,8 +11,9 @@
   "contents": [
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Present",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Present",
         "items": [
           {
             "svg": "assignment",
@@ -48,14 +49,12 @@
             "svg": "assignment",
             "link": "/extras/grammar/elementary/unit-7",
             "label": "Unit 7 • Do you? (simple present questions)"
-          }
-          ,
+          },
           {
             "svg": "assignment",
             "link": "/extras/grammar/elementary/unit-8",
             "label": "Unit 8 • I am doing (present continouos) and I do (simple present)"
-          }
-          ,
+          },
           {
             "svg": "assignment",
             "link": "/extras/grammar/elementary/unit-9",
@@ -66,8 +65,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Past",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Past",
         "items": [
           {
             "svg": "assignment",
@@ -99,8 +99,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Present Perfect",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Present Perfect",
         "items": [
           {
             "svg": "assignment",
@@ -137,8 +138,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Passive",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Passive",
         "items": [
           {
             "svg": "assignment",
@@ -155,8 +157,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Verb Forms",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Verb Forms",
         "items": [
           {
             "svg": "assignment",
@@ -173,8 +176,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Future",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Future",
         "items": [
           {
             "svg": "assignment",
@@ -201,8 +205,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Modals, Imperatives, etc.",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Modals, Imperatives, etc.",
         "items": [
           {
             "svg": "assignment",
@@ -249,8 +254,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "There and it",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "There and it",
         "items": [
           {
             "svg": "assignment",
@@ -272,8 +278,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Auxilary verbs",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Auxilary verbs",
         "items": [
           {
             "svg": "assignment",
@@ -300,8 +307,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Questions",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Questions",
         "items": [
           {
             "svg": "assignment",
@@ -338,8 +346,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Reported speech",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Reported speech",
         "items": [
           {
             "svg": "assignment",
@@ -351,8 +360,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "-ing and To",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "-ing and To",
         "items": [
           {
             "svg": "assignment",
@@ -379,8 +389,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Go, Get, Do, Make and Have",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Go, Get, Do, Make and Have",
         "items": [
           {
             "svg": "assignment",
@@ -407,8 +418,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Pronouns and Possessives",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Pronouns and Possessives",
         "items": [
           {
             "svg": "assignment",
@@ -445,8 +457,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "A and The",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "A and The",
         "items": [
           {
             "svg": "assignment",
@@ -498,8 +511,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Determines and Pronouns",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Determines and Pronouns",
         "items": [
           {
             "svg": "assignment",
@@ -561,8 +575,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Adjectives and Adverbs",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Adjectives and Adverbs",
         "items": [
           {
             "svg": "assignment",
@@ -609,8 +624,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Word order",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Word order",
         "items": [
           {
             "svg": "assignment",
@@ -637,8 +653,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Conjunctions and Clauses",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Conjunctions and Clauses",
         "items": [
           {
             "svg": "assignment",
@@ -675,8 +692,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Prepositions",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Prepositions",
         "items": [
           {
             "svg": "assignment",
@@ -738,8 +756,9 @@
     },
     {
       "card": {
-        "bgColor": "var(--gray-4)",
-        "headerText": "Phrasal verbs",
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Phrasal verbs",
         "items": [
           {
             "svg": "assignment",

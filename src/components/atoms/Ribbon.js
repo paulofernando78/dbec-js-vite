@@ -48,7 +48,7 @@ class Ribbon extends HTMLElement {
 
   render(ribbon) {
     this.div.style.backgroundColor = ribbon.bgColor || "#000";
-    this.div.style.color = ribbon.textColor || "#fff";
+    this.div.style.color = ribbon.color || "#fff";
 
     if (ribbon.icon && svgIcons[ribbon.icon]) {
       const icon = document.createElement("span");
@@ -57,10 +57,10 @@ class Ribbon extends HTMLElement {
       console.log(icon)
     }
 
-    if (ribbon.iconLabel) {
-      const iconLabel = document.createElement("span");
-      iconLabel.textContent = ribbon.iconLabel;
-      this.div.appendChild(iconLabel);
+    if (ribbon.label) {
+      const label = document.createElement("span");
+      label.textContent = ribbon.label;
+      this.div.appendChild(label);
     }
 
     if (ribbon.subIcon && svgIcons[ribbon.subIcon]) {

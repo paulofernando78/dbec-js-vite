@@ -8,7 +8,7 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "pages",
-        "headerText": "A",
+        "label": "A",
         "items": [
           {
             "svg": "songs",
@@ -21,7 +21,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "B",
+        "label": "B",
         "items": [
           {
             "svg": "songs",
@@ -34,7 +34,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "C",
+        "label": "C",
         "items": [
           {
             "svg": "songs",
@@ -47,7 +47,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "D",
+        "label": "D",
         "items": [
           {
             "svg": "songs",
@@ -60,7 +60,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "E",
+        "label": "E",
         "items": [
           {
             "svg": "songs",
@@ -73,7 +73,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "F",
+        "label": "F",
         "items": [
           {
             "svg": "songs",
@@ -86,7 +86,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "G",
+        "label": "G",
         "items": [
           {
             "svg": "songs",
@@ -99,7 +99,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "H",
+        "label": "H",
         "items": [
           {
             "svg": "songs",
@@ -112,7 +112,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "I",
+        "label": "I",
         "items": [
           {
             "svg": "songs",
@@ -125,7 +125,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "J",
+        "label": "J",
         "items": [
           {
             "svg": "songs",
@@ -138,7 +138,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "K",
+        "label": "K",
         "items": [
           {
             "svg": "songs",
@@ -151,7 +151,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "L",
+        "label": "L",
         "items": [
           {
             "svg": "songs",
@@ -164,7 +164,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "M",
+        "label": "M",
         "items": [
           {
             "svg": "songs",
@@ -177,7 +177,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "N",
+        "label": "N",
         "items": [
           {
             "svg": "songs",
@@ -190,7 +190,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "O",
+        "label": "O",
         "items": [
           {
             "svg": "songs",
@@ -203,7 +203,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "P",
+        "label": "P",
         "items": [
           {
             "svg": "songs",
@@ -216,7 +216,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "Q",
+        "label": "Q",
         "items": [
           {
             "svg": "songs",
@@ -229,7 +229,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "R",
+        "label": "R",
         "items": [
           {
             "svg": "songs",
@@ -247,7 +247,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "S",
+        "label": "S",
         "items": [
           {
             "svg": "songs",
@@ -260,7 +260,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "T",
+        "label": "T",
         "items": [
           {
             "svg": "songs",
@@ -273,7 +273,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "U",
+        "label": "U",
         "items": [
           {
             "svg": "songs",
@@ -286,7 +286,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "...",
+        "label": "...",
         "items": [
           {
             "svg": "songs",
@@ -299,7 +299,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "W",
+        "label": "W",
         "items": [
           {
             "svg": "songs",
@@ -312,7 +312,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "X",
+        "label": "X",
         "items": [
           {
             "svg": "songs",
@@ -325,7 +325,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "Y",
+        "label": "Y",
         "items": [
           {
             "svg": "songs",
@@ -338,7 +338,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "headerText": "Z",
+        "label": "Z",
         "items": [
           {
             "svg": "songs",

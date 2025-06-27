@@ -1,0 +1,91 @@
+{
+  "whiteboard": {
+    "title": "Extra",
+    "subtitle": "Grammar",
+    "descriptions": [
+      {
+        "description": "Elementary"
+      },
+      {
+        "description": "Unit 1"
+      },
+      {
+        "description": "am/is/are"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "color": "black",
+        "label": "A"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "color": "black",
+        "label": "B"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "color": "black",
+        "label": "C"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "color": "black",
+        "label": "D"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
