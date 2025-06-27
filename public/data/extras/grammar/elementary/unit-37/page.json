@@ -58,7 +58,7 @@
           ]
         },
         {
-          "paragraph": [
+          "paragraph": [ 
             {
               "displayBlock": true,
               "text": "there is... (there's)"
@@ -70,6 +70,93 @@
             {
               "displayBlock": true,
               "text": "is there... ?"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "mark": "There's"
+            },
+            {
+              "text": " a big tree in the yard."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "mark": "There's"
+            },
+            {
+              "text": " nothing on TV tonight."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "A: Do you have any money?"
+            }
+
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": " B: Yes, "
+            },
+            {
+              "mark": "there's"
+            },
+            {
+              "text": " some in my wallet."
+            }
+
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "A: Excuse me, "
+            },
+            {
+              "mark": "is there"
+            },
+            {
+              "text": " a hotel near here?"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "B: Yes, "
+            },
+            {
+              "mark": "there is"
+            },
+            {
+              "text": " / No,"
+            },
+            {
+              "mark": " there isn't"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "We can't go skiing."
+            },
+            {
+              "mark": "There isn't"
+            },
+            {
+              "text": " any snow."
             }
           ]
         },
