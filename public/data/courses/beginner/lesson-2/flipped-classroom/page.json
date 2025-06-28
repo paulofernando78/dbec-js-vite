@@ -20,7 +20,7 @@
         "bgColor": "var(--gray-3)",
         "textColor": "black",
         "icon": "snippet",
-        "iconLabel": "The Alphabet"
+        "label": "The Alphabet"
       }
     },
     {
@@ -35,7 +35,7 @@
         "bgColor": "var(--gray-3)",
         "textColor": "black",
         "icon": "snippet",
-        "iconLabel": "Titles"
+        "label": "Titles"
       }
     },
     {
@@ -68,7 +68,7 @@
         "bgColor": "var(--gray-3)",
         "textColor": "black",
         "icon": "snippet",
-        "iconLabel": "My, your, his, her"
+        "label": "My, your, his, her"
       }
     }
   ]

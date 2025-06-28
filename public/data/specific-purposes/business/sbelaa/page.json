@@ -12,7 +12,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 1-5"
+        "label": "Lessons 1-5"
       }
     },
     {
@@ -143,7 +143,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 6-10"
+        "label": "Lessons 6-10"
       }
     },
     {
@@ -274,7 +274,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 11-15"
+        "label": "Lessons 11-15"
       }
     },
     {
@@ -405,7 +405,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 16-20"
+        "label": "Lessons 16-20"
       }
     },
     {
@@ -536,7 +536,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 21-25"
+        "label": "Lessons 21-25"
       }
     },
     {
@@ -667,7 +667,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 26-30"
+        "label": "Lessons 26-30"
       }
     },
     {

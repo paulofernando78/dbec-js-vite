@@ -18,7 +18,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Summary"
+        "label": "Summary"
       }
     },
     {
@@ -45,7 +45,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Paragraph 1",
+        "label": "Paragraph 1",
         "subIcon": "schedule",
         "subLabel": "..."
       }

@@ -1,0 +1,299 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "description": "Lesson 20 • Talking About a Brown Noser"
+      },
+      {
+        "description": "..."
+      }
+    ]
+  },
+  "contents": [
+    {
+      "audioPlayer": [
+        {
+          "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-20.mp3"
+        }
+      ]
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "label": "Lesson 20 • Talking About a Brown Noser",
+        "descriptions": [
+          {
+            "description": "Nearly every office has one: the brown noser. He or she will do just about anything to win favor with the boss. Here Tony, Karen, and Nancy complain about their local brown noser, Mitch."
+          }
+        ]
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "boldText": "Tony: "
+            },
+            {
+              "text": "I was just in a meeting with Mitch and Bill. Mitch said to Bill, “Bill, we’re so lucky to have you as our boss. You’re such a great leader!”"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Karen: "
+            },
+            {
+              "text": "He’s "
+            },
+            {
+              "mark": "up to his old tricks"
+            },
+            {
+              "text": ". He’s up to his old tricks. He was trying to earn "
+            },
+            {
+              "mark": "brownie points"
+            },
+            {
+              "text": " with Bill."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Nancy: "
+            },
+            {
+              "text": "Mitch has the reputation of being a "
+            },
+            {
+              "mark": "yes man"
+            },
+            {
+              "text": " and a brown noser. He’s an expert at kissing up."
+            },
+            {
+              "text": "Mitch has the reputation of being a yes man and a brown noser. He’s an expert at "
+            },
+            {
+              "mark": "kissing up"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Tony: "
+            },
+            {
+              "text": "Then he said to Bill, “Other people here don’t appreciate you like I do!” "
+            },
+            {
+              "mark": "Talk about"
+            },
+            {
+              "text": " trying to "
+            },
+            {
+              "mark": "butter up"
+            },
+            {
+              "text": " the boss!"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Nancy: "
+            },
+            {
+              "text": "Yeah, and this time "
+            },
+            {
+              "mark": "at our expense"
+            },
+            {
+              "text": "! He’s just "
+            },
+            {
+              "mark": "out for himself"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Karen: "
+            },
+            {
+              "text": " Well, it’s a "
+            },
+            {
+              "mark": "dog-eat-dog world"
+            },
+            {
+              "text": ". Obviously he thinks this is the way to "
+            },
+            {
+              "mark": "get ahead"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Tony: "
+            },
+            {
+              "text": "I guess it’s one way to "
+            },
+            {
+              "mark": "climb the corporate ladder"
+            },
+            {
+              "text": ". But I could never "
+            },
+            {
+              "mark": "look at myself in the mirror"
+            },
+            {
+              "text": " after behaving that way."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Karen: "
+            },
+            {
+              "text": "I’m not good at "
+            },
+            {
+              "mark": "kissing up"
+            },
+            {
+              "text": ". "
+            },
+            {
+              "mark": "No wonder"
+            },
+            {
+              "text": " I’ve been in the same lousy position for 10 years!"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Talking About a Brown Noser, Part 2: When You’re Overheard"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Mitch: "
+            },
+            {
+              "text": " Hey guys. Don’t you know it’s rude to "
+            },
+            {
+              "mark": "talk behind someone’s back"
+            },
+            {
+              "text": "? I just overheard your entire conversation!"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Tony: "
+            },
+            {
+              "text": " Sorry, Mitch. We didn’t mean to offend you."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Mitch: "
+            },
+            {
+              "text": "Well, "
+            },
+            {
+              "mark": "the walls have ears"
+            },
+            {
+              "text": ". Think twice before you insult me again!"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Nancy: "
+            },
+            {
+              "mark": "Chill out"
+            },
+            {
+              "text": "! We were talking about a different Mitch, not you."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Tony: "
+            },
+            {
+              "text": " That’s right. We were talking about Mitch Schneider, over in the accounting department."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Mitch: "
+            },
+            {
+              "mark": " Likely story"
+            },
+            {
+              "text": ". "
+            },
+            {
+              "mark": "I wasn’t born yesterday!"
+            },
+            {
+              "mark": "!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

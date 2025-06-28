@@ -19,7 +19,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 1 - 6 + Quiz"
+        "label": "Lessons 1 - 6 + Quiz"
       },
       "card": {
         "bgColor": "var(--gray-3)",
@@ -184,7 +184,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 7 - 11 + Quiz"
+        "label": "Lessons 7 - 11 + Quiz"
       }
     },
     {
@@ -336,7 +336,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 12 - 16 + Quiz"
+        "label": "Lessons 12 - 16 + Quiz"
       }
     },
     {
@@ -488,7 +488,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 17 - 21 + Quiz"
+        "label": "Lessons 17 - 21 + Quiz"
       }
     },
     {
@@ -640,7 +640,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 2-22 + Test"
+        "label": "Lessons 2-22 + Test"
       }
     },
     {
@@ -672,7 +672,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 23 - 27 + Quiz"
+        "label": "Lessons 23 - 27 + Quiz"
       }
     },
     {
@@ -824,7 +824,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 28 - 32 + Quiz"
+        "label": "Lessons 28 - 32 + Quiz"
       }
     },
     {
@@ -976,7 +976,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 33 - 37 + Quiz"
+        "label": "Lessons 33 - 37 + Quiz"
       }
     },
     {
@@ -1128,7 +1128,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 38 - 42 + Quiz"
+        "label": "Lessons 38 - 42 + Quiz"
       }
     },
     {
@@ -1280,7 +1280,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "iconLabel": "Lessons 23-41 - Test"
+        "label": "Lessons 23-41 - Test"
       }
     },
     {

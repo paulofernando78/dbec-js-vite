@@ -12,7 +12,7 @@
     {
       "ribbon": {
         "icon": "book",
-        "iconLabel": "Letters 'o' and 'u'"
+        "label": "Letters 'o' and 'u'"
       }
     },
     {
@@ -23,7 +23,6 @@
               "text": "teste"
             }
           ]
-
         }
       ]
     }

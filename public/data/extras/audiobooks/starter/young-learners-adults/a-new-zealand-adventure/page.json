@@ -15,7 +15,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Summary"
+        "label": "Summary"
       }
     },
     {
@@ -42,7 +42,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Paragraph 1"
+        "label": "Paragraph 1"
       }
     },
     {
@@ -62,7 +62,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Paragraph 2",
+        "label": "Paragraph 2",
         "subIcon": "schedule",
         "subLabel": "0:31"
       }
@@ -85,7 +85,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Paragraph 3",
+        "label": "Paragraph 3",
         "subIcon": "schedule",
         "subLabel": "1:08"
       }
@@ -107,7 +107,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Paragraph 4",
+        "label": "Paragraph 4",
         "subIcon": "schedule",
         "subLabel": "1:47"
       }
@@ -129,7 +129,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Paragraph 5",
+        "label": "Paragraph 5",
         "subIcon": "schedule",
         "subLabel": "2:22"
       }
@@ -151,7 +151,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Paragraph 6",
+        "label": "Paragraph 6",
         "subIcon": "schedule",
         "subLabel": "2:59"
       }
@@ -173,7 +173,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Paragraph 7",
+        "label": "Paragraph 7",
         "subIcon": "schedule",
         "subLabel": "3:34"
       }
@@ -195,7 +195,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Paragraph 8",
+        "label": "Paragraph 8",
         "subIcon": "schedule",
         "subLabel": "4:10"
       }
@@ -217,7 +217,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Paragraph 9",
+        "label": "Paragraph 9",
         "subIcon": "schedule",
         "subLabel": "4:42"
       }
@@ -239,7 +239,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Paragraph 10",
+        "label": "Paragraph 10",
         "subIcon": "schedule",
         "subLabel": "5:19"
       }
@@ -261,7 +261,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Paragraph 11",
+        "label": "Paragraph 11",
         "subIcon": "schedule",
         "subLabel": "5:55"
       }
@@ -283,7 +283,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Paragraph 12",
+        "label": "Paragraph 12",
         "subIcon": "schedule",
         "subLabel": "6:29"
       }
@@ -306,7 +306,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Paragraph 13",
+        "label": "Paragraph 13",
         "subIcon": "schedule",
         "subLabel": "7:03"
       }
@@ -328,7 +328,7 @@
     {
       "ribbon": {
         "icon": "page",
-        "iconLabel": "Paragraph 14",
+        "label": "Paragraph 14",
         "subIcon": "schedule",
         "subLabel": "7:03"
       }
