@@ -247,7 +247,13 @@
               "mark": "the walls have ears"
             },
             {
-              "text": ". Think twice before you insult me again!"
+              "text": ". "
+            },
+            {
+              "mark": "Think twice"
+            },
+            {
+              "text": " before you insult me again!"
             }
           ]
         },
@@ -286,7 +292,7 @@
               "text": ". "
             },
             {
-              "mark": "I wasn’t born yesterday!"
+              "mark": "I wasn’t born yesterday"
             },
             {
               "mark": "!"
