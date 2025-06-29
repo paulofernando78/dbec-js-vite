@@ -40,7 +40,7 @@ const Router = {
     const routeHandler = routes[path];
 
     if (routeHandler) {
-      const node = routeHandler(); // invoke function
+      const node = routeHandler();
       content.appendChild(node);
     } else {
       const genericPageMatch = path.match(/^\/(.+)$/);

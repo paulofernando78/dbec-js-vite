@@ -1,0 +1,39 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Songs",
+    "descriptions": [
+      {
+        "description": "Chevelle"
+      },
+      {
+        "description": "Hats Off To The Bull"
+      },
+      {
+        "description": "Ruse"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "videoPlayer": {
+        "src": "https://www.youtube.com/embed/fY88MhTxRzA?list=RDfY88MhTxRzA&start_radio=1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "text": "..."
+            },
+            {
+              "displayBlock": true,
+              "ptText": "..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

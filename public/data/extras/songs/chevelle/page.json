@@ -1,0 +1,27 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Songs",
+    "descriptions": [
+      {
+        "description": "Chevelle"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Hats Off To The Bull",
+        "items": [
+          {
+            "svg": "songs",
+            "link": "/extras/songs/chevelle/hats-off-to-the-bull/ruse",
+            "label": "Ruse"
+          }
+        ]
+      }
+    }
+  ]
+}

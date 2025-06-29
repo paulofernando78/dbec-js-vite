@@ -4,7 +4,10 @@ class Layout extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
+    this.render();
+  }
 
+  render() {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
