@@ -4,17 +4,14 @@ class AudioPlayer extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-    this.build();
-  }
 
-  build() {
     /*css imports*/
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
-    /*css */
     const css = document.createElement("style");
+    /*css */
     css.textContent = `
     audio {
         display: block;
@@ -33,7 +30,7 @@ class AudioPlayer extends HTMLElement {
 
   render(audioPlayer) {
     this.audioPlayer.controls = true;
-    this.audioPlayer.src = audioPlayer[0]?.src || "";
+    this.audioPlayer.src = audioPlayer || "";
   }
 }
 

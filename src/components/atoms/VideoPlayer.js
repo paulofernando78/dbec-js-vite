@@ -34,9 +34,7 @@ class VideoPlayer extends HTMLElement {
   }
 
   render(item) {
-    if (item.src) {
-      this.videoPlayer.src = item.src;
-    }
+    this.videoPlayer.src = item;
   }
 }
 

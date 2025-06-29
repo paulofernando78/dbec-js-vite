@@ -65,8 +65,6 @@ class Paragraph extends HTMLElement {
 
     const textWrapper = document.createElement("div");
 
-    const marginLeft = ".4rem";
-
     paragraph.paragraph.forEach((item) => {
       if (
         item.boldText ||
@@ -89,7 +87,6 @@ class Paragraph extends HTMLElement {
           const phonetics = document.createElement("span");
           phonetics.textContent = item.phonetics;
           phonetics.classList.add("phonetics");
-          phonetics.style.marginLeft = marginLeft;
           paragraphElement.appendChild(phonetics);
         }
 
@@ -97,7 +94,6 @@ class Paragraph extends HTMLElement {
           const partOfSpeech = document.createElement("span");
           partOfSpeech.textContent = item.partOfSpeech;
           partOfSpeech.classList.add("part-of-speech");
-          partOfSpeech.style.marginLeft = marginLeft;
           paragraphElement.appendChild(partOfSpeech);
         }
 

@@ -1,0 +1,116 @@
+{
+  "whiteboard": {
+    "title": "title",
+    "subtitle": "subtitle",
+    "descriptions": [
+      {
+        "description": "description"
+      },
+      {
+        "description": "description"
+      },
+      {
+        "description": "description"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "paragraphs": [
+        {
+          "imgSrc": "",
+          "imgAlt": "imgAlt",
+          "imgPosition": "",
+          "paragraph": [
+            {
+              "boldText": "boldText "
+            },
+            {
+              "phonetics": "phonetics "
+            },
+            {
+              "partOfSpeech": "partOfSpeech "
+            },
+            {
+              "text": "text "
+            },
+            {
+              "mark": "mark"
+            },
+            {
+              "ptBoldText": " boldPtText "
+            },
+            {
+              "ptText": "ptText"
+            }
+          ]
+        },
+        {
+          "imgSrc": "",
+          "imgAlt": "imgAlt",
+          "imgPosition": "right",
+          "paragraph": [
+            {
+              "boldText": "boldText "
+            },
+            {
+              "phonetics": "phonetics "
+            },
+            {
+              "partOfSpeech": "partOfSpeech "
+            },
+            {
+              "text": "text "
+            },
+            {
+              "mark": "mark"
+            },
+            {
+              "ptBoldText": " boldPtText "
+            },
+            {
+              "ptText": "ptText"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "displayBlock": true,
+              "boldText": "boldText "
+            },
+            {
+              "displayBlock": true,
+              "phonetics": "phonetics "
+            },
+            {
+              "displayBlock": true,
+              "partOfSpeech": "partOfSpeech "
+            },
+            {
+              "displayBlock": true,
+              "text": "text"
+            },
+            {
+              "displayBlock": true,
+              "mark": "mark"
+            },
+            {
+              "displayBlock": true,
+              "ptBoldText": "boldPtText "
+            },
+            {
+              "ptText": "ptText"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audioPlayer": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/audio.mp3"
+    },
+    {
+      "videoPlayer": "https://www.youtube.com/embed/f14IuqWLdwg"
+    }
+  ]
+}
