@@ -14,13 +14,34 @@
         "label": "CEFR",
         "descriptions": [
           {
-            "description": "<b>•</b> Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has."
+            "description": [
+              {
+                "bold": "• "
+              },
+              {
+                "text": "Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has."
+              }
+            ]
           },
           {
-            "description": "<b>•</b> Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type."
+            "description": [
+              {
+                "bold": "• "
+              },
+              {
+                "text": "Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type."
+              }
+            ]
           },
           {
-            "description": "<b>•</b> Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help."
+            "description": [
+              {
+                "bold": "• "
+              },
+              {
+                "text": "Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help"
+              }
+            ]
           }
         ]
       }
@@ -35,11 +56,11 @@
         "icon": "page",
         "label": "Lesson 1",
         "descriptions": [
+          { "description": [{ "text": "Welcome / Icebreaker" }] },
           {
-            "description": "Welcome / Icebreaker"
-          },
-          {
-            "description": "Let's get to know each other / one another better."
+            "description": [
+              { "text": "Let's get to know each other / one another better." }
+            ]
           }
         ]
       }
@@ -51,25 +72,29 @@
         "label": "Lesson 2",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to say hello and make introductions using my, your, his, and her."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-2/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> What's your name? (Cycle 1)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-2/classwork",
-            "label": "Classwork <b>•</b> What's your name? (Cycle 1)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-2/homework",
-            "label": "Homework <b>•</b> What's your name? (Cycle 1)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to say hello and make introductions using my, your, his, and her. "
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-2/flipped-classroom",
+                "label": "Flipped Classroom • What's your name? (Cycle 1)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-2/classwork",
+                "label": "Classwork • What's your name? (Cycle 1)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-2/homework",
+                "label": "Homework • What's your name? (Cycle 1)"
+              }
+            ]
           }
         ]
       }
@@ -81,30 +106,34 @@
         "label": "Lesson 3",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to say good-bye and exchange contact information using subject pronouns and the verb be."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-3/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> What's your name? (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-3/classwork",
-            "label": "Classwork <b>•</b> What's your name? (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-3/homework",
-            "label": "Homework <b>•</b> What's your name? (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/extra/grammar/basic-english/unit-1",
-            "label": "Homework <b>•</b> Basic Grammar in Use <b>•</b> Unit 1"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to say good-bye and exchange contact information using subject pronouns and the verb be."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-3/flipped-classroom",
+                "label": "Flipped Classroom • What's your name? (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-3/classwork",
+                "label": "Classwork • What's your name? (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-3/homework",
+                "label": "Homework • What's your name? (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/extra/grammar/basic-english/unit-1",
+                "label": "Homework • Basic Grammar in Use • Unit 1"
+              }
+            ]
           }
         ]
       }
@@ -116,25 +145,29 @@
         "label": "Lesson 4",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to identify and discuss personal and classroom objects using the articles a/ an, plurals, this / these, and it / they."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-4/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> Where are my keys? (Cycle 1)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-4/classwork",
-            "label": "Classwork <b>•</b> Where are my keys? (Cycle 1)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-4/homework",
-            "label": "Homework <b>•</b> Where are my keys? (Cycle 1)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to identify and discuss personal and classroom objects using the articles a/ an, plurals, this / these, and it / they."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-4/flipped-classroom",
+                "label": "Flipped Classroom • Where are my keys? (Cycle 1)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-4/classwork",
+                "label": "Classwork • Where are my keys? (Cycle 1)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-4/homework",
+                "label": "Homework • Where are my keys? (Cycle 1)"
+              }
+            ]
           }
         ]
       }
@@ -146,25 +179,29 @@
         "label": "Lesson 5",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss the location of items using yes/ no and where questions with be, the article the, and prepositions of place."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-5/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> Where are my keys? (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-5/classwork",
-            "label": "Classwork <b>•</b> Where are my keys? (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-5/homework",
-            "label": "Homework <b>•</b> Where are my keys? (Cycle 2)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss the location of items using yes/ no and where questions with be, the article the, and prepositions of place."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-5/flipped-classroom",
+                "label": "Flipped Classroom • Where are my keys? (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-5/classwork",
+                "label": "Classwork • Where are my keys? (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-5/homework",
+                "label": "Homework • Where are my keys? (Cycle 2)"
+              }
+            ]
           }
         ]
       }
@@ -175,22 +212,20 @@
         "icon": "page",
         "label": "Lesson 6",
         "descriptions": [
+          { "description": [{ "text": "Learning objectives:" }] },
+          { "description": [{ "text": "• reflect on one's learning" }] },
           {
-            "description": "Learning objectives:"
-          },
-          {
-            "description": "<b>•</b> reflect on one's learning"
-          },
-          {
-            "description": "<b>•</b> identify areas that need improvement"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-6/classwork",
-            "label": "Classwork <b>•</b> Review lessons 2-5 + Quiz"
+            "description": [
+              { "text": "• identify areas that need improvement" }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-6/classwork",
+                "label": "Classwork • Review lessons 2-5 + Quiz"
+              }
+            ]
           }
         ]
       }
@@ -208,25 +243,29 @@
         "label": "Lesson 7",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss cities, countries, nationalities, and languages using yes / no questions with be."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-7/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> Where are you from? (Cycle 1)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-7/classwork",
-            "label": "Classwork <b>•</b> Where are you from? (Cycle 1)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-7/homework",
-            "label": "Homework <b>•</b> Where are you from? (Cycle 1)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss cities, countries, nationalities, and languages using yes / no questions with be."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-7/flipped-classroom",
+                "label": "Flipped Classroom • Where are you from? (Cycle 1)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-7/classwork",
+                "label": "Classwork • Where are you from? (Cycle 1)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-7/homework",
+                "label": "Homework • Where are you from? (Cycle 1)"
+              }
+            ]
           }
         ]
       }
@@ -238,25 +277,29 @@
         "label": "Lesson 8",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss people's appearances, personalities, and ages using Wh- questions with be."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-8/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> Where are you from? (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-8/classwork",
-            "label": "Classwork <b>•</b> Where are you from? (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-8/homework",
-            "label": "Homework <b>•</b> Where are you from? (Cycle 2)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss people's appearances, personalities, and ages using Wh- questions with be."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-8/flipped-classroom",
+                "label": "Flipped Classroom • Where are you from? (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-8/classwork",
+                "label": "Classwork • Where are you from? (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-8/homework",
+                "label": "Homework • Where are you from? (Cycle 2)"
+              }
+            ]
           }
         ]
       }
@@ -268,25 +311,29 @@
         "label": "Lesson 9",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss work and free- time clothes and colors using possessive adjectives, possessive pronouns, and possessives with names."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-9/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> Is this your coat? (Cycle 1)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-9/classwork",
-            "label": "Classwork <b>•</b> Is this your coat? (Cycle 1)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-9/homework",
-            "label": "Homework <b>•</b> Is this your coat? (Cycle 1)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss work and free- time clothes and colors using possessive adjectives, possessive pronouns, and possessives with names."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-9/flipped-classroom",
+                "label": "Flipped Classroom • Is this your coat? (Cycle 1)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-9/classwork",
+                "label": "Classwork • Is this your coat? (Cycle 1)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-9/homework",
+                "label": "Homework • Is this your coat? (Cycle 1)"
+              }
+            ]
           }
         ]
       }
@@ -298,25 +345,29 @@
         "label": "Lesson 10",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss the weather and what people are wearing using the present continuous and conjunctions."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-10/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> Is this your coat? (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-10/classwork",
-            "label": "Classwork <b>•</b> Is this your coat? (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-10/homework",
-            "label": "Homework <b>•</b> Is this your coat? (Cycle 2)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss the weather and what people are wearing using the present continuous and conjunctions."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-10/flipped-classroom",
+                "label": "Flipped Classroom • Is this your coat? (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-10/classwork",
+                "label": "Classwork • Is this your coat? (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-10/homework",
+                "label": "Homework • Is this your coat? (Cycle 2)"
+              }
+            ]
           }
         ]
       }
@@ -327,22 +378,20 @@
         "icon": "page",
         "label": "Lesson 11",
         "descriptions": [
+          { "description": [{ "text": "Learning objectives:" }] },
+          { "description": [{ "text": "• reflect on one's learning" }] },
           {
-            "description": "Learning objectives:"
-          },
-          {
-            "description": "<b>•</b> reflect on one's learning"
-          },
-          {
-            "description": "<b>•</b> identify areas that need improvement"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-11/classwork",
-            "label": "Classwork <b>•</b> Review lessons 7-10 + Quiz"
+            "description": [
+              { "text": "• identify areas that need improvement" }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-11/classwork",
+                "label": "Classwork • Review lessons 7-10 + Quiz"
+              }
+            ]
           }
         ]
       }
@@ -360,25 +409,29 @@
         "label": "Lesson 12",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss cities and time zones using time expressions."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-12/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> What time is it? (Cycle 1)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-12/classwork",
-            "label": "Classwork <b>•</b> What time is it? (Cycle 1)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-12/homework",
-            "label": "Homework <b>•</b> What time is it? (Cycle 1)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss cities and time zones using time expressions."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-12/flipped-classroom",
+                "label": "Flipped Classroom • What time is it? (Cycle 1)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-12/classwork",
+                "label": "Classwork • What time is it? (Cycle 1)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-12/homework",
+                "label": "Homework • What time is it? (Cycle 1)"
+              }
+            ]
           }
         ]
       }
@@ -390,25 +443,29 @@
         "label": "Lesson 13",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss people's activities using the present continuous."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-13/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> What time is it? (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-13/classwork",
-            "label": "Classwork <b>•</b> What time is it? (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-13/homework",
-            "label": "Homework <b>•</b> What time is it? (Cycle 2)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss people's activities using the present continuous."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-13/flipped-classroom",
+                "label": "Flipped Classroom • What time is it? (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-13/classwork",
+                "label": "Classwork • What time is it? (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-13/homework",
+                "label": "Homework • What time is it? (Cycle 2)"
+              }
+            ]
           }
         ]
       }
@@ -420,25 +477,29 @@
         "label": "Lesson 14",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss transportation and family using simple present statements."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-14/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> I ride my bike to school. (Cycle 1)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-14/classwork",
-            "label": "Classwork <b>•</b> I ride my bike to school. (Cycle 1)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-14/homework",
-            "label": "Homework <b>•</b> I ride my bike to school. (Cycle 1)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss transportation and family using simple present statements."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-14/flipped-classroom",
+                "label": "Flipped Classroom • I ride my bike to school. (Cycle 1)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-14/classwork",
+                "label": "Classwork • I ride my bike to school. (Cycle 1)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-14/homework",
+                "label": "Homework • I ride my bike to school. (Cycle 1)"
+              }
+            ]
           }
         ]
       }
@@ -450,25 +511,29 @@
         "label": "Lesson 15",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss daily and weekly routines using simple present questions."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-15/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> I ride my bike to school. (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-15/classwork",
-            "label": "Classwork <b>•</b> I ride my bike to school. (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-15/homework",
-            "label": "Homework <b>•</b> I ride my bike to school. (Cycle 2)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss daily and weekly routines using simple present questions."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-15/flipped-classroom",
+                "label": "Flipped Classroom • I ride my bike to school. (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-15/classwork",
+                "label": "Classwork • I ride my bike to school. (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-15/homework",
+                "label": "Homework • I ride my bike to school. (Cycle 2)"
+              }
+            ]
           }
         ]
       }
@@ -480,21 +545,33 @@
         "label": "Lesson 16",
         "descriptions": [
           {
-            "description": "Learning objectives:"
+            "description": [
+              {
+                "text": "Learning objectives:"
+              }
+            ]
           },
           {
-            "description": "<b>•</b> reflect on one's learning"
+            "description": [
+              {
+                "text": "• reflect on one's learning"
+              }
+            ]
           },
           {
-            "description": "<b>•</b> identify areas that need improvement"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-16/classwork",
-            "label": "Classwork <b>•</b> Review lessons 12-15 + Quiz"
+            "description": [
+              {
+                "text": "• identify areas that need improvement"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-16/classwork",
+                "label": "Classwork • Review lessons 12-15 + Quiz"
+              }
+            ]
           }
         ]
       }
@@ -512,25 +589,29 @@
         "label": "Lesson 17",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to describe houses and apartments using simple present questions and short answers."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-17/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> Does it have a view? (Cycle 1)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-17/classwork",
-            "label": "Classwork <b>•</b> Does it have a view? (Cycle 1)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-17/homework",
-            "label": "Homework <b>•</b> Does it have a view? (Cycle 1)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to describe houses and apartments using simple present questions and short answers."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-17/flipped-classroom",
+                "label": "Flipped Classroom • Does it have a view? (Cycle 1)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-17/classwork",
+                "label": "Classwork • Does it have a view? (Cycle 1)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-17/homework",
+                "label": "Homework • Does it have a view? (Cycle 1)"
+              }
+            ]
           }
         ]
       }
@@ -542,25 +623,29 @@
         "label": "Lesson 18",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss furniture, appliances, and dream homes using statements with there is / there are."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-18/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> Does it have a view? (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-18/classwork",
-            "label": "Classwork <b>•</b> Does it have a view? (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-18/homework",
-            "label": "Homework <b>•</b> Does it have a view? (Cycle 2)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss furniture, appliances, and dream homes using statements with there is / there are."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-18/flipped-classroom",
+                "label": "Flipped Classroom • Does it have a view? (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-18/classwork",
+                "label": "Classwork • Does it have a view? (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-18/homework",
+                "label": "Homework • Does it have a view? (Cycle 2)"
+              }
+            ]
           }
         ]
       }
@@ -572,25 +657,29 @@
         "label": "Lesson 19",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss jobs and workplaces using simple present Wh- questions."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-19/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> Where do you work? (Cycle 1)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-19/classwork",
-            "label": "Classwork <b>•</b> Where do you work? (Cycle 1)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-19/homework",
-            "label": "Homework <b>•</b> Where do you work? (Cycle 1)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss jobs and workplaces using simple present Wh- questions."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-19/flipped-classroom",
+                "label": "Flipped Classroom • Where do you work? (Cycle 1)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-19/classwork",
+                "label": "Classwork • Where do you work? (Cycle 1)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-19/homework",
+                "label": "Homework • Where do you work? (Cycle 1)"
+              }
+            ]
           }
         ]
       }
@@ -602,25 +691,29 @@
         "label": "Lesson 20",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to give opinions about jobs using be + adjective and adjective + noun."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-20/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> Where do you work? (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-20/classwork",
-            "label": "Classwork <b>•</b> Where do you work? (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-20/homework",
-            "label": "Homework <b>•</b> Where do you work? (Cycle 2)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to give opinions about jobs using be + adjective and adjective + noun."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-20/flipped-classroom",
+                "label": "Flipped Classroom • Where do you work? (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-20/classwork",
+                "label": "Classwork • Where do you work? (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-20/homework",
+                "label": "Homework • Where do you work? (Cycle 2)"
+              }
+            ]
           }
         ]
       }
@@ -632,21 +725,23 @@
         "label": "Lesson 21",
         "descriptions": [
           {
-            "description": "Learning objectives:"
+            "description": [{ "text": "Learning objectives:" }]
           },
           {
-            "description": "<b>•</b> reflect on one's learning"
+            "description": [{ "text": "• reflect on one's learning" }]
           },
           {
-            "description": "<b>•</b> identify areas that need improvement"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-21/classwork",
-            "label": "Classwork <b>•</b> Review lessons 17-20 + Written and Oral Quiz"
+            "description": [
+              { "text": "• identify areas that need improvement" }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-21/classwork",
+                "label": "Classwork • Review lessons 17-20 + Written and Oral Quiz"
+              }
+            ]
           }
         ]
       }
@@ -654,7 +749,7 @@
     {
       "ribbon": {
         "icon": "pages",
-        "label": "Review lessons 2-22 + Test"
+        "label": "Lessons 22 - 27 + Quiz"
       }
     },
     {
@@ -663,22 +758,20 @@
         "icon": "page",
         "label": "Lesson 22",
         "descriptions": [
+          { "description": [{ "text": "Learning objectives:" }] },
+          { "description": [{ "text": "• reflect on one's learning" }] },
           {
-            "description": "Learning objectives:"
-          },
-          {
-            "description": "<b>•</b> reflect on one's learning"
-          },
-          {
-            "description": "<b>•</b> identify areas that need improvement"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-22/classwork",
-            "label": "Classwork <b>•</b> Review lessons 2-20 + Test"
+            "description": [
+              { "text": "• identify areas that need improvement" }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-22/classwork",
+                "label": "Classwork • Review lessons 2-20 + Test"
+              }
+            ]
           }
         ]
       }
@@ -696,25 +789,29 @@
         "label": "Lesson 23",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss foods they like, need, and have using some/ any and count / noncount nouns."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-23/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> I always eat breakfast. (Cycle 1)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-23/classwork",
-            "label": "Classwork <b>•</b> I always eat breakfast. (Cycle 1)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-23/homework",
-            "label": "Homework <b>•</b> I always eat breakfast. (Cycle 1)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss foods they like, need, and have using some/ any and count / noncount nouns."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-23/flipped-classroom",
+                "label": "Flipped Classroom • I always eat breakfast. (Cycle 1)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-23/classwork",
+                "label": "Classwork • I always eat breakfast. (Cycle 1)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-23/homework",
+                "label": "Homework • I always eat breakfast. (Cycle 1)"
+              }
+            ]
           }
         ]
       }
@@ -726,25 +823,29 @@
         "label": "Lesson 24",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to describe eating habits using adverbs of frequency."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-24/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> I always eat breakfast. (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-24/classwork",
-            "label": "Classwork <b>•</b> I always eat breakfast. (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-24/homework",
-            "label": "Homework <b>•</b> I always eat breakfast. (Cycle 2)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to describe eating habits using adverbs of frequency."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-24/flipped-classroom",
+                "label": "Flipped Classroom • I always eat breakfast. (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-24/classwork",
+                "label": "Classwork • I always eat breakfast. (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-24/homework",
+                "label": "Homework • I always eat breakfast. (Cycle 2)"
+              }
+            ]
           }
         ]
       }
@@ -756,25 +857,29 @@
         "label": "Lesson 25",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss sports they watch and play using simple present Wh- questions."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-25/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> What sports do you like? (Cycle 1)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-25/classwork",
-            "label": "Classwork <b>•</b> What sports do you like? (Cycle 1)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-25/homework",
-            "label": "Homework <b>•</b> What sports do you like? (Cycle 1)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss sports they watch and play using simple present Wh- questions."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-25/flipped-classroom",
+                "label": "Flipped Classroom • What sports do you like? (Cycle 1)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-25/classwork",
+                "label": "Classwork • What sports do you like? (Cycle 1)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-25/homework",
+                "label": "Homework • What sports do you like? (Cycle 1)"
+              }
+            ]
           }
         ]
       }
@@ -786,25 +891,29 @@
         "label": "Lesson 26",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss skills, abilities, and talents using can and can’t."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-26/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> What sports do you like? (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-26/classwork",
-            "label": "Classwork <b>•</b> What sports do you like? (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-26/homework",
-            "label": "Homework <b>•</b> What sports do you like? (Cycle 2)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss skills, abilities, and talents using can and can’t."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-26/flipped-classroom",
+                "label": "Flipped Classroom • What sports do you like? (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-26/classwork",
+                "label": "Classwork • What sports do you like? (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-26/homework",
+                "label": "Homework • What sports do you like? (Cycle 2)"
+              }
+            ]
           }
         ]
       }
@@ -815,22 +924,20 @@
         "icon": "page",
         "label": "Lesson 27",
         "descriptions": [
+          { "description": [{ "text": "Learning objectives:" }] },
+          { "description": [{ "text": "• reflect on one's learning" }] },
           {
-            "description": "Learning objectives:"
-          },
-          {
-            "description": "<b>•</b> reflect on one's learning"
-          },
-          {
-            "description": "<b>•</b> identify areas that need improvement"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-27/classwork",
-            "label": "Classwork <b>•</b> Review lessons 23-26 + Quiz"
+            "description": [
+              { "text": "• identify areas that need improvement" }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-27/classwork",
+                "label": "Classwork • Review lessons 23-26 + Quiz"
+              }
+            ]
           }
         ]
       }
@@ -848,25 +955,29 @@
         "label": "Lesson 28",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss evening, weekend, and birthday plans using statements and yes / no questions with be going to."
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss evening, weekend, and birthday plans using statements and yes / no questions with be going to."
+              }
+            ]
           }
         ],
-        "hr": true,
-        "items": [
+        "addHr": true,
+        "links": [
           {
-            "svg": "book",
+            "icon": "book",
             "link": "/courses/beginner/lesson-28/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> I'm going to have a party. (Cycle 1)"
+            "label": "Flipped Classroom • I'm going to have a party. (Cycle 1)"
           },
           {
-            "svg": "book",
+            "icon": "book",
             "link": "/courses/beginner/lesson-28/classwork",
-            "label": "Classwork <b>•</b> I'm going to have a party. (Cycle 1)"
+            "label": "Classwork • I'm going to have a party. (Cycle 1)"
           },
           {
-            "svg": "assignment",
+            "icon": "assignment",
             "link": "/courses/beginner/lesson-28/homework",
-            "label": "Homework <b>•</b> I'm going to have a party. (Cycle 1)"
+            "label": "Homework • I'm going to have a party. (Cycle 1)"
           }
         ]
       }
@@ -878,25 +989,29 @@
         "label": "Lesson 29",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss plans to celebrate holidays, special occasions, and festivals using Wh- questions with be going to."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-29/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> I'm going to have a party. (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-29/classwork",
-            "label": "Classwork <b>•</b> I'm going to have a party. (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-29/homework",
-            "label": "Homework <b>•</b> I'm going to have a party. (Cycle 2)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss plans to celebrate holidays, special occasions, and festivals using Wh- questions with be going to."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-29/flipped-classroom",
+                "label": "Flipped Classroom • I'm going to have a party. (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-29/classwork",
+                "label": "Classwork • I'm going to have a party. (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-29/homework",
+                "label": "Homework • I'm going to have a party. (Cycle 2)"
+              }
+            ]
           }
         ]
       }
@@ -908,25 +1023,29 @@
         "label": "Lesson 30",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss the body and common ailments using have + noun and feel + adjective."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-30/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> How do you feel? (Cycle 1)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-30/classwork",
-            "label": "Classwork <b>•</b> How do you feel? (Cycle 1)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-30/homework",
-            "label": "Homework <b>•</b> How do you feel? (Cycle 1)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss the body and common ailments using have + noun and feel + adjective."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-30/flipped-classroom",
+                "label": "Flipped Classroom • How do you feel? (Cycle 1)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-30/classwork",
+                "label": "Classwork • How do you feel? (Cycle 1)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-30/homework",
+                "label": "Homework • How do you feel? (Cycle 1)"
+              }
+            ]
           }
         ]
       }
@@ -938,25 +1057,29 @@
         "label": "Lesson 31",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss common remedies and give health advice using imperatives."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-31/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> How do you feel? (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-31/classwork",
-            "label": "Classwork <b>•</b> How do you feel? (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-31/homework",
-            "label": "Homework <b>•</b> How do you feel? (Cycle 2)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss common remedies and give health advice using imperatives."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-31/flipped-classroom",
+                "label": "Flipped Classroom • How do you feel? (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-31/classwork",
+                "label": "Classwork • How do you feel? (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-31/homework",
+                "label": "Homework • How do you feel? (Cycle 2)"
+              }
+            ]
           }
         ]
       }
@@ -967,22 +1090,20 @@
         "icon": "page",
         "label": "Lesson 32",
         "descriptions": [
+          { "description": [{ "text": "Learning objectives:" }] },
+          { "description": [{ "text": "• reflect on one's learning" }] },
           {
-            "description": "Learning objectives:"
-          },
-          {
-            "description": "<b>•</b> reflect on one's learning"
-          },
-          {
-            "description": "<b>•</b> identify areas that need improvement"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-32/classwork",
-            "label": "Classwork <b>•</b> Review lessons 28-31 + Quiz"
+            "description": [
+              { "text": "• identify areas that need improvement" }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-32/classwork",
+                "label": "Classwork • Review lessons 28-31 + Quiz"
+              }
+            ]
           }
         ]
       }
@@ -1000,25 +1121,29 @@
         "label": "Lesson 33",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss stores, items to buy in stores, and store locations using prepositions of place."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-33/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> How do I get there? (Cycle 1)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-33/classwork",
-            "label": "Classwork <b>•</b> How do I get there? (Cycle 1)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-33/homework",
-            "label": "Homework <b>•</b> How do I get there? (Cycle 1)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss stores, items to buy in stores, and store locations using prepositions of place."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-33/flipped-classroom",
+                "label": "Flipped Classroom • How do I get there? (Cycle 1)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-33/classwork",
+                "label": "Classwork • How do I get there? (Cycle 1)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-33/homework",
+                "label": "Homework • How do I get there? (Cycle 1)"
+              }
+            ]
           }
         ]
       }
@@ -1030,25 +1155,29 @@
         "label": "Lesson 34",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to ask for and give directions to various locations."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-34/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> How do I get there? (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-34/classwork",
-            "label": "Classwork <b>•</b> How do I get there? (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-34/homework",
-            "label": "Homework <b>•</b> How do I get there? (Cycle 2)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to ask for and give directions to various locations."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-34/flipped-classroom",
+                "label": "Flipped Classroom • How do I get there? (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-34/classwork",
+                "label": "Classwork • How do I get there? (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-34/homework",
+                "label": "Homework • How do I get there? (Cycle 2)"
+              }
+            ]
           }
         ]
       }
@@ -1060,25 +1189,29 @@
         "label": "Lesson 35",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss weekend activities using simple past statements with regular and irregular verbs."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-35/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> I had a good time. (Cycle 1)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-35/classwork",
-            "label": "Classwork <b>•</b> I had a good time. (Cycle 1)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-35/homework",
-            "label": "Homework <b>•</b> I had a good time. (Cycle 1)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss weekend activities using simple past statements with regular and irregular verbs."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-35/flipped-classroom",
+                "label": "Flipped Classroom • I had a good time. (Cycle 1)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-35/classwork",
+                "label": "Classwork • I had a good time. (Cycle 1)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-35/homework",
+                "label": "Homework • I had a good time. (Cycle 1)"
+              }
+            ]
           }
         ]
       }
@@ -1090,25 +1223,29 @@
         "label": "Lesson 36",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss vacation activities using simple past yes/ no questions and short answers."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-36/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> I had a good time. (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-36/classwork",
-            "label": "Classwork <b>•</b> I had a good time. (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-36/homework",
-            "label": "Homework <b>•</b> I had a good time. (Cycle 2)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss vacation activities using simple past yes/ no questions and short answers."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-36/flipped-classroom",
+                "label": "Flipped Classroom • I had a good time. (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-36/classwork",
+                "label": "Classwork • I had a good time. (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-36/homework",
+                "label": "Homework • I had a good time. (Cycle 2)"
+              }
+            ]
           }
         ]
       }
@@ -1119,22 +1256,20 @@
         "icon": "page",
         "label": "Lesson 37",
         "descriptions": [
+          { "description": [{ "text": "Learning objectives:" }] },
+          { "description": [{ "text": "• reflect on one's learning" }] },
           {
-            "description": "Learning objectives:"
-          },
-          {
-            "description": "<b>•</b> reflect on one's learning"
-          },
-          {
-            "description": "<b>•</b> identify areas that need improvement"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-37/classwork",
-            "label": "Classwork <b>•</b> Review lessons 33-36 + Quiz"
+            "description": [
+              { "text": "• identify areas that need improvement" }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-37/classwork",
+                "label": "Classwork • Review lessons 33-36 + Quiz"
+              }
+            ]
           }
         ]
       }
@@ -1152,25 +1287,29 @@
         "label": "Lesson 38",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss family and personal history using the past of be."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-38/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> Where were you born? (Cycle 1)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-38/classwork",
-            "label": "Classwork <b>•</b> Where were you born? (Cycle 1)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-38/homework",
-            "label": "Homework <b>•</b> Where were you born? (Cycle 1)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss family and personal history using the past of be."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-38/flipped-classroom",
+                "label": "Flipped Classroom • Where were you born? (Cycle 1)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-38/classwork",
+                "label": "Classwork • Where were you born? (Cycle 1)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-38/homework",
+                "label": "Homework • Where were you born? (Cycle 1)"
+              }
+            ]
           }
         ]
       }
@@ -1182,25 +1321,29 @@
         "label": "Lesson 39",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to discuss school experiences and memories using Wh- questions with did, was, and were."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-39/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> Where were you born? (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-39/classwork",
-            "label": "Classwork <b>•</b> Where were you born? (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-39/homework",
-            "label": "Homework <b>•</b> Where were you born? (Cycle 2)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to discuss school experiences and memories using Wh- questions with did, was, and were."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-39/flipped-classroom",
+                "label": "Flipped Classroom • Where were you born? (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-39/classwork",
+                "label": "Classwork • Where were you born? (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-39/homework",
+                "label": "Homework • Where were you born? (Cycle 2)"
+              }
+            ]
           }
         ]
       }
@@ -1212,25 +1355,29 @@
         "label": "Lesson 40",
         "descriptions": [
           {
-            "description": "By the end of this lesson, students will be able to make phone calls and leave messages using subject and object pronouns."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-40/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> Can I take a message? (Cycle 1)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-40/classwork",
-            "label": "Classwork <b>•</b> Can I take a message? (Cycle 1)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-40/homework",
-            "label": "Homework <b>•</b> Can I take a message? (Cycle 1)"
+            "description": [
+              {
+                "text": "By the end of this lesson, students will be able to make phone calls and leave messages using subject and object pronouns."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-40/flipped-classroom",
+                "label": "Flipped Classroom • Can I take a message? (Cycle 1)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-40/classwork",
+                "label": "Classwork • Can I take a message? (Cycle 1)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-40/homework",
+                "label": "Homework • Can I take a message? (Cycle 1)"
+              }
+            ]
           }
         ]
       }
@@ -1242,25 +1389,29 @@
         "label": "Lesson 41",
         "descriptions": [
           {
-            "description": "By the end of Cycle 2, students will be able to make, accept, and decline invitations using Do you want to ... ?, Would you like to ... ?, and verb + to."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-41/flipped-classroom",
-            "label": "Flipped Classroom <b>•</b> Can I take a message? (Cycle 2)"
-          },
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-41/classwork",
-            "label": "Classwork <b>•</b> Can I take a message? (Cycle 2)"
-          },
-          {
-            "svg": "assignment",
-            "link": "/courses/beginner/lesson-41/homework",
-            "label": "Homework <b>•</b> Can I take a message? (Cycle 2)"
+            "description": [
+              {
+                "text": "By the end of Cycle 2, students will be able to make, accept, and decline invitations using Do you want to ... ?, Would you like to ... ?, and verb + to."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-41/flipped-classroom",
+                "label": "Flipped Classroom • Can I take a message? (Cycle 2)"
+              },
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-41/classwork",
+                "label": "Classwork • Can I take a message? (Cycle 2)"
+              },
+              {
+                "icon": "assignment",
+                "link": "/courses/beginner/lesson-41/homework",
+                "label": "Homework • Can I take a message? (Cycle 2)"
+              }
+            ]
           }
         ]
       }
@@ -1271,22 +1422,20 @@
         "icon": "page",
         "label": "Lesson 42",
         "descriptions": [
+          { "description": [{ "text": "Learning objectives:" }] },
+          { "description": [{ "text": "• reflect on one's learning" }] },
           {
-            "description": "Learning objectives:"
-          },
-          {
-            "description": "<b>•</b> reflect on one's learning"
-          },
-          {
-            "description": "<b>•</b> identify areas that need improvement"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-42/classwork",
-            "label": "Classwork <b>•</b> Review lessons 38-41 + Quiz"
+            "description": [
+              { "text": "• identify areas that need improvement" }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-42/classwork",
+                "label": "Classwork • Review lessons 38-41 + Quiz"
+              }
+            ]
           }
         ]
       }
@@ -1303,22 +1452,20 @@
         "icon": "page",
         "label": "Lesson 43",
         "descriptions": [
+          { "description": [{ "text": "Learning objectives:" }] },
+          { "description": [{ "text": "• reflect on one's learning" }] },
           {
-            "description": "Learning objectives:"
-          },
-          {
-            "description": "<b>•</b> reflect on one's learning"
-          },
-          {
-            "description": "<b>•</b> identify areas that need improvement"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/courses/beginner/lesson-43/classwork",
-            "label": "Classwork <b>•</b> Classwork <b>•</b> Review lessons 23-41 + Test"
+            "description": [
+              { "text": "• identify areas that need improvement" }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/courses/beginner/lesson-43/classwork",
+                "label": "Classwork • Classwork • Review lessons 23-41 + Test"
+              }
+            ]
           }
         ]
       }

@@ -1,16 +1,5 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-import {
-  dashboard,
-  book,
-  audiobooks,
-  vocabulary,
-  pronunciation,
-  songs,
-  travel,
-  business,
-} from "@images/svg-imports";
-
 class NavBar extends HTMLElement {
   constructor() {
     super();
@@ -24,25 +13,15 @@ class NavBar extends HTMLElement {
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
-    /*css*/
-    const css = `
-      nav {
+    const css = document.createElement("style"); /*css*/
+    css.textContent = `
+    nav {
         border: var(--border);
         border-radius: var(--border-radius);
         box-shadow: var(--box-shadow);
         padding: var(--padding);
         height: 100%;
         overflow: auto
-      }
-
-      .section-title {
-        font-size: 1.1rem;
-        margin-top: 20px;
-        padding-left: 2px
-      }
-
-      wc-icon-item {
-        font-weight: bold
       }
 
       li.songs-item {
@@ -57,91 +36,105 @@ class NavBar extends HTMLElement {
         }
       }
     `;
+    this.shadowRoot.appendChild(css);
 
     // link list
     const navLinks = [
       {
-        svg: dashboard,
+        icon: "dashboard",
         link: "/dashboard",
         label: "Dashboard",
       },
-      { title: "<b>COURSES</b>" },
+      { title: "COURSES" },
       {
-        svg: book,
+        icon: "book",
         link: "/courses/beginner",
-        label: "Beginner (A1)" },
+        label: "Beginner (A1)",
+      },
       {
-        svg: book,
+        icon: "book",
         link: "/courses/elementary",
         label: "Elementary (A1-A2)",
       },
       {
-        svg: book,
+        icon: "book",
         link: "/courses/pre-intermediate",
         label: "Pre-Intermediate (A2)",
       },
       {
-        svg: book,
+        icon: "book",
         link: "/courses/intermediate",
         label: "Intermediate (B1)",
       },
-      { title: "<b>EXTRAS</b>" },
+      { title: "EXTRAS" },
       {
-        svg: audiobooks,
+        icon: "audiobooks",
         link: "/extras/audiobooks",
         label: "Audiobooks",
       },
       {
-        svg: book,
+        icon: "book",
         link: "/extras/grammar",
         label: "Grammar",
       },
       {
-        svg: vocabulary,
+        icon: 'vocabulary',
         link: "/extras/vocabulary",
         label: "Vocabulary",
       },
       {
-        svg: pronunciation,
+        icon: "pronunciation",
         link: "/extras/pronunciation",
         label: "Pronunciation",
       },
       {
-        svg: songs,
+        icon: "songs",
         link: "/extras/songs",
         label: "Songs",
         variant: "songs-svg",
       },
-      { title: "<b>SPECIFIC PURPOSES</b>" },
+      { title: "SPECIFIC PURPOSES" },
       {
-        svg: travel,
+        icon: "travel",
         link: "/specific-purposes/travel",
         label: "Travel",
       },
-      { svg: business, link: "/specific-purposes/business", label: "Business" },
+      {
+        icon: "business",
+        link: "/specific-purposes/business",
+        label: "Business",
+      },
     ];
 
-    /*html*/
-    this.shadowRoot.innerHTML = `
-    <style>${cssImportsPath}</style>
-    <style>${css}</style>
-      <nav>
-        <ul>
-        ${navLinks
-          .map((item) =>
-            item.title
-              ? `<li class="section-title">${item.title}</li>`
-              : `<li class="${item.className || ""}"><wc-icon-item svg='${
-                  item.svg
-                }' variant=${item.variant} link="${item.link}" label="${
-                  item.label
-                }"></wc-icon-item></li>
-          `
-          )
-          .join("")}
-         </ul>
-      </nav>
-    `;
+    const nav = document.createElement("nav");
+    const ul = document.createElement("ul");
+
+    navLinks.forEach((item) => {
+      if (item.title) {
+        const title = document.createElement("li");
+        title.style.fontWeight = "bold"
+        title.style.marginTop = "20px"
+        title.style.paddingLeft = "2px"
+        title.textContent = item.title
+        ul.appendChild(title)
+      } else {
+        const li = document.createElement("li")
+        if (item.variant === "songs-item") {
+          li.classList.add("songs-item")
+        }
+
+        const iconItem = document.createElement("wc-icon-item");
+        iconItem.setAttribute("link", item.link)
+        iconItem.style.fontWeight = "bold"
+        iconItem.data = item
+        li.appendChild(iconItem);
+        ul.appendChild(li)
+      }
+    })
+    
+
+    nav.append(ul)
+    this.shadowRoot.appendChild(nav);
   }
 
   connectedCallback() {
@@ -170,6 +163,7 @@ class NavBar extends HTMLElement {
         iconItem.style.textUnderlineOffset = "2px";
 
         const href = iconItem.getAttribute("link");
+        // const href = item.data?.link;
 
         this.dispatchEvent(
           new CustomEvent("navigate", {

@@ -16,11 +16,7 @@
   },
   "contents": [
     {
-      "audioPlayer": [
-        {
-          "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-1.mp3"
-        }
-      ]
+      "audioPlayer": "/assets//audio/specific-purposes/business/sbelaa/lesson-1.mp3"
     },
     {
       "card": {
@@ -28,7 +24,11 @@
         "label": "Lesson 1 • Talking about a new project",
         "descriptions": [
           {
-            "description": "Carl, Greg and Anne work for WaterSonic Corporation. Recently, the company has come up with an idea for a new electric toothbrush."
+            "description": [
+              {
+                "text": "Carl, Greg and Anne work for WaterSonic Corporation. Recently, the company has come up with an idea for a new electric toothbrush."
+              }
+            ]
           }
         ]
       }

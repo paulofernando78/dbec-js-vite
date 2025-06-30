@@ -3,10 +3,9 @@ class IconItem extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-    this.build();
   }
 
-  build() {
+  set data({ icon, link, label, variant }) {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
@@ -35,23 +34,23 @@ class IconItem extends HTMLElement {
   `;
     this.shadowRoot.appendChild(css);
 
-    const svg = this.getAttribute("svg");
-    const link = this.getAttribute("link") || "";
-    const label = this.getAttribute("label") || "";
-    const variant = this.getAttribute("variant") || "";
+    const li = document.createElement("li");
+    li.classList.add("alignment");
 
-    const template = document.createElement("template"); /*html*/
-    template.innerHTML = `
-    <div class="alignment">
-      <span class="svg ${variant}"></span>
-      <a href="${link}">${label}</a>
-    </div>
-  `;
+    const svgSpan = document.createElement("span");
+    svgSpan.className = `svg ${variant || ""}`;
 
-    const clone = template.content.cloneNode(true);
-    clone.querySelector("span.svg").innerHTML = svg;
+    import("/src/assets/images/svg-imports.js").then((svgIcons) => {
+      // console.log("icon:", icon, svgIcons[icon]);
+      svgSpan.innerHTML = svgIcons[icon] || "";
+    });
 
-    this.shadowRoot.appendChild(clone);
+    const anchor = document.createElement("a");
+    anchor.href = link;
+    anchor.textContent = label;
+
+    li.append(svgSpan, anchor);
+    this.shadowRoot.append(cssImports, css, li);
   }
 }
 

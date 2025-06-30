@@ -4,12 +4,12 @@ class Contents extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-    
+
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
-    const style = document.createElement("style")
+    const style = document.createElement("style");
     /*css*/
     style.textContent = `
       wc-audio-player.audio-player {
@@ -17,8 +17,8 @@ class Contents extends HTMLElement {
         top: 0;
         z-index: 999
       }
-    `
-    this.shadowRoot.appendChild(style)
+    `;
+    this.shadowRoot.appendChild(style);
   }
 
   set data(content) {
@@ -63,14 +63,14 @@ class Contents extends HTMLElement {
         section.images.forEach((img) => {
           const image = document.createElement("wc-image");
           image.data = img;
-          contentContainer.appendChild(image)
+          contentContainer.appendChild(image);
         });
       }
 
       // Audioplayer
       if (section.audioPlayer) {
         const audioPlayer = document.createElement("wc-audio-player");
-        audioPlayer.classList.add("audio-player")
+        audioPlayer.classList.add("audio-player");
         audioPlayer.data = section.audioPlayer;
         contentContainer.appendChild(audioPlayer);
       }
@@ -79,7 +79,17 @@ class Contents extends HTMLElement {
       if (section.videoPlayer) {
         const videoPlayer = document.createElement("wc-video-player");
         videoPlayer.data = section.videoPlayer;
-        contentContainer.appendChild(videoPlayer)
+        contentContainer.appendChild(videoPlayer);
+      }
+
+      if (section.exercises) {
+        section.exercises.forEach((exerciseGroup) => {
+          if (exerciseGroup.radioExercises) {
+            const radioExercise = document.createElement("wc-exercise");
+            radioExercise.data = exerciseGroup.radioExercises
+            contentContainer.appendChild(radioExercise);
+          }
+        });
       }
     });
 

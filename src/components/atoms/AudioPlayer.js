@@ -4,11 +4,16 @@ class AudioPlayer extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
+  }
 
+  set data(audioPlayer) {
+    this.render(audioPlayer);
+  }
+
+  render(audioPlayer) {
     /*css imports*/
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
-    this.shadowRoot.appendChild(cssImports);
 
     const css = document.createElement("style");
     /*css */
@@ -20,17 +25,11 @@ class AudioPlayer extends HTMLElement {
       }
     `;
 
-    this.audioPlayer = document.createElement("audio");
-    this.shadowRoot.append(this.audioPlayer, css);
-  }
+    const audio = document.createElement("audio");
+    audio.controls = true;
+    audio.src = audioPlayer || "";
 
-  set data(audioPlayer) {
-    this.render(audioPlayer);
-  }
-
-  render(audioPlayer) {
-    this.audioPlayer.controls = true;
-    this.audioPlayer.src = audioPlayer || "";
+    this.shadowRoot.append(cssImports, audio, css);
   }
 }
 

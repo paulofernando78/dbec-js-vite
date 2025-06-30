@@ -8,36 +8,42 @@
       "ribbon": {
         "icon": "books",
         "label": "Starter (Pre-A1) 200 headwords"
-      },
+      }
+    },
+    {
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "kid",
         "label": "Kids",
-        "items": [
+        "descriptions": [
           {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/kids/cinderella/page",
-            "label": "Cinderella"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/kids/dumbo/page",
-            "label": "Dumbo"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/kids/finding- nemo/page",
-            "label": "Finding Nemo"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/kids/puss-in-boots/page",
-            "label": "Puss-in-Boots"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/kids/sleeping-beauty/page",
-            "label": "Sleeping Beauty"
+            "links": [
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/kids/cinderella",
+                "label": "Cinderella"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/kids/dumbo",
+                "label": "Dumbo"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/kids/finding- nemo",
+                "label": "Finding Nemo"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/kids/puss-in-boots",
+                "label": "Puss-in-Boots"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/kids/sleeping-beauty",
+                "label": "Sleeping Beauty"
+              }
+            ]
           }
         ]
       }
@@ -47,71 +53,75 @@
         "bgColor": "var(--gray-3)",
         "icon": "adult",
         "label": "Young learners / Adults",
-        "items": [
+        "descriptions": [
           {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/page",
-            "label": "A New Zealand Adventure"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/flying-home/page",
-            "label": "Flying home"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/page",
-            "label": "Marcel and the Mona Lisa"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/page",
-            "label": "Marcel and the White Star"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/newspaper-chase/page",
-            "label": "Newspaper Chase"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/simon-and-the-spy/page",
-            "label": "Simon and the Spy"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/the-fireboy/page",
-            "label": "The Fireboy"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/the-last-photo/page",
-            "label": "The Last Photo"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/the-leopard-and-the-lighthouse/page",
-            "label": "The Leopard and the Lighthouse"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/the-pearl-jam/page",
-            "label": "The Pearl Girl"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/the-troy-stone/page",
-            "label": "The Troy Stone"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/the-white-oryx/page",
-            "label": "The White Oryx"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/who-wants-to-be-a-star/page",
-            "label": "Who Wants to be a star"
+            "links": [
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure",
+                "label": "A New Zealand Adventure"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/young-learners-adults/flying-home",
+                "label": "Flying home"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa",
+                "label": "Marcel and the Mona Lisa"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star",
+                "label": "Marcel and the White Star"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/young-learners-adults/newspaper-chase",
+                "label": "Newspaper Chase"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/young-learners-adults/simon-and-the-spy",
+                "label": "Simon and the Spy"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/young-learners-adults/the-fireboy",
+                "label": "The Fireboy"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/young-learners-adults/the-last-photo",
+                "label": "The Last Photo"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/young-learners-adults/the-leopard-and-the-lighthouse",
+                "label": "The Leopard and the Lighthouse"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/young-learners-adults/the-pearl-jam",
+                "label": "The Pearl Girl"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/young-learners-adults/the-troy-stone",
+                "label": "The Troy Stone"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/young-learners-adults/the-white-oryx",
+                "label": "The White Oryx"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/young-learners-adults/who-wants-to-be-a-star",
+                "label": "Who Wants to be a star"
+              }
+            ]
           }
         ]
       }
@@ -127,11 +137,15 @@
         "bgColor": "var(--gray-3)",
         "icon": "kid",
         "label": "Kids",
-        "items": [
+        "descriptions": [
           {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/kids/",
-            "label": "..."
+            "links": [
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/starter/kids/",
+                "label": "..."
+              }
+            ]
           }
         ]
       }
@@ -141,11 +155,15 @@
         "bgColor": "var(--gray-3)",
         "icon": "adult",
         "label": "Young learners / Adults",
-        "items": [
+        "descriptions": [
           {
-            "svg": "book",
-            "link": "/extras/audiobooks/beginner/young-learners-adults/sherlock-holmes/page",
-            "label": "Sherlock Holmes"
+            "links": [
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/beginner/young-learners-adults/sherlock-holmes",
+                "label": "Sherlock Holmes"
+              }
+            ]
           }
         ]
       }
@@ -161,11 +179,15 @@
         "bgColor": "var(--gray-3)",
         "icon": "kid",
         "label": "Kids",
-        "items": [
+        "descriptions": [
           {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/kids/",
-            "label": "..."
+            "links": [
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/elementary/kids/",
+                "label": "See all Elementary Kids Audiobooks"
+              }
+            ]
           }
         ]
       }
@@ -175,11 +197,15 @@
         "bgColor": "var(--gray-3)",
         "icon": "adult",
         "label": "Young learners / Adults",
-        "items": [
+        "descriptions": [
           {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/",
-            "label": "..."
+            "links": [
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/elementary/young-learners-adults/",
+                "label": "See all Elementary Young Learners/Adults Audiobooks"
+              }
+            ]
           }
         ]
       }
@@ -195,11 +221,15 @@
         "bgColor": "var(--gray-3)",
         "icon": "kid",
         "label": "Kids",
-        "items": [
+        "descriptions": [
           {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/kids/",
-            "label": "..."
+            "links": [
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/pre-intermediate/kids/",
+                "label": "See all Pre-Intermediate Kids Audiobooks"
+              }
+            ]
           }
         ]
       }
@@ -209,11 +239,15 @@
         "bgColor": "var(--gray-3)",
         "icon": "adult",
         "label": "Young learners / Adults",
-        "items": [
+        "descriptions": [
           {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/",
-            "label": "..."
+            "links": [
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/pre-intermediate/young-learners-adults/",
+                "label": "See all Pre-Intermediate Young Learners/Adults Audiobooks"
+              }
+            ]
           }
         ]
       }
@@ -229,11 +263,15 @@
         "bgColor": "var(--gray-3)",
         "icon": "kid",
         "label": "Kids",
-        "items": [
+        "descriptions": [
           {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/kids/",
-            "label": "..."
+            "links": [
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/intermediate/kids/",
+                "label": "See all Intermediate Kids Audiobooks"
+              }
+            ]
           }
         ]
       }
@@ -243,11 +281,15 @@
         "bgColor": "var(--gray-3)",
         "icon": "adult",
         "label": "Young learners / Adults",
-        "items": [
+        "descriptions": [
           {
-            "svg": "book",
-            "link": "/extras/audiobooks/starter/young-learners-adults/",
-            "label": "..."
+            "links": [
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/intermediate/young-learners-adults/",
+                "label": "See all Intermediate Young Learners/Adults Audiobooks"
+              }
+            ]
           }
         ]
       }

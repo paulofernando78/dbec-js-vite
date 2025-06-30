@@ -9,16 +9,20 @@
         "bgColor": "var(--gray-3)",
         "icon": "books",
         "label": "Idioms / Expressions",
-        "items": [
+        "descriptions": [
           {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa",
-            "label": "Speak Business English like an American"
-          },
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/",
-            "label": "Better Business English and make more money"
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa",
+                "label": "Speak Business English like an American"
+              },
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/",
+                "label": "Better Business English and make more money"
+              }
+            ]
           }
         ]
       }

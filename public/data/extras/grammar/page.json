@@ -9,16 +9,20 @@
         "bgColor": "var(--gray-3)",
         "icon": "books",
         "label": "Grammar in Use",
-        "items": [
+        "descriptions": [
           {
-            "svg": "book",
-            "link": "/extras/grammar/elementary",
-            "label": "Elementary"
-          },
-          {
-            "svg": "book",
-            "link": "/extras/grammar/intermediate",
-            "label": "Intermediate"
+            "links": [
+              {
+                "icon": "book",
+                "link": "/extras/grammar/elementary",
+                "label": "Elementary"
+              },
+              {
+                "icon": "book",
+                "link": "/extras/grammar/intermediate",
+                "label": "Intermediate"
+              }
+            ]
           }
         ]
       }

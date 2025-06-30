@@ -4,7 +4,7 @@
     "subtitle": "Songs",
     "descriptions": [
       {
-        "description": "Soundgarden"
+        "description": [{ "text": "Soundgarden" }]
       }
     ]
   },
@@ -14,11 +14,15 @@
         "bgColor": "var(--gray-3)",
         "icon": "pages",
         "label": "Badmotorfinger",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/soundgarden/badmotorfinger/rusty-cage",
-            "label": "Rusty Cage"
+            "links": [
+              {
+                "icon": "songs",
+                "link": "/extras/songs/soundgarden/badmotorfinger/rusty-cage",
+                "label": "Rusty Cage"
+              }
+            ]
           }
         ]
       }

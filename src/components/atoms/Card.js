@@ -1,14 +1,5 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-import * as svgIcons from "@images/svg-imports";
-
-const bookBgColors = {
-  beginner: "#FBC519",
-  elementary: "#EC3B3C",
-  preIntermediate: "#1E8FEB",
-  intermediate: "#82C122",
-};
-
 class Card extends HTMLElement {
   constructor() {
     super();
@@ -27,32 +18,18 @@ class Card extends HTMLElement {
         overflow: hidden;
       }
 
-      .card-header-container {
+      .card-label {
         display: flex;
         align-items: center;
         gap: 4px;
         padding: 4px 4px 4px 3px;
         height: 30px
       }
-      
-      h1 {
-        color: #000;
-        font-weight: bold;
-        font-size: 1rem
-      }
 
       .inner-card {
         padding: var(--padding);
         text-align: justify;
 
-      }
-
-      hr {
-        margin: 10px
-      }
-
-      svg {
-        min-width: 24px;
       }
       
     `;
@@ -64,56 +41,71 @@ class Card extends HTMLElement {
   }
 
   render(card) {
-    const bgColor = bookBgColors[card.bgColor] || card.bgColor || "#000";
+    const bgColor = card.bgColor || "#000";
     const textColor = card.textColor || "#fff";
 
-    const template = document.createElement("template"); /*html*/
-    template.innerHTML = `
-      <div class="card-container">
-        <div class="card-header-container" style="background-color: ${bgColor}; color: ${textColor}">
-          ${
-            card.icon
-              ? `<span class="card-icon">
-            ${svgIcons[card.icon]}
-          </span>`
-              : ""
-          }
-          <h1>${card.label}</h1>
-        </div>
-        <div class="inner-card">
-        ${
-          card.descriptions && Array.isArray(card.descriptions)
-            ? card.descriptions
-                .map(
-                  (description) => `
-            <p>
-            ${description.description}
-            </p>
-          `
-                )
-                .join("")
-            : ""
-        }
-        ${card.hr ? "<hr/>" : ""}
-        ${
-          card.items && Array.isArray(card.items)
-            ? `${card.items
-                .map(
-                  (item) => `
-              <wc-icon-item
-                svg='${item.svg ? svgIcons[item.svg] : ""}'
-                link="${item.link || ""}"
-                label="${item.label || ""}" 
-              ></wc-icon-item>`
-                )
-                .join("")}`
-            : ""
-        }
-        </div>
-      </div>
-    `;
+    const container = document.createElement("div");
+    container.classList.add("card-container");
 
-    this.shadowRoot.appendChild(template.content.cloneNode(true));
+    const cardLabel = document.createElement("div");
+    cardLabel.classList.add("card-label");
+    cardLabel.textContent = card.label;
+    cardLabel.style.fontWeight = "bold";
+    cardLabel.style.backgroundColor = card.bgColor;
+    cardLabel.style.color = card.textColor;
+    container.appendChild(cardLabel);
+
+    const innerCard = document.createElement("div");
+    innerCard.classList.add("inner-card");
+
+    card.descriptions.forEach((descGroup) => {
+      // Render description text if present
+      if (Array.isArray(descGroup.description)) {
+        const p = document.createElement("p");
+        descGroup.description.forEach((item) => {
+          if (item.mark) {
+            const mark = document.createElement("mark");
+            mark.textContent = item.mark;
+            p.appendChild(mark);
+            return;
+          }
+
+          const span = document.createElement("span");
+
+          if (item.bold) {
+            span.style.fontWeight = "bold";
+            span.textContent = item.bold;
+          }
+
+          if (item.text) {
+            span.textContent = item.text;
+          }
+
+          p.appendChild(span);
+        });
+        innerCard.appendChild(p);
+      }
+
+      if (descGroup.addHr) {
+        const hr = document.createElement("hr");
+        hr.style.margin = "10px";
+        innerCard.appendChild(hr);
+      }
+
+      if (Array.isArray(descGroup.links)) {
+        descGroup.links.forEach((item) => {
+          if (item.icon) {
+            const iconItem = document.createElement("wc-icon-item");
+            iconItem.data = item;
+            innerCard.appendChild(iconItem);
+          }
+        });
+      }
+    });
+
+    container.appendChild(innerCard);
+
+    this.shadowRoot.appendChild(container);
   }
 }
 

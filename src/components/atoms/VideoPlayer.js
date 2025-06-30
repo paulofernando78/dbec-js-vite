@@ -2,7 +2,17 @@ class VideoPlayer extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
+  }
 
+  /**
+   * Sets the video source URL and renders the player.
+   * @param {VideoPlayerData} item
+   */
+  set data(item) {
+    this.render(item);
+  }
+
+  render(item) {
     const cssImports = document.createElement("link");
     cssImports.rel = "stylesheet";
     cssImports.href = "/src/css/imports.css";
@@ -19,22 +29,15 @@ class VideoPlayer extends HTMLElement {
 			}
 		`;
 
-    this.videoPlayer = document.createElement("iframe");
-    this.videoPlayer.setAttribute("frameborder", "0");
-    this.videoPlayer.setAttribute(
+    const iframe = document.createElement("iframe");
+    iframe.setAttribute("frameborder", "0");
+    iframe.setAttribute(
       "allow",
       "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     );
+    iframe.src = item;
 
-    this.shadowRoot.append(cssImports, css, this.videoPlayer);
-  }
-
-  set data(item) {
-    this.render(item);
-  }
-
-  render(item) {
-    this.videoPlayer.src = item;
+    this.shadowRoot.append(cssImports, css, iframe);
   }
 }
 

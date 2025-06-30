@@ -4,7 +4,7 @@
     "subtitle": "Business",
     "descriptions": [
       {
-        "description": "Speak Business English Like an American"
+        "description": [{ "text": "Speak Business English Like an American" }]
       }
     ]
   },
@@ -22,20 +22,24 @@
         "label": "Lessons 1",
         "descriptions": [
           {
-            "description": "(to) come up with a winner <b>•</b> blockbuster <b>•</b> bells and whistles <b>•</b> (to) fast track a project <b>•</b> stocking stuffer <b>•</b> big win <b>•</b> (to) make a killing <b>•</b> (to) keep something under wraps <b>•</b> mum's the word <b>•</b> (to) get wind of <b>•</b> (to) rip off <b>•</b> game plan <b>•</b> (to) get something off the ground"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-1",
-            "label": "Talking about a new project"
-          },
-          {
-            "svg": "assignment",
-            "link": "/specific-purposes/business/sbelaa/lesson-1-practice",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "(to) come up with a winner • blockbuster • bells and whistles • (to) fast track a project • stocking stuffer • big win • (to) make a killing • (to) keep something under wraps • mum's the word • (to) get wind of • (to) rip off • game plan • (to) get something off the ground"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-1",
+                "label": "Talking about a new project"
+              },
+              {
+                "icon": "assignment",
+                "link": "/specific-purposes/business/sbelaa/lesson-1-practice",
+                "label": "Practice"
+              }
+            ]
           }
         ]
       }
@@ -47,20 +51,20 @@
         "label": "Lessons 2",
         "descriptions": [
           {
-            "description": "back-of-the-envelope calculations <b>•</b> educated guess <b>•</b> in hot water <b>•</b> (to) crunch the numbers <b>•</b> (it or that) blows my mind <b>•</b> (to) run (the) numbers <b>•</b> in the red <b>•</b> one’s head is on the chopping block <b>•</b> (to) give somebody the green light <b>•</b> (to) break even <b>•</b> (to) pull the plug"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-2",
-            "label": "Talking about financial issues"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "back-of-the-envelope calculations • educated guess • in hot water • (to) crunch the numbers • (it or that) blows my mind • (to) run (the) numbers • in the red • one’s head is on the chopping block • (to) give somebody the green light • (to) break even • (to) pull the plug"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-2",
+                "label": "Talking about financial issues"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -72,20 +76,20 @@
         "label": "Lessons 3",
         "descriptions": [
           {
-            "description": "(to) run some ideas by someone <b>•</b> (to) keep an open mind <b>•</b> nothing is set in stone <b>•</b> (to) brainstorm <b>•</b> half-baked idea <b>•</b> tagline <b>•</b> (to) throw cold water on (an idea, a plan) <b>•</b> on the right track <b>•</b> (to) generate lots of buzz <b>•</b> icing on the cake <b>•</b> an arm and a leg <b>•</b> (to) plug (a product) <b>•</b> (to) twist somebody’s arm <b>•</b> (to) run with an idea <b>•</b> (to) flesh out something <b>•</b> (to) touch base with someone <b>•</b>"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-3",
-            "label": "Discussing a new ad campaign"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "(to) run some ideas by someone • (to) keep an open mind • nothing is set in stone • (to) brainstorm • half-baked idea • tagline • (to) throw cold water on (an idea, a plan) • on the right track • (to) generate lots of buzz • icing on the cake • an arm and a leg • (to) plug (a product) • (to) twist somebody’s arm • (to) run with an idea • (to) flesh out something • (to) touch base with someone"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-3",
+                "label": "Discussing a new ad campaign"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -97,20 +101,20 @@
         "label": "Lessons 4",
         "descriptions": [
           {
-            "description": "(to) work out the (or some) kinks <b>•</b> (to) fine-tune <b>•</b> no ifs, ands, or buts <b>•</b> just for the record (also: for the record) <b>•</b> (to) cut it (a little) close <b>•</b> reality check <b>•</b> (to) step up to the plate <b>•</b> (to) get the job done <b>•</b> (to) work down to the wire <b>•</b> (to) do whatever it takes <b>•</b> 24/7 (twenty-four seven) <b>•</b> at the end of the day"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-4",
-            "label": "Talking about manufacturing"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "(to) work out the (or some) kinks • (to) fine-tune • no ifs, ands, or buts • just for the record (also: for the record) • (to) cut it (a little) close • reality check • (to) step up to the plate • (to) get the job done • (to) work down to the wire • (to) do whatever it takes • 24/7 (twenty-four seven) • at the end of the day"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-4",
+                "label": "Talking about manufacturing"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -122,20 +126,20 @@
         "label": "Lessons 5",
         "descriptions": [
           {
-            "description": "fast followers <b>•</b> cutting-edge <b>•</b> Why mess with success? <b>•</b> (to) get with the program <b>•</b> cash cow <b>•</b> real dog <b>•</b> me-too products <b>•</b> (to) leapfrog one’s competitors <b>•</b> for starters <b>•</b> (to) beef up <b>•</b> at a premium <b>•</b> (to) get buy-in (from) <b>•</b> (to be) on the same page"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-5",
-            "label": "Talking about company strategy"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "fast followers • cutting-edge • Why mess with success? • (to) get with the program • cash cow • real dog • me-too products • (to) leapfrog one’s competitors • for starters • (to) beef up • at a premium • (to) get buy-in (from) • (to be) on the same page"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-5",
+                "label": "Talking about company strategy"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -153,20 +157,20 @@
         "label": "Lessons 6",
         "descriptions": [
           {
-            "description": "record-breaking <b>•</b> through the roof <b>•</b> a pat on the back <b>•</b> guerrilla marketing <b>•</b> (to) dream up <b>•</b> (to) drum up business <b>•</b> (to) sign on new customers (or members) <b>•</b> (to) pan out <b>•</b> freebie <b>•</b> (to) think outside the box <b>•</b> for the record <b>•</b> (to) share the credit <b>•</b> a run for one’s money"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-6",
-            "label": "Discussing good results"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "record-breaking • through the roof • a pat on the back • guerrilla marketing • (to) dream up • (to) drum up business • (to) sign on new customers (or members) • (to) pan out • freebie • (to) think outside the box • for the record • (to) share the credit • a run for one’s money"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-6",
+                "label": "Discussing good results"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -178,20 +182,20 @@
         "label": "Lessons 7",
         "descriptions": [
           {
-            "description": "(to) face the music <b>•</b> in deep trouble <b>•</b> to the tune of (followed by a number) <b>•</b> no wonder <b>•</b> (to) get to the bottom of something <b>•</b> on top of trends <b>•</b> eating one’s lunch <b>•</b> (to) cash in on <b>•</b> (to) bring a product to market <b>•</b> (to) run in place <b>•</b> (to) clean house <b>•</b> new blood <b>•</b> You took the words right out of my mouth!"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-7",
-            "label": "Discussing bad results"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "(to) face the music • in deep trouble • to the tune of (followed by a number) • no wonder • (to) get to the bottom of something • on top of trends • eating one’s lunch • (to) cash in on • (to) bring a product to market • (to) run in place • (to) clean house • new blood • You took the words right out of my mouth!"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-7",
+                "label": "Discussing bad results"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -203,20 +207,20 @@
         "label": "Lessons 8",
         "descriptions": [
           {
-            "description": "pros and cons <b>•</b> back and forth on an issue <b>•</b> of two minds <b>•</b> tough call <b>•</b> wishy-washy <b>•</b> (to) bite the bullet <b>•</b> (to) test the waters <b>•</b> the best of both worlds <b>•</b> (to) put a stake in the ground <b>•</b> good call <b>•</b> (to) live to regret a decision <b>•</b> my gut tells me"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-8",
-            "label": "Discussing a difficult decision"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "pros and cons • back and forth on an issue • of two minds • tough call • wishy-washy • (to) bite the bullet • (to) test the waters • the best of both worlds • (to) put a stake in the ground • good call • (to) live to regret a decision • my gut tells me"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-8",
+                "label": "Discussing a difficult decision"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -228,20 +232,20 @@
         "label": "Lessons 9",
         "descriptions": [
           {
-            "description": "a far cry from <b>•</b> (to) go all out <b>•</b> (to) mince words <b>•</b> pretty penny <b>•</b> (to) deliver <b>•</b> (to) pull out all the stops <b>•</b> (to) pull the wool over one’s eyes <b>•</b> Where to begin? <b>•</b> (to) get right on something <b>•</b> (to) mess around <b>•</b> (to be) swamped <b>•</b> (to) make it up to you"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-9",
-            "label": "Dealing with a dissastified customer"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "a far cry from • (to) go all out • (to) mince words • pretty penny • (to) deliver • (to) pull out all the stops • (to) pull the wool over one’s eyes • Where to begin? • (to) get right on something • (to) mess around • (to be) swamped • (to) make it up to you"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-9",
+                "label": "Dealing with a dissastified customer"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -253,20 +257,20 @@
         "label": "Lessons 10",
         "descriptions": [
           {
-            "description": "(to) kick off <b>•</b> (to) need something like a hole in the head <b>•</b> out of one’s mind <b>•</b> (to) take a crack at something <b>•</b> (to) put one’s mind to something <b>•</b> (to) roll up one’s sleeves <b>•</b> (to) give it one’s best shot <b>•</b> (to) give it one’s best shot <b>•</b> can-do attitude <b>•</b> child’s play <b>•</b> bigwig <b>•</b> out of touch with reality"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-10",
-            "label": "Discussing a difficult request"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "(to) kick off • (to) need something like a hole in the head • out of one’s mind • (to) take a crack at something • (to) put one’s mind to something • (to) roll up one’s sleeves • (to) give it one’s best shot • (to) give it one’s best shot • can-do attitude • child’s play • bigwig • out of touch with reality"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-10",
+                "label": "Discussing a difficult request"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -284,20 +288,20 @@
         "label": "Lessons 11",
         "descriptions": [
           {
-            "description": "(to) work one’s tail off <b>•</b> (to) call it quits <b>•</b> (to) throw in the towel <b>•</b> We’ve been down before, but we always come back fighting. <b>•</b> private-label products <b>•</b> track record <b>•</b> (to) rest on one’s laurels <b>•</b> (to) turn around one’s business <b>•</b> (to) get down to business <b>•</b> team spirit <b>•</b> on board <b>•</b> count me in <b>•</b> (to) rally the troops"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-11",
-            "label": "Motivating Co-Workers"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "(to) work one’s tail off • (to) call it quits • (to) throw in the towel • We’ve been down before, but we always come back fighting. • private-label products • track record • (to) rest on one’s laurels • (to) turn around one’s business • (to) get down to business • (to) rally the troops"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-11",
+                "label": "Motivating Co-Workers"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -309,20 +313,20 @@
         "label": "Lessons 12",
         "descriptions": [
           {
-            "description": "(to) cover a lot of ground <b>•</b> (to be) on the same page <b>•</b> (to) jump the gun <b>•</b> every time I turn around <b>•</b> (to be or to get) out of hand <b>•</b> ... <b>•</b> I beg to differ <b>•</b> (to) not see eye-to-eye <b>•</b> (to) get off track <b>•</b> (to) weigh in on <b>•</b> the issue at hand <b>•</b> (to) move on <b>•</b> (to) put in one’s two cents <b>•</b> company offsite <b>•</b> (to) circle back to"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-12",
-            "label": "Running a meeting"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "(to) cover a lot of ground • (to be) on the same page • (to) jump the gun • every time I turn around • (to be or to get) out of hand • ... • I beg to differ • (to) not see eye-to-eye • (to) get off track • (to) weigh in on • the issue at hand • (to) move on • (to) put in one’s two cents • company offsite • (to) circle back to"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-12",
+                "label": "Running a meeting"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -334,20 +338,20 @@
         "label": "Lessons 13",
         "descriptions": [
           {
-            "description": "short by <b>•</b> I could’ve sworn that… <b>•</b> no big deal <b>•</b> (to) dot your i’s and cross your t’s <b>•</b> (to) make a mountain out of a molehill <b>•</b> (to) blow things out of proportion <b>•</b> (to) drop the ball <b>•</b> (a) bitter pill to swallow <b>•</b> up to scratch <b>•</b> asleep at the wheel <b>•</b> ... <b>•</b> ..."
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-13",
-            "label": "Discussing A Mistake"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "short by • I could’ve sworn that… • no big deal • (to) dot your i’s and cross your t’s • (to) make a mountain out of a molehill • (to) blow things out of proportion • (to) drop the ball • (a) bitter pill to swallow • up to scratch • asleep at the wheel • ... • ..."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-13",
+                "label": "Discussing A Mistake"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -359,20 +363,20 @@
         "label": "Lessons 14",
         "descriptions": [
           {
-            "description": "(to) push the envelope <b>•</b> (to) pull something off <b>•</b> (to) burn the midnight oil <b>•</b> (to) work one’s tail off – see <b>•</b> (to) hunker down <b>•</b> around the clock <b>•</b> team player <b>•</b> (to) pitch in <b>•</b> a pat on the back <b>•</b> all in a day’s work <b>•</b> (to) come with the territory <b>•</b> R&R"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-14",
-            "label": "Taking Credit For Good Results"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "(to) push the envelope • (to) pull something off • (to) burn the midnight oil • (to) work one’s tail off – see • (to) hunker down • around the clock • team player • (to) pitch in • a pat on the back • all in a day’s work • (to) come with the territory • R&R"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-14",
+                "label": "Taking Credit For Good Results"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -384,20 +388,20 @@
         "label": "Lessons 15",
         "descriptions": [
           {
-            "description": "(to) shell out <b>•</b> (to) talk someone into something <b>•</b> I can’t believe my ears! <b>•</b> (to) cover oneself <b>•</b> fall guy <b>•</b> for the record <b>•</b> (to) go on about <b>•</b> (to) strike gold <b>•</b> (to) pass the buck <b>•</b> (to) step up to the plate <b>•</b> (to) wash one’s hands of <b>•</b> <b>•</b> (to) pass the buck <b>•</b> (to) step up to the plate <b>•</b> (to) wash one's hands of <b>•</b> Dream on!  <b>•</b> (to) point fingers at each other / (to) point the finger at someone <b>•</b> (to) track something down"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-15",
-            "label": "Shifting Blame"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "(to) shell out • (to) talk someone into something • I can’t believe my ears! • (to) cover oneself • fall guy • for the record • (to) go on about • (to) strike gold • (to) pass the buck • (to) step up to the plate • (to) wash one’s hands of • (to) pass the buck • (to) step up to the plate • (to) wash one's hands of • Dream on!  • (to) point fingers at each other / (to) point the finger at someone • (to) track something down"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-15",
+                "label": "Shifting Blame"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -415,20 +419,20 @@
         "label": "Lessons 16",
         "descriptions": [
           {
-            "description": "in the red <b>•</b> (to) cut back on <b>•</b> (to) save a bundle <b>•</b> bottom line <b>•</b> last resort <b>•</b> belt-tightening <b>•</b> the lesser of two evils <b>•</b> out of the question <b>•</b> between a rock and a hard place <b>•</b> the name of the game <b>•</b> (to) pull something off <b>•</b> (to) bat around some ideas <b>•</b> until one is blue in the face <b>•</b> (to) not see eye-to-eye <b>•</b> let’s just agree to disagree"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-16",
-            "label": "Politely Disagreeing With Someone"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "in the red • (to) cut back on • (to) save a bundle • bottom line • last resort • belt-tightening • the lesser of two evils • out of the question • between a rock and a hard place • the name of the game • (to) pull something off • (to) bat around some ideas • until one is blue in the face • (to) not see eye-to-eye • let’s just agree to disagree"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-16",
+                "label": "Politely Disagreeing With Someone"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -440,20 +444,20 @@
         "label": "Lessons 17",
         "descriptions": [
           {
-            "description": "What’s the deal? <b>•</b> (to) have a rough night <b>•</b> (to) dump someone <b>•</b> spare us (or me) the sob story <b>•</b> sick and tired of <b>•</b> (to) pull one’s weight <b>•</b> (to) cut someone some slack <b>•</b> (to) run a tight ship <b>•</b> (to) turn a blind eye to something <b>•</b> shape up or ship out <b>•</b> on the dot <b>•</b> (to be) running behind <b>•</b> don’t waste your breath <b>•</b> (the) last straw <b>•</b> slave driver <b>•</b> (to) burn one's bridge"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-17",
-            "label": "Telling Somebody Off"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "What’s the deal? • (to) have a rough night • (to) dump someone • spare us (or me) the sob story • sick and tired of • (to) pull one’s weight • (to) cut someone some slack • (to) run a tight ship • (to) turn a blind eye to something • shape up or ship out • on the dot • (to be) running behind • don’t waste your breath • (the) last straw • slave driver • (to) burn one's bridge"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-17",
+                "label": "Telling Somebody Off"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -465,20 +469,20 @@
         "label": "Lessons 18",
         "descriptions": [
           {
-            "description": "the latest dirt <b>•</b> out of the loop <b>•</b> according to the rumor mill <b>•</b> (to) make a pass at someone <b>•</b> up to one’s old tricks <b>•</b> on the make <b>•</b> (to) get to the bottom of something <b>•</b> (to) take the cake <b>•</b> un-PC <b>•</b> politically correct (PC) <b>•</b> What goes around comes around <b>•</b> he’ll get his / she’ll get hers"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-18",
-            "label": "Discussing Office Scandals"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "the latest dirt • out of the loop • according to the rumor mill • (to) make a pass at someone • up to one’s old tricks • on the make • (to) get to the bottom of something • (to) take the cake • un-PC • politically correct (PC) • What goes around comes around • he’ll get his / she’ll get hers"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-18",
+                "label": "Discussing Office Scandals"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -490,20 +494,20 @@
         "label": "Lessons 19",
         "descriptions": [
           {
-            "description": "in a snit <b>•</b> (to be or to get) bent out of shape <b>•</b> (to) give somebody an earful <b>•</b> (to) push one’s buttons <b>•</b> (to) steer clear of somebody or something <b>•</b> hot-head <b>•</b> not a bad guy <b>•</b> (to) have (some) issues <b>•</b> (to) have a chip on one’s shoulder <b>•</b> (to be or to get) on one’s high horse <b>•</b> (to) grin and bear it <b>•</b> (to) get under one’s skin"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-19",
-            "label": "Complaining About A Co-Worker"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "in a snit • (to be or to get) bent out of shape • (to) give somebody an earful • (to) push one’s buttons • (to) steer clear of somebody or something • hot-head • not a bad guy • (to) have (some) issues • (to) have a chip on one’s shoulder • (to be or to get) on one’s high horse • (to) grin and bear it • (to) get under one’s skin"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-19",
+                "label": "Complaining About A Co-Worker"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -515,20 +519,20 @@
         "label": "Lessons 20",
         "descriptions": [
           {
-            "description": "brownie points <b>•</b> yes man <b>•</b> brown noser <b>•</b> (to) kiss up (to someone) <b>•</b> talk about <b>•</b> (to) butter up <b>•</b> at one’s expense <b>•</b> out for oneself <b>•</b> dog-eat-dog world <b>•</b> (to) get ahead <b>•</b> (to) climb the corporate ladder <b>•</b> (to) look at oneself in the mirror <b>•</b> no wonder <b>•</b> (to) talk behind someone’s back <b>•</b> the walls have ears <b>•</b> (to) think twice <b>•</b> Chill out! <b>•</b> likely story <b>•</b> I wasn’t born yesterday!"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-20",
-            "label": "Talking About A Brown Noser"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "brownie points • yes man • brown noser • (to) kiss up (to someone) • talk about • (to) butter up • at one’s expense • out for oneself • dog-eat-dog world • (to) get ahead • (to) climb the corporate ladder • (to) look at oneself in the mirror • no wonder • (to) talk behind someone’s back • the walls have ears • (to) think twice • Chill out! • likely story • I wasn’t born yesterday!"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-20",
+                "label": "Talking About A Brown Noser"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -546,20 +550,20 @@
         "label": "Lessons 21",
         "descriptions": [
           {
-            "description": "(to) slip one’s mind <b>•</b> stressed out <b>•</b> I don’t know whether I’m coming or going <b>•</b> crunch time <b>•</b> (to) settle down <b>•</b> wiped out <b>•</b> (to) have a lot on one’s plate <b>•</b> (to) keep one’s head above water <b>•</b> (to) scale back one’s hours <b>•</b> hang in there <b>•</b> (to) keep one’s nose to the grindstone <b>•</b> (the) 80/20 rule <b>•</b>"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-21",
-            "label": "Explaining That You're Feeling Overworked"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "(to) slip one’s mind • stressed out • I don’t know whether I’m coming or going • crunch time • (to) settle down • wiped out • (to) have a lot on one’s plate • (to) keep one’s head above water • (to) scale back one’s hours • hang in there • (to) keep one’s nose to the grindstone • (the) 80/20 rule"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-21",
+                "label": "Explaining That You're Feeling Overworked"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -571,20 +575,20 @@
         "label": "Lessons 22",
         "descriptions": [
           {
-            "description": "What’s up? <b>•</b> my stomach (my head, my arm, etc…) is killing me <b>•</b> as sick as a dog <b>•</b> (to) call in sick <b>•</b> under the weather <b>•</b> (to) not feel so hot <b>•</b> there’s something going around <b>•</b> can’t afford to <b>•</b> up to one’s ears in work <b>•</b> (to) take it easy <b>•</b> in tip-top shape"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-22",
-            "label": "Calling In Sick"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "What’s up? • my stomach (my head, my arm, etc…) is killing me • as sick as a dog • (to) call in sick • under the weather • (to) not feel so hot • there’s something going around • can’t afford to • up to one’s ears in work • (to) take it easy • in tip-top shape"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-22",
+                "label": "Calling In Sick"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -596,20 +600,20 @@
         "label": "Lessons 23",
         "descriptions": [
           {
-            "description": "(to get or to have) under one’s belt <b>•</b> nothing to sneeze at <b>•</b> (to) know something inside and out <b>•</b> (a) different animal <b>•</b> no-brainer <b>•</b> (to) compare apples to oranges <b>•</b> (to) go back to the drawing board <b>•</b> in the bag <b>•</b> (to) jump through hoops <b>•</b> (to) miss the point <b>•</b> beef up"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-23",
-            "label": "Requesting A Bank Loan"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "(to get or to have) under one’s belt • nothing to sneeze at • (to) know something inside and out • (a) different animal • no-brainer • (to) compare apples to oranges • (to) go back to the drawing board • in the bag • (to) jump through hoops • (to) miss the point • beef up"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-23",
+                "label": "Requesting A Bank Loan"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -621,20 +625,20 @@
         "label": "Lessons 24",
         "descriptions": [
           {
-            "description": "(to) make a splash <b>•</b> (the) hard sell <b>•</b> (to) break one’s budget <b>•</b> more bang for the buck <b>•</b> no-brainer <b>•</b> (to) throw in something <b>•</b> at no extra charge <b>•</b> no can do <b>•</b> (to be) on a tight budget <b>•</b> off the record <b>•</b> happy medium <b>•</b> (to) nickel-and-dime <b>•</b> (to) stand firm"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-24",
-            "label": "Negotiating A Purchase"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "(to) make a splash • (the) hard sell • (to) break one’s budget • more bang for the buck • no-brainer • (to) throw in something • at no extra charge • no can do • (to be) on a tight budget • off the record • happy medium • (to) nickel-and-dime • (to) stand firm"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-24",
+                "label": "Negotiating A Purchase"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -646,20 +650,20 @@
         "label": "Lessons 25",
         "descriptions": [
           {
-            "description": "not so hot <b>•</b> (to) do a 180 <b>•</b> (to) get up to speed <b>•</b> (to) have a knack for something <b>•</b> (to) keep someone in the loop <b>•</b> (to) pride oneself on something <b>•</b> opportunity areas <b>•</b> (to) not be able to make heads or tails of <b>•</b> (to) take it from there <b>•</b> beyond the call of duty <b>•</b>"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-25",
-            "label": "Conducting A Performance Review"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "not so hot • (to) do a 180 • (to) get up to speed • (to) have a knack for something • (to) keep someone in the loop • (to) pride oneself on something • opportunity areas • (to) not be able to make heads or tails of • (to) take it from there • beyond the call of duty"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-25",
+                "label": "Conducting A Performance Review"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -677,20 +681,20 @@
         "label": "Lessons 26",
         "descriptions": [
           {
-            "description": "(to) hit the ground running <b>•</b> (an) “A” player <b>•</b> (to) earn one’s keep <b>•</b> (to) go the extra mile <b>•</b> (to) take someone into one’s confidence <b>•</b> (to) make the grade <b>•</b> (to) give someone their walking papers <b>•</b> leaving us <b>•</b> (to) break the news <b>•</b> go-getter <b>•</b> don’t push your luck <b>•</b> (to) play one’s cards right <b>•</b> down the road <b>•</b> corner office <b>•</b> Keep up the good work!"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-26",
-            "label": "Promoting An Employee"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "(to) hit the ground running • (an) “A” player • (to) earn one’s keep • (to) go the extra mile • (to) take someone into one’s confidence • (to) make the grade • (to) give someone their walking papers • leaving us • (to) break the news • go-getter • don’t push your luck • (to) play one’s cards right • down the road • corner office • Keep up the good work!"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-26",
+                "label": "Promoting An Employee"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -702,20 +706,20 @@
         "label": "Lessons 27",
         "descriptions": [
           {
-            "description": "one’s work has slipped <b>•</b> (to be) burned out <b>•</b> (to be) at the top of one’s game <b>•</b> (to) take credit for something <b>•</b> (to) not lift a finger <b>•</b> (to) read between the lines <b>•</b> (to) cut to the chase <b>•</b> (to) let someone go <b>•</b> (to) build something from the ground up <b>•</b> my hands are tied <b>•</b> (to) reduce headcount <b>•</b> when push comes to shove <b>•</b> no hard feelings <b>•</b> (to) soften the blow"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-27",
-            "label": "Firing Somebody"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "one’s work has slipped • (to be) burned out • (to be) at the top of one’s game • (to) take credit for something • (to) not lift a finger • (to) read between the lines • (to) cut to the chase • (to) let someone go • (to) build something from the ground up • my hands are tied • (to) reduce headcount • when push comes to shove • no hard feelings • (to) soften the blow"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-27",
+                "label": "Firing Somebody"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -727,20 +731,20 @@
         "label": "Lessons 28",
         "descriptions": [
           {
-            "description": "between jobs <b>•</b> (to) draw a blank <b>•</b> (to) buy out <b>•</b> (to) let someone go <b>•</b> people person <b>•</b> hands-off <b>•</b> (to) micro-manage <b>•</b> (to) put in place <b>•</b> (to) spark one’s interest <b>•</b> stepping stone <b>•</b> (to) get one’s foot in the door"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-28",
-            "label": "Job Interview 1"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "between jobs • (to) draw a blank • (to) buy out • (to) let someone go • people person • hands-off • (to) micro-manage • (to) put in place • (to) spark one’s interest • stepping stone • (to) get one’s foot in the door"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-28",
+                "label": "Job Interview 1"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -752,20 +756,20 @@
         "label": "Lessons 29",
         "descriptions": [
           {
-            "description": "(to) run one’s own show <b>•</b> (to) carve out a niche <b>•</b> (to) make money hand over fist <b>•</b> (to) go belly up <b>•</b> (to) snap up <b>•</b> for a song <b>•</b> (to) see the writing on the wall <b>•</b> start-up <b>•</b> (to) jump ship <b>•</b> (to) get something out of one’s system <b>•</b> not all it’s cracked up to be <b>•</b> (to) strike it rich <b>•</b> Tell me about it! <b>•</b> (to) lose one’s shirt <b>•</b> (to) take the ball and run with it"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-29",
-            "label": "Job Interview 2"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "(to) run one’s own show • (to) carve out a niche • (to) make money hand over fist • (to) go belly up • (to) snap up • for a song • (to) see the writing on the wall • start-up • (to) jump ship • (to) get something out of one’s system • not all it’s cracked up to be • (to) strike it rich • Tell me about it! • (to) lose one’s shirt • (to) take the ball and run with it"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-29",
+                "label": "Job Interview 2"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }
@@ -777,20 +781,20 @@
         "label": "Lessons 30",
         "descriptions": [
           {
-            "description": "(to) make an offer <b>•</b> nitty-gritty <b>•</b> the big picture <b>•</b> (to) weigh another offer <b>•</b> Is there any room to negotiate? <b>•</b> (to) have in mind <b>•</b> out of one’s range <b>•</b> (to) split the difference <b>•</b> (to) sleep on it <b>•</b> (to) touch base with <b>•</b> (to) get the ball rolling <b>•</b> (to) review an offer <b>•</b> (to) stand one’s ground"
-          }
-        ],
-        "hr": true,
-        "items": [
-          {
-            "svg": "book",
-            "link": "/specific-purposes/business/sbelaa/lesson-30",
-            "label": "Negotiating a Salary Offer"
-          },
-          {
-            "svg": "assignment",
-            "link": "#",
-            "label": "Practice"
+            "description": [
+              {
+                "text": "(to) make an offer • nitty-gritty • the big picture • (to) weigh another offer • Is there any room to negotiate? • (to) have in mind • out of one’s range • (to) split the difference • (to) sleep on it • (to) touch base with • (to) get the ball rolling • (to) review an offer • (to) stand one’s ground"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "/specific-purposes/business/sbelaa/lesson-30",
+                "label": "Negotiating a Salary Offer"
+              },
+              { "icon": "assignment", "link": "#", "label": "Practice" }
+            ]
           }
         ]
       }

@@ -21,7 +21,6 @@
     {
       "paragraphs": [
         {
-          "imgPosition": "left",
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/cover.avif",
           "imgAlt": "A new zealand adventure cover",
           "paragraph": [
@@ -33,11 +32,7 @@
       ]
     },
     {
-      "audioPlayer": [
-        {
-          "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/audio.mp3"
-        }
-      ]
+      "audioPlayer": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/audio.mp3"
     },
     {
       "ribbon": {

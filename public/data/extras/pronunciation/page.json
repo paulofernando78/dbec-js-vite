@@ -26,21 +26,25 @@
         "bgColor": "var(--gray-3)",
         "icon": "pages",
         "label": "Vowels",
-        "items": [
+        "descriptions": [
           {
-            "svg": "page",
-            "link": "/extras/pronunciation/letter-a-e/page",
-            "label": "Letter 'a' and 'e'"
-          },
-          {
-            "svg": "page",
-            "link": "/extras/pronunciation/letter-i-ea-ee/page",
-            "label": "Letters 'i' and 'ea', 'ee' "
-          },
-          {
-            "svg": "page",
-            "link": "/extras/pronunciation/letter-o-u/page",
-            "label": "Letter 'o' and 'u'"
+            "links": [
+              {
+                "icon": "page",
+                "link": "/extras/pronunciation/letter-a-e/page",
+                "label": "Letter 'a' and 'e'"
+              },
+              {
+                "icon": "page",
+                "link": "/extras/pronunciation/letter-i-ea-ee/page",
+                "label": "Letters 'i' and 'ea', 'ee' "
+              },
+              {
+                "icon": "page",
+                "link": "/extras/pronunciation/letter-o-u/page",
+                "label": "Letter 'o' and 'u'"
+              }
+            ]
           }
         ]
       }

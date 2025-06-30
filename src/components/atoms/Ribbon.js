@@ -70,7 +70,6 @@ class Ribbon extends HTMLElement {
       console.log('subIcon:', ribbon.subIcon, svgIcons[ribbon.subIcon]);
     }
 
-
     if (ribbon.subLabel) {
       const subLabel = document.createElement("span");
       subLabel.textContent = ribbon.subLabel;

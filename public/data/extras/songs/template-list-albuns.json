@@ -4,7 +4,7 @@
     "subtitle": "Songs",
     "descriptions": [
       {
-        "description": "..."
+        "description": [{ "text": "..." }]
       }
     ]
   },
@@ -14,11 +14,15 @@
         "bgColor": "var(--gray-3)",
         "icon": "pages",
         "label": "Album",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "..."
+            "links": [
+              {
+                "icon": "songs",
+                "link": "/extras/songs/",
+                "label": "..."
+              }
+            ]
           }
         ]
       }

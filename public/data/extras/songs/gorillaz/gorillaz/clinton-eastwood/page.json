@@ -16,9 +16,7 @@
   },
   "contents": [
     {
-      "videoPlayer": {
-        "src": "https://www.youtube.com/embed/1V_xRb0x9aw?list=RD1V_xRb0x9aw&start_radio=1"
-      }
+      "videoPlayer": "https://www.youtube.com/embed/1V_xRb0x9aw?list=RD1V_xRb0x9aw&start_radio=1"
     },
     {
       "paragraphs": [

@@ -9,11 +9,11 @@
         "bgColor": "var(--gray-3)",
         "icon": "pages",
         "label": "A",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/abba",
-            "label": "ABBA"
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/abba", "label": "ABBA" }
+            ]
           }
         ]
       }
@@ -22,11 +22,11 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "B",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "Bush"
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/", "label": "Bush" }
+            ]
           }
         ]
       }
@@ -35,11 +35,15 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "C",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/chevelle",
-            "label": "Chevelle"
+            "links": [
+              {
+                "icon": "songs",
+                "link": "/extras/songs/chevelle",
+                "label": "Chevelle"
+              }
+            ]
           }
         ]
       }
@@ -48,11 +52,15 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "D",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/deftones",
-            "label": "Deftones"
+            "links": [
+              {
+                "icon": "songs",
+                "link": "/extras/songs/deftones",
+                "label": "Deftones"
+              }
+            ]
           }
         ]
       }
@@ -61,11 +69,15 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "E",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/elton-john",
-            "label": "Elton John"
+            "links": [
+              {
+                "icon": "songs",
+                "link": "/extras/songs/elton-john",
+                "label": "Elton John"
+              }
+            ]
           }
         ]
       }
@@ -74,11 +86,11 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "F",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "..."
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+            ]
           }
         ]
       }
@@ -87,16 +99,20 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "G",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/gorillaz",
-            "label": "Gorillaz"
-          },
-          {
-            "svg": "songs",
-            "link": "/extras/songs/guns-and-roses",
-            "label": "Guns N' Roses"
+            "links": [
+              {
+                "icon": "songs",
+                "link": "/extras/songs/gorillaz",
+                "label": "Gorillaz"
+              },
+              {
+                "icon": "songs",
+                "link": "/extras/songs/guns-and-roses",
+                "label": "Guns N' Roses"
+              }
+            ]
           }
         ]
       }
@@ -105,11 +121,11 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "H",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "..."
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+            ]
           }
         ]
       }
@@ -118,11 +134,11 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "I",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "..."
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+            ]
           }
         ]
       }
@@ -131,11 +147,15 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "J",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/jamiroquai",
-            "label": "Jamiroquai"
+            "links": [
+              {
+                "icon": "songs",
+                "link": "/extras/songs/jamiroquai",
+                "label": "Jamiroquai"
+              }
+            ]
           }
         ]
       }
@@ -144,11 +164,11 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "K",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "..."
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+            ]
           }
         ]
       }
@@ -157,11 +177,15 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "L",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/linkin-park",
-            "label": "Linkin Park"
+            "links": [
+              {
+                "icon": "songs",
+                "link": "/extras/songs/linkin-park",
+                "label": "Linkin Park"
+              }
+            ]
           }
         ]
       }
@@ -170,11 +194,11 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "M",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "..."
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+            ]
           }
         ]
       }
@@ -183,11 +207,11 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "N",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "..."
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+            ]
           }
         ]
       }
@@ -196,11 +220,11 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "O",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "..."
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+            ]
           }
         ]
       }
@@ -209,11 +233,15 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "P",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/pearl-jam",
-            "label": "Pearl Jam"
+            "links": [
+              {
+                "icon": "songs",
+                "link": "/extras/songs/pearl-jam",
+                "label": "Pearl Jam"
+              }
+            ]
           }
         ]
       }
@@ -222,11 +250,11 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "Q",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "Queen"
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/", "label": "Queen" }
+            ]
           }
         ]
       }
@@ -235,16 +263,20 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "R",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "Red Hot Chili Peppers/red-hot-chili-peppers"
-          },
-          {
-            "svg": "songs",
-            "link": "/extras/songs/royal-blood",
-            "label": "Royal Blood"
+            "links": [
+              {
+                "icon": "songs",
+                "link": "/extras/songs/",
+                "label": "Red Hot Chili Peppers/red-hot-chili-peppers"
+              },
+              {
+                "icon": "songs",
+                "link": "/extras/songs/royal-blood",
+                "label": "Royal Blood"
+              }
+            ]
           }
         ]
       }
@@ -253,11 +285,15 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "S",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/soundgarden",
-            "label": "Soundgarden"
+            "links": [
+              {
+                "icon": "songs",
+                "link": "/extras/songs/soundgarden",
+                "label": "Soundgarden"
+              }
+            ]
           }
         ]
       }
@@ -266,11 +302,15 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "T",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "Tears for Fears"
+            "links": [
+              {
+                "icon": "songs",
+                "link": "/extras/songs/",
+                "label": "Tears for Fears"
+              }
+            ]
           }
         ]
       }
@@ -279,11 +319,11 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "U",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "..."
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+            ]
           }
         ]
       }
@@ -292,11 +332,11 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "...",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "V"
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/", "label": "V" }
+            ]
           }
         ]
       }
@@ -305,11 +345,11 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "W",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "..."
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+            ]
           }
         ]
       }
@@ -318,11 +358,11 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "X",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "..."
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+            ]
           }
         ]
       }
@@ -331,11 +371,11 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "Y",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "..."
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+            ]
           }
         ]
       }
@@ -344,11 +384,11 @@
       "card": {
         "bgColor": "var(--gray-3)",
         "label": "Z",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/",
-            "label": "..."
+            "links": [
+              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+            ]
           }
         ]
       }

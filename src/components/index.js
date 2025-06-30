@@ -6,12 +6,13 @@ import Ribbon from "./atoms/Ribbon"
 import Card from "./atoms/Card";
 import Paragraph from "./molecules/Paragraph";
 import VideoPlayer from "./atoms/VideoPlayer";
+import Image from "./atoms/Image";
 
 
 // Molecules
 import IconItem from "./molecules/IconItem"
 import Whiteboard from "./molecules/Whiteboard";
-import Image from "./atoms/Image";
+import Exercise from "./molecules/Exercise";
 
 //Organisms
 import Footer from "./organisms/Footer";
@@ -37,11 +38,12 @@ customElements.define("wc-ribbon", Ribbon);
 customElements.define("wc-card", Card)
 customElements.define("wc-paragraph", Paragraph)
 customElements.define("wc-video-player", VideoPlayer)
+customElements.define("wc-image", Image);
 
 // Molecules
 customElements.define("wc-icon-item", IconItem);
 customElements.define("wc-whiteboard", Whiteboard);
-customElements.define("wc-image", Image);
+customElements.define("wc-exercise", Exercise);
 
 // Organisms
 customElements.define("wc-footer", Footer);

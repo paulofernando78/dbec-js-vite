@@ -1,4 +1,4 @@
-import { login, logout, menu, darkMode, lightMode } from "@images/svg-imports";
+import { login, logout, menu, darkMode, lightMode, check, visibility, visibilityOff, reset } from "@images/svg-imports";
 
 const svgIcons = {
   login: login,
@@ -6,6 +6,10 @@ const svgIcons = {
   menu: menu,
   darkMode: darkMode,
   lightMode: lightMode,
+  check: check,
+  visibility: visibility,
+  visibilityOff: visibilityOff,
+  reset: reset
 };
 
 class Button extends HTMLElement {

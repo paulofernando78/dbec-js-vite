@@ -16,11 +16,25 @@
   },
   "contents": [
     {
+      "ribbon": {
+        "label": "Image"
+      }
+    },
+    {
+      "image": [
+        {
+          "src": ""
+        }
+      ]
+    },
+    {
+      "ribbon": { "label": "Paragraphs + left / right image" }
+    },
+    {
       "paragraphs": [
         {
-          "imgSrc": "",
+          "imgSrc": "/assets/images/general/cat1.jpg",
           "imgAlt": "imgAlt",
-          "imgPosition": "",
           "paragraph": [
             {
               "boldText": "boldText "
@@ -46,7 +60,7 @@
           ]
         },
         {
-          "imgSrc": "",
+          "imgSrc": "/assets/images/general/cat2.jpg",
           "imgAlt": "imgAlt",
           "imgPosition": "right",
           "paragraph": [
@@ -107,10 +121,102 @@
       ]
     },
     {
+      "ribbon": { "label": "Card" }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "",
+        "icon": "page",
+        "label": "Label",
+        "descriptions": [
+          {
+            "description": [
+              {
+                "bold": "bold "
+              },
+              {
+                "text": "text "
+              },
+              {
+                "mark": "mark"
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "https://example.com",
+                "label": "label"
+              },
+              {
+                "icon": "book",
+                "link": "https://example.com",
+                "label": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "ribbon": { "label": "Audio Player" }
+    },
+    {
       "audioPlayer": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/audio.mp3"
     },
     {
+      "ribbon": { "label": "Video Player (Iframe)" }
+    },
+    {
       "videoPlayer": "https://www.youtube.com/embed/f14IuqWLdwg"
+    },
+    {
+      "ribbon": { "label": "Radio exercise" }
+    },
+    {
+      "exercises": [
+        {
+          "radioExercises": [
+            {
+              "title": "Title",
+              "description": "Description",
+              "question": "1. Question ",
+              "options": [
+                {
+                  "option": "a) ...",
+                  "iscorrect": true
+                },
+                {
+                  "option": "b) ...",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) ...",
+                  "iscorrect": true
+                }
+              ]
+            },
+            {
+              "question": "2. Question",
+              "options": [
+                {
+                  "option": "a) ...",
+                  "iscorrect": true
+                },
+                {
+                  "option": "b) ...",
+                  "iscorrect": false
+                },
+                {
+                  "question": "c) ...",
+                  "iscorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

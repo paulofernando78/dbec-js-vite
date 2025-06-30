@@ -4,7 +4,7 @@
     "subtitle": "Songs",
     "descriptions": [
       {
-        "description": "ABBA"
+        "description": [{ "text": "ABBA" }]
       }
     ]
   },
@@ -14,11 +14,15 @@
         "bgColor": "var(--gray-3)",
         "icon": "pages",
         "label": "Voulez-Vous",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/abba/voulez-vous/gimme-gimme-gimme",
-            "label": "Gimme! Gimme! (A Man After Midnight)"
+            "links": [
+              {
+                "icon": "songs",
+                "link": "/extras/songs/abba/voulez-vous/gimme-gimme-gimme",
+                "label": "Gimme! Gimme! (A Man After Midnight)"
+              }
+            ]
           }
         ]
       }

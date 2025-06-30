@@ -5,9 +5,22 @@
   },
   "contents": [
     {
-      "ribbon": {
-        "icon": "page",
-        "label": "..."
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "",
+        "icon": "pages",
+        "label": "Misc",
+        "descriptions": [
+          {
+            "links": [
+              {
+                "icon": "page",
+                "link": "https://example.com",
+                "label": "English influence"
+              }
+            ]
+          }
+        ]
       }
     }
   ]

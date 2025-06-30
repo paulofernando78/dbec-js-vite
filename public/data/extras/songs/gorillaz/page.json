@@ -4,7 +4,7 @@
     "subtitle": "Songs",
     "descriptions": [
       {
-        "description": "Gorillaz"
+        "description": [{ "text": "Gorillaz" }]
       }
     ]
   },
@@ -14,11 +14,15 @@
         "bgColor": "var(--gray-3)",
         "icon": "pages",
         "label": "Gorillaz",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/gorillaz/gorillaz/clinton-eastwood",
-            "label": "Clinton Eastwood"
+            "links": [
+              {
+                "icon": "songs",
+                "link": "/extras/songs/gorillaz/gorillaz/clinton-eastwood",
+                "label": "Clinton Eastwood"
+              }
+            ]
           }
         ]
       }
