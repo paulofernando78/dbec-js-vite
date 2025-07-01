@@ -20,9 +20,10 @@ class Exercise extends HTMLElement {
     radio.forEach((item, idx) => {
       const container = document.createElement("div");
       container.classList.add("radio-exercise-group");
-      container.style.marginBottom = "1rem";
+      container.style.marginBottom = "var(--break-line)";
 
       const titleDescWrapper = document.createElement("div");
+      titleDescWrapper.style.marginBottom = "var(--break-line)"
       container.appendChild(titleDescWrapper);
 
       const title = document.createElement("p");
