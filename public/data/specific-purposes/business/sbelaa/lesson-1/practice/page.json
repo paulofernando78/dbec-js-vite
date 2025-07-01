@@ -1,0 +1,49 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "description": "Lesson 1"
+      },
+      {
+        "description": "Talking about a new project"
+      },
+      {
+        "description": "Practice"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "exercises": [
+        {
+          "radioExercises": [
+            {
+              "title": "Title",
+              "description": "Description",
+              "question": "1. ... ",
+              "options": [
+                {
+                  "option": "a) ...",
+                  "iscorrect": true
+                },
+                {
+                  "option": "b) ...",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) ...",
+                  "iscorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

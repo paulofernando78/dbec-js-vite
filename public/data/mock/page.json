@@ -181,37 +181,18 @@
             {
               "title": "Title",
               "description": "Description",
-              "question": "1. ... ",
+              "question": "1. Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
                   "iscorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem eius laudantium temporibus dolores explicabo pariatur nisi beatae, quia aperiam, exercitationem asperiores doloribus porro nobis in laborum accusamus provident deserunt obcaecati.",
                   "iscorrect": false
                 },
                 {
-                  "option": "c) ...",
-                  "iscorrect": false
-                }
-              ]
-            },
-            {
-              "title": "Title",
-              "description": "Description",
-              "question": "1. ... ",
-              "options": [
-                {
-                  "option": "a) ...",
-                  "iscorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "iscorrect": false
-                },
-                {
-                  "option": "c) ...",
+                  "option": "c) Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem eius laudantium temporibus dolores explicabo pariatur nisi beatae, quia aperiam, exercitationem asperiores doloribus porro nobis in laborum accusamus provident deserunt obcaecati.",
                   "iscorrect": false
                 }
               ]
