@@ -38,10 +38,30 @@ class Exercise extends HTMLElement {
         titleDescWrapper.appendChild(description);
       }
 
-      const question = document.createElement("p");
-      question.textContent = item.question;
-      question.style.fontWeight = "bold";
-      container.appendChild(question);
+      // Question
+      item.question.forEach((q) => {
+        const question = document.createElement("p");
+        
+        if (question.bold) {
+          const questionBold = document.createElement("span");
+          questionBold.style.fontWeight = "bold";
+          questionBold.textContent = q.questionBold;
+          question.appendChild(questionBold)
+        }
+        if (question.text) {
+          const questionText = document.createElement("span");
+          questionText.textContent = q.questionText;
+          question.appendChild(questionText)
+        }
+        
+        if (question.mark) {
+          const questionMark = document.createElement("mark");
+          questionMark.textContent = q.questionText;
+          question.appendChild(questionText)
+        }
+
+        container.appendChild(question);
+      });
 
       item.options.forEach((option) => {
         const optionWrapper = document.createElement("div");
@@ -50,6 +70,7 @@ class Exercise extends HTMLElement {
         optionWrapper.style.gap = "8px";
         optionWrapper.style.marginTop = "10px";
 
+        // input
         const input = document.createElement("input");
         input.style.appearance = "none";
         input.style.WebkitAppearance = "none"; // ???
@@ -61,7 +82,9 @@ class Exercise extends HTMLElement {
         input.style.minWidth = "20px";
         input.style.minHeight = "20px";
         input.style.borderRadius = "50%";
+        input.style.marginTop = "1px";
         input.style.marginLeft = "3px";
+
         input.style.position = "relative";
         input.style.bottom = "1px";
 
@@ -75,28 +98,29 @@ class Exercise extends HTMLElement {
           input.style.transform = "scale(1)";
         });
 
-        const point = document.createElement("span");
-        point.style.position = "absolute";
-        point.style.top = "1px";
-        point.style.left = "5px";
-        point.style.width = "15px";
-        point.style.height = "15px";
-        point.style.borderRadius = "50%";
-        point.style.backgroundColor = "#A8A8A8";
-        point.style.display = "none";
+        // dot
+        const dot = document.createElement("span");
+        dot.style.position = "absolute";
+        dot.style.top = "2px";
+        dot.style.left = "5px";
+        dot.style.width = "15px";
+        dot.style.height = "15px";
+        dot.style.borderRadius = "50%";
+        dot.style.backgroundColor = "#A8A8A8";
+        dot.style.display = "none";
 
         input.style.position = "relative";
 
         input.addEventListener("change", () => {
           const container = input.closest(".radio-exercise-group");
-          const allPoints = container.querySelectorAll(".radio-point");
-          allPoints.forEach((p) => (p.style.display = "none"));
-          point.style.display = "block";
+          const alldots = container.querySelectorAll(".radio-dot");
+          alldots.forEach((p) => (p.style.display = "none"));
+          dot.style.display = "block";
         });
 
-        point.classList.add("radio-point");
+        dot.classList.add("radio-dot");
         optionWrapper.style.position = "relative";
-        optionWrapper.appendChild(point);
+        optionWrapper.appendChild(dot);
 
         input.type = "radio";
         input.name = `radio-${idx}`;
@@ -146,14 +170,14 @@ class Exercise extends HTMLElement {
             resultSpan.style.display = "inline";
             svg.style.verticalAlign = "top";
             resultSpan.style.position = "relative";
-            resultSpan.style.bottom = "3px"
+            resultSpan.style.bottom = "3px";
           } else if (isChecked) {
             resultSpan.innerHTML = svgIcons.incorrect;
             const svg = resultSpan.querySelector("svg");
             resultSpan.style.display = "inline";
             svg.style.verticalAlign = "top";
             resultSpan.style.position = "relative";
-            resultSpan.style.bottom = "1px"
+            resultSpan.style.bottom = "0px";
           } else {
             resultSpan.innerHTML = "";
             resultSpan.style.display = "";
@@ -168,26 +192,28 @@ class Exercise extends HTMLElement {
     const resetButton = document.createElement("wc-button");
     resetButton.setAttribute("data-icon", "reset");
     resetButton.addEventListener("click", () => {
-  const containers = this.shadowRoot.querySelectorAll(".radio-exercise-group");
+      const containers = this.shadowRoot.querySelectorAll(
+        ".radio-exercise-group"
+      );
 
-  containers.forEach((container) => {
-    const inputs = container.querySelectorAll("input[type='radio']");
-    inputs.forEach((input) => {
-      input.checked = false;
-    });
+      containers.forEach((container) => {
+        const inputs = container.querySelectorAll("input[type='radio']");
+        inputs.forEach((input) => {
+          input.checked = false;
+        });
 
-    const results = container.querySelectorAll("span.result");
-    results.forEach((resultSpan) => {
-      resultSpan.innerHTML = "";
-      resultSpan.style.display = "none";
-    });
+        const results = container.querySelectorAll("span.result");
+        results.forEach((resultSpan) => {
+          resultSpan.innerHTML = "";
+          resultSpan.style.display = "none";
+        });
 
-    const points = container.querySelectorAll(".radio-point");
-    points.forEach((point) => {
-      point.style.display = "none";
+        const dots = container.querySelectorAll(".radio-dot");
+        dots.forEach((dot) => {
+          dot.style.display = "none";
+        });
+      });
     });
-  });
-});
 
     buttonsWrapper.append(checkAnswersButton, resetButton);
     this.shadowRoot.appendChild(buttonsWrapper);

@@ -181,7 +181,13 @@
             {
               "title": "Title",
               "description": "Description",
-              "question": "1. Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+              "question": [
+                {
+                  "bold": "1.",
+                  "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+                  "mark": "..."
+                }
+              ],
               "options": [
                 {
                   "option": "a) Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
