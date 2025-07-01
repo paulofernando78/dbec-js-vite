@@ -23,20 +23,172 @@
         {
           "radioExercises": [
             {
-              "title": "Title",
-              "description": "Description",
-              "question": "1. ... ",
+              "title": "Choose the most appropriate response to the following:"
+            },
+            {
+              "question": [
+                {
+                  "text": "1. We’d better be careful what we say in the office."
+                }
+              ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) That’s right. The walls have ears.",
                   "iscorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) Likely story!",
                   "iscorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "c) Right, I wasn’t born yesterday.",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. Eric, we’re going to have to ask you to take a 40 percent pay cut. But next year, I promise we’ll triple your salary."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) Lower your voice. The walls have ears!",
+                  "iscorrect": false
+                },
+                {
+                  "option": "b) Don’t get too excited. Chill out!",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) That’s hard to believe. I wasn’t born yesterday!",
+                  "iscorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. Jill is constantly flattering her boss and offering to do favors for him."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) Why doesn’t she butter him up instead?",
+                  "iscorrect": false
+                },
+                {
+                  "option": "b) Think twice before accepting favors from her.",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) That’s one way to climb the corporate ladder.",
+                  "iscorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "4. I’m giving a presentation to our CEO in a half an hour. I’m so nervous!"
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) Likely story.",
+                  "iscorrect": false
+                },
+                {
+                  "option": "b) Chill out!",
+                  "iscorrect": true
+                },
+                {
+                  "option": "c) You’re such a yes man.",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "5. I spent three hours helping Rick with his financial projections, and he didn’t even say thank you."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) You need to look at yourself in the mirror.",
+                  "iscorrect": false
+                },
+                {
+                  "option": "b) I’m sure you’ll think twice before helping him again.",
+                  "iscorrect": true
+                },
+                {
+                  "option": "c) He’s trying to climb the corporate ladder.",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. Maria works at least 60 hours a week at the law firm and always volunteers for extra work. She’s an excellent employee."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) She’ll definitely get ahead.",
+                  "iscorrect": true
+                },
+                {
+                  "option": "b) Let’s not talk about her behind her back.",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) It’s a dog-eat-dog world.",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "7. Paul was arrested for stealing millions of dollars from his company."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) I’m not surprised. He’s a real yes man.",
+                  "iscorrect": false
+                },
+                {
+                  "option": "b) That’s one way to climb the corporate ladder.",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) I don’t know how he can look at himself in the mirror.",
+                  "iscorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "8. You’re the best boss I’ve ever had and definitely the smartest!"
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) Are you just out for yourself?",
+                  "iscorrect": false
+                },
+                {
+                  "option": "b) Are you trying to butter me up?",
+                  "iscorrect": true
+                },
+                {
+                  "option": "c) Isn’t it a dog-eat-dog world?",
                   "iscorrect": false
                 }
               ]

@@ -1,0 +1,210 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "description": "Lesson 1"
+      },
+      {
+        "description": "Talking about a new project"
+      },
+      {
+        "description": "Practice"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "exercises": [
+        {
+          "radioExercises": [
+            {
+              "title": "Title",
+              "description": "Description"
+            },
+            {
+              "question": [
+                {
+                  "text": "1. ",
+                  "mark": "..."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) ...",
+                  "iscorrect": true
+                },
+                {
+                  "option": "b) ...",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) ...",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. ",
+                  "mark": "..."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) ...",
+                  "iscorrect": true
+                },
+                {
+                  "option": "b) ...",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) ...",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. ",
+                  "mark": "..."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) ...",
+                  "iscorrect": true
+                },
+                {
+                  "option": "b) ...",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) ...",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "4. ",
+                  "mark": "..."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) ...",
+                  "iscorrect": true
+                },
+                {
+                  "option": "b) ...",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) ...",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "5. ",
+                  "mark": "..."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) ...",
+                  "iscorrect": true
+                },
+                {
+                  "option": "b) ...",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) ...",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. ",
+                  "mark": "..."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) ...",
+                  "iscorrect": true
+                },
+                {
+                  "option": "b) ...",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) ...",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "7. ",
+                  "mark": "..."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) ...",
+                  "iscorrect": true
+                },
+                {
+                  "option": "b) ...",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) ...",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "8. ",
+                  "mark": "..."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) ...",
+                  "iscorrect": true
+                },
+                {
+                  "option": "b) ...",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) ...",
+                  "iscorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

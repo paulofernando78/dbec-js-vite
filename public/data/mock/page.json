@@ -186,7 +186,9 @@
           "radioExercises": [
             {
               "title": "Title",
-              "description": "Description",
+              "description": "Description"
+            },
+            {
               "question": [
                 {
                   "bold": "1. ",
@@ -201,22 +203,6 @@
                 },
                 {
                   "option": "b) Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem eius laudantium temporibus dolores explicabo pariatur nisi beatae, quia aperiam, exercitationem asperiores doloribus porro nobis in laborum accusamus provident deserunt obcaecati.",
-                  "iscorrect": false
-                },
-                {
-                  "option": "c) Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem eius laudantium temporibus dolores explicabo pariatur nisi beatae, quia aperiam, exercitationem asperiores doloribus porro nobis in laborum accusamus provident deserunt obcaecati.",
-                  "iscorrect": false
-                },
-                {
-                  "option": "c) Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem eius laudantium temporibus dolores explicabo pariatur nisi beatae, quia aperiam, exercitationem asperiores doloribus porro nobis in laborum accusamus provident deserunt obcaecati.",
-                  "iscorrect": false
-                },
-                {
-                  "option": "c) Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem eius laudantium temporibus dolores explicabo pariatur nisi beatae, quia aperiam, exercitationem asperiores doloribus porro nobis in laborum accusamus provident deserunt obcaecati.",
-                  "iscorrect": false
-                },
-                {
-                  "option": "c) Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem eius laudantium temporibus dolores explicabo pariatur nisi beatae, quia aperiam, exercitationem asperiores doloribus porro nobis in laborum accusamus provident deserunt obcaecati.",
                   "iscorrect": false
                 },
                 {
