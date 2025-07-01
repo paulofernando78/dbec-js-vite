@@ -16,7 +16,10 @@
   },
   "contents": [
     {
-      "videoPlayer": "https://www.youtube.com/embed/SRXH9AbT280"
+      "videoPlayer": {
+        "sticky": true,
+        "src": "https://www.youtube.com/embed/SRXH9AbT280"
+      }
     },
     {
       "paragraphs": [

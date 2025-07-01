@@ -15,11 +15,12 @@ class IconItem extends HTMLElement {
     .alignment {
       display: flex;
       gap: 5px;
+      // align-items: center;
+      height: 23px
     }
 
     .svg {
       min-width: 24px;
-      // margin-left: 4px
     }
 
     a {

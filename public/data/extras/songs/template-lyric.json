@@ -16,7 +16,10 @@
   },
   "contents": [
     {
-      "videoPlayer": "https://www.youtube.com/embed/"
+      "videoPlayer": {
+        "sticky": true,
+        "src": "https://www.youtube.com/embed/"
+      }
     },
     {
       "paragraphs": [

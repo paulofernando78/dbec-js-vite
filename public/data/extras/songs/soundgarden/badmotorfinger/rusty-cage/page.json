@@ -16,7 +16,10 @@
   },
   "contents": [
     {
-      "videoPlayer": "https://www.youtube.com/embed/pBZs_Py-1_0?list=RDpBZs_Py-1_0&start_radio=1"
+      "videoPlayer": {
+        "sticky": true,
+        "src": "https://www.youtube.com/embed/pBZs_Py-1_0?list=RDpBZs_Py-1_0&start_radio=1"
+      }
     },
     {
       "paragraphs": [

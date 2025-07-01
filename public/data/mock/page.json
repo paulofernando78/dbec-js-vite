@@ -163,13 +163,19 @@
       "ribbon": { "label": "Audio Player" }
     },
     {
-      "audioPlayer": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/audio.mp3"
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/audio.mp3"
+      }
     },
     {
       "ribbon": { "label": "Video Player (Iframe)" }
     },
     {
-      "videoPlayer": "https://www.youtube.com/embed/f14IuqWLdwg"
+      "videoPlayer": {
+        "sticky": true,
+        "src": "https://www.youtube.com/embed/f14IuqWLdwg"
+      }
     },
     {
       "ribbon": { "label": "Radio exercise" }
@@ -195,6 +201,22 @@
                 },
                 {
                   "option": "b) Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem eius laudantium temporibus dolores explicabo pariatur nisi beatae, quia aperiam, exercitationem asperiores doloribus porro nobis in laborum accusamus provident deserunt obcaecati.",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem eius laudantium temporibus dolores explicabo pariatur nisi beatae, quia aperiam, exercitationem asperiores doloribus porro nobis in laborum accusamus provident deserunt obcaecati.",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem eius laudantium temporibus dolores explicabo pariatur nisi beatae, quia aperiam, exercitationem asperiores doloribus porro nobis in laborum accusamus provident deserunt obcaecati.",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem eius laudantium temporibus dolores explicabo pariatur nisi beatae, quia aperiam, exercitationem asperiores doloribus porro nobis in laborum accusamus provident deserunt obcaecati.",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem eius laudantium temporibus dolores explicabo pariatur nisi beatae, quia aperiam, exercitationem asperiores doloribus porro nobis in laborum accusamus provident deserunt obcaecati.",
                   "iscorrect": false
                 },
                 {

@@ -32,7 +32,10 @@
       ]
     },
     {
-      "audioPlayer": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/audio.mp3"
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/audio.mp3"
+      }
     },
     {
       "ribbon": {

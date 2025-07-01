@@ -12,7 +12,7 @@ class Contents extends HTMLElement {
     const style = document.createElement("style");
     /*css*/
     style.textContent = `
-      wc-audio-player.audio-player {
+      wc-audio-player.sticky, wc-video-player.sticky {
         position: sticky;
         top: 0;
         z-index: 999
@@ -70,15 +70,23 @@ class Contents extends HTMLElement {
       // Audioplayer
       if (section.audioPlayer) {
         const audioPlayer = document.createElement("wc-audio-player");
-        audioPlayer.classList.add("audio-player");
-        audioPlayer.data = section.audioPlayer;
+
+        if (section.audioPlayer.sticky) {
+          audioPlayer.classList.add("sticky");
+        }
+        audioPlayer.data = section.audioPlayer.src;
         contentContainer.appendChild(audioPlayer);
       }
 
       // VideoPlayer
       if (section.videoPlayer) {
         const videoPlayer = document.createElement("wc-video-player");
-        videoPlayer.data = section.videoPlayer;
+        
+        if (section.videoPlayer.sticky) {
+          videoPlayer.classList.add("sticky");
+
+        }
+        videoPlayer.data = section.videoPlayer.src;
         contentContainer.appendChild(videoPlayer);
       }
 
@@ -87,7 +95,7 @@ class Contents extends HTMLElement {
           // Radio
           if (exerciseGroup.radioExercises) {
             const radioExercise = document.createElement("wc-exercise");
-            radioExercise.data = exerciseGroup.radioExercises
+            radioExercise.data = exerciseGroup.radioExercises;
             contentContainer.appendChild(radioExercise);
           }
 

@@ -7,10 +7,6 @@ class AudioPlayer extends HTMLElement {
   }
 
   set data(audioPlayer) {
-    this.render(audioPlayer);
-  }
-
-  render(audioPlayer) {
     /*css imports*/
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
