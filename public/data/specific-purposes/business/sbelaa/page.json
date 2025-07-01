@@ -531,7 +531,10 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-20",
                 "label": "Talking About A Brown Noser"
               },
-              { "icon": "assignment", "link": "#", "label": "Practice" }
+              { "icon": "assignment",
+                "link": "/specific-purposes/business/sbelaa/lesson-20/practice",
+               "label": "Practice"
+              }
             ]
           }
         ]
