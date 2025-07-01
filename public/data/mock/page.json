@@ -183,8 +183,8 @@
               "description": "Description",
               "question": [
                 {
-                  "bold": "1.",
-                  "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+                  "bold": "1. ",
+                  "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
                   "mark": "..."
                 }
               ],

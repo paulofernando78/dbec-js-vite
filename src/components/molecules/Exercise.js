@@ -39,29 +39,29 @@ class Exercise extends HTMLElement {
       }
 
       // Question
+      const question = document.createElement("p");
+
       item.question.forEach((q) => {
-        const question = document.createElement("p");
-        
-        if (question.bold) {
+        if (q.bold) {
           const questionBold = document.createElement("span");
+          questionBold.textContent = q.bold;
           questionBold.style.fontWeight = "bold";
-          questionBold.textContent = q.questionBold;
-          question.appendChild(questionBold)
+          question.appendChild(questionBold);
         }
-        if (question.text) {
+        if (q.text) {
           const questionText = document.createElement("span");
-          questionText.textContent = q.questionText;
-          question.appendChild(questionText)
-        }
-        
-        if (question.mark) {
-          const questionMark = document.createElement("mark");
-          questionMark.textContent = q.questionText;
-          question.appendChild(questionText)
+          questionText.textContent = q.text;
+          question.appendChild(questionText);
         }
 
-        container.appendChild(question);
+        if (q.mark) {
+          const questionMark = document.createElement("mark");
+          questionMark.textContent = q.mark;
+          question.appendChild(questionMark);
+        }
       });
+
+      container.appendChild(question);
 
       item.options.forEach((option) => {
         const optionWrapper = document.createElement("div");
