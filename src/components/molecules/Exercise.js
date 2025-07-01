@@ -1,4 +1,10 @@
 import cssImportsPath from "/src/css/imports.css?inline";
+import { correct, incorrect } from "@images/svg-imports";
+
+const svgIcons = {
+  correct: correct,
+  incorrect: incorrect,
+};
 class Exercise extends HTMLElement {
   constructor() {
     super();
@@ -13,26 +19,33 @@ class Exercise extends HTMLElement {
     // Radio
     radio.forEach((item, idx) => {
       const container = document.createElement("div");
-      container.style.marginBottom = ".625rem"
+      container.classList.add("radio-exercise-group");
+      container.style.marginBottom = "1rem";
+
+      const titleDescWrapper = document.createElement("div");
+      container.appendChild(titleDescWrapper);
 
       const title = document.createElement("p");
       title.textContent = item.title;
       title.style.fontWeight = "bold";
-      container.appendChild(title);
+      titleDescWrapper.appendChild(title);
 
       if (item.description) {
         const description = document.createElement("p");
         description.textContent = item.description;
         description.style.fontStyle = "italic";
-        container.appendChild(description);
+        titleDescWrapper.appendChild(description);
       }
 
-      item.options.forEach((option, qIdx) => {
+      const question = document.createElement("p");
+      question.textContent = item.question;
+      container.appendChild(question);
+
+      item.options.forEach((option,) => {
         const optionWrapper = document.createElement("div");
         optionWrapper.style.display = "flex";
         optionWrapper.style.alignItems = "center";
         optionWrapper.style.gap = "8px";
-        optionWrapper.style.marginTop = ".625rem";
 
         const input = document.createElement("input");
         input.type = "radio";
@@ -40,34 +53,62 @@ class Exercise extends HTMLElement {
         input.value = option.option;
         optionWrapper.appendChild(input);
 
-        const label = document.createElement("label")
+        const label = document.createElement("label");
         label.textContent = option.option;
-        optionWrapper.appendChild(label)
+        optionWrapper.appendChild(label);
 
         const result = document.createElement("span");
-        result.innerHTML = "Teste";
+        result.classList.add("result");
+        result.style.display = "none";
         optionWrapper.appendChild(result);
 
-        container.appendChild(optionWrapper)
+        container.appendChild(optionWrapper);
       });
 
-      const buttonsWrapper = document.createElement("div")
-      buttonsWrapper.style.display = "flex"
-      buttonsWrapper.style.gap = "8px"
-      buttonsWrapper.style.marginLeft = "3px"
-      buttonsWrapper.style.marginBlock = ".625rem"
-      const checkAnswersButton = document.createElement("wc-button")
-      checkAnswersButton.setAttribute("data-icon", "check")
-      const showAnswersButton = document.createElement("wc-button")
-      showAnswersButton.setAttribute("data-icon", "visibility")
-      const resetButton = document.createElement("wc-button")
-      resetButton.setAttribute("data-icon", "reset")
-      buttonsWrapper.append(checkAnswersButton, showAnswersButton, resetButton)
-
       this.shadowRoot.appendChild(container);
-      this.shadowRoot.appendChild(buttonsWrapper)
     });
 
+    const buttonsWrapper = document.createElement("div");
+    buttonsWrapper.style.display = "flex";
+    buttonsWrapper.style.gap = "8px";
+    buttonsWrapper.style.marginLeft = "3px";
+    buttonsWrapper.style.marginBlock = ".625rem";
+
+    const checkAnswersButton = document.createElement("wc-button");
+    checkAnswersButton.setAttribute("data-icon", "check");
+    checkAnswersButton.addEventListener("click", () => {
+      const containers = this.shadowRoot.querySelectorAll(".radio-exercise-group");
+      containers.forEach((container, idx) => {
+        const inputs = container.querySelectorAll("input[type='radio']");
+        const results = container.querySelectorAll("span.result");
+
+        inputs.forEach((input, i) => {
+          const isChecked = input.checked;
+          const isCorrect = radio[idx].options[i].iscorrect === true;
+
+          const resultSpan = results[i];
+          if (isChecked && isCorrect) {
+            resultSpan.innerHTML = svgIcons.correct;
+            resultSpan.style.display = "inline";
+          } else if (isChecked) {
+            resultSpan.innerHTML = svgIcons.incorrect;
+            resultSpan.style.display = "inline";
+          } else {
+            resultSpan.innerHTML = "";
+            resultSpan.style.display = "";
+          }
+        });
+      });
+    });
+
+    const showAnswersButton = document.createElement("wc-button");
+    showAnswersButton.setAttribute("data-icon", "visibility");
+
+    const resetButton = document.createElement("wc-button");
+    resetButton.setAttribute("data-icon", "reset");
+
+    buttonsWrapper.append(checkAnswersButton, showAnswersButton, resetButton);
+    this.shadowRoot.appendChild(buttonsWrapper);
 
     // Checkbox
 

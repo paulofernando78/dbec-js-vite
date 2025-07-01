@@ -84,11 +84,18 @@ class Contents extends HTMLElement {
 
       if (section.exercises) {
         section.exercises.forEach((exerciseGroup) => {
+          // Radio
           if (exerciseGroup.radioExercises) {
             const radioExercise = document.createElement("wc-exercise");
             radioExercise.data = exerciseGroup.radioExercises
             contentContainer.appendChild(radioExercise);
           }
+
+          // Checkbox
+
+          // Dropbox
+
+          // Fill in the blans
         });
       }
     });
