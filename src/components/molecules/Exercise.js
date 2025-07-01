@@ -138,13 +138,22 @@ class Exercise extends HTMLElement {
           const isChecked = input.checked;
           const isCorrect = radio[idx].options[i].iscorrect === true;
 
+          // Result
           const resultSpan = results[i];
           if (isChecked && isCorrect) {
             resultSpan.innerHTML = svgIcons.correct;
+            const svg = resultSpan.querySelector("svg");
             resultSpan.style.display = "inline";
+            svg.style.verticalAlign = "top";
+            resultSpan.style.position = "relative";
+            resultSpan.style.bottom = "3px"
           } else if (isChecked) {
             resultSpan.innerHTML = svgIcons.incorrect;
+            const svg = resultSpan.querySelector("svg");
             resultSpan.style.display = "inline";
+            svg.style.verticalAlign = "top";
+            resultSpan.style.position = "relative";
+            resultSpan.style.bottom = "1px"
           } else {
             resultSpan.innerHTML = "";
             resultSpan.style.display = "";
