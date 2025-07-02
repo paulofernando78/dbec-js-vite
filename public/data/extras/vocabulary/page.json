@@ -1,7 +1,8 @@
 {
   "whiteboard": {
     "title": "Extras",
-    "subtitle": "Vocabulary"
+    "subtitle": "Vocabulary",
+    "description": "English influence"
   },
   "contents": [
     {
@@ -15,7 +16,7 @@
             "links": [
               {
                 "icon": "page",
-                "link": "https://example.com",
+                "link": "/extras/vocabulary/english-influence",
                 "label": "English influence"
               }
             ]

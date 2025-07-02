@@ -52,7 +52,7 @@ class Whiteboard extends HTMLElement {
 
     whiteboard.descriptions?.forEach((desc) => {
       const description = document.createElement("p");
-      description.textContent = desc.description;
+      description.textContent = desc;
       this.container.appendChild(description);
     });
 
@@ -63,10 +63,6 @@ class Whiteboard extends HTMLElement {
     const americanEnglish = document.createElement("span");
     americanEnglish.textContent = whiteboard.americanEnglish ?? "";
     this.container.appendChild(americanEnglish);
-
-    const britishEnglish = document.createElement("span");
-    britishEnglish.textContent = whiteboard.britishEnglish ?? "";
-    this.container.appendChild(britishEnglish);
   }
 }
 

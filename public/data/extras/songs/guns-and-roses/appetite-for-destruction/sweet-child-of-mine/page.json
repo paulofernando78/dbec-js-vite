@@ -2,22 +2,12 @@
   "whiteboard": {
     "title": "Extras",
     "subtitle": "Songs",
-    "descriptions": [
-      {
-        "description": "Guns N' Roses"
-      },
-      {
-        "description": "Appetite For Destruction"
-      },
-      {
-        "description": "Sweet Child O' Mine"
-      }
-    ]
+    "descriptions": [ "Guns N' Roses", "Appetite For Destruction", "Sweet Child O' Mine"]
   },
   "contents": [
     {
       "videoPlayer": {
-        "src": "https://www.youtube.com/embed/"
+        "src": "https://www.youtube.com/embed/1w7OgIMMRc4?list=RD1w7OgIMMRc4&start_radio=1"
       }
     },
     {
@@ -25,11 +15,201 @@
         {
           "paragraph": [
             {
-              "text": "..."
+              "text": "Sweet Child O' Mine"
             },
             {
               "displayBlock": true,
-              "ptText": "..."
+              "ptText": "Minha Doce Criança"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "She's got a smile that it seems to me"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Ela tem um sorriso que parece"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Reminds me of childhood memories"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Me lembrar de memórias de infância"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Where everything was as fresh"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Onde tudo era fresco"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "As the bright blue sky"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Como o brilhante céu azul"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Now and then when I see her face"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Às vezes, quando eu vejo seu rosto"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "She takes me away to that special place"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Ela me leva para aquele lugar especial"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "And if I stare too long"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "E se eu olhar por muito tempo"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "I'd probably break down and cry"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Provavelmente perderia o controle e choraria"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "2x "
+            },
+            {
+              "text": "Oh, oh, oh, sweet child of mine"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Oh, oh, oh, minha doce criança"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "She's got eyes of the bluest skies"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Ela tem olhos iguais aos céus mais azuis"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "As if they thought of rain"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Como se eles pensassem na chuva"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "I hate to look into those eyes"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Odeio olhar para dentro daqueles olhos"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "And see an ounce of pain"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "E ver um pingo de dor"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Her hair reminds me of a warm safe place"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "O cabelo dela me lembra um refúgio aconchegante"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Where, as a child, I'd hide"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Onde, quando criança, eu me escondia"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "And pray for the thunder and the rain"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "E rezava para que o trovão e a chuva"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "To quietly pass me by"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Passassem quietos por mim"
             }
           ]
         }

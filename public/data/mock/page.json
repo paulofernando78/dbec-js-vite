@@ -2,17 +2,9 @@
   "whiteboard": {
     "title": "title",
     "subtitle": "subtitle",
-    "descriptions": [
-      {
-        "description": "description"
-      },
-      {
-        "description": "description"
-      },
-      {
-        "description": "description"
-      }
-    ]
+    "descriptions": ["description", "description","description"],
+    "time": "10:00",
+    "americanEnglish": "aaa"
   },
   "contents": [
     {

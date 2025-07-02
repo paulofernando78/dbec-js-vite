@@ -2,11 +2,7 @@
   "whiteboard": {
     "title": "Extras",
     "subtitle": "Songs",
-    "descriptions": [
-      {
-        "description": "..."
-      }
-    ]
+    "descriptions": [ "..." ]
   },
   "contents": [
     {
@@ -14,11 +10,15 @@
         "bgColor": "var(--gray-3)",
         "icon": "pages",
         "label": "Appetite For Destruction",
-        "items": [
+        "descriptions": [
           {
-            "svg": "songs",
-            "link": "/extras/songs/guns-and-roses/appetite-for-destruction/sweet-child-of-mine",
+            "links": [
+              {
+                "icon": "songs",
+                "link": "/extras/songs/guns-and-roses/appetite-for-destruction/sweet-child-of-mine",
             "label": "Sweet Child O' Mine"
+              }
+            ]
           }
         ]
       }
