@@ -4,10 +4,11 @@
     "subtitle": "Intermediate",
     "descriptions": [
       {
+        {"icon": "page",
         "description": "Lesson 43"
       },
       {
-        "description": "Classwork"
+        "icon": "presentation", "description": "Classwork"
       },
       {
         "description": "Review lessons 23-41 + Test"

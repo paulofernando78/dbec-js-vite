@@ -4,10 +4,11 @@
     "subtitle": "Elementary",
     "descriptions": [
       {
+        {"icon": "page",
         "description": "Lesson 10"
       },
       {
-        "description": "Classwork"
+        "icon": "presentation", "description": "Classwork"
       },
       {
         "description": "Do you play the guitar? (Cycle 2)"

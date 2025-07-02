@@ -4,12 +4,17 @@
     "subtitle": "Audiobooks",
     "descriptions": [
       {
+        "icon": "pages",
         "description": "Starter (Pre-A1)"
       },
       {
+        "icon": "page",
         "description": "A New Zealand Adventure"
+        
       }
-    ]
+    ],
+    "time": "8:05",
+    "language": "British"
   },
   "contents": [
     {

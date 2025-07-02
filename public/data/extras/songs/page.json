@@ -12,7 +12,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/abba", "label": "ABBA" }
+              { "icon": "song", "link": "/extras/songs/abba", "label": "ABBA" }
             ]
           }
         ]
@@ -25,7 +25,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/", "label": "Bush" }
+              { "icon": "song", "link": "/extras/songs/", "label": "Bush" }
             ]
           }
         ]
@@ -39,7 +39,7 @@
           {
             "links": [
               {
-                "icon": "songs",
+                "icon": "song",
                 "link": "/extras/songs/chevelle",
                 "label": "Chevelle"
               }
@@ -56,7 +56,7 @@
           {
             "links": [
               {
-                "icon": "songs",
+                "icon": "song",
                 "link": "/extras/songs/deftones",
                 "label": "Deftones"
               }
@@ -73,7 +73,7 @@
           {
             "links": [
               {
-                "icon": "songs",
+                "icon": "song",
                 "link": "/extras/songs/elton-john",
                 "label": "Elton John"
               }
@@ -89,7 +89,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+              { "icon": "song", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -103,12 +103,12 @@
           {
             "links": [
               {
-                "icon": "songs",
+                "icon": "song",
                 "link": "/extras/songs/gorillaz",
                 "label": "Gorillaz"
               },
               {
-                "icon": "songs",
+                "icon": "song",
                 "link": "/extras/songs/guns-and-roses",
                 "label": "Guns N' Roses"
               }
@@ -124,7 +124,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+              { "icon": "song", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -137,7 +137,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+              { "icon": "song", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -151,7 +151,7 @@
           {
             "links": [
               {
-                "icon": "songs",
+                "icon": "song",
                 "link": "/extras/songs/jamiroquai",
                 "label": "Jamiroquai"
               }
@@ -167,7 +167,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+              { "icon": "song", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -181,7 +181,7 @@
           {
             "links": [
               {
-                "icon": "songs",
+                "icon": "song",
                 "link": "/extras/songs/linkin-park",
                 "label": "Linkin Park"
               }
@@ -197,7 +197,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+              { "icon": "song", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -210,7 +210,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+              { "icon": "song", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -223,7 +223,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+              { "icon": "song", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -237,7 +237,7 @@
           {
             "links": [
               {
-                "icon": "songs",
+                "icon": "song",
                 "link": "/extras/songs/pearl-jam",
                 "label": "Pearl Jam"
               }
@@ -253,7 +253,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/", "label": "Queen" }
+              { "icon": "song", "link": "/extras/songs/", "label": "Queen" }
             ]
           }
         ]
@@ -267,12 +267,12 @@
           {
             "links": [
               {
-                "icon": "songs",
+                "icon": "song",
                 "link": "/extras/songs/",
                 "label": "Red Hot Chili Peppers/red-hot-chili-peppers"
               },
               {
-                "icon": "songs",
+                "icon": "song",
                 "link": "/extras/songs/royal-blood",
                 "label": "Royal Blood"
               }
@@ -289,7 +289,7 @@
           {
             "links": [
               {
-                "icon": "songs",
+                "icon": "song",
                 "link": "/extras/songs/soundgarden",
                 "label": "Soundgarden"
               }
@@ -306,7 +306,7 @@
           {
             "links": [
               {
-                "icon": "songs",
+                "icon": "song",
                 "link": "/extras/songs/",
                 "label": "Tears for Fears"
               }
@@ -322,7 +322,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+              { "icon": "song", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -335,7 +335,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/", "label": "V" }
+              { "icon": "song", "link": "/extras/songs/", "label": "V" }
             ]
           }
         ]
@@ -348,7 +348,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+              { "icon": "song", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -361,7 +361,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+              { "icon": "song", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -374,7 +374,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+              { "icon": "song", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -387,7 +387,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "songs", "link": "/extras/songs/", "label": "..." }
+              { "icon": "song", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]

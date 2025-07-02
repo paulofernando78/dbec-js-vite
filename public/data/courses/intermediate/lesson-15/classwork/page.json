@@ -4,10 +4,11 @@
     "subtitle": "Intermediate",
     "descriptions": [
       {
+        {"icon": "page",
         "description": "Lesson 15"
       },
       {
-        "description": "Classwork"
+        "icon": "presentation", "description": "Classwork"
       },
       {
         "description": "That needs fixing (Cycle 2)"

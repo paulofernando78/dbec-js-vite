@@ -4,10 +4,11 @@
     "subtitle": "Elementary",
     "descriptions": [
       {
+        {"icon": "page",
         "description": "Lesson 42"
       },
       {
-        "description": "Classwork"
+        "icon": "presentation", "description": "Classwork"
       },
       {
         "description": "Review lessons 38-41 + Quiz"

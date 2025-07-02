@@ -4,10 +4,11 @@
     "subtitle": "Intermediate",
     "descriptions": [
       {
+        {"icon": "page",
         "description": "Lesson 34"
       },
       {
-        "description": "Homework"
+        "icon": "page", "description": "Homework •"
       },
       {
         "description": "What might have been (Cycle 2)"

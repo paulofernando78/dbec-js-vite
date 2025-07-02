@@ -4,10 +4,11 @@
     "subtitle": "Pre-intermediate",
     "descriptions": [
       {
+        {"icon": "page",
         "description": "Lesson 15"
       },
       {
-        "description": "Classwork"
+        "icon": "presentation", "description": "Classwork"
       },
       {
         "description": "Sure! I'll do it. (Cycle 2)"

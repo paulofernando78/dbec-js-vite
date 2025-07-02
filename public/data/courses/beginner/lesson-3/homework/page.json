@@ -3,9 +3,7 @@
     "title": "Courses",
     "subtitle": "Beginner",
     "descriptions": [
-      {
-        "description": "Lesson 3"
-      },
+      { "icon": "page", "description": "Lesson 3" },
       {
         "description": "Homework"
       },

@@ -4,10 +4,11 @@
     "subtitle": "Intermediate",
     "descriptions": [
       {
+        {"icon": "page",
         "description": "Lesson 29"
       },
       {
-        "description": "Homework"
+        "icon": "page", "description": "Homework •"
       },
       {
         "description": "Rites of passage (Cycle 2)"

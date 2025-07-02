@@ -4,10 +4,11 @@
     "subtitle": "Pre-intermediate",
     "descriptions": [
       {
+        {"icon": "page",
         "description": "Lesson 13"
       },
       {
-        "description": "Classwork"
+        "icon": "presentation", "description": "Classwork"
       },
       {
         "description": "Hit the road! (Cycle 2)"

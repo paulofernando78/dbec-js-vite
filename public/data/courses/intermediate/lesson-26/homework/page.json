@@ -4,10 +4,11 @@
     "subtitle": "Intermediate",
     "descriptions": [
       {
+        {"icon": "page",
         "description": "Lesson 26"
       },
       {
-        "description": "Homework"
+        "icon": "page", "description": "Homework •"
       },
       {
         "description": "A matter of time (Cycle 2)"

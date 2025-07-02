@@ -183,7 +183,6 @@ class Exercise extends HTMLElement {
             resultSpan.style.display = "inline";
             svg.style.verticalAlign = "top";
             resultSpan.style.position = "relative";
-            resultSpan.style.bottom = "0px";
           } else {
             resultSpan.innerHTML = "";
             resultSpan.style.display = "";

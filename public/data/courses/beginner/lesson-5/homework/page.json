@@ -3,11 +3,10 @@
     "title": "Courses",
     "subtitle": "Beginner",
     "descriptions": [
+      { "icon": "page", "description": "Lesson 5" },
       {
-        "description": "Lesson 5"
-      },
-      {
-        "description": "Homework"
+        "icon": "page",
+        "description": "Homework •"
       },
       {
         "description": "Where are my keys? (Cycle 2)"

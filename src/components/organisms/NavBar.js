@@ -24,7 +24,7 @@ class NavBar extends HTMLElement {
         overflow: auto
       }
 
-      li.songs-item {
+      li.song-item {
         position: relative;
         top: 5px
       }
@@ -88,10 +88,10 @@ class NavBar extends HTMLElement {
         label: "Pronunciation",
       },
       {
-        icon: "songs",
+        icon: "song",
         link: "/extras/songs",
         label: "Songs",
-        variant: "songs-svg",
+        variant: "song-svg",
       },
       { title: "SPECIFIC PURPOSES" },
       {
@@ -119,8 +119,8 @@ class NavBar extends HTMLElement {
         ul.appendChild(title)
       } else {
         const li = document.createElement("li")
-        if (item.variant === "songs-item") {
-          li.classList.add("songs-item")
+        if (item.variant === "song-item") {
+          li.classList.add("song-item")
         }
 
         const iconItem = document.createElement("wc-icon-item");

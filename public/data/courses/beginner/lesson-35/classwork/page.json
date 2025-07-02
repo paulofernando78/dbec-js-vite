@@ -4,10 +4,11 @@
     "subtitle": "Beginner",
     "descriptions": [
       {
+        "icon": "page",
         "description": "Lesson 35"
       },
       {
-        "description": "Classwork"
+        "icon": "presentation", "description": "Classwork"
       },
       {
         "description": "I had a good time. (Cycle 1)"

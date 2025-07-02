@@ -4,10 +4,11 @@
     "subtitle": "Beginner",
     "descriptions": [
       {
+        "icon": "page",
         "description": "Lesson 25"
       },
       {
-        "description": "Classwork"
+        "icon": "presentation", "description": "Classwork"
       },
       {
         "description": "What sports do you like? (Cycle 1)"

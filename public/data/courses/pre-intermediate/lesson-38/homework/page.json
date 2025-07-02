@@ -4,10 +4,11 @@
     "subtitle": "Pre-intermediate",
     "descriptions": [
       {
+        {"icon": "page",
         "description": "Lesson 38"
       },
       {
-        "description": "Homework"
+        "icon": "page", "description": "Homework •"
       },
       {
         "description": "I wouldn't do that? (Cycle 1)"

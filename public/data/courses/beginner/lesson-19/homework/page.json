@@ -4,10 +4,11 @@
     "subtitle": "Beginner",
     "descriptions": [
       {
+        "icon": "page",
         "description": "Lesson 19"
       },
       {
-        "description": "Homework"
+        "icon": "page", "description": "Homework •"
       },
       {
         "description": "Where do you work? (Cycle 1)"

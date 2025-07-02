@@ -4,10 +4,11 @@
     "subtitle": "Beginner",
     "descriptions": [
       {
+        "icon": "page",
         "description": "Lesson 24"
       },
       {
-        "description": "Classwork"
+        "icon": "presentation", "description": "Classwork"
       },
       {
         "description": "I always eat breakfast. (Cycle 2)"

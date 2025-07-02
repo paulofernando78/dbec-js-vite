@@ -4,10 +4,11 @@
     "subtitle": "Pre-intermediate",
     "descriptions": [
       {
+        {"icon": "page",
         "description": "Lesson 11"
       },
       {
-        "description": "Classwork"
+        "icon": "presentation", "description": "Classwork"
       },
       {
         "description": "Review lessons 7-10 + Quiz"

@@ -4,13 +4,15 @@
     "subtitle": "Beginner",
     "descriptions": [
       {
+        "icon": "page",
         "description": "Lesson 3"
       },
       {
-        "description": "Classwork"
+        "icon": "presentation",
+        "description": "Classwork • What's your name (Cycle 2)"
       },
       {
-        "description": "What's your name (Cycle 2)"
+        "description": ""
       }
     ]
   },

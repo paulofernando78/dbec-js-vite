@@ -2,7 +2,11 @@
   "whiteboard": {
     "title": "Extras",
     "subtitle": "Songs",
-    "descriptions": [ "..." ]
+    "descriptions": [
+      {
+        "description": "Gun N' Roses"
+      }
+    ]
   },
   "contents": [
     {
@@ -14,9 +18,9 @@
           {
             "links": [
               {
-                "icon": "songs",
+                "icon": "song",
                 "link": "/extras/songs/guns-and-roses/appetite-for-destruction/sweet-child-of-mine",
-            "label": "Sweet Child O' Mine"
+                "label": "Sweet Child O' Mine"
               }
             ]
           }

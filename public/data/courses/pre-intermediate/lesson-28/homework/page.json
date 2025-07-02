@@ -4,10 +4,11 @@
     "subtitle": "Pre-intermediate",
     "descriptions": [
       {
+        {"icon": "page",
         "description": "Lesson 28"
       },
       {
-        "description": "Homework"
+        "icon": "page", "description": "Homework •"
       },
       {
         "description": "It's really worth seeing! (Cycle 1)"

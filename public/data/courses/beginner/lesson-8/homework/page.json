@@ -4,13 +4,12 @@
     "subtitle": "Beginner",
     "descriptions": [
       {
+        "icon": "page",
         "description": "Lesson 8"
       },
       {
-        "description": "Homework"
-      },
-      {
-        "description": "Where are you from? (Cycle 2)"
+        "icon": "assignment",
+        "description": "Homework • "
       }
     ]
   },

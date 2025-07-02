@@ -4,10 +4,11 @@
     "subtitle": "Elementary",
     "descriptions": [
       {
+        {"icon": "page",
         "description": "Lesson 7"
       },
       {
-        "description": "Homework"
+        "icon": "page", "description": "Homework •"
       },
       {
         "description": "How much are these? (Cycle 1)"

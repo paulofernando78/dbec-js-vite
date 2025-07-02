@@ -4,10 +4,11 @@
     "subtitle": "Elementary",
     "descriptions": [
       {
+        {"icon": "page",
         "description": "Lesson 31"
       },
       {
-        "description": "Homework"
+        "icon": "page", "description": "Homework •"
       },
       {
         "description": "It's important to get rest (Cycle 2)"

@@ -1,6 +1,6 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-import { book, books, schedule, page, pages, songs, snippet } from "@images/svg-imports";
+import { book, books, schedule, page, pages, song, snippet } from "@images/svg-imports";
 
 const svgIcons = {
   book,
@@ -8,7 +8,7 @@ const svgIcons = {
   schedule,
   page,
   pages,
-  songs,
+  song,
   snippet
 };
 class Ribbon extends HTMLElement {

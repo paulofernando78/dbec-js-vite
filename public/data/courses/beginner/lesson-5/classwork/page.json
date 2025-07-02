@@ -3,10 +3,9 @@
     "title": "Courses",
     "subtitle": "Beginner",
     "descriptions": [
+      { "icon": "page", "description": "Lesson 5" },
       {
-        "description": "Lesson 5"
-      },
-      {
+        "icon": "presentation",
         "description": "Classwork"
       },
       {

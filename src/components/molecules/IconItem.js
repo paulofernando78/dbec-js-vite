@@ -16,20 +16,18 @@ class IconItem extends HTMLElement {
       display: flex;
       gap: 5px;
       // align-items: center;
+      height: auto!important
     }
 
     .svg {
       min-width: 24px;
+      position: relative;
+      bottom: 1px
     }
 
-    a {
+    .svg.song-svg {
       position: relative;
-      top: 1px
-    }
-
-    .svg.songs-svg {
-      position: relative;
-      top: 2px
+      top: 4px
     }
   `;
     this.shadowRoot.appendChild(css);
@@ -45,11 +43,20 @@ class IconItem extends HTMLElement {
       svgSpan.innerHTML = svgIcons[icon] || "";
     });
 
-    const anchor = document.createElement("a");
-    anchor.href = link;
-    anchor.textContent = label;
+    let textElement;
 
-    li.append(svgSpan, anchor);
+    if (link && label) {
+      const anchor = document.createElement("a");
+      anchor.href = link;
+      anchor.textContent = label;
+      textElement = anchor;
+    } else {
+      const desc = document.createElement("p");
+      desc.textContent = label;
+      textElement = desc
+    }
+
+    li.append(svgSpan, textElement);
     this.shadowRoot.append(cssImports, css, li);
   }
 }

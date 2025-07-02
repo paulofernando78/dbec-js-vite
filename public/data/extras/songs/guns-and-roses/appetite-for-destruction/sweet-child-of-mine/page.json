@@ -2,11 +2,22 @@
   "whiteboard": {
     "title": "Extras",
     "subtitle": "Songs",
-    "descriptions": [ "Guns N' Roses", "Appetite For Destruction", "Sweet Child O' Mine"]
+    "descriptions": [
+      {
+        "description": "Guns N' Roses"
+      },
+      {
+        "description": "Appetite For Destruction"
+      },
+      {
+        "description": "Sweet Child O' Mine"
+      }
+    ]
   },
   "contents": [
     {
       "videoPlayer": {
+        "sticky": true,
         "src": "https://www.youtube.com/embed/1w7OgIMMRc4?list=RD1w7OgIMMRc4&start_radio=1"
       }
     },
@@ -114,14 +125,22 @@
         {
           "paragraph": [
             {
-              "boldText": "2x "
-            },
-            {
               "text": "Oh, oh, oh, sweet child of mine"
             },
             {
               "displayBlock": true,
               "ptText": "Oh, oh, oh, minha doce criança"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Oh, oh, oh, sweet love of mine"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Oh, oh, oh, meu doce amor"
             }
           ]
         },
@@ -210,6 +229,166 @@
             {
               "displayBlock": true,
               "ptText": "Passassem quietos por mim"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Oh, oh, oh, sweet child of mine"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Oh, oh, oh, minha doce criança"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Oh, oh, oh, sweet love of mine"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Oh, oh, oh, meu doce amor"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Oh, oh, oh, sweet child of mine"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Oh, oh, oh, minha doce criança"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Oh, oh, oh, sweet love of mine"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Oh, oh, oh, meu doce amor"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Guitar solo"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Repeat 3x"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Where do we go?"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Para onde vamos?"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Where do we go now?"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Para onde vamos agora?"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Where do we go?"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Para onde vamos?"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Ai ai ai ai ai ..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Where do we go now?"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Para onde vamos agora?"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Repeat 3x"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Where do we go?"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Para onde vamos?"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Where do we go now?"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Para onde vamos agora?"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Sweet child"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Doce criança"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Sweet child of mine"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Minha doce criança"
             }
           ]
         }

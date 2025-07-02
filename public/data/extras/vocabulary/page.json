@@ -2,7 +2,11 @@
   "whiteboard": {
     "title": "Extras",
     "subtitle": "Vocabulary",
-    "description": "English influence"
+    "description": 
+    {
+      "icon": "page",
+      "description": "English influence"
+    }
   },
   "contents": [
     {
@@ -12,6 +16,24 @@
         "icon": "pages",
         "label": "Misc",
         "descriptions": [
+          {
+            "links": [
+              {
+                "icon": "page",
+                "link": "/extras/vocabulary/homographs",
+                "label": "Homographs"
+              }
+            ]
+          },
+          {
+            "links": [
+              {
+                "icon": "page",
+                "link": "/extras/vocabulary/homophones",
+                "label": "Homophones"
+              }
+            ]
+          },
           {
             "links": [
               {

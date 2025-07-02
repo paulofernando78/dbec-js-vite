@@ -3,14 +3,10 @@
     "title": "Courses",
     "subtitle": "Beginner",
     "descriptions": [
+      { "icon": "page", "description": "Lesson 2" },
       {
-        "description": "Lesson 2"
-      },
-      {
-        "description": "Classwork"
-      },
-      {
-        "description": "What's your name (Cycle 1)"
+        "icon": "presentation",
+        "description": "Classwork • What's your name (Cycle 1)"
       }
     ]
   },

@@ -1,15 +1,15 @@
 {
   "whiteboard": {
     "title": "Extras",
-    "subtitle": "Vocabulary"
+    "subtitle": "Vocabulary",
+    "descriptions": [
+      {
+        "icon": "page",
+        "description": "English influence"
+      }
+    ]
   },
   "contents": [
-    {
-      "ribbon": {
-        "icon": "page",
-        "label": "English influence"
-      }
-    },
     {
       "paragraphs": [
         {
@@ -22,6 +22,20 @@
             },
             {
               "ptText": "agressor",
+              "displayBlock": true
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "altar",
+              "phonetics": "...",
+              "partOfSpeech": "noun",
+              "displayBlock": true
+            },
+            {
+              "ptText": "altar",
               "displayBlock": true
             }
           ]

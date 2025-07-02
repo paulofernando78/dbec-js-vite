@@ -3,14 +3,10 @@
     "title": "Courses",
     "subtitle": "Beginner",
     "descriptions": [
+      { "icon": "page", "description": "Lesson 3" },
       {
-        "description": "Lesson 23"
-      },
-      {
-        "description": "Flipped classroom"
-      },
-      {
-        "description": "What's your name (Cycle 2)"
+        "icon": "eye",
+        "description": "Flipped classroom • What's your name (Cycle 2)"
       }
     ]
   },

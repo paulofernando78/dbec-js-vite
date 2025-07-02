@@ -4,7 +4,7 @@
     "subtitle": "Songs",
     "descriptions": [
       {
-        "description": [{ "text": "ABBA" }]
+        "description": "ABBA"
       }
     ]
   },
@@ -18,7 +18,7 @@
           {
             "links": [
               {
-                "icon": "songs",
+                "icon": "song",
                 "link": "/extras/songs/abba/voulez-vous/gimme-gimme-gimme",
                 "label": "Gimme! Gimme! (A Man After Midnight)"
               }

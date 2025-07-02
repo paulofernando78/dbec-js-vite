@@ -2,9 +2,32 @@
   "whiteboard": {
     "title": "title",
     "subtitle": "subtitle",
-    "descriptions": ["description", "description","description"],
-    "time": "10:00",
-    "americanEnglish": "aaa"
+    "descriptions": [
+      {
+        "icon": "book",
+        "description": "book"
+      },
+      {
+        "icon": "pages",
+        "description": "pages"
+      },
+      {
+        "icon": "page",
+        "description": "page"
+      },
+      {
+        "icon": "song",
+        "description": "song"
+      },
+      {
+        "icon": "time",
+        "description": "time"
+      },
+      {
+        "icon": "flag",
+        "description": "flag"
+      }
+    ]
   },
   "contents": [
     {
@@ -156,7 +179,7 @@
     },
     {
       "audioPlayer": {
-        "sticky": true,
+        "sticky": false,
         "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/audio.mp3"
       }
     },
@@ -165,7 +188,7 @@
     },
     {
       "videoPlayer": {
-        "sticky": true,
+        "sticky": false,
         "src": "https://www.youtube.com/embed/f14IuqWLdwg"
       }
     },

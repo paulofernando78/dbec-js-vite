@@ -4,7 +4,7 @@
     "subtitle": "Songs",
     "descriptions": [
       {
-        "description": [{ "text": "Gorillaz" }]
+        "description": "Gorillaz"
       }
     ]
   },
@@ -18,7 +18,7 @@
           {
             "links": [
               {
-                "icon": "songs",
+                "icon": "song",
                 "link": "/extras/songs/gorillaz/gorillaz/clinton-eastwood",
                 "label": "Clinton Eastwood"
               }
