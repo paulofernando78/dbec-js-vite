@@ -2,19 +2,14 @@
   "whiteboard": {
     "title": "Courses",
     "descriptions": [
-      { "icon": "book",
-        "description": "Beginner"
-      },
-    "descriptions": [
+      { "icon": "book", "description": "Beginner" },
       {
         "icon": "page",
         "description": "Lesson 18"
       },
       {
-        "icon": "page", "description": "Homework •"
-      },
-      {
-        "description": "Does it have a view? (Cycle 2)"
+        "icon": "assignment",
+        "description": "Homework • Does it have a view? (Cycle 2)"
       }
     ]
   },

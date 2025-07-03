@@ -5,16 +5,13 @@
       { "icon": "book",
         "description": "Beginner"
       },
-    "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 12"
       },
       {
-        "icon": "assignment", "description": "Homework •"
-      },
-      {
-        "description": "What time is it? (Cycle 1)"
+        "icon": "assignment",
+        "description": "Homework • What time is it? (Cycle 1)"
       }
     ]
   },

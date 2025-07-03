@@ -5,16 +5,13 @@
       { "icon": "book",
         "description": "Beginner"
       },
-    "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 32"
       },
       {
-        "icon": "presentation", "description": "Classwork"
-      },
-      {
-        "description": "Review lessons 28-31 + Quiz"
+        "icon": "presentation",
+        "description": "Classwork • Review lessons 28-31 + Quiz"
       }
     ]
   },

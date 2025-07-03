@@ -2,19 +2,14 @@
   "whiteboard": {
     "title": "Courses",
     "descriptions": [
-      { "icon": "book",
-        "description": "Beginner"
-      },
-    "descriptions": [
+      { "icon": "book", "description": "Beginner" },
       {
         "icon": "page",
         "description": "Lesson 23"
       },
       {
-        "icon": "page", "description": "Homework •"
-      },
-      {
-        "description": "I always eat breakfast. (Cycle 1)"
+        "icon": "assignment",
+        "description": "Homework • I always eat breakfast. (Cycle 1)"
       }
     ]
   },

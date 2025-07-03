@@ -5,16 +5,12 @@
       { "icon": "book",
         "description": "Beginner"
       },
-    "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 20"
       },
       {
-        "icon": "page", "description": "Homework •"
-      },
-      {
-        "description": "Where do you work? (Cycle 2)"
+        "icon": "page", "description": "Homework • Where do you work? (Cycle 2)"
       }
     ]
   },

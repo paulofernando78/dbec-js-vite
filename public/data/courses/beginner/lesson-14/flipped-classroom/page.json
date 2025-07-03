@@ -5,16 +5,13 @@
       { "icon": "book",
         "description": "Beginner"
       },
-    "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 14"
       },
       {
-        "description": "Flipped classroom"
-      },
-      {
-        "description": "I ride my bike to school. (Cycle 1)"
+        "icon": "eye",
+        "description": "Flipped classroom • I ride my bike to school. (Cycle 1)"
       }
     ]
   },

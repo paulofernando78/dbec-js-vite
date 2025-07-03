@@ -2,19 +2,14 @@
   "whiteboard": {
     "title": "Courses",
     "descriptions": [
-      { "icon": "book",
-        "description": "Beginner"
-      },
-    "descriptions": [
+      { "icon": "book", "description": "Beginner" },
       {
         "icon": "page",
         "description": "Lesson 15"
       },
       {
-        "icon": "page", "description": "Homework •"
-      },
-      {
-        "description": "I ride my bike to school. (Cycle 2)"
+        "icon": "assignment",
+        "description": "Homework • I ride my bike to school. (Cycle 2)"
       }
     ]
   },

@@ -5,16 +5,13 @@
       { "icon": "book",
         "description": "Beginner"
       },
-    "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 33"
       },
       {
-        "icon": "page", "description": "Homework •"
-      },
-      {
-        "description": "How do I get there? (Cycle 1)"
+        "icon": "assignment",
+        "description": "Homework • How do I get there? (Cycle 1)"
       }
     ]
   },

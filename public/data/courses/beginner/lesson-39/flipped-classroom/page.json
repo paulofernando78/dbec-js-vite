@@ -5,16 +5,13 @@
       { "icon": "book",
         "description": "Beginner"
       },
-    "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 39"
       },
       {
-        "description": "Flipped classroom"
-      },
-      {
-        "description": "Where were you born? (Cycle 2)"
+        "icon": "eye",
+        "description": "Flipped classroom • Where were you born? (Cycle 2)"
       }
     ]
   },

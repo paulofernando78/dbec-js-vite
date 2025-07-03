@@ -5,16 +5,13 @@
       { "icon": "book",
         "description": "Beginner"
       },
-    "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 35"
       },
       {
-        "icon": "presentation", "description": "Classwork"
-      },
-      {
-        "description": "I had a good time. (Cycle 1)"
+        "icon": "presentation",
+        "description": "Classwork • I had a good time. (Cycle 1)"
       }
     ]
   },

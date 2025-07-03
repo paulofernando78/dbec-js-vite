@@ -5,16 +5,13 @@
       { "icon": "book",
         "description": "Beginner"
       },
-    "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 23"
       },
       {
-        "icon": "presentation", "description": "Classwork"
-      },
-      {
-        "description": "I always eat breakfast. (Cycle 1)"
+        "icon": "presentation",
+        "description": "Classwork • I always eat breakfast. (Cycle 1)"
       }
     ]
   },

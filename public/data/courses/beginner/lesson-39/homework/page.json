@@ -5,16 +5,13 @@
       { "icon": "book",
         "description": "Beginner"
       },
-    "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 39"
       },
       {
-        "icon": "page", "description": "Homework •"
-      },
-      {
-        "description": "Where were you born? (Cycle 2)"
+        "icon": "assignment",
+        "description": "Homework • Where were you born? (Cycle 2)"
       }
     ]
   },

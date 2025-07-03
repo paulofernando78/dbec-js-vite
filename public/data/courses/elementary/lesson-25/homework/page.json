@@ -1,7 +1,11 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Elementary",
+    "descriptions": [
+      {
+        "icon": "book",
+        "description": "Elementary"
+      },
     "descriptions": [
       {
         {"icon": "page",

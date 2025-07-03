@@ -5,16 +5,13 @@
       { "icon": "book",
         "description": "Beginner"
       },
-    "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 28"
       },
       {
-        "icon": "page", "description": "Homework •"
-      },
-      {
-        "description": "I'm going to have a party. (Cycle 1)"
+        "icon": "assignment",
+        "description": "Homework • I'm going to have a party. (Cycle 1)"
       }
     ]
   },

@@ -5,16 +5,13 @@
       { "icon": "book",
         "description": "Beginner"
       },
-    "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 26"
       },
       {
-        "icon": "page", "description": "Homework •"
-      },
-      {
-        "description": "What sports do you like? (Cycle 2)"
+        "icon": "assignment",
+        "description": "Homework • What sports do you like? (Cycle 2)"
       }
     ]
   },

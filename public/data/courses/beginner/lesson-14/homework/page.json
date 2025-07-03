@@ -5,16 +5,13 @@
       { "icon": "book",
         "description": "Beginner"
       },
-    "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 14"
       },
       {
-        "icon": "page", "description": "Homework •"
-      },
-      {
-        "description": "I ride my bike to school. (Cycle 1)"
+        "icon": "assignment",
+        "description": "Homework • I ride my bike to school. (Cycle 1)"
       }
     ]
   },

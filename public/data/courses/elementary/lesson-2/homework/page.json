@@ -1,17 +1,17 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Elementary",
     "descriptions": [
       {
-        {"icon": "page",
+        "icon": "book",
+        "description": "Elementary"
+      },
+      {
+        "icon": "page",
         "description": "Lesson 2"
       },
       {
-        "icon": "page", "description": "Homework •"
-      },
-      {
-        "description": "Where are you from? (Cycle 1)"
+        "icon": "assignment", "description": "Homework • Where are you from? (Cycle 1)"
       }
     ]
   },

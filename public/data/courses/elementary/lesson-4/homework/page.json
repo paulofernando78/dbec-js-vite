@@ -1,17 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Elementary",
     "descriptions": [
       {
-        {"icon": "page",
+        "icon": "book",
+        "description": "Elementary"
+      },
+      {
+        "icon": "page",
         "description": "Lesson 4"
       },
       {
-        "icon": "page", "description": "Homework •"
-      },
-      {
-        "description": "What do you do? (Cycle 1)"
+        "icon": "assignment",
+        "description": "Homework • What do you do? (Cycle 1)"
       }
     ]
   },

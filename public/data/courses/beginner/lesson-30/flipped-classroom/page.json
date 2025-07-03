@@ -5,16 +5,13 @@
       { "icon": "book",
         "description": "Beginner"
       },
-    "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 30"
       },
       {
-        "description": "Flipped classroom"
-      },
-      {
-        "description": "How do you feel? (Cycle 1)"
+        "icon": "assignment",
+        "description": "Flipped classroom • How do you feel? (Cycle 1)"
       }
     ]
   },

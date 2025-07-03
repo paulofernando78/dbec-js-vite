@@ -5,16 +5,13 @@
       { "icon": "book",
         "description": "Beginner"
       },
-    "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 31"
       },
       {
-        "icon": "page", "description": "Homework •"
-      },
-      {
-        "description": "How do you feel? (Cycle 2)"
+        "icon": "assignment",
+        "description": "Homework • How do you feel? (Cycle 2)"
       }
     ]
   },

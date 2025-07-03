@@ -5,16 +5,13 @@
       { "icon": "book",
         "description": "Beginner"
       },
-    "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 40"
       },
       {
-        "description": "Flipped classroom"
-      },
-      {
-        "description": "Can I take a message? (Cycle 1)"
+        "icon": "eye",
+        "description": "Flipped classroom • Can I take a message? (Cycle 1)"
       }
     ]
   },

@@ -22,7 +22,6 @@ import {
   GifSick,
   GifThankful,
   GifIDK,
-
 } from "@images/image-imports";
 
 class Dashboard extends HTMLElement {
@@ -71,17 +70,19 @@ class Dashboard extends HTMLElement {
     };
     this.shadowRoot.appendChild(whiteboard);
 
-    const board = document.createElement("textarea")
-    board.style.width = "100%"
-    board.style.height = "200px"
-    board.style.marginBottom = "1rem"
-    this.shadowRoot.appendChild(board)
-
-
+    // Main Container
     const container = document.createElement("div");
     container.classList.add("line-break");
     this.shadowRoot.appendChild(container);
 
+    const notes = document.createElement("p");
+    notes.textContent = "Grab your notebook and write down"
+    container.appendChild(notes);
+
+    const board = document.createElement("textarea");
+    board.style.width = "100%";
+    board.style.height = "200px";
+    container.appendChild(board);
 
     const texts = [
       {
@@ -93,11 +94,11 @@ class Dashboard extends HTMLElement {
     ];
 
     texts.forEach((text) => {
-      const p = document.createElement("p");
-      p.textContent = text.item;
-      container.appendChild(p);
+      const welcome = document.createElement("p");
+      welcome.textContent = text.item;
+      container.appendChild(welcome);
     });
-
+    
     const gifsContainer = document.createElement("div");
     gifsContainer.classList.add("gifs-container");
     container.appendChild(gifsContainer);
@@ -208,4 +209,3 @@ class Dashboard extends HTMLElement {
 }
 
 export default Dashboard;
-
