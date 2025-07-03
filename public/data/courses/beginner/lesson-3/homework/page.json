@@ -1,14 +1,17 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Beginner",
     "descriptions": [
+      { "icon": "book",
+        "description": "Beginner"
+      },
       { "icon": "page", "description": "Lesson 3" },
       {
-        "description": "Homework"
+        "icon": "assignment",
+        "description": "Homework What's your name (Cycle 2)"
       },
       {
-        "description": "What's your name (Cycle 2)"
+        "description": ""
       }
     ]
   },

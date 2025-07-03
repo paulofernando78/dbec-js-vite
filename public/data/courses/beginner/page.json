@@ -636,7 +636,7 @@
             "addHr": true,
             "links": [
               {
-                "icon": "presentation",
+                "icon": "eye",
                 "link": "/courses/beginner/lesson-18/flipped-classroom",
                 "label": "Flipped Classroom • Does it have a view? (Cycle 2)"
               },
@@ -704,7 +704,7 @@
             "addHr": true,
             "links": [
               {
-                "icon": "presentation",
+                "icon": "eye",
                 "link": "/courses/beginner/lesson-20/flipped-classroom",
                 "label": "Flipped Classroom • Where do you work? (Cycle 2)"
               },

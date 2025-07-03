@@ -1,10 +1,14 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Beginner",
+    "subtitle": "",
     "descriptions": [
+      { "icon": "book",
+        "description": "Beginner"
+      },
       { "icon": "page",
-        "description": "Lesson 2" },
+        "description": "Lesson 2"
+      },
       {
         "icon": "eye",
         "description": "Flipped classroom • What's your name? (Cycle 1)"
