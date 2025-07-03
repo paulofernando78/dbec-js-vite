@@ -101,7 +101,46 @@
               "ptText": "ptText"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "ribbon": { "label": "Paragraph one line" }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "boldText": "boldText "
+            },
+            {
+              "phonetics": "phonetics "
+            },
+            {
+              "partOfSpeech": "partOfSpeech "
+            },
+            {
+              "text": "text"
+            },
+            {
+              "mark": "mark"
+            },
+            {
+              "ptBoldText": "boldPtText "
+            },
+            {
+              "ptText": "ptText"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": { "label": "Paragraph + displayBlock" }
+    },
+    {
+      "paragraphs": [
         {
           "paragraph": [
             {
