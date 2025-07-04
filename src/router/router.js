@@ -8,6 +8,7 @@ const Router = {
     });
 
     Router.locationHandler();
+
     window.addEventListener("popstate", Router.locationHandler);
   },
 
@@ -28,6 +29,12 @@ const Router = {
       document.body.innerHTML = "";
       layout = document.createElement("wc-layout");
       document.body.appendChild(layout);
+    }
+
+    // wc-layout ot its shadowRoot not available yet
+    if (!layout || !layout.shadowRoot) {
+      console.warn("wc-layout ot its shadowRoot not available yet")
+      return;
     }
 
     const content = layout.shadowRoot.querySelector("#app");

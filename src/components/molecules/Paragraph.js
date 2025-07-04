@@ -19,20 +19,6 @@ class Paragraph extends HTMLElement {
         gap: 10px
       }
 
-      // .img-left {
-      //   display: flex;
-      //   gap: 10px;
-      //   align-items: flex-start;
-      // }
-
-      // .img-left wc-image {
-      //   flex: 0 0 200px; /* não cresce, não encolhe, largura fixa */
-      // }
-
-      // .img-left {
-      //   flex: 1 /* ocupa o espaço restante */
-      // }
-
       .img-right {
         display: grid;
         grid-template-columns: 1fr 200px;

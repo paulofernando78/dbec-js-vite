@@ -197,7 +197,7 @@ class Dashboard extends HTMLElement {
     });
 
     const notes = document.createElement("p");
-    notes.textContent = "Grab your notebook and write down... :";
+    notes.textContent = "Grab your notebook.";
     container.appendChild(notes);
 
     // Board

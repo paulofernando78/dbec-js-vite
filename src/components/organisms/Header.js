@@ -84,13 +84,18 @@ class Header extends HTMLElement {
       });
     }
 
+    // Dark Mode
     const darkMode = this.shadowRoot.querySelector("[data-icon=darkMode]");
     if (darkMode) {
       darkMode.addEventListener("click", () => {
         document.body.classList.toggle("dark");
 
         const isDark = document.body.classList.contains("dark");
+        
+        // Updates button icon
         darkMode.setIcon(isDark ? "lightMode" : "darkMode");
+
+        localStorage.setItem("theme", isDark ? "dark" : "light")
       });
     }
 
@@ -103,7 +108,7 @@ class Header extends HTMLElement {
         });
         this.dispatchEvent(navigateEvent);
       });
-      
+
       if (login && window.location.pathname !== "/") {
         login.style.display = "none";
       }
@@ -115,6 +120,16 @@ class Header extends HTMLElement {
         console.log(logout);
         window.location.href = "/";
       });
+    }
+
+    const savedTheme = localStorage.getItem("theme");
+    if (savedTheme === "dark") {
+      document.body.classList.add("dark");
+
+      const darkModeBtn = this.shadowRoot.querySelector("[data-icon=darkMode]");
+      if (darkModeBtn) {
+        darkModeBtn.setIcon("lightMode")
+      }
     }
   }
 }
