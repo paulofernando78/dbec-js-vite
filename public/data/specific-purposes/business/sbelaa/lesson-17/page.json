@@ -9,7 +9,7 @@
       },
       {
         "icon": "page",
-        "description": "Lesson 1 • ..."
+        "description": "Lesson 17 • Telling Somebody Off"
       }
     ]
   },
@@ -17,13 +17,13 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-1.mp3"
+        "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-17.mp3"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "label": "Lesson 1 • ...",
+        "label": "Lesson 17 • Telling Somebody Off",
         "descriptions": [
           {
             "description": [

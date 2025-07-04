@@ -9,7 +9,7 @@
       },
       {
         "icon": "page",
-        "description": "Lesson 1 • ..."
+        "description": "Lesson 21 • Explaining That You're Feeling Overworked"
       }
     ]
   },
@@ -17,18 +17,18 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-1.mp3"
+        "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-21.mp3"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "label": "Lesson 1 • ...",
+        "label": "Lesson 21 • Explaining That You're Feeling Overworked",
         "descriptions": [
           {
             "description": [
               {
-                "text": "..."
+                "text": "Mary is feeling overwhelmed between commitments at home and at work. Dan advises her to be patient and stay focused. Things will improve once their busy period at the office is over."
               }
             ]
           }
@@ -41,13 +41,181 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Dan: "
             },
             {
-              "text": "... "
+              "text": "Mary, why weren’t you at the staff meeting this morning? We all missed you. "
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Mary: "
             },
             {
-              "mark": "..."
+              "text": "Oh, it completely "
+            },
+            {
+              "mark": "slipped my mind"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Dan: "
+            },
+            {
+              "text": "How could you forget? These meetings are not optional. "
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Mary: "
+            },
+            {
+              "text": "I’m feeling so "
+            },
+            {
+              "mark": "stressed out"
+            },
+            {
+              "text": " these days. Sometimes "
+            },
+            {
+              "mark": "I don’t know whether I’m coming or going"
+            },
+            {
+              "text": "!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Dan: "
+            },
+            {
+              "text": "Well, it is "
+            },
+            {
+              "mark": "crunch time"
+            },
+            {
+              "text": " right now. Things will "
+            },
+            {
+              "mark": "settle down"
+            },
+            {
+              "text": " after tax season is over. "
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Mary: "
+            },
+            {
+              "text": "I hope so. I am "
+            },
+            {
+              "mark": "wiped out"
+            },
+            {
+              "text": " after putting in 60-hour weeks at the office and taking care of my five kids and sick mother. "
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Dan: "
+            },
+            {
+              "text": "Wow, you really do "
+            },
+            {
+              "mark": "have a lot on your plate"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Mary: "
+            },
+            {
+              "text": "Yeah, I can hardly "
+            },
+            {
+              "mark": "keep my head above water "
+            },
+            {
+              "text": ". Maybe I should "
+            },
+            {
+              "mark": "scale back my hours"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Dan: "
+            },
+            {
+              "text": "Just "
+            },
+            {
+              "mark": "hang in there"
+            },
+            {
+              "text": " a little longer. After April 15th, it’ll quiet down around here. For now,  "
+            },
+            {
+              "mark": "keep your nose to the grindstone"
+            },
+            {
+              "text": " and focus on getting your most important work done. "
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Mary: "
+            },
+            {
+              "text": "You’re right. I need to remember the  "
+            },
+            {
+              "mark": "80/20 rule"
+            },
+            {
+              "text": ". I get 80 percent of my results from just 20 percent of my activities. Now if I could only figure out what that 20 percent is! "
             }
           ]
         }

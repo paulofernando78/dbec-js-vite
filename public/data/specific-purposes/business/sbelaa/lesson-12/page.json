@@ -9,7 +9,7 @@
       },
       {
         "icon": "page",
-        "description": "Lesson 1 • ..."
+        "description": "Lesson 12 • Running a meeting"
       }
     ]
   },
@@ -17,13 +17,13 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-1.mp3"
+        "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-12.mp3"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "label": "Lesson 1 • ...",
+        "label": "Lesson 12 • Running a meeting",
         "descriptions": [
           {
             "description": [
