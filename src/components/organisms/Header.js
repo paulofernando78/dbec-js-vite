@@ -95,6 +95,7 @@ class Header extends HTMLElement {
         // Updates button icon
         darkMode.setIcon(isDark ? "lightMode" : "darkMode");
 
+        // Saving at Local Storage 
         localStorage.setItem("theme", isDark ? "dark" : "light")
       });
     }
@@ -122,6 +123,7 @@ class Header extends HTMLElement {
       });
     }
 
+    // Local Storage
     const savedTheme = localStorage.getItem("theme");
     if (savedTheme === "dark") {
       document.body.classList.add("dark");
