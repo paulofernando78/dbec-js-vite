@@ -64,14 +64,6 @@ class Whiteboard extends HTMLElement {
       // descriptionWrapper.appendChild(description);
     });
 
-    const time = document.createElement("span");
-    time.textContent = whiteboard.time ?? "";
-    container.appendChild(time);
-
-    const language = document.createElement("span");
-    language.textContent = whiteboard.language ?? "";
-    container.appendChild(language);
-
     this.shadowRoot.appendChild(container);
   }
 }

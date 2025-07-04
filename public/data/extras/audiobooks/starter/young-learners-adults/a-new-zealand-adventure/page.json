@@ -10,11 +10,16 @@
       {
         "icon": "page",
         "description": "A New Zealand Adventure"
-        
+      },
+      {
+        "icon": "time",
+        "description": "8:05"
+      },
+      {
+        "icon": "flag",
+        "description": "British"
       }
-    ],
-    "time": "8:05",
-    "language": "British"
+    ]
   },
   "contents": [
     {

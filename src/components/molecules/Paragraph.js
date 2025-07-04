@@ -39,6 +39,10 @@ class Paragraph extends HTMLElement {
         gap: 10px
       }
 
+      .img-left, .img-right {
+  margin-bottom: 1rem;
+}
+
       .display-block {
         display: block
       }
