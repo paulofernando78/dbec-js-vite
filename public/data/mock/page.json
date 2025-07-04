@@ -48,6 +48,7 @@
     {
       "paragraphs": [
         {
+          "lineBreak": true,
           "imgSrc": "/assets/images/general/cat1.jpg",
           "imgAlt": "imgAlt",
           "paragraph": [
@@ -75,6 +76,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "imgSrc": "/assets/images/general/cat2.jpg",
           "imgAlt": "imgAlt",
           "imgPosition": "right",
@@ -117,17 +119,43 @@
             {
               "phonetics": "phonetics "
             },
-            {
+            { 
               "partOfSpeech": "partOfSpeech "
             },
             {
-              "text": "text"
+              "text": "text "
             },
             {
               "mark": "mark"
             },
             {
-              "ptBoldText": "boldPtText "
+              "ptBoldText": " boldPtText "
+            },
+            {
+              "ptText": "ptText"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "boldText "
+            },
+            {
+              "phonetics": "phonetics "
+            },
+            {
+              "partOfSpeech": "partOfSpeech "
+            },
+            {
+              "text": "text "
+            },
+            {
+              "mark": "mark"
+            },
+            {
+              "ptBoldText": " boldPtText "
             },
             {
               "ptText": "ptText"
@@ -142,6 +170,7 @@
     {
       "paragraphs": [
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "displayBlock": true,

@@ -37,6 +37,8 @@ class VideoPlayer extends HTMLElement {
     );
     iframe.src = item;
 
+    iframe.style.marginBottom = "var(--line-break)";
+
     this.shadowRoot.append(cssImports, css, iframe);
   }
 }

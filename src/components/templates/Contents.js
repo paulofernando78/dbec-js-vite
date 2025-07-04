@@ -27,11 +27,12 @@ class Contents extends HTMLElement {
 
   render(content) {
     const contentContainer = document.createElement("div");
-    contentContainer.classList.add("line-break");
+    // contentContainer.classList.add("line-break");
 
     // Whiteboard
     const whiteboard = document.createElement("wc-whiteboard");
     whiteboard.data = content.whiteboard;
+
     contentContainer.appendChild(whiteboard);
 
     // Ribbon
@@ -81,10 +82,9 @@ class Contents extends HTMLElement {
       // VideoPlayer
       if (section.videoPlayer) {
         const videoPlayer = document.createElement("wc-video-player");
-        
+
         if (section.videoPlayer.sticky) {
           videoPlayer.classList.add("sticky");
-
         }
         videoPlayer.data = section.videoPlayer.src;
         contentContainer.appendChild(videoPlayer);

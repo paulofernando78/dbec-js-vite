@@ -25,6 +25,8 @@ class AudioPlayer extends HTMLElement {
     audio.controls = true;
     audio.src = audioPlayer || "";
 
+    audio.style.marginBottom = "var(--line-break)";
+
     this.shadowRoot.append(cssImports, audio, css);
   }
 }

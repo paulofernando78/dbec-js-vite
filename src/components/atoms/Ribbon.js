@@ -1,6 +1,14 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-import { book, books, schedule, page, pages, song, snippet } from "@images/svg-imports";
+import {
+  book,
+  books,
+  schedule,
+  page,
+  pages,
+  song,
+  snippet,
+} from "@images/svg-imports";
 
 const svgIcons = {
   book,
@@ -9,16 +17,13 @@ const svgIcons = {
   page,
   pages,
   song,
-  snippet
+  snippet,
 };
 class Ribbon extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-    this.build();
-  }
 
-  build() {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
@@ -36,10 +41,10 @@ class Ribbon extends HTMLElement {
         color: #fff;
         font-weight: bold;
       }
-    `;
 
-    this.div = document.createElement("div");
-    this.shadowRoot.append(css, this.div);
+    `;
+    this.container = document.createElement("div");
+    this.shadowRoot.append(css, this.container);
   }
 
   set data(ribbon) {
@@ -47,35 +52,38 @@ class Ribbon extends HTMLElement {
   }
 
   render(ribbon) {
-    this.div.style.backgroundColor = ribbon.bgColor || "#000";
-    this.div.style.color = ribbon.color || "#fff";
+    this.container.style.backgroundColor = ribbon.bgColor || "#000";
+    this.container.style.color = ribbon.color || "#fff";
 
     if (ribbon.icon && svgIcons[ribbon.icon]) {
       const icon = document.createElement("span");
       icon.innerHTML = svgIcons[ribbon.icon];
-      this.div.appendChild(icon);
-      console.log(icon)
+      this.container.appendChild(icon);
+      console.log(icon);
     }
 
     if (ribbon.label) {
       const label = document.createElement("span");
       label.textContent = ribbon.label;
-      this.div.appendChild(label);
+      this.container.appendChild(label);
     }
 
     if (ribbon.subIcon && svgIcons[ribbon.subIcon]) {
       const subIcon = document.createElement("span");
       subIcon.innerHTML = svgIcons[ribbon.subIcon];
-      this.div.appendChild(subIcon);
-      console.log('subIcon:', ribbon.subIcon, svgIcons[ribbon.subIcon]);
+      this.container.appendChild(subIcon);
+      console.log("subIcon:", ribbon.subIcon, svgIcons[ribbon.subIcon]);
     }
 
     if (ribbon.subLabel) {
       const subLabel = document.createElement("span");
       subLabel.textContent = ribbon.subLabel;
-      this.div.appendChild(subLabel);
-      console.log('subLabel:', ribbon.subLabel);
+      this.container.appendChild(subLabel);
+      console.log("subLabel:", ribbon.subLabel);
     }
+
+    this.container.style.marginBottom = "var(--line-break)"
+    
   }
 }
 

@@ -12,11 +12,27 @@ class Paragraph extends HTMLElement {
     const css = document.createElement("style");
     /*css*/
     css.textContent = `
+
       .img-left {
         display: grid;
         grid-template-columns: 200px 1fr;
         gap: 10px
       }
+
+      // .img-left {
+      //   display: flex;
+      //   gap: 10px;
+      //   align-items: flex-start;
+      // }
+
+      // .img-left wc-image {
+      //   flex: 0 0 200px; /* não cresce, não encolhe, largura fixa */
+      // }
+
+      // .img-left {
+      //   flex: 1 /* ocupa o espaço restante */
+      // }
+
       .img-right {
         display: grid;
         grid-template-columns: 1fr 200px;
@@ -29,21 +45,19 @@ class Paragraph extends HTMLElement {
 
       @media (max-width:     480px) {
         .img-left, .img-right {
-        grid-template-columns: 1fr;
-      }
+          grid-template-columns: 1fr;
+        }
 
-      wc-image {
-        width: 75%;
-        margin: 0 auto
-      }
+        wc-image {
+          width: 75%;
+          margin: 0 auto
+        }
 
       }
     `;
 
     this.container = document.createElement("div");
-
     this.image = document.createElement("wc-image");
-    this.p = document.createElement("p");
 
     this.shadowRoot.append(css, this.container);
   }
@@ -98,7 +112,7 @@ class Paragraph extends HTMLElement {
         }
 
         if (item.text) {
-          const text = document.createTextNode("span");
+          const text = document.createElement("span");
           text.textContent = item.text;
           paragraphElement.appendChild(text);
         }
@@ -144,6 +158,12 @@ class Paragraph extends HTMLElement {
     } else {
       this.container.appendChild(this.image);
       this.container.appendChild(textWrapper);
+    }
+
+    if (paragraph.lineBreak) {
+      this.container.style.marginBottom = "var(--line-break)";
+    } else {
+      this.container.style.marginBottom = "";
     }
   }
 }
