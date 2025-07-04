@@ -4,16 +4,15 @@
     "subtitle": "Business",
     "descriptions": [
       {
+        "icon": "business",
         "description": "Speak Business English Like an American"
       },
       {
-        {"icon": "page",
-        "description": "Lesson 1"
+        "icon": "page",
+        "description": "Lesson 1 • ..."
       },
       {
-        "description": "Talking about a new project"
-      },
-      {
+        "icon": "assignment",
         "description": "Practice"
       }
     ]
@@ -24,14 +23,12 @@
         {
           "radioExercises": [
             {
-              "title": "Title",
-              "description": "Description"
+              "title": "Choose the most appropriate response to the following:"
             },
             {
               "question": [
                 {
-                  "text": "1. ",
-                  "mark": "..."
+                  "text": "1. ..."
                 }
               ],
               "options": [
@@ -52,8 +49,7 @@
             {
               "question": [
                 {
-                  "text": "2. ",
-                  "mark": "..."
+                  "text": "2. ..."
                 }
               ],
               "options": [
@@ -74,8 +70,7 @@
             {
               "question": [
                 {
-                  "text": "3. ",
-                  "mark": "..."
+                  "text": "3. ..."
                 }
               ],
               "options": [
@@ -96,8 +91,7 @@
             {
               "question": [
                 {
-                  "text": "4. ",
-                  "mark": "..."
+                  "text": "4. ..."
                 }
               ],
               "options": [
@@ -118,8 +112,7 @@
             {
               "question": [
                 {
-                  "text": "5. ",
-                  "mark": "..."
+                  "text": "5. ..."
                 }
               ],
               "options": [
@@ -140,8 +133,7 @@
             {
               "question": [
                 {
-                  "text": "6. ",
-                  "mark": "..."
+                  "text": "6. ..."
                 }
               ],
               "options": [
@@ -162,8 +154,7 @@
             {
               "question": [
                 {
-                  "text": "7. ",
-                  "mark": "..."
+                  "text": "7. ..."
                 }
               ],
               "options": [
@@ -184,8 +175,7 @@
             {
               "question": [
                 {
-                  "text": "8. ",
-                  "mark": "..."
+                  "text": "8. ..."
                 }
               ],
               "options": [

@@ -4,24 +4,21 @@
     "subtitle": "Business",
     "descriptions": [
       {
+        "icon": "business",
         "description": "Speak Business English Like an American"
       },
       {
-        {"icon": "page",
-        "description": "Lesson 1"
-      },
-      {
-        "description": "..."
+        "icon": "page",
+        "description": "Lesson 1 • ..."
       }
     ]
   },
   "contents": [
     {
-      "audioPlayer": [
-        {
-          "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-xx.mp3"
-        }
-      ]
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-1.mp3"
+      }
     },
     {
       "card": {
@@ -29,7 +26,11 @@
         "label": "Lesson 1 • ...",
         "descriptions": [
           {
-            "description": "..."
+            "description": [
+              {
+                "text": "..."
+              }
+            ]
           }
         ]
       }
@@ -37,12 +38,16 @@
     {
       "paragraphs": [
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "xxx: "
             },
             {
-              "text": "..."
+              "text": "... "
+            },
+            {
+              "mark": "..."
             }
           ]
         }

@@ -4,24 +4,23 @@
     "subtitle": "Business",
     "descriptions": [
       {
+        "icon": "business",
         "description": "Speak Business English Like an American"
       },
       {
         "icon": "page",
-        "description": "Lesson 20"
-      },
-      {
-        "description": "Talking About a Brown Noser"
+        "description": "Lesson 20 • Talking About a Brown Noser"
       }
     ]
   },
   "contents": [
     {
-      "audioPlayer": [
+      "audioPlayer": 
         {
+          "sticky": true,
           "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-20.mp3"
         }
-      ]
+     
     },
     {
       "card": {
@@ -29,7 +28,9 @@
         "label": "Lesson 20 • Talking About a Brown Noser",
         "descriptions": [
           {
-            "description": "Nearly every office has one: the brown noser. He or she will do just about anything to win favor with the boss. Here Tony, Karen, and Nancy complain about their local brown noser, Mitch."
+            "description": [{
+              "text": "Nearly every office has one: the brown noser. He or she will do just about anything to win favor with the boss. Here Tony, Karen, and Nancy complain about their local brown noser, Mitch."
+            }]
           }
         ]
       }
@@ -37,6 +38,7 @@
     {
       "paragraphs": [
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Tony: "
@@ -47,6 +49,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Karen: "
@@ -69,6 +72,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Nancy: "
@@ -94,6 +98,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Tony: "
@@ -116,6 +121,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Nancy: "
@@ -138,6 +144,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Karen: "
@@ -160,6 +167,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Tony: "
@@ -182,6 +190,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Karen: "
@@ -204,6 +213,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Talking About a Brown Noser, Part 2: When You’re Overheard"
@@ -211,6 +221,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Mitch: "
@@ -227,6 +238,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Tony: "
@@ -237,6 +249,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Mitch: "
@@ -259,6 +272,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Nancy: "
@@ -272,6 +286,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Tony: "
@@ -282,6 +297,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Mitch: "

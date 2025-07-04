@@ -1,0 +1,57 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "icon": "business",
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "icon": "page",
+        "description": "Lesson 1 • ..."
+      }
+    ]
+  },
+  "contents": [
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-1.mp3"
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "label": "Lesson 1 • ...",
+        "descriptions": [
+          {
+            "description": [
+              {
+                "text": "..."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "xxx: "
+            },
+            {
+              "text": "... "
+            },
+            {
+              "mark": "..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

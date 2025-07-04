@@ -4,20 +4,21 @@
     "subtitle": "Business",
     "descriptions": [
       {
+        "icon": "business",
         "description": "Speak Business English Like an American"
       },
       {
-      "icon": "page",
-        "description": "Lesson 1"
-      },
-      {
-        "description": "Talking about a new project"
+        "icon": "page",
+        "description": "Lesson 1 • Talking about a new project"
       }
     ]
   },
   "contents": [
     {
-      "audioPlayer": "/assets//audio/specific-purposes/business/sbelaa/lesson-1.mp3"
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-1.mp3"
+      }
     },
     {
       "card": {
@@ -37,6 +38,7 @@
     {
       "paragraphs": [
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Carl: "
@@ -53,6 +55,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Anne: "
@@ -69,6 +72,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Carl: ",
@@ -83,6 +87,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Greg: "
@@ -99,6 +104,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Ane: "
@@ -115,6 +121,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Carl: "
@@ -131,6 +138,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Anne: "
@@ -147,6 +155,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Greg: "
@@ -163,6 +172,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Carl: "
@@ -179,6 +189,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "text": "We don't want any of our competitors to "
@@ -198,6 +209,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Anne: "

@@ -16,11 +16,11 @@ class Exercise extends HTMLElement {
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
-    // Radio
+    // RADIO
     radio.forEach((item, idx) => {
       const container = document.createElement("div");
       container.classList.add("radio-exercise-group");
-      container.style.marginBottom = "var(--break-line)";
+      container.style.marginBottom = "var(--line-break)";
 
       const titleDescWrapper = document.createElement("div");
       titleDescWrapper.style.marginBottom = "var(--break-line)";
