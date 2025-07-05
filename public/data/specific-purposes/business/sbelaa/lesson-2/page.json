@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "Juan and Diane work in the finance department of Delicious Delights, a company that makes snack foods. Here, they’re discussing the financial projections for a new product line."
               }
             ]
           }
@@ -41,13 +41,197 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Juan: "
             },
             {
-              "text": "... "
+              "text": "I’m really excited about the launch of our new line of fat-free Delicious Delight donuts."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Diane:  "
             },
             {
-              "mark": "..."
+              "text": "Me too. But before we go any further, we’d better make sure this product line is going to be profitable. "
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Juan:  "
+            },
+            {
+              "text": "I did some. "
+            },
+            {
+              "markedText": "back-of-the-envelope calculations"
+            },
+            {
+              "text": " Take a look. "
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Diane: "
+            },
+            {
+              "text": "I see you’ve estimated $2 million for the new equipment. Where did you get that figure? "
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Juan: "
+            },
+            {
+              "text": "That’s an "
+            },
+            {
+              "markedText": "educated guess"
+            },
+            {
+              "text": " based on some equipment I bought last year. "
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Diane: "
+            },
+            {
+              "text": "You’re going to need to double-check that. Using old estimates can get us "
+            },
+            {
+              "markedText": "in hot water"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Juan: "
+            },
+            {
+              "text": "No problem. I’ll get on the phone with the manufacturer in Dallas and get a price quote. "
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Diane: "
+            },
+            {
+              "text": "Do you have a sense for market demand? We should get the forecasts from the marketing department before we "
+            },
+            {
+              "markedText": "crunch the numbers"
+            },
+            {
+              "text":	"."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Juan: "
+            },
+            {
+              "text": "We don’t have those yet. Mary from marketing said maybe we’d have them next week. "
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Diane: "
+            },
+            {
+              "text": "It just "
+            },
+            {
+              "markedText": "blows my mind"
+            },
+            {
+              "text":	" when marketing people want us to "
+            },
+            {
+              "markedText":	"run numbers"
+            },
+            {
+              "text":	" and they don’t bring us the information we need!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Juan: "
+            },
+            {
+              "text": "If we end up "
+            },
+            {
+              "markedText": "in the red"
+            },
+            {
+              "text":	" on this project, it’s going to be their "
+            },
+            {
+              "markedText":	"heads on the chopping block"
+            },
+            {
+              "text":	", not ours. They’re the ones with P&L* responsibility!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Diane: "
+            },
+            {
+              "text": "Our CFO** won’t "
+            },
+            {
+              "markedText": "give this project the green light"
+            },
+            {
+              "text":	" until he sees all the numbers. If it doesn’t look like we’ll make money or at least "
+            },
+            {
+              "markedText":	"break even"
+            },
+            {
+              "text":	", he’ll "
+            },
+            {
+              "markedText":	"pull the plug"
+            },
+            {
+              "text":	" on the project."
             }
           ]
         }

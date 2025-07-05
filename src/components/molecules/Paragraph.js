@@ -77,7 +77,7 @@ class Paragraph extends HTMLElement {
         item.text ||
         item.ptBoldText ||
         item.ptText ||
-        item.mark
+        item.markedText
       ) {
         const paragraphElement = document.createElement("p");
 
@@ -121,9 +121,9 @@ class Paragraph extends HTMLElement {
           paragraphElement.appendChild(ptText);
         }
 
-        if (item.mark) {
+        if (item.markedText) {
           const mark = document.createElement("mark");
-          mark.textContent = item.mark;
+          mark.textContent = item.markedText;
           paragraphElement.appendChild(mark);
         }
 

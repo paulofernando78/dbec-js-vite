@@ -65,7 +65,7 @@
               "text": "text "
             },
             {
-              "mark": "mark"
+              "markedText": "mark"
             },
             {
               "ptBoldText": " boldPtText "
@@ -94,7 +94,7 @@
               "text": "text "
             },
             {
-              "mark": "mark"
+              "markedText": "mark"
             },
             {
               "ptBoldText": " boldPtText "
@@ -126,7 +126,7 @@
               "text": "text "
             },
             {
-              "mark": "mark"
+              "markedText": "mark"
             },
             {
               "ptBoldText": " boldPtText "
@@ -152,7 +152,7 @@
               "text": "text "
             },
             {
-              "mark": "mark"
+              "markedText": "mark"
             },
             {
               "ptBoldText": " boldPtText "
@@ -190,7 +190,7 @@
             },
             {
               "displayBlock": true,
-              "mark": "mark"
+              "markedText": "mark"
             },
             {
               "displayBlock": true,
@@ -222,7 +222,7 @@
                 "text": "text "
               },
               {
-                "mark": "mark"
+                "markedText": "mark"
               }
             ],
             "addHr": true,

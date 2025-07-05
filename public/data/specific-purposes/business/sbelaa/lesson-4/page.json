@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "Mike and Dan work for Swift Shoes, a manufacturer of sneakers. Mike is in charge of manufacturing. Dan is trying to push Mike to get some new shoes ready quickly."
               }
             ]
           }
@@ -41,13 +41,211 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Dan: "
             },
             {
-              "text": "... "
+              "text": "We’ve decided to launch our new spring shoe on April 20th."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Mike: "
             },
             {
-              "mark": "..."
+              "text": "We’re still trying to "
+            },
+            {
+              "markedText": "work out the kinks"
+            },
+            {
+              "text": " in our manufacturing process. Our factory in China is having trouble with the soles."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Dan: "
+            },
+            {
+              "text": "I know that, Mike. But you’ve still got three months. It should be plenty of time."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Mike: "
+            },
+            {
+              "text": "It could take another six months to "
+            },
+            {
+              "markedText": "fine-tune"
+            },
+            {
+              "text": " our manufacturing process."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Dan: "
+            },
+            {
+              "text": "Well, we don’t have that much time. "
+            },
+            {
+              "markedText": "No ifs, ands, or buts"
+            },
+            {
+              "text": ", we need to launch on April 20th."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Mike: "
+            },
+            {
+              "markedText": "Just for the record"
+            },
+            {
+              "text": ", I think we’re "
+            },
+            {
+              "markedText": "cutting it a little close"
+            },
+            {
+              "text": ". I recommend we launch on July 20th instead."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Dan: "
+            },
+            {
+              "text": "We can’t. We’ve already decided on the "
+            },
+            {
+              "markedText": "tagline"
+            },
+            {
+              "text": ": “Spring into spring with Swift’s new spring shoe.”"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Mike: "
+            },
+            {
+              "text": "It’s time for a "
+            },
+            {
+              "markedText": "reality check"
+            },
+            {
+              "text": ". I’m telling you we might not be ready by April 20th, and you’re telling me we have to be because of a tagline?"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Dan: "
+            },
+            {
+              "text": "Mike, now’s the time to "
+            },
+            {
+              "markedText": "step up to the plate"
+            },
+            {
+              "text": " and "
+            },
+            {
+              "markedText": "get the job done"
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Mike: "
+            },
+            {
+              "text": "Well, I’m going to be "
+            },
+            {
+              "markedText":	"working down to the wire."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Dan: "
+            },
+            {
+              "text": "Just "
+            },
+            {
+              "markedText":	"do whatever it takes"
+            },
+            {
+              "text":	". Just make sure we’ve got a million pairs of shoes in inventory by the April 20th deadline."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Mike: "
+            },
+            {
+              "text": "I’m going to have to run the factories "
+            },
+            {
+              "markedText":	" 24/7"
+            },
+            {
+              "text":	". That’s going to be a lot of overtime pay."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Dan: "
+            },
+            {
+              "markedText": "At the end of the day"
+            },
+            {
+              "text":	", a little extra expense doesn’t matter. We just want those shoes ready by April 20th."
             }
           ]
         }

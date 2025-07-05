@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "Ted works for an advertising agency. He’s presenting to Sam and Lisa, who work for Pacific Beer Company."
               }
             ]
           }
@@ -41,13 +41,210 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Lisa: "
             },
             {
-              "text": "... "
+              "text": "Ted would like to "
             },
             {
-              "mark": "..."
+              "markedText":	"run some"
+            },
+            {
+              "text":	" ideas by us for our new ad campaign."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Ted: "
+            },
+            {
+              "text": "Please "
+            },
+            {
+              "markedText":	"keep an open mind"
+            },
+            {
+              "text":	". Remember that "
+            },
+            {
+              "markedText":	"nothing is set in stone"
+            },
+            {
+              "text":	" yet. We’re still just"
+            },
+            {
+              "markedText":	" brainstorming."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Sam: "
+            },
+            {
+              "text": "I hope that doesn’t mean we’re about to hear a lot of "
+            },
+            {
+              "markedText":	"half-baked ideas"
+            },
+            {
+              "text":	"!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Ted: "
+            },
+            {
+              "text": "I think you’re going to like this. Our idea is to use a black bear as our mascot.* Our "
+            },
+            {
+              "markedText":	"tagline"
+            },
+            {
+              "text":	" can be: “Strong enough to satisfy a bear.”"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Lisa: "
+            },
+            {
+              "text": "It would be great if people would associate our brand with a bear — strong and independent. That would really improve our brand equity. "
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Sam: "
+            },
+            {
+              "text": "I don’t want to "
+            },
+            {
+              "markedText":	"throw cold water on"
+            },
+            {
+              "text":	" your idea, but where did you get the idea for a bear?"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Ted: "
+            },
+            {
+              "text": "Didn’t you hear about that bear at the campground a couple weeks ago? He entered a tent and drank two dozen Pacific beers! What a great endorsement for Pacific beer! "
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Lisa: "
+            },
+            {
+              "text": "I think we’re "
+            },
+            {
+              "markedText":	"on the right track"
+            },
+            {
+              "text":	" with this campaign. The bear should "
+            },
+            {
+              "markedText":	"generate lots of buzz"
+            },
+            {
+              "text":	". Everybody will be talking about the bear who loves Pacific beer!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Ted: "
+            },
+            {
+              "text": "And here’s the "
+            },
+            {
+              "markedText":	"icing on the cake"
+            },
+            {
+              "text":	": he won’t demand an "
+            },
+            {
+              "markedText":	"arm and a leg"
+            },
+            {
+              "text":	" to "
+            },
+            {
+              "markedText":	"plug our product"
+            },
+            {
+              "text":	". In fact, we can probably pay him in beer!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Sam: "
+            },
+            {
+              "text": "Okay, you’ve "
+            },
+            {
+              "markedText":	"twisted my arm"
+            },
+            {
+              "text":	". Let’s "
+            },
+            {
+              "markedText":	" run with the idea."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Ted: "
+            },
+            {
+              "text": "Great. I’ll "
+            },
+            {
+              "markedText":	"flesh it out"
+            },
+            {
+              "text":	" some more and "
+            },
+            {
+              "markedText":	"touch base"
+            },
+            {
+              "text":	" with you in a couple of days."
             }
           ]
         }
