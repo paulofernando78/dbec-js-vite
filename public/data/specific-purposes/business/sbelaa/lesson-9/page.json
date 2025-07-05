@@ -17,7 +17,7 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-9.mp3"
+        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-9.mp3"
       }
     },
     {
@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "John hired Kevin’s web design firm to design a website for his company, but John is not satisfied with the end result."
               }
             ]
           }
@@ -41,13 +41,178 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "John: "
             },
             {
-              "text": "... "
+              "text": "We’re disappointed with the website you designed for us. It’s "
             },
             {
-              "mark": "..."
+              "markedText":	"a far cry from"
+            },
+            {
+              "text":	" what we were expecting."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kevin: "
+            },
+            {
+              "text": "I’m sorry you’re not satisfied. We really "
+            },
+            {
+              "markedText":	"went all out"
+            },
+            {
+              "text":	" to make it a great site."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "John: "
+            },
+            {
+              "text": "Well, I’m not going to "
+            },
+            {
+              "markedText":	"mince words"
+            },
+            {
+              "text":	". You charged us a "
+            },
+            {
+              "markedText":	"pretty penny"
+            },
+            {
+              "text":	" and you didn’t "
+            },
+            {
+              "markedText":	"deliver"
+            },
+            {
+              "text":	"."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kevin: "
+            },
+            {
+              "text": "Wow, I’m really surprised to hear you say that! We "
+            },
+            {
+              "markedText":	"pulled out all the stops"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "John: "
+            },
+            {
+              "text": "Don’t try to "
+            },
+            {
+              "markedText":	"pull the wool over my eyes"
+            },
+            {
+              "text":	". You promised that your best people would work on this project, but our website looks like it was designed by a summer intern!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kevin: "
+            },
+            {
+              "text": "What exactly is the problem with the site?"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "John: "
+            },
+            {
+              "markedText": "Where to begin?"
+            },
+            {
+              "text":	" The shopping cart doesn’t even work."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kevin: "
+            },
+            {
+              "text": "Really? Well, we’ll "
+            },
+            {
+              "markedText":	"get right on that"
+            },
+            {
+              "text":	"."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "John: "
+            },
+            {
+              "text": "And you guys "
+            },
+            {
+              "markedText":	"messed around"
+            },
+            {
+              "text":	" forever getting the site done. You were three months behind schedule!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kevin: "
+            },
+            {
+              "text": "I’m sorry about that. We were "
+            },
+            {
+              "markedText":	"swamped"
+            },
+            {
+              "text":	". Let me "
+            },
+            {
+              "markedText":	"make it up to you"
+            },
+            {
+              "text":	". We’ll give you a 25 percent discount on the project."
             }
           ]
         }

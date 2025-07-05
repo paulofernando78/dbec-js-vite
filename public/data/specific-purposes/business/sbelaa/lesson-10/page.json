@@ -17,7 +17,7 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-10.mp3"
+        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-10.mp3"
       }
     },
     {
@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "Tanya is a head of R&D in a laboratory for Sudsco, a company that makes shampoo. Here she meets with colleagues John and Andy to discuss a request from the marketing department."
               }
             ]
           }
@@ -41,13 +41,182 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Tanya: "
             },
             {
-              "text": "... "
+              "text": "Let me "
             },
             {
-              "mark": "..."
+              "markedText":	"kick off"
+            },
+            {
+              "text":	" this meeting with some news. Our marketing department would like us to produce a new fragrance by the end of next month."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "John: "
+            },
+            {
+              "text": "Oh, brother.* We "
+            },
+            {
+              "markedText":	"need this extra work like a hole in the head"
+            },
+            {
+              "text":	"! What fragrance are they looking for?"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Tanya: "
+            },
+            {
+              "text": "Mango"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Andy: "
+            },
+            {
+              "text": "Mango? Are they "
+            },
+            {
+              "markedText":	"out of their minds"
+            },
+            {
+              "text":	"? Do they know how tough that is?"
+            }
+          ]
+        },
+        
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Tanya: "
+            },
+            {
+              "text": "Yeah, but I told them we’d "
+            },
+            {
+              "markedText":	"take a crack at it"
+            },
+            {
+              "text":	". If we "
+            },
+            {
+              "markedText":	"put our minds to it"
+            },
+            {
+              "text":	", I know we can do it."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Andy: "
+            },
+            {
+              "text": "I don’t know. It’s not going to be easy."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Tanya: "
+            },
+            {
+              "text": "Let’s "
+            },
+            {
+              "markedText":	"roll up our sleeves"
+            },
+            {
+              "text":	" and "
+            },
+            {
+              "markedText":	"give it our best shot"
+            },
+            {
+              "text":	". "
+            },
+            {
+              "markedText":	"Nothing ventured, nothing gained"
+            },
+            {
+              "text":	"."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "John: "
+            },
+            {
+              "text": "Well, Tanya, you certainly have a "
+            },
+            {
+              "markedText":	"can-do attitude"
+            },
+            {
+              "text":	"!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Tanya: "
+            },
+            {
+              "text": "Actually, this is "
+            },
+            {
+              "markedText":	"child’s play"
+            },
+            {
+              "text":	" compared to what our CEO wants us to do by the end of the year. He wants us to come up with new, improved formulas for all 50 of our shampoos."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Andy: "
+            },
+            {
+              "text": "What? How are we supposed to manage that? Sometimes I think the "
+            },
+            {
+              "markedText":	"bigwigs"
+            },
+            {
+              "text":	" at this company are "
+            },
+            {
+              "markedText":	"out of touch with reality"
+            },
+            {
+              "text":	"!"
             }
           ]
         }

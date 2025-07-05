@@ -17,7 +17,7 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-1.mp3"
+        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-1.mp3"
       }
     },
     {
@@ -47,7 +47,7 @@
               "text": "I think we've "
             },
             {
-              "mark": "come up with a winner"
+              "markedText": "come up with a winner"
             },
             {
               "text": "."
@@ -64,7 +64,7 @@
               "text": "I agree. The new Brush-o-matic should be a "
             },
             {
-              "mark": "blockbuster"
+              "markedText": "blockbuster"
             },
             {
               "text": "!"
@@ -79,7 +79,7 @@
               "text": "Our designers have already made up some prototypes. The toothbrushes have a tooth-whitening attachment and many other "
             },
             {
-              "mark": "bells and whitles"
+              "markedText": "bells and whitles"
             },
             {
               "text": "."
@@ -96,7 +96,7 @@
               "text": "We should "
             },
             {
-              "mark": "fast track a project"
+              "markedText": "fast track a project"
             },
             {
               "text": ". Let's try to launch it in time for the holiday season."
@@ -113,7 +113,7 @@
               "text": "This will be a great "
             },
             {
-              "mark": "stocking stuffer"
+              "markedText": "stocking stuffer"
             },
             {
               "text": "!"
@@ -130,7 +130,7 @@
               "text": "We definitely need a "
             },
             {
-              "mark": "big win"
+              "markedText": "big win"
             },
             {
               "text": " for the holidays."
@@ -147,7 +147,7 @@
               "text": "This is a great idea. We're going to "
             },
             {
-              "mark": "make a killing"
+              "markedText": "make a killing"
             },
             {
               "text": "."
@@ -164,7 +164,7 @@
               "text": "Let's not talk about this project to anybody who doesn't need to know. We'll "
             },
             {
-              "mark": "keep it under wraps"
+              "markedText": "keep it under wraps"
             },
             {
               "text": "."
@@ -181,7 +181,7 @@
               "text": "I agree. "
             },
             {
-              "mark": "Mum's the word"
+              "markedText": "Mum's the word"
             },
             {
               "text": " ."
@@ -201,7 +201,7 @@
               "text": " the idea and "
             },
             {
-              "mark": "rip it off"
+              "markedText": "rip it off"
             },
             {
               "text": "."
@@ -218,13 +218,13 @@
               "text": "Right. Let's meet again on Monday morning and discuss our "
             },
             {
-              "mark": "game plan"
+              "markedText": "game plan"
             },
             {
               "text": " for "
             },
             {
-              "mark": "getting this project off the ground"
+              "markedText": "getting this project off the ground"
             },
             {
               "text": "!"

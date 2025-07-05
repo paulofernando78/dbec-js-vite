@@ -17,7 +17,7 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-8.mp3"
+        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-8.mp3"
       }
     },
     {
@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "Anna, Lynn, and Jeff are thinking about moving their manufacturing facilities from the United States to China. Jeff is having trouble deciding what to do."
               }
             ]
           }
@@ -41,13 +41,167 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Jeff: "
             },
             {
-              "text": "... "
+              "text": "There are "
             },
             {
-              "mark": "..."
+              "markedText":	"pros and cons"
+            },
+            {
+              "text":	" to moving it to China. I’ve been "
+            },
+            {
+              "markedText":	"back and forth "
+            },
+            {
+              "text":	" on this issue for months. I’m "
+            },
+            {
+              "markedText":	"of two minds"
+            },
+            {
+              "text":	"."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Anna: "
+            },
+            {
+              "text": "Jeff, I know this is a "
+            },
+            {
+              "markedText":	"tough call"
+            },
+            {
+              "text":	", but now is not the time to be "
+            },
+            {
+              "markedText":	"wishy-washy"
+            },
+            {
+              "text":	". We need to make a decision."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Lyn: "
+            },
+            {
+              "text": "That’s right, and I recommend we "
+            },
+            {
+              "markedText":	"bite the bullet"
+            },
+            {
+              "text":	" and move our operations to China."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Anna: "
+            },
+            {
+              "text": "Or we could "
+            },
+            {
+              "markedText":	"test the waters"
+            },
+            {
+              "text":	" by moving 25 percent of our operations there."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Lynn: "
+            },
+            {
+              "text": "Good idea. That would give us "
+            },
+            {
+              "markedText":	"the best of both worlds"
+            },
+            {
+              "text":	": we could reduce our risk, while starting to enjoy some of the cost savings from lower-cost manufacturing."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Jeff: "
+            },
+            {
+              "text": "I agree with you that we should "
+            },
+            {
+              "markedText":	"put a stake in the ground"
+            },
+            {
+              "text":	". Let’s move a quarter of our operations to China."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Lynn: "
+            },
+            {
+              "markedText": "Good call"
+            },
+            {
+              "text":	", Jeff!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Jeff: "
+            },
+            {
+              "text": "I hope I don’t "
+            },
+            {
+              "markedText":	"live to regret this decision"
+            },
+            {
+              "text":	"."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Anna: "
+            },
+            {
+              "text": "You won’t. "
+            },
+            {
+              "markedText":	"My gut tells me"
+            },
+            {
+              "text":	" we’re doing the right thing."
             }
           ]
         }

@@ -17,7 +17,7 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets//audio/specific-purposes/business/sbelaa/lesson-11.mp3"
+        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-11.mp3"
       }
     },
     {
@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "Greg, Stan, and Donna work for Pack-It, a maker of trash bags and other consumer goods. After disappointing sales results, they discuss exiting the trash bag business. But a fresh new idea gives them hope for the future."
               }
             ]
           }
@@ -41,13 +41,212 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Greg: "
             },
             {
-              "text": "... "
+              "text": "Our sales were down again last quarter."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Donna: "
             },
             {
-              "mark": "..."
+              "text": "We’ve been "
+            },
+            {
+              "markedText":	"working our tails off"
+            },
+            {
+              "text":	" and our results are still lousy!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Greg: "
+            },
+            {
+              "text": "Maybe we should exit the trash bag business — just "
+            },
+            {
+              "markedText":	"call it quits"
+            },
+            {
+              "text":	"!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Stan: "
+            },
+            {
+              "text": "Come on. Let’s not "
+            },
+            {
+              "markedText":	"throw in the towel"
+            },
+            {
+              "text":	" yet. "
+            },
+            {
+              "markedText":	"We’ve been down before, but we always come back fighting"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Donna: "
+            },
+            {
+              "text": "But this time "
+            },
+            {
+              "markedText":	"private-label products"
+            },
+            {
+              "text":	" are driving us out of business!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Stan: "
+            },
+            {
+              "text": "We’ve got a successful "
+            },
+            {
+              "markedText":	"track record"
+            },
+            {
+              "text":	". Everybody knows that we offer quality trash bags."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Donna: "
+            },
+            {
+              "text": "That’s true, but we can’t just "
+            },
+            {
+              "markedText":	"rest on our laurels"
+            },
+            {
+              "text":	" forever."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Stan: "
+            },
+            {
+              "text": "Well, I have a new idea that’s going to "
+            },
+            {
+              "markedText":	"turn around our business"
+            },
+            {
+              "text":	". It’s a new line of trash bags that smell like fresh fruits, such as apples and peaches."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Greg: "
+            },
+            {
+              "text": "That sounds like a great idea. I’m ready to "
+            },
+            {
+              "markedText":	"roll up my sleeves"
+            },
+            {
+              "text":	" and "
+            },
+            {
+              "markedText":	"get down to business"
+            },
+            {
+              "text":	"!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Stan: "
+            },
+            {
+              "text": "I appreciate your "
+            },
+            {
+              "markedText":	"team spirit"
+            },
+            {
+              "text":	"! Donna, are you "
+            },
+            {
+              "markedText":	"on board"
+            },
+            {
+              "text":	" too?"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Donna: "
+            },
+            {
+              "text": "Sure. "
+            },
+            {
+              "markedText":	"Count me in"
+            },
+            {
+              "text":	"."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Stan: "
+            },
+            {
+              "text": "Great. Let’s get everybody else in the Company excited about this plan, too. I’ll count on you two to "
+            },
+            {
+              "markedText":	"rally the troops."
+            },
+            {
+              "text":	"."
             }
           ]
         }
