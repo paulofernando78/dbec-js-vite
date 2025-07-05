@@ -23,25 +23,31 @@
         {
           "radioExercises": [
             {
-              "title": "Choose the most appropriate response to the following:"
+              "title": "Choose the best substitute for the phrase or sentence in highlight:"
             },
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Kate said she didn’t have time to help you? I’m not surprised, since "
+                },
+                {
+                  "markedText": "she has a lot on her plate right now"
+                },
+                {
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "iscorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) she’s taken too much food",
                   "iscorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) she’s very busy these days",
+                  "iscorrect": true
+                },
+                {
+                  "option": "c) she doesn’t really like to help people",
                   "iscorrect": false
                 }
               ]
@@ -49,20 +55,26 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "2. Instead of retiring, Joyce decided to keep working and just "
+                },
+                {
+                  "markedText": "scale back her hours"
+                },
+                {
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "iscorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) increase the number of hours she works",
                   "iscorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) retire in a few years",
+                  "iscorrect": true
+                },
+                {
+                  "option": "c) reduce the number of hours she works",
                   "iscorrect": false
                 }
               ]
@@ -70,20 +82,26 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "3. You’ve been at the office every night until midnight for the past three months? "
+                },
+                {
+                  "markedText": "Hang in there"
+                },
+                {
+                  "text": " . In just a few more weeks, the busy period will probably be over."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "iscorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) Quit your job",
                   "iscorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) Be patient",
+                  "iscorrect": true
+                },
+                {
+                  "option": "c) Keep complaining",
                   "iscorrect": false
                 }
               ]
@@ -91,20 +109,26 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "4. Tanya works all day and goes to school every evening. No wonder she’s "
+                }
+                ,{
+                  "markedText": "wiped out"
+                },
+                {
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) exhausted",
                   "iscorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) sick",
                   "iscorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "c) full of energy",
                   "iscorrect": false
                 }
               ]
@@ -112,20 +136,53 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "5. At the tax consulting firm, March and April are "
+                },
+                {
+                  "markedText": "crunch time"
+                },
+                {
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "iscorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) a relaxing time",
                   "iscorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) a slow period",
+                  "iscorrect": false
+                },
+                {
+                  "option": "c) a very busy period",
+                  "iscorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. You asked me to buy you a bamboo vase on my business trip to Hanoi? I’m sorry, but it "
+                },
+                {
+                  "markedText": "slipped my mind"
+                },
+                {
+                  "text": "!"
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) you never asked me for that",
+                  "iscorrect": false
+                },
+                {
+                  "option": "b) I forgot",
+                  "iscorrect": true
+                },
+                {
+                  "option": "c) I didn’t get a chance",
                   "iscorrect": false
                 }
               ]
@@ -133,20 +190,26 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "7. Eva is working full-time while studying for her MBA and taking care of her two small kids. "
+                },
+                {
+                  "markedText": "I don’t know how she can keep her head above water"
+                },
+                {
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "iscorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) No wonder she has no time to go swimming",
                   "iscorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) I don’t know how she manages",
+                  "iscorrect": true
+                },
+                {
+                  "option": "c) I don’t know what she does with all her free time",
                   "iscorrect": false
                 }
               ]
@@ -154,41 +217,26 @@
             {
               "question": [
                 {
-                  "text": "7. ..."
+                  "text": "8. If you want to pass the CPA exam, you’d better "
+                },
+                {
+                  "markedText": "keep your nose to the grindstone"
+                },
+                {
+                  "text": " and stop going out every night to party."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) focus on studying",
                   "iscorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) focus on having fun",
                   "iscorrect": false
                 },
                 {
-                  "option": "c) ...",
-                  "iscorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "iscorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "iscorrect": false
-                },
-                {
-                  "option": "c) ...",
+                  "option": "c) keep your nose out of other people’s business",
                   "iscorrect": false
                 }
               ]

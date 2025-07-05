@@ -44,9 +44,9 @@ class Exercise extends HTMLElement {
       if (item.question) {
         const question = document.createElement("p");
         item.question.forEach((q) => {
-          if (q.bold) {
+          if (q.boldText) {
             const questionBold = document.createElement("span");
-            questionBold.textContent = q.bold;
+            questionBold.textContent = q.boldText;
             questionBold.style.fontWeight = "bold";
             question.appendChild(questionBold);
           }
@@ -56,9 +56,9 @@ class Exercise extends HTMLElement {
             question.appendChild(questionText);
           }
 
-          if (q.mark) {
+          if (q.markedText) {
             const questionMark = document.createElement("mark");
-            questionMark.textContent = q.mark;
+            questionMark.textContent = q.markedText;
             question.appendChild(questionMark);
           }
         });

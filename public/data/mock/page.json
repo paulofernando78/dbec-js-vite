@@ -274,9 +274,9 @@
             {
               "question": [
                 {
-                  "bold": "1. ",
+                  "boldText": "1. ",
                   "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
-                  "mark": "..."
+                  "markedText": "..."
                 }
               ],
               "options": [
