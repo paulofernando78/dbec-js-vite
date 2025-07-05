@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "Andy and Laura work for Saltonica, a maker of cell phones. Sales have been slow lately, so Andy is recommending the company adopt a new strategy."
               }
             ]
           }
@@ -41,13 +41,214 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Andy: "
             },
             {
-              "text": "... "
+              "text": "My team has come up with a new strategy. We can’t continue being "
             },
             {
-              "mark": "..."
+              "markedText": "fast followers"
+            },
+            {
+              "text": ". We need to start developing our own "
+            },
+            {
+              "markedText": "cutting-edge"
+            },
+            {
+              "text": " technologies."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Laura: "
+            },
+            {
+              "text": "Why? We’ve been fast followers for the past ten years. "
+            },
+            {
+              "markedText":	"Why mess with success?"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Andy: "
+            },
+            {
+              "text": "Success? "
+            },
+            {
+              "markedText":	"Get with the program"
+            },
+            {
+              "text":	". Our sales are way down. Our "
+            },
+            {
+              "markedText":	"cash cow"
+            },
+            {
+              "text":	", the Model 8B, only sold 900 units last month!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Laura: "
+            },
+            {
+              "text": "I can understand why. That phone’s a relic.* It’s been around for over three years. What about our new phones?"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Andy: "
+            },
+            {
+              "text": "Our latest model cell phone was a "
+            },
+            {
+              "markedText":	"real dog"
+            },
+            {
+              "text":	"! It sold only 20 percent of our sales forecast."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Laura: "
+            },
+            {
+              "text": "Any idea why? "
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Andy: "
+            },
+            {
+              "text": "Product life cycles are much shorter now than before. New technologies are developed at a much faster rate."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Laura: "
+            },
+            {
+              "text": "So what are we supposed to do?"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Andy: "
+            },
+            {
+              "text": "We need to become much more innovative as a company. Instead of producing "
+            },
+            {
+              "markedText":	"me-too products"
+            },
+            {
+              "text":	", we need to "
+            },
+            {
+              "markedText":	"leapfrog our competitors"
+            },
+            {
+              "text":	"."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Laura: "
+            },
+            {
+              "text": "How do we do that?"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Andy: "
+            },
+            {
+              "markedText": "For starters"
+            },
+            {
+              "text":	", we need to "
+            },
+            {
+              "markedText":	"beef up"
+            },
+            {
+              "text":	" our R&D** department. We need to develop differentiated products which we can sell "
+            },
+            {
+              "markedText":	"at a premium"
+            },
+            {
+              "text":	"."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Laura: "
+            },
+            {
+              "text": "As a next step, let’s "
+            },
+            {
+              "markedText":	"get buy-in"
+            },
+            {
+              "text":	" from our marketing and sales directors."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Andy: "
+            },
+            {
+              "text": "Right. We should get everyone "
+            },
+            {
+              "markedText":	"on the same page"
+            },
+            {
+              "text":	"."
             }
           ]
         }

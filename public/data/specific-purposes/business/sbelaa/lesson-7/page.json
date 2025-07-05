@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "Ron, Alex, and Pam work for Brooklyn Brewski, a company that brews and distributes beer throughout New York. The company’s recent results have been terrible."
               }
             ]
           }
@@ -41,13 +41,182 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Alex: "
             },
             {
-              "text": "... "
+              "text": "We need to "
             },
             {
-              "mark": "..."
+              "markedText":	"face the music"
+            },
+            {
+              "text":	" here. We’re "
+            },
+            {
+              "markedText":	"in deep trouble"
+            },
+            {
+              "text":	"! Sales are down by 50 percent versus last year."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Pam: "
+            },
+            {
+              "text": "It looks like we’re going to be "
+            },
+            {
+              "markedtext":	"in the red"
+            },
+            {
+              "text":	" for the year "
+            },
+            {
+              "markedText":	"to the tune of"
+            },
+            {
+              "text":	" $1 million."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Ron: "
+            },
+            {
+              "markedText": "No wonder"
+            },
+            {
+              "text":	". We’re losing "
+            },
+            {
+              "markedText":	"market share"
+            },
+            {
+              "text":	" to Manhattan Beer."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Alex: "
+            },
+            {
+              "text": "Why? We need to "
+            },
+            {
+              "markedText":	"get to the bottom of this"
+            },
+            {
+              "text":	"!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Pam: "
+            },
+            {
+              "text": "Every year they come up with new beers. They’re really "
+            },
+            {
+              "markedText":	"on top of trends"
+            },
+            {
+              "text":	". For instance, last year they released a low-carb beer."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Ron: "
+            },
+            {
+              "text": "No wonder they’re "
+            },
+            {
+              "markedText":	"eating our lunch"
+            },
+            {
+              "text":	"! They’re "
+            },
+            {
+              "markedText":	"cashing in on"
+            },
+            {
+              "text":	" the latest trends and bringing "
+            },
+            {
+              "markedText":	"great new products to market"
+            },
+            {
+              "text":	"."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Pam: "
+            },
+            {
+              "text": "Meanwhile, we’re "
+            },
+            {
+              "markedText":	"running in place"
+            },
+            {
+              "text":	". We need a new product line and new ideas for marketing."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Alex: "
+            },
+            {
+              "text": "It’s time to "
+            },
+            {
+              "markedText":	"clean house"
+            },
+            {
+              "text":	" and bring some"
+            },
+            {
+              "markedText":	" new blood"
+            },
+            {
+              "text":	" into this company."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Ron: "
+            },
+            {
+              "markedText": "You took the words right out of my mouth"
+            },
+            {
+              "text":	"! We need some new people with fresh ideas."
             }
           ]
         }
