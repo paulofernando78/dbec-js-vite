@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "If Kroll Enterprises doesn't take action soon, the company is going to be in financial trouble. Joel and Kathy have different opinions on how to cut costs at the company."
               }
             ]
           }
@@ -41,13 +41,210 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Kathy: "
             },
             {
-              "text": "... "
+              "text": "We're going to be "
             },
             {
-              "mark": "..."
+              "markedText":	"in the red"
+            },
+            {
+              "text":	" again this year."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Joel: "
+            },
+            {
+              "text": "I think we should "
+            },
+            {
+              "markedText":	"cut back on"
+            },
+            {
+              "text":	" employee health benefits. We could "
+            },
+            {
+              "markedText":	"save a bundle"
+            },
+            {
+              "text":	"."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kathy: "
+            },
+            {
+              "text": "True, it might help the "
+            },
+            {
+              "markedText":	"bottom line"
+            },
+            {
+              "text":	", but our employees would be really unhappy. I would only recommend it as a "
+            },
+            {
+              "markedText":	"last resort"
+            },
+            {
+              "text":	"."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Joel: "
+            },
+            {
+              "text": "Well, we need to do some "
+            },
+            {
+              "markedText":	"belt-tightening"
+            },
+            {
+              "text":	". We can either have a salary freeze or we can cut back on their health benefits. I think I've chosen "
+            },
+            {
+              "markedText":	"the lesser of two evils"
+            },
+            {
+              "text":	"."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kathy: "
+            },
+            {
+              "text": "Another salary freeze is "
+            },
+            {
+              "markedText":	"out of the question"
+            },
+            {
+              "text":	". All our best employees will quit."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Joel: "
+            },
+            {
+              "text": "I'm caught "
+            },
+            {
+              "markedText":	"between a rock and a hard place"
+            },
+            {
+              "text":	". I have to cut costs."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kathy: "
+            },
+            {
+              "text": "Do you really? I don't think cutting costs is "
+            },
+            {
+              "markedText":	"the name of the game"
+            },
+            {
+              "text":	". I think the secret is figuring out how to increase our sales."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Joel: "
+            },
+            {
+              "text": "How do you suggest we "
+            },
+            {
+              "markedText":	"pull that off"
+            },
+            {
+              "text":	"?"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kathy: "
+            },
+            {
+              "text": "Let's meet with the other vice presidents and "
+            },
+            {
+              "markedText":	"bat around some ideas"
+            },
+            {
+              "text":	"."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Joel: "
+            },
+            {
+              "text": "We can talk "
+            },
+            {
+              "markedText":	"until we're blue in the face"
+            },
+            {
+              "text":	". We need to take action now."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kathy: "
+            },
+            {
+              "text": "It's clear that you and I "
+            },
+            {
+              "markedText":	"don't see eye-to-eye"
+            },
+            {
+              "text":	". For now, "
+            },
+            {
+              "markedText":	"let's just agree to disagree"
+            },
+            {
+              "text":	"."
             }
           ]
         }

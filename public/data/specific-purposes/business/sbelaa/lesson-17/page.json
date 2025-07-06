@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "Doug and Joe work at the reception desk of the Boston Empire Hotel, a large hotel. Kara, the hotel manager, yells at Doug for being late to work every day."
               }
             ]
           }
@@ -41,13 +41,276 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Doug: "
             },
             {
-              "text": "... "
+              "text": "Good morning, guys. How's it going?"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Joe: "
             },
             {
-              "mark": "..."
+              "text": "Lousy. You were supposed to be here at 8 a.m. It's now 11 o'clock. "
+            },
+            {
+              "markedText": "What's the deal"
+            },
+            {
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Doug: "
+            },
+            {
+              "text": "Sorry about that. My alarm didn't go off this morning."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kara: "
+            },
+            {
+              "text": "You've been late every day this week!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Doug: "
+            },
+            {
+              "text": "I "
+            },
+            {
+              "markedText": "had a rough night"
+            },
+            {
+              "text": " last night. My girlfriend Liz "
+            },
+            {
+              "markedText": "dumped"
+            },
+            {
+              "text": " me and told me she's in love with my best friend!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kara: "
+            },
+            {
+              "text": "Oh please, "
+            },
+            {
+              "markedText": "spare us the sob story"
+            },
+            {
+              "text": "!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Joe: "
+            },
+            {
+              "text": "I'm "
+            },
+            {
+              "markedText": "sick and tired of"
+            },
+            {
+              "text": " your excuses. You need to start "
+            },
+            {
+              "markedText": "pulling your weight"
+            },
+            {
+              "text": " around here."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Doug: "
+            },
+            {
+              "text": "Hey, "
+            },
+            {
+              "markedText": "cut me some slack"
+            },
+            {
+              "text": "! My life is a mess right now."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kara: "
+            },
+            {
+              "text": "Doug, I'm trying to "
+            },
+            {
+              "markedText": "run a tight ship"
+            },
+            {
+              "text": ". I can't continue "
+            },
+            {
+              "markedText": "turning a blind eye "
+            },
+            {
+              "text": " to the fact that you're always late."
+            },
+            {
+              "markedText": "Shape up or ship out"
+            },
+            {
+              "text": "!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Doug: "
+            },
+            {
+              "text": "I promise tomorrow I'll be here at 8 a.m. "
+            },
+            {
+              "markedText": "on the dot"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "italicText": "Telling Somebody Off, Part 2: The Next Day..."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Doug: "
+            },
+            {
+              "text": "Sorry, I'm "
+            },
+            {
+              "markedText": "running behind"
+            },
+            {
+              "text": ". I had to..."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kara: "
+            },
+            {
+              "markedText": "Don't waste your breath"
+            },
+            {
+              "text": "! You're three hours late again."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Doug: "
+            },
+            {
+              "text": "But my car wouldn't start, my mechanic is on vacation in Florida, and then I..."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kara: "
+            },
+            {
+              "text": "Today was "
+            },
+            {
+              "markedText": "the last straw"
+            },
+            {
+              "text": ". You're fired!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Doug: "
+            },
+            {
+              "text": "That's fine. I was miserable working for a "
+            },
+            {
+              "markedText":	"slave driver"
+            },
+            {
+              "text":	" like you anyway!"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Kara: "
+            },
+            {
+              "text": "Don't "
+            },
+            {
+              "markedText":	"burn your bridges"
+            },
+            {
+              "text":	". You may need me later as a reference."
             }
           ]
         }
