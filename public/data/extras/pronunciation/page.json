@@ -16,6 +16,29 @@
       ]
     },
     {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Sites",
+        "descriptions": [
+          {
+            "links": [
+              {
+                "icon": "link",
+                "link": "https://www.playphrase.me/",
+                "label": "Play Phrase Me"
+              },
+              {
+                "icon": "link",
+                "link": "https://youglish.com//",
+                "label": "Youglish"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
       "ribbon": {
         "icon": "book",
         "label": "By letters"
