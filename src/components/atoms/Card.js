@@ -25,12 +25,6 @@ class Card extends HTMLElement {
         padding: 4px 4px 4px 3px;
         height: 30px
       }
-
-      .inner-card {
-        padding: var(--padding);
-        text-align: justify;
-
-      }
       
     `;
     this.shadowRoot.appendChild(css);
@@ -45,7 +39,7 @@ class Card extends HTMLElement {
 
     const cardLabel = document.createElement("div");
     cardLabel.style.paddingInline = "3px"
-    
+
     const wcIconItem = document.createElement("wc-icon-item")
     wcIconItem.style.fontWeight = "bold"
     wcIconItem.data = {
@@ -57,7 +51,7 @@ class Card extends HTMLElement {
     container.appendChild(cardLabel);
 
     const innerCard = document.createElement("div");
-    innerCard.classList.add("inner-card");
+    innerCard.style.padding = "6px 6px 2px 6px"
 
     card.descriptions.forEach((descGroup) => {
       // Render description text if present

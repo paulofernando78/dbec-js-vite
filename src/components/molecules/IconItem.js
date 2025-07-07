@@ -5,24 +5,16 @@ class IconItem extends HTMLElement {
     this.attachShadow({ mode: "open" });
   }
 
-  set data({ icon, link, label, variant }) {
+  set data({ icon, link, label }) {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
-    const css = document.createElement("style"); /*css*/
-    css.textContent = `
-    .alignment {
-      display: flex;
-      gap: 5px;
-      align-items: center;
-    }
-  `;
-
-    this.shadowRoot.appendChild(css);
-
     const li = document.createElement("li");
     li.classList.add("alignment");
+    li.style.display = "flex"
+    li.style.gap = "5px"
+    li.style.alignItems = "center"
 
     const svgSpan = document.createElement("span");
     svgSpan.style.position = "relative";
@@ -46,7 +38,7 @@ class IconItem extends HTMLElement {
     }
 
     li.append(svgSpan, textElement);
-    this.shadowRoot.append(cssImports, css, li);
+    this.shadowRoot.append(cssImports, li);
   }
 }
 
