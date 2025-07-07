@@ -25,7 +25,7 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldPtText": "Morfologia"
+              "ptBoldText": "Morfologia"
             },
             {
               "ptText": " é o ramo da linguística que estuda a estrutura das palavras e como elas são formadas."
@@ -54,6 +54,25 @@
           "linebreak": true,
           "paragraph": [
             {
+              "boldText": "good ➜ goodness"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "linebreak": true,
+          "paragraph": [
+            {
               "boldText": "happy ➜ happiness"
             }
           ]
@@ -73,6 +92,25 @@
           "paragraph": [
             {
               "boldText": "nothing ➜ nothingness"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "linebreak": true,
+          "paragraph": [
+            {
+              "boldText": "sad ➜ sadness"
             }
           ]
         },

@@ -24,11 +24,6 @@ class NavBar extends HTMLElement {
         overflow: auto
       }
 
-      li.song-item {
-        position: relative;
-        top: 5px
-      }
-
       @media (max-width: 768px) {
         nav {
           width: 100%;

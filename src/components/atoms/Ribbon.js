@@ -34,56 +34,60 @@ class Ribbon extends HTMLElement {
         display: flex;
         align-items: center;
         gap: 6px;
-        padding: var(--padding);
         border: var(--border);
         border-radius: 5px;
-        background-color: #000;
-        color: #fff;
         font-weight: bold;
       }
 
     `;
-    this.container = document.createElement("div");
-    this.shadowRoot.append(css, this.container);
+    this.shadowRoot.appendChild(css);
   }
 
   set data(ribbon) {
-    this.render(ribbon);
-  }
+    const container = document.createElement("div");
+    container.style.padding = "2px 6px 2px 6px"
 
-  render(ribbon) {
-    this.container.style.backgroundColor = ribbon.bgColor || "#000";
-    this.container.style.color = ribbon.color || "#fff";
+    this.shadowRoot.append(container);
 
-    if (ribbon.icon && svgIcons[ribbon.icon]) {
-      const icon = document.createElement("span");
-      icon.innerHTML = svgIcons[ribbon.icon];
-      this.container.appendChild(icon);
-      console.log(icon);
+    container.style.backgroundColor = ribbon.bgColor || "#000";
+    container.style.color = ribbon.color || "#fff";
+
+    const wcIconItem = document.createElement("wc-icon-item")
+    wcIconItem.data = {
+      icon: ribbon.icon,
+      label: ribbon.label,
+      subIcon: ribbon.subIcon,
+      subLabel: ribbon.subLabel
     }
+    container.appendChild(wcIconItem);
 
-    if (ribbon.label) {
-      const label = document.createElement("span");
-      label.textContent = ribbon.label;
-      this.container.appendChild(label);
-    }
+    // if (ribbon.icon && svgIcons[ribbon.icon]) {
+    //   const icon = document.createElement("span");
+    //   icon.innerHTML = svgIcons[ribbon.icon];
+    //   container.appendChild(icon);
+    //   console.log(icon);
+    // }
 
-    if (ribbon.subIcon && svgIcons[ribbon.subIcon]) {
-      const subIcon = document.createElement("span");
-      subIcon.innerHTML = svgIcons[ribbon.subIcon];
-      this.container.appendChild(subIcon);
-      console.log("subIcon:", ribbon.subIcon, svgIcons[ribbon.subIcon]);
-    }
+    // if (ribbon.label) {
+    //   const label = document.createElement("span");
+    //   label.textContent = ribbon.label;
+    //   container.appendChild(label);
+    // }
 
-    if (ribbon.subLabel) {
-      const subLabel = document.createElement("span");
-      subLabel.textContent = ribbon.subLabel;
-      this.container.appendChild(subLabel);
-      console.log("subLabel:", ribbon.subLabel);
-    }
+    // if (ribbon.subIcon && svgIcons[ribbon.subIcon]) {
+    //   const subIcon = document.createElement("span");
+    //   subIcon.innerHTML = svgIcons[ribbon.subIcon];
+    //   container.appendChild(subIcon);
+    // }
 
-    this.container.style.marginBottom = "var(--line-break)"
-    
+    // if (ribbon.subLabel) {
+    //   const subLabel = document.createElement("span");
+    //   subLabel.textContent = ribbon.subLabel;
+    //   container.appendChild(subLabel);
+    //   console.log("subLabel:", ribbon.subLabel);
+    // }
+
+    container.style.marginBottom = "var(--line-break)";
   }
 }
 

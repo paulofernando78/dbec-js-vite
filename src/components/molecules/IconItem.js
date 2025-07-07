@@ -15,28 +15,18 @@ class IconItem extends HTMLElement {
     .alignment {
       display: flex;
       gap: 5px;
-      // align-items: center;
-      height: auto!important
-    }
-
-    .svg {
-      min-width: 24px;
-      position: relative;
-      bottom: 1px
-    }
-
-    .svg.song-svg {
-      position: relative;
-      top: 4px
+      align-items: center;
     }
   `;
+
     this.shadowRoot.appendChild(css);
 
     const li = document.createElement("li");
     li.classList.add("alignment");
 
     const svgSpan = document.createElement("span");
-    svgSpan.className = `svg ${variant || ""}`;
+    svgSpan.style.position = "relative";
+    svgSpan.style.top = "3px"
 
     import("/src/assets/images/svg-imports.js").then((svgIcons) => {
       svgSpan.innerHTML = svgIcons[icon] || "";

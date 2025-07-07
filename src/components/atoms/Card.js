@@ -44,6 +44,8 @@ class Card extends HTMLElement {
     container.classList.add("card-container");
 
     const cardLabel = document.createElement("div");
+    cardLabel.style.paddingInline = "3px"
+    
     const wcIconItem = document.createElement("wc-icon-item")
     wcIconItem.style.fontWeight = "bold"
     wcIconItem.data = {
@@ -62,9 +64,9 @@ class Card extends HTMLElement {
       if (Array.isArray(descGroup.description)) {
         const p = document.createElement("p");
         descGroup.description.forEach((item) => {
-          if (item.mark) {
+          if (item.markedText) {
             const mark = document.createElement("mark");
-            mark.textContent = item.mark;
+            mark.textContent = item.markedText;
             p.appendChild(mark);
             return;
           }
@@ -80,7 +82,7 @@ class Card extends HTMLElement {
             span.textContent = item.text;
           }
 
-          p.appendChild(span);
+          p.append(span);
         });
         innerCard.appendChild(p);
       }
