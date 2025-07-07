@@ -1,0 +1,150 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "descriptions": [
+      {
+        "icon": "book",
+        "description": "Morphology"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "boldText": "Morphology"
+            },
+            {
+              "text": " is the branch of linguistics that studies the structure of words and how they are formed."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldPtText": "Morfologia"
+            },
+            {
+              "ptText": " é o ramo da linguística que estuda a estrutura das palavras e como elas são formadas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "pages",
+        "label": "suffixes"
+      }
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "page",
+        "label": "-ness (adjetives ➜ happiness)"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "linebreak": true,
+          "paragraph": [
+            {
+              "boldText": "happy ➜ happiness"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "nothing ➜ nothingness"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "pages",
+        "label": "preffixes"
+      }
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "page",
+        "label": "a-"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "boldText": "broad ➜ abroad"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "wait ➜ await"
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

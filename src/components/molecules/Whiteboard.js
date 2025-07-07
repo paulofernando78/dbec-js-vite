@@ -44,7 +44,7 @@ class Whiteboard extends HTMLElement {
       const wcIconItem = document.createElement("wc-icon-item");
       wcIconItem.data = {
         icon: desc.icon,
-        label: desc.description,
+        label: desc.description
       };
 
       container.appendChild(wcIconItem)

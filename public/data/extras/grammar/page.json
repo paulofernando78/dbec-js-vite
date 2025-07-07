@@ -1,13 +1,18 @@
 {
   "whiteboard": {
     "title": "Extras",
-    "subtitle": "Grammar"
+    "descriptions": [
+      {
+        "icon": "book",
+        "description": "Grammar"
+      }
+    ]
   },
   "contents": [
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "books",
+        "icon": "page",
         "label": "Grammar in Use",
         "descriptions": [
           {

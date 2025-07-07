@@ -1,21 +1,29 @@
 {
   "whiteboard": {
     "title": "Extras",
-    "subtitle": "Vocabulary",
-    "description": 
-    {
-      "icon": "page",
-      "description": "English influence"
-    }
+    "descriptions": [
+      {
+        "icon": "page",
+        "description": "English influence"
+      }
+    ]
   },
   "contents": [
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "textColor": "",
         "icon": "pages",
         "label": "Misc",
         "descriptions": [
+          {
+            "links": [
+              {
+                "icon": "page",
+                "link": "/extras/vocabulary/morphology",
+                "label": "Morphology"
+              }
+            ]
+          },
           {
             "links": [
               {

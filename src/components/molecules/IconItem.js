@@ -39,7 +39,6 @@ class IconItem extends HTMLElement {
     svgSpan.className = `svg ${variant || ""}`;
 
     import("/src/assets/images/svg-imports.js").then((svgIcons) => {
-      // console.log("icon:", icon, svgIcons[icon]);
       svgSpan.innerHTML = svgIcons[icon] || "";
     });
 

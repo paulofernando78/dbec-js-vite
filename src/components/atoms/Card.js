@@ -37,10 +37,6 @@ class Card extends HTMLElement {
   }
 
   set data(card) {
-    this.render(card);
-  }
-
-  render(card) {
     const bgColor = card.bgColor || "#000";
     const textColor = card.textColor || "#fff";
 
@@ -48,11 +44,14 @@ class Card extends HTMLElement {
     container.classList.add("card-container");
 
     const cardLabel = document.createElement("div");
-    cardLabel.classList.add("card-label");
-    cardLabel.textContent = card.label;
-    cardLabel.style.fontWeight = "bold";
+    const wcIconItem = document.createElement("wc-icon-item")
+    wcIconItem.style.fontWeight = "bold"
+    wcIconItem.data = {
+      icon: card.icon,
+      label: card.label
+    }
     cardLabel.style.backgroundColor = card.bgColor;
-    cardLabel.style.color = card.textColor;
+    cardLabel.appendChild(wcIconItem);
     container.appendChild(cardLabel);
 
     const innerCard = document.createElement("div");
