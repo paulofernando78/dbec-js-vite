@@ -51,12 +51,13 @@ class Card extends HTMLElement {
     container.appendChild(cardLabel);
 
     const innerCard = document.createElement("div");
-    innerCard.style.padding = "6px 6px 2px 6px"
+    innerCard.style.padding = "2px 4px 1px 4px"
 
     card.descriptions.forEach((descGroup) => {
       // Render description text if present
       if (Array.isArray(descGroup.description)) {
         const p = document.createElement("p");
+        p.style.padding = "2px 2px 0 2px"
         descGroup.description.forEach((item) => {
           if (item.markedText) {
             const mark = document.createElement("mark");
