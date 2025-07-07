@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "With his naughty behavior, Bill Swing provides plenty of material for office gossip. Cindy and Steve discuss his latest move and review his other recent insensitive behavior."
               }
             ]
           }
@@ -41,10 +41,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Cindy: "
             },
             {
-              "text": "... "
+              "text": "Did you hear "
+            },
+            {
+              "markedText":	"the latest dirt"
+            },
+            {
+              "text":	"?"
             }
           ]
         },
@@ -52,10 +58,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Steve: "
             },
             {
-              "text": "... "
+              "text": "Of course not. I'm totally "
+            },
+            {
+              "markedText":	"out of the loop"
+            },
+            {
+              "text":	"! I'm always the last one to find out everything."
             }
           ]
         },
@@ -63,10 +75,19 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Cindy: "
             },
             {
-              "text": "... "
+              "markedText": "According to the rumor mill"
+            },
+            {
+              "text":	", Bill swing "
+            },
+            {
+              "markedText":	"made a pass at"
+            },
+            {
+              "text":	" Laura Teller, the new marketing manager. Now she's threatening to sue him for sexual harassment."
             }
           ]
         },
@@ -74,10 +95,22 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Steve: "
             },
             {
-              "text": "... "
+              "text": "Sounds like Bill's "
+            },
+            {
+              "markedText":	"up to his old tricks"
+            },
+            {
+              "text":	" again. He's always "
+            },
+            {
+              "markedText":	"on the make"
+            },
+            {
+              "text":	". Last year, Paula Reynolds accused him of pinching her..."
             }
           ]
         },
@@ -85,10 +118,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Cindy: "
             },
             {
-              "text": "... "
+              "text": "I remember that. Too bad Paula quit before they could "
+            },
+            {
+              "markedText":	"get to the bottom of it"
+            },
+            {
+              "text":	"."
             }
           ]
         },
@@ -96,10 +135,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Steve: "
             },
             {
-              "text": "... "
+              "text": "Two years ago he "
+            },
+            {
+              "markedText":	"got nailed"
+            },
+            {
+              "text":	" for organizing a company offsite* to a strip joint*!"
             }
           ]
         },
@@ -107,10 +152,22 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Cindy: "
             },
             {
-              "text": "... "
+              "text": "Oh, that really "
+            },
+            {
+              "markedText":	"takes the cake"
+            },
+            {
+              "text":	". That's so "
+            },
+            {
+              "markedText":	"un- PC"
+            },
+            {
+              "text":	"!"
             }
           ]
         },
@@ -118,10 +175,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Steve: "
             },
             {
-              "text": "... "
+              "text": "Bill is definitely not "
+            },
+            {
+              "markedText":	"politically correct"
+            },
+            {
+              "text":	"!"
             }
           ]
         },
@@ -129,54 +192,19 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Cindy: "
             },
             {
-              "text": "... "
-            }
-          ]
-        },
-        {
-          "lineBreak": true,
-          "paragraph": [
-            {
-              "boldText": "xxx: "
+              "markedText": "What goes around comes around"
             },
             {
-              "text": "... "
-            }
-          ]
-        },
-        {
-          "lineBreak": true,
-          "paragraph": [
-            {
-              "boldText": "xxx: "
+              "text":	". One day, "
             },
             {
-              "text": "... "
-            }
-          ]
-        },
-        {
-          "lineBreak": true,
-          "paragraph": [
-            {
-              "boldText": "xxx: "
+              "markedText":	"he'll get his"
             },
             {
-              "text": "... "
-            }
-          ]
-        },
-        {
-          "lineBreak": true,
-          "paragraph": [
-            {
-              "boldText": "xxx: "
-            },
-            {
-              "text": "... "
+              "text":	"."
             }
           ]
         }

@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "Justin, from the marketing department, is complaining to Mary about Joe. Joe is always nasty to Justin and Justin is sick of it. Mary advises Justin not to let Joe bother him."
               }
             ]
           }
@@ -41,10 +41,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Mary: "
             },
             {
-              "text": "... "
+              "text": "How did the meeting with Joe go?"
             }
           ]
         },
@@ -52,10 +52,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Justin: "
             },
             {
-              "text": "... "
+              "text": "Lousy. He was "
+            },
+            {
+              "markedText":	"in a snit"
+            },
+            {
+              "text":	"."
             }
           ]
         },
@@ -63,10 +69,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Mary: "
             },
             {
-              "text": "... "
+              "text": "Why?"
             }
           ]
         },
@@ -74,10 +80,22 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Justin: "
             },
             {
-              "text": "... "
+              "text": "He "
+            },
+            {
+              "markedText":	"got bent out of shape"
+            },
+            {
+              "text":	" over the fact that I didn't bring him the sales forecasts. He "
+            },
+            {
+              "markedText":	"gave me an earful"
+            },
+            {
+              "text":	" about how people from the marketing department never bring him the right information."
             }
           ]
         },
@@ -85,10 +103,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Mary: "
             },
             {
-              "text": "... "
+              "text": "Don't worry about him. Don't let him "
+            },
+            {
+              "markedText":	"push your buttons"
+            },
+            {
+              "text":	"."
             }
           ]
         },
@@ -96,10 +120,22 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Justin: "
             },
             {
-              "text": "... "
+              "text": "I'll just have to "
+            },
+            {
+              "markedText":	"steer clear of him "
+            },
+            {
+              "text":	"now that I know he's such a "
+            },
+            {
+              "markedText":	"hot-head"
+            },
+            {
+              "text":	"."
             }
           ]
         },
@@ -107,10 +143,28 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Mary: "
             },
             {
-              "text": "... "
+              "text": "He's "
+            },
+            {
+              "markedText":	"not a bad guy"
+            },
+            {
+              "text":	", but "
+            },
+            {
+              "markedText":	"he does have issues"
+            },
+            {
+              "text":	". And he's "
+            },
+            {
+              "markedText":	"got a chip on his shoulder"
+            },
+            {
+              "text":	" when it comes to marketing people."
             }
           ]
         },
@@ -118,10 +172,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Justin: "
             },
             {
-              "text": "... "
+              "text": "Joe's always "
+            },
+            {
+              "markedText":	"on his high horse"
+            },
+            {
+              "text":	" about something."
             }
           ]
         },
@@ -129,10 +189,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Mary: "
             },
             {
-              "text": "... "
+              "text": "You'll just have to "
+            },
+            {
+              "markedText":	"grin and bear it"
+            },
+            {
+              "text":	". We've got a lot of personalities around here. You'll just have to learn to work with them."
             }
           ]
         },
@@ -140,43 +206,15 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Justin: "
             },
             {
-              "text": "... "
-            }
-          ]
-        },
-        {
-          "lineBreak": true,
-          "paragraph": [
-            {
-              "boldText": "xxx: "
+              "text": "Well, I don't know how I'm going to be able to work with him. He "
+            },{
+              "markedText":	"gets under my skin"
             },
             {
-              "text": "... "
-            }
-          ]
-        },
-        {
-          "lineBreak": true,
-          "paragraph": [
-            {
-              "boldText": "xxx: "
-            },
-            {
-              "text": "... "
-            }
-          ]
-        },
-        {
-          "lineBreak": true,
-          "paragraph": [
-            {
-              "boldText": "xxx: "
-            },
-            {
-              "text": "... "
+              "text":	"."
             }
           ]
         }
