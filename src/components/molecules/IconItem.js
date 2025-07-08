@@ -3,18 +3,29 @@ class IconItem extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-  }
 
-  set data({ icon, link, label }) {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
+    const css = document.createElement("style");
+    /*css*/
+    css.textContent = `
+      .link-shifted {
+        position: relative;
+        top: 5px
+      }
+    `
+
+    this.shadowRoot.append(cssImports, css)
+  }
+
+  set data({ icon, link, label }) {
     const li = document.createElement("li");
     li.classList.add("alignment");
     li.style.display = "flex"
     li.style.gap = "5px"
-    li.style.alignItems = "center"
+    // li.style.alignItems = "center"
 
     const svgSpan = document.createElement("span");
     svgSpan.style.position = "relative";
@@ -27,18 +38,20 @@ class IconItem extends HTMLElement {
     let textElement;
 
     if (link && label) {
-      const anchor = document.createElement("a");
-      anchor.href = link;
-      anchor.textContent = label;
-      textElement = anchor;
+      const link = document.createElement("a");
+      link.href = link;
+      link.textContent = label;
+      link.classList.add("link-shifted")
+      textElement = link;
     } else {
       const desc = document.createElement("p");
       desc.textContent = label;
+      desc.classList.add("link-shifted")
       textElement = desc
     }
 
     li.append(svgSpan, textElement);
-    this.shadowRoot.append(cssImports, li);
+    this.shadowRoot.append(li);
   }
 }
 

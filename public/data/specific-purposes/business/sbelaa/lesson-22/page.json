@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "Maria calls her boss, Scott, to tell him she's not feeling well, and she's going to have to take a sick day. Fortunately, Scott is an understanding boss."
               }
             ]
           }
@@ -41,10 +41,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Maria: "
             },
             {
-              "text": "... "
+              "text": "Hi, Scott, it's Maria. "
             }
           ]
         },
@@ -52,10 +52,13 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Scoot: "
             },
             {
-              "text": "... "
+              "text": "Hey Maria. "
+            },
+            {
+              "markedText": "What's up?"
             }
           ]
         },
@@ -63,10 +66,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Maria: "
             },
             {
-              "text": "... "
+              "text": "I'm not feeling well today."
             }
           ]
         },
@@ -74,10 +77,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Scott: "
             },
             {
-              "text": "... "
+              "text": "Oh yeah? What's wrong?"
             }
           ]
         },
@@ -85,10 +88,19 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Maria: "
             },
             {
-              "text": "... "
+              "markedText": "My stomach is killing me"
+            },
+            {
+              "text": ". Maybe it's the sushi I ate last night. I'm "
+            },
+            {
+              "markedText": "as sick as a dog"
+            },
+            {
+              "text": "."
             }
           ]
         },
@@ -96,10 +108,34 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Scott: "
             },
             {
-              "text": "... "
+              "text": "Sara "
+            },
+            {
+              "markedText": "called in sick"
+            },
+            {
+              "text":	" today also. And Kurt just told me he was feeling "
+            },
+            {
+              "markedText": "under the weather"
+            },
+            {
+              "text":	" today. I'm "
+            },
+            {
+              "markedText": "not feeling so hot"
+            },
+            {
+              "text": " myself. Maybe "
+            },
+            {
+              "markedText": "there's something going around"
+            },
+            {
+              "text": "."
             }
           ]
         },
@@ -107,10 +143,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Scott: "
             },
             {
-              "text": "... "
+              "text": "Well, I hope you don't catch it too."
             }
           ]
         },
@@ -118,10 +154,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Scott: "
             },
             {
-              "text": "... "
+              "text": "I "
+            },
+            {
+              "markedText":	"can't afford to"
+            },
+            {
+              "text":	" get sick. I'm up to my ears in work."
             }
           ]
         },
@@ -129,10 +171,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Maria: "
             },
             {
-              "text": "... "
+              "text": "I should be back in the office tomorrow."
             }
           ]
         },
@@ -140,10 +182,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Scott: "
             },
             {
-              "text": "... "
+              "text": "Don't worry about that. You should stay home until you feel better."
             }
           ]
         },
@@ -151,10 +193,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Maris: "
             },
             {
-              "text": "... "
+              "text": "I'll try to work from home this afternoon if I feel better."
             }
           ]
         },
@@ -162,10 +204,19 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Scott: "
             },
             {
-              "text": "... "
+              "markedText": "Take it easy"
+            },
+            {
+              "text":	" today. We want you back "
+            },
+            {
+              "markedText":	"in tip-top shape"
+            },
+            {
+              "text":	","
             }
           ]
         },

@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "Steve is meeting with his boss, Kurt, to review his performance. Kurt promotes Steve to the position of marketing director."
               }
             ]
           }
@@ -41,10 +41,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Kurt: "
             },
             {
-              "text": "... "
+              "text": "Steve, your performance over the past year has been excellent. You've only been here a year, but you "
+            },
+            {
+              "markedText": "hit the ground running"
+            },
+            {
+              "text": "."
             }
           ]
         },
@@ -52,10 +58,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Steve: "
             },
             {
-              "text": "... "
+              "text": "Thank you. It's nice to be appreciated!"
             }
           ]
         },
@@ -63,10 +69,22 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Kurt: "
             },
             {
-              "text": "... "
+              "text": "You're an "
+            },
+            {
+              "markedText": "\"A\" player"
+            },
+            {
+              "text": " here — a real star. You've really "
+            },
+            {
+              "markedText": "earned your keep"
+            },
+            {
+              "text": ". You're great at motivating your employees, and you're always willing to go the extra mile."
             }
           ]
         },
@@ -74,10 +92,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Steve: "
             },
             {
-              "text": "... "
+              "text": "Thanks, Kurt. I really enjoy my work here."
             }
           ]
         },
@@ -85,10 +103,22 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Kurt: "
             },
             {
-              "text": "... "
+              "text": "I'm going to "
+            },
+            {
+              "markedText": "take you into my confidence"
+            },
+            {
+              "text": ". Steve, this past year has been really challenging. Everybody hasn't "
+            },
+            {
+              "markedText": "made the grade"
+            },
+            {
+              "text": "."
             }
           ]
         },
@@ -96,10 +126,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Steve: "
             },
             {
-              "text": "... "
+              "text": "Right. I heard that Dan is going to be "
+            },
+            {
+              "markedText": "given his walking papers"
+            },
+            {
+              "text": "."
             }
           ]
         },
@@ -107,10 +143,22 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Kurt: "
             },
             {
-              "text": "... "
+              "text": "Yes, he'll be "
+            },
+            {
+              "markedText":	"leaving us"
+            },
+            {
+              "text":	". I'll be "
+            },
+            {
+              "markedText":	"breaking the news"
+            },
+            {
+              "text":	" to him this afternoon. But the good news is that I'm promoting you to marketing director."
             }
           ]
         },
@@ -118,10 +166,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Steve: "
             },
             {
-              "text": "... "
+              "text": "Wow, that is good news. Thank you!"
             }
           ]
         },
@@ -129,10 +177,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Kurt: "
             },
             {
-              "text": "... "
+              "text": "No need to thank me. You're a real "
+            },
+            {
+              "markedText":	"go-getter"
+            },
+            {
+              "text":	", and you earned it. The new position comes with a 10 percent raise and several perks*, including an extra week of vacation."
             }
           ]
         },
@@ -140,10 +194,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Steve: "
             },
             {
-              "text": "... "
+              "text": "Will I get a company car too?"
             }
           ]
         },
@@ -151,10 +205,31 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Kurt: "
             },
             {
-              "text": "... "
+              "markedText": "Don't push your luck"
+            },
+            {
+              "text":	". But if you "
+            },
+            {
+              "markedText":	"play your cards right"
+            },
+            {
+              "text":	", maybe in a few years. Ten years "
+            },
+            {
+              "markedText":	"down the road"
+            },
+            {
+              "text":	", I can even see you in a "
+            },
+            {
+              "markedText":	"corner office"
+            },
+            {
+              "text":	"."
             }
           ]
         },
@@ -162,10 +237,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Steve: "
             },
             {
-              "text": "... "
+              "text": "Thanks, Kurt."
             }
           ]
         },
@@ -173,10 +248,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Kurt: "
             },
             {
-              "text": "... "
+              "text": "No, Steve, thank you. "
+            },
+            {
+              "markedText":	"Keep up the good work"
+            },
+            {
+              "text":	"!"
             }
           ]
         }

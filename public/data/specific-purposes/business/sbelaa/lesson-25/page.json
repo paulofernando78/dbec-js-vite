@@ -28,7 +28,7 @@
           {
             "description": [
               {
-                "text": "..."
+                "text": "It's annual performance review time. John meets with his boss to go over his performance for the past year, hear about his strengths and weaknesses, and find out about his salary increase."
               }
             ]
           }
@@ -41,10 +41,21 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Sara: "
             },
             {
-              "text": "... "
+              "text": "During the first half of the year, your performance was "
+            },
+            {
+              "markedText":	"not so hot"
+            },
+            {
+              "text":	". But then you "
+            },
+            {
+              "markedText":	"did a 180"
+            },{
+              "text":	" and you started doing great."
             }
           ]
         },
@@ -52,10 +63,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "John: "
             },
             {
-              "text": "... "
+              "text": "Really? I was that bad at the beginning of year?"
             }
           ]
         },
@@ -63,10 +74,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Sara: "
             },
             {
-              "text": "... "
+              "text": "I think it was because you were new here, and it took you a while to "
+            },
+            {
+              "markedText":	"get up to speed"
+            },
+            {
+              "text":	". The most important thing is that you're now a valuable member of the team."
             }
           ]
         },
@@ -74,10 +91,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "John: "
             },
             {
-              "text": "... "
+              "text": "That's nice to hear."
             }
           ]
         },
@@ -85,10 +102,22 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Sara: "
             },
             {
-              "text": "... "
+              "text": "You've "
+            },
+            {
+              "markedText":	"got a knack for"
+            },
+            {
+              "text":	" sales. These past few months, I've also seen your communication skills improve. You're great at "
+            },
+            {
+              "markedText":	"keeping people in the loop"
+            },
+            {
+              "text":	" and making sure we all know what's going on with your accounts."
             }
           ]
         },
@@ -96,10 +125,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "John: "
             },
             {
-              "text": "... "
+              "text": "Thanks. I do "
+            },
+            {
+              "markedText":	"pride myself on"
+            },
+            {
+              "text":	" my communication skills."
             }
           ]
         },
@@ -107,10 +142,22 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Sara: "
             },
             {
-              "text": "... "
+              "text": "Of course, you still have some "
+            },
+            {
+              "markedText":	"opportunity areas"
+            },
+            {
+              "text":	" that I'd like you to work on, starting with your analytical skills. Sometimes I can't "
+            },
+            {
+              "markedText":	"make heads or tails of"
+            },
+            {
+              "text":	" your sales forecasts."
             }
           ]
         },
@@ -118,10 +165,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "John: "
             },
             {
-              "text": "... "
+              "text": "How would you suggest I work on that?"
             }
           ]
         },
@@ -129,10 +176,15 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Sara: "
             },
             {
-              "text": "... "
+              "text": "I'm going to send you to a training class. Then we'll "
+            },{
+              "markedText":	"take it from there"
+            },
+            {
+              "text":	"."
             }
           ]
         },
@@ -140,10 +192,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "John: "
             },
             {
-              "text": "... "
+              "text": "Great. I love attending classes!"
             }
           ]
         },
@@ -151,10 +203,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Sara: "
             },
             {
-              "text": "... "
+              "text": "We'll be raising your salary by 5 percent to $60,000. And, if you really go "
+            },
+            {
+              "markedText":	"beyond the call of duty"
+            },
+            {
+              "text":	", you'll also receive a bonus at the end of the year."
             }
           ]
         },
