@@ -38,26 +38,26 @@ class Card extends HTMLElement {
     container.classList.add("card-container");
 
     const cardLabel = document.createElement("div");
-    cardLabel.style.paddingInline = "3px"
+    cardLabel.style.paddingInline = "3px";
 
-    const wcIconItem = document.createElement("wc-icon-item")
-    wcIconItem.style.fontWeight = "bold"
+    const wcIconItem = document.createElement("wc-icon-item");
+    wcIconItem.style.fontWeight = "bold";
     wcIconItem.data = {
       icon: card.icon,
-      label: card.label
-    }
+      label: card.label,
+    };
     cardLabel.style.backgroundColor = card.bgColor;
     cardLabel.appendChild(wcIconItem);
     container.appendChild(cardLabel);
 
     const innerCard = document.createElement("div");
-    innerCard.style.padding = "2px 4px 1px 4px"
+    innerCard.style.padding = "2px 4px 1px 4px";
 
     card.descriptions.forEach((descGroup) => {
       // Render description text if present
       if (Array.isArray(descGroup.description)) {
         const p = document.createElement("p");
-        p.style.padding = "2px 2px 0 2px"
+        p.style.padding = "2px 2px 0 2px";
         descGroup.description.forEach((item) => {
           if (item.markedText) {
             const mark = document.createElement("mark");

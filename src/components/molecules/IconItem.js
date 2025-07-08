@@ -25,7 +25,6 @@ class IconItem extends HTMLElement {
     li.classList.add("alignment");
     li.style.display = "flex"
     li.style.gap = "5px"
-    // li.style.alignItems = "center"
 
     const svgSpan = document.createElement("span");
     svgSpan.style.position = "relative";
@@ -38,11 +37,12 @@ class IconItem extends HTMLElement {
     let textElement;
 
     if (link && label) {
-      const link = document.createElement("a");
-      link.href = link;
-      link.textContent = label;
-      link.classList.add("link-shifted")
-      textElement = link;
+      const anchor = document.createElement("a");
+      anchor.href = link;
+      anchor.textContent = label;
+      anchor.classList.add("link-shifted")
+      textElement = anchor;
+
     } else {
       const desc = document.createElement("p");
       desc.textContent = label;
