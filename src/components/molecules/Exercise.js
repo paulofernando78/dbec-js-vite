@@ -26,6 +26,16 @@ class Exercise extends HTMLElement {
         this._renderRadioExercises(section.radioExercises, idx);
       }
 
+      if (section.checkboxExercises) {
+        console.log("Recebido?:", section.checkboxExercises);
+        this._renderCheckboxExercises(section.checkboxExercises, idx);
+      }
+
+      if (section.dropdownExercises) {
+        console.log("Recebido?:", section.dropdownExercises);
+        this._renderDropdownExercises(section.dropdownExercises, idx);
+      }
+
       if (section.fillExercises) {
         this._renderFillExercises(section.fillExercises);
       }
@@ -54,11 +64,11 @@ class Exercise extends HTMLElement {
     this.shadowRoot.appendChild(wrapper);
   }
 
-  // RADIO
+  // Radio
   _renderRadioExercises(items, idxOffset) {
     items.forEach((item, idx) => {
       const radioContainer = document.createElement("div");
-      radioContainer.style.marginBottom = "var(--line-break)"
+      radioContainer.style.marginBottom = "var(--line-break)";
       radioContainer.classList.add("radio-exercise-group");
 
       if (item.question) {
@@ -168,12 +178,51 @@ class Exercise extends HTMLElement {
     });
   }
 
+  _renderCheckboxExercises(items) {
+    items.forEach((item) => {
+      const checkboxContainer = document.createElement("div");
+      this.shadowRoot.appendChild(checkboxContainer);
+    });
+  }
+
+  _renderDropdownExercises(items) {
+    items.forEach((item) => {
+      const dropdownContainer = document.createElement("div");
+      this.shadowRoot.appendChild(dropdownContainer);
+    });
+  }
+
+  _renderFillExercises(items) {
+    items.forEach((item) => {
+      const fillContainer = document.createElement("div");
+      fillContainer.style.display = "inline";
+      if (item.displayBlock) {
+        fillContainer.style.display = "block";
+      }
+      fillContainer.style.marginBottom = "var(--line-break)";
+      const beforeBlank = document.createElement("span");
+      beforeBlank.textContent = item.beforeBlank;
+      const blank = document.createElement("input");
+      blank.style.width = item.width || "";
+      blank.type = "text";
+      blank.style.marginInline = "6px";
+      blank.style.borderRadius = "var(--border-radius)";
+      blank.style.border = "1px solid lightgray";
+      blank.style.marginBottom = "2px";
+      const fillResult = document.createElement("span");
+      const afterBlank = document.createElement("span");
+      afterBlank.textContent = item.afterBlank;
+      fillContainer.append(beforeBlank, blank, afterBlank);
+
+      this.shadowRoot.appendChild(fillContainer);
+    });
+  }
+
   renderButtons() {
     const buttonsWrapper = document.createElement("div");
     buttonsWrapper.style.display = "flex";
     buttonsWrapper.style.gap = "8px";
-    buttonsWrapper.style.marginLeft = "3px";
-    buttonsWrapper.style.marginBlock = ".625rem";
+    buttonsWrapper.style.padding = "5px";
 
     // Check answers
     const checkAnswersButton = document.createElement("wc-button");

@@ -297,29 +297,26 @@
           ]
         },
         {
-          "radioExercises": [
+          "fillExercises": [
             {
-              "question": [
-                {
-                  "boldText": "1. ...",
-                  "text": "... ",
-                  "markedText": "..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
+              "width": "70px",
+              "beforeBlank": "1. I",
+              "correctAnswer": ["am", "'m"],
+              "afterBlank": "a student. I"
+            },
+            {
+              "width": "70px",
+              "correctAnswer": ["wake up"],
+              "afterBlank": "very early to"
+            }
+          ]
+        },
+        {
+          "fillExercises": [
+            {
+              "width": "70px",
+              "correctAnswer": ["is", "'s"],
+              "afterBlank": "to school."
             }
           ]
         }
