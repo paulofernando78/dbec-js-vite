@@ -13,7 +13,7 @@ class IconItem extends HTMLElement {
     css.textContent = `
       .link-shifted {
         position: relative;
-        top: 5px
+        top: 4.5px
       }
     `
 

@@ -4,11 +4,15 @@
     "subtitle": "Audiobooks",
     "descriptions": [
       {
-        "icon": "pages",
+        "icon": "audiobooks",
+        "description": "Audiobooks"
+      },
+      {
+        "icon": "books",
         "description": "Starter (Pre-A1)"
       },
       {
-        "icon": "page",
+        "icon": "book",
         "description": "A New Zealand Adventure"
       },
       {
@@ -17,7 +21,7 @@
       },
       {
         "icon": "flag",
-        "description": "British"
+        "description": "British English"
       }
     ]
   },
