@@ -5,6 +5,10 @@
     "descriptions": [
       {
         "icon": "business",
+        "description": "Business"
+      },
+      {
+        "icon": "book",
         "description": "Speak Business English Like an American"
       },
       {
@@ -23,6 +27,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "page",
         "label": "Lesson 19 • Complaining About A Co-Worker",
         "descriptions": [
           {

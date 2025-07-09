@@ -5,6 +5,10 @@
     "descriptions": [
       {
         "icon": "business",
+        "description": "Business"
+      },
+      {
+        "icon": "book",
         "description": "Speak Business English Like an American"
       },
       {
@@ -23,12 +27,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "page",
         "label": "Lesson 30 • Negotiating a Salary Offer",
         "descriptions": [
           {
             "description": [
               {
-                "text": "..."
+                "itallicText": "Donna calls Marina to tell her the good news— she got the job. Marina wisely decides to negotiate for a higher salary."
               }
             ]
           }
@@ -41,10 +46,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Donna: "
             },
             {
-              "text": "... "
+              "text": "Marina, it's Donna Harris from American Steel Enterprises. I've got great news. We'd like to "
+            },
+            {
+              "markedText": "make you an offer"
+            },
+            {
+              "text": "."
             }
           ]
         },
@@ -52,10 +63,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Mariana: "
             },
             {
-              "text": "... "
+              "text": "That's fantastic!"
             }
           ]
         },
@@ -63,10 +74,22 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Doann: "
             },
             {
-              "text": "... "
+              "text": "Our HR department will go over the "
+            },
+            {
+              "markedText": "nitty-gritty"
+            },
+            {
+              "text": " of the offer with you, but let me give you "
+            },
+            {
+              "markedText": "the big picture"
+            },
+            {
+              "text": " now. The base salary* will be $45,000."
             }
           ]
         },
@@ -74,10 +97,19 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Mariana: "
             },
             {
-              "text": "... "
+              "text": "I'm really excited about this opportunity. I should mention that I'm "
+            },
+            {
+              "markedText": "weighing another offer"
+            },
+            {
+              "text": " with a higher base salary. "
+            },
+            {
+              "markedText": "Is there any room to negotiate?"
             }
           ]
         },
@@ -85,10 +117,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Donna: "
             },
             {
-              "text": "... "
+              "text": "What did you "
+            },
+            {
+              "markedText": "have in mind"
+            },
+            {
+              "text": "?"
             }
           ]
         },
@@ -96,10 +134,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Mariana: "
             },
             {
-              "text": "... "
+              "text": "Well, my other offer is for $50,000. Can you match it?"
             }
           ]
         },
@@ -107,10 +145,22 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Donna: "
             },
             {
-              "text": "... "
+              "text": "That's "
+            },
+            {
+              "markedText": "out of our range"
+            },
+            {
+              "text": ". Let's "
+            },
+            {
+              "markedText": "split the difference"
+            },
+            {
+              "text": ". We'll go up to $47,500."
             }
           ]
         },
@@ -118,10 +168,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Mariana: "
             },
             {
-              "text": "... "
+              "text": "Can we say $48,000?"
             }
           ]
         },
@@ -129,10 +179,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Donna: "
             },
             {
-              "text": "... "
+              "text": "No, I'm afraid not. Our final offer is $47,500."
             }
           ]
         },
@@ -140,10 +190,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Mariana: "
             },
             {
-              "text": "... "
+              "text": "This sounds good, but I'd like to "
+            },
+            {
+              "markedText": "sleep on it"
+            },
+            {
+              "text": ". Can I call you back tomorrow?"
             }
           ]
         },
@@ -151,10 +207,22 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Donna: "
             },
             {
-              "text": "... "
+              "text": "Yes, but please "
+            },
+            {
+              "markedText": "touch base with"
+            },
+            {
+              "text": " me first thing in the morning so we can "
+            },
+            {
+              "markedText": "get the ball rolling"
+            },
+            {
+              "text": ". We've got several other candidates interested in the position."
             }
           ]
         },
@@ -162,10 +230,7 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
-            },
-            {
-              "text": "... "
+              "text": "The next day..."
             }
           ]
         },
@@ -173,10 +238,50 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Mariana: "
             },
             {
-              "text": "... "
+              "text": "Donna, I've had a chance to "
+            },
+            {
+              "markedText": "review your offer"
+            },
+            {
+              "text": ". I'm going to "
+            },
+            {
+              "markedText": "stand my ground"
+            },
+            {
+              "text": ". To accept your offer, I really need $48,000."
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Donna: "
+            },
+            {
+              "text": "Marina, you "
+            },
+            {
+              "markedText":	"drive a hard bargain"
+            },
+            {
+              "text":	"! But, okay, I think that can be arranged. Can you start on Monday, 9 a.m.?"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "boldText": "Mariana: "
+            },
+            {
+              "text": "That'll be perfect. See you then!"
             }
           ]
         }

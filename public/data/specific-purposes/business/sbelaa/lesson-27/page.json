@@ -5,6 +5,10 @@
     "descriptions": [
       {
         "icon": "business",
+        "description": "Business"
+      },
+      {
+        "icon": "book",
         "description": "Speak Business English Like an American"
       },
       {
@@ -23,12 +27,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "page",
         "label": "Lesson 27 • Firing Somebody",
         "descriptions": [
           {
             "description": [
               {
-                "text": "..."
+                "text": "Kurt has the difficult task of firing Dan. Dan's been with the company since the beginning and is a friend of Kurt's. Dan is surprised and upset with the news."
               }
             ]
           }
@@ -41,10 +46,21 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Kurt: "
             },
             {
-              "text": "... "
+              "text": "Dan, "
+            },{
+              "markedText":	"your work has slipped"
+            },
+            {
+              "text":	". You've been here for 15 years, and I think you're just "
+            },
+            {
+              "markedText":	"burned out"
+            },
+            {
+              "text":	"."
             }
           ]
         },
@@ -52,10 +68,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Dan: "
             },
             {
-              "text": "... "
+              "text": "What are you talking about? I'm "
+            },
+            {
+              "markedText":	"at the top of my game"
+            },
+            {
+              "text":	". I just managed our biggest project in years."
             }
           ]
         },
@@ -63,10 +85,22 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Kurt: "
             },
             {
-              "text": "... "
+              "text": "You can't "
+            },
+            {
+              "markedText":	"take credit for"
+            },
+            {
+              "text":	" that. You "
+            },
+            {
+              "markedText":	"didn't lift a finger"
+            },
+            {
+              "text":	" on that project. You were on vacation in Hawaii for three weeks while Steve and Sally were doing all the work."
             }
           ]
         },
@@ -74,10 +108,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Dan: "
             },
             {
-              "text": "... "
+              "text": "I'm not good at reading between the lines. Please just "
+            },
+            {
+              "markedText":	"cut to the chase"
+            },
+            {
+              "text":	". What are you trying to say?"
             }
           ]
         },
@@ -85,10 +125,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Kurt: "
             },
             {
-              "text": "... "
+              "text": "Dan, Swift Shoes is downsizing. This is really difficult, but we're going to have to "
+            },
+            {
+              "markedText":	"let you go"
+            },
+            {
+              "text":	"."
             }
           ]
         },
@@ -96,10 +142,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Dan: "
             },
             {
-              "text": "... "
+              "text": "What? I helped "
+            },
+            {
+              "markedText":	"build this company from the ground up"
+            },
+            {
+              "text":	"! You can't fire me now."
             }
           ]
         },
@@ -107,10 +159,22 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Kurt: "
             },
             {
-              "text": "... "
+              "text": "I don't want to, but "
+            },
+            {
+              "markedText":	"my hands are tied"
+            },
+            {
+              "text":	". Our president has told me to "
+            },
+            {
+              "markedText":	"reduce headcount"
+            },
+            {
+              "text":	" by 50 percent."
             }
           ]
         },
@@ -118,10 +182,16 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Dan: "
             },
             {
-              "text": "... "
+              "text": "I thought you and I were friends, but when "
+            },
+            {
+              "markedText":	"push comes to shove"
+            },
+            {
+              "text":	", I guess our friendship isn't worth anything."
             }
           ]
         },
@@ -129,10 +199,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Kurt: "
             },
             {
-              "text": "... "
+              "text": "Of course we're still friends, but business is business."
             }
           ]
         },
@@ -140,10 +210,10 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Dan: "
             },
             {
-              "text": "... "
+              "text": "I don't agree with that. I would never fire a friend...after all those times Kathleen and I invited you and Donna to dinner at our home!"
             }
           ]
         },
@@ -151,10 +221,22 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "boldText": "Kurt: "
             },
             {
-              "text": "... "
+              "text": "Dan, I want you to leave Swift Shoes on friendly terms. "
+            },
+            {
+              "markedText":	"No hard feelings"
+            },
+            {
+              "text":	". "
+            },
+            {
+              "markedText":	"To soften the blow"
+            },
+            {
+              "text":	", we're going to give you a generous severance package.*"
             }
           ]
         },
@@ -162,21 +244,19 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "xxx: "
+              "text": "*severance package - the benefits offered to an employee being laid off"
             },
             {
-              "text": "... "
-            }
-          ]
-        },
-        {
-          "lineBreak": true,
-          "paragraph": [
-            {
-              "boldText": "xxx: "
+              "text":	""
             },
             {
-              "text": "... "
+              "text":	""
+            },
+            {
+              "text":	""
+            },
+            {
+              "text":	""
             }
           ]
         }

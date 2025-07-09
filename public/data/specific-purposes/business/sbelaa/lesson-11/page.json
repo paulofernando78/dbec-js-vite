@@ -5,6 +5,10 @@
     "descriptions": [
       {
         "icon": "business",
+        "description": "Business"
+      },
+      {
+        "icon": "book",
         "description": "Speak Business English Like an American"
       },
       {
@@ -23,6 +27,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "page",
         "label": "Lesson 11 • Motivating Co-Workers",
         "descriptions": [
           {
@@ -58,10 +63,10 @@
               "text": "We’ve been "
             },
             {
-              "markedText":	"working our tails off"
+              "markedText": "working our tails off"
             },
             {
-              "text":	" and our results are still lousy!"
+              "text": " and our results are still lousy!"
             }
           ]
         },
@@ -75,10 +80,10 @@
               "text": "Maybe we should exit the trash bag business — just "
             },
             {
-              "markedText":	"call it quits"
+              "markedText": "call it quits"
             },
             {
-              "text":	"!"
+              "text": "!"
             }
           ]
         },
@@ -92,13 +97,13 @@
               "text": "Come on. Let’s not "
             },
             {
-              "markedText":	"throw in the towel"
+              "markedText": "throw in the towel"
             },
             {
-              "text":	" yet. "
+              "text": " yet. "
             },
             {
-              "markedText":	"We’ve been down before, but we always come back fighting"
+              "markedText": "We’ve been down before, but we always come back fighting"
             }
           ]
         },
@@ -112,10 +117,10 @@
               "text": "But this time "
             },
             {
-              "markedText":	"private-label products"
+              "markedText": "private-label products"
             },
             {
-              "text":	" are driving us out of business!"
+              "text": " are driving us out of business!"
             }
           ]
         },
@@ -129,10 +134,10 @@
               "text": "We’ve got a successful "
             },
             {
-              "markedText":	"track record"
+              "markedText": "track record"
             },
             {
-              "text":	". Everybody knows that we offer quality trash bags."
+              "text": ". Everybody knows that we offer quality trash bags."
             }
           ]
         },
@@ -146,10 +151,10 @@
               "text": "That’s true, but we can’t just "
             },
             {
-              "markedText":	"rest on our laurels"
+              "markedText": "rest on our laurels"
             },
             {
-              "text":	" forever."
+              "text": " forever."
             }
           ]
         },
@@ -163,10 +168,10 @@
               "text": "Well, I have a new idea that’s going to "
             },
             {
-              "markedText":	"turn around our business"
+              "markedText": "turn around our business"
             },
             {
-              "text":	". It’s a new line of trash bags that smell like fresh fruits, such as apples and peaches."
+              "text": ". It’s a new line of trash bags that smell like fresh fruits, such as apples and peaches."
             }
           ]
         },
@@ -180,16 +185,16 @@
               "text": "That sounds like a great idea. I’m ready to "
             },
             {
-              "markedText":	"roll up my sleeves"
+              "markedText": "roll up my sleeves"
             },
             {
-              "text":	" and "
+              "text": " and "
             },
             {
-              "markedText":	"get down to business"
+              "markedText": "get down to business"
             },
             {
-              "text":	"!"
+              "text": "!"
             }
           ]
         },
@@ -203,16 +208,16 @@
               "text": "I appreciate your "
             },
             {
-              "markedText":	"team spirit"
+              "markedText": "team spirit"
             },
             {
-              "text":	"! Donna, are you "
+              "text": "! Donna, are you "
             },
             {
-              "markedText":	"on board"
+              "markedText": "on board"
             },
             {
-              "text":	" too?"
+              "text": " too?"
             }
           ]
         },
@@ -226,10 +231,10 @@
               "text": "Sure. "
             },
             {
-              "markedText":	"Count me in"
+              "markedText": "Count me in"
             },
             {
-              "text":	"."
+              "text": "."
             }
           ]
         },
@@ -243,10 +248,10 @@
               "text": "Great. Let’s get everybody else in the Company excited about this plan, too. I’ll count on you two to "
             },
             {
-              "markedText":	"rally the troops."
+              "markedText": "rally the troops."
             },
             {
-              "text":	"."
+              "text": "."
             }
           ]
         }
