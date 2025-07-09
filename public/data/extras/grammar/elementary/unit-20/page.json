@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 20"
-      },
-      {
-        "description": "I have done (present perfect) and I did (past)"
+        "icon": "page",
+        "description": "Unit 20 • I have done (present perfect) and I did (past)"
       }
     ]
   },

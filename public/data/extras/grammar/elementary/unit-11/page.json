@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 11"
-      },
-      {
-        "description": "worked / got / went etc. (simple past)"
+        "icon": "page",
+        "description": "Unit 11 • worked / got / went etc. (simple past)"
       }
     ]
   },

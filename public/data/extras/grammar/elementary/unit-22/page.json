@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 22"
-      },
-      {
-        "description": "is being done / has been done"
+        "icon": "page",
+        "description": "Unit 22 • is being done / has been done"
       }
     ]
   },

@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 6"
-      },
-      {
-        "description": "I don't... (simple present negative)"
+        "icon": "page",
+        "description": "Unit 6 • I don't... (simple present negative)"
       }
     ]
   },

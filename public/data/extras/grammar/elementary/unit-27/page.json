@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 27"
-      },
-      {
-        "description": "will/shall 1"
+        "icon": "page",
+        "description": "Unit 27 • will/shall 1"
       }
     ]
   },

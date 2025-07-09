@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 19"
-      },
-      {
-        "description": "for / since / ago"
+        "icon": "page",
+        "description": "Unit 19 • for / since / ago"
       }
     ]
   },

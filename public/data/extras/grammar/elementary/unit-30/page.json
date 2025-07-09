@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 30"
-      },
-      {
-        "description": " can and could"
+        "icon": "page",
+        "description": "Unit 30 • can and could"
       }
     ]
   },

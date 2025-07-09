@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 17"
-      },
-      {
-        "description": "Have you ever... ? (present perfect 3)"
+        "icon": "page",
+        "description": "Unit 17 • Have you ever... ? (present perfect 3)"
       }
     ]
   },

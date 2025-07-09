@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 35"
-      },
-      {
-        "description": "Do this? Don't do that! Let's do this!"
+        "icon": "page",
+        "description": "Unit 35 • Do this? Don't do that! Let's do this!"
       }
     ]
   },

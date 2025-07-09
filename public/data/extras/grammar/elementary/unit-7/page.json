@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 7"
-      },
-      {
-        "description": "Do you? (simple present questions)"
+        "icon": "page",
+        "description": "Unit 7 • Do you? (simple present questions)"
       }
     ]
   },

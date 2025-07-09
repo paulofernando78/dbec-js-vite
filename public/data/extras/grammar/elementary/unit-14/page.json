@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 14"
-      },
-      {
-        "description": "I was doing (past continuous) I did (simple past)"
+        "icon": "page",
+        "description": "Unit 14 • I was doing (past continuous) I did (simple past)"
       }
     ]
   },

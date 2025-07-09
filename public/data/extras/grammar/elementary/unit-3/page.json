@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 3"
-      },
-      {
-        "description": "I am doing (present continuous)"
+        "icon": "page",
+        "description": "Unit 3 • I am doing (present continuous)"
       }
     ]
   },

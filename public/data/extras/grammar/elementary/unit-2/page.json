@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 2"
-      },
-      {
-        "description": "am/is/are (questions)"
+        "icon": "page",
+        "description": "Unit 2 • am/is/are (questions)"
       }
     ]
   },

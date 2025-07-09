@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 23"
-      },
-      {
-        "description": "be / have / do in present and past tenses"
+        "icon": "page",
+        "description": "Unit 23 • be / have / do in present and past tenses"
       }
     ]
   },

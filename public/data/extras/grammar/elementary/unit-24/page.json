@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 24"
-      },
-      {
-        "description": "Regular and irregular verbs"
+        "icon": "page",
+        "description": "Unit 24 • Regular and irregular verbs"
       }
     ]
   },

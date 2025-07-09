@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 5"
-      },
-      {
-        "description": "I do/work/like etc. (simple present)"
+        "icon": "page",
+        "description": "Unit 5 • I do/work/like etc. (simple present)"
       }
     ]
   },

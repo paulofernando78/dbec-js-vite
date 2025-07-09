@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 16"
-      },
-      {
-        "description": "I've just (present perfect 2)"
+        "icon": "page",
+        "description": "Unit 16 • I've just (present perfect 2)"
       }
     ]
   },

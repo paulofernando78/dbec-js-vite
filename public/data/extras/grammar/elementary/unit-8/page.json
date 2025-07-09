@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar "
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 8"
-      },
-      {
-        "description": "I am doing (present continouos) and I do (simple present)"
+        "icon": "page",
+        "description": "Unit 8 • I am doing (present continouos) and I do (simple present)"
       }
     ]
   },

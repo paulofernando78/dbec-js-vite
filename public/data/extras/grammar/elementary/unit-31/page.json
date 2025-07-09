@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 31"
-      },
-      {
-        "description": "must / mustn't / don't need to"
+        "icon": "page",
+        "description": "Unit 31 • must / mustn't / don't need to"
       }
     ]
   },

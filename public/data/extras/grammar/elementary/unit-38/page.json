@@ -4,13 +4,16 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "description": "Unit 38"
-      },
-      {
-        "description": "there was / were, there has / have been, there will be"
+        "icon": "page",
+        "description": "Unit 38 • there was / were, there has / have been, there will be"
       }
     ]
   },

@@ -5,10 +5,14 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
-        "icon": "assignment",
+        "icon": "page",
         "description": "Unit 37 • there is / there are"
       }
     ]
@@ -50,6 +54,7 @@
     {
       "paragraphs": [
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Singular"
@@ -57,7 +62,8 @@
           ]
         },
         {
-          "paragraph": [ 
+          "lineBreak": true,
+          "paragraph": [
             {
               "displayBlock": true,
               "text": "there is... (there's)"
@@ -78,7 +84,7 @@
               "boldText": "• "
             },
             {
-              "mark": "There's"
+              "markedText": "There's"
             },
             {
               "text": " a big tree in the yard."
@@ -91,7 +97,7 @@
               "boldText": "• "
             },
             {
-              "mark": "There's"
+              "markedText": "There's"
             },
             {
               "text": " nothing on TV tonight."
@@ -106,7 +112,6 @@
             {
               "text": "A: Do you have any money?"
             }
-
           ]
         },
         {
@@ -115,12 +120,11 @@
               "text": " B: Yes, "
             },
             {
-              "mark": "there's"
+              "markedText": "there's"
             },
             {
               "text": " some in my wallet."
             }
-
           ]
         },
         {
@@ -132,7 +136,7 @@
               "text": "A: Excuse me, "
             },
             {
-              "mark": "is there"
+              "markedText": "is there"
             },
             {
               "text": " a hotel near here?"
@@ -145,13 +149,13 @@
               "text": "B: Yes, "
             },
             {
-              "mark": "there is"
+              "markedText": "there is"
             },
             {
               "text": " / No,"
             },
             {
-              "mark": " there isn't"
+              "markedText": " there isn't"
             },
             {
               "text": "."
@@ -159,6 +163,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "• "
@@ -167,7 +172,7 @@
               "text": "We can't go skiing."
             },
             {
-              "mark": "There isn't"
+              "markedText": "There isn't"
             },
             {
               "text": " any snow."
@@ -175,6 +180,7 @@
           ]
         },
         {
+          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "plural"
