@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 102"
-      },
-      {
-        "description": "the people we went, the hotel you stayed at (relative clauses 2)"
+        "description": "Unit 102 • the people we went, the hotel you stayed at (relative clauses 2)"
       }
     ]
   },

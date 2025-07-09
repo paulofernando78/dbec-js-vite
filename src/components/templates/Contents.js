@@ -9,16 +9,16 @@ class Contents extends HTMLElement {
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
-    const style = document.createElement("style");
+    const css = document.createElement("style");
     /*css*/
-    style.textContent = `
+    css.textContent = `
       wc-audio-player.sticky, wc-video-player.sticky {
         position: sticky;
         top: 0;
         z-index: 999
       }
     `;
-    this.shadowRoot.appendChild(style);
+    this.shadowRoot.appendChild(css);
   }
 
   set data(content) {
@@ -91,20 +91,14 @@ class Contents extends HTMLElement {
       }
 
       if (section.exercises) {
-        section.exercises.forEach((exerciseGroup) => {
-          // Radio
-          if (exerciseGroup.radioExercises) {
-            const radioExercise = document.createElement("wc-exercise");
-            radioExercise.data = exerciseGroup.radioExercises;
-            contentContainer.appendChild(radioExercise);
-          }
+        const exercise = document.createElement("wc-exercise");
+        exercise.data = section.exercises;
+        contentContainer.appendChild(exercise);
+      }
 
-          // Checkbox
-
-          // Dropbox
-
-          // Fill in the blans
-        });
+      if (section.hr) {
+        const hr = document.createElement("hr");
+        contentContainer.appendChild(hr);
       }
     });
 

@@ -34,11 +34,97 @@
         }
       ]
     },
+
     {
       "ribbon": {
         "icon": "pages",
         "label": "suffixes"
       }
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "page",
+        "label": "-ly"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "linebreak": true,
+          "paragraph": [
+            {
+              "boldText": "friend ➜ friendly"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "page",
+        "label": "-ment"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "linebreak": true,
+          "paragraph": [
+            {
+              "boldText": "achieve ➜ achievement"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "linebreak": true,
+          "paragraph": [
+            {
+              "boldText": "develop ➜ developement"
+            }
+          ]
+        },
+        {
+          "lineBreak": true,
+          "paragraph": [
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        }
+      ]
     },
     {
       "ribbon": {

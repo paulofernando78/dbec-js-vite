@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 74"
-      },
-      {
-        "description": "this/that/these/those"
+        "description": "Unit 74 • this/that/these/those"
       }
     ]
   },

@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 60"
-      },
-      {
-        "description": "my/his/their etc."
+        "description": "Unit 60 • my/his/their etc."
       }
     ]
   },

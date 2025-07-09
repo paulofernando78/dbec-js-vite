@@ -63,13 +63,13 @@
               "text": "He’s "
             },
             {
-              "mark": "up to his old tricks"
+              "markedText": "up to his old tricks"
             },
             {
               "text": ". He’s up to his old tricks. He was trying to earn "
             },
             {
-              "mark": "brownie points"
+              "markedText": "brownie points"
             },
             {
               "text": " with Bill."
@@ -86,7 +86,7 @@
               "text": "Mitch has the reputation of being a "
             },
             {
-              "mark": "yes man"
+              "markedText": "yes man"
             },
             {
               "text": " and a brown noser. He’s an expert at kissing up."
@@ -95,7 +95,7 @@
               "text": "Mitch has the reputation of being a yes man and a brown noser. He’s an expert at "
             },
             {
-              "mark": "kissing up"
+              "markedText": "kissing up"
             },
             {
               "text": "."
@@ -112,13 +112,13 @@
               "text": "Then he said to Bill, “Other people here don’t appreciate you like I do!” "
             },
             {
-              "mark": "Talk about"
+              "markedText": "Talk about"
             },
             {
               "text": " trying to "
             },
             {
-              "mark": "butter up"
+              "markedText": "butter up"
             },
             {
               "text": " the boss!"
@@ -135,13 +135,13 @@
               "text": "Yeah, and this time "
             },
             {
-              "mark": "at our expense"
+              "markedText": "at our expense"
             },
             {
               "text": "! He’s just "
             },
             {
-              "mark": "out for himself"
+              "markedText": "out for himself"
             },
             {
               "text": "."
@@ -158,13 +158,13 @@
               "text": " Well, it’s a "
             },
             {
-              "mark": "dog-eat-dog world"
+              "markedText": "dog-eat-dog world"
             },
             {
               "text": ". Obviously he thinks this is the way to "
             },
             {
-              "mark": "get ahead"
+              "markedText": "get ahead"
             },
             {
               "text": "."
@@ -181,13 +181,13 @@
               "text": "I guess it’s one way to "
             },
             {
-              "mark": "climb the corporate ladder"
+              "markedText": "climb the corporate ladder"
             },
             {
               "text": ". But I could never "
             },
             {
-              "mark": "look at myself in the mirror"
+              "markedText": "look at myself in the mirror"
             },
             {
               "text": " after behaving that way."
@@ -204,13 +204,13 @@
               "text": "I’m not good at "
             },
             {
-              "mark": "kissing up"
+              "markedText": "kissing up"
             },
             {
               "text": ". "
             },
             {
-              "mark": "No wonder"
+              "markedText": "No wonder"
             },
             {
               "text": " I’ve been in the same lousy position for 10 years!"
@@ -235,7 +235,7 @@
               "text": " Hey guys. Don’t you know it’s rude to "
             },
             {
-              "mark": "talk behind someone’s back"
+              "markedText": "talk behind someone’s back"
             },
             {
               "text": "? I just overheard your entire conversation!"
@@ -263,13 +263,13 @@
               "text": "Well, "
             },
             {
-              "mark": "the walls have ears"
+              "markedText": "the walls have ears"
             },
             {
               "text": ". "
             },
             {
-              "mark": "Think twice"
+              "markedText": "Think twice"
             },
             {
               "text": " before you insult me again!"
@@ -283,7 +283,7 @@
               "boldText": "Nancy: "
             },
             {
-              "mark": "Chill out"
+              "markedText": "Chill out"
             },
             {
               "text": "! We were talking about a different Mitch, not you."
@@ -308,16 +308,16 @@
               "boldText": "Mitch: "
             },
             {
-              "mark": " Likely story"
+              "markedText": " Likely story"
             },
             {
               "text": ". "
             },
             {
-              "mark": "I wasn’t born yesterday"
+              "markedText": "I wasn’t born yesterday"
             },
             {
-              "mark": "!"
+              "markedText": "!"
             }
           ]
         }

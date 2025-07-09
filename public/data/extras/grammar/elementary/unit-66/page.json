@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 66"
-      },
-      {
-        "description": "train(s) / bus(es) (singular and plural nouns)"
+        "description": "Unit 66 • train(s) / bus(es) (singular and plural nouns)"
       }
     ]
   },

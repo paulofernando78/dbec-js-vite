@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 93"
-      },
-      {
-        "description": "He speaks English very well. (word order 1)"
+        "description": "Unit 93 • He speaks English very well. (word order 1)"
       }
     ]
   },

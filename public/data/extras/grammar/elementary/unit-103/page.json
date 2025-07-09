@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 103"
-      },
-      {
-        "description": "at 8 o'clock, on Monday, in April"
+        "description": "Unit 103 • at 8 o'clock, on Monday, in April"
       }
     ]
   },

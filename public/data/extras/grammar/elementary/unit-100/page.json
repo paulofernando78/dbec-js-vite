@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 100"
-      },
-      {
-        "description": "If I had..., If we went... etc."
+        "description": "Unit 100 • If I had..., If we went... etc."
       }
     ]
   },

@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 52"
-      },
-      {
-        "description": "to... (want to do) and -ing (I enjoy doing)"
+        "description": "Unit 52 • to... (want to do) and -ing (I enjoy doing)"
       }
     ]
   },

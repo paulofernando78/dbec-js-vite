@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 61"
-      },
-      {
-        "description": "Whose is this? It's mine/yours/hers etc."
+        "description": "Unit 61 • Whose is this? It's mine/yours/hers etc."
       }
     ]
   },

@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 96"
-      },
-      {
-        "description": "Give me that book!, Give it to me!"
+        "description": "Unit 96 • Give me that book!, Give it to me!"
       }
     ]
   },

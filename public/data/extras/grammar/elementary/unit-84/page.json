@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 84"
-      },
-      {
-        "description": "(a) little, (a) few"
+        "description": "Unit 84 • (a) little, (a) few"
       }
     ]
   },

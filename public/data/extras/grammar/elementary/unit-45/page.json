@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 45"
-      },
-      {
-        "description": "Who saw you? / Who did you see? (questions 2)"
+        "description": "Unit 45 • Who saw you? / Who did you see? (questions 2)"
       }
     ]
   },

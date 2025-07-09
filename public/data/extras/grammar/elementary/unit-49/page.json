@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 49"
-      },
-      {
-        "description": "Do you know where... ?"
+        "description": "Unit 49 • Do you know where... ?"
       }
     ]
   },

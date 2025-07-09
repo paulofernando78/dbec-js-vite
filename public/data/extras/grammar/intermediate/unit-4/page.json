@@ -4,13 +4,12 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
         "description": "Intermediate"
       },
       {
-        "description": "Unit 4"
-      },
-      {
-        "description": "Present continuous and Present simple 2 (I am doing and I do)"
+        "icon": "page",
+        "description": "Unit 4 • Present continuous and Present simple 2 (I am doing and I do)"
       }
     ]
   },

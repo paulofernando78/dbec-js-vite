@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 81"
-      },
-      {
-        "description": "all, most, some, any, no/none"
+        "description": "Unit 81 • all, most, some, any, no/none"
       }
     ]
   },

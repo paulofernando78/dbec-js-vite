@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 101"
-      },
-      {
-        "description": "a person who... a thing that / which... (relative clauses 1)"
+        "description": "Unit 101 • a person who... a thing that / which... (relative clauses 1)"
       }
     ]
   },

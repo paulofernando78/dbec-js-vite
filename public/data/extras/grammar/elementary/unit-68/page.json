@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 68"
-      },
-      {
-        "description": "a cake / some cake / some cakes (countable/uncoutable 2)"
+        "description": "Unit 68 • a cake / some cake / some cakes (countable/uncoutable 2)"
       }
     ]
   },

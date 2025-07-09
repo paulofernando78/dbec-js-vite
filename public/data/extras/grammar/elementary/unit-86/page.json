@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 86"
-      },
-      {
-        "description": "quickly / badly / suddenly etc. (adverbs)"
+        "description": "Unit 86 • quickly / badly / suddenly etc. (adverbs)"
       }
     ]
   },

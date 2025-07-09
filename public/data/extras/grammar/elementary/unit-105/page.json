@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 105"
-      },
-      {
-        "description": "before, after, during, while"
+        "description": "Unit 105 • before, after, during, while"
       }
     ]
   },

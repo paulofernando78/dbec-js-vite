@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 95"
-      },
-      {
-        "description": "still, yet, already"
+        "description": "Unit 95 • still, yet, already"
       }
     ]
   },

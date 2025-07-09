@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 104"
-      },
-      {
-        "description": "from... to, until, since, for"
+        "description": "Unit 104 • from... to, until, since, for"
       }
     ]
   },

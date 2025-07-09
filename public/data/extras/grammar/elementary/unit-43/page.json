@@ -5,14 +5,18 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 43"
+        "description": "Unit 43 • isn't, haven't, don't etc. (negatives)"
       },
       {
-        "description": "isn't, haven't, don't etc. (negatives)"
+        "description": ""
       }
     ]
   },

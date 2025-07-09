@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 82"
-      },
-      {
-        "description": "both, either, neither"
+        "description": "Unit 82 • both, either, neither"
       }
     ]
   },

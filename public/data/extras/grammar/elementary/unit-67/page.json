@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 67"
-      },
-      {
-        "description": "a bottle / some water (countable/uncountable 1)"
+        "description": "Unit 67 • a bottle / some water (countable/uncountable 1)"
       }
     ]
   },

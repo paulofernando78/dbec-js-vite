@@ -4,13 +4,12 @@
     "subtitle": "Grammar",
     "descriptions": [
       {
+        "icon": "book",
         "description": "Intermediate"
       },
       {
-        "description": "Unit 2"
-      },
-      {
-        "description": "Simple present (I do)"
+        "icon": "page",
+        "description": "Unit 2 • Simple present (I do)"
       }
     ]
   },

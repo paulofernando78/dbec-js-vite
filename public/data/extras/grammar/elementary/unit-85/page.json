@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 85"
-      },
-      {
-        "description": "old, nice, interesting etc. (adjectives)"
+        "description": "Unit 85 • old, nice, interesting etc. (adjectives)"
       }
     ]
   },

@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 83"
-      },
-      {
-        "description": "a lot, much, many"
+        "description": "Unit 83 • a lot, much, many"
       }
     ]
   },

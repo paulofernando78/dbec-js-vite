@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 71"
-      },
-      {
-        "description": "go to work / go home / go to the movie theater"
+        "description": "Unit 71 • go to work / go home / go to the movie theater"
       }
     ]
   },

@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 114"
-      },
-      {
-        "description": "go in, fall off, run away etc. (phrasal verbs 1)"
+        "description": "Unit 114 • go in, fall off, run away etc. (phrasal verbs 1)"
       }
     ]
   },

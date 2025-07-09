@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 94"
-      },
-      {
-        "description": "always / usually / often etc. (word order 2)"
+        "description": "Unit 94 • always / usually / often etc. (word order 2)"
       }
     ]
   },

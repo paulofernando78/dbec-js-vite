@@ -9,38 +9,58 @@ class Exercise extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-  }
 
-  set data(radio) {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
+  }
 
-    // RADIO
-    radio.forEach((item, idx) => {
-      const container = document.createElement("div");
-      container.classList.add("radio-exercise-group");
-      container.style.marginBottom = "var(--line-break)";
-
-      const titleDescWrapper = document.createElement("div");
-      titleDescWrapper.style.marginBottom = "var(--break-line)";
-      container.appendChild(titleDescWrapper);
-
-      if (item.title) {
-        const title = document.createElement("p");
-        title.textContent = item.title;
-        title.style.fontWeight = "bold";
-        titleDescWrapper.appendChild(title);
+  set data(exercises) {
+    exercises.forEach((section, idx) => {
+      if (section.title) {
+        this._renderTitleDescription(section.title, section.description);
       }
 
-      if (item.description) {
-        const description = document.createElement("p");
-        description.textContent = item.description;
-        description.style.fontStyle = "italic";
-        titleDescWrapper.appendChild(description);
+      if (section.radioExercises) {
+        console.log("Recebido?:", section.radioExercises);
+        this._renderRadioExercises(section.radioExercises, idx);
       }
 
-      // Question
+      if (section.fillExercises) {
+        this._renderFillExercises(section.fillExercises);
+      }
+    });
+
+    this.renderButtons();
+  }
+
+  _renderTitleDescription(title, description) {
+    const wrapper = document.createElement("div");
+    wrapper.style.marginBottom = "var(--line-break)";
+
+    if (title) {
+      const titleElement = document.createElement("p");
+      titleElement.textContent = title;
+      titleElement.style.fontWeight = "bold";
+      wrapper.appendChild(titleElement);
+    }
+
+    if (description) {
+      const descriptionElement = document.createElement("p");
+      descriptionElement.textContent = description;
+      descriptionElement.style.fontStyle = "italic";
+      wrapper.appendChild(descriptionElement);
+    }
+    this.shadowRoot.appendChild(wrapper);
+  }
+
+  // RADIO
+  _renderRadioExercises(items, idxOffset) {
+    items.forEach((item, idx) => {
+      const radioContainer = document.createElement("div");
+      radioContainer.style.marginBottom = "var(--line-break)"
+      radioContainer.classList.add("radio-exercise-group");
+
       if (item.question) {
         const question = document.createElement("p");
         item.question.forEach((q) => {
@@ -62,9 +82,8 @@ class Exercise extends HTMLElement {
             question.appendChild(questionMark);
           }
         });
-        container.appendChild(question);
+        radioContainer.appendChild(question);
       }
-
 
       if (item.options) {
         item.options.forEach((option) => {
@@ -76,6 +95,7 @@ class Exercise extends HTMLElement {
 
           // input
           const input = document.createElement("input");
+          input.dataset.correct = option.isCorrect === true ? "true" : "false";
           input.style.appearance = "none";
           input.style.WebkitAppearance = "none"; // ???
           input.style.MozAppearance = "none";
@@ -116,8 +136,8 @@ class Exercise extends HTMLElement {
           input.style.position = "relative";
 
           input.addEventListener("change", () => {
-            const container = input.closest(".radio-exercise-group");
-            const alldots = container.querySelectorAll(".radio-dot");
+            const group = input.closest(".radio-exercise-group");
+            const alldots = group.querySelectorAll(".radio-dot");
             alldots.forEach((p) => (p.style.display = "none"));
             dot.style.display = "block";
           });
@@ -127,7 +147,7 @@ class Exercise extends HTMLElement {
           optionWrapper.appendChild(dot);
 
           input.type = "radio";
-          input.name = `radio-${idx}`;
+          input.name = `radio-${idx + idxOffset}`;
           input.value = option.option;
           optionWrapper.appendChild(input);
 
@@ -140,13 +160,15 @@ class Exercise extends HTMLElement {
           result.style.display = "none";
           label.appendChild(result);
 
-          container.appendChild(optionWrapper);
+          radioContainer.appendChild(optionWrapper);
         });
       }
 
-      this.shadowRoot.appendChild(container);
+      this.shadowRoot.appendChild(radioContainer);
     });
+  }
 
+  renderButtons() {
     const buttonsWrapper = document.createElement("div");
     buttonsWrapper.style.display = "flex";
     buttonsWrapper.style.gap = "8px";
@@ -160,13 +182,13 @@ class Exercise extends HTMLElement {
       const containers = this.shadowRoot.querySelectorAll(
         ".radio-exercise-group"
       );
-      containers.forEach((container, idx) => {
+      containers.forEach((container) => {
         const inputs = container.querySelectorAll("input[type='radio']");
         const results = container.querySelectorAll("span.result");
 
         inputs.forEach((input, i) => {
           const isChecked = input.checked;
-          const isCorrect = radio[idx].options[i].iscorrect === true;
+          const isCorrect = input.dataset.correct === "true";
 
           // Result
           const resultSpan = results[i];
@@ -223,12 +245,6 @@ class Exercise extends HTMLElement {
 
     buttonsWrapper.append(checkAnswersButton, resetButton);
     this.shadowRoot.appendChild(buttonsWrapper);
-
-    // Checkbox
-
-    // Dropdown
-
-    // Fill in the blanks
   }
 }
 

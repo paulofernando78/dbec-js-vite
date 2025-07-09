@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 78"
-      },
-      {
-        "description": "not + anybody/anyone/anything, nobody/no one/nothing"
+        "description": "Unit 78 • not + anybody/anyone/anything, nobody/no one/nothing"
       }
     ]
   },

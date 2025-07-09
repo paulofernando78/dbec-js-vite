@@ -119,7 +119,7 @@
             {
               "phonetics": "phonetics "
             },
-            { 
+            {
               "partOfSpeech": "partOfSpeech "
             },
             {
@@ -266,31 +266,58 @@
     {
       "exercises": [
         {
+          "title": "Title",
+          "description": "Description"
+        },
+        {
           "radioExercises": [
-            {
-              "title": "Title",
-              "description": "Description"
-            },
             {
               "question": [
                 {
-                  "boldText": "1. ",
-                  "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+                  "boldText": "1. ...",
+                  "text": "... ",
                   "markedText": "..."
                 }
               ],
               "options": [
                 {
-                  "option": "a) Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
-                  "iscorrect": true
+                  "option": "a) ...",
+                  "isCorrect": true
                 },
                 {
-                  "option": "b) Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem eius laudantium temporibus dolores explicabo pariatur nisi beatae, quia aperiam, exercitationem asperiores doloribus porro nobis in laborum accusamus provident deserunt obcaecati.",
-                  "iscorrect": false
+                  "option": "b) ...",
+                  "isCorrect": false
                 },
                 {
-                  "option": "c) Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem eius laudantium temporibus dolores explicabo pariatur nisi beatae, quia aperiam, exercitationem asperiores doloribus porro nobis in laborum accusamus provident deserunt obcaecati.",
-                  "iscorrect": false
+                  "option": "c) ...",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "boldText": "1. ...",
+                  "text": "... ",
+                  "markedText": "..."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) ...",
+                  "isCorrect": true
+                },
+                {
+                  "option": "b) ...",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) ...",
+                  "isCorrect": false
                 }
               ]
             }

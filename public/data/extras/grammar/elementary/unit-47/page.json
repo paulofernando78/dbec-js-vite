@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 47"
-      },
-      {
-        "description": "What? / Which? / How? (questions 4)"
+        "description": "Unit 47 • What? / Which? / How? (questions 4)"
       }
     ]
   },

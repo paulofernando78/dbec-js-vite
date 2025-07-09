@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 115"
-      },
-      {
-        "description": "put on your shoes / put your shoes on (phrasal verbs 2)"
+        "description": "Unit 115 • put on your shoes / put your shoes on (phrasal verbs 2)"
       }
     ]
   },

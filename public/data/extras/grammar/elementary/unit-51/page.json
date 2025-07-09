@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 51"
-      },
-      {
-        "description": "work / working, go / going, do / doing"
+        "description": "Unit 51 • work / working, go / going, do / doing"
       }
     ]
   },

@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 112"
-      },
-      {
-        "description": "afraid of..., good at... etc. of/at/for etc. (prepositions) + -ing"
+        "description": "Unit 112 • afraid of..., good at... etc. of/at/for etc. (prepositions) + -ing"
       }
     ]
   },

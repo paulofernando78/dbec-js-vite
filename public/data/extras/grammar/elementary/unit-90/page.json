@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 90"
-      },
-      {
-        "description": "the oldest, the most expensive"
+        "description": "Unit 90 • the oldest, the most expensive"
       }
     ]
   },

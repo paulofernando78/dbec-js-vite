@@ -27,3 +27,8 @@ textarea,
 select {
   line-height: 1.4;
 }
+
+hr {
+  margin: 10px;
+  border-color: rgba(255, 255, 255, 0.5);
+}

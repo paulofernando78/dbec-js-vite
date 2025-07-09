@@ -84,7 +84,6 @@ class Card extends HTMLElement {
 
       if (descGroup.addHr) {
         const hr = document.createElement("hr");
-        hr.style.margin = "10px";
         innerCard.appendChild(hr);
       }
 

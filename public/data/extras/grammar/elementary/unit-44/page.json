@@ -5,14 +5,18 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 44"
+        "description": "Unit 44 • is it...? / have you...? / do they...? etc. (questions 1)"
       },
       {
-        "description": "is it...? / have you...? / do they...? etc. (questions 1)"
+        "description": ""
       }
     ]
   },

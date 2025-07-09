@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 57"
-      },
-      {
-        "description": "do and make"
+        "description": "Unit 57 • do and make"
       }
     ]
   },

@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 48"
-      },
-      {
-        "description": "How long does it take... ?"
+        "description": "Unit 48 • How long does it take... ?"
       }
     ]
   },

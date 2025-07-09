@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 97"
-      },
-      {
-        "description": "and, but, or, so, because"
+        "description": "Unit 97 • and, but, or, so, because"
       }
     ]
   },

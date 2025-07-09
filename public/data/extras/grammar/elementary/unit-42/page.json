@@ -5,14 +5,15 @@
     "descriptions": [
       {
         "icon": "book",
+        "description": "Grammar"
+      },
+      {
+        "icon": "book",
         "description": "Elementary"
       },
       {
         "icon": "page",
-        "description": "Unit 42"
-      },
-      {
-        "description": "too/either, so am I / neither do I etc."
+        "description": "Unit 42 • too/either, so am I / neither do I etc."
       }
     ]
   },
