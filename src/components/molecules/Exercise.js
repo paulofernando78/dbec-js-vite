@@ -13,6 +13,10 @@ class Exercise extends HTMLElement {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
+
+    this.exerciseContainer = document.createElement("div");
+    this.exerciseContainer.classList.add("line-break");
+    this.shadowRoot.appendChild(this.exerciseContainer);
   }
 
   set data(exercises) {
@@ -44,31 +48,31 @@ class Exercise extends HTMLElement {
     this.renderButtons();
   }
 
+  // Title / Description
   _renderTitleDescription(title, description) {
-    const wrapper = document.createElement("div");
-    wrapper.style.marginBottom = "var(--line-break)";
+    const titleWrapper = document.createElement("div");
 
     if (title) {
       const titleElement = document.createElement("p");
       titleElement.textContent = title;
       titleElement.style.fontWeight = "bold";
-      wrapper.appendChild(titleElement);
+      titleWrapper.appendChild(titleElement);
     }
 
     if (description) {
       const descriptionElement = document.createElement("p");
       descriptionElement.textContent = description;
       descriptionElement.style.fontStyle = "italic";
-      wrapper.appendChild(descriptionElement);
+      titleWrapper.appendChild(descriptionElement);
     }
-    this.shadowRoot.appendChild(wrapper);
+    this.exerciseContainer.appendChild(titleWrapper);
   }
 
   // Radio
   _renderRadioExercises(items, idxOffset) {
     items.forEach((item, idx) => {
       const radioContainer = document.createElement("div");
-      radioContainer.style.marginBottom = "var(--line-break)";
+      // radioContainer.style.marginBottom = "var(--line-break)";
       radioContainer.classList.add("radio-exercise-group");
 
       if (item.question) {
@@ -174,32 +178,38 @@ class Exercise extends HTMLElement {
         });
       }
 
-      this.shadowRoot.appendChild(radioContainer);
+      this.exerciseContainer.appendChild(radioContainer);
     });
   }
 
+  // Checkbox
   _renderCheckboxExercises(items) {
     items.forEach((item) => {
       const checkboxContainer = document.createElement("div");
-      this.shadowRoot.appendChild(checkboxContainer);
+      this.exerciseContainer.appendChild(checkboxContainer);
     });
   }
 
+  // Dropdown
   _renderDropdownExercises(items) {
     items.forEach((item) => {
       const dropdownContainer = document.createElement("div");
-      this.shadowRoot.appendChild(dropdownContainer);
+      this.exerciseContainer.appendChild(dropdownContainer);
     });
   }
 
+  // Fill in the blanks
   _renderFillExercises(items) {
+    const fillContainer = document.createElement("div")
+    // fillContainer.classList.add("fill-exercise-group")
+
     items.forEach((item) => {
-      const fillContainer = document.createElement("div");
-      fillContainer.style.display = "inline";
+      const fillWrapper = document.createElement("div");
+      fillWrapper.style.display = "inline"
       if (item.displayBlock) {
-        fillContainer.style.display = "block";
+        fillWrapper.style.display = "block"
       }
-      fillContainer.style.marginBottom = "var(--line-break)";
+
       const beforeBlank = document.createElement("span");
       beforeBlank.textContent = item.beforeBlank;
       const blank = document.createElement("input");
@@ -212,10 +222,11 @@ class Exercise extends HTMLElement {
       const fillResult = document.createElement("span");
       const afterBlank = document.createElement("span");
       afterBlank.textContent = item.afterBlank;
-      fillContainer.append(beforeBlank, blank, afterBlank);
+      fillWrapper.append(beforeBlank, blank, afterBlank);
+      fillContainer.appendChild(fillWrapper)
 
-      this.shadowRoot.appendChild(fillContainer);
     });
+    this.exerciseContainer.appendChild(fillContainer)
   }
 
   renderButtons() {
@@ -293,7 +304,7 @@ class Exercise extends HTMLElement {
     });
 
     buttonsWrapper.append(checkAnswersButton, resetButton);
-    this.shadowRoot.appendChild(buttonsWrapper);
+    this.exerciseContainer.appendChild(buttonsWrapper);
   }
 }
 

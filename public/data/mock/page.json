@@ -266,7 +266,7 @@
     {
       "exercises": [
         {
-          "title": "Title",
+          "title": "Radio",
           "description": "Description"
         },
         {
@@ -293,14 +293,41 @@
                   "isCorrect": false
                 }
               ]
+            },
+            {
+              "question": [
+                {
+                  "boldText": "2. ...",
+                  "text": "... ",
+                  "markedText": "..."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) ...",
+                  "isCorrect": true
+                },
+                {
+                  "option": "b) ...",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) ...",
+                  "isCorrect": false
+                }
+              ]
             }
           ]
+        },
+        {
+          "title": "Fill in the blank",
+          "description": "Description"
         },
         {
           "fillExercises": [
             {
               "width": "70px",
-              "beforeBlank": "1. I",
+              "beforeBlank": "I",
               "correctAnswer": ["am", "'m"],
               "afterBlank": "a student. I"
             },
@@ -308,6 +335,11 @@
               "width": "70px",
               "correctAnswer": ["wake up"],
               "afterBlank": "very early to"
+            },
+            {
+              "width": "70px",
+              "correctAnswer": ["is", "'s"],
+              "afterBlank": "to school."
             }
           ]
         },
@@ -315,8 +347,25 @@
           "fillExercises": [
             {
               "width": "70px",
-              "correctAnswer": ["is", "'s"],
-              "afterBlank": "to school."
+              "beforeBlank": "1. xxx",
+              "correctAnswer": ["xxx", "xxx"],
+              "afterBlank": "xxx ",
+              "displayBlock": true
+
+            },
+            {
+              "width": "70px",
+              "beforeBlank": "2. xxx",
+              "correctAnswer": ["xxx", "xxx"],
+              "afterBlank": "xxx ",
+              "displayBlock": true
+            },
+            {
+              "width": "70px",
+              "beforeBlank": "3. xxx",
+              "correctAnswer": ["xxx", "xxx"],
+              "afterBlank": "xxx",
+              "displayBlock": true
             }
           ]
         }
