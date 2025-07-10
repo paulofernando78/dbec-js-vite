@@ -326,13 +326,11 @@
         {
           "fillExercises": [
             {
-              "width": "70px",
               "beforeBlank": "I",
               "correctAnswer": ["am", "'m", "’m"],
               "afterBlank": "a student. I"
             },
             {
-              "width": "70px",
               "correctAnswer": ["wake up"],
               "afterBlank": "very early to"
             },
@@ -346,7 +344,6 @@
         {
           "fillExercises": [
             {
-              "width": "70px",
               "beforeBlank": "1. I",
               "correctAnswer": ["am", "'m", "’m"],
               "afterBlank": "a student.",
@@ -354,14 +351,12 @@
 
             },
             {
-              "width": "70px",
               "beforeBlank": "2. I",
               "correctAnswer": ["wake up"],
               "afterBlank": "very early.",
               "displayBlock": true
             },
             {
-              "width": "70px",
               "beforeBlank": "3. I",
               "correctAnswer": ["go"],
               "afterBlank": "to school",
