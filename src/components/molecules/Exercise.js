@@ -213,12 +213,16 @@ class Exercise extends HTMLElement {
       const beforeBlank = document.createElement("span");
       beforeBlank.textContent = item.beforeBlank;
       const blank = document.createElement("input");
-      blank.style.width = item.width || "";
+      const longestAnswer = item.correctAnswer.reduce((a, b) =>
+        a.length > b.length ? a : b
+      );
+      const estimateWidth = `${longestAnswer.length + 1}ch`;
+      blank.style.width = item.width || estimateWidth;
       blank.type = "text";
       blank.placeholder = item.placeholder ? item.placeholder : "";
       blank.style.marginInline = "6px";
       blank.style.borderRadius = "var(--border-radius)";
-      blank.style.border = "1px solid lightgray";
+      blank.style.border = "2px solid lightgray";
       blank.style.paddingLeft = "5px";
       blank.style.marginBottom = "2px";
       blank.dataset.answers = item.correctAnswer.join(",");
@@ -241,8 +245,7 @@ class Exercise extends HTMLElement {
     const checkAnswersButton = document.createElement("wc-button");
     checkAnswersButton.setAttribute("data-icon", "check");
     checkAnswersButton.addEventListener("click", () => {
-
-      // Radio
+      // Radio check answers
       const containers = this.shadowRoot.querySelectorAll(
         ".radio-exercise-group"
       );
@@ -255,7 +258,6 @@ class Exercise extends HTMLElement {
           const isChecked = input.checked;
           const isRadioCorrect = input.dataset.correct === "true";
 
-          
           const resultSpan = results[i];
           if (isChecked && isRadioCorrect) {
             resultSpan.innerHTML = svgIcons.correct;
@@ -277,21 +279,21 @@ class Exercise extends HTMLElement {
         });
       });
 
-      // Input
+      // Fill in the blank check answers
       const fillInputs = this.shadowRoot.querySelectorAll('input[type="text"]');
 
       fillInputs.forEach((input) => {
         const userAnswer = input.value.trim().toLowerCase();
-        
+
         const validAnswers = input.dataset.answers
-        .split(",")
-        .map(a => a.trim().toLowerCase());
+          .split(",")
+          .map((a) => a.trim().toLowerCase());
         const isFillCorrect = validAnswers.includes(userAnswer);
 
         if (isFillCorrect) {
-          input.style.borderColor = "green";
+          input.style.border = "2px solid green";
         } else {
-          input.style.borderColor = "red";
+          input.style.border = "2px solid red";
         }
       });
     });
@@ -302,6 +304,8 @@ class Exercise extends HTMLElement {
     // Reset button
     const resetButton = document.createElement("wc-button");
     resetButton.setAttribute("data-icon", "reset");
+
+    // Radio reset
     resetButton.addEventListener("click", () => {
       const containers = this.shadowRoot.querySelectorAll(
         ".radio-exercise-group"
@@ -323,6 +327,13 @@ class Exercise extends HTMLElement {
         dots.forEach((dot) => {
           dot.style.display = "none";
         });
+      });
+
+      // Fill reset
+      const fillInputs = this.shadowRoot.querySelectorAll("input[type='text']");
+      fillInputs.forEach((input) => {
+        input.value = "";
+        input.style.borderColor = "lightgray";
       });
     });
 
