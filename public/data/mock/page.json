@@ -328,7 +328,7 @@
             {
               "width": "70px",
               "beforeBlank": "I",
-              "correctAnswer": ["am", "'m"],
+              "correctAnswer": ["am", "'m", "’m"],
               "afterBlank": "a student. I"
             },
             {
@@ -338,7 +338,7 @@
             },
             {
               "width": "70px",
-              "correctAnswer": ["is", "'s"],
+              "correctAnswer": ["go"],
               "afterBlank": "to school."
             }
           ]

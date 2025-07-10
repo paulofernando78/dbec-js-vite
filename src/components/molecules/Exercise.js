@@ -200,14 +200,14 @@ class Exercise extends HTMLElement {
 
   // Fill in the blanks
   _renderFillExercises(items) {
-    const fillContainer = document.createElement("div")
+    const fillContainer = document.createElement("div");
     // fillContainer.classList.add("fill-exercise-group")
 
     items.forEach((item) => {
       const fillWrapper = document.createElement("div");
-      fillWrapper.style.display = "inline"
+      fillWrapper.style.display = "inline";
       if (item.displayBlock) {
-        fillWrapper.style.display = "block"
+        fillWrapper.style.display = "block";
       }
 
       const beforeBlank = document.createElement("span");
@@ -218,15 +218,16 @@ class Exercise extends HTMLElement {
       blank.style.marginInline = "6px";
       blank.style.borderRadius = "var(--border-radius)";
       blank.style.border = "1px solid lightgray";
+      blank.style.paddingLeft = "5px";
       blank.style.marginBottom = "2px";
+      blank.dataset.answers = item.correctAnswer.join(",");
       const fillResult = document.createElement("span");
       const afterBlank = document.createElement("span");
       afterBlank.textContent = item.afterBlank;
       fillWrapper.append(beforeBlank, blank, afterBlank);
-      fillContainer.appendChild(fillWrapper)
-
+      fillContainer.appendChild(fillWrapper);
     });
-    this.exerciseContainer.appendChild(fillContainer)
+    this.exerciseContainer.appendChild(fillContainer);
   }
 
   renderButtons() {
@@ -239,20 +240,23 @@ class Exercise extends HTMLElement {
     const checkAnswersButton = document.createElement("wc-button");
     checkAnswersButton.setAttribute("data-icon", "check");
     checkAnswersButton.addEventListener("click", () => {
+
+      // Radio
       const containers = this.shadowRoot.querySelectorAll(
         ".radio-exercise-group"
       );
+
       containers.forEach((container) => {
         const inputs = container.querySelectorAll("input[type='radio']");
         const results = container.querySelectorAll("span.result");
 
         inputs.forEach((input, i) => {
           const isChecked = input.checked;
-          const isCorrect = input.dataset.correct === "true";
+          const isRadioCorrect = input.dataset.correct === "true";
 
-          // Result
+          
           const resultSpan = results[i];
-          if (isChecked && isCorrect) {
+          if (isChecked && isRadioCorrect) {
             resultSpan.innerHTML = svgIcons.correct;
             const svg = resultSpan.querySelector("svg");
             resultSpan.style.display = "inline";
@@ -270,6 +274,24 @@ class Exercise extends HTMLElement {
             resultSpan.style.display = "";
           }
         });
+      });
+
+      // Input
+      const fillInputs = this.shadowRoot.querySelectorAll('input[type="text"]');
+
+      fillInputs.forEach((input) => {
+        const userAnswer = input.value.trim().toLowerCase();
+        
+        const validAnswers = input.dataset.answers
+        .split(",")
+        .map(a => a.trim().toLowerCase());
+        const isFillCorrect = validAnswers.includes(userAnswer);
+
+        if (isFillCorrect) {
+          input.style.borderColor = "green";
+        } else {
+          input.style.borderColor = "red";
+        }
       });
     });
 
