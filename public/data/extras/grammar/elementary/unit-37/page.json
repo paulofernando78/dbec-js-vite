@@ -433,7 +433,7 @@
           ]
         },
         {
-          "title": "35.2 Write there is / there isn't / is there or are there / there aren't / are there."
+          "title": "35.2 Write there is / there isn't,  there are / there aren't or is there? / are there?."
         },
         {
           "fillExercises": [
@@ -519,7 +519,7 @@
             {
               "beforeBlank": "2. What's wrong? ",
               "correctAnswer": ["There is", "There's", "There’s"],
-              "afterBlank": " in my eye.",
+              "afterBlank": " something in my eye.",
               "displayBlock": true
             },
             {
