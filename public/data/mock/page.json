@@ -347,24 +347,24 @@
           "fillExercises": [
             {
               "width": "70px",
-              "beforeBlank": "1. xxx",
-              "correctAnswer": ["xxx", "xxx"],
-              "afterBlank": "xxx ",
+              "beforeBlank": "1. I",
+              "correctAnswer": ["am", "'m", "’m"],
+              "afterBlank": "a student.",
               "displayBlock": true
 
             },
             {
               "width": "70px",
-              "beforeBlank": "2. xxx",
-              "correctAnswer": ["xxx", "xxx"],
-              "afterBlank": "xxx ",
+              "beforeBlank": "2. I",
+              "correctAnswer": ["wake up"],
+              "afterBlank": "very early.",
               "displayBlock": true
             },
             {
               "width": "70px",
-              "beforeBlank": "3. xxx",
-              "correctAnswer": ["xxx", "xxx"],
-              "afterBlank": "xxx",
+              "beforeBlank": "3. I",
+              "correctAnswer": ["go"],
+              "afterBlank": "to school",
               "displayBlock": true
             }
           ]
