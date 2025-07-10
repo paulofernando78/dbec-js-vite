@@ -19,6 +19,14 @@
   },
   "contents": [
     {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "",
+        "icon": "snippet",
+        "label": "A"
+      }
+    },
+    {
       "paragraphs": [
         {
           "paragraph": [
@@ -47,22 +55,23 @@
             {
               "text": "There are seven days in a week."
             }
-          ]
+          ],
+          "lineBreak": true
         }
       ]
     },
+
     {
       "paragraphs": [
         {
-          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "Singular"
             }
-          ]
+          ],
+          "lineBreak": true
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
               "displayBlock": true,
@@ -76,12 +85,13 @@
               "displayBlock": true,
               "text": "is there... ?"
             }
-          ]
+          ],
+          "lineBreak": true
         },
         {
           "paragraph": [
             {
-              "boldText": "• "
+              "text": "• "
             },
             {
               "markedText": "There's"
@@ -94,7 +104,7 @@
         {
           "paragraph": [
             {
-              "boldText": "• "
+              "text": "• "
             },
             {
               "markedText": "There's"
@@ -107,7 +117,7 @@
         {
           "paragraph": [
             {
-              "boldText": "• "
+              "text": "• "
             },
             {
               "text": "A: Do you have any money?"
@@ -130,7 +140,7 @@
         {
           "paragraph": [
             {
-              "boldText": "• "
+              "text": "• "
             },
             {
               "text": "A: Excuse me, "
@@ -163,10 +173,9 @@
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "• "
+              "text": "• "
             },
             {
               "text": "We can't go skiing."
@@ -177,15 +186,16 @@
             {
               "text": " any snow."
             }
-          ]
+          ],
+          "lineBreak": true
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "plural"
             }
-          ]
+          ],
+          "lineBreak": true
         },
         {
           "paragraph": [
@@ -206,7 +216,247 @@
       ]
     },
     {
-      "hr": true
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "",
+        "icon": "snippet",
+        "label": "B"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "boldText": "There is "
+            },
+            {
+              "text": "and "
+            },
+            {
+              "boldText": "it is"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "There's "
+            },
+            {
+              "text": "a book on the table"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "WRONG (It's a book on the table.)"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "I like "
+            },
+            {
+              "markedText": "this book."
+            },
+            {
+              "boldText": " It's "
+            },
+            {
+              "text": "interesting."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "("
+            },
+            {
+              "boldText": "it "
+            },
+            {
+              "text": "= book)"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "Compare:"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "What's "
+            },
+            {
+              "boldText": "that noise? "
+            },
+            {
+              "boldText": "It"
+            },
+            {
+              "text": "'s a train. "
+            },
+            {
+              "text": "("
+            },
+            {
+              "boldText": "It "
+            },
+            {
+              "text": "= that noise)"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "There's "
+            },
+            {
+              "text": "a lot of salt soup."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "I don't like "
+            },
+            {
+              "boldText": "this soup. "
+            },
+            {
+              "boldText": "It"
+            },
+            {
+              "text": "'s too salty. "
+            },
+            {
+              "text": "("
+            },
+            {
+              "boldText": "It "
+            },
+            {
+              "text": "= this soup)"
+            }
+          ],
+          "lineBreak": true
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "lightgray",
+        "textColor": "black",
+        "icon": "assignment",
+        "label": "Exercises"
+      }
+    },
+    {
+      "exercises": [
+        {
+          "title": "35.1 Springfield is a small town. Look at the information in below and write sentences about Springfield with There is/are or There isn't/aren't.",
+          "description": "Example: A Park? No. There isn't a park."
+        },
+        {
+          "fillExercises": [
+            {
+              "width": "210px",
+              "beforeBlank": "1. A golf course? No.",
+              "placeholder": "There's not a golf course.",
+              "correctAnswer": [
+                "There is not a golf course.",
+                "There isn't a golf course.",
+                "There isn’t a golf course."
+              ],
+              "displayBlock": "true"
+            },
+            {
+              "width": "50%",
+              "beforeBlank": "2. Any restaurants? Yes (a lot).",
+              "correctAnswer": ["There are a lot of restaurants."],
+              "displayBlock": "true"
+            },
+            {
+              "width": "50%",
+              "beforeBlank": "3. A hospital? Yes.",
+              "correctAnswer": [
+                "There is a hospital",
+                "There's a hospital",
+                "There’s a hospital"
+              ],
+              "displayBlock": "true"
+            },
+            {
+              "width": "50%",
+              "beforeBlank": "4. A swimming pool? No.",
+              "correctAnswer": [
+                "There is not a swimming pool.",
+                "There isn't a swimming pool.",
+                "There isn’t a swimming pool."
+              ],
+              "displayBlock": "true"
+            },
+            {
+              "width": "50%",
+              "beforeBlank": "5. Any movie theaters? Yes, (two).",
+              "correctAnswer": ["There are two movie theaters."],
+              "displayBlock": "true"
+            },
+            {
+              "width": "50%",
+              "beforeBlank": "6. A university? No.",
+              "correctAnswer": [
+                "There is not a university.",
+                "There isn't a university.",
+                "There isn’t a university."
+              ],
+              "displayBlock": "true"
+            },
+            {
+              "width": "50%",
+              "beforeBlank": "7. Any big hotels? No.",
+              "correctAnswer": [
+                "There are not any big hotels.",
+                "There aren't any big hotels.",
+                "There aren’t any big hotels."
+              ],
+              "displayBlock": "true"
+            }
+          ]
+        },
+        {
+          "title": "35.2",
+          "description": "Description"
+        },
+        {
+          "title": "35.3",
+          "description": "Description"
+        },
+        {
+          "title": "35.4",
+          "description": "Description"
+        },
+        {
+          "title": "35.5",
+          "description": "Description"
+        }
+      ]
     }
   ]
 }

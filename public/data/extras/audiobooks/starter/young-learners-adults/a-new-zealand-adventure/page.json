@@ -28,7 +28,7 @@
   "contents": [
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "snippet",
         "label": "Summary"
       }
     },
@@ -53,7 +53,7 @@
     },
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "snippet",
         "label": "Paragraph 1"
       }
     },
@@ -73,7 +73,7 @@
     },
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "snippet",
         "label": "Paragraph 2",
         "subIcon": "schedule",
         "subLabel": "0:31"
@@ -96,7 +96,7 @@
     },
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "snippet",
         "label": "Paragraph 3",
         "subIcon": "schedule",
         "subLabel": "1:08"
@@ -118,7 +118,7 @@
     },
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "snippet",
         "label": "Paragraph 4",
         "subIcon": "schedule",
         "subLabel": "1:47"
@@ -140,7 +140,7 @@
     },
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "snippet",
         "label": "Paragraph 5",
         "subIcon": "schedule",
         "subLabel": "2:22"
@@ -162,7 +162,7 @@
     },
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "snippet",
         "label": "Paragraph 6",
         "subIcon": "schedule",
         "subLabel": "2:59"
@@ -184,7 +184,7 @@
     },
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "snippet",
         "label": "Paragraph 7",
         "subIcon": "schedule",
         "subLabel": "3:34"
@@ -206,7 +206,7 @@
     },
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "snippet",
         "label": "Paragraph 8",
         "subIcon": "schedule",
         "subLabel": "4:10"
@@ -228,7 +228,7 @@
     },
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "snippet",
         "label": "Paragraph 9",
         "subIcon": "schedule",
         "subLabel": "4:42"
@@ -250,7 +250,7 @@
     },
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "snippet",
         "label": "Paragraph 10",
         "subIcon": "schedule",
         "subLabel": "5:19"
@@ -272,7 +272,7 @@
     },
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "snippet",
         "label": "Paragraph 11",
         "subIcon": "schedule",
         "subLabel": "5:55"
@@ -294,7 +294,7 @@
     },
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "snippet",
         "label": "Paragraph 12",
         "subIcon": "schedule",
         "subLabel": "6:29"
@@ -317,7 +317,7 @@
     },
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "snippet",
         "label": "Paragraph 13",
         "subIcon": "schedule",
         "subLabel": "7:03"
@@ -339,7 +339,7 @@
     },
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "snippet",
         "label": "Paragraph 14",
         "subIcon": "schedule",
         "subLabel": "7:03"

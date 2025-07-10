@@ -215,6 +215,7 @@ class Exercise extends HTMLElement {
       const blank = document.createElement("input");
       blank.style.width = item.width || "";
       blank.type = "text";
+      blank.placeholder = item.placeholder ? item.placeholder : "";
       blank.style.marginInline = "6px";
       blank.style.borderRadius = "var(--border-radius)";
       blank.style.border = "1px solid lightgray";

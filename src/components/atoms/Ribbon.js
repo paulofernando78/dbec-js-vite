@@ -50,7 +50,7 @@ class Ribbon extends HTMLElement {
     this.shadowRoot.append(container);
 
     container.style.backgroundColor = ribbon.bgColor || "#000";
-    container.style.color = ribbon.color || "#fff";
+    container.style.color = ribbon.textColor || "#fff";
 
     const wcIconItem = document.createElement("wc-icon-item");
     wcIconItem.data = {
