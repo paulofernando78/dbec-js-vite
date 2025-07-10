@@ -21,10 +21,10 @@
     {
       "exercises": [
         {
+          "title": "Choose the best substitute for the phrase or sentence in highlight:"
+        },
+        {
           "radioExercises": [
-            {
-              "title": "Choose the best substitute for the phrase or sentence in highlight:"
-            },
             {
               "question": [
                 {
@@ -110,8 +110,8 @@
               "question": [
                 {
                   "text": "4. Tanya works all day and goes to school every evening. No wonder she’s "
-                }
-                ,{
+                },
+                {
                   "markedText": "wiped out"
                 },
                 {
