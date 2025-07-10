@@ -283,11 +283,11 @@ class Exercise extends HTMLElement {
       const fillInputs = this.shadowRoot.querySelectorAll('input[type="text"]');
 
       fillInputs.forEach((input) => {
-        const userAnswer = input.value.trim().toLowerCase();
+        const userAnswer = input.value.trim();
 
         const validAnswers = input.dataset.answers
           .split(",")
-          .map((a) => a.trim().toLowerCase());
+          .map((a) => a.trim());
         const isFillCorrect = validAnswers.includes(userAnswer);
 
         if (isFillCorrect) {
