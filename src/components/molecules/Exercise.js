@@ -221,7 +221,7 @@ class Exercise extends HTMLElement {
       blank.type = "text";
       blank.placeholder = item.placeholder ? item.placeholder : "";
       blank.style.fontFamily = "courier";
-      blank.style.marginInline = "6px";
+      // blank.style.marginInline = "6px";
       blank.style.borderRadius = "var(--border-radius)";
       blank.style.border = "2px solid lightgray";
       blank.style.paddingLeft = "5px";

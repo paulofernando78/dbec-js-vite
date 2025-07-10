@@ -21,7 +21,7 @@
     {
       "ribbon": {
         "bgColor": "var(--gray-3)",
-        "textColor": "",
+        "textColor": "black",
         "icon": "snippet",
         "label": "A"
       }
@@ -218,7 +218,7 @@
     {
       "ribbon": {
         "bgColor": "var(--gray-3)",
-        "textColor": "",
+        "textColor": "black",
         "icon": "snippet",
         "label": "B"
       }
@@ -376,8 +376,7 @@
         {
           "fillExercises": [
             {
-              "beforeBlank": "1. A golf course? No.",
-              "placeholder": "There's not a golf course.",
+              "beforeBlank": "1. A golf course? No. ",
               "correctAnswer": [
                 "There is not a golf course.",
                 "There isn't a golf course.",
@@ -386,12 +385,12 @@
               "displayBlock": "true"
             },
             {
-              "beforeBlank": "2. Any restaurants? Yes (a lot).",
+              "beforeBlank": "2. Any restaurants? Yes (a lot). ",
               "correctAnswer": ["There are a lot of restaurants."],
               "displayBlock": "true"
             },
             {
-              "beforeBlank": "3. A hospital? Yes.",
+              "beforeBlank": "3. A hospital? Yes. ",
               "correctAnswer": [
                 "There is a hospital.",
                 "There's a hospital.",
@@ -400,7 +399,7 @@
               "displayBlock": "true"
             },
             {
-              "beforeBlank": "4. A swimming pool? No.",
+              "beforeBlank": "4. A swimming pool? No. ",
               "correctAnswer": [
                 "There is not a swimming pool.",
                 "There isn't a swimming pool.",
@@ -409,12 +408,12 @@
               "displayBlock": "true"
             },
             {
-              "beforeBlank": "5. Any movie theaters? Yes, (two).",
+              "beforeBlank": "5. Any movie theaters? Yes, (two). ",
               "correctAnswer": ["There are two movie theaters."],
               "displayBlock": "true"
             },
             {
-              "beforeBlank": "6. A university? No.",
+              "beforeBlank": "6. A university? No. ",
               "correctAnswer": [
                 "There is not a university.",
                 "There isn't a university.",
@@ -423,38 +422,140 @@
               "displayBlock": "true"
             },
             {
-              "beforeBlank": "7. Any big hotels? No.",
+              "beforeBlank": "7. Any big hotels? No. ",
               "correctAnswer": [
                 "There are not any big hotels.",
                 "There aren't any big hotels.",
                 "There aren’t any big hotels."
               ],
               "displayBlock": "true"
-            },
-            {
-              "beforeBlank": "7. Any big hotels? No.",
-              "correctAnswer": [
-                "xxx"
-              ],
-              "displayBlock": "true"
             }
           ]
         },
         {
-          "title": "35.2",
-          "description": "Description"
+          "title": "35.2 Write there is / there isn't / is there or are there / there aren't / are there."
         },
         {
-          "title": "35.3",
-          "description": "Description"
+          "fillExercises": [
+            {
+              "beforeBlank": "1. Springfield isn't an old town. ",
+              "correctAnswer": [
+                "There are not",
+                "There aren't",
+                "There aren’t"
+              ],
+              "afterBlank": " any old buildings.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "2. Look! ",
+              "correctAnswer": ["There is", "There's", "There’s"],
+              "afterBlank": " a picture of your brother in the newspaper.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "3. “Excuse me, ",
+              "correctAnswer": ["is there"],
+              "afterBlank": " a bank near here?” “Yes, at the end of the block.” ",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "4. ",
+              "correctAnswer": ["There are"],
+              "afterBlank": " five people in my family: my parents, my two sisters, and me.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "5. “How many students ",
+              "correctAnswer": ["are there"],
+              "afterBlank": " in the class?” “Twenty.”",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "6. The road is usually quiet. ",
+              "correctAnswer": [
+                "There is not",
+                "There isn't",
+                "There isn’t."
+              ],
+              "afterBlank": " much traffic.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "7. “",
+              "correctAnswer": ["Is there"],
+              "afterBlank": " a bus from downtown to the airport?” “Yes, every 20 minutes.”",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "8. “",
+              "correctAnswer": ["Are there"],
+              "afterBlank": " any problems?” “No, everything's OK.”",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "9. ",
+              "correctAnswer": ["There is", "There’s", "There's"],
+              "afterBlank": " nowhere to sit down. "
+            },
+            {
+              "correctAnswer": ["There are not", "There aren’t", "There aren't"],
+              "afterBlank": " any chairs."
+            }
+          ]
         },
         {
-          "title": "35.4",
-          "description": "Description"
+          "title": "35.3 Write there's / is there or it's / is it.",
+          "description": "Example: There's a train at 10:30. Is it a fast train?"
         },
         {
-          "title": "35.5",
-          "description": "Description"
+          "fillExercises": [
+            {
+              "beforeBlank": "1. I'm not going to buy this shirt. ",
+              "correctAnswer": ["It is", "It's", "It’s"],
+              "afterBlank": " too expensive.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "2. What's wrong? ",
+              "correctAnswer": ["There is", "There's", "There’s"],
+              "afterBlank": " in my eye.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "3. ",
+              "correctAnswer": ["There is", "There's", "There’s"],
+              "afterBlank": " a red car outside your house. "
+            },
+            {
+              "correctAnswer": ["Is it"],
+              "afterBlank": " yours."
+            },
+            {
+              "beforeBlank": "4. A: ",
+              "correctAnswer": ["Is there"],
+              "afterBlank": " anything good on TV tonight?",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "B: Yes, ",
+              "correctAnswer": ["there is", "there's", "there’s"],
+              "afterBlank": " a show I want to see at 8:00.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "5. “What's that building?” “",
+              "correctAnswer": ["It is", "It’s", "It's"],
+              "afterBlank": " a school.”",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "6. “",
+              "correctAnswer": ["Is there"],
+              "afterBlank": " a restaurant in this hotel?” “No, I’m afraid not.”",
+              "displayBlock": true
+            }
+          ]
         }
       ]
     }
