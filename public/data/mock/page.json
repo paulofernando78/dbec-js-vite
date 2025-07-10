@@ -32,6 +32,7 @@
   "contents": [
     {
       "ribbon": {
+        "icon": "snippet",
         "label": "Image"
       }
     },
@@ -43,7 +44,10 @@
       ]
     },
     {
-      "ribbon": { "label": "Paragraphs + left / right image" }
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraphs + left / right image"
+      }
     },
     {
       "paragraphs": [
@@ -107,7 +111,7 @@
       ]
     },
     {
-      "ribbon": { "label": "Paragraph one line" }
+      "ribbon": { "icon": "snippet", "label": "Paragraph one line" }
     },
     {
       "paragraphs": [
@@ -165,7 +169,7 @@
       ]
     },
     {
-      "ribbon": { "label": "Paragraph + displayBlock" }
+      "ribbon": { "icon": "snippet", "label": "Paragraph + displayBlock" }
     },
     {
       "paragraphs": [
@@ -204,7 +208,7 @@
       ]
     },
     {
-      "ribbon": { "label": "Card" }
+      "ribbon": { "icon": "snippet", "label": "Card" }
     },
     {
       "card": {
@@ -243,7 +247,7 @@
       }
     },
     {
-      "ribbon": { "label": "Audio Player" }
+      "ribbon": { "icon": "snippet", "label": "Audio Player" }
     },
     {
       "audioPlayer": {
@@ -252,7 +256,7 @@
       }
     },
     {
-      "ribbon": { "label": "Video Player (Iframe)" }
+      "ribbon": { "icon": "snippet", "label": "Video Player (Iframe)" }
     },
     {
       "videoPlayer": {
@@ -261,12 +265,12 @@
       }
     },
     {
-      "ribbon": { "label": "Radio exercise" }
+      "ribbon": { "icon": "snippet", "label": "Radio exercise" }
     },
     {
       "exercises": [
         {
-          "title": "Radio",
+          "title": "Exercises",
           "description": "Description"
         },
         {
@@ -326,39 +330,39 @@
         {
           "fillExercises": [
             {
-              "beforeBlank": "I",
+              "beforeBlank": "I ",
               "correctAnswer": ["am", "'m", "’m"],
-              "afterBlank": "a student. I"
+              "afterBlank": " a student. I "
             },
             {
               "correctAnswer": ["wake up"],
-              "afterBlank": "very early to"
+              "afterBlank": " very early to "
             },
             {
               "width": "70px",
               "correctAnswer": ["go"],
-              "afterBlank": "to school."
+              "afterBlank": " to school."
             }
           ]
         },
         {
           "fillExercises": [
             {
-              "beforeBlank": "1. I",
+              "beforeBlank": "1. I ",
               "correctAnswer": ["am", "'m", "’m"],
-              "afterBlank": "a student.",
+              "afterBlank": " a student.",
               "displayBlock": true
             },
             {
-              "beforeBlank": "2. I",
+              "beforeBlank": "2. I ",
               "correctAnswer": ["wake up"],
-              "afterBlank": "very early.",
+              "afterBlank": " very early.",
               "displayBlock": true
             },
             {
-              "beforeBlank": "3. I",
+              "beforeBlank": "3. I ",
               "correctAnswer": ["go"],
-              "afterBlank": "to school",
+              "afterBlank": " to school",
               "displayBlock": true
             }
           ]

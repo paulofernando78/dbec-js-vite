@@ -370,7 +370,7 @@
     {
       "exercises": [
         {
-          "title": "35.1 Springfield is a small town. Look at the information in below and write sentences about Springfield with There is/are or There isn't/aren't.",
+          "title": "35.1 Springfield is a small town. Look at the information below and write sentences about Springfield with There is/are or There isn't/aren't.",
           "description": "Example: A Park? No. There isn't a park."
         },
         {
@@ -385,7 +385,7 @@
               "displayBlock": "true"
             },
             {
-              "beforeBlank": "2. Any restaurants? Yes (a lot). ",
+              "beforeBlank": "2. Any restaurants? Yes (a lot of). ",
               "correctAnswer": ["There are a lot of restaurants."],
               "displayBlock": "true"
             },
