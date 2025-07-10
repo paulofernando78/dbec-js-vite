@@ -430,6 +430,13 @@
                 "There aren’t any big hotels."
               ],
               "displayBlock": "true"
+            },
+            {
+              "beforeBlank": "7. Any big hotels? No.",
+              "correctAnswer": [
+                "xxx"
+              ],
+              "displayBlock": "true"
             }
           ]
         },

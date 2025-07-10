@@ -216,10 +216,11 @@ class Exercise extends HTMLElement {
       const longestAnswer = item.correctAnswer.reduce((a, b) =>
         a.length > b.length ? a : b
       );
-      const estimateWidth = `${longestAnswer.length + 1}ch`;
+      const estimateWidth = `${longestAnswer.length + 2}ch`;
       blank.style.width = item.width || estimateWidth;
       blank.type = "text";
       blank.placeholder = item.placeholder ? item.placeholder : "";
+      blank.style.fontFamily = "courier";
       blank.style.marginInline = "6px";
       blank.style.borderRadius = "var(--border-radius)";
       blank.style.border = "2px solid lightgray";
