@@ -268,8 +268,8 @@
             "links": [
               {
                 "icon": "song",
-                "link": "/extras/songs/",
-                "label": "Red Hot Chili Peppers/red-hot-chili-peppers"
+                "link": "/extras/songs/red-hot-chili-peppers",
+                "label": "Red Hot Chili Peppers"
               },
               {
                 "icon": "song",
@@ -307,8 +307,17 @@
             "links": [
               {
                 "icon": "song",
-                "link": "/extras/songs/",
+                "link": "/extras/songs/tears-for-fears",
                 "label": "Tears for Fears"
+              }
+            ]
+          },
+          {
+            "links": [
+              {
+                "icon": "song",
+                "link": "/extras/songs/the-black-eyed-peas",
+                "label": "The Black Eyed Peas"
               }
             ]
           }

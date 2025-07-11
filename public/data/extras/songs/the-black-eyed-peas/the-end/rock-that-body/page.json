@@ -1,0 +1,510 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Song",
+    "descriptions": [
+      {
+        "description": "The Black Eyes Peas"
+      },
+      {
+        "description": "THE E.N.D (THE ENERGY NEVER DIES)"
+      },
+      {
+        "description": "Rock That Body"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "videoPlayer": {
+        "sticky": true,
+        "src": "https://www.youtube.com/embed/nmnjL26OBcY?list=RDnmnjL26OBcY&start_radio=1"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "boldText": "Rock That Body"
+            },
+            {
+              "displayBlock": true,
+              "ptBoldText": "Mexa Esse Corpo"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "I wanna rock right now"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Eu quero requebrar agora"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "I wanna, I wanna rock right now"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Eu quero, eu quero requebrar agora"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "I wanna, I wanna rock right now"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Eu quero, eu quero requebrar agora"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Now, now, rock right now"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Agora, agora, requebrar agora"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "I wanna da—, I wanna dance in the lights"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Eu quero da—, eu quero dançar sob as luzes"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "I wanna ro—, I wanna rock yo' body"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Eu quero me—, eu quero fazer seu corpo mexer"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "I wanna go, I wanna go for a ride"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Eu quero ir além, eu quero fazer uma viagem"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Hop in the music and rock yo' body right"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Entre na música e mexa bastante o seu corpo"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "2x"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Rock that body, come on, come on, rock that body (rock yo' body)"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Mexa esse corpo, vamos, vamos, mexa esse corpo (mexa o seu corpo)"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Rock that body, come on, come on, rock that body"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Mexa esse corpo, vamos, vamos, mexa esse corpo"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Let me see your body rock"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Deixa eu ver o seu corpo balançar"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Shakin' it from the bottom and top"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Sacudindo de baixo para cima"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Freak to what the DJ drop"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Enlouquecida(o) pela batida do DJ"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "We be the ones to make it hot (to make it hot)"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Somos nós quem esquentamos as coisas (esquentamos)"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Electric shock, energy like a billion watts"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Choque elétrico, energia de um bilhão de watts"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Space be boomin', the speakers pop"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "O espaço se expande, os alto-falantes estouram"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Galactic Comb and Mr. Spock"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Pente Galático e Dr. Spock"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "We bumpin' in your parkin' lot"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Nós vamos tocar no seu estacionamento"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "When you comin' up in the spot"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Quando você chegar na área"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Don't bring nothin' we call P. Dot"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Não traga aquilo que chamamos de P. Dot"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Hit the lights and then turn them off"
+            },
+            {
+              "displayBlock": true,
+              "ptText": "Acenda as luzes e depois apague elas"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {"displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {
+              "displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "If you bring that, don't make you stop"
+            },
+            {"displayBlock": true,
+              "ptText": "Se você trouxer aquilo, não pare de jeito nenhum"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Like the jungle, we run the block"
+            },
+            {"displayBlock": true,
+              "ptText": "Porque, como na selva, nós comandamos a área"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": "No one rollin' the way we rock, way we rock"
+            },
+            {"displayBlock": true,
+              "ptText": "Ninguém arrasa como a gente, como a gente"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {"displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {"displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {"displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {"displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {"displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {"displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {"displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {"displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {"displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {"displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {"displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {"displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {"displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "text": ""
+            },
+            {"displayBlock": true,
+              "ptText": ""
+            }
+          ],
+          "lineBreak": true
+        }
+      ]
+    }
+  ]
+}
