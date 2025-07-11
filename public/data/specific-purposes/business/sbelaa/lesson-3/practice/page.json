@@ -21,27 +21,33 @@
     {
       "exercises": [
         {
-          "title": "Choose the most appropriate response to the following:"
+          "title": "Choosethe best substitute for the highlighted phrase or sentence:"
         },
         {
           "radioExercises": [
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Starting a chain of coffee houses in Manhattan is "
+                },
+                {
+                  "markedText":	"a half-baked idea"
+                },
+                {
+                  "text":	"! There are already more than enough coffee houses in Manhattan."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) a great idea",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) a really bad idea",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) an idea that needs some more time in the oven",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +55,26 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "2. The government is discussing a new proposal to raise the minimum wage, but "
+                },
+                {
+                  "markedText":	"nothing is set in stone yet"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) nothing has been decided yet",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) the proposal has been approved",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "c) nothing will ever be decided",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +82,26 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "3. You don't have to "
+                },
+                {
+                  "markedText":	"twist the boss's arm"
+                },
+                {
+                  "text":	". She's already decided to let everybody leave early on Friday to avoid holiday traffic."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) convince the boss",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) hurt the boss",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "c) ignore the boss",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +109,26 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "4. Arnold Schwarzenegger has appeared on television commercials in Japan, China, Austria, and Brazil, "
+                },
+                {
+                  "markedText":	"plugging products"
+                },
+                {
+                  "text":	" such as vitamin drinks and soup."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) drinking products",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) advertising products",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) terminating products",
                   "isCorrect": false
                 }
               ]
@@ -112,20 +136,53 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "5. Before approaching a bank for a loan, you need to "
+                },
+                {
+                  "markedText":	"flesh out"
+                },
+                {
+                  "text":	" your business plan."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) throw out",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) present",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) add more detail to",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. Buying a new computer system would cost "
+                },
+                {
+                  "markedText":	"an arm and a leg"
+                },
+                {
+                  "text":	". Let's just upgrade the system we already have."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) a lot of money",
+                  "isCorrect": true
+                },
+                {
+                  "option": "b) not much money",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) a lot of time",
                   "isCorrect": false
                 }
               ]
@@ -133,62 +190,53 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "7. Paul and Susan make a good living running a bed-and-breakfast in Vermont. Meeting lots of friendly people is "
+                },
+                {
+                  "markedText":	"the icing on the cake"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) easy when you live in Vermont",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) how they earn their living",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) an additional benefit",
                   "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
                 }
               ]
             },
             {
               "question": [
                 {
-                  "text": "7. ..."
+                  "text": "8. I like your idea of selling our products by direct mail. "
+                },
+                {
+                  "markedText":	"Let's run with it"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) Let's discuss it further.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) Let's proceed with it.",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
+                  "option": "c) Let's forget it.",
                   "isCorrect": false
                 }
               ]

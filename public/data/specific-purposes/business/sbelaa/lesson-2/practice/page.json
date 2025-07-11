@@ -21,27 +21,27 @@
     {
       "exercises": [
         {
-          "title": "Choose the most appropriate response to the following:"
+          "title": "Choose the most appropriate response to ech sentence:"
         },
         {
           "radioExercises": [
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Did our CEO give the green light for the new project yet?"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) No, he told us he needed more information before making a decision.",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) Yes, he told us that the project was a bad idea and that we should stop working on it.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "c) Yes, he's going to discuss the project with his wife and see what she thinks.",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +49,20 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "2. Last year, our company made a loss on our new line of video games, but this year we'll break even."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) I'm sorry to hear you're broke.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) That's great. At least you're making progress.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) Too bad. Last year you did a lot better.",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +70,41 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "3. If you don't double-check those numbers and make sure they're correct, you might get in hot water with your boss."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) You're right. My boss always appreciates it when I give him the wrong numbers.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) That would be great. My boss enjoys soaking in hot water.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) You're right. My boss always gets angry when he finds mistakes.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "4. Our company is in the red again this quarter."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) Congratulations! When's the celebration party?",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) In the red again? I hope you don't go out of business!",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) In the red? That's okay. It's better than being in the black.",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +112,20 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "5. We should pull the plug on our online advertising campaign."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) I agree. It's not bringing us any new business.",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) I agree. Let's double our spending on it.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "c) I disagree. I think we should stop spending money on online advertising.",
                   "isCorrect": false
                 }
               ]
@@ -112,20 +133,20 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "6. I know our company is looking for ways to cut costs. Do you think my head is on the chopping block?"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) No, don't worry. They won't fire you.",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) No, I don't think so. But you might get fired.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "c) No, I don't think they'll cut off your head.",
                   "isCorrect": false
                 }
               ]
@@ -133,62 +154,41 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "7. Doesn't it blow your mind that they promoted Beth to General Manager after the mess she made in our department?"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) Yes, she really deserved that promotion.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) No, but it does surprise me.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) Yes, it really surprises me!",
                   "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
                 }
               ]
             },
             {
               "question": [
                 {
-                  "text": "7. ..."
+                  "text": "8. Did you have a chance to crunch those numbers yet?"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) Yes, I put them in a blender and crunched them up.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) Yes, I just put the financial reports on your desk.",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
+                  "option": "c) Yes, I'll take a look at them next week.",
                   "isCorrect": false
                 }
               ]
