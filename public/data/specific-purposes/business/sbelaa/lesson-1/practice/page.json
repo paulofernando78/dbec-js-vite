@@ -40,15 +40,15 @@
               "options": [
                 {
                   "option": "a) No, they paid an inventor for the idea.",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) No, they stole the idea from an inventor.",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "c) No, they discussed it with an inventor and he agreed to sell it to them.",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             },
@@ -67,15 +67,15 @@
               "options": [
                 {
                   "option": "a) don't tell anybody",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "b) don't tell her mother",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "c) she may change her mind",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             },
@@ -94,15 +94,15 @@
               "options": [
                 {
                   "option": "a) lost money on",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) made a lot of money on",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "c) decided to stop producing",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             },
@@ -121,15 +121,15 @@
               "options": [
                 {
                   "option": "a) get started on the project",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "b) cancel the project",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "c) borrow money",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             },
@@ -148,15 +148,15 @@
               "options": [
                 {
                   "option": "a) plan for closing down their business",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) plan for developing new games",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "c) plan for how they will proceed to grow their business",
-                  "iscorrect": true
+                  "isCorrect": true
                 }
               ]
             },
@@ -175,15 +175,15 @@
               "options": [
                 {
                   "option": "a) you should tell the interviewer what your current salary is",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) you should say you're making twice as much as you're really earning",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "c) you should not say how much you're currently earning",
-                  "iscorrect": true
+                  "isCorrect": true
                 }
               ]
             },
@@ -202,15 +202,15 @@
               "options": [
                 {
                   "option": "a) fancy features",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "b) things that make loud ringing noises and whistle tones",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "c) features typical in a low-priced product",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             },
@@ -229,15 +229,15 @@
               "options": [
                 {
                   "option": "a) hid",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) discovered",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "c) got fed up over",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             }

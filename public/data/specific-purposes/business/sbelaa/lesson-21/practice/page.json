@@ -40,15 +40,15 @@
               "options": [
                 {
                   "option": "a) she’s taken too much food",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) she’s very busy these days",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "c) she doesn’t really like to help people",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             },
@@ -67,15 +67,15 @@
               "options": [
                 {
                   "option": "a) increase the number of hours she works",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) retire in a few years",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "c) reduce the number of hours she works",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             },
@@ -94,15 +94,15 @@
               "options": [
                 {
                   "option": "a) Quit your job",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) Be patient",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "c) Keep complaining",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             },
@@ -121,15 +121,15 @@
               "options": [
                 {
                   "option": "a) exhausted",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "b) sick",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "c) full of energy",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             },
@@ -148,15 +148,15 @@
               "options": [
                 {
                   "option": "a) a relaxing time",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) a slow period",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "c) a very busy period",
-                  "iscorrect": true
+                  "isCorrect": true
                 }
               ]
             },
@@ -175,15 +175,15 @@
               "options": [
                 {
                   "option": "a) you never asked me for that",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) I forgot",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "c) I didn’t get a chance",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             },
@@ -202,15 +202,15 @@
               "options": [
                 {
                   "option": "a) No wonder she has no time to go swimming",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) I don’t know how she manages",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "c) I don’t know what she does with all her free time",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             },
@@ -229,15 +229,15 @@
               "options": [
                 {
                   "option": "a) focus on studying",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "b) focus on having fun",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "c) keep your nose out of other people’s business",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             }

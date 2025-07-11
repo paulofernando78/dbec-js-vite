@@ -289,12 +289,9 @@ class Exercise extends HTMLElement {
           .split(",")
           .map((a) => a.trim());
         const isFillCorrect = validAnswers.includes(userAnswer);
-
-        if (isFillCorrect) {
-          input.style.border = "2px solid green";
-        } else {
-          input.style.border = "2px solid red";
-        }
+        input.style.border = isFillCorrect
+          ? "2px solid green"
+          : "2px solid red";
       });
     });
 

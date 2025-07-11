@@ -34,15 +34,15 @@
               "options": [
                 {
                   "option": "a) That’s right. The walls have ears.",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "b) Likely story!",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "c) Right, I wasn’t born yesterday.",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             },
@@ -55,15 +55,15 @@
               "options": [
                 {
                   "option": "a) Lower your voice. The walls have ears!",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) Don’t get too excited. Chill out!",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "c) That’s hard to believe. I wasn’t born yesterday!",
-                  "iscorrect": true
+                  "isCorrect": true
                 }
               ]
             },
@@ -76,15 +76,15 @@
               "options": [
                 {
                   "option": "a) Why doesn’t she butter him up instead?",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) Think twice before accepting favors from her.",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "c) That’s one way to climb the corporate ladder.",
-                  "iscorrect": true
+                  "isCorrect": true
                 }
               ]
             },
@@ -97,15 +97,15 @@
               "options": [
                 {
                   "option": "a) Likely story.",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) Chill out!",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "c) You’re such a yes man.",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             },
@@ -118,15 +118,15 @@
               "options": [
                 {
                   "option": "a) You need to look at yourself in the mirror.",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) I’m sure you’ll think twice before helping him again.",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "c) He’s trying to climb the corporate ladder.",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             },
@@ -139,15 +139,15 @@
               "options": [
                 {
                   "option": "a) She’ll definitely get ahead.",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "b) Let’s not talk about her behind her back.",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "c) It’s a dog-eat-dog world.",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             },
@@ -160,15 +160,15 @@
               "options": [
                 {
                   "option": "a) I’m not surprised. He’s a real yes man.",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) That’s one way to climb the corporate ladder.",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "c) I don’t know how he can look at himself in the mirror.",
-                  "iscorrect": true
+                  "isCorrect": true
                 }
               ]
             },
@@ -181,15 +181,15 @@
               "options": [
                 {
                   "option": "a) Are you just out for yourself?",
-                  "iscorrect": false
+                  "isCorrect": false
                 },
                 {
                   "option": "b) Are you trying to butter me up?",
-                  "iscorrect": true
+                  "isCorrect": true
                 },
                 {
                   "option": "c) Isn’t it a dog-eat-dog world?",
-                  "iscorrect": false
+                  "isCorrect": false
                 }
               ]
             }
