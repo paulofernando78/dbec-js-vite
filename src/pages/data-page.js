@@ -19,13 +19,13 @@ class DataPage extends HTMLElement {
     let JSON_PATH;
     const path = this.getAttribute("path");
     const page = this.getAttribute("page");
-    console.log("🔍 path:", path);
-    console.log("📘 page:", page);
+    // console.log("🔍 path:", path);
+    // console.log("📘 page:", page);
     
     if (page) {
       JSON_PATH = `/data/${path}/page.json`;
     }
-    console.log("📥 JSON_PATH:", JSON_PATH);
+    // console.log("📥 JSON_PATH:", JSON_PATH);
     
     fetch(JSON_PATH)
       .then((res) => res.json())

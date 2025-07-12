@@ -71,11 +71,11 @@
                 },
                 {
                   "option": "b) retire in a few years",
-                  "isCorrect": true
+                  "isCorrect": false
                 },
                 {
                   "option": "c) reduce the number of hours she works",
-                  "isCorrect": false
+                  "isCorrect": true
                 }
               ]
             },

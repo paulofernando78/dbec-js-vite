@@ -28,20 +28,20 @@
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Our store had a very successful holiday season this year. Sales were through the roof!"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) I'm sorry to hear that you need a new roof.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) That's great. Congratulations!",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) Don't worry. Maybe next year will be better.",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +49,41 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "2. We're looking for some fresh thinking in our marketing department. Are you good at thinking outside the box?"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) Yes, I tend to think like everybody else.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) Yes, I enjoy approaching new projects in a traditional way.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) Yes, I'm great at coming up with new and creative ideas.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. I'd like to share the credit with you. Without you, I wouldn't have been able to find this important new client."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) Thank you. I appreciate the recognition.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "b) Thanks, but I already have enough credit.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) I think I deserve some of the credit too.",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +91,20 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "4. A big Ace Hardware store is opening up in town. Do you think they'll give our local hardware store a run for their money?"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) Definitely. Their selection will be bigger and their prices may be lower.",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) Yes, our local hardware store will definitely run out of money.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "c) No. Everybody in town will start shopping at Ace Hardware.",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +112,41 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "5. Since you need to drum up some new business, I suggest you exhibit at a trade show."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) We don't have any business right now.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) We've been thinking about going into the drum business.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) Great idea! I'm sure we could find some new clients there.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. You deserve a pat on the back for figuring out how to fix our computer network."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) Thanks. It was my pleasure.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "b) Thanks. Let me turn around so you can see my back.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) Sorry. I wish I could've done a better job.",
                   "isCorrect": false
                 }
               ]
@@ -112,20 +154,20 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "7. Kudos to you and the rest of the manufacturing department for figuring out how to cut our production costs!"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) We don't need any more kudos. We have enough in inventory.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) Thank you. We are proud of our results.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) We'll try our best, but we can't guarantee anything.",
                   "isCorrect": false
                 }
               ]
@@ -133,62 +175,20 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "8. Traditional ways of advertising are no longer working for our firm. Do you think we should try some guerrilla marketing?"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) Absolutely. It's always better to use reliable old methods.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) Yes, new ways of marketing might help increase sales.",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "7. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
+                  "option": "c) No, I think you should try marketing to monkeys instead.",
                   "isCorrect": false
                 }
               ]

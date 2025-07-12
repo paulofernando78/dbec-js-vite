@@ -245,6 +245,7 @@ class Exercise extends HTMLElement {
     const checkAnswersButton = document.createElement("wc-button");
     checkAnswersButton.setAttribute("data-icon", "check");
     checkAnswersButton.addEventListener("click", () => {
+      
       // Radio check answers
       const containers = this.shadowRoot.querySelectorAll(
         ".radio-exercise-group"

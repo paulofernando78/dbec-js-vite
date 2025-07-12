@@ -168,7 +168,13 @@
               "markedText":	"can't afford to"
             },
             {
-              "text":	" get sick. I'm up to my ears in work."
+              "text":	" get sick. I'm "
+            },
+            {
+              "markedText":	"up to my ears in work"
+            },
+            {
+              "text":	"."
             }
           ]
         },
@@ -222,17 +228,6 @@
             },
             {
               "text":	","
-            }
-          ]
-        },
-        {
-          "lineBreak": true,
-          "paragraph": [
-            {
-              "boldText": "xxx: "
-            },
-            {
-              "text": "... "
             }
           ]
         }
