@@ -21,27 +21,33 @@
     {
       "exercises": [
         {
-          "title": "Choose the most appropriate response to the following:"
+          "title": "Choose the best substitute for the highlighted phrase or sentence:"
         },
         {
           "radioExercises": [
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Sandra is "
+                },
+                {
+                  "markedText":	"of two minds"
+                },
+                {
+                  "text":	" about leaving her job to get an MBA."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) upset",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) not sure",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) very positive",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +55,53 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "2. You decided to invest some money in real estate? "
+                },
+                {
+                  "markedText":	"Good call"
+                },
+                {
+                  "text":	"!"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) You're a good person!",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) I'll call you back!",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) Good idea!",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. Ford Motor Company debated for a long time whether or not to start making cars in Russia, but the company finally decided to "
+                },
+                {
+                  "markedText":	"bite the bullet"
+                },
+                {
+                  "text":	"."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) drop the project",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) go ahead with it",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) enter the weapons business",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +109,26 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "4. I know you're nervous about the launch of our new robotic vacuum cleaner, but "
+                },
+                {
+                  "markedText":	"my gut tells me"
+                },
+                {
+                  "text":	" that it's going to be a big seller."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) I have a strong feeling",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) my friend tells me",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "c) I don't think",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +136,53 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "5. Janet left her old job before finding a new one and "
+                },
+                {
+                  "markedText":	"lived to regret her decision"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) had trouble finding a new job",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) was happy with her decision",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) was sorry about it later",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. Unfortunately, our company president is not a great leader. He's "
+                },
+                {
+                  "markedText":	"wishy-washy"
+                },
+                {
+                  "text":	"."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) inconsiderate",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) not good at making decisions",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) lazy",
                   "isCorrect": false
                 }
               ]
@@ -112,20 +190,26 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "7. Kate says running a business from her home "
+                },
+                {
+                  "markedText":	"gives her the best of both worlds"
+                },
+                {
+                  "text":	": she can stay at home with her four young children and still make some money."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) allows her all possible advantages",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) gives her more work than she can handle",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "c) lets her stay at home all day doing nothing",
                   "isCorrect": false
                 }
               ]
@@ -133,62 +217,26 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "8. The computer store was unsure at first how much demand there would be for the new line of laptops, so they started with a small order to "
+                },
+                {
+                  "markedText":	"test the waters"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) make sure the laptops really worked",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) see if there was demand for the laptops",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "7. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
+                  "option": "c) see if customers were interested in buying water",
                   "isCorrect": false
                 }
               ]
