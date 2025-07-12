@@ -20,26 +20,33 @@ class VideoPlayer extends HTMLElement {
 
     const css = document.createElement("style"); /*css*/
     css.textContent = `
-			iframe {
+		.iframe-wrapper {
+      display: block;
+      width: 100%
+    }	
+    
+    iframe {
 				aspect-ratio: 16 / 9;
         width: 100%;
-        // border: none;
         border-radius: var(--border-radius)
-
 			}
 		`;
 
+    const wrapper = document.createElement("div");
+    wrapper.classList.add("iframe-wrapper")
+    
     const iframe = document.createElement("iframe");
+    iframe.style.height = "360px";
     iframe.setAttribute("frameborder", "0");
     iframe.setAttribute(
       "allow",
       "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     );
     iframe.src = item;
-
     iframe.style.marginBottom = "var(--line-break)";
+    wrapper.appendChild(iframe)
 
-    this.shadowRoot.append(cssImports, css, iframe);
+    this.shadowRoot.append(cssImports, css, wrapper);
   }
 }
 

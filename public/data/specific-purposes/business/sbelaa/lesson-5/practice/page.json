@@ -21,27 +21,33 @@
     {
       "exercises": [
         {
-          "title": "Choose the most appropriate response to the following:"
+          "title": "Choosethe best substitute for the highlighted phrase or sentence:"
         },
         {
           "radioExercises": [
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Mattel, a large toy company, always "
+                },
+                {
+                  "markedText":	"beefs up"
+                },
+                {
+                  "text":	" its advertising around the holiday season."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) changes",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) increases",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) decreases",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +55,53 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "2. Amazon.com uses "
+                },
+                {
+                  "markedText":	"cutting-edge technologies"
+                },
+                {
+                  "text":	" to determine which products each of its customers is most likely to buy."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) sharp",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) inexpensive",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) the most modern",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. We need to re-design our entire store. "
+                },
+                {
+                  "markedText":	"For starters"
+                },
+                {
+                  "text":	", we should move the cash register from the back of the store to the front of the store."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) For now",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) As a first priority",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) As the solution",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +109,26 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "4. Your company is introducing garlic fruitcake? "
+                },
+                {
+                  "markedText":	"That sounds like a real dog"
+                },
+                {
+                  "text":	"!"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) What a great idea!",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) That sounds like a terrible idea!",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) I'm sure dogs will love it!",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +136,26 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "5. After Apple's iPod proved to be successful, several other manufacturers came out with "
+                },
+                {
+                  "markedText":	"me-too products."
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) products very similar to the iPod",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) their own innovative products",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "c) products very different from the iPod",
                   "isCorrect": false
                 }
               ]
@@ -112,20 +163,26 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "6. Your plan is good, but before you proceed, you'll need to "
+                },
+                {
+                  "markedText":	"get buy-in"
+                },
+                {
+                  "text":	" from the company president."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) get a purchase order",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) get approval",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) get a promotion",
                   "isCorrect": false
                 }
               ]
@@ -133,62 +190,53 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "7. With our new solar-powered automobile, we're going to "
+                },
+                {
+                  "markedText":	"leapfrog our competitors"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) make all our competition disappear",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) turn our competitors into small green animals",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) come out with a superior product",
                   "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
                 }
               ]
             },
             {
               "question": [
                 {
-                  "text": "7. ..."
+                  "text": "8. I think you and I are "
+                },
+                {
+                  "markedText":	"on the same page"
+                },
+                {
+                  "text":	" about our plans to expand into China."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) realistic",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) in agreement",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
+                  "option": "c) not in agreement",
                   "isCorrect": false
                 }
               ]
