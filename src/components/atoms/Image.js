@@ -21,6 +21,7 @@ class Image extends HTMLElement {
     this.shadowRoot.appendChild(cssImports);
     this.shadowRoot.appendChild(image);
   }
+
 }
 
 export default Image;

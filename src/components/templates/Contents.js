@@ -17,6 +17,13 @@ class Contents extends HTMLElement {
         top: 0;
         z-index: 999
       }
+
+      .image-wrapper {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 10px
+      }
     `;
     this.shadowRoot.appendChild(css);
   }
@@ -54,18 +61,22 @@ class Contents extends HTMLElement {
       if (section.paragraphs) {
         section.paragraphs.forEach((p) => {
           const paragraph = document.createElement("wc-paragraph");
-          paragraph.data = p;
           contentContainer.appendChild(paragraph);
         });
       }
 
       //Image
       if (section.images) {
+        const imageWrapper = document.createElement("div");
+      imageWrapper.classList.add("image-wrapper");
+
         section.images.forEach((img) => {
           const image = document.createElement("wc-image");
-          image.data = img.src;
-          contentContainer.appendChild(image);
+          image.data = img;
+          imageWrapper.appendChild(image);
         });
+
+        contentContainer.appendChild(imageWrapper);
       }
 
       // Audioplayer

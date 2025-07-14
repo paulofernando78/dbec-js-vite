@@ -37,16 +37,19 @@
       }
     },
     {
-      "img": [
+      "images": [
         {
+          "width": "200px",
           "src": "/assets/images/general/robalo.avif",
           "alt": "..."
         },
         {
+          "width": "200px",
           "src": "/assets/images/general/robalo.avif",
           "alt": "..."
         },
         {
+          "width": "200px",
           "src": "/assets/images/general/robalo.avif",
           "alt": "..."
         }
