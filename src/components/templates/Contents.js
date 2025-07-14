@@ -61,6 +61,7 @@ class Contents extends HTMLElement {
       if (section.paragraphs) {
         section.paragraphs.forEach((p) => {
           const paragraph = document.createElement("wc-paragraph");
+          paragraph.data = p;
           contentContainer.appendChild(paragraph);
         });
       }
