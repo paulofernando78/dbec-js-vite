@@ -21,27 +21,33 @@
     {
       "exercises": [
         {
-          "title": "Choose the most appropriate response to the following:"
+          "title": "Choose the best substitute for the highlighted phrase or sentence:"
         },
         {
           "radioExercises": [
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. I've got a plan to "
+                },
+                {
+                  "markedText":	"turn around our business"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) sell our business",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) make our business profitable again",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) cut employees",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +55,53 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "2. The new project sounds interesting. "
+                },
+                {
+                  "markedText":	"Count me in"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) Tell me more.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) Will I be included?",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) I will participate.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. Productivity is down. How can we "
+                },
+                {
+                  "markedText":	"rally the troops"
+                },
+                {
+                  "text":	"?"
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) motivate employees",
+                  "isCorrect": true
+                },
+                {
+                  "option": "b) fire employees",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) bring in new employees",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +109,26 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "4. Let's "
+                },
+                {
+                  "markedText":	"get down to business"
+                },
+                {
+                  "text":	". The project deadline is Thursday."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) stop worrying",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) start working",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) forecast our losses",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +136,26 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "5. Lisa's got more "
+                },
+                {
+                  "markedText":	"team spirit"
+                },
+                {
+                  "text":	" than anybody at our company."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) enthusiasm for working as a group",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) work experience",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "c) loyalty",
                   "isCorrect": false
                 }
               ]
@@ -112,20 +163,26 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "6. Tracy's career advisor told her not to "
+                },
+                {
+                  "markedText":	"rest on her laurels"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) take a break in her career",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) rely on her past successes",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) try hard for a promotion",
                   "isCorrect": false
                 }
               ]
@@ -133,20 +190,26 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "7. Another year of losses? Is it time to "
+                },
+                {
+                  "markedText":	"throw in the towel"
+                },
+                {
+                  "text":	"?"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) give up",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) try harder",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "c) find new leadership",
                   "isCorrect": false
                 }
               ]
@@ -154,42 +217,27 @@
             {
               "question": [
                 {
-                  "text": "7. ..."
+                  "text": "8. Are you "
+                },
+                {
+                  "markedText":	"on board with"
+                },
+                {
+                  "text":	" our plans for the acquisition?"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) aware of",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) in disagreement with",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) in agreement with",
                   "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
                 }
               ]
             }

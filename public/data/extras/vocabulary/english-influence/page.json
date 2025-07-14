@@ -15,8 +15,8 @@
         {
           "paragraph": [
             {
-              "boldText": "aggressor",
-              "phonetics": "/əˈɡres.ɚ/",
+              "boldText": "aggressor ",
+              "phonetics": "/əˈɡres.ɚ/ ",
               "partOfSpeech": "noun",
               "displayBlock": true
             },
@@ -24,13 +24,14 @@
               "ptText": "agressor",
               "displayBlock": true
             }
-          ]
+          ],
+          "lineBreak": true
         },
         {
           "paragraph": [
             {
-              "boldText": "altar",
-              "phonetics": "...",
+              "boldText": "altar ",
+              "phonetics": "... ",
               "partOfSpeech": "noun",
               "displayBlock": true
             },
@@ -38,13 +39,14 @@
               "ptText": "altar",
               "displayBlock": true
             }
-          ]
+          ],
+          "lineBreak": true
         },
         {
           "paragraph": [
             {
-              "boldText": "to commence",
-              "phonetics": "/kəˈmens/",
+              "boldText": "to commence ",
+              "phonetics": "/kəˈmens/ ",
               "partOfSpeech": "verb"
             },
             {
@@ -63,8 +65,8 @@
         {
           "paragraph": [
             {
-              "boldText": "to compromise",
-              "phonetics": "/ˈkɑːm.prə.maɪz/",
+              "boldText": "to compromise ",
+              "phonetics": "/ˈkɑːm.prə.maɪz/ ",
               "partOfSpeech": "verb"
             },
             {
@@ -93,8 +95,8 @@
         {
           "paragraph": [
             {
-              "boldText": "to converse",
-              "phonetics": "/kənˈvɝːs/",
+              "boldText": "to converse ",
+              "phonetics": "/kənˈvɝːs/ ",
               "partOfSpeech": "verb"
             },
             {
@@ -108,8 +110,8 @@
         {
           "paragraph": [
             {
-              "boldText": "to deteriorate",
-              "phonetics": "/dɪˈtɪr.i.ə.reɪt",
+              "boldText": "to deteriorate ",
+              "phonetics": "/dɪˈtɪr.i.ə.reɪt/ ",
               "partOfSpeech": "verb"
             },
             {
@@ -123,8 +125,8 @@
         {
           "paragraph": [
             {
-              "boldText": "to detest",
-              "phonetics": "/dɪˈtest/",
+              "boldText": "to detest ",
+              "phonetics": "/dɪˈtest/ ",
               "partOfSpeech": "verb"
             },
             {
@@ -138,8 +140,8 @@
         {
           "paragraph": [
             {
-              "boldText": "assault",
-              "phonetics": "/əˈsɑːlt/",
+              "boldText": "assault ",
+              "phonetics": "/əˈsɑːlt/ ",
               "partOfSpeech": "noun / verb"
             },
             {
@@ -153,8 +155,8 @@
         {
           "paragraph": [
             {
-              "boldText": "to devour",
-              "phonetics": "/dɪˈvaʊ.ɚ/",
+              "boldText": "to devour ",
+              "phonetics": "/dɪˈvaʊ.ɚ/ ",
               "partOfSpeech": "verb"
             },
             {
@@ -168,8 +170,8 @@
         {
           "paragraph": [
             {
-              "boldText": "macaque",
-              "phonetics": "/məˈkɑːk/",
+              "boldText": "macaque ",
+              "phonetics": "/məˈkɑːk/ ",
               "partOfSpeech": "noun"
             },
             {
@@ -183,8 +185,8 @@
         {
           "paragraph": [
             {
-              "boldText": "to obtain",
-              "phonetics": "/əbˈteɪn/",
+              "boldText": "to obtain ",
+              "phonetics": "/əbˈteɪn/ ",
               "partOfSpeech": "verb"
             },
             {
@@ -198,8 +200,8 @@
         {
           "paragraph": [
             {
-              "boldText": "to regurgitate",
-              "phonetics": "/rɪˈɡɝː.dʒə.teɪt/",
+              "boldText": "to regurgitate ",
+              "phonetics": "/rɪˈɡɝː.dʒə.teɪt/ ",
               "partOfSpeech": "verb"
             },
             {
@@ -213,8 +215,8 @@
         {
           "paragraph": [
             {
-              "boldText": "summary",
-              "phonetics": "/ˈsʌm.ɚ.i/",
+              "boldText": "summary ",
+              "phonetics": "/ˈsʌm.ɚ.i/ ",
               "partOfSpeech": "noun"
             },
             {
@@ -228,8 +230,8 @@
         {
           "paragraph": [
             {
-              "boldText": "to validate",
-              "phonetics": "/ˈvæl.ə.deɪt/",
+              "boldText": "to validate ",
+              "phonetics": "/ˈvæl.ə.deɪt/ ",
               "partOfSpeech": "verb"
             },
             {
@@ -243,8 +245,8 @@
         {
           "paragraph": [
             {
-              "boldText": "value",
-              "phonetics": "/ˈvæl.juː/",
+              "boldText": "value ",
+              "phonetics": "/ˈvæl.juː/ ",
               "partOfSpeech": "noun  verb"
             },
             {

@@ -1,0 +1,504 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Vocabulary",
+    "descriptions": [
+      {
+        "icon": "pages",
+        "description": "Homographs vs. homophones vs. homonyns"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "Homographs"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "text": "A "
+            },
+            {
+              "boldText": "homograph"
+            },
+            {
+              "text": " is a word that has the "
+            },
+            {
+              "markedText": "same spelling"
+            },
+            {
+              "text": " as another word but has a different sound and a different meaning. "
+            },
+            {
+              "markedText": "–graph"
+            },
+            {
+              "text": " means drawn or written:"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "lead "
+            },
+            {
+              "phonetics": "/liːd/ "
+            },
+            {
+              "partOfSpeech": "verb "
+            },
+            {
+              "ptText": "liderar, conduzir, levar"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "lead "
+            },
+            {
+              "phonetics": "/led/ "
+            },
+            {
+              "partOfSpeech": "noun "
+            },
+            {
+              "text": "chemical element "
+            },
+            {
+              "ptText": "chumbo"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "wind "
+            },
+            {
+              "phonetics": "/wɪnd/ "
+            },
+            {
+              "partOfSpeech": "noun "
+            },
+            {
+              "ptText": "vento"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "wind "
+            },
+            {
+              "phonetics": "/waɪnd/ "
+            },
+            {
+              "partOfSpeech": "verb "
+            },
+            {
+              "ptText": "enrolar, girar"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "... "
+            },
+            {
+              "phonetics": "... "
+            },
+            {
+              "partOfSpeech": "... "
+            },
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "... "
+            },
+            {
+              "phonetics": "... "
+            },
+            {
+              "partOfSpeech": "... "
+            },
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ],
+          "lineBreak": true
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "Homophones"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "text": "A "
+            },
+            {
+              "boldText": "homophone"
+            },
+            {
+              "text": " is a word that has the "
+            },
+            {
+              "markedText": "same sound"
+            },
+            {
+              "text": " as another word but has a different meaning. Homophones may or may not have the same spelling. "
+            },
+            {
+              "markedText": "–phone"
+            },
+            {
+              "text": " means sound or voice:"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "to "
+            },
+            {
+              "phonetics": "/tuː/ /tə/ "
+            },
+            {
+              "partOfSpeech": "preposition "
+            },
+            {
+              "ptText": "usado como marcador de infinitivo"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "two "
+            },
+            {
+              "phonetics": "/tuː/ "
+            },
+            {
+              "partOfSpeech": "number "
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "too "
+            },
+            {
+              "phonetics": "/tuː/ "
+            },
+            {
+              "partOfSpeech": "adverb "
+            },
+            {
+              "ptText": "muito (algo), também"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "... "
+            },
+            {
+              "phonetics": "... "
+            },
+            {
+              "partOfSpeech": "... "
+            },
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "... "
+            },
+            {
+              "phonetics": "... "
+            },
+            {
+              "partOfSpeech": "... "
+            },
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "... "
+            },
+            {
+              "phonetics": "... "
+            },
+            {
+              "partOfSpeech": "... "
+            },
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "... "
+            },
+            {
+              "phonetics": "... "
+            },
+            {
+              "partOfSpeech": "... "
+            },
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ],
+          "lineBreak": true
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "Homonyns"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "text": "A "
+            },
+            {
+              "boldText": "homograph"
+            },
+            {
+              "text": "..."
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "... "
+            },
+            {
+              "phonetics": "... "
+            },
+            {
+              "partOfSpeech": "... "
+            },
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "... "
+            },
+            {
+              "phonetics": "... "
+            },
+            {
+              "partOfSpeech": "... "
+            },
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "... "
+            },
+            {
+              "phonetics": "... "
+            },
+            {
+              "partOfSpeech": "... "
+            },
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "... "
+            },
+            {
+              "phonetics": "... "
+            },
+            {
+              "partOfSpeech": "... "
+            },
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "... "
+            },
+            {
+              "phonetics": "... "
+            },
+            {
+              "partOfSpeech": "... "
+            },
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "... "
+            },
+            {
+              "phonetics": "... "
+            },
+            {
+              "partOfSpeech": "... "
+            },
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "... "
+            },
+            {
+              "phonetics": "... "
+            },
+            {
+              "partOfSpeech": "... "
+            },
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "... "
+            },
+            {
+              "phonetics": "... "
+            },
+            {
+              "partOfSpeech": "... "
+            },
+            {
+              "text": "... "
+            },
+            {
+              "ptText": "..."
+            }
+          ],
+          "lineBreak": true
+        }
+      ]
+    }
+  ]
+}
