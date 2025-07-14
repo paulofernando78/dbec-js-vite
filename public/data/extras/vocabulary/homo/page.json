@@ -35,13 +35,52 @@
               "markedText": "same spelling"
             },
             {
-              "text": " as another word but has a different sound and a different meaning. "
+              "text": " as another word but has a "
+            },
+            {
+              "markedText": "different sound"
+            },
+            {
+              "text": " and a different meaning. "
             },
             {
               "markedText": "–graph"
             },
             {
               "text": " means drawn or written:"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "bass "
+            },
+            {
+              "phonetics": "/beɪs/ "
+            },
+            {
+              "partOfSpeech": "noun "
+            },
+            {
+              "ptText": "intrumento baixo; tom grave"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "bass "
+            },
+            {
+              "phonetics": "/bæs/ "
+            },
+            {
+              "partOfSpeech": "noun "
+            },
+            {
+              "ptText": "robalo (peixe)"
             }
           ],
           "lineBreak": true
@@ -114,45 +153,6 @@
             }
           ],
           "lineBreak": true
-        },
-        {
-          "paragraph": [
-            {
-              "boldText": "... "
-            },
-            {
-              "phonetics": "... "
-            },
-            {
-              "partOfSpeech": "... "
-            },
-            {
-              "text": "... "
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "boldText": "... "
-            },
-            {
-              "phonetics": "... "
-            },
-            {
-              "partOfSpeech": "... "
-            },
-            {
-              "text": "... "
-            },
-            {
-              "ptText": "..."
-            }
-          ],
-          "lineBreak": true
         }
       ]
     },
@@ -181,13 +181,167 @@
               "markedText": "same sound"
             },
             {
-              "text": " as another word but has a different meaning. Homophones may or may not have the same spelling. "
+              "text": " as another word but has a "
+            },
+            {
+              "markedText":	"different meaning"
+            },
+            {
+              "text":	". Homophones may or may not have the same spelling. "
             },
             {
               "markedText": "–phone"
             },
             {
               "text": " means sound or voice:"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "flower "
+            },
+            {
+              "phonetics": "/ˈflaʊ.ɚ/ "
+            },
+            {
+              "partOfSpeech": "noun "
+            },
+            {
+              "ptText": "flor"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "flour "
+            },
+            {
+              "phonetics": "/ˈflaʊ.ɚ/ "
+            },
+            {
+              "partOfSpeech": "noun "
+            },
+            {
+              "ptText": "farinha"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "plane "
+            },
+            {
+              "phonetics": "/pleɪn/ "
+            },
+            {
+              "partOfSpeech": "noun "
+            },
+            {
+              "ptText": "avião, aerovane"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "plain "
+            },
+            {
+              "phonetics": "/pleɪn/ "
+            },
+            {
+              "partOfSpeech": "adjective "
+            },
+            {
+              "ptText": "plano"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "pray "
+            },
+            {
+              "phonetics": "/preɪ/ "
+            },
+            {
+              "partOfSpeech": "verb "
+            },
+            {
+              "ptText": "rezar, orar"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "prey "
+            },
+            {
+              "phonetics": "/preɪ/ "
+            },
+            {
+              "partOfSpeech": "noun "
+            },
+            {
+              "ptText": "presa (animal / comida)"
+            }
+          ],
+          "lineBreak": true
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "they’re "
+            },
+            {
+              "phonetics": "/ðer/ "
+            },
+            {
+              "partOfSpeech": "short form of they are "
+            },
+            {
+              "ptText": "eles, elas, são / estão (pessoas ou coisas)"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "their "
+            },
+            {
+              "phonetics": "/ðer/ "
+            },
+            {
+              "partOfSpeech": "determiner "
+            },
+            {
+              "ptText": "deles, delas"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "boldText": "there "
+            },
+            {
+              "phonetics": "/ðer/ "
+            },
+            {
+              "partOfSpeech": "adverb "
+            },
+            {
+              "ptText": "aí, lá"
             }
           ],
           "lineBreak": true
@@ -218,6 +372,9 @@
             },
             {
               "partOfSpeech": "number "
+            },
+            {
+              "ptText": "número dois (2)"
             }
           ]
         },
@@ -234,84 +391,6 @@
             },
             {
               "ptText": "muito (algo), também"
-            }
-          ],
-          "lineBreak": true
-        },
-        {
-          "paragraph": [
-            {
-              "boldText": "... "
-            },
-            {
-              "phonetics": "... "
-            },
-            {
-              "partOfSpeech": "... "
-            },
-            {
-              "text": "... "
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "boldText": "... "
-            },
-            {
-              "phonetics": "... "
-            },
-            {
-              "partOfSpeech": "... "
-            },
-            {
-              "text": "... "
-            },
-            {
-              "ptText": "..."
-            }
-          ],
-          "lineBreak": true
-        },
-        {
-          "paragraph": [
-            {
-              "boldText": "... "
-            },
-            {
-              "phonetics": "... "
-            },
-            {
-              "partOfSpeech": "... "
-            },
-            {
-              "text": "... "
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "boldText": "... "
-            },
-            {
-              "phonetics": "... "
-            },
-            {
-              "partOfSpeech": "... "
-            },
-            {
-              "text": "... "
-            },
-            {
-              "ptText": "..."
             }
           ],
           "lineBreak": true
@@ -334,127 +413,10 @@
               "text": "A "
             },
             {
-              "boldText": "homograph"
+              "boldText": "homonyns "
             },
             {
               "text": "..."
-            }
-          ],
-          "lineBreak": true
-        },
-        {
-          "paragraph": [
-            {
-              "boldText": "... "
-            },
-            {
-              "phonetics": "... "
-            },
-            {
-              "partOfSpeech": "... "
-            },
-            {
-              "text": "... "
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "boldText": "... "
-            },
-            {
-              "phonetics": "... "
-            },
-            {
-              "partOfSpeech": "... "
-            },
-            {
-              "text": "... "
-            },
-            {
-              "ptText": "..."
-            }
-          ],
-          "lineBreak": true
-        },
-        {
-          "paragraph": [
-            {
-              "boldText": "... "
-            },
-            {
-              "phonetics": "... "
-            },
-            {
-              "partOfSpeech": "... "
-            },
-            {
-              "text": "... "
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "boldText": "... "
-            },
-            {
-              "phonetics": "... "
-            },
-            {
-              "partOfSpeech": "... "
-            },
-            {
-              "text": "... "
-            },
-            {
-              "ptText": "..."
-            }
-          ],
-          "lineBreak": true
-        },
-        {
-          "paragraph": [
-            {
-              "boldText": "... "
-            },
-            {
-              "phonetics": "... "
-            },
-            {
-              "partOfSpeech": "... "
-            },
-            {
-              "text": "... "
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "boldText": "... "
-            },
-            {
-              "phonetics": "... "
-            },
-            {
-              "partOfSpeech": "... "
-            },
-            {
-              "text": "... "
-            },
-            {
-              "ptText": "..."
             }
           ],
           "lineBreak": true

@@ -37,9 +37,18 @@
       }
     },
     {
-      "image": [
+      "img": [
         {
-          "src": ""
+          "src": "/assets/images/general/robalo.avif",
+          "alt": "..."
+        },
+        {
+          "src": "/assets/images/general/robalo.avif",
+          "alt": "..."
+        },
+        {
+          "src": "/assets/images/general/robalo.avif",
+          "alt": "..."
         }
       ]
     },
@@ -52,7 +61,6 @@
     {
       "paragraphs": [
         {
-          "lineBreak": true,
           "imgSrc": "/assets/images/general/cat1.jpg",
           "imgAlt": "imgAlt",
           "paragraph": [
@@ -77,10 +85,10 @@
             {
               "ptText": "ptText"
             }
-          ]
+          ],
+          "lineBreak": true
         },
         {
-          "lineBreak": true,
           "imgSrc": "/assets/images/general/cat2.jpg",
           "imgAlt": "imgAlt",
           "imgPosition": "right",
@@ -106,7 +114,8 @@
             {
               "ptText": "ptText"
             }
-          ]
+          ],
+          "lineBreak": true
         }
       ]
     },
@@ -141,7 +150,6 @@
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
               "boldText": "boldText "
@@ -164,7 +172,8 @@
             {
               "ptText": "ptText"
             }
-          ]
+          ],
+          "lineBreak": true
         }
       ]
     },
@@ -174,7 +183,6 @@
     {
       "paragraphs": [
         {
-          "lineBreak": true,
           "paragraph": [
             {
               "displayBlock": true,
@@ -203,7 +211,8 @@
             {
               "ptText": "ptText"
             }
-          ]
+          ],
+          "lineBreak": true
         }
       ]
     },

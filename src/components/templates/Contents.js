@@ -63,7 +63,7 @@ class Contents extends HTMLElement {
       if (section.images) {
         section.images.forEach((img) => {
           const image = document.createElement("wc-image");
-          image.data = img;
+          image.data = img.src;
           contentContainer.appendChild(image);
         });
       }
