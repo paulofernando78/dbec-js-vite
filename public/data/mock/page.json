@@ -68,7 +68,7 @@
           "imgAlt": "imgAlt",
           "paragraph": [
             {
-              "line": [
+              "block": [
                 {
                   "boldText": "boldText "
                 },
@@ -93,7 +93,7 @@
               ]
             },
             {
-              "line": [
+              "block": [
                 {
                   "boldText": "boldText "
                 },
@@ -125,7 +125,7 @@
           "imgPosition": "right",
           "paragraph": [
             {
-              "line": [
+              "block": [
                 {
                   "boldText": "boldText "
                 },
@@ -161,7 +161,7 @@
         {
           "paragraph": [
             {
-              "line": [
+              "block": [
                 {
                   "boldText": "boldText "
                 },
@@ -186,7 +186,7 @@
               ]
             },
             {
-              "line": [
+              "block": [
                 {
                   "boldText": "boldText "
                 },
@@ -215,7 +215,7 @@
         {
           "paragraph": [
             {
-              "line": [
+              "block": [
                 {
                   "boldText": "boldText "
                 },
@@ -240,7 +240,7 @@
               ]
             },
             {
-              "line": [
+              "block": [
                 {
                   "boldText": ""
                 },

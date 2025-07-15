@@ -33,7 +33,7 @@
           {
             "description": [
               {
-                "italicText": "Sam currently runs his own company selling used office furniture online. He's tired of running his own business and wants to get a job with a big company."
+                "text": "Sam currently runs his own company selling used office furniture online. He's tired of running his own business and wants to get a job with a big company."
               }
             ]
           }
@@ -43,227 +43,263 @@
     {
       "paragraphs": [
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Nick: "
-            },
-            {
-              "text": "I see from your résumé that you're "
-            },
-            {
-              "markedText": "running your own show"
-            },
-            {
-              "text": " as the owner of OldOfficeChair.com."
+              "block": [
+                {
+                  "boldText": "Nick: "
+                },
+                {
+                  "text": "I see from your résumé that you're "
+                },
+                {
+                  "markedText": "running your own show"
+                },
+                {
+                  "text": " as the owner of OldOfficeChair.com."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Sam: "
-            },
-            {
-              "text": "That's right. I've "
-            },
-            {
-              "markedText": "carved out a niche"
-            },
-            {
-              "text": " selling used office chairs over the Internet."
+              "block": [
+                {
+                  "boldText": "Sam: "
+                },
+                {
+                  "text": "That's right. I've "
+                },
+                {
+                  "markedText": "carved out a niche"
+                },
+                {
+                  "text": " selling used office chairs over the Internet."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Nick: "
-            },
-            {
-              "text": "That sounds like a great business. Sam: I was "
-            },
-            {
-              "markedText": "making money hand over fist"
-            },
-            {
-              "text": " after the dot-com bust.* Companies were "
-            },
-            {
-              "markedText": "going belly up"
-            },
-            {
-              "text": " every day, and I "
-            },
-            {
-              "markedText": "snapped up"
-            },
-            {
-              "text": " all their chairs "
-            },
-            {
-              "markedText": "for a song"
-            },
-            {
-              "text": ". But these days it's becoming harder and harder to find used chairs."
+              "block": [
+                {
+                  "boldText": "Nick: "
+                },
+                {
+                  "text": "That sounds like a great business. Sam: I was "
+                },
+                {
+                  "markedText": "making money hand over fist"
+                },
+                {
+                  "text": " after the dot-com bust.* Companies were "
+                },
+                {
+                  "markedText": "going belly up"
+                },
+                {
+                  "text": " every day, and I "
+                },
+                {
+                  "markedText": "snapped up"
+                },
+                {
+                  "text": " all their chairs "
+                },
+                {
+                  "markedText": "for a song"
+                },
+                {
+                  "text": ". But these days it's becoming harder and harder to find used chairs."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Nick: "
-            },
-            {
-              "text": "Wouldn't you rather continue working for yourself?"
+              "block": [
+                {
+                  "boldText": "Nick: "
+                },
+                {
+                  "text": "Wouldn't you rather continue working for yourself?"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Sam: "
-            },
-            {
-              "text": "No, I'm tired of working for myself."
+              "block": [
+                {
+                  "boldText": "Sam: "
+                },
+                {
+                  "text": "No, I'm tired of working for myself."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Nick: "
-            },
-            {
-              "text": "I can "
-            },
-            {
-              "markedText": "see the writing on the wall"
-            },
-            {
-              "text": ": you'll "
-            },
-            {
-              "markedText": "jump ship"
-            },
-            {
-              "text": " when you think up another good business idea."
+              "block": [
+                {
+                  "boldText": "Nick: "
+                },
+                {
+                  "text": "I can "
+                },
+                {
+                  "markedText": "see the writing on the wall"
+                },
+                {
+                  "text": ": you'll "
+                },
+                {
+                  "markedText": "jump ship"
+                },
+                {
+                  "text": " when you think up another good business idea."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Sam: "
-            },
-            {
-              "text": "No, I won't. I'd always wanted to be an entrepreneur, but I "
-            },
-            {
-              "markedText": "got that out of my system "
-            },
-            {
-              "text": ". I realize now that"
-            },
-            {
-              "markedText": "it's not all it's cracked up to be"
-            },
-            {
-              "text": "."
+              "block": [
+                {
+                  "boldText": "Sam: "
+                },
+                {
+                  "text": "No, I won't. I'd always wanted to be an entrepreneur, but I "
+                },
+                {
+                  "markedText": "got that out of my system "
+                },
+                {
+                  "text": ". I realize now that"
+                },
+                {
+                  "markedText": "it's not all it's cracked up to be"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Nick: "
-            },
-            {
-              "text": "It certainly isn't. You work really hard and you're just as likely to "
-            },
-            {
-              "markedText": "strike out"
-            },
-            {
-              "text": " as you are to "
-            },
-            {
-              "markedText": "strike it rich."
+              "block": [
+                {
+                  "boldText": "Nick: "
+                },
+                {
+                  "text": "It certainly isn't. You work really hard and you're just as likely to "
+                },
+                {
+                  "markedText": "strike out"
+                },
+                {
+                  "text": " as you are to "
+                },
+                {
+                  "markedText": "strike it rich."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Sam: "
-            },
-            {
-              "text": "Tell me about it! My best friend invested all his money in starting a company. He ended up "
-            },
-            {
-              "markedText": "losing his shirt!"
-            },
-            {
-              "text": "!"
+              "block": [
+                {
+                  "boldText": "Sam: "
+                },
+                {
+                  "text": "Tell me about it! My best friend invested all his money in starting a company. He ended up "
+                },
+                {
+                  "markedText": "losing his shirt!"
+                },
+                {
+                  "text": "!"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Nick: "
-            },
-            {
-              "text": "Right, we all know people like that...One final point about the position. As you know, this is a large corporation. Are you sure you wouldn't be happier at a "
-            },
-            {
-              "markedText": "start-up"
-            },
-            {
-              "text": "?"
+              "block": [
+                {
+                  "boldText": "Nick: "
+                },
+                {
+                  "text": "Right, we all know people like that...One final point about the position. As you know, this is a large corporation. Are you sure you wouldn't be happier at a "
+                },
+                {
+                  "markedText": "start-up"
+                },
+                {
+                  "text": "?"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Sam: "
-            },
-            {
-              "markedText": "Start-ups"
-            },
-            {
-              "text":	" are exciting, but at this point in my life, I'm looking for stability over excitement. I've got four kids at home, and they like to eat!"
+              "block": [
+                {
+                  "boldText": "Sam: "
+                },
+                {
+                  "markedText": "Start-ups"
+                },
+                {
+                  "text": " are exciting, but at this point in my life, I'm looking for stability over excitement. I've got four kids at home, and they like to eat!"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Nick: "
-            },
-            {
-              "markedText": "I hear what you're saying"
-            },
-            {
-              "text":	". We could use somebody around here who thinks like an entrepreneur. If you're someone who can "
-            },
-            {
-              "markedText":	"take the ball and run with it"
-            },
-            {
-              "text":	", you'd be a great addition."
+              "block": [
+                {
+                  "boldText": "Nick: "
+                },
+                {
+                  "markedText": "I hear what you're saying"
+                },
+                {
+                  "text": ". We could use somebody around here who thinks like an entrepreneur. If you're someone who can "
+                },
+                {
+                  "markedText": "take the ball and run with it"
+                },
+                {
+                  "text": ", you'd be a great addition."
+                }
+              ]
             }
           ]
         }

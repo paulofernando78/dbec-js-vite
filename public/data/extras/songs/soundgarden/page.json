@@ -1,9 +1,13 @@
 {
   "whiteboard": {
     "title": "Extras",
-    "subtitle": "Songs",
     "descriptions": [
       {
+        "icon": "songs",
+        "description": "Songs"
+      },
+      {
+        "icon": "artist",
         "description": "Soundgarden"
       }
     ]
@@ -12,13 +16,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "pages",
+        "icon": "album",
         "label": "Badmotorfinger",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "songs",
+                "icon": "lyrics",
                 "link": "/extras/songs/soundgarden/badmotorfinger/rusty-cage",
                 "label": "Rusty Cage"
               }

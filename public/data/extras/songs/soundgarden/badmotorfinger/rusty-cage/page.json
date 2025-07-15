@@ -4,12 +4,19 @@
     "subtitle": "Songs",
     "descriptions": [
       {
+        "icon": "songs",
+        "description": "Songs"
+      },
+      {
+        "icon": "artist",
         "description": "Soundgarden"
       },
       {
+        "icon": "album",
         "description": "Badmotorfinger (1991)"
       },
       {
+        "icon": "lyrics",
         "description": "Rusty Cage"
       }
     ]
@@ -26,242 +33,414 @@
         {
           "paragraph": [
             {
-              "text": "You wired me awake"
+              "block": [
+                {
+                  "boldText": "Rusty Cage"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Você me amarrou enquanto eu acordava"
+              "block": [
+                {
+                  "ptText": "Gaiola Enferrujada (Simbolizado um estado de aprisionamento)"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "And hit me with a hand of broken nails"
+              "block": [
+                {
+                  "text": "You wired me awake"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "E me bateu com uma mão cheia de pregos quebrados"
+              "block": [
+                {
+                  "ptText": "Você me amarrou enquanto eu acordava"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "You tied my lead and pulled my chain"
+              "block": [
+                {
+                  "text": "And hit me with a hand of broken nails"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Você testou meus limites e puxou minha corrente"
+              "block": [
+                {
+                  "ptText": "E me bateu com uma mão cheia de pregos quebrados"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "To watch my blood begin to boil"
+              "block": [
+                {
+                  "text": "You tied my lead and pulled my chain"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Para assistir meu sangue começar a ferver"
+              "block": [
+                {
+                  "ptText": "Você testou meus limites e puxou minha corrente"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "But I'm gonna break"
+              "block": [
+                {
+                  "text": "To watch my blood begin to boil"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Mas eu vou quebrar"
+              "block": [
+                {
+                  "ptText": "Para assistir meu sangue começar a ferver"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'm gonna break my"
+              "block": [
+                {
+                  "text": "But I'm gonna break"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "I'm gonna break my"
+              "block": [
+                {
+                  "ptText": "Mas eu vou quebrar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'm gonna break my rusty cage"
+              "block": [
+                {
+                  "text": "I'm gonna break my"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "I'm gonna break my rusty cage"
+              "block": [
+                {
+                  "ptText": "I'm gonna break my"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'm gonna break"
+              "block": [
+                {
+                  "text": "I'm gonna break my rusty cage"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Eu vou quebrar"
+              "block": [
+                {
+                  "ptText": "I'm gonna break my rusty cage"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'm gonna break my"
+              "block": [
+                {
+                  "text": "I'm gonna break"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "I'm gonna break my"
+              "block": [
+                {
+                  "ptText": "Eu vou quebrar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'm gonna break my rusty cage"
+              "block": [
+                {
+                  "text": "I'm gonna break my"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "I'm gonna break my rusty cage"
+              "block": [
+                {
+                  "ptText": "I'm gonna break my"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "And run"
+              "block": [
+                {
+                  "text": "I'm gonna break my rusty cage"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "E fugir"
+              "block": [
+                {
+                  "ptText": "I'm gonna break my rusty cage"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Too cold to start a fire"
+              "block": [
+                {
+                  "text": "And run"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Frio demais para acender uma fogueira"
+              "block": [
+                {
+                  "ptText": "E fugir"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'm burning diesel burning dinosaur bones"
+              "block": [
+                {
+                  "text": "Too cold to start a fire"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Estou queimando diesel, queimando ossos de dinossauros"
+              "block": [
+                {
+                  "ptText": "Frio demais para acender uma fogueira"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'll take the river down to still water"
+              "block": [
+                {
+                  "text": "I'm burning diesel burning dinosaur bones"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Eu vou descer o rio até as águas tranquilas"
+              "block": [
+                {
+                  "ptText": "Estou queimando diesel, queimando ossos de dinossauros"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "And ride a pack of dogs"
+              "block": [
+                {
+                  "text": "I'll take the river down to still water"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "E guiarei uma matilha de cães"
+              "block": [
+                {
+                  "ptText": "Eu vou descer o rio até as águas tranquilas"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "But I'm gonna break"
+              "block": [
+                {
+                  "text": "And ride a pack of dogs"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Mas eu vou quebrar"
+              "block": [
+                {
+                  "ptText": "E guiarei uma matilha de cães"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'm gonna break my"
+              "block": [
+                {
+                  "text": "But I'm gonna break"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "I'm gonna break my"
+              "block": [
+                {
+                  "ptText": "Mas eu vou quebrar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'm gonna break my rusty cage"
+              "block": [
+                {
+                  "text": "I'm gonna break my"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "I'm gonna break my rusty cage"
+              "block": [
+                {
+                  "ptText": "I'm gonna break my"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'm gonna break"
+              "block": [
+                {
+                  "text": "I'm gonna break my rusty cage"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Eu vou quebrar"
+              "block": [
+                {
+                  "ptText": "I'm gonna break my rusty cage"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'm gonna break my"
+              "block": [
+                {
+                  "text": "I'm gonna break"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "I'm gonna break my"
+              "block": [
+                {
+                  "ptText": "Eu vou quebrar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'm gonna break my rusty cage"
+              "block": [
+                {
+                  "text": "I'm gonna break my"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "I'm gonna break my rusty cage"
+              "block": [
+                {
+                  "ptText": "I'm gonna break my"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "And run"
+              "block": [
+                {
+                  "text": "I'm gonna break my rusty cage"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "E fugir"
+              "block": [
+                {
+                  "ptText": "I'm gonna break my rusty cage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "block": [
+                {
+                  "text": "And run"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "ptText": "E fugir"
+                }
+              ]
             }
           ]
         },
@@ -269,121 +448,198 @@
         {
           "paragraph": [
             {
-              "text": "Hits like a Phillips head into my brain"
+              "block": [
+                {
+                  "text": "Hits like a Phillips head into my brain"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Dói como uma chave Phillips entrando no meu cérebro"
+              "block": [
+                {
+                  "ptText": "Dói como uma chave Phillips entrando no meu cérebro"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "It's gonna be too dark to sleep again"
+              "block": [
+                {
+                  "text": "It's gonna be too dark to sleep again"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Está ficando muito escuro para dormir de novo"
+              "block": [
+                {
+                  "ptText": "Está ficando muito escuro para dormir de novo"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Cutting my teeth on bars and rusty chains"
+              "block": [
+                {
+                  "text": "Cutting my teeth on bars and rusty chains"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Estou acabando com meus dentes rompendo grades e correntes enferrujadas"
+              "block": [
+                {
+                  "ptText": "Estou acabando com meus dentes rompendo grades e correntes enferrujadas"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'm gonna break my rusty cage and run"
+              "block": [
+                {
+                  "text": "I'm gonna break my rusty cage and run"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Eu vou quebrar a minha gaiola enferrujada e fugir"
+              "block": [
+                {
+                  "ptText": "Eu vou quebrar a minha gaiola enferrujada e fugir"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "When the forest burns along the road"
+              "block": [
+                {
+                  "text": "When the forest burns along the road"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Enquanto a floresta queima ao longo da estrada"
+              "block": [
+                {
+                  "ptText": "Enquanto a floresta queima ao longo da estrada"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Like God's eyes in my headlights"
+              "block": [
+                {
+                  "text": "Like God's eyes in my headlights"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Como os olhos de Deus em meus faróis"
+              "block": [
+                {
+                  "ptText": "Como os olhos de Deus em meus faróis"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "When the dogs are looking for their bones"
+              "block": [
+                {
+                  "text": "When the dogs are looking for their bones"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Quando os cães procurarem por seus ossos"
+              "block": [
+                {
+                  "ptText": "Quando os cães procurarem por seus ossos"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "And it's raining ice picks on your steel shore"
+              "block": [
+                {
+                  "text": "And it's raining ice picks on your steel shore"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "E estiver chovendo picadores de gelo em sua zona de rebentação"
+              "block": [
+                {
+                  "ptText": "E estiver chovendo picadores de gelo em sua zona de rebentação"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "But I'm gonna break"
+              "block": [
+                {
+                  "text": "But I'm gonna break"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Então eu vou quebrar"
+              "block": [
+                {
+                  "ptText": "Então eu vou quebrar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'm gonna break"
+              "block": [
+                {
+                  "text": "I'm gonna break"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Eu vou quebrar"
+              "block": [
+                {
+                  "ptText": "Eu vou quebrar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'm gonna break my rusty cage and run"
+              "block": [
+                {
+                  "text": "I'm gonna break my rusty cage and run"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Eu vou quebrar a minha gaiola enferrujada"
+              "block": [
+                {
+                  "ptText": "Eu vou quebrar a minha gaiola enferrujada"
+                }
+              ]
             }
           ]
         }

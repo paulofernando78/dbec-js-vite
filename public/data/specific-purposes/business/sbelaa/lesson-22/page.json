@@ -43,191 +43,227 @@
     {
       "paragraphs": [
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Maria: "
-            },
-            {
-              "text": "Hi, Scott, it's Maria. "
+              "block": [
+                {
+                  "boldText": "Maria: "
+                },
+                {
+                  "text": "Hi, Scott, it's Maria. "
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Scoot: "
-            },
-            {
-              "text": "Hey Maria. "
-            },
-            {
-              "markedText": "What's up?"
+              "block": [
+                {
+                  "boldText": "Scoot: "
+                },
+                {
+                  "text": "Hey Maria. "
+                },
+                {
+                  "markedText": "What's up?"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Maria: "
-            },
-            {
-              "text": "I'm not feeling well today."
+              "block": [
+                {
+                  "boldText": "Maria: "
+                },
+                {
+                  "text": "I'm not feeling well today."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Scott: "
-            },
-            {
-              "text": "Oh yeah? What's wrong?"
+              "block": [
+                {
+                  "boldText": "Scott: "
+                },
+                {
+                  "text": "Oh yeah? What's wrong?"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Maria: "
-            },
-            {
-              "markedText": "My stomach is killing me"
-            },
-            {
-              "text": ". Maybe it's the sushi I ate last night. I'm "
-            },
-            {
-              "markedText": "as sick as a dog"
-            },
-            {
-              "text": "."
+              "block": [
+                {
+                  "boldText": "Maria: "
+                },
+                {
+                  "markedText": "My stomach is killing me"
+                },
+                {
+                  "text": ". Maybe it's the sushi I ate last night. I'm "
+                },
+                {
+                  "markedText": "as sick as a dog"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Scott: "
-            },
-            {
-              "text": "Sara "
-            },
-            {
-              "markedText": "called in sick"
-            },
-            {
-              "text":	" today also. And Kurt just told me he was feeling "
-            },
-            {
-              "markedText": "under the weather"
-            },
-            {
-              "text":	" today. I'm "
-            },
-            {
-              "markedText": "not feeling so hot"
-            },
-            {
-              "text": " myself. Maybe "
-            },
-            {
-              "markedText": "there's something going around"
-            },
-            {
-              "text": "."
+              "block": [
+                {
+                  "boldText": "Scott: "
+                },
+                {
+                  "text": "Sara "
+                },
+                {
+                  "markedText": "called in sick"
+                },
+                {
+                  "text": " today also. And Kurt just told me he was feeling "
+                },
+                {
+                  "markedText": "under the weather"
+                },
+                {
+                  "text": " today. I'm "
+                },
+                {
+                  "markedText": "not feeling so hot"
+                },
+                {
+                  "text": " myself. Maybe "
+                },
+                {
+                  "markedText": "there's something going around"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Scott: "
-            },
-            {
-              "text": "Well, I hope you don't catch it too."
+              "block": [
+                {
+                  "boldText": "Scott: "
+                },
+                {
+                  "text": "Well, I hope you don't catch it too."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Scott: "
-            },
-            {
-              "text": "I "
-            },
-            {
-              "markedText":	"can't afford to"
-            },
-            {
-              "text":	" get sick. I'm "
-            },
-            {
-              "markedText":	"up to my ears in work"
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Scott: "
+                },
+                {
+                  "text": "I "
+                },
+                {
+                  "markedText": "can't afford to"
+                },
+                {
+                  "text": " get sick. I'm "
+                },
+                {
+                  "markedText": "up to my ears in work"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Maria: "
-            },
-            {
-              "text": "I should be back in the office tomorrow."
+              "block": [
+                {
+                  "boldText": "Maria: "
+                },
+                {
+                  "text": "I should be back in the office tomorrow."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Scott: "
-            },
-            {
-              "text": "Don't worry about that. You should stay home until you feel better."
+              "block": [
+                {
+                  "boldText": "Scott: "
+                },
+                {
+                  "text": "Don't worry about that. You should stay home until you feel better."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Maris: "
-            },
-            {
-              "text": "I'll try to work from home this afternoon if I feel better."
+              "block": [
+                {
+                  "boldText": "Maris: "
+                },
+                {
+                  "text": "I'll try to work from home this afternoon if I feel better."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Scott: "
-            },
-            {
-              "markedText": "Take it easy"
-            },
-            {
-              "text":	" today. We want you back "
-            },
-            {
-              "markedText":	"in tip-top shape"
-            },
-            {
-              "text":	","
+              "block": [
+                {
+                  "boldText": "Scott: "
+                },
+                {
+                  "markedText": "Take it easy"
+                },
+                {
+                  "text": " today. We want you back "
+                },
+                {
+                  "markedText": "in tip-top shape"
+                },
+                {
+                  "text": ","
+                }
+              ]
             }
           ]
         }

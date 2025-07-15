@@ -6,7 +6,7 @@ import {
   schedule,
   page,
   pages,
-  song,
+  lyrics,
   snippet,
 } from "@images/svg-imports";
 
@@ -16,7 +16,7 @@ const svgIcons = {
   schedule,
   page,
   pages,
-  song,
+  lyrics,
   snippet,
 };
 class Ribbon extends HTMLElement {

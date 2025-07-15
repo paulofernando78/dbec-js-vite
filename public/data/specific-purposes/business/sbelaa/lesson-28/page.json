@@ -43,239 +43,284 @@
     {
       "paragraphs": [
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Donna: "
-            },
-            {
-              "text": "Tell me about your most recent work experience."
+              "block": [
+                {
+                  "boldText": "Donna: "
+                },
+                {
+                  "text": "Tell me about your most recent work experience."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Mariana: "
-            },
-            {
-              "text": "Right now I'm "
-            },
-            {
-              "markedText": "between jobs"
-            },
-            {
-              "text": ". In my last position, I was a marketing associate at Comtek International. I was there for two and a half years."
+              "block": [
+                {
+                  "boldText": "Mariana: "
+                },
+                {
+                  "text": "Right now I'm "
+                },
+                {
+                  "markedText": "between jobs"
+                },
+                {
+                  "text": ". In my last position, I was a marketing associate at Comtek International. I was there for two and a half years."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Donna: "
-            },
-            {
-              "text": "I know I've heard of them, but I'm "
-            },
-            {
-              "markedText": "drawing a blank"
-            },
-            {
-              "text": " right now. What do they do?"
+              "block": [
+                {
+                  "boldText": "Donna: "
+                },
+                {
+                  "text": "I know I've heard of them, but I'm "
+                },
+                {
+                  "markedText": "drawing a blank"
+                },
+                {
+                  "text": " right now. What do they do?"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Mariana: "
-            },
-            {
-              "text": "They produced international trade fairs. They were "
-            },
-            {
-              "markedText": "bought out"
-            },
-            {
-              "text": " last month by a much larger company and all of us were "
-            },
-            {
-              "markedText": "let go"
-            },
-            {
-              "text": "."
+              "block": [
+                {
+                  "boldText": "Mariana: "
+                },
+                {
+                  "text": "They produced international trade fairs. They were "
+                },
+                {
+                  "markedText": "bought out"
+                },
+                {
+                  "text": " last month by a much larger company and all of us were "
+                },
+                {
+                  "markedText": "let go"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Donna: "
-            },
-            {
-              "text": "I see from your résumé that you also worked in sales for the company."
+              "block": [
+                {
+                  "boldText": "Donna: "
+                },
+                {
+                  "text": "I see from your résumé that you also worked in sales for the company."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Mariana: "
-            },
-            {
-              "text": "Yes, that's right. It was a small company, so I "
-            },
-            {
-              "markedText": "wore many hats"
-            },
-            {
-              "text": ". It was very exciting."
+              "block": [
+                {
+                  "boldText": "Mariana: "
+                },
+                {
+                  "text": "Yes, that's right. It was a small company, so I "
+                },
+                {
+                  "markedText": "wore many hats"
+                },
+                {
+                  "text": ". It was very exciting."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Donna: "
-            },
-            {
-              "text": "What are you looking for in a job?"
+              "block": [
+                {
+                  "boldText": "Donna: "
+                },
+                {
+                  "text": "What are you looking for in a job?"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Mariana: "
-            },
-            {
-              "text": "Well, I'm a real "
-            },
-            {
-              "markedText": "people person"
-            },
-            {
-              "text": ", so I would like a position where I have lots of interaction with different people."
+              "block": [
+                {
+                  "boldText": "Mariana: "
+                },
+                {
+                  "text": "Well, I'm a real "
+                },
+                {
+                  "markedText": "people person"
+                },
+                {
+                  "text": ", so I would like a position where I have lots of interaction with different people."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Donna: "
-            },
-            {
-              "text": "Describe your ideal boss."
+              "block": [
+                {
+                  "boldText": "Donna: "
+                },
+                {
+                  "text": "Describe your ideal boss."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Mariana: "
-            },
-            {
-              "text": "I work well with all different types of people. But I guess my ideal boss would be hands-off. I prefer to work independently and not to be "
-            },
-            {
-              "markedText": "micro-managed."
-            },
-            {
-              "text": "."
+              "block": [
+                {
+                  "boldText": "Mariana: "
+                },
+                {
+                  "text": "I work well with all different types of people. But I guess my ideal boss would be hands-off. I prefer to work independently and not to be "
+                },
+                {
+                  "markedText": "micro-managed."
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Donna: "
-            },
-            {
-              "text": "Tell me about a time when you had to "
-            },
-            {
-              "markedText": "think outside the box"
-            },
-            {
-              "text": " in your work."
+              "block": [
+                {
+                  "boldText": "Donna: "
+                },
+                {
+                  "text": "Tell me about a time when you had to "
+                },
+                {
+                  "markedText": "think outside the box"
+                },
+                {
+                  "text": " in your work."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Mariana: "
-            },
-            {
-              "text": "When I was at Comtek, we didn't have any money to buy advertising. I "
-            },
-            {
-              "markedText": "put in place"
-            },
-            {
-              "text": " a program offering magazines a stand at the trade show in exchange for an advertisement in the magazine."
+              "block": [
+                {
+                  "boldText": "Mariana: "
+                },
+                {
+                  "text": "When I was at Comtek, we didn't have any money to buy advertising. I "
+                },
+                {
+                  "markedText": "put in place"
+                },
+                {
+                  "text": " a program offering magazines a stand at the trade show in exchange for an advertisement in the magazine."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Donna: "
-            },
-            {
-              "text": "That sounds like a good idea! Tell me, what "
-            },
-            {
-              "markedText":	"sparked your interest"
-            },
-            {
-              "text":	" in our sales position?"
+              "block": [
+                {
+                  "boldText": "Donna: "
+                },
+                {
+                  "text": "That sounds like a good idea! Tell me, what "
+                },
+                {
+                  "markedText": "sparked your interest"
+                },
+                {
+                  "text": " in our sales position?"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Mariana: "
-            },
-            {
-              "text": "I noticed from your job description that it requires a lot of interaction with the marketing department. I am very interested in marketing, so I thought this would be a good "
-            },
-            {
-              "markedText":	"stepping stone"
-            },
-            {
-              "text":	" to a marketing position."
+              "block": [
+                {
+                  "boldText": "Mariana: "
+                },
+                {
+                  "text": "I noticed from your job description that it requires a lot of interaction with the marketing department. I am very interested in marketing, so I thought this would be a good "
+                },
+                {
+                  "markedText": "stepping stone"
+                },
+                {
+                  "text": " to a marketing position."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Donna: "
-            },
-            {
-              "text": "Yes, this would be a good way to "
-            },
-            {
-              "markedText":	"get your foot in the door"
-            },
-            {
-              "text":	" of the marketing department."
+              "block": [
+                {
+                  "boldText": "Donna: "
+                },
+                {
+                  "text": "Yes, this would be a good way to "
+                },
+                {
+                  "markedText": "get your foot in the door"
+                },
+                {
+                  "text": " of the marketing department."
+                }
+              ]
             }
           ]
         }

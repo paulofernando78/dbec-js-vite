@@ -1,15 +1,21 @@
 {
   "whiteboard": {
     "title": "Extras",
-    "subtitle": "Song",
     "descriptions": [
       {
+        "icon": "songs",
+        "description": "Songs"
+      },
+      {
+        "icon": "artist",
         "description": "ABBA"
       },
       {
+        "icon": "album",
         "description": "Voulez-Vous"
       },
       {
+        "icon": "lyrics",
         "description": "Gimme! Gimme! Gimme! (A Man After Midnight)"
       }
     ]
@@ -26,278 +32,475 @@
         {
           "paragraph": [
             {
-              "text": "Half past twelve"
+              "block": [
+                {
+                  "boldText": "Gimme! Gimme! Gimme! (A Man After Midnight)"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Meia-noite e meia"
+              "block": [
+                {
+                  "ptText": "Me dá (Um Homen depois da Meia-Noite)"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "And I'm watching the late show in my flat all alone"
+              "block": [
+                {
+                  "text": "Half past twelve"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "E eu estou assistindo o último programa em meu apartamento sozinha"
+              "block": [
+                {
+                  "ptText": "Meia-noite e meia"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "How I hate to spend the evening on my own"
+              "block": [
+                {
+                  "text": "And I'm watching the late show in my flat all alone"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Como eu odeio desperdiçar a noite comigo mesma"
+              "block": [
+                {
+                  "ptText": "E eu estou assistindo o último programa em meu apartamento sozinha"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Autumn winds"
+              "block": [
+                {
+                  "text": "How I hate to spend the evening on my own"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Ventos de outono"
+              "block": [
+                {
+                  "ptText": "Como eu odeio desperdiçar a noite comigo mesma"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Blowin' outside my window as I look around the room"
+              "block": [
+                {
+                  "text": "Autumn winds"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Soprando do lado de fora da janela enquanto eu olho envolta do quarto"
+              "block": [
+                {
+                  "ptText": "Ventos de outono"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "And It makes me so depressed to see the gloom"
+              "block": [
+                {
+                  "text": "Blowin' outside my window as I look around the room"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "E me deixa tão depressiva ver a escuridão"
+              "block": [
+                {
+                  "ptText": "Soprando do lado de fora da janela enquanto eu olho envolta do quarto"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "It's not a soul out there"
+              "block": [
+                {
+                  "text": "And It makes me so depressed to see the gloom"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Não tem ninguém lá fora"
+              "block": [
+                {
+                  "ptText": "E me deixa tão depressiva ver a escuridão"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "No one to hear my prayer"
+              "block": [
+                {
+                  "text": "It's not a soul out there"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Alguém para ouvir minhas preces"
+              "block": [
+                {
+                  "ptText": "Não tem ninguém lá fora"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "Chorus"
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "Gimme! Gimme! Gimme! A man after midnight"
+              "block": [
+                {
+                  "text": "No one to hear my prayer"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Me dê! Me dê! Me dê! "
+              "block": [
+                {
+                  "ptText": "Alguém para ouvir minhas preces"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Won't somebody help me chase the shadows away"
+              "block": [
+                {
+                  "boldText": "Chorus"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Não há ninguém para me ajudar afugentar as sombras"
+              "block": []
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Gimme! Gimme! Gimme! A man after midnight"
+              "block": [
+                {
+                  "text": "Gimme! Gimme! Gimme! A man after midnight"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Me dê! Me dê! Me dê! "
+              "block": [
+                {
+                  "ptText": "Me dê! Me dê! Me dê! "
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Take me through the darkness to the break of the day"
+              "block": [
+                {
+                  "text": "Won't somebody help me chase the shadows away"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Me leve através da escuridão para o amanhecer do dia"
+              "block": [
+                {
+                  "ptText": "Não há ninguém para me ajudar afugentar as sombras"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Movie stars"
+              "block": [
+                {
+                  "text": "Gimme! Gimme! Gimme! A man after midnight"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Estrelas de cinema"
+              "block": [
+                {
+                  "ptText": "Me dê! Me dê! Me dê! "
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Find the end of the rainbow with a fortune to win"
+              "block": [
+                {
+                  "text": "Take me through the darkness to the break of the day"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Encontram o fim do arco-íris com uma fortuna para ganhar"
+              "block": [
+                {
+                  "ptText": "Me leve através da escuridão para o amanhecer do dia"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "It's so different from the world I'm livin' in"
+              "block": [
+                {
+                  "text": "Movie stars"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Isto é tão diferente do mundo em que estou vivendo"
+              "block": [
+                {
+                  "ptText": "Estrelas de cinema"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Tired of TV"
+              "block": [
+                {
+                  "text": "Find the end of the rainbow with a fortune to win"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Cansada da TV"
+              "block": [
+                {
+                  "ptText": "Encontram o fim do arco-íris com uma fortuna para ganhar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I open the window and I gaze into the night"
+              "block": [
+                {
+                  "text": "It's so different from the world I'm livin' in"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Eu abro a janela e eu olho dentro da noite"
+              "block": [
+                {
+                  "ptText": "Isto é tão diferente do mundo em que estou vivendo"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "But there's nothing there to see, no one in sight"
+              "block": [
+                {
+                  "text": "Tired of TV"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Mas não há nada lá para ver ninguém à vista, não há nenhuma alma lá fora"
+              "block": [
+                {
+                  "ptText": "Cansada da TV"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Is not a soul out there"
+              "block": [
+                {
+                  "text": "I open the window and I gaze into the night"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Não tem ninguém lá fora"
+              "block": [
+                {
+                  "ptText": "Eu abro a janela e eu olho dentro da noite"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "No one to hear my prayer"
+              "block": [
+                {
+                  "text": "But there's nothing there to see, no one in sight"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Ninguém para ouvir minha oração"
+              "block": [
+                {
+                  "ptText": "Mas não há nada lá para ver ninguém à vista, não há nenhuma alma lá fora"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "Chorus"
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "Gimme! Gimme! Gimme! A man after midnight"
+              "block": [
+                {
+                  "text": "Is not a soul out there"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Me dê! Me dê! Me dê! "
+              "block": [
+                {
+                  "ptText": "Não tem ninguém lá fora"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Won't somebody help me chase the shadows away"
+              "block": [
+                {
+                  "text": "No one to hear my prayer"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Não há ninguém para me ajudar afugentar as sombras"
+              "block": [
+                {
+                  "ptText": "Ninguém para ouvir minha oração"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Gimme! Gimme! Gimme! A man after midnight"
-            },
-            {
-              "displayBlock": true,
-              "ptText": "Me dê! Me dê! Me dê! "
+              "block": [
+                {
+                  "boldText": "Chorus"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Take me through the darkness to the break of the day"
+              "block": [
+                {
+                  "text": "Gimme! Gimme! Gimme! A man after midnight"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Me leve através da escuridão para o amanhecer do dia"
+              "block": [
+                {
+                  "ptText": "Me dê! Me dê! Me dê! "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "block": [
+                {
+                  "text": "Won't somebody help me chase the shadows away"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "ptText": "Não há ninguém para me ajudar afugentar as sombras"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "block": [
+                {
+                  "text": "Gimme! Gimme! Gimme! A man after midnight"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "ptText": "Me dê! Me dê! Me dê! "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "block": [
+                {
+                  "text": "Take me through the darkness to the break of the day"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "ptText": "Me leve através da escuridão para o amanhecer do dia"
+                }
+              ]
             }
           ]
         }

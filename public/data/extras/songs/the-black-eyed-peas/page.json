@@ -1,20 +1,29 @@
 {
   "whiteboard": {
     "title": "Extras",
-    "subtitle": "Songs",
-    "descriptions": ["The Black Eyed Peas"]
+    "descriptions": [
+      {
+        "icon": "songs",
+        "description": "Songs"
+      },
+      {
+        "icon": "artist",
+        "description": "The Black Eyed Peas"
+      },
+      ""
+    ]
   },
   "contents": [
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "pages",
+        "icon": "album",
         "label": "THE E.N.D (THE ENERGY NEVER DIES)",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "song",
+                "icon": "lyrics",
                 "link": "/extras/songs/the-black-eyed-peas/the-end/rock-that-body",
                 "label": "Rock That Body"
               }

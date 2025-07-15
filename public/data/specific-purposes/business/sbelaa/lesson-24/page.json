@@ -43,212 +43,248 @@
     {
       "paragraphs": [
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Jack: "
-            },
-            {
-              "text": "My store is having a big sale next week. I'd like to buy a small advertisement in the Sunday edition of the Newport Times. How much would a quarter page cost?"
+              "block": [
+                {
+                  "boldText": "Jack: "
+                },
+                {
+                  "text": "My store is having a big sale next week. I'd like to buy a small advertisement in the Sunday edition of the Newport Times. How much would a quarter page cost?"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Dave: "
-            },
-            {
-              "text": "A quarter page ad costs $250. What you really need is a full page ad if you want to "
-            },
-            {
-              "markedText":	"make a splash"
-            },
-            {
-              "text":	". That would be $900. I better reserve that for you before we run out of space."
+              "block": [
+                {
+                  "boldText": "Dave: "
+                },
+                {
+                  "text": "A quarter page ad costs $250. What you really need is a full page ad if you want to "
+                },
+                {
+                  "markedText": "make a splash"
+                },
+                {
+                  "text": ". That would be $900. I better reserve that for you before we run out of space."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Jack: "
-            },
-            {
-              "text": "Don't try to give me "
-            },
-            {
-              "text":	"the hard sell"
-            },
-            {
-              "text":	". Nine hundred bucks would "
-            },
-            {
-              "markedText":	"break my budget!"
-            },
-            {
-              "text":	"!"
+              "block": [
+                {
+                  "boldText": "Jack: "
+                },
+                {
+                  "text": "Don't try to give me "
+                },
+                {
+                  "text": "the hard sell"
+                },
+                {
+                  "text": ". Nine hundred bucks would "
+                },
+                {
+                  "markedText": "break my budget!"
+                },
+                {
+                  "text": "!"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Dave: "
-            },
-            {
-              "text": "Okay, so we're looking at a quarter page. For another $200 I can make it a full color ad. Color would give you "
-            },
-            {
-              "markedText":	"more bang for the buck"
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Dave: "
+                },
+                {
+                  "text": "Okay, so we're looking at a quarter page. For another $200 I can make it a full color ad. Color would give you "
+                },
+                {
+                  "markedText": "more bang for the buck"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Jack: "
-            },
-            {
-              "text": "Of course color is better than black and white. That's a "
-            },
-            {
-              "markedText":	"no-brainer"
-            },
-            {
-              "text":	"! Can you "
-            },
-            {
-              "markedText":	"throw that in at no extra charge"
-            },
-            {
-              "text":	"?"
+              "block": [
+                {
+                  "boldText": "Jack: "
+                },
+                {
+                  "text": "Of course color is better than black and white. That's a "
+                },
+                {
+                  "markedText": "no-brainer"
+                },
+                {
+                  "text": "! Can you "
+                },
+                {
+                  "markedText": "throw that in at no extra charge"
+                },
+                {
+                  "text": "?"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Dave: "
-            },
-            {
-              "text": "Sorry, "
-            },
-            {
-              "markedText":	"no can do."
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Dave: "
+                },
+                {
+                  "text": "Sorry, "
+                },
+                {
+                  "markedText": "no can do."
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Jack: "
-            },
-            {
-              "text": "Your competitor, the Newport Bulletin, is offering me a quarter page color ad for $300. That's very attractive since I'm "
-            },
-            {
-              "markedText":	"on a tight budget"
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Jack: "
+                },
+                {
+                  "text": "Your competitor, the Newport Bulletin, is offering me a quarter page color ad for $300. That's very attractive since I'm "
+                },
+                {
+                  "markedText": "on a tight budget"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Dave: "
-            },
-            {
-              "text": "The Newport Bulletin? This is "
-            },
-            {
-              "markedText":	"off the record"
-            },
-            {
-              "text":	", but you really don't want to advertise in that rag! Nobody reads it."
+              "block": [
+                {
+                  "boldText": "Dave: "
+                },
+                {
+                  "text": "The Newport Bulletin? This is "
+                },
+                {
+                  "markedText": "off the record"
+                },
+                {
+                  "text": ", but you really don't want to advertise in that rag! Nobody reads it."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Jack: "
-            },
-            {
-              "text": "Here's my final offer: I'll take a quarter page color ad in your paper for $350 and not a penny more."
+              "block": [
+                {
+                  "boldText": "Jack: "
+                },
+                {
+                  "text": "Here's my final offer: I'll take a quarter page color ad in your paper for $350 and not a penny more."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Dave: "
-            },
-            {
-              "text": "How about we find a "
-            },
-            {
-              "markedText":	"happy medium"
-            },
-            {
-              "text":	". I'll give it to you for $400."
+              "block": [
+                {
+                  "boldText": "Dave: "
+                },
+                {
+                  "text": "How about we find a "
+                },
+                {
+                  "markedText": "happy medium"
+                },
+                {
+                  "text": ". I'll give it to you for $400."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Jack: "
-            },
-            {
-              "text": "Please don't try to "
-            },
-            {
-              "text":	"nickel-and-dime"
-            },
-            {
-              "text":	" me. I'm "
-            },
-            {
-              "markedText":	"standing firm"
-            },
-            {
-              "text":	" at $350."
+              "block": [
+                {
+                  "boldText": "Jack: "
+                },
+                {
+                  "text": "Please don't try to "
+                },
+                {
+                  "text": "nickel-and-dime"
+                },
+                {
+                  "text": " me. I'm "
+                },
+                {
+                  "markedText": "standing firm"
+                },
+                {
+                  "text": " at $350."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Dave: "
-            },
-            {
-              "text": "Okay, I don't want to spend all afternoon arguing. "
-            },
-            {
-              "markedText":	"It's a deal"
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Dave: "
+                },
+                {
+                  "text": "Okay, I don't want to spend all afternoon arguing. "
+                },
+                {
+                  "markedText": "It's a deal"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         }

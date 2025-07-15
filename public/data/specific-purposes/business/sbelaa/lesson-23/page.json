@@ -43,217 +43,256 @@
     {
       "paragraphs": [
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Ivan: "
-            },
-            {
-              "text": "I'm here to see about getting a $100,000 loan to start a Coffee Shack franchise."
+              "block": [
+                {
+                  "boldText": "Ivan: "
+                },
+                {
+                  "text": "I'm here to see about getting a $100,000 loan to start a Coffee Shack franchise."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Gina: "
-            },
-            {
-              "text": "I see from your application that you've already got two franchise businesses "
-            },
-            {
-              "markedText": "under your belt"
-            },
-            {
-              "text": " - both Subway sandwich shops. That's certainly "
-            },
-            {
-              "markedText": "nothing to sneeze at"
-            },
-            {
-              "text": "."
+              "block": [
+                {
+                  "boldText": "Gina: "
+                },
+                {
+                  "text": "I see from your application that you've already got two franchise businesses "
+                },
+                {
+                  "markedText": "under your belt"
+                },
+                {
+                  "text": " - both Subway sandwich shops. That's certainly "
+                },
+                {
+                  "markedText": "nothing to sneeze at"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Ivan: "
-            },
-            {
-              "text": "Thank you. Now that I "
-            },
-            {
-              "markedText": "know the franchise business inside and out"
-            },
-            {
-              "text": ", I'd like to expand."
+              "block": [
+                {
+                  "boldText": "Ivan: "
+                },
+                {
+                  "text": "Thank you. Now that I "
+                },
+                {
+                  "markedText": "know the franchise business inside and out"
+                },
+                {
+                  "text": ", I'd like to expand."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Gina: "
-            },
-            {
-              "text": "Well, Subway is a sandwich shop. Now you're talking about a coffee house. That's an entirely "
-            },
-            {
-              "markedText": "different animal"
-            },
-            {
-              "text": "."
+              "block": [
+                {
+                  "boldText": "Gina: "
+                },
+                {
+                  "text": "Well, Subway is a sandwich shop. Now you're talking about a coffee house. That's an entirely "
+                },
+                {
+                  "markedText": "different animal"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Ivan: "
-            },
-            {
-              "text": "Sure, there may be a thing or two to learn, but it should be more or less a "
-            },
-            {
-              "markedText": "no-brainer"
-            },
-            {
-              "text": ","
+              "block": [
+                {
+                  "boldText": "Ivan: "
+                },
+                {
+                  "text": "Sure, there may be a thing or two to learn, but it should be more or less a "
+                },
+                {
+                  "markedText": "no-brainer"
+                },
+                {
+                  "text": ","
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Gina: "
-            },
-            {
-              "text": "I see from your business plan that you're basing all of your profit estimates on the profits you made from one of your Subway shops. I don't think that's right. You're "
-            },
-            {
-              "markedText": "comparing apples to oranges"
-            },
-            {
-              "text": "."
+              "block": [
+                {
+                  "boldText": "Gina: "
+                },
+                {
+                  "text": "I see from your business plan that you're basing all of your profit estimates on the profits you made from one of your Subway shops. I don't think that's right. You're "
+                },
+                {
+                  "markedText": "comparing apples to oranges"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Ivan: "
-            },
-            {
-              "text": "Apples? Oranges? I didn't know we were talking about fruit now. Maybe I should open up a fruit smoothie shop instead!"
+              "block": [
+                {
+                  "boldText": "Ivan: "
+                },
+                {
+                  "text": "Apples? Oranges? I didn't know we were talking about fruit now. Maybe I should open up a fruit smoothie shop instead!"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Gina: "
-            },
-            {
-              "text": "Ha ha. Well, at least you haven't lost your sense of humor!"
+              "block": [
+                {
+                  "boldText": "Gina: "
+                },
+                {
+                  "text": "Ha ha. Well, at least you haven't lost your sense of humor!"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Ivan: "
-            },
-            {
-              "text": "Well, seriously, what do you want me to do?"
+              "block": [
+                {
+                  "boldText": "Ivan: "
+                },
+                {
+                  "text": "Well, seriously, what do you want me to do?"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Gina: "
-            },
-            {
-              "text": "Go "
-            },
-            {
-              "markedText": "back to the drawing board"
-            },
-            {
-              "text": ". Make some new calculations based on selling coffee, not sandwiches. Then the loan will be "
-            },
-            {
-              "markedText": "in the bag"
-            },
-            {
-              "text": "."
+              "block": [
+                {
+                  "boldText": "Gina: "
+                },
+                {
+                  "text": "Go "
+                },
+                {
+                  "markedText": "back to the drawing board"
+                },
+                {
+                  "text": ". Make some new calculations based on selling coffee, not sandwiches. Then the loan will be "
+                },
+                {
+                  "markedText": "in the bag"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Ivan: "
-            },
-            {
-              "text": "If you're going to make me "
-            },
-            {
-              "markedText": "jump through hoops"
-            },
-            {
-              "text": " to get this loan, I'll just have to take my business to a different bank."
+              "block": [
+                {
+                  "boldText": "Ivan: "
+                },
+                {
+                  "text": "If you're going to make me "
+                },
+                {
+                  "markedText": "jump through hoops"
+                },
+                {
+                  "text": " to get this loan, I'll just have to take my business to a different bank."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Gina: "
-            },
-            {
-              "text": "You're "
-            },
-            {
-              "markedText": "missing the point"
-            },
-            {
-              "text": " here. I'm not trying to make your life difficult. I'm just suggesting you "
-            },
-            {
-              "markedText": "beef up"
-            },
-            {
-              "text": " your business plan so my boss will approve your loan."
+              "block": [
+                {
+                  "boldText": "Gina: "
+                },
+                {
+                  "text": "You're "
+                },
+                {
+                  "markedText": "missing the point"
+                },
+                {
+                  "text": " here. I'm not trying to make your life difficult. I'm just suggesting you "
+                },
+                {
+                  "markedText": "beef up"
+                },
+                {
+                  "text": " your business plan so my boss will approve your loan."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Ivan: "
-            },
-            {
-              "text": "Well, in that case, maybe I will "
-            },
-            {
-              "markedText": "go back to the drawing board"
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Ivan: "
+                },
+                {
+                  "text": "Well, in that case, maybe I will "
+                },
+                {
+                  "markedText": "go back to the drawing board"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         }

@@ -4,12 +4,19 @@
     "subtitle": "Songs",
     "descriptions": [
       {
+        "icon": "songs",
+        "description": "Songs"
+      },
+      {
+        "icon": "artist",
         "description": "Linkin Park"
       },
       {
-        "description": "From Zero"
+        "icon": "album",
+        "description": "From Zero (2025)"
       },
       {
+        "icon": "lyrics",
         "description": "The Emptiness Machine"
       }
     ]
@@ -26,399 +33,677 @@
         {
           "paragraph": [
             {
-              "text": "Your blades are sharpened with precision (precision)"
+              "block": [
+                {
+                  "boldText": "The Emptiness Machine"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Suas lâminas são afiadas com precisão (precisão)"
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "Flashing your favorite point of view (point of view)"
+              "block": [
+                {
+                  "ptText": "A Máquina do Vazio (Literal)"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Exibindo seu ponto de vista favorito (ponto de vista)"
+              "block": [
+                {
+                  "ptText": "A Máquina do Desespero / da Ausência / da Solidão (Interpretativas)"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I know you're waiting in the distance (distance)"
+              "block": [
+                {
+                  "text": "Your blades are sharpened with precision (precision)"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Eu sei que você está esperando à distância (distância)"
+              "block": [
+                {
+                  "ptText": "Suas lâminas são afiadas com precisão (precisão)"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Just like you always do, just like you always do"
+              "block": [
+                {
+                  "text": "Flashing your favorite point of view (point of view)"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Como você sempre faz, como você sempre faz"
+              "block": [
+                {
+                  "ptText": "Exibindo seu ponto de vista favorito (ponto de vista)"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Already pulling me in"
+              "block": [
+                {
+                  "text": "I know you're waiting in the distance (distance)"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Já está me puxando"
+              "block": [
+                {
+                  "ptText": "Eu sei que você está esperando à distância (distância)"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Already under my skin"
+              "block": [
+                {
+                  "text": "Just like you always do, just like you always do"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Já está sob a minha pele"
+              "block": [
+                {
+                  "ptText": "Como você sempre faz, como você sempre faz"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "And I know exactly how this ends, I"
+              "block": [
+                {
+                  "text": "Already pulling me in"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "E eu sei exatamente como isso termina, eu"
+              "block": [
+                {
+                  "ptText": "Já está me puxando"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Let you cut me open just to watch me bleed"
+              "block": [
+                {
+                  "text": "Already under my skin"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Deixo você me cortar só para me ver sangrar"
+              "block": [
+                {
+                  "ptText": "Já está sob a minha pele"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Gave up who I am for who you wanted me to be"
+              "block": [
+                {
+                  "text": "And I know exactly how this ends, I"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Desisti de quem eu sou para ser quem você queria"
+              "block": [
+                {
+                  "ptText": "E eu sei exatamente como isso termina, eu"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Don't know why I'm hoping for what I won't receive"
+              "block": [
+                {
+                  "text": "Let you cut me open just to watch me bleed"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Não sei por que espero pelo que não vou receber"
+              "block": [
+                {
+                  "ptText": "Deixo você me cortar só para me ver sangrar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Falling for the promise of the emptiness machine"
+              "block": [
+                {
+                  "text": "Gave up who I am for who you wanted me to be"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Seduzido pela promessa da máquina do vazio"
+              "block": [
+                {
+                  "ptText": "Desisti de quem eu sou para ser quem você queria"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Going around like a revolver (like a revolver)"
+              "block": [
+                {
+                  "text": "Don't know why I'm hoping for what I won't receive"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Dando voltas como o tambor de um revólver (como um revólver)"
+              "block": [
+                {
+                  "ptText": "Não sei por que espero pelo que não vou receber"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "It's been decided how we lose (how we lose)"
+              "block": [
+                {
+                  "text": "Falling for the promise of the emptiness machine"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Já foi decidido como vamos perder (como vamos perder)"
+              "block": [
+                {
+                  "ptText": "Seduzido pela promessa da máquina do vazio"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "'Cause there's a fire under the altar (the altar)"
+              "block": [
+                {
+                  "text": "Going around like a revolver (like a revolver)"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Porque há um fogo debaixo do altar (do altar)"
+              "block": [
+                {
+                  "ptText": "Dando voltas como o tambor de um revólver (como um revólver)"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I keep on lying to, I keep on lying to"
+              "block": [
+                {
+                  "text": "It's been decided how we lose (how we lose)"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Para o qual eu continuo mentindo, eu continuo mentindo"
+              "block": [
+                {
+                  "ptText": "Já foi decidido como vamos perder (como vamos perder)"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Already pulling me in"
+              "block": [
+                {
+                  "text": "'Cause there's a fire under the altar (the altar)"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Já está me puxando"
+              "block": [
+                {
+                  "ptText": "Porque há um fogo debaixo do altar (do altar)"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Already under my skin"
+              "block": [
+                {
+                  "text": "I keep on lying to, I keep on lying to"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Já está sob a minha pele"
+              "block": [
+                {
+                  "ptText": "Para o qual eu continuo mentindo, eu continuo mentindo"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "And I know exactly how this ends, I"
+              "block": [
+                {
+                  "text": "Already pulling me in"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "E eu sei exatamente como isso termina, eu"
+              "block": [
+                {
+                  "ptText": "Já está me puxando"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "Chorus"
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "Let you cut me open just to watch me bleed"
+              "block": [
+                {
+                  "text": "Already under my skin"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Deixo você me cortar só para me ver sangrar"
+              "block": [
+                {
+                  "ptText": "Já está sob a minha pele"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Gave up who I am for who you wanted me to be"
+              "block": [
+                {
+                  "text": "And I know exactly how this ends, I"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Desisti de quem eu sou para ser quem você queria"
+              "block": [
+                {
+                  "ptText": "E eu sei exatamente como isso termina, eu"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Don't know why I'm hoping for what I won't receive"
+              "block": [
+                {
+                  "boldText": "Chorus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "block": [
+                {
+                  "text": "Let you cut me open just to watch me bleed"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Não sei por que espero pelo que não vou receber"
+              "block": [
+                {
+                  "ptText": "Deixo você me cortar só para me ver sangrar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Falling for the promise of the emptiness machine"
+              "block": [
+                {
+                  "text": "Gave up who I am for who you wanted me to be"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Seduzido pela promessa da máquina do vazio"
+              "block": [
+                {
+                  "ptText": "Desisti de quem eu sou para ser quem você queria"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I only wanted to be part of something"
+              "block": [
+                {
+                  "text": "Don't know why I'm hoping for what I won't receive"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Eu só queria fazer parte de alguma coisa"
+              "block": [
+                {
+                  "ptText": "Não sei por que espero pelo que não vou receber"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I only wanted to be part of, part of"
+              "block": [
+                {
+                  "text": "Falling for the promise of the emptiness machine"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Eu só queria fazer parte de, parte de"
+              "block": [
+                {
+                  "ptText": "Seduzido pela promessa da máquina do vazio"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I only wanted to be part of something"
+              "block": [
+                {
+                  "text": "I only wanted to be part of something"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Eu só queria fazer parte de alguma coisa"
+              "block": [
+                {
+                  "ptText": "Eu só queria fazer parte de alguma coisa"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I only wanted to be part of, part of"
+              "block": [
+                {
+                  "text": "I only wanted to be part of, part of"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Eu só queria fazer parte de, parte de"
+              "block": [
+                {
+                  "ptText": "Eu só queria fazer parte de, parte de"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I only wanted to be part of something"
+              "block": [
+                {
+                  "text": "I only wanted to be part of something"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Eu só queria fazer parte de alguma coisa"
+              "block": [
+                {
+                  "ptText": "Eu só queria fazer parte de alguma coisa"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I only wanted to be part of..."
+              "block": [
+                {
+                  "text": "I only wanted to be part of, part of"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Eu só queria fazer parte de..."
+              "block": [
+                {
+                  "ptText": "Eu só queria fazer parte de, parte de"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "Chorus"
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "Let you cut me open just to watch me bleed"
+              "block": [
+                {
+                  "text": "I only wanted to be part of something"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Deixo você me cortar só para me ver sangrar"
+              "block": [
+                {
+                  "ptText": "Eu só queria fazer parte de alguma coisa"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Gave up who I am for who you wanted me to be"
+              "block": [
+                {
+                  "text": "I only wanted to be part of..."
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Desisti de quem eu sou para ser quem você queria"
+              "block": [
+                {
+                  "ptText": "Eu só queria fazer parte de..."
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Don't know why I'm hoping, so fucking naive"
-            },
-            {
-              "displayBlock": true,
-              "ptText": "Não sei por que tenho esperança, ingênua pra caralho"
+              "block": [
+                {
+                  "boldText": "Chorus"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Falling for the promise of the emptiness machine"
+              "block": [
+                {
+                  "text": "Let you cut me open just to watch me bleed"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "Seduzido pela promessa da máquina do vazio"
+              "block": [
+                {
+                  "ptText": "Deixo você me cortar só para me ver sangrar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "(I only wanted to be part of something) the emptiness machine, oh"
+              "block": [
+                {
+                  "text": "Gave up who I am for who you wanted me to be"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "(Eu só queria fazer parte de alguma coisa) a máquina do vazio, oh"
+              "block": [
+                {
+                  "ptText": "Desisti de quem eu sou para ser quem você queria"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "(I only wanted to be part of) the emptiness machine"
+              "block": [
+                {
+                  "text": "Don't know why I'm hoping, so fucking naive"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "(Eu só queria fazer parte de) a máquina do vazio"
+              "block": [
+                {
+                  "ptText": "Não sei por que tenho esperança, ingênua pra caralho"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "(I only wanted to be part of) the emptiness machine"
+              "block": [
+                {
+                  "text": "Falling for the promise of the emptiness machine"
+                }
+              ]
             },
             {
-              "displayBlock": true,
-              "ptText": "(Eu só queria fazer parte de) a máquina do vazio"
+              "block": [
+                {
+                  "ptText": "Seduzido pela promessa da máquina do vazio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "block": [
+                {
+                  "text": "(I only wanted to be part of something) the emptiness machine, oh"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "ptText": "(Eu só queria fazer parte de alguma coisa) a máquina do vazio, oh"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "block": [
+                {
+                  "text": "(I only wanted to be part of) the emptiness machine"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "ptText": "(Eu só queria fazer parte de) a máquina do vazio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "block": [
+                {
+                  "text": "(I only wanted to be part of) the emptiness machine"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "ptText": "(Eu só queria fazer parte de) a máquina do vazio"
+                }
+              ]
             }
           ]
         }

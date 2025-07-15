@@ -43,165 +43,197 @@
     {
       "paragraphs": [
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Bob: "
-            },
-            {
-              "text": "Bob: Kurt, I've got great news for you. We're "
-            },
-            {
-              "markedText":	"pushing the envelope"
-            },
-            {
-              "text":	" and launching our new website three weeks ahead of schedule."
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "Bob: Kurt, I've got great news for you. We're "
+                },
+                {
+                  "markedText": "pushing the envelope"
+                },
+                {
+                  "text": " and launching our new website three weeks ahead of schedule."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Kurt: "
-            },
-            {
-              "text": "Wow, Bob, that's a first for this company! How did you "
-            },
-            {
-              "markedText":	"pull that off"
-            },
-            {
-              "text":	"?"
+              "block": [
+                {
+                  "boldText": "Kurt: "
+                },
+                {
+                  "text": "Wow, Bob, that's a first for this company! How did you "
+                },
+                {
+                  "markedText": "pull that off"
+                },
+                {
+                  "text": "?"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Bob: "
-            },
-            {
-              "text": "I "
-            },
-            {
-              "markedText":	"burned the midnight oil"
-            },
-            {
-              "text":	" over these past few weeks. I "
-            },
-            {
-              "markedText":	"worked my tail off"
-            },
-            {
-              "text":	". Sometimes things would get tough, but I always "
-            },
-            {
-              "markedText":	"kept my eye on the prize."
-            },
-            {
-              "text":	""
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "I "
+                },
+                {
+                  "markedText": "burned the midnight oil"
+                },
+                {
+                  "text": " over these past few weeks. I "
+                },
+                {
+                  "markedText": "worked my tail off"
+                },
+                {
+                  "text": ". Sometimes things would get tough, but I always "
+                },
+                {
+                  "markedText": "kept my eye on the prize."
+                },
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Tara: "
-            },
-            {
-              "text": "Let's not forget about Jim in technical support. He really "
-            },
-            {
-              "markedText":	"hunkered down"
-            },
-            {
-              "text":	" these past few days, working "
-            },
-            {
-              "markedText":	"around the clock"
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Tara: "
+                },
+                {
+                  "text": "Let's not forget about Jim in technical support. He really "
+                },
+                {
+                  "markedText": "hunkered down"
+                },
+                {
+                  "text": " these past few days, working "
+                },
+                {
+                  "markedText": "around the clock"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Bob: "
-            },
-            {
-              "text": "Yeah, Jim's a real "
-            },
-            {
-              "markedText":	"team player"
-            },
-            {
-              "text":	". He helped a lot."
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "Yeah, Jim's a real "
+                },
+                {
+                  "markedText": "team player"
+                },
+                {
+                  "text": ". He helped a lot."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Kurt: "
-            },
-            {
-              "text": "Well, that's not surprising. Jim's always ready to "
-            },
-            {
-              "markedText":	"pitch in"
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Kurt: "
+                },
+                {
+                  "text": "Well, that's not surprising. Jim's always ready to "
+                },
+                {
+                  "markedText": "pitch in"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Bob: "
-            },
-            {
-              "text": "Of course, you deserve "
-            },
-            {
-              "markedText":	"a pat on the back too"
-            },
-            {
-              "text":	", Kurt. None of this would've been possible without your leadership."
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "Of course, you deserve "
+                },
+                {
+                  "markedText": "a pat on the back too"
+                },
+                {
+                  "text": ", Kurt. None of this would've been possible without your leadership."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Kurt: "
-            },
-            {
-              "markedText": "All in a day's work"
-            },
-            {
-              "text":	". Providing great leadership "
-            },
-            {
-              "markedText":	"comes with the territory"
-            },
-            {
-              "text":	". Well, time for some "
-            },
-            {
-              "markedText":	"R&R"
-            },
-            {
-              "text":	". I'm off to Florida to play golf for a few days. See you next week!"
+              "block": [
+                {
+                  "boldText": "Kurt: "
+                },
+                {
+                  "markedText": "All in a day's work"
+                },
+                {
+                  "text": ". Providing great leadership "
+                },
+                {
+                  "markedText": "comes with the territory"
+                },
+                {
+                  "text": ". Well, time for some "
+                },
+                {
+                  "markedText": "R&R"
+                },
+                {
+                  "text": ". I'm off to Florida to play golf for a few days. See you next week!"
+                }
+              ]
             }
           ]
         }

@@ -43,184 +43,224 @@
     {
       "paragraphs": [
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Dan: "
-            },
-            {
-              "text": "Mary, why weren’t you at the staff meeting this morning? We all missed you. "
+              "block": [
+                {
+                  "boldText": "Dan: "
+                },
+                {
+                  "text": "Mary, why weren’t you at the staff meeting this morning? We all missed you. "
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Mary: "
-            },
-            {
-              "text": "Oh, it completely "
-            },
-            {
-              "markedText": "slipped my mind"
-            },
-            {
-              "text": "."
+              "block": [
+                {
+                  "boldText": "Mary: "
+                },
+                {
+                  "text": "Oh, it completely "
+                },
+                {
+                  "markedText": "slipped my mind"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Dan: "
-            },
-            {
-              "text": "How could you forget? These meetings are not optional. "
+              "block": [
+                {
+                  "boldText": "Dan: "
+                },
+                {
+                  "text": "How could you forget? These meetings are not optional. "
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Mary: "
-            },
-            {
-              "text": "I’m feeling so "
-            },
-            {
-              "markedText": "stressed out"
-            },
-            {
-              "text": " these days. Sometimes "
-            },
-            {
-              "markedText": "I don’t know whether I’m coming or going"
-            },
-            {
-              "text": "!"
+              "block": [
+                {
+                  "boldText": "Mary: "
+                },
+                {
+                  "text": "I’m feeling so "
+                },
+                {
+                  "markedText": "stressed out"
+                },
+                {
+                  "text": " these days. Sometimes "
+                },
+                {
+                  "markedText": "I don’t know whether I’m coming or going"
+                },
+                {
+                  "text": "!"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Dan: "
-            },
-            {
-              "text": "Well, it is "
-            },
-            {
-              "markedText": "crunch time"
-            },
-            {
-              "text": " right now. Things will "
-            },
-            {
-              "markedText": "settle down"
-            },
-            {
-              "text": " after tax season is over. "
+              "block": [
+                {
+                  "boldText": "Dan: "
+                },
+                {
+                  "text": "Well, it is "
+                },
+                {
+                  "markedText": "crunch time"
+                },
+                {
+                  "text": " right now. Things will "
+                },
+                {
+                  "markedText": "settle down"
+                },
+                {
+                  "text": " after tax season is over. "
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Mary: "
-            },
-            {
-              "text": "I hope so. I am "
-            },
-            {
-              "markedText": "wiped out"
-            },
-            {
-              "text": " after putting in 60-hour weeks at the office and taking care of my five kids and sick mother. "
+              "block": [
+                {
+                  "boldText": "Mary: "
+                },
+                {
+                  "text": "I hope so. I am "
+                },
+                {
+                  "markedText": "wiped out"
+                },
+                {
+                  "text": " after putting in 60-hour weeks at the office and taking care of my five kids and sick mother. "
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Dan: "
-            },
-            {
-              "text": "Wow, you really do "
-            },
-            {
-              "markedText": "have a lot on your plate"
-            },
-            {
-              "text": "."
+              "block": [
+                {
+                  "boldText": "Dan: "
+                },
+                {
+                  "text": "Wow, you really do "
+                },
+                {
+                  "markedText": "have a lot on your plate"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Mary: "
-            },
-            {
-              "text": "Yeah, I can hardly "
-            },
-            {
-              "markedText": "keep my head above water "
-            },
-            {
-              "text": ". Maybe I should "
-            },
-            {
-              "markedText": "scale back my hours"
-            },
-            {
-              "text": "."
+              "block": [
+                {
+                  "boldText": "Mary: "
+                },
+                {
+                  "text": "Yeah, I can hardly "
+                },
+                {
+                  "markedText": "keep my head above water "
+                },
+                {
+                  "text": ". Maybe I should "
+                },
+                {
+                  "markedText": "scale back my hours"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Dan: "
-            },
-            {
-              "text": "Just "
-            },
-            {
-              "markedText": "hang in there"
-            },
-            {
-              "text": " a little longer. After April 15th, it’ll quiet down around here. For now,  "
-            },
-            {
-              "markedText": "keep your nose to the grindstone"
-            },
-            {
-              "text": " and focus on getting your most important work done. "
+              "block": [
+                {
+                  "boldText": "Dan: "
+                },
+                {
+                  "text": "Just "
+                },
+                {
+                  "markedText": "hang in there"
+                },
+                {
+                  "text": " a little longer. After April 15th, it’ll quiet down around here. For now,  "
+                },
+                {
+                  "markedText": "keep your nose to the grindstone"
+                },
+                {
+                  "text": " and focus on getting your most important work done. "
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Mary: "
-            },
-            {
-              "text": "You’re right. I need to remember the  "
-            },
-            {
-              "markedText": "80/20 rule"
-            },
-            {
-              "text": ". I get 80 percent of my results from just 20 percent of my activities. Now if I could only figure out what that 20 percent is! "
+              "block": [
+                {
+                  "boldText": "Mary: "
+                },
+                {
+                  "text": "You’re right. I need to remember the  "
+                },
+                {
+                  "markedText": "80/20 rule"
+                },
+                {
+                  "text": ". I get 80 percent of my results from just 20 percent of my activities. Now if I could only figure out what that 20 percent is! "
+                }
+              ]
             }
           ]
         }

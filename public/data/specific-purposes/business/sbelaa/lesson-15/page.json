@@ -43,182 +43,213 @@
     {
       "paragraphs": [
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Max: "
-            },
-            {
-              "text": "I can't believe you two bought these fake antique necklaces! Didn't you examine them before "
-            },
-            {
-              "markedText":	"shelling out"
-            },
-            {
-              "text":	" 10 grand?"
-            },
-            {
-              "text":	""
+              "block": [
+                {
+                  "boldText": "Max: "
+                },
+                {
+                  "text": "I can't believe you two bought these fake antique necklaces! Didn't you examine them before "
+                },
+                {
+                  "markedText": "shelling out"
+                },
+                {
+                  "text": " 10 grand?"
+                },
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Rick: "
-            },
-            {
-              "text": "Yeah, I thought they were fake, but I let Ellen "
-            },
-            {
-              "markedText":	"talk me into"
-            },
-            {
-              "text":	" buying them"
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Rick: "
+                },
+                {
+                  "text": "Yeah, I thought they were fake, but I let Ellen "
+                },
+                {
+                  "markedText": "talk me into"
+                },
+                {
+                  "text": " buying them"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Ellen: "
-            },
-            {
-              "text": "What? "
-            },
-            {
-              "markedText":	"I can't believe my ears"
-            },
-            {
-              "text":	"! You thought they were real. Now you're just trying to "
-            },
-            {
-              "markedText":	"cover yourself"
-            },
-            {
-              "text":	"!"
+              "block": [
+                {
+                  "boldText": "Ellen: "
+                },
+                {
+                  "text": "What? "
+                },
+                {
+                  "markedText": "I can't believe my ears"
+                },
+                {
+                  "text": "! You thought they were real. Now you're just trying to "
+                },
+                {
+                  "markedText": "cover yourself"
+                },
+                {
+                  "text": "!"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Rick: "
-            },
-            {
-              "text": "I don't want to be the "
-            },
-            {
-              "markedText":	"fall guy "
-            },
-            {
-              "text":	"here, Ellen. You were the one who looked at them under a magnifying glass."
+              "block": [
+                {
+                  "boldText": "Rick: "
+                },
+                {
+                  "text": "I don't want to be the "
+                },
+                {
+                  "markedText": "fall guy "
+                },
+                {
+                  "text": "here, Ellen. You were the one who looked at them under a magnifying glass."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Ellen: "
-            },
-            {
-              "markedText": "For the record"
-            },
-            {
-              "text":	", you were the one "
-            },
-            {
-              "markedText":	"going on about"
-            },
-            {
-              "text":	" how you "
-            },
-            {
-              "markedText":	"\"struck gold\""
-            },
-            {
-              "text":	" right after the woman left the shop!"
+              "block": [
+                {
+                  "boldText": "Ellen: "
+                },
+                {
+                  "markedText": "For the record"
+                },
+                {
+                  "text": ", you were the one "
+                },
+                {
+                  "markedText": "going on about"
+                },
+                {
+                  "text": " how you "
+                },
+                {
+                  "markedText": "\"struck gold\""
+                },
+                {
+                  "text": " right after the woman left the shop!"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Rick: "
-            },
-            {
-              "text": "I don't remember saying that. Stop trying to "
-            },
-            {
-              "markedText":	"pass the buck"
-            },
-            {
-              "text":	". Just "
-            },
-            {
-              "markedText":	"step up to the plate"
-            },
-            {
-              "text":	" and admit your mistake!"
+              "block": [
+                {
+                  "boldText": "Rick: "
+                },
+                {
+                  "text": "I don't remember saying that. Stop trying to "
+                },
+                {
+                  "markedText": "pass the buck"
+                },
+                {
+                  "text": ". Just "
+                },
+                {
+                  "markedText": "step up to the plate"
+                },
+                {
+                  "text": " and admit your mistake!"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Ellen: "
-            },
-            {
-              "text": "Right, while you "
-            },
-            {
-              "markedText":	"wash your hands of"
-            },
-            {
-              "text":	" the whole thing. "
-            },
-            {
-              "markedText":	"Dream on"
-            },
-            {
-              "text":	"!"
+              "block": [
+                {
+                  "boldText": "Ellen: "
+                },
+                {
+                  "text": "Right, while you "
+                },
+                {
+                  "markedText": "wash your hands of"
+                },
+                {
+                  "text": " the whole thing. "
+                },
+                {
+                  "markedText": "Dream on"
+                },
+                {
+                  "text": "!"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Max: "
-            },
-            {
-              "text": "Let's stop "
-            },
-            {
-              "markedText":	"pointing fingers at each other"
-            },
-            {
-              "text":	". We need to "
-            },
-            {
-              "markedText":	"track down that woman"
-            },
-            {
-              "text":	" and get the money back!"
-            },
-            {
-              "text":	"!"
+              "block": [
+                {
+                  "boldText": "Max: "
+                },
+                {
+                  "text": "Let's stop "
+                },
+                {
+                  "markedText": "pointing fingers at each other"
+                },
+                {
+                  "text": ". We need to "
+                },
+                {
+                  "markedText": "track down that woman"
+                },
+                {
+                  "text": " and get the money back!"
+                },
+                {
+                  "text": "!"
+                }
+              ]
             }
-            
           ]
         }
       ]

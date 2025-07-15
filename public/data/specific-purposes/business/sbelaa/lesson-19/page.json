@@ -43,183 +43,224 @@
     {
       "paragraphs": [
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Mary: "
-            },
-            {
-              "text": "How did the meeting with Joe go?"
+              "block": [
+                {
+                  "boldText": "Mary: "
+                },
+                {
+                  "text": "How did the meeting with Joe go?"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Justin: "
-            },
-            {
-              "text": "Lousy. He was "
-            },
-            {
-              "markedText":	"in a snit"
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Justin: "
+                },
+                {
+                  "text": "Lousy. He was "
+                },
+                {
+                  "markedText": "in a snit"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Mary: "
-            },
-            {
-              "text": "Why?"
+              "block": [
+                {
+                  "boldText": "Mary: "
+                },
+                {
+                  "text": "Why?"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Justin: "
-            },
-            {
-              "text": "He "
-            },
-            {
-              "markedText":	"got bent out of shape"
-            },
-            {
-              "text":	" over the fact that I didn't bring him the sales forecasts. He "
-            },
-            {
-              "markedText":	"gave me an earful"
-            },
-            {
-              "text":	" about how people from the marketing department never bring him the right information."
+              "block": [
+                {
+                  "boldText": "Justin: "
+                },
+                {
+                  "text": "He "
+                },
+                {
+                  "markedText": "got bent out of shape"
+                },
+                {
+                  "text": " over the fact that I didn't bring him the sales forecasts. He "
+                },
+                {
+                  "markedText": "gave me an earful"
+                },
+                {
+                  "text": " about how people from the marketing department never bring him the right information."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Mary: "
-            },
-            {
-              "text": "Don't worry about him. Don't let him "
-            },
-            {
-              "markedText":	"push your buttons"
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Mary: "
+                },
+                {
+                  "text": "Don't worry about him. Don't let him "
+                },
+                {
+                  "markedText": "push your buttons"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Justin: "
-            },
-            {
-              "text": "I'll just have to "
-            },
-            {
-              "markedText":	"steer clear of him "
-            },
-            {
-              "text":	"now that I know he's such a "
-            },
-            {
-              "markedText":	"hot-head"
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Justin: "
+                },
+                {
+                  "text": "I'll just have to "
+                },
+                {
+                  "markedText": "steer clear of him "
+                },
+                {
+                  "text": "now that I know he's such a "
+                },
+                {
+                  "markedText": "hot-head"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Mary: "
-            },
-            {
-              "text": "He's "
-            },
-            {
-              "markedText":	"not a bad guy"
-            },
-            {
-              "text":	", but "
-            },
-            {
-              "markedText":	"he does have issues"
-            },
-            {
-              "text":	". And he's "
-            },
-            {
-              "markedText":	"got a chip on his shoulder"
-            },
-            {
-              "text":	" when it comes to marketing people."
+              "block": [
+                {
+                  "boldText": "Mary: "
+                },
+                {
+                  "text": "He's "
+                },
+                {
+                  "markedText": "not a bad guy"
+                },
+                {
+                  "text": ", but "
+                },
+                {
+                  "markedText": "he does have issues"
+                },
+                {
+                  "text": ". And he's "
+                },
+                {
+                  "markedText": "got a chip on his shoulder"
+                },
+                {
+                  "text": " when it comes to marketing people."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Justin: "
-            },
-            {
-              "text": "Joe's always "
-            },
-            {
-              "markedText":	"on his high horse"
-            },
-            {
-              "text":	" about something."
+              "block": [
+                {
+                  "boldText": "Justin: "
+                },
+                {
+                  "text": "Joe's always "
+                },
+                {
+                  "markedText": "on his high horse"
+                },
+                {
+                  "text": " about something."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Mary: "
-            },
-            {
-              "text": "You'll just have to "
-            },
-            {
-              "markedText":	"grin and bear it"
-            },
-            {
-              "text":	". We've got a lot of personalities around here. You'll just have to learn to work with them."
+              "block": [
+                {
+                  "boldText": "Mary: "
+                },
+                {
+                  "text": "You'll just have to "
+                },
+                {
+                  "markedText": "grin and bear it"
+                },
+                {
+                  "text": ". We've got a lot of personalities around here. You'll just have to learn to work with them."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Justin: "
-            },
-            {
-              "text": "Well, I don't know how I'm going to be able to work with him. He "
-            },{
-              "markedText":	"gets under my skin"
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Justin: "
+                },
+                {
+                  "text": "Well, I don't know how I'm going to be able to work with him. He "
+                },
+                {
+                  "markedText": "gets under my skin"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         }

@@ -1,10 +1,14 @@
 {
   "whiteboard": {
     "title": "Extras",
-    "subtitle": "Songs",
     "descriptions": [
       {
-        "description": [{ "text": "Linkin Park" }]
+        "icon": "songs",
+        "description": "Songs"
+      },
+      {
+        "icon": "artist",
+        "description": "Linkin Park"
       }
     ]
   },
@@ -12,13 +16,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "pages",
+        "icon": "album",
         "label": "From Zero",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "songs",
+                "icon": "lyrics",
                 "link": "/extras/songs/linkin-park/from-zero/the-emptiness-machine",
                 "label": "The Emptiness Machine"
               }

@@ -83,7 +83,7 @@ class NavBar extends HTMLElement {
         label: "Pronunciation",
       },
       {
-        icon: "song",
+        icon: "songs",
         link: "/extras/songs",
         label: "Songs",
         variant: "song-svg",

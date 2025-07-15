@@ -42,161 +42,197 @@
     {
       "paragraphs": [
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Chris: "
-            },
-            {
-              "text": "Todd, we got our shipment of wood yesterday. We’re "
-            },
-            {
-              "markedText":	"short by"
-            },
-            {
-              "text":	" 18 tons."
+              "block": [
+                {
+                  "boldText": "Chris: "
+                },
+                {
+                  "text": "Todd, we got our shipment of wood yesterday. We’re "
+                },
+                {
+                  "markedText": "short by"
+                },
+                {
+                  "text": " 18 tons."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Todd: "
-            },
-            {
-              "text": "Our wood supplier must’ve made a mistake.  "
-            },
-            {
-              "markedText":	"I could’ve sworn that"
-            },
-            {
-              "text":	" I ordered the right amount."
+              "block": [
+                {
+                  "boldText": "Todd: "
+                },
+                {
+                  "text": "Our wood supplier must’ve made a mistake.  "
+                },
+                {
+                  "markedText": "I could’ve sworn that"
+                },
+                {
+                  "text": " I ordered the right amount."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Chris: "
-            },
-            {
-              "text": "Chris: You’d better go back and double-check your order."
+              "block": [
+                {
+                  "boldText": "Chris: "
+                },
+                {
+                  "text": "Chris: You’d better go back and double-check your order."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Todd: "
-            },
-            {
-              "text": "Oops, you’re right. I accidentally ordered two tons instead of twenty. "
-            },
-            {
-              "markedText":	"No big deal"
-            },
-            {
-              "text":	". I’ll just put in another order."
+              "block": [
+                {
+                  "boldText": "Todd: "
+                },
+                {
+                  "text": "Oops, you’re right. I accidentally ordered two tons instead of twenty. "
+                },
+                {
+                  "markedText": "No big deal"
+                },
+                {
+                  "text": ". I’ll just put in another order."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Chris: "
-            },
-            {
-              "text": "When filling out order forms, you need to "
-            },
-            {
-              "markedText":	"dot your i’s and cross your t’s"
-            },
-            {
-              "text":	". You shouldn’t be making careless mistakes like this."
+              "block": [
+                {
+                  "boldText": "Chris: "
+                },
+                {
+                  "text": "When filling out order forms, you need to "
+                },
+                {
+                  "markedText": "dot your i’s and cross your t’s"
+                },
+                {
+                  "text": ". You shouldn’t be making careless mistakes like this."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Todd: "
-            },
-            {
-              "text": "I just forgot to add a zero after the two. Don’t "
-            },
-            {
-              "markedText":	"make a mountain out of a molehill"
-            },
-            {
-              "text":	". No need to "
-            },
-            {
-              "markedText":	"blow things out of proportion."
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Todd: "
+                },
+                {
+                  "text": "I just forgot to add a zero after the two. Don’t "
+                },
+                {
+                  "markedText": "make a mountain out of a molehill"
+                },
+                {
+                  "text": ". No need to "
+                },
+                {
+                  "markedText": "blow things out of proportion."
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Chris: "
-            },
-            {
-              "text": "This is very serious. Now we won’t have enough wood to finish the furniture order we got from La-Z Boy."
+              "block": [
+                {
+                  "boldText": "Chris: "
+                },
+                {
+                  "text": "This is very serious. Now we won’t have enough wood to finish the furniture order we got from La-Z Boy."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Todd: "
-            },
-            {
-              "text": "Okay, sorry I "
-            },
-            {
-              "markedText":	"dropped the ball"
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Todd: "
+                },
+                {
+                  "text": "Okay, sorry I "
+                },
+                {
+                  "markedText": "dropped the ball"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Chris: "
-            },
-            {
-              "text": "Todd, this may be a "
-            },
-            {
-              "markedText":	"bitter pill to swallow"
-            },
-            {
-              "text":	", but your work lately hasn’t been "
-            },
-            {
-              "markedText":	"up to scratch"
-            },
-            {
-              "text":	". You’ve really been "
-            },
-            {
-              "markedText":	"asleep at the wheel"
-            },
-            {
-              "text":	"!"
+              "block": [
+                {
+                  "boldText": "Chris: "
+                },
+                {
+                  "text": "Todd, this may be a "
+                },
+                {
+                  "markedText": "bitter pill to swallow"
+                },
+                {
+                  "text": ", but your work lately hasn’t been "
+                },
+                {
+                  "markedText": "up to scratch"
+                },
+                {
+                  "text": ". You’ve really been "
+                },
+                {
+                  "markedText": "asleep at the wheel"
+                },
+                {
+                  "text": "!"
+                }
+              ]
             }
           ]
         }

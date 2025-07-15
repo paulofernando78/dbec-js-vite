@@ -67,7 +67,7 @@ class Paragraph extends HTMLElement {
     paragraph.paragraph.forEach((item) => {
       const paragraphElement = document.createElement("p");
 
-      item.line.forEach((subItem) => {
+      item.block.forEach((subItem) => {
         if (subItem.boldText) {
           const boldText = document.createElement("b");
           boldText.textContent = subItem.boldText;

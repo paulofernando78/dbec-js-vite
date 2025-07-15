@@ -1,7 +1,12 @@
 {
   "whiteboard": {
     "title": "Extras",
-    "subtitle": "Songs"
+    "descriptions": [
+      {
+        "icon": "songs",
+        "description": "Songs"
+      }
+    ]
   },
   "contents": [
     {
@@ -12,7 +17,7 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/abba", "label": "ABBA" }
+              { "icon": "artist", "link": "/extras/songs/abba", "label": "ABBA" }
             ]
           }
         ]
@@ -21,11 +26,12 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "B",
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/", "label": "Bush" }
+              { "icon": "artist", "link": "/extras/songs/", "label": "Bush" }
             ]
           }
         ]
@@ -34,12 +40,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "C",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "song",
+                "icon": "artist",
                 "link": "/extras/songs/chevelle",
                 "label": "Chevelle"
               }
@@ -51,12 +58,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "D",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "song",
+                "icon": "artist",
                 "link": "/extras/songs/deftones",
                 "label": "Deftones"
               }
@@ -68,12 +76,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "E",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "song",
+                "icon": "artist",
                 "link": "/extras/songs/elton-john",
                 "label": "Elton John"
               }
@@ -85,11 +94,12 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "F",
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/", "label": "..." }
+              { "icon": "artist", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -98,17 +108,18 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "G",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "song",
+                "icon": "artist",
                 "link": "/extras/songs/gorillaz",
                 "label": "Gorillaz"
               },
               {
-                "icon": "song",
+                "icon": "artist",
                 "link": "/extras/songs/guns-and-roses",
                 "label": "Guns N' Roses"
               }
@@ -120,11 +131,12 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "H",
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/", "label": "..." }
+              { "icon": "artist", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -133,11 +145,12 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "I",
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/", "label": "..." }
+              { "icon": "artist", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -146,6 +159,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "J",
         "descriptions": [
           {
@@ -163,11 +177,12 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "K",
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/", "label": "..." }
+              { "icon": "artist", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -176,12 +191,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "L",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "song",
+                "icon": "artist",
                 "link": "/extras/songs/linkin-park",
                 "label": "Linkin Park"
               }
@@ -193,11 +209,12 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "M",
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/", "label": "..." }
+              { "icon": "artist", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -206,11 +223,12 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "N",
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/", "label": "..." }
+              { "icon": "artist", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -219,11 +237,12 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "O",
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/", "label": "..." }
+              { "icon": "artist", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -232,12 +251,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "P",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "song",
+                "icon": "artist",
                 "link": "/extras/songs/pearl-jam",
                 "label": "Pearl Jam"
               }
@@ -249,11 +269,12 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "Q",
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/", "label": "Queen" }
+              { "icon": "artist", "link": "/extras/songs/", "label": "Queen" }
             ]
           }
         ]
@@ -262,12 +283,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "R",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "song",
+                "icon": "artist",
                 "link": "/extras/songs/red-hot-chili-peppers",
                 "label": "Red Hot Chili Peppers"
               },
@@ -284,12 +306,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "S",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "song",
+                "icon": "artist",
                 "link": "/extras/songs/soundgarden",
                 "label": "Soundgarden"
               }
@@ -301,12 +324,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "T",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "song",
+                "icon": "artist",
                 "link": "/extras/songs/tears-for-fears",
                 "label": "Tears for Fears"
               }
@@ -315,7 +339,7 @@
           {
             "links": [
               {
-                "icon": "song",
+                "icon": "artist",
                 "link": "/extras/songs/the-black-eyed-peas",
                 "label": "The Black Eyed Peas"
               }
@@ -327,11 +351,12 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "U",
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/", "label": "..." }
+              { "icon": "artist", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -340,11 +365,12 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "...",
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/", "label": "V" }
+              { "icon": "artist", "link": "/extras/songs/", "label": "V" }
             ]
           }
         ]
@@ -353,11 +379,12 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "W",
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/", "label": "..." }
+              { "icon": "artist", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -366,11 +393,12 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "X",
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/", "label": "..." }
+              { "icon": "artist", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -379,11 +407,12 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "Y",
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/", "label": "..." }
+              { "icon": "artist", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]
@@ -392,11 +421,12 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon": "pages",
         "label": "Z",
         "descriptions": [
           {
             "links": [
-              { "icon": "song", "link": "/extras/songs/", "label": "..." }
+              { "icon": "artist", "link": "/extras/songs/", "label": "..." }
             ]
           }
         ]

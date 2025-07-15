@@ -43,173 +43,209 @@
     {
       "paragraphs": [
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Cindy: "
-            },
-            {
-              "text": "Did you hear "
-            },
-            {
-              "markedText":	"the latest dirt"
-            },
-            {
-              "text":	"?"
+              "block": [
+                {
+                  "boldText": "Cindy: "
+                },
+                {
+                  "text": "Did you hear "
+                },
+                {
+                  "markedText": "the latest dirt"
+                },
+                {
+                  "text": "?"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Steve: "
-            },
-            {
-              "text": "Of course not. I'm totally "
-            },
-            {
-              "markedText":	"out of the loop"
-            },
-            {
-              "text":	"! I'm always the last one to find out everything."
+              "block": [
+                {
+                  "boldText": "Steve: "
+                },
+                {
+                  "text": "Of course not. I'm totally "
+                },
+                {
+                  "markedText": "out of the loop"
+                },
+                {
+                  "text": "! I'm always the last one to find out everything."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Cindy: "
-            },
-            {
-              "markedText": "According to the rumor mill"
-            },
-            {
-              "text":	", Bill swing "
-            },
-            {
-              "markedText":	"made a pass at"
-            },
-            {
-              "text":	" Laura Teller, the new marketing manager. Now she's threatening to sue him for sexual harassment."
+              "block": [
+                {
+                  "boldText": "Cindy: "
+                },
+                {
+                  "markedText": "According to the rumor mill"
+                },
+                {
+                  "text": ", Bill swing "
+                },
+                {
+                  "markedText": "made a pass at"
+                },
+                {
+                  "text": " Laura Teller, the new marketing manager. Now she's threatening to sue him for sexual harassment."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Steve: "
-            },
-            {
-              "text": "Sounds like Bill's "
-            },
-            {
-              "markedText":	"up to his old tricks"
-            },
-            {
-              "text":	" again. He's always "
-            },
-            {
-              "markedText":	"on the make"
-            },
-            {
-              "text":	". Last year, Paula Reynolds accused him of pinching her..."
+              "block": [
+                {
+                  "boldText": "Steve: "
+                },
+                {
+                  "text": "Sounds like Bill's "
+                },
+                {
+                  "markedText": "up to his old tricks"
+                },
+                {
+                  "text": " again. He's always "
+                },
+                {
+                  "markedText": "on the make"
+                },
+                {
+                  "text": ". Last year, Paula Reynolds accused him of pinching her..."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Cindy: "
-            },
-            {
-              "text": "I remember that. Too bad Paula quit before they could "
-            },
-            {
-              "markedText":	"get to the bottom of it"
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Cindy: "
+                },
+                {
+                  "text": "I remember that. Too bad Paula quit before they could "
+                },
+                {
+                  "markedText": "get to the bottom of it"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Steve: "
-            },
-            {
-              "text": "Two years ago he "
-            },
-            {
-              "markedText":	"got nailed"
-            },
-            {
-              "text":	" for organizing a company offsite* to a strip joint*!"
+              "block": [
+                {
+                  "boldText": "Steve: "
+                },
+                {
+                  "text": "Two years ago he "
+                },
+                {
+                  "markedText": "got nailed"
+                },
+                {
+                  "text": " for organizing a company offsite* to a strip joint*!"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Cindy: "
-            },
-            {
-              "text": "Oh, that really "
-            },
-            {
-              "markedText":	"takes the cake"
-            },
-            {
-              "text":	". That's so "
-            },
-            {
-              "markedText":	"un- PC"
-            },
-            {
-              "text":	"!"
+              "block": [
+                {
+                  "boldText": "Cindy: "
+                },
+                {
+                  "text": "Oh, that really "
+                },
+                {
+                  "markedText": "takes the cake"
+                },
+                {
+                  "text": ". That's so "
+                },
+                {
+                  "markedText": "un- PC"
+                },
+                {
+                  "text": "!"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Steve: "
-            },
-            {
-              "text": "Bill is definitely not "
-            },
-            {
-              "markedText":	"politically correct"
-            },
-            {
-              "text":	"!"
+              "block": [
+                {
+                  "boldText": "Steve: "
+                },
+                {
+                  "text": "Bill is definitely not "
+                },
+                {
+                  "markedText": "politically correct"
+                },
+                {
+                  "text": "!"
+                }
+              ]
             }
           ]
         },
         {
-          "lineBreak": true,
+          ,
           "paragraph": [
             {
-              "boldText": "Cindy: "
-            },
-            {
-              "markedText": "What goes around comes around"
-            },
-            {
-              "text":	". One day, "
-            },
-            {
-              "markedText":	"he'll get his"
-            },
-            {
-              "text":	"."
+              "block": [
+                {
+                  "boldText": "Cindy: "
+                },
+                {
+                  "markedText": "What goes around comes around"
+                },
+                {
+                  "text": ". One day, "
+                },
+                {
+                  "markedText": "he'll get his"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         }
