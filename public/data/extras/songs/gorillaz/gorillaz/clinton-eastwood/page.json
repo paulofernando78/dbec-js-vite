@@ -4,12 +4,19 @@
     "subtitle": "Songs",
     "descriptions": [
       {
+        "icon":	"songs",
+        "description": "GSongs"
+      },
+      {
+        "icon":	"artist",
         "description": "Gorillaz"
       },
       {
+        "icon":	"album",
         "description": "Gorillaz"
       },
       {
+        "icon":	"lyrics",
         "description": "Clint Eastwood"
       }
     ]
@@ -58,7 +65,11 @@
               "block": [
                 {
                   "text": "I ain't happy, I'm feeling glad"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Eu não estou feliz, estou me sentindo contente"
                 }
@@ -72,7 +83,11 @@
               "block": [
                 {
                   "text": "I got sunshine in a bag"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Carrego o brilho do Sol na mochila"
                 }
@@ -86,7 +101,11 @@
               "block": [
                 {
                   "text": "I'm useless, but not for long"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Eu sou inútil, mas não por muito tempo"
                 }
@@ -100,7 +119,11 @@
               "block": [
                 {
                   "text": "The future is coming on"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "O futuro está chegando"
                 }
@@ -114,7 +137,11 @@
               "block": [
                 {
                   "text": "Finally, someone let me out of my cage"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Finalmente, alguém me deixou sair da minha jaula"
                 }
@@ -128,7 +155,11 @@
               "block": [
                 {
                   "text": "Now, time for me is nothing, 'cause I'm counting no age"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Agora, o tempo pra mim não é nada, pois não estou contando idade"
                 }
@@ -142,7 +173,11 @@
               "block": [
                 {
                   "text": "Now, I couldn't be there, now you shouldn't be scared"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Agora, eu podia não estar lá, agora você não deveria estar com medo"
                 }
@@ -156,7 +191,11 @@
               "block": [
                 {
                   "text": "I'm good at repairs and I'm under each snare"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Eu sou bom em reparos e estou sob cada armadilha"
                 }
@@ -170,7 +209,11 @@
               "block": [
                 {
                   "text": "Intangible! Bet you didn't think, so I command you to"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Intangível! Aposto que você não pensou, então estou te mandando"
                 }
@@ -184,7 +227,11 @@
               "block": [
                 {
                   "text": "Panoramic view, look, I'll make it all manageable"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Vista panorâmica, olha, eu vou deixar tudo manuseável"
                 }
@@ -198,7 +245,11 @@
               "block": [
                 {
                   "text": "Pick and choose, sit and lose all you different crews"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Selecione e escolha, sente e perca toda as suas diferentes equipes"
                 }
@@ -212,7 +263,11 @@
               "block": [
                 {
                   "text": "Chicks and dudes, who you think is really kickin' tunes?"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Minas e manos, quem vocês acham que realmente está mandando no improviso?"
                 }
@@ -226,7 +281,11 @@
               "block": [
                 {
                   "text": "Picture you gettin' down in a picture tube"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Imagine você descendo em um tubo de imagem"
                 }
@@ -240,7 +299,11 @@
               "block": [
                 {
                   "text": "Like you lit the fuse"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Como se você tivesse acendido o pavio"
                 }
@@ -254,7 +317,11 @@
               "block": [
                 {
                   "text": "You think it's fictional, mystical? Maybe!"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Você acha que é fictício, místico? Talvez!"
                 }
@@ -268,7 +335,11 @@
               "block": [
                 {
                   "text": "Spiritual, hero who appears"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Espiritual, um herói que aparece"
                 }
@@ -282,7 +353,11 @@
               "block": [
                 {
                   "text": "In you to clear your view when you're too crazy"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Em você pra te ajudar a ver quando você está muito louco"
                 }
@@ -296,7 +371,11 @@
               "block": [
                 {
                   "text": "Lifeless, to those the definition for what life is"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Sem vida, para saber o que a definição de vida é"
                 }
@@ -310,7 +389,11 @@
               "block": [
                 {
                   "text": "Priceless to you, because I put you on the hype shit"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Inestimável para você, porque te coloquei no jogo alto"
                 }
@@ -324,7 +407,11 @@
               "block": [
                 {
                   "text": "You like it?"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Você gosta?"
                 }
@@ -338,7 +425,11 @@
               "block": [
                 {
                   "text": "Gun smokin' righteous with one toke"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Arma fumegando com um tapa"
                 }
@@ -352,7 +443,11 @@
               "block": [
                 {
                   "text": "You're psychic among those"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Você é psíquico entre eles"
                 }
@@ -366,7 +461,11 @@
               "block": [
                 {
                   "text": "Possess you with one go"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Te possuo numa só ida"
                 }
@@ -391,7 +490,11 @@
               "block": [
                 {
                   "text": "I ain't happy, I'm feeling glad"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Eu não estou feliz, estou me sentindo contente"
                 }
@@ -405,7 +508,11 @@
               "block": [
                 {
                   "text": "I got sunshine in a bag"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Carrego o brilho do Sol na mochila"
                 }
@@ -419,7 +526,11 @@
               "block": [
                 {
                   "text": "I'm useless, but not for long"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Eu sou inútil, mas não por muito tempo"
                 }
@@ -433,7 +544,11 @@
               "block": [
                 {
                   "text": "The future is coming on"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "O futuro está chegando"
                 }
@@ -448,7 +563,11 @@
                 {
                   "boldText": "5x ",
                   "text": "It's coming on"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Está chegando"
                 }
@@ -462,7 +581,11 @@
               "block": [
                 {
                   "text": "The essence, the basics"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "A essência, o básico"
                 }
@@ -476,7 +599,11 @@
               "block": [
                 {
                   "text": "Without it, did you make it?"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Sem isso, você conseguiria?"
                 }
@@ -490,7 +617,11 @@
               "block": [
                 {
                   "text": "Allow me to make this"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Permita-me fazer isso"
                 }
@@ -504,7 +635,11 @@
               "block": [
                 {
                   "text": "Child-like in nature"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Infantil por natureza"
                 }
@@ -518,7 +653,11 @@
               "block": [
                 {
                   "text": "Rhythm, you have it or you don't"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Ritmo, você tem ou não tem"
                 }
@@ -532,7 +671,11 @@
               "block": [
                 {
                   "text": "That's a fallacy!"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Isso é uma falácia!"
                 }
@@ -546,7 +689,11 @@
               "block": [
                 {
                   "text": "I'm in them, every sproutin' tree, every child of peace"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Estou neles, toda árvore brotando, cada criança em paz"
                 }
@@ -560,7 +707,11 @@
               "block": [
                 {
                   "text": "Every cloud and sea, you see with your eyes"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Cada nuvem e mar, você vê com seus olhos"
                 }
@@ -574,7 +725,11 @@
               "block": [
                 {
                   "text": "I see destruction and demise, corruption in disguise"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Eu vejo destruição e decadência, corrupção disfarçada"
                 }
@@ -588,7 +743,11 @@
               "block": [
                 {
                   "text": "From this fuckin' enterprise, now I'm sucked into your lies"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Dessa porra de corporação, agora fui sugado para dentro de suas mentiras"
                 }
@@ -602,7 +761,11 @@
               "block": [
                 {
                   "text": "Through Russel, not his muscles, but percussion he provides"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Através de Russel, não seus músculos, mas a percussão que ele proporciona"
                 }
@@ -616,7 +779,11 @@
               "block": [
                 {
                   "text": "For me as a guide"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Comigo como um guia"
                 }
@@ -630,7 +797,11 @@
               "block": [
                 {
                   "text": "Y'all can see me now 'cause you don't see with your eyes"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Vocês todos podem me ver agora, porque vocês não veem com seus olhos"
                 }
@@ -644,7 +815,11 @@
               "block": [
                 {
                   "text": "You perceive with your mind, that's the inner"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Você percebe com sua mente, é o interior"
                 }
@@ -658,7 +833,11 @@
               "block": [
                 {
                   "text": "So I'ma stick around with Russ' and be a mentor"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Então eu vou ficar aqui com Russ e ser seu mentor"
                 }
@@ -672,7 +851,11 @@
               "block": [
                 {
                   "text": "Bust a few rhymes so motherfuckers remember"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Mandando algumas rimas para os filhos da puta se lembrarem"
                 }
@@ -686,7 +869,11 @@
               "block": [
                 {
                   "text": "What the thought is"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Do que o pensar é"
                 }
@@ -700,7 +887,11 @@
               "block": [
                 {
                   "text": "I brought all this so you can survive when law is lawless"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Eu trouxe tudo isso para que vocês possam sobreviver quando a lei é sem lei"
                 }
@@ -714,7 +905,11 @@
               "block": [
                 {
                   "text": "Feelings, sensations that you thought was dead"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Sentimentos, sensações que você pensou que estavam mortos"
                 }
@@ -728,7 +923,11 @@
               "block": [
                 {
                   "text": "No squealing, remember (that it's all in your head)"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Sem berros, lembre-se (está tudo na sua cabeça)"
                 }
@@ -753,7 +952,11 @@
               "block": [
                 {
                   "text": "I ain't happy, I'm feeling glad"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Eu não estou feliz, estou me sentindo contente"
                 }
@@ -767,7 +970,11 @@
               "block": [
                 {
                   "text": "I got sunshine in a bag"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Carrego o brilho do Sol na mochila"
                 }
@@ -781,7 +988,11 @@
               "block": [
                 {
                   "text": "I'm useless, but not for long"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Eu sou inútil, mas não por muito tempo"
                 }
@@ -795,7 +1006,11 @@
               "block": [
                 {
                   "text": "The future is coming on"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "O futuro está chegando"
                 }
@@ -820,7 +1035,11 @@
               "block": [
                 {
                   "text": "It's coming on"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Está chegando"
                 }
@@ -834,7 +1053,11 @@
               "block": [
                 {
                   "text": "My future"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "ptText": "Meu futuro"
                 }
