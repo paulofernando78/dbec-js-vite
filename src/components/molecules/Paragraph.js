@@ -115,10 +115,6 @@ class Paragraph extends HTMLElement {
         }
       });
 
-      if (item.lineBreak) {
-        paragraphElement.style.marginBottom = "1rem";
-      }
-
       textWrapper.appendChild(paragraphElement);
     });
 

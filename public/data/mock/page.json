@@ -154,7 +154,7 @@
       ]
     },
     {
-      "ribbon": { "icon": "snippet", "label": "Paragraph one line" }
+      "ribbon": { "icon": "snippet", "label": "Paragraph only" }
     },
     {
       "paragraphs": [
@@ -178,13 +178,12 @@
                   "markedText": "mark"
                 },
                 {
-                  "ptBoldText": " boldPtText "
+                  "ptBoldText": " ptBoldText "
                 },
                 {
                   "ptText": "ptText"
                 }
-              ],
-              "lineBreak": true
+              ]
             },
             {
               "line": [
@@ -204,7 +203,7 @@
                   "markedText": "mark"
                 },
                 {
-                  "ptBoldText": " boldPtText "
+                  "ptBoldText": " ptBoldText "
                 },
                 {
                   "ptText": "ptText"
@@ -212,14 +211,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "ribbon": { "icon": "snippet", "label": "Paragraph + displayBlock" }
-    },
-    {
-      "paragraphs": [
+        },
         {
           "paragraph": [
             {
@@ -228,17 +220,47 @@
                   "boldText": "boldText "
                 },
                 {
-                  "text":	"text"
+                  "phonetics": "phonetics "
+                },
+                {
+                  "partOfSpeech": "partOfSpeech "
+                },
+                {
+                  "text": "text "
+                },
+                {
+                  "markedText": "mark"
+                },
+                {
+                  "ptBoldText": " ptBoldText "
+                },
+                {
+                  "ptText": "ptText"
                 }
               ]
             },
             {
               "line": [
                 {
-                  "boldText": "boldText "
+                  "boldText": ""
                 },
                 {
-                  "text":	"text"
+                  "phonetics": ""
+                },
+                {
+                  "partOfSpeech": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "markedText": ""
+                },
+                {
+                  "ptBoldText": ""
+                },
+                {
+                  "ptText": ""
                 }
               ]
             }

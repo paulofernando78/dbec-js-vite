@@ -46,16 +46,20 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Carl: "
-            },
-            {
-              "text": "I think we've "
-            },
-            {
-              "markedText": "come up with a winner"
-            },
-            {
-              "text": "."
+              "line": [
+                {
+                  "boldText": "Carl: "
+                },
+                {
+                  "text": "I think we've "
+                },
+                {
+                  "markedText": "come up with a winner"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
@@ -63,16 +67,20 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Anne: "
-            },
-            {
-              "text": "I agree. The new Brush-o-matic should be a "
-            },
-            {
-              "markedText": "blockbuster"
-            },
-            {
-              "text": "!"
+              "line": [
+                {
+                  "boldText": "Anne: "
+                },
+                {
+                  "text": "I agree. The new Brush-o-matic should be a "
+                },
+                {
+                  "markedText": "blockbuster"
+                },
+                {
+                  "text": "!"
+                }
+              ]
             }
           ]
         },
@@ -80,14 +88,18 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Carl: ",
-              "text": "Our designers have already made up some prototypes. The toothbrushes have a tooth-whitening attachment and many other "
-            },
-            {
-              "markedText": "bells and whitles"
-            },
-            {
-              "text": "."
+              "line": [
+                {
+                  "boldText": "Carl: ",
+                  "text": "Our designers have already made up some prototypes. The toothbrushes have a tooth-whitening attachment and many other "
+                },
+                {
+                  "markedText": "bells and whitles"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
@@ -95,16 +107,20 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Greg: "
-            },
-            {
-              "text": "We should "
-            },
-            {
-              "markedText": "fast track a project"
-            },
-            {
-              "text": ". Let's try to launch it in time for the holiday season."
+              "line": [
+                {
+                  "boldText": "Greg: "
+                },
+                {
+                  "text": "We should "
+                },
+                {
+                  "markedText": "fast track a project"
+                },
+                {
+                  "text": ". Let's try to launch it in time for the holiday season."
+                }
+              ]
             }
           ]
         },
@@ -112,16 +128,20 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Ane: "
-            },
-            {
-              "text": "This will be a great "
-            },
-            {
-              "markedText": "stocking stuffer"
-            },
-            {
-              "text": "!"
+              "line": [
+                {
+                  "boldText": "Ane: "
+                },
+                {
+                  "text": "This will be a great "
+                },
+                {
+                  "markedText": "stocking stuffer"
+                },
+                {
+                  "text": "!"
+                }
+              ]
             }
           ]
         },
@@ -129,16 +149,20 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Carl: "
-            },
-            {
-              "text": "We definitely need a "
-            },
-            {
-              "markedText": "big win"
-            },
-            {
-              "text": " for the holidays."
+              "line": [
+                {
+                  "boldText": "Carl: "
+                },
+                {
+                  "text": "We definitely need a "
+                },
+                {
+                  "markedText": "big win"
+                },
+                {
+                  "text": " for the holidays."
+                }
+              ]
             }
           ]
         },
@@ -146,16 +170,20 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Anne: "
-            },
-            {
-              "text": "This is a great idea. We're going to "
-            },
-            {
-              "markedText": "make a killing"
-            },
-            {
-              "text": "."
+              "line": [
+                {
+                  "boldText": "Anne: "
+                },
+                {
+                  "text": "This is a great idea. We're going to "
+                },
+                {
+                  "markedText": "make a killing"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
@@ -163,16 +191,20 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Greg: "
-            },
-            {
-              "text": "Let's not talk about this project to anybody who doesn't need to know. We'll "
-            },
-            {
-              "markedText": "keep it under wraps"
-            },
-            {
-              "text": "."
+              "line": [
+                {
+                  "boldText": "Greg: "
+                },
+                {
+                  "text": "Let's not talk about this project to anybody who doesn't need to know. We'll "
+                },
+                {
+                  "markedText": "keep it under wraps"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
@@ -180,16 +212,35 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "boldText": "Carl: "
-            },
-            {
-              "text": "I agree. "
-            },
-            {
-              "markedText": "Mum's the word"
-            },
-            {
-              "text": " ."
+              "line": [
+                {
+                  "boldText": "Carl: "
+                },
+                {
+                  "text": "I agree. "
+                },
+                {
+                  "markedText": "Mum's the word"
+                },
+                {
+                  "text": ". "
+                },
+                {
+                  "text": "We don't want any of our competitors to "
+                },
+                {
+                  "mark": "get wind of"
+                },
+                {
+                  "text": " the idea and "
+                },
+                {
+                  "markedText": "rip it off"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         },
@@ -197,42 +248,26 @@
           "lineBreak": true,
           "paragraph": [
             {
-              "text": "We don't want any of our competitors to "
-            },
-            {
-              "mark": "get wind of"
-            },
-            {
-              "text": " the idea and "
-            },
-            {
-              "markedText": "rip it off"
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "lineBreak": true,
-          "paragraph": [
-            {
-              "boldText": "Anne: "
-            },
-            {
-              "text": "Right. Let's meet again on Monday morning and discuss our "
-            },
-            {
-              "markedText": "game plan"
-            },
-            {
-              "text": " for "
-            },
-            {
-              "markedText": "getting this project off the ground"
-            },
-            {
-              "text": "!"
+              "line": [
+                {
+                  "boldText": "Anne: "
+                },
+                {
+                  "text": "Right. Let's meet again on Monday morning and discuss our "
+                },
+                {
+                  "markedText": "game plan"
+                },
+                {
+                  "text": " for "
+                },
+                {
+                  "markedText": "getting this project off the ground"
+                },
+                {
+                  "text": "!"
+                }
+              ]
             }
           ]
         }
