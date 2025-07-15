@@ -43,7 +43,6 @@ class VideoPlayer extends HTMLElement {
       "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     );
     iframe.src = item;
-    iframe.style.marginBottom = "var(--line-break)";
     wrapper.appendChild(iframe)
 
     this.shadowRoot.append(cssImports, css, wrapper);

@@ -12,7 +12,6 @@ class Paragraph extends HTMLElement {
     const css = document.createElement("style");
     /*css*/
     css.textContent = `
-
       .img-left {
         display: grid;
         grid-template-columns: 200px 1fr;
@@ -23,11 +22,7 @@ class Paragraph extends HTMLElement {
         display: grid;
         grid-template-columns: 1fr 200px;
         gap: 10px
-      }
-
-      .img-left, .img-right {
-  margin-bottom: 1rem;
-}
+      } 
 
       .display-block {
         display: block
@@ -70,71 +65,61 @@ class Paragraph extends HTMLElement {
     const textWrapper = document.createElement("div");
 
     paragraph.paragraph.forEach((item) => {
-      if (
-        item.boldText ||
-        item.phonetics ||
-        item.partOfSpeech ||
-        item.text ||
-        item.ptBoldText ||
-        item.ptText ||
-        item.markedText
-      ) {
-        const paragraphElement = document.createElement("p");
+      const paragraphElement = document.createElement("p");
 
-        if (item.boldText) {
+      item.line.forEach((subItem) => {
+        if (subItem.boldText) {
           const boldText = document.createElement("b");
-          boldText.textContent = item.boldText;
+          boldText.textContent = subItem.boldText;
           paragraphElement.appendChild(boldText);
         }
 
-        if (item.phonetics) {
+        if (subItem.phonetics) {
           const phonetics = document.createElement("span");
-          phonetics.textContent = item.phonetics;
+          phonetics.textContent = subItem.phonetics;
           phonetics.classList.add("phonetics");
           paragraphElement.appendChild(phonetics);
         }
 
-        if (item.partOfSpeech) {
+        if (subItem.partOfSpeech) {
           const partOfSpeech = document.createElement("span");
-          partOfSpeech.textContent = item.partOfSpeech;
+          partOfSpeech.textContent = subItem.partOfSpeech;
           partOfSpeech.classList.add("part-of-speech");
           paragraphElement.appendChild(partOfSpeech);
         }
 
-        if (item.text) {
+        if (subItem.text) {
           const text = document.createElement("span");
-          text.textContent = item.text;
+          text.textContent = subItem.text;
           paragraphElement.appendChild(text);
         }
 
-        if (item.ptBoldText) {
+        if (subItem.ptBoldText) {
           const ptBoldText = document.createElement("b");
-          ptBoldText.textContent = item.ptBoldText;
+          ptBoldText.textContent = subItem.ptBoldText;
           ptBoldText.style.color = "var(--gray-4)";
           paragraphElement.appendChild(ptBoldText);
         }
 
-        if (item.ptText) {
+        if (subItem.ptText) {
           const ptText = document.createElement("span");
-          ptText.textContent = item.ptText;
+          ptText.textContent = subItem.ptText;
           ptText.style.color = "var(--gray-4)";
           paragraphElement.appendChild(ptText);
         }
 
-        if (item.markedText) {
+        if (subItem.markedText) {
           const mark = document.createElement("mark");
-          mark.textContent = item.markedText;
+          mark.textContent = subItem.markedText;
           paragraphElement.appendChild(mark);
         }
+      });
 
-        if (item.displayBlock) {
-          paragraphElement.classList.add("display-block");
-        } else {
-          paragraphElement.style.display = "inline";
-        }
-
-        textWrapper.appendChild(paragraphElement);
+      if (item.lineBreak) {
+        paragraphElement.style.marginBottom = "1rem";
       }
+
+      textWrapper.appendChild(paragraphElement);
     });
 
     const position = paragraph.imgPosition || "left";
@@ -148,12 +133,6 @@ class Paragraph extends HTMLElement {
     } else {
       this.container.appendChild(this.image);
       this.container.appendChild(textWrapper);
-    }
-
-    if (paragraph.lineBreak) {
-      this.container.style.marginBottom = "var(--line-break)";
-    } else {
-      this.container.style.marginBottom = "";
     }
   }
 }

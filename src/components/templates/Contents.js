@@ -34,7 +34,7 @@ class Contents extends HTMLElement {
 
   render(content) {
     const contentContainer = document.createElement("div");
-    // contentContainer.classList.add("line-break");
+    contentContainer.classList.add("line-break");
 
     // Whiteboard
     const whiteboard = document.createElement("wc-whiteboard");

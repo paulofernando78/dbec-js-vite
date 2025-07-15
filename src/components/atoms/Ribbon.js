@@ -60,8 +60,6 @@ class Ribbon extends HTMLElement {
       subLabel: ribbon.subLabel,
     };
     container.appendChild(wcIconItem);
-
-    container.style.marginBottom = "var(--line-break)";
   }
 }
 
