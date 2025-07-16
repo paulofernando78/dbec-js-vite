@@ -36,6 +36,12 @@ class Paragraph extends HTMLElement {
         gap: 10px
       }
 
+      .img-top wc-image,
+      .img-bottom wc-image {
+        justify-self: center
+
+      }
+
       @media (max-width:     480px) {
         .img-top, .img-right, .img-bottom, .img-left {
           grid-template-columns: 1fr;
