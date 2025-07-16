@@ -26,9 +26,12 @@
         "label": "A"
       }
     },
+
     {
       "paragraphs": [
         {
+          "imgSrc": "/assets/images/general/cat1.jpg",
+          "imgAlt": "imgAlt",
           "paragraph": [
             {
               "block": [
@@ -75,10 +78,18 @@
               "block": [
                 {
                   "text": "there is... (there's)"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "text": "there is not... (there isn't or there's not)"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "text": "is there... ?"
                 }
@@ -91,7 +102,7 @@
             {
               "block": [
                 {
-                  "text": "• "
+                  "text": "◦ "
                 },
                 {
                   "markedText": "There's"
@@ -100,15 +111,11 @@
                   "text": " a big tree in the yard."
                 }
               ]
-            }
-          ]
-        },
-        {
-          "paragraph": [
+            },
             {
               "block": [
                 {
-                  "text": "• "
+                  "text": "◦ "
                 },
                 {
                   "markedText": "There's"
@@ -117,25 +124,17 @@
                   "text": " nothing on TV tonight."
                 }
               ]
-            }
-          ]
-        },
-        {
-          "paragraph": [
+            },
             {
               "block": [
                 {
-                  "text": "• "
+                  "text": "◦ "
                 },
                 {
                   "text": "A: Do you have any money?"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "paragraph": [
+            },
             {
               "block": [
                 {
@@ -148,15 +147,11 @@
                   "text": " some in my wallet."
                 }
               ]
-            }
-          ]
-        },
-        {
-          "paragraph": [
+            },
             {
               "block": [
                 {
-                  "text": "• "
+                  "text": "◦ "
                 },
                 {
                   "text": "A: Excuse me, "
@@ -168,11 +163,7 @@
                   "text": " a hotel near here?"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "paragraph": [
+            },
             {
               "block": [
                 {
@@ -191,15 +182,11 @@
                   "text": "."
                 }
               ]
-            }
-          ]
-        },
-        {
-          "paragraph": [
+            },
             {
               "block": [
                 {
-                  "text": "• "
+                  "text": "◦ "
                 },
                 {
                   "text": "We can't go skiing."
@@ -231,10 +218,18 @@
               "block": [
                 {
                   "text": "there are"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "text": "there are not... (there aren't"
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "text": "are there... ?"
                 }
@@ -280,17 +275,6 @@
                 },
                 {
                   "text": "a book on the table"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "block": [
-                {
-                  "text": "WRONG (It's a book on the table.)"
                 }
               ]
             }
@@ -349,11 +333,15 @@
             {
               "block": [
                 {
-                  "text": "What's "
+                  "text": "◦ What's "
                 },
                 {
                   "boldText": "that noise? "
-                },
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "boldText": "It"
                 },
@@ -378,17 +366,16 @@
             {
               "block": [
                 {
+                  "text": "◦ "
+                },
+                {
                   "boldText": "There's "
                 },
                 {
                   "text": "a lot of salt soup."
                 }
               ]
-            }
-          ]
-        },
-        {
-          "paragraph": [
+            },
             {
               "block": [
                 {

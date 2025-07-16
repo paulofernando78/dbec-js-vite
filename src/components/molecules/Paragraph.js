@@ -12,11 +12,11 @@ class Paragraph extends HTMLElement {
     const css = document.createElement("style");
     /*css*/
     css.textContent = `
-      .img-left {
+      .img-top {
         display: grid;
-        grid-template-columns: 200px 1fr;
+        grid-template-rows: auto auto;
         gap: 10px
-      }
+      } 
 
       .img-right {
         display: grid;
@@ -24,12 +24,20 @@ class Paragraph extends HTMLElement {
         gap: 10px
       } 
 
-      .display-block {
-        display: block
+      .img-bottom {
+        display: grid;
+        grid-template-rows: 1fr 200px ;
+        gap: 10px
+      }
+
+      .img-left {
+        display: grid;
+        grid-template-columns: 200px 1fr;
+        gap: 10px
       }
 
       @media (max-width:     480px) {
-        .img-left, .img-right {
+        .img-right, .img-left {
           grid-template-columns: 1fr;
         }
 
@@ -118,14 +126,20 @@ class Paragraph extends HTMLElement {
       textWrapper.appendChild(paragraphElement);
     });
 
-    const position = paragraph.imgPosition || "left";
-    const validPosition =
-      position === "left" || position === "right" ? position : "left";
+    const position = paragraph.imgPosition || "top";
+    const validPositions = ["top", "right", "bottom", "left"];
+    const validPosition = validPositions.includes(position) ? position : "top";
     this.container.className = hasImage ? `img-${validPosition}` : "";
 
     if (paragraph.imgPosition === "right") {
       this.container.appendChild(textWrapper);
       this.container.appendChild(this.image);
+    } else if (paragraph.imgPosition === "bottom") {
+      this.container.appendChild(textWrapper);
+      this.container.appendChild(this.image);
+    } else if (paragraph.imgPosition === "left") {
+      this.container.appendChild(this.image);
+      this.container.appendChild(textWrapper);
     } else {
       this.container.appendChild(this.image);
       this.container.appendChild(textWrapper);

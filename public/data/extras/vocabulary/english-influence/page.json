@@ -4,6 +4,10 @@
     "subtitle": "Vocabulary",
     "descriptions": [
       {
+        "icon": "vocabulary",
+        "description": "Vocabulary"
+      },
+      {
         "icon": "page",
         "description": "English influence"
       }
@@ -15,243 +19,352 @@
         {
           "paragraph": [
             {
-              "boldText": "aggressor ",
-              "phonetics": "/əˈɡres.ɚ/ ",
-              "partOfSpeech": "noun",
-              "displayBlock": true
+              "block": [
+                {
+                  "boldText": "aggressor "
+                },
+                {
+                  "phonetics": "/əˈɡres.ɚ/ "
+                },
+                {
+                  "partOfSpeech": "noun"
+                }
+              ]
             },
             {
-              "ptText": "agressor",
-              "displayBlock": true
+              "block": [
+                {
+                  "ptText": "agressor"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "altar ",
-              "phonetics": "... ",
-              "partOfSpeech": "noun",
-              "displayBlock": true
+              "block": [
+                {
+                  "boldText": "assault ",
+                  "phonetics": "/əˈsɑːlt/ ",
+                  "partOfSpeech": "noun / verb"
+                }
+              ]
             },
             {
-              "ptText": "altar",
-              "displayBlock": true
+              "block": [
+                {
+                  "ptText": "..."
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "to commence ",
-              "phonetics": "/kəˈmens/ ",
-              "partOfSpeech": "verb"
+              "block": [
+                {
+                  "boldText": "altar "
+                },
+                {
+                  "phonetics": "/ˈɑːl.tɚ/ "
+                },
+                {
+                  "partOfSpeech": "noun"
+                }
+              ]
             },
             {
-              "text": "• The ceremony will commence at noon.",
-              "ptText": "• A cerimônia começará ao meio-dia."
-            },
-            {
-              "text": "• The court commenced the trial yesterday.",
-              "ptText": "• O tribunal começou o julgamento ontem. / O tribunal deu início ao julgamento ontem."
-            },
-            {
-              "ptText": "É muito mais formal. Costuma aparecer em documentos oficiais, cerimônias, linguagem jurídica ou acadêmica."
+              "block": [
+                {
+                  "ptText": "altar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "to compromise ",
-              "phonetics": "/ˈkɑːm.prə.maɪz/ ",
-              "partOfSpeech": "verb"
+              "block": [
+                {
+                  "boldText": "commence "
+                },
+                {
+                  "phonetics": "/kəˈmens/ "
+                },
+                {
+                  "partOfSpeech": "verb"
+                }
+              ]
             },
             {
-              "text": "• The attack compromised security."
+              "block": [
+                {
+                  "ptText": "É muito mais formal. Costuma aparecer em documentos oficiais, cerimônias, linguagem jurídica ou acadêmica."
+                }
+              ]
             },
             {
-              "ptText": "• O ataque comprometeu a segurança."
-            },
-            {
-              "text": "• We need to find a compromise."
-            },
-            {
-              "ptText": "• Precisamos encontrar um acordo."
-            },
-            {
-              "text": "• I won’t compromise on my values."
-            },
-            {
-              "ptText": "• Não vou ceder / fazer concessões nos meus valores."
-            },
-            {
-              "ptText": "\"falso cognato reverso\" — parece que não tem relação, mas tem"
+              "block": [
+                {
+                  "text": "• The court commenced the trial yesterday. "
+                },
+                {
+                  "ptText": "O tribunal começou o julgamento ontem. / O tribunal deu início ao julgamento ontem."
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "to converse ",
-              "phonetics": "/kənˈvɝːs/ ",
-              "partOfSpeech": "verb"
+              "block": [
+                {
+                  "boldText": "compromise ",
+                  "phonetics": "/ˈkɑːm.prə.maɪz/ ",
+                  "partOfSpeech": "verb"
+                }
+              ]
             },
             {
-              "text": "..."
+              "block": [
+                {
+                  "ptText": "\"falso cognato reverso\" — parece que não tem relação, mas tem"
+                }
+              ]
             },
             {
-              "ptText": "É mais formal ou técnico. Costuma aparecer em situações mais sofisticadas, educadas ou acadêmicas."
+              "block": [
+                {
+                  "text": "• The attack compromised security."
+                },
+                {
+                  "ptText": "• O ataque comprometeu a segurança."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• We need to find a compromise."
+                },
+                {
+                  "ptText": "• Precisamos encontrar um acordo."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• I won’t compromise on my values."
+                },
+                {
+                  "ptText": "• Não vou ceder / fazer concessões nos meus valores."
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "to deteriorate ",
-              "phonetics": "/dɪˈtɪr.i.ə.reɪt/ ",
-              "partOfSpeech": "verb"
+              "block": [
+                {
+                  "boldText": "converse ",
+                  "phonetics": "/kənˈvɝːs/ ",
+                  "partOfSpeech": "verb"
+                }
+              ]
             },
             {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
+              "block": [
+                {
+                  "ptText": "É mais formal ou técnico. Costuma aparecer em situações mais sofisticadas, educadas ou acadêmicas."
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "to detest ",
-              "phonetics": "/dɪˈtest/ ",
-              "partOfSpeech": "verb"
+              "block": [
+                {
+                  "boldText": "deteriorate ",
+                  "phonetics": "/dɪˈtɪr.i.ə.reɪt/ ",
+                  "partOfSpeech": "verb"
+                }
+              ]
             },
             {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
+              "block": [
+                {
+                  "ptText": "deteriorar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "assault ",
-              "phonetics": "/əˈsɑːlt/ ",
-              "partOfSpeech": "noun / verb"
+              "block": [
+                {
+                  "boldText": "detest ",
+                  "phonetics": "/dɪˈtest/ ",
+                  "partOfSpeech": "verb"
+                }
+              ]
             },
             {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
+              "block": [
+                {
+                  "ptText": "detestar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "to devour ",
-              "phonetics": "/dɪˈvaʊ.ɚ/ ",
-              "partOfSpeech": "verb"
+              "block": [
+                {
+                  "boldText": "devour ",
+                  "phonetics": "/dɪˈvaʊ.ɚ/ ",
+                  "partOfSpeech": "verb"
+                }
+              ]
             },
             {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
+              "block": [
+                {
+                  "ptText": "devorar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "macaque ",
-              "phonetics": "/məˈkɑːk/ ",
-              "partOfSpeech": "noun"
+              "block": [
+                {
+                  "boldText": "macaque ",
+                  "phonetics": "/məˈkɑːk/ ",
+                  "partOfSpeech": "noun"
+                }
+              ]
             },
             {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
+              "block": [
+                {
+                  "ptText": "Um tipo de macaco de rabo curto encontrado na Ásia e Norte da África. São primatas de tamanho médio. Uma espécie é o macaco-japonês, também conhecido como “snow monkey”"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "to obtain ",
-              "phonetics": "/əbˈteɪn/ ",
-              "partOfSpeech": "verb"
+              "block": [
+                {
+                  "boldText": "obtain ",
+                  "phonetics": "/əbˈteɪn/ ",
+                  "partOfSpeech": "verb"
+                }
+              ]
             },
             {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
+              "block": [
+                {
+                  "ptText": "obter"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "to regurgitate ",
-              "phonetics": "/rɪˈɡɝː.dʒə.teɪt/ ",
-              "partOfSpeech": "verb"
+              "block": [
+                {
+                  "boldText": "regurgitate ",
+                  "phonetics": "/rɪˈɡɝː.dʒə.teɪt/ ",
+                  "partOfSpeech": "verb"
+                }
+              ]
             },
             {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
+              "block": [
+                {
+                  "ptText": "regurgitar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "summary ",
-              "phonetics": "/ˈsʌm.ɚ.i/ ",
-              "partOfSpeech": "noun"
+              "block": [
+                {
+                  "boldText": "summary ",
+                  "phonetics": "/ˈsʌm.ɚ.i/ ",
+                  "partOfSpeech": "noun"
+                }
+              ]
             },
             {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
+              "block": [
+                {
+                  "ptText": "sumário"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "to validate ",
-              "phonetics": "/ˈvæl.ə.deɪt/ ",
-              "partOfSpeech": "verb"
+              "block": [
+                {
+                  "boldText": "validate ",
+                  "phonetics": "/ˈvæl.ə.deɪt/ ",
+                  "partOfSpeech": "verb"
+                }
+              ]
             },
             {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
+              "block": [
+                {
+                  "ptText": "validar"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "value ",
-              "phonetics": "/ˈvæl.juː/ ",
-              "partOfSpeech": "noun  verb"
+              "block": [
+                {
+                  "boldText": "value ",
+                  "phonetics": "/ˈvæl.juː/ ",
+                  "partOfSpeech": "noun  verb"
+                }
+              ]
             },
             {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
+              "block": [
+                {
+                  "ptText": "valor"
+                }
+              ]
             }
           ]
         }
