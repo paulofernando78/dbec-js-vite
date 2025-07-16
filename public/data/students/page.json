@@ -1,0 +1,33 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Vocabulary",
+    "descriptions": [
+      {
+        "icon": "dashboard",
+        "description": "Dashboard"
+      },
+      {
+        "icon": "students",
+        "description": "Student"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "paragraphs": [
+        {
+          "paragraph": [
+            {
+              "block": [
+                {
+                  "boldText": "Welcome to yo dashboard."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

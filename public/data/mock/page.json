@@ -64,14 +64,15 @@
     {
       "paragraphs": [
         {
-          "imgSrc": "/assets/images/general/cat1.jpg",
+          "imgSrc": "/assets/images/general/cat-1.jpg",
           "imgAlt": "imgAlt",
+          "imgWidth": "200px",
           "imgPosition": "top",
           "paragraph": [
             {
               "block": [
                 {
-                  "boldText": "boldText "
+                  "boldText": "Top boldText"
                 },
                 {
                   "phonetics": "phonetics "
@@ -100,14 +101,14 @@
     {
       "paragraphs": [
         {
-          "imgSrc": "/assets/images/general/cat2.jpg",
+          "imgSrc": "/assets/images/general/cat-2.jpg",
           "imgAlt": "imgAlt",
           "imgPosition": "right",
           "paragraph": [
             {
               "block": [
                 {
-                  "boldText": "boldText "
+                  "boldText": "Right boldText "
                 },
                 {
                   "phonetics": "phonetics "
@@ -132,14 +133,47 @@
           ]
         },
         {
-          "imgSrc": "/assets/images/general/robalo.avif",
+          "imgSrc": "/assets/images/general/cat-4.jpg",
           "imgAlt": "imgAlt",
+          "imgWidth": "150px",
           "imgPosition": "bottom",
           "paragraph": [
             {
               "block": [
                 {
-                  "boldText": "boldText "
+                  "boldText": "Bottom boldText "
+                },
+                {
+                  "phonetics": "phonetics "
+                },
+                {
+                  "partOfSpeech": "partOfSpeech "
+                },
+                {
+                  "text": "text "
+                },
+                {
+                  "markedText": "mark"
+                },
+                {
+                  "ptBoldText": " boldPtText "
+                },
+                {
+                  "ptText": "ptText"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "imgSrc": "/assets/images/general/cat-3.jpg",
+          "imgAlt": "imgAlt",
+          "imgPosition": "left",
+          "paragraph": [
+            {
+              "block": [
+                {
+                  "boldText": "Right boldText "
                 },
                 {
                   "phonetics": "phonetics "

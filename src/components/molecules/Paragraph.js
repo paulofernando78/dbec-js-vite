@@ -26,7 +26,7 @@ class Paragraph extends HTMLElement {
 
       .img-bottom {
         display: grid;
-        grid-template-rows: 1fr 200px ;
+        grid-template-rows: auto auto ;
         gap: 10px
       }
 
@@ -37,7 +37,7 @@ class Paragraph extends HTMLElement {
       }
 
       @media (max-width:     480px) {
-        .img-right, .img-left {
+        .img-top, .img-right, .img-bottom, .img-left {
           grid-template-columns: 1fr;
         }
 

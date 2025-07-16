@@ -9,7 +9,7 @@
       },
       {
         "icon": "page",
-        "description": "English influence"
+        "description": "English influence / False Cognates"
       }
     ]
   },
@@ -277,6 +277,40 @@
               "block": [
                 {
                   "ptText": "Um tipo de macaco de rabo curto encontrado na Ásia e Norte da África. São primatas de tamanho médio. Uma espécie é o macaco-japonês, também conhecido como “snow monkey”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "block": [
+                {
+                  "boldText": "pretend ",
+                  "phonetics": "... ",
+                  "partOfSpeech": "verb"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "ptText": "fingir, simular"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "*intend"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "pretender"
                 }
               ]
             }
