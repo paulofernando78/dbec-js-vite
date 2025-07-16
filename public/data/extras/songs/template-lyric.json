@@ -1,9 +1,21 @@
 {
   "whiteboard": {
     "title": "Extras",
-    "subtitle": "Song",
     "descriptions": [
       {
+        "icon": "songs",
+        "description": "Songs"
+      },
+      {
+        "icon": "artist",
+        "description": "..."
+      },
+      {
+        "icon": "album",
+        "description": "..."
+      },
+      {
+        "icon": "lyrics",
         "description": "..."
       }
     ]
@@ -20,210 +32,36 @@
         {
           "paragraph": [
             {
-              "boldText": "..."
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ]
             },
             {
-              "ptBoldText": "..."
+              "block": [
+                {
+                  "ptBoldText": "..."
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "..."
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
             },
             {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "..."
-            },
-            {
-              "ptText": "..."
+              "block": [
+                {
+                  "ptText": "..."
+                }
+              ]
             }
           ]
         }

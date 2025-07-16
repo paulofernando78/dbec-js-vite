@@ -165,7 +165,7 @@
           {
             "links": [
               {
-                "icon": "song",
+                "icon": "artist",
                 "link": "/extras/songs/jamiroquai",
                 "label": "Jamiroquai"
               }
@@ -294,7 +294,7 @@
                 "label": "Red Hot Chili Peppers"
               },
               {
-                "icon": "song",
+                "icon": "artist",
                 "link": "/extras/songs/royal-blood",
                 "label": "Royal Blood"
               }

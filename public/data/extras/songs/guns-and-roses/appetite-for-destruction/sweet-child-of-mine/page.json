@@ -1,15 +1,21 @@
 {
   "whiteboard": {
     "title": "Extras",
-    "subtitle": "Songs",
     "descriptions": [
       {
+        "icon":	"songs",
+        "description": "Songs"
+      },
+      {
+        "icon":	"artist",
         "description": "Guns N' Roses"
       },
       {
+        "icon":	"album",
         "description": "Appetite For Destruction"
       },
       {
+        "icon":	"lyrics",
         "description": "Sweet Child O' Mine"
       }
     ]
@@ -26,338 +32,603 @@
         {
           "paragraph": [
             {
-              "text": "Sweet Child O' Mine"
+              "block": [
+                {
+                  "boldText": "Sweet Child O' Mine"
+                }
+              ]
             },
             {
-              "ptText": "Minha Doce Criança"
+              "block": [
+                {
+                  "ptText": "Minha Doce Criança"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "She's got a smile that it seems to me"
+              "block": [
+                {
+                  "text": "She's got a smile that it seems to me"
+                }
+              ]
             },
             {
-              "ptText": "Ela tem um sorriso que parece"
+              "block": [
+                {
+                  "ptText": "Ela tem um sorriso que parece"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Reminds me of childhood memories"
+              "block": [
+                {
+                  "text": "Reminds me of childhood memories"
+                }
+              ]
             },
             {
-              "ptText": "Me lembrar de memórias de infância"
+              "block": [
+                {
+                  "ptText": "Me lembrar de memórias de infância"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Where everything was as fresh"
+              "block": [
+                {
+                  "text": "Where everything was as fresh"
+                }
+              ]
             },
             {
-              "ptText": "Onde tudo era fresco"
+              "block": [
+                {
+                  "ptText": "Onde tudo era fresco"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "As the bright blue sky"
+              "block": [
+                {
+                  "text": "As the bright blue sky"
+                }
+              ]
             },
             {
-              "ptText": "Como o brilhante céu azul"
+              "block": [
+                {
+                  "ptText": "Como o brilhante céu azul"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Now and then when I see her face"
+              "block": [
+                {
+                  "text": "Now and then when I see her face"
+                }
+              ]
             },
             {
-              "ptText": "Às vezes, quando eu vejo seu rosto"
+              "block": [
+                {
+                  "ptText": "Às vezes, quando eu vejo seu rosto"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "She takes me away to that special place"
+              "block": [
+                {
+                  "text": "She takes me away to that special place"
+                }
+              ]
             },
             {
-              "ptText": "Ela me leva para aquele lugar especial"
+              "block": [
+                {
+                  "ptText": "Ela me leva para aquele lugar especial"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "And if I stare too long"
+              "block": [
+                {
+                  "text": "And if I stare too long"
+                }
+              ]
             },
             {
-              "ptText": "E se eu olhar por muito tempo"
+              "block": [
+                {
+                  "ptText": "E se eu olhar por muito tempo"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I'd probably break down and cry"
+              "block": [
+                {
+                  "text": "I'd probably break down and cry"
+                }
+              ]
             },
             {
-              "ptText": "Provavelmente perderia o controle e choraria"
+              "block": [
+                {
+                  "ptText": "Provavelmente perderia o controle e choraria"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Oh, oh, oh, sweet child of mine"
+              "block": [
+                {
+                  "text": "Oh, oh, oh, sweet child of mine"
+                }
+              ]
             },
             {
-              "ptText": "Oh, oh, oh, minha doce criança"
+              "block": [
+                {
+                  "ptText": "Oh, oh, oh, minha doce criança"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Oh, oh, oh, sweet love of mine"
+              "block": [
+                {
+                  "text": "Oh, oh, oh, sweet love of mine"
+                }
+              ]
             },
             {
-              "ptText": "Oh, oh, oh, meu doce amor"
+              "block": [
+                {
+                  "ptText": "Oh, oh, oh, meu doce amor"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "She's got eyes of the bluest skies"
+              "block": [
+                {
+                  "text": "She's got eyes of the bluest skies"
+                }
+              ]
             },
             {
-              "ptText": "Ela tem olhos iguais aos céus mais azuis"
+              "block": [
+                {
+                  "ptText": "Ela tem olhos iguais aos céus mais azuis"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "As if they thought of rain"
+              "block": [
+                {
+                  "text": "As if they thought of rain"
+                }
+              ]
+            },
+
+            {
+              "block": [
+                {
+                  "ptText": "Como se eles pensassem na chuva"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "block": [
+                {
+                  "text": "I hate to look into those eyes"
+                }
+              ]
             },
             {
-              "ptText": "Como se eles pensassem na chuva"
+              "block": [
+                {
+                  "ptText": "Odeio olhar para dentro daqueles olhos"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "I hate to look into those eyes"
+              "block": [
+                {
+                  "text": "And see an ounce of pain"
+                }
+              ]
             },
             {
-              "ptText": "Odeio olhar para dentro daqueles olhos"
+              "block": [
+                {
+                  "ptText": "E ver um pingo de dor"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "And see an ounce of pain"
+              "block": [
+                {
+                  "text": "Her hair reminds me of a warm safe place"
+                }
+              ]
             },
             {
-              "ptText": "E ver um pingo de dor"
+              "block": [
+                {
+                  "ptText": "O cabelo dela me lembra um refúgio aconchegante"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Her hair reminds me of a warm safe place"
+              "block": [
+                {
+                  "text": "Where, as a child, I'd hide"
+                }
+              ]
             },
             {
-              "ptText": "O cabelo dela me lembra um refúgio aconchegante"
+              "block": [
+                {
+                  "ptText": "Onde, quando criança, eu me escondia"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Where, as a child, I'd hide"
+              "block": [
+                {
+                  "text": "And pray for the thunder and the rain"
+                }
+              ]
             },
             {
-              "ptText": "Onde, quando criança, eu me escondia"
+              "block": [
+                {
+                  "ptText": "E rezava para que o trovão e a chuva"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "And pray for the thunder and the rain"
+              "block": [
+                {
+                  "text": "To quietly pass me by"
+                }
+              ]
             },
             {
-              "ptText": "E rezava para que o trovão e a chuva"
+              "block": [
+                {
+                  "ptText": "Passassem quietos por mim"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "To quietly pass me by"
+              "block": [
+                {
+                  "text": "Oh, oh, oh, sweet child of mine"
+                }
+              ]
             },
             {
-              "ptText": "Passassem quietos por mim"
+              "block": [
+                {
+                  "ptText": "Oh, oh, oh, minha doce criança"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Oh, oh, oh, sweet child of mine"
+              "block": [
+                {
+                  "text": "Oh, oh, oh, sweet love of mine"
+                }
+              ]
             },
             {
-              "ptText": "Oh, oh, oh, minha doce criança"
+              "block": [
+                {
+                  "ptText": "Oh, oh, oh, meu doce amor"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Oh, oh, oh, sweet love of mine"
+              "block": [
+                {
+                  "text": "Oh, oh, oh, sweet child of mine"
+                }
+              ]
             },
             {
-              "ptText": "Oh, oh, oh, meu doce amor"
+              "block": [
+                {
+                  "ptText": "Oh, oh, oh, minha doce criança"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Oh, oh, oh, sweet child of mine"
+              "block": [
+                {
+                  "text": "Oh, oh, oh, sweet love of mine"
+                }
+              ]
             },
             {
-              "ptText": "Oh, oh, oh, minha doce criança"
+              "block": [
+                {
+                  "ptText": "Oh, oh, oh, meu doce amor"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Oh, oh, oh, sweet love of mine"
+              "block": [
+                {
+                  "boldText": "Guitar solo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "block": [
+                {
+                  "boldText": "Repeat 3x"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "block": [
+                {
+                  "text": "Where do we go?"
+                }
+              ]
             },
             {
-              "ptText": "Oh, oh, oh, meu doce amor"
+              "block": [
+                {
+                  "ptText": "Para onde vamos?"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "Guitar solo"
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "boldText": "Repeat 3x"
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "Where do we go?"
+              "block": [
+                {
+                  "text": "Where do we go now?"
+                }
+              ]
             },
             {
-              "ptText": "Para onde vamos?"
+              "block": [
+                {
+                  "ptText": "Para onde vamos agora?"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Where do we go now?"
+              "block": [
+                {
+                  "text": "Where do we go?"
+                }
+              ]
             },
             {
-              "ptText": "Para onde vamos agora?"
+              "block": [
+                {
+                  "ptText": "Para onde vamos?"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Where do we go?"
+              "block": [
+                {
+                  "text": "Ai ai ai ai ai ..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "block": [
+                {
+                  "text": "Where do we go now?"
+                }
+              ]
             },
             {
-              "ptText": "Para onde vamos?"
+              "block": [
+                {
+                  "ptText": "Para onde vamos agora?"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Ai ai ai ai ai ..."
+              "block": [
+                {
+                  "boldText": "Repeat 3x"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Where do we go now?"
+              "block": [
+                {
+                  "text": "Where do we go?"
+                }
+              ]
             },
             {
-              "ptText": "Para onde vamos agora?"
+              "block": [
+                {
+                  "ptText": "Para onde vamos?"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "boldText": "Repeat 3x"
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "Where do we go?"
+              "block": [
+                {
+                  "text": "Where do we go now?"
+                }
+              ]
             },
             {
-              "ptText": "Para onde vamos?"
+              "block": [
+                {
+                  "ptText": "Para onde vamos agora?"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Where do we go now?"
+              "block": [
+                {
+                  "text": "Sweet child"
+                }
+              ]
             },
             {
-              "ptText": "Para onde vamos agora?"
+              "block": [
+                {
+                  "ptText": "Doce criança"
+                }
+              ]
             }
           ]
         },
         {
           "paragraph": [
             {
-              "text": "Sweet child"
+              "block": [
+                {
+                  "text": "Sweet child of mine"
+                }
+              ]
             },
             {
-              "ptText": "Doce criança"
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "text": "Sweet child of mine"
-            },
-            {
-              "ptText": "Minha doce criança"
+              "block": [
+                {
+                  "ptText": "Minha doce criança"
+                }
+              ]
             }
           ]
         }

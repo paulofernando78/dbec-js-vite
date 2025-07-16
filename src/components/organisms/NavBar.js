@@ -40,6 +40,11 @@ class NavBar extends HTMLElement {
         link: "/dashboard",
         label: "Dashboard",
       },
+      // {
+      //   icon: "students",
+      //   link: "/students",
+      //   label: "Students",
+      // },
       { title: "COURSES" },
       {
         icon: "book",
