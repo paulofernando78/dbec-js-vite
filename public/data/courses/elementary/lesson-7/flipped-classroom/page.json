@@ -6,11 +6,7 @@
         "icon": "book",
         "description": "Elementary"
       },
-    "descriptions": [
-      {
-        {"icon": "page",
-        "description": "Lesson 7"
-      },
+      { "icon": "page", "description": "Lesson 7" },
       {
         "description": "Flipped classroom"
       },
@@ -21,11 +17,15 @@
   },
   "contents": [
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
-              "boldText": "Under construction..."
+              "block": [
+                {
+                  "boldText": "Under construction..."
+                }
+              ]
             }
           ]
         }

@@ -3,19 +3,19 @@
     "title": "Extras",
     "descriptions": [
       {
-        "icon":	"songs",
+        "icon": "songs",
         "description": "Songs"
       },
       {
-        "icon":	"artist",
+        "icon": "artist",
         "description": "Guns N' Roses"
       },
       {
-        "icon":	"album",
+        "icon": "album",
         "description": "Appetite For Destruction"
       },
       {
-        "icon":	"lyrics",
+        "icon": "lyrics",
         "description": "Sweet Child O' Mine"
       }
     ]
@@ -28,9 +28,9 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -48,7 +48,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -66,7 +66,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -84,7 +84,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -102,7 +102,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -120,7 +120,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -138,7 +138,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -156,7 +156,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -174,7 +174,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -192,7 +192,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -210,7 +210,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -228,7 +228,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -246,7 +246,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -265,7 +265,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -283,7 +283,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -301,7 +301,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -319,7 +319,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -337,7 +337,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -355,7 +355,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -373,7 +373,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -391,7 +391,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -409,7 +409,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -427,7 +427,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -445,7 +445,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -456,7 +456,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -467,7 +467,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -485,7 +485,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -503,7 +503,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -521,7 +521,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -532,7 +532,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -550,7 +550,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -561,7 +561,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -579,7 +579,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -597,7 +597,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -615,7 +615,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {

@@ -22,12 +22,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "left",
           "imgSrc": "/assets/images/extras/audiobooks/beginner/young-learners-adults/",
           "imgAlt": "Sherlock Holmes",
-          "paragraph": [
+          "blocks": [
             {
               "text": "..."
             }
@@ -51,12 +51,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/starter/",
           "imgAlt": "Paragraph 1 image",
-          "paragraph": [
+          "blocks": [
             {
               "text": "..."
             }

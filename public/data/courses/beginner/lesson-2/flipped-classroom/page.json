@@ -3,12 +3,8 @@
     "title": "Courses",
     "subtitle": "",
     "descriptions": [
-      { "icon": "book",
-        "description": "Beginner"
-      },
-      { "icon": "page",
-        "description": "Lesson 2"
-      },
+      { "icon": "book", "description": "Beginner" },
+      { "icon": "page", "description": "Lesson 2" },
       {
         "icon": "eye",
         "description": "Flipped classroom • What's your name? (Cycle 1)"
@@ -40,25 +36,30 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
-              "text": "Mr. (Single or married male)"
+              "block": [
+                {
+                  "text": "Mr. (Single or married male)"
+                },
+                { "breakLine": true },
+                {
+                  "text": "Mr. (Single or married male)"
+                }
+              ]
             },
-            { "breakLine": true },
             {
-              "text": "Mr. (Single or married male)"
-            }
-          ],
-          "breakLine": true,
-          "ptText": [
-            {
-              "text": "Senhor"
-            },
-            { "breakLine": true },
-            {
-              "text": "Senhor"
+              "block": [
+                {
+                  "text": "Senhor"
+                },
+                { "breakLine": true },
+                {
+                  "text": "Senhor"
+                }
+              ]
             }
           ]
         }

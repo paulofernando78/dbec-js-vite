@@ -2,25 +2,28 @@
   "whiteboard": {
     "title": "Courses",
     "descriptions": [
-      { "icon": "book",
-        "description": "Beginner"
-      },
+      { "icon": "book", "description": "Beginner" },
       {
         "icon": "page",
         "description": "Lesson 25"
       },
       {
-        "icon": "presentation", "description": "Classwork • What sports do you like? (Cycle 1)"
+        "icon": "presentation",
+        "description": "Classwork • What sports do you like? (Cycle 1)"
       }
     ]
   },
   "contents": [
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
-              "boldText": "Under construction..."
+              "block": [
+                {
+                  "boldText": "Under construction..."
+                }
+              ]
             }
           ]
         }

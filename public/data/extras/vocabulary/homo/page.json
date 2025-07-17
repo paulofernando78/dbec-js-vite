@@ -19,9 +19,9 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
               "text": "A "
             },
@@ -52,7 +52,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "bass "
             },
@@ -68,7 +68,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "bass "
             },
@@ -84,7 +84,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "lead "
             },
@@ -100,7 +100,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "lead "
             },
@@ -119,7 +119,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "wind "
             },
@@ -135,7 +135,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "wind "
             },
@@ -161,9 +161,9 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
               "text": "A "
             },
@@ -194,7 +194,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "flower "
             },
@@ -210,7 +210,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "flour "
             },
@@ -226,7 +226,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "plane "
             },
@@ -242,7 +242,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "plain "
             },
@@ -258,7 +258,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "pray "
             },
@@ -274,7 +274,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "prey "
             },
@@ -290,7 +290,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "they’re "
             },
@@ -306,7 +306,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "their "
             },
@@ -322,7 +322,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "there "
             },
@@ -338,7 +338,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "to "
             },
@@ -354,7 +354,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "two "
             },
@@ -370,7 +370,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "too "
             },
@@ -396,9 +396,9 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
               "text": "A "
             },
@@ -411,7 +411,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "... "
             },
@@ -430,7 +430,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "... "
             },

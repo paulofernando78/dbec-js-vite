@@ -33,11 +33,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/cover.avif",
           "imgAlt": "A new zealand adventure cover",
-          "paragraph": [
+          "imgPosition": "left",
+          "blocks": [
             {
               "block": [
                 {
@@ -62,12 +63,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-1.avif",
           "imgAlt": "A new zealand adventure cover",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -88,12 +89,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-2.avif",
           "imgAlt": "Paragraph 2 image",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -114,12 +115,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-3.avif",
           "imgAlt": "Paragraph 3 image",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -140,12 +141,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-4.avif",
           "imgAlt": "Paragraph 4 image",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -166,12 +167,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-5.avif",
           "imgAlt": "Paragraph 5 image",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -192,12 +193,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-6.avif",
           "imgAlt": "Paragraph 6 image",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -218,12 +219,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-7.avif",
           "imgAlt": "Paragraph 7 image",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -244,12 +245,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-8.avif",
           "imgAlt": "Paragraph 8 image",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -270,12 +271,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-9.avif",
           "imgAlt": "Paragraph 9 image",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -296,12 +297,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-10.avif",
           "imgAlt": "Paragraph 10 image",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -322,12 +323,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-11.avif",
           "imgAlt": "Paragraph 11 image",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -348,12 +349,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-12.avif",
           "imgAlt": "Paragraph 12 image",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -374,12 +375,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-13.avif",
           "imgAlt": "Paragraph 13 image",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -400,12 +401,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-14.avif",
           "imgAlt": "Paragraph 14 image",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {

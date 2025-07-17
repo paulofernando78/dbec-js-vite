@@ -4,11 +4,12 @@
     "subtitle": "Intermediate",
     "descriptions": [
       {
-        {"icon": "page",
+        "icon": "page",
         "description": "Lesson 43"
       },
       {
-        "icon": "presentation", "description": "Classwork"
+        "icon": "presentation",
+        "description": "Classwork"
       },
       {
         "description": "Review lessons 23-41 + Test"
@@ -17,11 +18,15 @@
   },
   "contents": [
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
-              "boldText": "Under construction..."
+              "block": [
+                {
+                  "boldText": "Under construction..."
+                }
+              ]
             }
           ]
         }

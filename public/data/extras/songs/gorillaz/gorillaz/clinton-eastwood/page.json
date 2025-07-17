@@ -4,19 +4,19 @@
     "subtitle": "Songs",
     "descriptions": [
       {
-        "icon":	"songs",
+        "icon": "songs",
         "description": "GSongs"
       },
       {
-        "icon":	"artist",
+        "icon": "artist",
         "description": "Gorillaz"
       },
       {
-        "icon":	"album",
+        "icon": "album",
         "description": "Gorillaz"
       },
       {
-        "icon":	"lyrics",
+        "icon": "lyrics",
         "description": "Clint Eastwood"
       }
     ]
@@ -29,9 +29,9 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -49,7 +49,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -60,7 +60,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -78,7 +78,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -96,7 +96,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -114,7 +114,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -132,7 +132,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -150,7 +150,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -168,7 +168,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -186,7 +186,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -204,7 +204,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -222,7 +222,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -240,7 +240,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -258,7 +258,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -276,7 +276,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -294,7 +294,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -312,7 +312,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -330,7 +330,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -348,7 +348,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -366,7 +366,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -384,7 +384,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -402,7 +402,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -420,7 +420,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -438,7 +438,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -456,7 +456,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -474,7 +474,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -485,7 +485,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -503,7 +503,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -521,7 +521,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -539,7 +539,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -557,7 +557,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -576,7 +576,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -594,7 +594,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -612,7 +612,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -630,7 +630,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -648,7 +648,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -666,7 +666,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -684,7 +684,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -702,7 +702,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -720,7 +720,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -738,7 +738,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -756,7 +756,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -774,7 +774,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -792,7 +792,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -810,7 +810,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -828,7 +828,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -846,7 +846,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -864,7 +864,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -882,7 +882,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -900,7 +900,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -918,7 +918,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -936,7 +936,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -947,7 +947,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -965,7 +965,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -983,7 +983,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -1001,7 +1001,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -1019,7 +1019,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -1030,7 +1030,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -1048,7 +1048,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {

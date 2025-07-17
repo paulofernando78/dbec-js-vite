@@ -11,17 +11,22 @@
         "description": "Lesson 2"
       },
       {
-        "icon": "assignment", "description": "Homework • Where are you from? (Cycle 1)"
+        "icon": "assignment",
+        "description": "Homework • Where are you from? (Cycle 1)"
       }
     ]
   },
   "contents": [
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
-              "boldText": "Under construction..."
+              "block": [
+                {
+                  "boldText": "Under construction..."
+                }
+              ]
             }
           ]
         }

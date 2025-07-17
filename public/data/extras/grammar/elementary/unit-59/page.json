@@ -19,11 +19,15 @@
   },
   "contents": [
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
-              "boldText": "Under construction..."
+              "block": [
+                {
+                  "boldText": "Under construction..."
+                }
+              ]
             }
           ]
         }

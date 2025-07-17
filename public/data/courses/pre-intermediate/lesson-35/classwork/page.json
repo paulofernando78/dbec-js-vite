@@ -4,7 +4,7 @@
     "subtitle": "Pre-intermediate",
     "descriptions": [
       {
-        {"icon": "page",
+        "icon": "page",
         "description": "Lesson 35"
       },
       {
@@ -17,11 +17,15 @@
   },
   "contents": [
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
-              "boldText": "Under construction..."
+              "block": [
+                {
+                  "boldText": "Under construction..."
+                }
+              ]
             }
           ]
         }

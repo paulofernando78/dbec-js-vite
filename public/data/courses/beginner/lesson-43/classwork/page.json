@@ -2,9 +2,7 @@
   "whiteboard": {
     "title": "Courses",
     "descriptions": [
-      { "icon": "book",
-        "description": "Beginner"
-      },
+      { "icon": "book", "description": "Beginner" },
       {
         "icon": "page",
         "description": "Lesson 43"
@@ -17,9 +15,9 @@
   },
   "contents": [
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
               "text": "<b>Under construction...</b>"
             }

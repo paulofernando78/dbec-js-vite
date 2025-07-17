@@ -2,25 +2,28 @@
   "whiteboard": {
     "title": "Courses",
     "descriptions": [
-      { "icon": "book",
-        "description": "Beginner"
-      },
+      { "icon": "book", "description": "Beginner" },
       {
         "icon": "page",
         "description": "Lesson 20"
       },
       {
-        "icon": "page", "description": "Homework • Where do you work? (Cycle 2)"
+        "icon": "page",
+        "description": "Homework • Where do you work? (Cycle 2)"
       }
     ]
   },
   "contents": [
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
-              "boldText": "Under construction..."
+              "block": [
+                {
+                  "boldText": "Under construction..."
+                }
+              ]
             }
           ]
         }

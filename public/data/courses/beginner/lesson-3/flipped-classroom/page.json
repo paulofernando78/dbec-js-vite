@@ -2,9 +2,7 @@
   "whiteboard": {
     "title": "Courses",
     "descriptions": [
-      { "icon": "book",
-        "description": "Beginner"
-      },
+      { "icon": "book", "description": "Beginner" },
       { "icon": "page", "description": "Lesson 3" },
       {
         "icon": "eye",
@@ -14,11 +12,15 @@
   },
   "contents": [
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
-              "boldText": "Under construction..."
+              "block": [
+                {
+                  "boldText": "Under construction..."
+                }
+              ]
             }
           ]
         }

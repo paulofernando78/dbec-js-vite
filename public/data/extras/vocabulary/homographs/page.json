@@ -5,22 +5,21 @@
     "descriptions": [
       {
         "icon": "Homographs"
-
       }
     ]
   },
   "contents": [
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "Some important Homographs"
             }
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "text": "..."
             },

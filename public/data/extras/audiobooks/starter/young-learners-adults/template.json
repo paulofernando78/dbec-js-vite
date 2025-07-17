@@ -19,12 +19,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "left",
           "imgSrc": "/assets/images/extras/audiobooks/.../cover.avif",
           "imgAlt": "A new zealand adventure cover",
-          "paragraph": [
+          "blocks": [
             {
               "text": "..."
             }
@@ -47,12 +47,12 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "imgPosition": "right",
           "imgSrc": "/assets/images/extras/audiobooks/",
           "imgAlt": "Paragraph 1 image",
-          "paragraph": [
+          "blocks": [
             {
               "text": "..."
             }

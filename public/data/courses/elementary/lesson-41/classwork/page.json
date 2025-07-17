@@ -6,13 +6,11 @@
         "icon": "book",
         "description": "Elementary"
       },
-    "descriptions": [
+
+      { "icon": "page", "description": "Lesson 41" },
       {
-        {"icon": "page",
-        "description": "Lesson 41"
-      },
-      {
-        "icon": "presentation", "description": "Classwork"
+        "icon": "presentation",
+        "description": "Classwork"
       },
       {
         "description": "How have you changed? (Cycle 2)"
@@ -21,11 +19,15 @@
   },
   "contents": [
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
-              "boldText": "Under construction..."
+              "block": [
+                {
+                  "boldText": "Under construction..."
+                }
+              ]
             }
           ]
         }

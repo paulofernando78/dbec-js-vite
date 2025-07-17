@@ -6,13 +6,10 @@
         "icon": "book",
         "description": "Elementary"
       },
-    "descriptions": [
+      { "icon": "page", "description": "Lesson 21" },
       {
-        {"icon": "page",
-        "description": "Lesson 21"
-      },
-      {
-        "icon": "presentation", "description": "Classwork"
+        "icon": "presentation",
+        "description": "Classwork"
       },
       {
         "description": "Review lessons 17-20 + Quiz"
@@ -21,11 +18,15 @@
   },
   "contents": [
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
-              "boldText": "Under construction..."
+              "block": [
+                {
+                  "boldText": "Under construction..."
+                }
+              ]
             }
           ]
         }

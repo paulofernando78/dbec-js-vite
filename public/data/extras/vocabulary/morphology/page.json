@@ -10,9 +10,9 @@
   },
   "contents": [
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "Morphology"
             },
@@ -23,7 +23,7 @@
         },
         {
           ,
-          "paragraph": [
+          "blocks": [
             {
               "ptBoldText": "Morfologia"
             },
@@ -50,10 +50,10 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "linebreak": true,
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "friend ➜ friendly"
             }
@@ -61,7 +61,7 @@
         },
         {
           ,
-          "paragraph": [
+          "blocks": [
             {
               "text": "... "
             },
@@ -81,10 +81,10 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "linebreak": true,
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "achieve ➜ achievement"
             }
@@ -92,7 +92,7 @@
         },
         {
           ,
-          "paragraph": [
+          "blocks": [
             {
               "text": "... "
             },
@@ -104,10 +104,10 @@
       ]
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "linebreak": true,
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "develop ➜ developement"
             }
@@ -115,7 +115,7 @@
         },
         {
           ,
-          "paragraph": [
+          "blocks": [
             {
               "text": "... "
             },
@@ -135,10 +135,10 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
           "linebreak": true,
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "good ➜ goodness"
             }
@@ -146,7 +146,7 @@
         },
         {
           ,
-          "paragraph": [
+          "blocks": [
             {
               "text": "... "
             },
@@ -157,7 +157,7 @@
         },
         {
           "linebreak": true,
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "happy ➜ happiness"
             }
@@ -165,7 +165,7 @@
         },
         {
           ,
-          "paragraph": [
+          "blocks": [
             {
               "text": "... "
             },
@@ -175,7 +175,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "nothing ➜ nothingness"
             }
@@ -183,7 +183,7 @@
         },
         {
           ,
-          "paragraph": [
+          "blocks": [
             {
               "text": "... "
             },
@@ -194,7 +194,7 @@
         },
         {
           "linebreak": true,
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "sad ➜ sadness"
             }
@@ -202,7 +202,7 @@
         },
         {
           ,
-          "paragraph": [
+          "blocks": [
             {
               "text": "... "
             },
@@ -228,9 +228,9 @@
       }
     },
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "broad ➜ abroad"
             }
@@ -238,7 +238,7 @@
         },
         {
           ,
-          "paragraph": [
+          "blocks": [
             {
               "text": "... "
             },
@@ -248,7 +248,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "boldText": "wait ➜ await"
             },
@@ -259,7 +259,7 @@
         },
         {
           ,
-          "paragraph": [
+          "blocks": [
             {
               "text": "... "
             },
