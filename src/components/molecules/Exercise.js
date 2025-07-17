@@ -26,17 +26,17 @@ class Exercise extends HTMLElement {
       }
 
       if (section.radioExercises) {
-        console.log("Recebido?:", section.radioExercises);
+        // console.log("Recebido?:", section.radioExercises);
         this._renderRadioExercises(section.radioExercises, idx);
       }
 
       if (section.checkboxExercises) {
-        console.log("Recebido?:", section.checkboxExercises);
+        // console.log("Recebido?:", section.checkboxExercises);
         this._renderCheckboxExercises(section.checkboxExercises, idx);
       }
 
       if (section.dropdownExercises) {
-        console.log("Recebido?:", section.dropdownExercises);
+        // console.log("Recebido?:", section.dropdownExercises);
         this._renderDropdownExercises(section.dropdownExercises, idx);
       }
 

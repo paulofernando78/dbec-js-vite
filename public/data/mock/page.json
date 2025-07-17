@@ -62,6 +62,7 @@
       }
     },
     {
+      "flex": true,
       "paragraphs": [
         {
           "imgSrc": "/assets/images/general/cat-1.jpg",
@@ -135,7 +136,7 @@
         {
           "imgSrc": "/assets/images/general/cat-4.jpg",
           "imgAlt": "imgAlt",
-          "imgWidth": "150px",
+          "imgWidth": "200px",
           "imgPosition": "bottom",
           "paragraph": [
             {

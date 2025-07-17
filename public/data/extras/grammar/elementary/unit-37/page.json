@@ -28,29 +28,51 @@
     },
 
     {
+      "flex": true,
       "paragraphs": [
         {
-          "imgSrc": "/assets/images/general/cat1.jpg",
+          "imgSrc": "/assets/images/general/a-man-on-the-roof.avif",
           "imgAlt": "imgAlt",
           "paragraph": [
             {
               "block": [
                 {
-                  "text": "There's a man on the roof."
+                  "text": "There’s a man on the roof. "
+                },
+                {
+                  "ptText": "Há um homem no telhado."
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "imgSrc": "/assets/images/general/train-schedule.avif",
+          "imgAlt": "imgAlt",
+          "paragraph": [
             {
               "block": [
                 {
-                  "text": "There's a train at 10:30."
+                  "text": "There’s a train at 10:30. "
+                },
+                {
+                  "ptText": "Há um trem às 10:30."
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "imgSrc": "/assets/images/general/week-weekend-days.avif",
+          "imgAlt": "imgAlt",
+          "paragraph": [
             {
               "block": [
                 {
-                  "text": "There are seven days in a week."
+                  "text": "There are seven days in a week. "
+                },
+                {
+                  "ptText": "Há 7 dias na semana."
                 }
               ]
             }
@@ -58,7 +80,6 @@
         }
       ]
     },
-
     {
       "paragraphs": [
         {
@@ -68,7 +89,8 @@
                 {
                   "boldText": "Singular"
                 }
-              ]
+              ],
+              "lineBreak": true
             }
           ]
         },
@@ -77,35 +99,32 @@
             {
               "block": [
                 {
-                  "text": "there is... (there's)"
+                  "text": "➕ there is... (there’s)"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "there is not... (there isn't or there's not)"
+                  "text": "➖ there is not... (there isn’t or there’s not)"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "is there... ?"
+                  "text": "❓ is there... ?"
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "paragraph": [
+              ],
+              "lineBreak": true
+            },
             {
               "block": [
                 {
                   "text": "◦ "
                 },
                 {
-                  "markedText": "There's"
+                  "markedText": "There’s"
                 },
                 {
                   "text": " a big tree in the yard."
@@ -118,7 +137,7 @@
                   "text": "◦ "
                 },
                 {
-                  "markedText": "There's"
+                  "markedText": "There’s"
                 },
                 {
                   "text": " nothing on TV tonight."
@@ -141,7 +160,7 @@
                   "text": " B: Yes, "
                 },
                 {
-                  "markedText": "there's"
+                  "markedText": "there’s"
                 },
                 {
                   "text": " some in my wallet."
@@ -176,7 +195,7 @@
                   "text": " / No,"
                 },
                 {
-                  "markedText": " there isn't"
+                  "markedText": " there isn’t"
                 },
                 {
                   "text": "."
@@ -189,15 +208,16 @@
                   "text": "◦ "
                 },
                 {
-                  "text": "We can't go skiing."
+                  "text": "We can’t go skiing."
                 },
                 {
-                  "markedText": "There isn't"
+                  "markedText": "There isn’t"
                 },
                 {
                   "text": " any snow."
                 }
-              ]
+              ],
+              "lineBreak": true
             }
           ]
         },
@@ -208,7 +228,8 @@
                 {
                   "boldText": "plural"
                 }
-              ]
+              ],
+              "lineBreak": true
             }
           ]
         },
@@ -224,7 +245,7 @@
             {
               "block": [
                 {
-                  "text": "there are not... (there aren't"
+                  "text": "there are not... (there aren’t"
                 }
               ]
             },
@@ -232,6 +253,104 @@
               "block": [
                 {
                   "text": "are there... ?"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "◦ "
+                },
+                {
+                  "markedText": "There are"
+                },
+                {
+                  "text": " some big trees in the yard."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "◦ "
+                },
+                {
+                  "markedText": "There are"
+                },
+                {
+                  "text": " a lot of accidents on this road."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "◦ A: "
+                },
+                {
+                  "markedText": "Are there"
+                },
+                {
+                  "text": " any restaurants near here?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "B: Yes, "
+                },
+                {
+                  "markedText": "there are"
+                },
+                {
+                  "text": ". / No, "
+                },
+                {
+                  "markedText": "there aren’t"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "◦ This restaurant is very quiet. "
+                },
+                {
+                  "markedText": "There aren’t"
+                },
+                {
+                  "text": " many people here."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "◦ A: How many players "
+                },
+                {
+                  "markedText": "are there"
+                },
+                {
+                  "text": " on a soccer team?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "B: "
+                },
+                {
+                  "markedText": "There are"
+                },
+                {
+                  "text": " 11 players on a soccer team."
                 }
               ]
             }
@@ -262,26 +381,19 @@
                 {
                   "boldText": "it is"
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "paragraph": [
+              ],
+              "lineBreak": true
+            },
             {
               "block": [
                 {
-                  "boldText": "There's "
+                  "boldText": "There’s "
                 },
                 {
                   "text": "a book on the table"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "paragraph": [
+            },
             {
               "block": [
                 {
@@ -291,19 +403,11 @@
                   "markedText": "this book."
                 },
                 {
-                  "boldText": " It's "
+                  "boldText": " It’s "
                 },
                 {
-                  "text": "interesting."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "paragraph": [
-            {
-              "block": [
+                  "text": "interesting. "
+                },
                 {
                   "text": "("
                 },
@@ -313,27 +417,21 @@
                 {
                   "text": "= book)"
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "paragraph": [
+              ],
+              "lineBreak": true
+            },
             {
               "block": [
                 {
                   "boldText": "Compare:"
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "paragraph": [
+              ],
+              "lineBreak": true
+            },
             {
               "block": [
                 {
-                  "text": "◦ What's "
+                  "text": "◦ A: What’s "
                 },
                 {
                   "boldText": "that noise? "
@@ -343,10 +441,13 @@
             {
               "block": [
                 {
+                  "text": "B: "
+                },
+                {
                   "boldText": "It"
                 },
                 {
-                  "text": "'s a train. "
+                  "text": "’s a train. "
                 },
                 {
                   "text": "("
@@ -357,29 +458,26 @@
                 {
                   "text": "= that noise)"
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "paragraph": [
+              ],
+              "lineBreak": true
+            },
             {
               "block": [
                 {
                   "text": "◦ "
                 },
                 {
-                  "boldText": "There's "
+                  "boldText": "There’s "
                 },
                 {
-                  "text": "a lot of salt soup."
+                  "text": "a lot of salt soup. "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "I don't like "
+                  "text": "I don’t like "
                 },
                 {
                   "boldText": "this soup. "
@@ -388,7 +486,7 @@
                   "boldText": "It"
                 },
                 {
-                  "text": "'s too salty. "
+                  "text": "’s too salty. "
                 },
                 {
                   "text": "("

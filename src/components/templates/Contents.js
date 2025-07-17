@@ -24,6 +24,20 @@ class Contents extends HTMLElement {
         flex-wrap: wrap;
         gap: 10px
       }
+
+      .paragraph-flex {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, 250px);
+        justify-content: center;
+        gap: 10px
+      }
+
+      @media () {
+        .paragraph-flex {
+        display: grid;
+        grid-template-columns: 1fr;
+      }
+      }
     `;
     this.shadowRoot.appendChild(css);
   }
@@ -59,17 +73,24 @@ class Contents extends HTMLElement {
 
       // Paragraph
       if (section.paragraphs) {
+        const wrapper = document.createElement("div");
+        if (section.flex) {
+          wrapper.classList.add("paragraph-flex");
+        }
+
         section.paragraphs.forEach((p) => {
           const paragraph = document.createElement("wc-paragraph");
           paragraph.data = p;
-          contentContainer.appendChild(paragraph);
+          wrapper.appendChild(paragraph);
         });
+
+        contentContainer.appendChild(wrapper);
       }
 
       //Image
       if (section.images) {
         const imageWrapper = document.createElement("div");
-      imageWrapper.classList.add("image-wrapper");
+        imageWrapper.classList.add("image-wrapper");
 
         section.images.forEach((img) => {
           const image = document.createElement("wc-image");

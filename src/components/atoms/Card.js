@@ -99,7 +99,6 @@ class Card extends HTMLElement {
     });
 
     container.appendChild(innerCard);
-    container.style.marginBottom = "var(--line-break)";
 
     this.shadowRoot.appendChild(container);
   }
