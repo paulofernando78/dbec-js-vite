@@ -1,18 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Pre-intermediate",
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Pre-Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 3"
       },
       {
-        "icon": "presentation",
-        "description": "Classwork"
-      },
-      {
-        "description": "Good memories (Cycle 2)"
+        "icon": "classwork",
+        "description": "Classwork • Good memories (Cycle 2)"
       }
     ]
   },

@@ -1,18 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 8"
       },
       {
-        "icon": "page",
-        "description": "Homework •"
-      },
-      {
-        "description": "Lend a hand (Cycle 2)"
+        "icon": "homework",
+        "description": "Homework • Lend a hand (Cycle 2)"
       }
     ]
   },

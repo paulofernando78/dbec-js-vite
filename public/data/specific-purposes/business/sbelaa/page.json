@@ -36,7 +36,7 @@
                 "label": "Talking about a new project"
               },
               {
-                "icon": "assignment",
+                "icon": "homework",
                 "link": "/specific-purposes/business/sbelaa/lesson-1/practice",
                 "label": "Practice"
               }
@@ -64,7 +64,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-2",
                 "label": "Talking about financial issues"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-2/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-2/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -89,7 +93,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-3",
                 "label": "Discussing a new ad campaign"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-3/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-3/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -114,7 +122,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-4",
                 "label": "Talking about manufacturing"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-4/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-4/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -139,7 +151,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-5",
                 "label": "Talking about company strategy"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-5/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-5/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -170,7 +186,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-6",
                 "label": "Discussing good results"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-6/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-6/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -195,7 +215,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-7",
                 "label": "Discussing bad results"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-7/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-7/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -220,7 +244,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-8",
                 "label": "Discussing a difficult decision"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-8/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-8/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -245,7 +273,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-9",
                 "label": "Dealing with a dissastified customer"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-9/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-9/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -270,7 +302,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-10",
                 "label": "Discussing a difficult request"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-10/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-10/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -301,7 +337,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-11",
                 "label": "Motivating Co-Workers"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-11/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-11/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -326,7 +366,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-12",
                 "label": "Running a meeting"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-12/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-12/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -351,7 +395,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-13",
                 "label": "Discussing A Mistake"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-13/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-13/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -376,7 +424,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-14",
                 "label": "Taking Credit For Good Results"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-14/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-14/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -401,7 +453,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-15",
                 "label": "Shifting Blame"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-15/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-15/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -432,7 +488,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-16",
                 "label": "Politely Disagreeing With Someone"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-16/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-16/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -457,7 +517,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-17",
                 "label": "Telling Somebody Off"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-17/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-17/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -482,7 +546,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-18",
                 "label": "Discussing Office Scandals"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-18/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-18/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -507,7 +575,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-19",
                 "label": "Complaining About A Co-Worker"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-19/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-19/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -532,9 +604,10 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-20",
                 "label": "Talking About A Brown Noser"
               },
-              { "icon": "assignment",
+              {
+                "icon": "homework",
                 "link": "/specific-purposes/business/sbelaa/lesson-20/practice",
-               "label": "Practice"
+                "label": "Practice"
               }
             ]
           }
@@ -566,7 +639,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-21",
                 "label": "Explaining That You're Feeling Overworked"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-21/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-21/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -591,7 +668,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-22",
                 "label": "Calling In Sick"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-22/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-22/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -616,7 +697,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-23",
                 "label": "Requesting A Bank Loan"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-23/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-23/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -641,7 +726,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-24",
                 "label": "Negotiating A Purchase"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-24/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-24/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -666,7 +755,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-25",
                 "label": "Conducting A Performance Review"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-1/practice25", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-1/practice25",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -697,7 +790,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-26",
                 "label": "Promoting An Employee"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-26/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-26/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -722,7 +819,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-27",
                 "label": "Firing Somebody"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-1/practice27", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-1/practice27",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -747,7 +848,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-28",
                 "label": "Job Interview 1"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-28/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-28/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -772,7 +877,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-29",
                 "label": "Job Interview 2"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-1/practice29", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-1/practice29",
+                "label": "Practice"
+              }
             ]
           }
         ]
@@ -797,7 +906,11 @@
                 "link": "/specific-purposes/business/sbelaa/lesson-30",
                 "label": "Negotiating a Salary Offer"
               },
-              { "icon": "assignment", "link": "/specific-purposes/business/sbelaa/lesson-30/practice", "label": "Practice" }
+              {
+                "icon": "homework",
+                "link": "/specific-purposes/business/sbelaa/lesson-30/practice",
+                "label": "Practice"
+              }
             ]
           }
         ]

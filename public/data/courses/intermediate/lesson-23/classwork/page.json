@@ -1,18 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 23"
       },
       {
-        "icon": "presentation",
-        "description": "Classwork"
-      },
-      {
-        "description": "Getting things done? (Cycle 1)"
+        "icon": "classwork",
+        "description": "Classwork • Getting things done? (Cycle 1)"
       }
     ]
   },

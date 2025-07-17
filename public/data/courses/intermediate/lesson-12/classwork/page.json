@@ -1,18 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 12"
       },
       {
-        "icon": "presentation",
-        "description": "Classwork"
-      },
-      {
-        "description": "Expanding your horizons (Cycle 1)"
+        "icon": "classwork",
+        "description": "Classwork • Expanding your horizons (Cycle 1)"
       }
     ]
   },

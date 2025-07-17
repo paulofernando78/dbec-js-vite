@@ -1,17 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Pre-intermediate",
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Pre-Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 9"
       },
       {
-        "icon": "page", "description": "Homework •"
-      },
-      {
-        "description": "Have you ever tried it? (Cycle 1)"
+        "icon": "homework",
+        "description": "Homework • Have you ever tried it? (Cycle 1)"
       }
     ]
   },

@@ -1,18 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 35"
       },
       {
-        "icon": "presentation",
-        "description": "Classwork"
-      },
-      {
-        "description": "Creative carrers (Cycle 1)"
+        "icon": "classwork",
+        "description": "Classwork • Creative carrers (Cycle 1)"
       }
     ]
   },

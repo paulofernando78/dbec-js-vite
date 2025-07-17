@@ -1,18 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 2"
       },
       {
-        "icon": "page",
-        "description": "Homework •"
-      },
-      {
-        "description": "That's my kind of friend! (Cycle 1)"
+        "icon": "homework",
+        "description": "Homework • That's my kind of friend! (Cycle 1)"
       }
     ]
   },

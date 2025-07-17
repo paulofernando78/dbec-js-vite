@@ -12,7 +12,7 @@
         "description": "Lesson 9 • Dealing with a dissastified customer"
       },
       {
-        "icon": "assignment",
+        "icon": "homework",
         "description": "Practice"
       }
     ]
@@ -31,10 +31,10 @@
                   "text": "1. You promised you'd do a great job re-designing our website, but you didn't "
                 },
                 {
-                  "markedText":	"deliver"
+                  "markedText": "deliver"
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
               ],
               "options": [
@@ -58,10 +58,10 @@
                   "text": "2. I'm not sure I'll be able to join you for drinks at 5:30. I'm "
                 },
                 {
-                  "markedText":	"swamped"
+                  "markedText": "swamped"
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
               ],
               "options": [
@@ -85,10 +85,10 @@
                   "text": "3. The proposal is due by Friday? I'll "
                 },
                 {
-                  "markedText":	"get right on it"
+                  "markedText": "get right on it"
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
               ],
               "options": [
@@ -112,10 +112,10 @@
                   "text": "4. Don't try to "
                 },
                 {
-                  "markedText":	"pull the wool over my eyes"
+                  "markedText": "pull the wool over my eyes"
                 },
                 {
-                  "text":	". I know you are Suzi were involved in an office romance."
+                  "text": ". I know you are Suzi were involved in an office romance."
                 }
               ],
               "options": [
@@ -139,10 +139,10 @@
                   "text": "5. Sorry you had to work during your vacation. Let me "
                 },
                 {
-                  "markedText":	"make it up to you"
+                  "markedText": "make it up to you"
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
               ],
               "options": [
@@ -166,10 +166,10 @@
                   "text": "6. Let's stop "
                 },
                 {
-                  "markedText":	"messing around"
+                  "markedText": "messing around"
                 },
                 {
-                  "text":	". We need to get our new product launched next month."
+                  "text": ". We need to get our new product launched next month."
                 }
               ],
               "options": [
@@ -193,10 +193,10 @@
                   "text": "7. We paid a "
                 },
                 {
-                  "markedText":	"pretty penny"
+                  "markedText": "pretty penny"
                 },
                 {
-                  "text":	" for this new payroll software."
+                  "text": " for this new payroll software."
                 }
               ],
               "options": [
@@ -220,10 +220,10 @@
                   "text": "8. We "
                 },
                 {
-                  "markedText":	"pulled out all the stops"
+                  "markedText": "pulled out all the stops"
                 },
                 {
-                  "text":	" to get Chad to accept our job offer."
+                  "text": " to get Chad to accept our job offer."
                 }
               ],
               "options": [

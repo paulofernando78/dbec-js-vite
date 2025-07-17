@@ -1,18 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 39"
       },
       {
-        "icon": "presentation",
-        "description": "Classwork"
-      },
-      {
-        "description": "A law must be passed! (Cycle 2)"
+        "icon": "classwork",
+        "description": "Classwork • A law must be passed! (Cycle 2)"
       }
     ]
   },

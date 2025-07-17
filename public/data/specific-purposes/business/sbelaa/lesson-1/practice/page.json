@@ -12,7 +12,7 @@
         "description": "Lesson 1 • Talking about a new project"
       },
       {
-        "icon": "assignment",
+        "icon": "homework",
         "description": "Practice"
       }
     ]
@@ -193,10 +193,10 @@
                   "text": "7. Don's new cell phone has a video camera and all sorts of other "
                 },
                 {
-                  "markedText":	"bells and whistles."
+                  "markedText": "bells and whistles."
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
               ],
               "options": [
@@ -220,10 +220,10 @@
                   "text": "8. When investors "
                 },
                 {
-                  "markedText":	"got wind of"
+                  "markedText": "got wind of"
                 },
                 {
-                  "text":	" the fact that the pharmaceutical company's major drug increased the risk of heart attacks, the company's stock price fell."
+                  "text": " the fact that the pharmaceutical company's major drug increased the risk of heart attacks, the company's stock price fell."
                 }
               ],
               "options": [

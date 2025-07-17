@@ -1,18 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 28"
       },
       {
-        "icon": "presentation",
-        "description": "Classwork"
-      },
-      {
-        "description": "Rites of passage (Cycle 1)"
+        "icon": "classwork",
+        "description": "Classwork • Rites of passage (Cycle 1)"
       }
     ]
   },

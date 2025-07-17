@@ -1,18 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 40"
       },
       {
-        "icon": "presentation",
-        "description": "Classwork"
-      },
-      {
-        "description": "Reaching your goals (Cycle 1)"
+        "icon": "classwork",
+        "description": "Classwork • Reaching your goals (Cycle 1)"
       }
     ]
   },

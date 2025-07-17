@@ -12,7 +12,7 @@
         "description": "Lesson 7 • Discussing bad results"
       },
       {
-        "icon": "assignment",
+        "icon": "homework",
         "description": "Practice"
       }
     ]
@@ -31,10 +31,10 @@
                   "text": "1. These past few years our company has been "
                 },
                 {
-                  "markedText":	"running in place"
+                  "markedText": "running in place"
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
               ],
               "options": [
@@ -58,10 +58,10 @@
                   "text": "2. “I hope Todd doesn't get promoted to sales director.” - "
                 },
                 {
-                  "markedText":	"“You took the words right out of my mouth”"
+                  "markedText": "“You took the words right out of my mouth”"
                 },
                 {
-                  "text":	"!"
+                  "text": "!"
                 }
               ],
               "options": [
@@ -85,10 +85,10 @@
                   "text": "3. Some "
                 },
                 {
-                  "markedText":	"new blood"
+                  "markedText": "new blood"
                 },
                 {
-                  "text":	" would really help our company."
+                  "text": " would really help our company."
                 }
               ],
               "options": [
@@ -112,10 +112,10 @@
                   "text": "4. Apple has really been able to "
                 },
                 {
-                  "markedText":	"cash in on"
+                  "markedText": "cash in on"
                 },
                 {
-                  "text":	" the demand for mobile computing."
+                  "text": " the demand for mobile computing."
                 }
               ],
               "options": [
@@ -139,10 +139,10 @@
                   "text": "5. "
                 },
                 {
-                  "markedText":	"No wonder"
+                  "markedText": "No wonder"
                 },
                 {
-                  "text":	" Wei is having trouble getting a job in the United States. His accent is really strong."
+                  "text": " Wei is having trouble getting a job in the United States. His accent is really strong."
                 }
               ],
               "options": [
@@ -166,10 +166,10 @@
                   "text": "6. After another bad quarter, our CEO announced plans to "
                 },
                 {
-                  "markedText":	"clean house"
+                  "markedText": "clean house"
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
               ],
               "options": [
@@ -193,10 +193,10 @@
                   "text": "7. Why are so many of our employees arriving late to work? We need to "
                 },
                 {
-                  "markedText":	"get to the bottom of it"
+                  "markedText": "get to the bottom of it"
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
               ],
               "options": [
@@ -220,10 +220,10 @@
                   "text": "8. Last year we had revenues "
                 },
                 {
-                  "markedText":	"to the tune of"
+                  "markedText": "to the tune of"
                 },
                 {
-                  "text":	" $2million."
+                  "text": " $2million."
                 }
               ],
               "options": [

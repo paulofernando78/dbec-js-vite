@@ -1,17 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Pre-intermediate",
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Pre-Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 10"
       },
       {
-        "description": "Flipped classroom"
-      },
-      {
-        "description": "Have you ever tried it? (Cycle 2)"
+        "icon": "eye",
+        "description": "Flipped classroom • Have you ever tried it? (Cycle 2)"
       }
     ]
   },

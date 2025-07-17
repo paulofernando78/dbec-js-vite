@@ -1,18 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 25"
       },
       {
-        "icon": "page",
-        "description": "Homework •"
-      },
-      {
-        "description": "A matter of time (Cycle 1)"
+        "icon": "homework",
+        "description": "Homework • A matter of time (Cycle 1)"
       }
     ]
   },
