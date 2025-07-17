@@ -1,14 +1,15 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Intermediate",
+
     "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 10"
       },
       {
-        "icon": "presentation", "description": "Classwork"
+        "icon": "presentation",
+        "description": "Classwork"
       },
       {
         "description": "What happened? (Cycle 2)"

@@ -1,17 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Intermediate",
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 14"
       },
       {
-        "description": "Flipped classroom"
-      },
-      {
-        "description": "That needs fixing (Cycle 1)"
+        "icon": "eye",
+        "description": "Flipped classroom • That needs fixing (Cycle 1)"
       }
     ]
   },

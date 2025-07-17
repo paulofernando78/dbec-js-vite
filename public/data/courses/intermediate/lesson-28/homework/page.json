@@ -1,14 +1,15 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Intermediate",
+
     "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 28"
       },
       {
-        "icon": "page", "description": "Homework •"
+        "icon": "page",
+        "description": "Homework •"
       },
       {
         "description": "Rites of passage (Cycle 1)"

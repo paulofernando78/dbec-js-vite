@@ -1,14 +1,15 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Intermediate",
+
     "descriptions": [
       {
         "icon": "page",
         "description": "Lesson 12"
       },
       {
-        "icon": "presentation", "description": "Classwork"
+        "icon": "presentation",
+        "description": "Classwork"
       },
       {
         "description": "Expanding your horizons (Cycle 1)"

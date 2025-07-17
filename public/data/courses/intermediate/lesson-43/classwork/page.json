@@ -1,18 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Intermediate",
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 43"
       },
       {
         "icon": "presentation",
-        "description": "Classwork"
-      },
-      {
-        "description": "Review lessons 23-41 + Test"
+        "description": "Classwork • Review lessons 23-41 + Test"
       }
     ]
   },

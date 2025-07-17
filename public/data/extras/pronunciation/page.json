@@ -1,7 +1,12 @@
 {
   "whiteboard": {
     "title": "Extras",
-    "subtitle": "Pronunciation"
+    "descriptions": [
+      {
+        "icon":	"pronunciation",
+        "description": "Pronunciation"
+      }
+    ]
   },
   "contents": [
     {
@@ -22,7 +27,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "pages",
+        "icon": "links",
         "label": "Sites",
         "descriptions": [
           {

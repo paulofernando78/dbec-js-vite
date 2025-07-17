@@ -8,10 +8,8 @@
       },
       { "icon": "page", "description": "Lesson 8" },
       {
-        "description": "Flipped classroom"
-      },
-      {
-        "description": "How much are these? (Cycle 2)"
+        "icon": "eye",
+        "description": "Flipped classroom • How much are these? (Cycle 2)"
       }
     ]
   },
