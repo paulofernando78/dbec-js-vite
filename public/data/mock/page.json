@@ -58,18 +58,17 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraphs + Image top / right / left"
+        "label": "Blocks + Image top / right / left"
       }
     },
     {
-      "flex": true,
-      "paragraphs": [
+      "text": [
         {
           "imgSrc": "/assets/images/general/cat-1.jpg",
           "imgAlt": "imgAlt",
           "imgWidth": "200px",
           "imgPosition": "top",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -93,19 +92,16 @@
                 {
                   "ptText": "ptText"
                 }
-              ]
+              ],
+              "lineBreak": true
             }
           ]
-        }
-      ]
-    },
-    {
-      "paragraphs": [
+        },
         {
           "imgSrc": "/assets/images/general/cat-2.jpg",
           "imgAlt": "imgAlt",
           "imgPosition": "right",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -129,16 +125,17 @@
                 {
                   "ptText": "ptText"
                 }
-              ]
+              ],
+              "lineBreak": true
             }
           ]
         },
         {
-          "imgSrc": "/assets/images/general/cat-4.jpg",
+          "imgSrc": "/assets/images/general/cat-3.jpg",
           "imgAlt": "imgAlt",
           "imgWidth": "200px",
           "imgPosition": "bottom",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -162,15 +159,16 @@
                 {
                   "ptText": "ptText"
                 }
-              ]
+              ],
+              "lineBreak": true
             }
           ]
         },
         {
-          "imgSrc": "/assets/images/general/cat-3.jpg",
+          "imgSrc": "/assets/images/general/cat-4.jpg",
           "imgAlt": "imgAlt",
           "imgPosition": "left",
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -201,12 +199,12 @@
       ]
     },
     {
-      "ribbon": { "icon": "snippet", "label": "Paragraph only" }
+      "ribbon": { "icon": "snippet", "label": "blocks only" }
     },
     {
-      "paragraphs": [
+      "text": [
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {
@@ -260,7 +258,7 @@
           ]
         },
         {
-          "paragraph": [
+          "blocks": [
             {
               "block": [
                 {

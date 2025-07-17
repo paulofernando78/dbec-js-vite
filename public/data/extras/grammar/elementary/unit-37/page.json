@@ -89,8 +89,7 @@
                 {
                   "boldText": "Singular"
                 }
-              ],
-              "lineBreak": true
+              ]
             }
           ]
         },
@@ -115,8 +114,7 @@
                 {
                   "text": "❓ is there... ?"
                 }
-              ],
-              "lineBreak": true
+              ]
             },
             {
               "block": [
@@ -216,8 +214,7 @@
                 {
                   "text": " any snow."
                 }
-              ],
-              "lineBreak": true
+              ]
             }
           ]
         },
@@ -228,8 +225,7 @@
                 {
                   "boldText": "plural"
                 }
-              ],
-              "lineBreak": true
+              ]
             }
           ]
         },
@@ -254,8 +250,7 @@
                 {
                   "text": "are there... ?"
                 }
-              ],
-              "lineBreak": true
+              ]
             },
             {
               "block": [
@@ -381,8 +376,7 @@
                 {
                   "boldText": "it is"
                 }
-              ],
-              "lineBreak": true
+              ]
             },
             {
               "block": [
@@ -417,16 +411,14 @@
                 {
                   "text": "= book)"
                 }
-              ],
-              "lineBreak": true
+              ]
             },
             {
               "block": [
                 {
                   "boldText": "Compare:"
                 }
-              ],
-              "lineBreak": true
+              ]
             },
             {
               "block": [
@@ -458,8 +450,7 @@
                 {
                   "text": "= that noise)"
                 }
-              ],
-              "lineBreak": true
+              ]
             },
             {
               "block": [

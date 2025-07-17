@@ -1,6 +1,6 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-class Paragraph extends HTMLElement {
+class Text extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -56,98 +56,107 @@ class Paragraph extends HTMLElement {
     `;
 
     this.container = document.createElement("div");
+    // this.container.style.marginBottom = "var(--line-break)";
     this.image = document.createElement("wc-image");
 
     this.shadowRoot.append(css, this.container);
   }
 
-  set data(paragraph) {
-    this.render(paragraph);
+  set data(block) {
+    this.render(block);
   }
 
-  render(paragraph) {
-    const hasImage = paragraph.imgSrc || paragraph.imgAlt;
+  connectedCallback() {
+  // Aguarda estar conectado no DOM
+  const parent = this.parentElement;
+  const siblings = Array.from(parent?.children || []);
+  const isLast = siblings[siblings.length - 1] === this;
+  const hasMultiple = siblings.filter(el => el.tagName === "WC-TEXT").length > 1;
+
+  if (hasMultiple && !isLast) {
+    this.container.style.marginBottom = "var(--line-break)";
+  }
+}
+
+  render(block) {
+    const hasImage = block.imgSrc || block.imgAlt;
 
     if (hasImage) {
       this.image.data = {
-        src: paragraph.imgSrc || "",
-        alt: paragraph.imgAlt || "",
-        width: paragraph.imgWidth || "100%",
+        src: block.imgSrc || "",
+        alt: block.imgAlt || "",
+        width: block.imgWidth || "100%",
       };
     }
 
     const textWrapper = document.createElement("div");
 
-    paragraph.paragraph.forEach((item) => {
-      const paragraphElement = document.createElement("p");
+    block.blocks.forEach((item) => {
+      const blockElement = document.createElement("p");
 
       item.block.forEach((subItem) => {
         if (subItem.boldText) {
           const boldText = document.createElement("b");
           boldText.textContent = subItem.boldText;
-          paragraphElement.appendChild(boldText);
+          blockElement.appendChild(boldText);
         }
 
         if (subItem.phonetics) {
           const phonetics = document.createElement("span");
           phonetics.textContent = subItem.phonetics;
           phonetics.classList.add("phonetics");
-          paragraphElement.appendChild(phonetics);
+          blockElement.appendChild(phonetics);
         }
 
         if (subItem.partOfSpeech) {
           const partOfSpeech = document.createElement("span");
           partOfSpeech.textContent = subItem.partOfSpeech;
           partOfSpeech.classList.add("part-of-speech");
-          paragraphElement.appendChild(partOfSpeech);
+          blockElement.appendChild(partOfSpeech);
         }
 
         if (subItem.text) {
           const text = document.createElement("span");
           text.textContent = subItem.text;
-          paragraphElement.appendChild(text);
+          blockElement.appendChild(text);
         }
 
         if (subItem.ptBoldText) {
           const ptBoldText = document.createElement("b");
           ptBoldText.textContent = subItem.ptBoldText;
           ptBoldText.style.color = "var(--gray-4)";
-          paragraphElement.appendChild(ptBoldText);
+          blockElement.appendChild(ptBoldText);
         }
 
         if (subItem.ptText) {
           const ptText = document.createElement("span");
           ptText.textContent = subItem.ptText;
           ptText.style.color = "var(--gray-4)";
-          paragraphElement.appendChild(ptText);
+          blockElement.appendChild(ptText);
         }
 
         if (subItem.markedText) {
           const mark = document.createElement("mark");
           mark.textContent = subItem.markedText;
-          paragraphElement.appendChild(mark);
+          blockElement.appendChild(mark);
         }
       });
 
-      if (item.lineBreak) {
-        paragraphElement.style.marginBottom = "var(--line-break)"
-      }
-
-      textWrapper.appendChild(paragraphElement);
+      textWrapper.appendChild(blockElement);
     });
 
-    const position = paragraph.imgPosition || "top";
+    const position = block.imgPosition || "top";
     const validPositions = ["top", "right", "bottom", "left"];
     const validPosition = validPositions.includes(position) ? position : "top";
     this.container.className = hasImage ? `img-${validPosition}` : "";
 
-    if (paragraph.imgPosition === "right") {
+    if (block.imgPosition === "right") {
       this.container.appendChild(textWrapper);
       this.container.appendChild(this.image);
-    } else if (paragraph.imgPosition === "bottom") {
+    } else if (block.imgPosition === "bottom") {
       this.container.appendChild(textWrapper);
       this.container.appendChild(this.image);
-    } else if (paragraph.imgPosition === "left") {
+    } else if (block.imgPosition === "left") {
       this.container.appendChild(this.image);
       this.container.appendChild(textWrapper);
     } else {
@@ -157,4 +166,4 @@ class Paragraph extends HTMLElement {
   }
 }
 
-export default Paragraph;
+export default Text;

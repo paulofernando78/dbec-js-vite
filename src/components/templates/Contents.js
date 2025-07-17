@@ -25,7 +25,7 @@ class Contents extends HTMLElement {
         gap: 10px
       }
 
-      .paragraph-flex {
+      .text-flex {
         display: grid;
         grid-template-columns: repeat(auto-fit, 250px);
         justify-content: center;
@@ -71,17 +71,17 @@ class Contents extends HTMLElement {
         contentContainer.appendChild(card);
       }
 
-      // Paragraph
-      if (section.paragraphs) {
+      // Text
+      if (section.text) {
         const wrapper = document.createElement("div");
         if (section.flex) {
-          wrapper.classList.add("paragraph-flex");
+          wrapper.classList.add("text-flex");
         }
 
-        section.paragraphs.forEach((p) => {
-          const paragraph = document.createElement("wc-paragraph");
-          paragraph.data = p;
-          wrapper.appendChild(paragraph);
+        section.text.forEach((t) => {
+          const text = document.createElement("wc-text");
+          text.data = t;
+          wrapper.appendChild(text);
         });
 
         contentContainer.appendChild(wrapper);

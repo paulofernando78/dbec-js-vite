@@ -4,7 +4,7 @@ import AudioPlayer from "./atoms/AudioPlayer";
 import Button from "./atoms/Button";
 import Ribbon from "./atoms/Ribbon"
 import Card from "./atoms/Card";
-import Paragraph from "./molecules/Paragraph";
+import Text from "./molecules/Text";
 import VideoPlayer from "./atoms/VideoPlayer";
 import Image from "./atoms/Image";
 
@@ -36,7 +36,7 @@ customElements.define("wc-audio-player", AudioPlayer)
 customElements.define("wc-button", Button);
 customElements.define("wc-ribbon", Ribbon);
 customElements.define("wc-card", Card)
-customElements.define("wc-paragraph", Paragraph)
+customElements.define("wc-text", Text)
 customElements.define("wc-video-player", VideoPlayer)
 customElements.define("wc-image", Image);
 
