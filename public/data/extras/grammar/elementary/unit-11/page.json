@@ -97,13 +97,13 @@
             {
               "block": [
                 {
-                  "text": "Let's take a look at some important regular "
+                  "boldText": "Let's take a look at some important regular "
                 },
                 {
                   "markedText": "(-ed)"
                 },
                 {
-                  "text": " verbs:"
+                  "boldText": " verbs:"
                 }
               ]
             }
@@ -111,7 +111,6 @@
         }
       ]
     },
-
     {
       "grid": true,
       "text": [
@@ -274,6 +273,44 @@
                 },
                 {
                   "phonetics": "/ɪd/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "◦ I brush my teeth every morning. This morning I brushed my teeth."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "◦ Tony worked in a bank from 2005 to 2011."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "◦ Yesterday it rained all morning. It stopped at lunchtime."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "◦ We enjoyed the party last night. We danced a lot and talked to a lot of people. The party ended t midnight."
                 }
               ]
             }
