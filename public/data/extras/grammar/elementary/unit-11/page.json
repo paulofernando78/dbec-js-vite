@@ -29,6 +29,7 @@
     {
       "text": [
         {
+          "card": true,
           "imgSrc": "/assets/images/general/people-watch-tv.avif",
           "imgAlt": "Two people watching TV.",
           "imgWidth": "300px",
@@ -100,7 +101,7 @@
                   "boldText": "Let's take a look at some important regular "
                 },
                 {
-                  "markedText": "(-ed)"
+                  "markedUnderlinedText": "-ed"
                 },
                 {
                   "boldText": " verbs:"
@@ -120,7 +121,7 @@
             {
               "block": [
                 {
-                  "text": "-ed sounds: "
+                  "boldText": "-ed sounds: "
                 },
                 {
                   "phonetics": "/t/"
@@ -134,10 +135,29 @@
                   "text": "ask"
                 },
                 {
-                  "boldText": " ➜ asked "
+                  "text": " ➜ ask"
                 },
                 {
-                  "phonetics": "/t/"
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "brush"
+                },
+                {
+                  "text": " ➜ brush"
+                },
+                {
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
                 }
               ]
             },
@@ -147,10 +167,29 @@
                   "text": "dance"
                 },
                 {
-                  "boldText": " ➜ danced "
+                  "text": " ➜ danc"
                 },
                 {
-                  "phonetics": "/t/"
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "talk"
+                },
+                {
+                  "text": " ➜ talk"
+                },
+                {
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
                 }
               ]
             },
@@ -160,10 +199,41 @@
                   "text": "work"
                 },
                 {
-                  "boldText": " ➜ worked "
+                  "text": " ➜ work"
                 },
                 {
-                  "phonetics": "/t/"
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "c + v + c = double last consonant:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "s"
+                },
+                {
+                  "underlinedText": "top"
+                },
+                {
+                  "text": " ➜ stopp"
+                },
+                {
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
                 }
               ]
             }
@@ -175,7 +245,7 @@
             {
               "block": [
                 {
-                  "text": "-ed sounds: "
+                  "boldText": "-ed sounds: "
                 },
                 {
                   "phonetics": "/d/"
@@ -189,10 +259,29 @@
                   "text": "clean"
                 },
                 {
-                  "boldText": " ➜ cleaned"
+                  "text": " ➜ clean"
                 },
                 {
-                  "phonetics": "/d/"
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "enjoy"
+                },
+                {
+                  "text": " ➜ enjoy"
+                },
+                {
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
                 }
               ]
             },
@@ -202,10 +291,29 @@
                   "text": "play"
                 },
                 {
-                  "boldText": " ➜ play"
+                  "text": " ➜ play"
                 },
                 {
-                  "phonetics": "/d/"
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "rain"
+                },
+                {
+                  "text": " ➜ rain"
+                },
+                {
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
                 }
               ]
             },
@@ -215,10 +323,79 @@
                   "text": "stay"
                 },
                 {
-                  "boldText": " ➜ stayed"
+                  "text": " ➜ stay"
                 },
                 {
-                  "phonetics": "/d/"
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "c + v + c = double last consonant:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "plan"
+                },
+                {
+                  "text": " ➜ plan"
+                },
+                {
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "-y preceeded by a consonant:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "cry"
+                },
+                {
+                  "text": " ➜ cr"
+                },
+                {
+                  "underlinedText": "ied"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "try"
+                },
+                {
+                  "text": " ➜ tr"
+                },
+                {
+                  "underlinedText": "ied"
+                },
+                {
+                  "phonetics": " /d/"
                 }
               ]
             }
@@ -230,7 +407,7 @@
             {
               "block": [
                 {
-                  "text": "-ed sounds: "
+                  "boldText": "-ed sounds: "
                 },
                 {
                   "phonetics": "/ɪd/"
@@ -241,25 +418,48 @@
             {
               "block": [
                 {
-                  "text": "start"
+                  "text": "end"
                 },
                 {
-                  "boldText": " ➜ started "
+                  "text": " ➜ end"
                 },
                 {
-                  "phonetics": "/ɪd/"
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /ɪd/"
                 }
               ]
-            },{
+            },
+            {
               "block": [
                 {
                   "text": "need"
                 },
                 {
-                  "boldText": " ➜ needed"
+                  "text": " ➜ need"
                 },
                 {
-                  "phonetics": "/d/"
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /ɪd/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "start"
+                },
+                {
+                  "text": " ➜ start"
+                },
+                {
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /ɪd/"
                 }
               ]
             },
@@ -269,7 +469,10 @@
                   "text": "want"
                 },
                 {
-                  "boldText": " ➜ wanted "
+                  "text": " ➜ want"
+                },
+                {
+                  "underlinedText": "ed"
                 },
                 {
                   "phonetics": "/ɪd/"
@@ -289,28 +492,124 @@
             {
               "block": [
                 {
-                  "text": "◦ I brush my teeth every morning. This morning I brushed my teeth."
+                  "text": "◦ I brush my teeth every morning. This morning I "
+                },
+                {
+                  "markedText": "brush"
+                },
+                {
+                  "markedUnderlinedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
+                },
+                {
+                  "text": " my teeth."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "◦ Tony worked in a bank from 2005 to 2011."
+                  "text": "◦ Tony "
+                },
+                {
+                  "markedText": "work"
+                },
+                {
+                  "markedUnderlinedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
+                },
+                {
+                  "text": " in a bank from 2005 to 2011."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "◦ Yesterday it rained all morning. It stopped at lunchtime."
+                  "text": "◦ Yesterday it "
+                },
+                {
+                  "markedText": "rain"
+                },
+                {
+                  "markedUnderlinedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                },
+                {
+                  "text": " all morning. It "
+                },
+                {
+                  "markedText": "stopp"
+                },
+                {
+                  "markedUnderlinedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
+                },
+                {
+                  "text": " at lunchtime."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "◦ We enjoyed the party last night. We danced a lot and talked to a lot of people. The party ended t midnight."
+                  "text": "◦ We "
+                },
+                {
+                  "markedText": "enjoy"
+                },
+                {
+                  "markedUnderlinedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                },
+                {
+                  "text": " the party last night. We "
+                },
+                {
+                  "markedText": "danc"
+                },
+                {
+                  "markedUnderlinedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
+                },
+                {
+                  "text": " a lot and "
+                },
+                {
+                  "markedText": "talk"
+                },
+                {
+                  "markedUnderlinedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
+                },
+                {
+                  "text": " to a lot of people. The party "
+                },
+                {
+                  "markedText": "end"
+                },
+                {
+                  "markedUnderlinedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                },
+                {
+                  "text": " at midnight."
                 }
               ]
             }

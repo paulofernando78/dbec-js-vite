@@ -31,6 +31,7 @@
       "grid": true,
       "text": [
         {
+          "card": true,
           "imgSrc": "/assets/images/general/a-man-on-the-roof.avif",
           "imgAlt": "imgAlt",
           "blocks": [
@@ -47,6 +48,7 @@
           ]
         },
         {
+          "card": true,
           "imgSrc": "/assets/images/general/train-schedule.avif",
           "imgAlt": "imgAlt",
           "blocks": [
@@ -63,6 +65,7 @@
           ]
         },
         {
+          "card": true,
           "imgSrc": "/assets/images/general/week-weekend-days.avif",
           "imgAlt": "imgAlt",
           "blocks": [

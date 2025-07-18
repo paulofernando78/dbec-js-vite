@@ -121,13 +121,6 @@ class Text extends HTMLElement {
           blockElement.appendChild(text);
         }
 
-        if (subItem.ptBoldText) {
-          const ptBoldText = document.createElement("b");
-          ptBoldText.textContent = subItem.ptBoldText;
-          ptBoldText.style.color = "var(--gray-4)";
-          blockElement.appendChild(ptBoldText);
-        }
-
         if (subItem.ptText) {
           const ptText = document.createElement("span");
           ptText.textContent = subItem.ptText;
@@ -135,9 +128,30 @@ class Text extends HTMLElement {
           blockElement.appendChild(ptText);
         }
 
+        if (subItem.ptBoldText) {
+          const ptBoldText = document.createElement("b");
+          ptBoldText.textContent = subItem.ptBoldText;
+          ptBoldText.style.color = "var(--gray-4)";
+          blockElement.appendChild(ptBoldText);
+        }
+
+        if (subItem.underlinedText) {
+          const underline = document.createElement("u")
+          underline.textContent = subItem.underlinedText;
+          blockElement.appendChild(underline)
+        }
+
         if (subItem.markedText) {
           const mark = document.createElement("mark");
           mark.textContent = subItem.markedText;
+          blockElement.appendChild(mark);
+        }
+
+        if (subItem.markedUnderlinedText) {
+          const mark = document.createElement("mark");
+          const underline = document.createElement("u");
+          underline.textContent = subItem.markedUnderlinedText;
+          mark.appendChild(underline)
           blockElement.appendChild(mark);
         }
       });
