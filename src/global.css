@@ -20,8 +20,9 @@ body {
   margin: 0 auto;
   font-family: "Montserrat", sans-serif;
   font-display: swap;
-  transition: background-color 1s, color 1s;
   scrollbar-gutter: stable
+  /* Dark Mode transition */
+  /* transition: background-color 1s, color 1s; */
   /* user-select: none; */
 }
 

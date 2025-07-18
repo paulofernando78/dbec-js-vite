@@ -19,19 +19,275 @@
   },
   "contents": [
     {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "A"
+      }
+    },
+    {
       "text": [
         {
+          "imgSrc": "/assets/images/general/people-watch-tv.avif",
+          "imgAlt": "Two people watching TV.",
+          "imgWidth": "300px",
+          "imgPosition": "left",
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Under construction..."
+                  "text": "They "
+                },
+                {
+                  "markedText": "watch"
+                },
+                {
+                  "text": " TV every evening. (simple present)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "They "
+                },
+                {
+                  "markedText": "watched"
+                },
+                {
+                  "phonetics": " /t/"
+                },
+                {
+                  "text": " TV yesyerday evening. (simple past)"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "I/you/he/she/it/we/you/they "
+                },
+                {
+                  "markedText": "watched"
+                },
+                {
+                  "phonetics": " /t/"
                 }
               ]
             }
           ]
         }
       ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "B"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Let's take a look at some important regular "
+                },
+                {
+                  "markedText": "(-ed)"
+                },
+                {
+                  "text": " verbs:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "grid": true,
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "-ed sounds: "
+                },
+                {
+                  "phonetics": "/t/"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "ask"
+                },
+                {
+                  "boldText": " ➜ asked "
+                },
+                {
+                  "phonetics": "/t/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "dance"
+                },
+                {
+                  "boldText": " ➜ danced "
+                },
+                {
+                  "phonetics": "/t/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "work"
+                },
+                {
+                  "boldText": " ➜ worked "
+                },
+                {
+                  "phonetics": "/t/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "-ed sounds: "
+                },
+                {
+                  "phonetics": "/d/"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "clean"
+                },
+                {
+                  "boldText": " ➜ cleaned"
+                },
+                {
+                  "phonetics": "/d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "play"
+                },
+                {
+                  "boldText": " ➜ play"
+                },
+                {
+                  "phonetics": "/d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "stay"
+                },
+                {
+                  "boldText": " ➜ stayed"
+                },
+                {
+                  "phonetics": "/d/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "-ed sounds: "
+                },
+                {
+                  "phonetics": "/ɪd/"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "start"
+                },
+                {
+                  "boldText": " ➜ started "
+                },
+                {
+                  "phonetics": "/ɪd/"
+                }
+              ]
+            },{
+              "block": [
+                {
+                  "text": "need"
+                },
+                {
+                  "boldText": " ➜ needed"
+                },
+                {
+                  "phonetics": "/d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "want"
+                },
+                {
+                  "boldText": " ➜ wanted "
+                },
+                {
+                  "phonetics": "/ɪd/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "C"
+      }
     }
   ]
 }

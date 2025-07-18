@@ -25,7 +25,7 @@ class Contents extends HTMLElement {
         gap: 10px
       }
 
-      .text-flex {
+      .text-grid {
         display: grid;
         grid-template-columns: repeat(auto-fit, 250px);
         justify-content: center;
@@ -74,8 +74,8 @@ class Contents extends HTMLElement {
       // Text
       if (section.text) {
         const wrapper = document.createElement("div");
-        if (section.flex) {
-          wrapper.classList.add("text-flex");
+        if (section.grid) {
+          wrapper.classList.add("text-grid");
         }
 
         section.text.forEach((t) => {

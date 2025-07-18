@@ -62,6 +62,7 @@
       }
     },
     {
+      "grid": false,
       "text": [
         {
           "imgSrc": "/assets/images/general/cat-1.jpg",

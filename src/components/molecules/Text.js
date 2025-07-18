@@ -142,6 +142,10 @@ class Text extends HTMLElement {
         }
       });
 
+      if (item.lineBreak) {
+        blockElement.style.marginBottom = "var(--line-break"
+      }
+
       textWrapper.appendChild(blockElement);
     });
 
@@ -162,6 +166,13 @@ class Text extends HTMLElement {
     } else {
       this.container.appendChild(this.image);
       this.container.appendChild(textWrapper);
+    }
+
+    if (block.card) {
+      this.container.style.border = "var(--border)";
+      this.container.style.borderRadius = "var(--border-radius)";
+      this.container.style.boxShadow = "var(--box-shadow)";
+      this.container.style.padding = "var(--padding)"
     }
   }
 }

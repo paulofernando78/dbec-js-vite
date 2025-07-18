@@ -28,7 +28,7 @@
     },
 
     {
-      "flex": true,
+      "grid": true,
       "text": [
         {
           "imgSrc": "/assets/images/general/a-man-on-the-roof.avif",
