@@ -6,13 +6,13 @@
         "icon": "book",
         "description": "Elementary"
       },
-      { "icon": "page", "description": "Lesson 8" },
       {
-        "icon": "classwork",
-        "description": "Classwork"
+        "icon": "page",
+        "description": "Lesson 8"
       },
       {
-        "description": "How much are these? (Cycle 2)"
+        "icon": "classwork",
+        "description": "Classwork • How much are these? (Cycle 2)"
       }
     ]
   },

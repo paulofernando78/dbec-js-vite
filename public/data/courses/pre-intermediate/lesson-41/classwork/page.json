@@ -1,18 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Pre-intermediate",
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Pre-Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 41"
       },
       {
         "icon": "classwork",
-        "description": "Classwork"
-      },
-      {
-        "description": "Making excuses (Cycle 2)"
+        "description": "Classwork • Making excuses (Cycle 2)"
       }
     ]
   },

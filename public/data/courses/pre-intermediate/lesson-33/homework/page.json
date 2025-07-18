@@ -1,17 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Pre-intermediate",
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Pre-Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 33"
       },
       {
-        "icon": "page", "description": "Homework •"
-      },
-      {
-        "description": "That's entertainment! (Cycle 1)"
+        "icon": "homework",
+        "description": "Homework • That's entertainment! (Cycle 1)"
       }
     ]
   },

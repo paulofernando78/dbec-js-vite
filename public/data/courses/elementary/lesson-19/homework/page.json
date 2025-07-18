@@ -8,11 +8,8 @@
       },
       { "icon": "page", "description": "Lesson 19" },
       {
-        "icon": "page",
-        "description": "Homework •"
-      },
-      {
-        "description": "How's the neighborhood? (Cycle 1)"
+        "icon": "homework",
+        "description": "Homework • How's the neighborhood? (Cycle 1)"
       }
     ]
   },

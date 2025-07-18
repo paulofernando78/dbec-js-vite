@@ -6,13 +6,13 @@
         "icon": "book",
         "description": "Elementary"
       },
-      { "icon": "page", "description": "Lesson 7" },
       {
         "icon": "page",
-        "description": "Homework •"
+        "description": "Lesson 7"
       },
       {
-        "description": "How much are these? (Cycle 1)"
+        "icon": "homework",
+        "description": "Homework • How much are these? (Cycle 1)"
       }
     ]
   },

@@ -1,18 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Pre-intermediate",
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Pre-Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 24"
       },
       {
         "icon": "classwork",
-        "description": "Classwork"
-      },
-      {
-        "description": "Only time will tell. (Cycle 2)"
+        "description": "Classwork • Only time will tell. (Cycle 2)"
       }
     ]
   },

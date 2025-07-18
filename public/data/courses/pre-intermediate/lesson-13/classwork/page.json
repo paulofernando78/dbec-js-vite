@@ -1,18 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Pre-intermediate",
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Pre-Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 13"
       },
       {
         "icon": "classwork",
-        "description": "Classwork"
-      },
-      {
-        "description": "Hit the road! (Cycle 2)"
+        "description": "Classwork • Hit the road! (Cycle 2)"
       }
     ]
   },

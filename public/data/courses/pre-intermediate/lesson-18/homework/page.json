@@ -1,17 +1,18 @@
 {
   "whiteboard": {
     "title": "Courses",
-    "subtitle": "Pre-intermediate",
     "descriptions": [
+      {
+        "icon": "book",
+        "description": "Pre-Intermediate"
+      },
       {
         "icon": "page",
         "description": "Lesson 18"
       },
       {
-        "icon": "page", "description": "Homework •"
-      },
-      {
-        "description": "What do you use this for? (Cycle 2)"
+        "icon": "homework",
+        "description": "Homework • What do you use this for? (Cycle 2)"
       }
     ]
   },

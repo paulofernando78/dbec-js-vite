@@ -8,11 +8,8 @@
       },
       { "icon": "page", "description": "Lesson 14" },
       {
-        "icon": "page",
-        "description": "Homework •"
-      },
-      {
-        "description": "How often do you run? (Cycle 1)"
+        "icon": "homework",
+        "description": "Homework • How often do you run? (Cycle 1)"
       }
     ]
   },
