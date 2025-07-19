@@ -67,16 +67,17 @@ class Text extends HTMLElement {
   }
 
   connectedCallback() {
-  // Aguarda estar conectado no DOM
-  const parent = this.parentElement;
-  const siblings = Array.from(parent?.children || []);
-  const isLast = siblings[siblings.length - 1] === this;
-  const hasMultiple = siblings.filter(el => el.tagName === "WC-TEXT").length > 1;
+    // Aguarda estar conectado no DOM
+    const parent = this.parentElement;
+    const siblings = Array.from(parent?.children || []);
+    const isLast = siblings[siblings.length - 1] === this;
+    const hasMultiple =
+      siblings.filter((el) => el.tagName === "WC-TEXT").length > 1;
 
-  if (hasMultiple && !isLast) {
-    this.container.style.marginBottom = "var(--line-break)";
+    if (hasMultiple && !isLast) {
+      this.container.style.marginBottom = "var(--line-break)";
+    }
   }
-}
 
   render(block) {
     const hasImage = block.imgSrc || block.imgAlt;
@@ -136,9 +137,17 @@ class Text extends HTMLElement {
         }
 
         if (subItem.underlinedText) {
-          const underline = document.createElement("u")
+          const underline = document.createElement("u");
           underline.textContent = subItem.underlinedText;
-          blockElement.appendChild(underline)
+          blockElement.appendChild(underline);
+        }
+
+        if (subItem.boldUnderlinedText) {
+          const bold = document.createElement("b");
+          const underline = document.createElement("u");
+          underline.textContent = subItem.boldUnderlinedText;
+          bold.appendChild(underline);
+          blockElement.appendChild(bold)
         }
 
         if (subItem.markedText) {
@@ -151,13 +160,13 @@ class Text extends HTMLElement {
           const mark = document.createElement("mark");
           const underline = document.createElement("u");
           underline.textContent = subItem.markedUnderlinedText;
-          mark.appendChild(underline)
+          mark.appendChild(underline);
           blockElement.appendChild(mark);
         }
       });
 
       if (item.lineBreak) {
-        blockElement.style.marginBottom = "var(--line-break"
+        blockElement.style.marginBottom = "var(--line-break";
       }
 
       textWrapper.appendChild(blockElement);
@@ -186,7 +195,7 @@ class Text extends HTMLElement {
       this.container.style.border = "var(--border)";
       this.container.style.borderRadius = "var(--border-radius)";
       this.container.style.boxShadow = "var(--box-shadow)";
-      this.container.style.padding = "var(--padding)"
+      this.container.style.padding = "var(--padding)";
     }
   }
 }

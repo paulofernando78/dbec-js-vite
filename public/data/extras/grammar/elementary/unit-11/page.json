@@ -124,6 +124,215 @@
                   "boldText": "-ed sounds: "
                 },
                 {
+                  "phonetics": "/d/"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "clean"
+                },
+                {
+                  "text": " ➜ clean"
+                },
+                {
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "enjoy"
+                },
+                {
+                  "text": " ➜ enjoy"
+                },
+                {
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "play"
+                },
+                {
+                  "text": " ➜ play"
+                },
+                {
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "rain"
+                },
+                {
+                  "text": " ➜ rain"
+                },
+                {
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "stay"
+                },
+                {
+                  "text": " ➜ stay"
+                },
+                {
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "c + v + c = double last consonant:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "p"
+                },
+                {
+                  "underlinedText": "lan"
+                },
+                {
+                  "text": " ➜ plann"
+                },
+                {
+                  "underlinedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "-y preceeded by a consonant:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "co"
+                },
+                {
+                  "underlinedText": "py"
+                },
+                {
+                  "text": " ➜ cop"
+                },
+                {
+                  "underlinedText": "ied"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "c"
+                },
+                {
+                  "underlinedText": "ry"
+                },
+                {
+                  "text": " ➜ cr"
+                },
+                {
+                  "underlinedText": "ied"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "stu"
+                },
+                {
+                  "underlinedText": "dy"
+                },
+                {
+                  "text": " ➜ stud"
+                },
+                {
+                  "underlinedText": "ied"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "t"
+                },
+                {
+                  "underlinedText": "ry"
+                },
+                {
+                  "text": " ➜ tr"
+                },
+                {
+                  "underlinedText": "ied"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "-ed sounds: "
+                },
+                {
                   "phonetics": "/t/"
                 }
               ],
@@ -248,168 +457,6 @@
                   "boldText": "-ed sounds: "
                 },
                 {
-                  "phonetics": "/d/"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "clean"
-                },
-                {
-                  "text": " ➜ clean"
-                },
-                {
-                  "underlinedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "enjoy"
-                },
-                {
-                  "text": " ➜ enjoy"
-                },
-                {
-                  "underlinedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "play"
-                },
-                {
-                  "text": " ➜ play"
-                },
-                {
-                  "underlinedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "rain"
-                },
-                {
-                  "text": " ➜ rain"
-                },
-                {
-                  "underlinedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "stay"
-                },
-                {
-                  "text": " ➜ stay"
-                },
-                {
-                  "underlinedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "c + v + c = double last consonant:"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "plan"
-                },
-                {
-                  "text": " ➜ plan"
-                },
-                {
-                  "underlinedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "-y preceeded by a consonant:"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "cry"
-                },
-                {
-                  "text": " ➜ cr"
-                },
-                {
-                  "underlinedText": "ied"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "try"
-                },
-                {
-                  "text": " ➜ tr"
-                },
-                {
-                  "underlinedText": "ied"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "card": true,
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "-ed sounds: "
-                },
-                {
                   "phonetics": "/ɪd/"
                 }
               ],
@@ -492,7 +539,10 @@
             {
               "block": [
                 {
-                  "text": "◦ I brush my teeth every morning. This morning I "
+                  "boldText": "• "
+                },
+                {
+                  "text": "I brush my teeth every morning. This morning I "
                 },
                 {
                   "markedText": "brush"
@@ -511,7 +561,10 @@
             {
               "block": [
                 {
-                  "text": "◦ Tony "
+                  "boldText": "• "
+                },
+                {
+                  "text": "Tony "
                 },
                 {
                   "markedText": "work"
@@ -530,7 +583,10 @@
             {
               "block": [
                 {
-                  "text": "◦ Yesterday it "
+                  "boldText": "• "
+                },
+                {
+                  "text": "Yesterday it "
                 },
                 {
                   "markedText": "rain"
@@ -561,7 +617,10 @@
             {
               "block": [
                 {
-                  "text": "◦ We "
+                  "boldText": "• "
+                },
+                {
+                  "text": "We "
                 },
                 {
                   "markedText": "enjoy"
@@ -624,6 +683,754 @@
         "icon": "snippet",
         "label": "C"
       }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Now let's take a look at some irregular verbs:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "begin ➜ "
+                },
+                {
+                  "text": "began"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "break ➜ "
+                },
+                {
+                  "text": "broke"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "build ➜ "
+                },
+                {
+                  "text": "built"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "come ➜ "
+                },
+                {
+                  "text": "came"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "do ➜ "
+                },
+                {
+                  "text": "did"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "eat ➜ "
+                },
+                {
+                  "text": "ate"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "fall ➜ "
+                },
+                {
+                  "text": "fell"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "find ➜ "
+                },
+                {
+                  "text": "found"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "forget ➜ "
+                },
+                {
+                  "text": "forgot"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "get ➜ "
+                },
+                {
+                  "text": "got"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "give ➜ "
+                },
+                {
+                  "text": "gave"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "go ➜ "
+                },
+                {
+                  "text": "went"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "have ➜ "
+                },
+                {
+                  "text": "had"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "hear ➜ "
+                },
+                {
+                  "text": "heard"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "leave ➜ "
+                },
+                {
+                  "text": "left"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "lose ➜ "
+                },
+                {
+                  "text": "lost"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "make ➜ "
+                },
+                {
+                  "text": "made"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "meet ➜ "
+                },
+                {
+                  "text": "met"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "read ➜ "
+                },
+                {
+                  "text": "read (red)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "see ➜ "
+                },
+                {
+                  "text": "saw"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "sell ➜ "
+                },
+                {
+                  "text": "sold"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "sit ➜ "
+                },
+                {
+                  "text": "sat"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "speak ➜ "
+                },
+                {
+                  "text": "spoke"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "stand ➜ "
+                },
+                {
+                  "text": "stood"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "take ➜ "
+                },
+                {
+                  "text": "took"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "tell ➜ "
+                },
+                {
+                  "text": "told"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "win ➜ "
+                },
+                {
+                  "text": "won"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "write ➜ "
+                },
+                {
+                  "text": "wrote"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "-"
+                },
+                {
+                  "boldUnderlinedText": "aid"
+                },
+                {
+                  "boldText": " ending:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "say ➜ "
+                },
+                {
+                  "text": "s"
+                },
+                {
+                  "underlinedText": "aid"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "pay ➜ "
+                },
+                {
+                  "text": "p"
+                },
+                {
+                  "underlinedText": "aid"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "-"
+                },
+                {
+                  "boldUnderlinedText": "an-"
+                },
+                {
+                  "boldText": " ending:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "drink ➜ "
+                },
+                {
+                  "text": "dr"
+                },
+                {
+                  "underlinedText": "an"
+                },
+                {
+                  "text": "k"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "sing ➜ "
+                },
+                {
+                  "text": "s"
+                },
+                {
+                  "underlinedText": "an"
+                },
+                {
+                  "text": "g"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "ring ➜ "
+                },
+                {
+                  "text": "r"
+                },
+                {
+                  "underlinedText": "an"
+                },
+                {
+                  "text": "g"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "-"
+                },
+                {
+                  "boldUnderlinedText": "ept"
+                },
+                {
+                  "boldText": " ending:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "keep ➜ "
+                },
+                {
+                  "text": "k"
+                },
+                {
+                  "underlinedText": "ept"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "sleep ➜ "
+                },
+                {
+                  "text": "sl"
+                },
+                {
+                  "underlinedText": "ept"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "weep ➜ "
+                },
+                {
+                  "text": "w"
+                },
+                {
+                  "underlinedText": "ept"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "-"
+                },
+                {
+                  "boldUnderlinedText": "ew"
+                },
+                {
+                  "boldText": " ending:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "draw ➜ "
+                },
+                {
+                  "text": "dr"
+                },
+                {
+                  "underlinedText": "ew"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "fly ➜ "
+                },
+                {
+                  "text": "fl"
+                },
+                {
+                  "underlinedText": "ew"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "know ➜ "
+                },
+                {
+                  "text": "kn"
+                },
+                {
+                  "underlinedText": "ew"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "-"
+                },
+                {
+                  "boldUnderlinedText": "aught / -ought"
+                },
+                {
+                  "boldText": " ending:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "buy ➜ "
+                },
+                {
+                  "text": "b"
+                },
+                {
+                  "underlinedText": "ought"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "bring ➜ "
+                },
+                {
+                  "text": "br"
+                },
+                {
+                  "underlinedText": "ought"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "catch ➜ "
+                },
+                {
+                  "text": "c"
+                },
+                {
+                  "underlinedText": "aught"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "fight ➜ "
+                },
+                {
+                  "text": "f"
+                },
+                {
+                  "underlinedText": "ought"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "seek ➜ "
+                },
+                {
+                  "text": "s"
+                },
+                {
+                  "underlinedText": "ought"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "think ➜ "
+                },
+                {
+                  "text": "th"
+                },
+                {
+                  "underlinedText": "ought"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "same"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "cut ➜ "
+                },
+                {
+                  "text": "cut"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "put ➜ "
+                },
+                {
+                  "text": "put"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "I usually get up early, but this morning I got up at 9:30."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "We did a lot of work yesterday."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Megan went to th movies three times last week."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "James came into the room, took off his coat, and sat down."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "homework",
+        "label": "Exercises"
+      }
+    },
+    {
+      "exercises": [
+        {
+          "title": "Complete the sentences. Use a verb from below.",
+          "description": "die / end / enjoy / happen / open / rain / brush / start / saty / want"
+        },
+        {
+          "fillExercises": [
+            {
+              "beforeBlank": "1. I ",
+              "correctAnswer": ["brushed"],
+              "afterBlank": " my teeth three times yesterday,",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "2. It was hot in the room, so I ",
+              "correctAnswer": ["opened"],
+              "afterBlank": " the window.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "3. The movie was very long. It ",
+              "correctAnswer": ["started"],
+              "afterBlank": " at 7:15 and "
+            },
+            {
+              "correctAnswer": ["ended"],
+              "afterBlank": " at 10:00."
+            },
+            {
+              "beforeBlank": "4. When I was a child, I ",
+              "correctAnswer": ["wanted"],
+              "afterBlank": " to be a doctor.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "5. The accident ",
+              "correctAnswer": ["happened"],
+              "afterBlank": " last Sunday afternoon.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "6. The weather is nice today, but yesterday it ",
+              "correctAnswer": ["rained"],
+              "afterBlank": " all day.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "7. We ",
+              "correctAnswer": ["enjoyed"],
+              "afterBlank": " our vacation last year. We "
+            },
+            {
+              "correctAnswer": ["stayed"],
+              "afterBlank": " at a very nice place."
+            },
+            {
+              "beforeBlank": "8. Anna's grandfather ",
+              "correctAnswer": ["died"],
+              "afterBlank": " when he was 90 years old.",
+              "displayBlock": true
+            }
+          ]
+        }
+      ]
     }
   ]
 }
