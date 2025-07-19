@@ -1369,7 +1369,7 @@
     {
       "exercises": [
         {
-          "title": "Complete the sentences. Use a verb from below.",
+          "title": "11.1 Complete the sentences. Use a verb from below.",
           "description": "die / end / enjoy / happen / open / rain / brush / start / saty / want"
         },
         {
@@ -1426,6 +1426,94 @@
               "beforeBlank": "8. Anna's grandfather ",
               "correctAnswer": ["died"],
               "afterBlank": " when he was 90 years old.",
+              "displayBlock": true
+            }
+          ]
+        },
+        {
+          "title": "11.2 Read about Liz’s trip to Madrid. Put the verbs in the correct form."
+        },
+        {
+          "images": [
+            {
+              "width": "200px",
+              "src": "/assets/images/general/11-2.avif",
+              "alt": "A series of pictures of a woman getting ready to travel."
+            }
+          ]
+        },
+        {
+          "fillExercises": [
+            {
+              "beforeBlank": "Last Tuesday, Liz (fly) ",
+              "correctAnswer": ["flew"]
+            },
+            {
+              "beforeBlank": " from Los Angeles to Madrid. She (get) ",
+              "correctAnswer": ["got"]
+            },
+            {
+              "beforeBlank": " up at 6:00 in the morning and (have) ",
+              "correctAnswer": ["had"]
+            },
+            {
+              "beforeBlank": " a cup of coffee. At 7:15 she (leave) ",
+              "correctAnswer": ["left"]
+            },
+            {
+              "beforeBlank": " home and (drive) ",
+              "correctAnswer": ["drove"]
+            },
+            {
+              "beforeBlank": " When she (get) ",
+              "correctAnswer": ["got"]
+            },
+            {
+              "beforeBlank": " there, she (park) ",
+              "correctAnswer": ["parked"],
+              "afterBlank": " "
+            },
+            {
+              "beforeBlank": " the car, (walk) ",
+              "correctAnswer": ["walked"]
+            },
+            {
+              "beforeBlank": " to the terminal, and (check) ",
+              "correctAnswer": ["checked"]
+            },
+            {
+              "beforeBlank": " in. Then she (have) ",
+              "correctAnswer": ["had"]
+            },
+            {
+              "beforeBlank": " breakfast at the airport café and (wait) ",
+              "correctAnswer": ["waited"]
+            },
+            {
+              "beforeBlank": " for her flight. The plane (depart) ",
+              "correctAnswer": ["departed"]
+            },
+            {
+              "beforeBlank": " on time and (arrive) ",
+              "correctAnswer": ["arrived"]
+            },
+            {
+              "beforeBlank": " in Madrid 13 hours later. Finally, she (take) ",
+              "correctAnswer": ["took"],
+              "afterBlank": " a taxi to the airport to ther hotel downtown."
+            }
+          ]
+        },
+        {
+          "title": "11.3 Write sentences about the past."
+        },
+        {
+          "fillExercises": [
+            {
+              "beforeBlank": "",
+              "placeholder": "",
+              "correctAnswer": [""],
+              "afterBlank": "",
               "displayBlock": true
             }
           ]
