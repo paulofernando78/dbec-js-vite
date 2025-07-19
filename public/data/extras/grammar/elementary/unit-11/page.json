@@ -1370,7 +1370,7 @@
       "exercises": [
         {
           "title": "11.1 Complete the sentences. Use a verb from below.",
-          "description": "die / end / enjoy / happen / open / rain / brush / start / saty / want"
+          "description": "die / end / stay /enjoy / happen / open / rain / brush / start /  want"
         },
         {
           "fillExercises": [
@@ -1505,15 +1505,57 @@
           ]
         },
         {
-          "title": "11.3 Write sentences about the past."
+          "title": "11.3 Write sentences about the past.",
+          "description": "Example: James always goes to work by car. Yesterday he went to work by car."
         },
         {
           "fillExercises": [
             {
-              "beforeBlank": "",
-              "placeholder": "",
-              "correctAnswer": [""],
-              "afterBlank": "",
+              "beforeBlank": "1. James always goes to work by car. Yesterday he ",
+              "correctAnswer": ["went"],
+              "afterBlank": "  to work by car.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "2. Rachel often loses her keys. She ",
+              "correctAnswer": ["lost"],
+              "afterBlank": "  her keys last week.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "3. Kate meets her friends every night. She ",
+              "correctAnswer": ["met"],
+              "afterBlank": "  her friends last night.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "4. I buy a newspaper every day. Yesterday I ",
+              "correctAnswer": ["bought"],
+              "afterBlank": " a newspaper.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "5. We often go to the movies on weekends. Last Sunday we ",
+              "correctAnswer": ["went"],
+              "afterBlank": " to the movies.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "6. I eat an orange every day. Yesterday I ",
+              "correctAnswer": ["ate"],
+              "afterBlank": " an orange.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "7. Tom always takes a shower in the morning. This morning he ",
+              "correctAnswer": ["took"],
+              "afterBlank": " a shower.",
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "8. Our friends often come to see us. They ",
+              "correctAnswer": ["came"],
+              "afterBlank": " to see us last Friday.",
               "displayBlock": true
             }
           ]
