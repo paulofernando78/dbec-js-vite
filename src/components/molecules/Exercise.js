@@ -201,37 +201,55 @@ class Exercise extends HTMLElement {
   // Fill in the blanks
   _renderFillExercises(items) {
     const fillContainer = document.createElement("div");
-    // fillContainer.classList.add("fill-exercise-group")
 
     items.forEach((item) => {
-      const fillWrapper = document.createElement("div");
-      fillWrapper.style.display = "inline";
-      if (item.displayBlock) {
-        fillWrapper.style.display = "block";
-      }
+      // Verify if it's a "block of blocks"
+      if (item.blocks) {
+        item.blocks.forEach((group, groupIndex) => {
+          const fillGroupWrapper = document.createElement("div");
+          if (groupIndex === item.blocks.length - 1) {
+              fillGroupWrapper.style.marginBottom = "var(--line-break)";
+            }
 
-      const beforeBlank = document.createElement("span");
-      beforeBlank.textContent = item.beforeBlank;
-      const blank = document.createElement("input");
-      const longestAnswer = item.correctAnswer.reduce((a, b) =>
-        a.length > b.length ? a : b
-      );
-      const estimateWidth = `${longestAnswer.length + 2}ch`;
-      blank.style.width = item.width || estimateWidth;
-      blank.type = "text";
-      blank.placeholder = item.placeholder ? item.placeholder : "";
-      blank.style.fontFamily = "courier";
-      blank.style.borderRadius = "var(--border-radius)";
-      blank.style.border = "2px solid lightgray";
-      blank.style.paddingLeft = "5px";
-      blank.style.marginBottom = "2px";
-      blank.dataset.answers = item.correctAnswer.join(",");
-      const fillResult = document.createElement("span");
-      const afterBlank = document.createElement("span");
-      afterBlank.textContent = item.afterBlank;
-      fillWrapper.append(beforeBlank, blank, afterBlank);
-      fillContainer.appendChild(fillWrapper);
+          // Check each "block"
+          group.block.forEach((inputSet, index) => {
+            const fillWrapper = document.createElement("div");
+            fillWrapper.style.display = "inline-block";
+
+            // beforeBlank
+            const beforeBlank = document.createElement("span");
+            beforeBlank.textContent = inputSet.beforeBlank;
+
+            // input
+            const blank = document.createElement("input");
+            const longestAnswer = inputSet.correctAnswer.reduce((a, b) =>
+              a.length > b.length ? a : b
+            );
+            const estimateWidth = `${longestAnswer.length + 2}ch`;
+            blank.style.width = inputSet.width || estimateWidth;
+
+            blank.type = "text";
+            blank.placeholder = inputSet.placeholder || "";
+            blank.style.fontFamily = "courier";
+            blank.style.borderRadius = "var(--border-radius)";
+            blank.style.border = "2px solid lightgray";
+            blank.style.paddingLeft = "5px";
+            blank.style.marginBottom = "2px";
+            blank.dataset.answers = inputSet.correctAnswer.join(",");
+
+            // afterBlank
+            const afterBlank = document.createElement("span");
+            afterBlank.textContent = inputSet.afterBlank;
+
+            fillWrapper.append(beforeBlank, blank, afterBlank);
+            fillGroupWrapper.appendChild(fillWrapper);
+          });
+
+          fillContainer.appendChild(fillGroupWrapper);
+        });
+      }
     });
+
     this.exerciseContainer.appendChild(fillContainer);
   }
 
@@ -245,7 +263,6 @@ class Exercise extends HTMLElement {
     const checkAnswersButton = document.createElement("wc-button");
     checkAnswersButton.setAttribute("data-icon", "check");
     checkAnswersButton.addEventListener("click", () => {
-      
       // Radio check answers
       const containers = this.shadowRoot.querySelectorAll(
         ".radio-exercise-group"

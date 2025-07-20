@@ -249,7 +249,7 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "Steve "
+                  "text": "Mike "
                 },
                 {
                   "markedText": "is"
@@ -739,37 +739,65 @@
         {
           "fillExercises": [
             {
-              "beforeBlank": "1. she is ",
-              "correctAnswer": ["she’s", "she's"],
-              "displayBlock": "true"
-            },
-            {
-              "beforeBlank": "2. they are ",
-              "correctAnswer": ["they’re", "they're"],
-              "displayBlock": "true"
-            },
-            {
-              "beforeBlank": "3. it is not ",
-              "correctAnswer": ["it’s not", "it's not", "it isn’t", "it isn't"],
-              "displayBlock": "true"
-            },
-            {
-              "beforeBlank": "4. that is ",
-              "correctAnswer": ["that’s", "that's"],
-              "displayBlock": "true"
-            },
-            {
-              "beforeBlank": "5. I am not ",
-              "correctAnswer": ["I’m not", "I'm not"],
-              "displayBlock": "true"
-            },
-            {
-              "beforeBlank": "6. you are not ",
-              "correctAnswer": [
-                "you’re not",
-                "you're not",
-                "you aren’t",
-                "you aren't"
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. she is ",
+                      "correctAnswer": ["she’s", "she's"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "2. they are ",
+                      "correctAnswer": ["they’re", "they're"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "3. it is not ",
+                      "correctAnswer": [
+                        "it’s not",
+                        "it's not",
+                        "it isn’t",
+                        "it isn't"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "4. that is ",
+                      "correctAnswer": ["that’s", "that's"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "5. I am not ",
+                      "correctAnswer": ["I’m not", "I'm not"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "6. you are not ",
+                      "correctAnswer": [
+                        "you’re not",
+                        "you're not",
+                        "you aren’t",
+                        "you aren't"
+                      ]
+                    }
+                  ]
+                }
               ]
             }
           ]
@@ -778,14 +806,279 @@
           "title": "1.2 Write am, is, or are"
         },
         {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. The weather ",
+                      "correctAnswer": ["is", "’s", "'s"],
+                      "afterBlank": " nice today.",
+                      "displayBlock": true
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "2. I ",
+                      "correctAnswer": ["am", "’m", "not"],
+                      "afterBlank": " not rich.",
+                      "displayBlock": true
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "3. This bag ",
+                      "correctAnswer": ["is", "’s", "'s"],
+                      "afterBlank": " very heavy.",
+                      "displayBlock": true
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "4. These bags ",
+                      "correctAnswer": ["are"],
+                      "afterBlank": " very heavy.",
+                      "displayBlock": true
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "5. Look! There ",
+                      "correctAnswer": ["is", "’s", "'s"],
+                      "afterBlank": " Rachel.",
+                      "displayBlock": true
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "6. My brother and I ",
+                      "correctAnswer": ["are"],
+                      "afterBlank": " good friends.",
+                      "displayBlock": true
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "7. Amy ",
+                      "correctAnswer": ["is", "’s", "'s"],
+                      "afterBlank": " at work. "
+                    },
+                    {
+                      "beforeBlank": "Her children ",
+                      "correctAnswer": ["are"],
+                      "afterBlank": " at school."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "8. I ",
+                      "correctAnswer": ["am", "’m", "'m"],
+                      "afterBlank": " a taxi driver.",
+                      "displayBlock": "true"
+                    },
+                    {
+                      "beforeBlank": " My sister ",
+                      "correctAnswer": ["is", "’s", "'s"],
+                      "afterBlank": " a nurse."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "title": "1.3 Complete the sentences."
         },
         {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. Matt is sick. ",
+                      "correctAnswer": ["He is", "He’s", "He's"],
+                      "afterBlank": " in bed."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "2. I'm not hungry, but ",
+                      "correctAnswer": ["I am", "I’m", "I'm"],
+                      "afterBlank": " thirsty"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "3. Mr. Thomas is a very old man. ",
+                      "correctAnswer": ["He is", "He’s", "He's"],
+                      "afterBlank": " 98."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "4. These chairs aren’t nice, but ",
+                      "correctAnswer": ["they are", "they’re", "they're"],
+                      "afterBlank": " comfortable."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "5. The weather is good today. ",
+                      "correctAnswer": ["It is", "It’s", "It's"],
+                      "afterBlank": " warm and sunny."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "6. “",
+                      "correctAnswer": ["You are", "You’re", "You're"],
+                      "afterBlank": " late”. “No, I‘m not.”"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "7. Catherine isn’t at home. She ",
+                      "correctAnswer": ["is", "’s", "'s"],
+                      "afterBlank": " at work."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "8. “",
+                      "correctAnswer": ["There is", "There’s", "There's"],
+                      "afterBlank": " your coat.”. “Oh, thank you very much.”."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "title": "1.4 Write sentences for the pictures. Use:",
-          "description": "angry / cold / hot / hungr / scared / thirsty"
+          "description": "angry / cold / hot / hungry / scared / thirsty"
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. ",
+                      "correctAnswer": ["She is thirty.", "She’s thirsty.", "She's thirsty."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "2. ",
+                      "correctAnswer": ["They are cold.", "They’re cold.", "They're cold."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "3. ",
+                      "correctAnswer": ["He is hot.", "He’s hot.", "He's hot."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "4. ",
+                      "correctAnswer": ["He is scared.", "He’s scared.", "He's scared.", "He is scared of snakes.", "He’s scared of snakes.", "He's scared of snakes."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "5. ",
+                      "correctAnswer": ["They are hungry.", "They’re hungry.", "They're hungry."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "6. ",
+                      "correctAnswer": ["She is angry.", "She’s angry", "She's angry."]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "title": "1.5 Write true sentences, affirmative or negative."
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. (Brazil / a very big country) ",
+                      "correctAnswer": ["Brazil is a very big country.", "Brazil’s a very big country.", "Brazil's a very big country."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "2. (Diamonds / cheap) ",
+                      "correctAnswer": ["Diamonds are not cheap.", "Diamonds aren’t cheap.", "Diamonds aren't cheap."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "3. (Quebec / in the United States)",
+                      "correctAnswer": ["Quebec is not in the United States.", "Quebec isn’t in the United States.", "Quebec isn't in the United States."]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     }

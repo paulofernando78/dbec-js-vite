@@ -437,40 +437,56 @@
         {
           "fillExercises": [
             {
-              "beforeBlank": "I ",
-              "correctAnswer": ["am", "'m", "’m"],
-              "afterBlank": " a student. I "
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. ",
+                      "correctAnswer": ["xxx"],
+                      "afterBlank": " xxx "
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "2. ",
+                      "correctAnswer": ["xxx"],
+                      "afterBlank": " xxx "
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "3. ",
+                      "correctAnswer": ["xxx"],
+                      "afterBlank": " xxx "
+                    }
+                  ]
+                }
+              ]
             },
             {
-              "correctAnswer": ["wake up"],
-              "afterBlank": " very early to "
-            },
-            {
-              "width": "70px",
-              "correctAnswer": ["go"],
-              "afterBlank": " to school."
-            }
-          ]
-        },
-        {
-          "fillExercises": [
-            {
-              "beforeBlank": "1. I ",
-              "correctAnswer": ["am", "'m", "’m"],
-              "afterBlank": " a student.",
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "2. I ",
-              "correctAnswer": ["wake up"],
-              "afterBlank": " very early.",
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "3. I ",
-              "correctAnswer": ["go"],
-              "afterBlank": " to school",
-              "displayBlock": true
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "4. ",
+                      "correctAnswer": ["xxx"]
+                    },
+                    {
+                      "beforeBlank": " aaa xxx ",
+                      "correctAnswer": ["xxx"]
+                    },
+                    {
+                      "beforeBlank": " xxx ",
+                      "correctAnswer": ["xxx"],
+                      "afterBlank": " xxx "
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
