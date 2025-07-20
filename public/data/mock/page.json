@@ -441,27 +441,27 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. ",
+                      "beforeBlank": "1.",
                       "correctAnswer": ["xxx"],
-                      "afterBlank": " xxx "
+                      "afterBlank": "xxx "
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. ",
+                      "beforeBlank": "2.",
                       "correctAnswer": ["xxx"],
-                      "afterBlank": " xxx "
+                      "afterBlank": "xxx "
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. ",
+                      "beforeBlank": "3.",
                       "correctAnswer": ["xxx"],
-                      "afterBlank": " xxx "
+                      "afterBlank": "xxx "
                     }
                   ]
                 }
@@ -472,15 +472,15 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "4. ",
+                      "beforeBlank": "4.",
                       "correctAnswer": ["xxx"]
                     },
                     {
-                      "beforeBlank": " aaa xxx ",
+                      "beforeBlank": "xxx",
                       "correctAnswer": ["xxx"]
                     },
                     {
-                      "beforeBlank": " xxx ",
+                      "beforeBlank": "xxx",
                       "correctAnswer": ["xxx"],
                       "afterBlank": " xxx "
                     }

@@ -207,12 +207,12 @@ class Exercise extends HTMLElement {
       if (item.blocks) {
         item.blocks.forEach((group, groupIndex) => {
           const fillGroupWrapper = document.createElement("div");
-          if (groupIndex === item.blocks.length - 1) {
-              fillGroupWrapper.style.marginBottom = "var(--line-break)";
-            }
+          if (groupIndex === item.blocks.length - 1 && item.blocks.length > 1) {
+            fillGroupWrapper.style.marginBottom = "var(--line-break)";
+          }
 
           // Check each "block"
-          group.block.forEach((inputSet, index) => {
+          group.block.forEach((inputSet) => {
             const fillWrapper = document.createElement("div");
             fillWrapper.style.display = "inline-block";
 
