@@ -21,7 +21,16 @@
       "ribbon": {
         "bgColor": "var(--gray-3)",
         "textColor": "black",
+        "icon": "snippet",
         "label": "A"
+      }
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "B"
       }
     },
     {
@@ -49,10 +58,10 @@
                   "markedText": "am"
                 },
                 {
-                  "text": " (I’"
+                  "text": " (I"
                 },
                 {
-                  "markedText": "m"
+                  "markedText": "’m"
                 },
                 {
                   "text": ")"
@@ -68,10 +77,10 @@
                   "markedText": "are"
                 },
                 {
-                  "text": " (you’"
+                  "text": " (you"
                 },
                 {
-                  "markedText": "re"
+                  "markedText": "’re"
                 },
                 {
                   "text": ")"
@@ -87,10 +96,10 @@
                   "markedText": "is"
                 },
                 {
-                  "text": " (he’"
+                  "text": " (he"
                 },
                 {
-                  "markedText": "s"
+                  "markedText": "’s"
                 },
                 {
                   "text": ")"
@@ -106,10 +115,10 @@
                   "markedText": "is"
                 },
                 {
-                  "text": " (she’"
+                  "text": " (she"
                 },
                 {
-                  "markedText": "s"
+                  "markedText": "’s"
                 },
                 {
                   "text": ")"
@@ -125,10 +134,10 @@
                   "markedText": "is"
                 },
                 {
-                  "text": " (it’"
+                  "text": " (it"
                 },
                 {
-                  "markedText": "s"
+                  "markedText": "’s"
                 },
                 {
                   "text": ")"
@@ -144,10 +153,10 @@
                   "markedText": "are"
                 },
                 {
-                  "text": " (we’"
+                  "text": " (we"
                 },
                 {
-                  "markedText": "re"
+                  "markedText": "’re"
                 },
                 {
                   "text": ")"
@@ -163,10 +172,10 @@
                   "markedText": "are"
                 },
                 {
-                  "text": " (you’"
+                  "text": " (you"
                 },
                 {
-                  "markedText": "re"
+                  "markedText": "’re"
                 },
                 {
                   "text": ")"
@@ -182,10 +191,10 @@
                   "markedText": "are"
                 },
                 {
-                  "text": " (they’"
+                  "text": " (they"
                 },
                 {
-                  "markedText": "re"
+                  "markedText": "’re"
                 },
                 {
                   "text": ")"
@@ -351,10 +360,10 @@
                   "markedText": "am not"
                 },
                 {
-                  "text": " (I’"
+                  "text": " (I"
                 },
                 {
-                  "markedText": "m not"
+                  "markedText": "’m not"
                 },
                 {
                   "text": ")"
@@ -367,13 +376,19 @@
                   "text": "you "
                 },
                 {
-                  "markedText": "are"
+                  "markedText": "are not"
                 },
                 {
-                  "text": " (you’"
+                  "text": " (you"
                 },
                 {
-                  "markedText": "re"
+                  "markedText": "’re not"
+                },
+                {
+                  "text": " / you "
+                },
+                {
+                  "markedText": "aren't"
                 },
                 {
                   "text": ")"
@@ -386,13 +401,19 @@
                   "text": "he "
                 },
                 {
-                  "markedText": "is"
+                  "markedText": "is not"
                 },
                 {
-                  "text": " (he’"
+                  "text": " (he"
                 },
                 {
-                  "markedText": "s"
+                  "markedText": "’s not"
+                },
+                {
+                  "text": " / he "
+                },
+                {
+                  "markedText": "isn't"
                 },
                 {
                   "text": ")"
@@ -405,13 +426,19 @@
                   "text": "she "
                 },
                 {
-                  "markedText": "is"
+                  "markedText": "is not"
                 },
                 {
-                  "text": " (she’"
+                  "text": " (she"
                 },
                 {
-                  "markedText": "s"
+                  "markedText": "’s not"
+                },
+                {
+                  "text": " / she "
+                },
+                {
+                  "markedText": "isn't"
                 },
                 {
                   "text": ")"
@@ -424,13 +451,19 @@
                   "text": "it "
                 },
                 {
-                  "markedText": "is"
+                  "markedText": "is not"
                 },
                 {
-                  "text": " (it’"
+                  "text": " (it"
                 },
                 {
-                  "markedText": "s"
+                  "markedText": "’s not"
+                },
+                {
+                  "text": " / it "
+                },
+                {
+                  "markedText": "isn't"
                 },
                 {
                   "text": ")"
@@ -443,13 +476,19 @@
                   "text": "we "
                 },
                 {
-                  "markedText": "are"
+                  "markedText": "are not"
                 },
                 {
-                  "text": " (we’"
+                  "text": " (we"
                 },
                 {
-                  "markedText": "re"
+                  "markedText": "’re not"
+                },
+                {
+                  "text": " / you "
+                },
+                {
+                  "markedText": "aren't"
                 },
                 {
                   "text": ")"
@@ -462,13 +501,19 @@
                   "text": "you "
                 },
                 {
-                  "markedText": "are"
+                  "markedText": "are not"
                 },
                 {
-                  "text": " (you’"
+                  "text": " (you"
                 },
                 {
-                  "markedText": "re"
+                  "markedText": "’re not"
+                },
+                {
+                  "text": " / you "
+                },
+                {
+                  "markedText": "aren't"
                 },
                 {
                   "text": ")"
@@ -481,13 +526,19 @@
                   "text": "they "
                 },
                 {
-                  "markedText": "are"
+                  "markedText": "are not"
                 },
                 {
-                  "text": " (they’"
+                  "text": " (you"
                 },
                 {
-                  "markedText": "re"
+                  "markedText": "’re not"
+                },
+                {
+                  "text": " / they "
+                },
+                {
+                  "markedText": "aren't"
                 },
                 {
                   "text": ")"
@@ -582,28 +633,7 @@
       "ribbon": {
         "bgColor": "var(--gray-3)",
         "textColor": "black",
-        "label": "B"
-      }
-    },
-    {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
+        "icon": "snippet",
         "label": "C"
       }
     },
@@ -614,23 +644,45 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "that"
+                },
+                {
+                  "markedText":	"’s"
+                },
+                {
+                  "text":	" = that "
+                },
+                {
+                  "markedText":	"is"
+                },
+                {
+                  "text": " / there"
+                },
+                {
+                  "markedText":	"’s"
+                },
+                {
+                  "text":	" = there "
+                },
+                {
+                  "markedText":	"is"
+                },
+                {
+                  "text": " / here"
+                },
+                {
+                  "markedText":	"’s"
+                },
+                {
+                  "text":	" = here "
+                },
+                {
+                  "markedText":	"is"
                 }
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
-        "label": "D"
-      }
-    },
-    {
-      "text": [
+        },
         {
           "blocks": [
             {
