@@ -823,7 +823,7 @@
                   "block": [
                     {
                       "beforeBlank": "2. I ",
-                      "correctAnswer": ["am", "’m", "not"],
+                      "correctAnswer": ["am", "’m", "'m"],
                       "afterBlank": " not rich.",
                       "displayBlock": true
                     }

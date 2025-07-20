@@ -60,7 +60,7 @@
                   "phonetics": " /t/"
                 },
                 {
-                  "text": " TV yesyerday evening. (simple past)"
+                  "text": " TV yesterday evening. (simple past)"
                 }
               ],
               "lineBreak": true
@@ -1375,58 +1375,92 @@
         {
           "fillExercises": [
             {
-              "beforeBlank": "1. I ",
-              "correctAnswer": ["brushed"],
-              "afterBlank": " my teeth three times yesterday,",
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "2. It was hot in the room, so I ",
-              "correctAnswer": ["opened"],
-              "afterBlank": " the window.",
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "3. The movie was very long. It ",
-              "correctAnswer": ["started"],
-              "afterBlank": " at 7:15 and "
-            },
-            {
-              "correctAnswer": ["ended"],
-              "afterBlank": " at 10:00."
-            },
-            {
-              "beforeBlank": "4. When I was a child, I ",
-              "correctAnswer": ["wanted"],
-              "afterBlank": " to be a doctor.",
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "5. The accident ",
-              "correctAnswer": ["happened"],
-              "afterBlank": " last Sunday afternoon.",
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "6. The weather is nice today, but yesterday it ",
-              "correctAnswer": ["rained"],
-              "afterBlank": " all day.",
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "7. We ",
-              "correctAnswer": ["enjoyed"],
-              "afterBlank": " our vacation last year. We "
-            },
-            {
-              "correctAnswer": ["stayed"],
-              "afterBlank": " at a very nice place."
-            },
-            {
-              "beforeBlank": "8. Anna's grandfather ",
-              "correctAnswer": ["died"],
-              "afterBlank": " when he was 90 years old.",
-              "displayBlock": true
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. I",
+                      "correctAnswer": ["brushed"],
+                      "afterBlank": "my teeth three times yesterday,"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "2. It was hot in the room, so I",
+                      "correctAnswer": ["opened"],
+                      "afterBlank": "the window."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "3. The movie was very long. It",
+                      "correctAnswer": ["started"]
+                    },
+                    {
+                      "beforeBlank": "at 7:15 and",
+                      "correctAnswer": ["ended"],
+                      "afterBlank": "at 10:00."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "4. When I was a child, I",
+                      "correctAnswer": ["wanted"],
+                      "afterBlank": "to be a doctor."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "5. The accident",
+                      "correctAnswer": ["happened"],
+                      "afterBlank": "last Sunday afternoon."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "6.The weather is nice today, but yesterday it",
+                      "correctAnswer": ["rained"],
+                      "afterBlank": "all day."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "7. We",
+                      "correctAnswer": ["enjoyed"],
+                      "afterBlank": "our vacation last year. We"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "correctAnswer": ["stayed"],
+                      "afterBlank": "at a very nice place."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "8. Anna's grandfather",
+                      "correctAnswer": ["died"],
+                      "afterBlank": "when he was 90 years old."
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1445,62 +1479,71 @@
         {
           "fillExercises": [
             {
-              "beforeBlank": "Last Tuesday, Liz (fly) ",
-              "correctAnswer": ["flew"]
-            },
-            {
-              "beforeBlank": " from Los Angeles to Madrid. She (get) ",
-              "correctAnswer": ["got"]
-            },
-            {
-              "beforeBlank": " up at 6:00 in the morning and (have) ",
-              "correctAnswer": ["had"]
-            },
-            {
-              "beforeBlank": " a cup of coffee. At 7:15 she (leave) ",
-              "correctAnswer": ["left"]
-            },
-            {
-              "beforeBlank": " home and (drive) ",
-              "correctAnswer": ["drove"]
-            },
-            {
-              "beforeBlank": " When she (get) ",
-              "correctAnswer": ["got"]
-            },
-            {
-              "beforeBlank": " there, she (park) ",
-              "correctAnswer": ["parked"],
-              "afterBlank": " "
-            },
-            {
-              "beforeBlank": " the car, (walk) ",
-              "correctAnswer": ["walked"]
-            },
-            {
-              "beforeBlank": " to the terminal, and (check) ",
-              "correctAnswer": ["checked"]
-            },
-            {
-              "beforeBlank": " in. Then she (have) ",
-              "correctAnswer": ["had"]
-            },
-            {
-              "beforeBlank": " breakfast at the airport café and (wait) ",
-              "correctAnswer": ["waited"]
-            },
-            {
-              "beforeBlank": " for her flight. The plane (depart) ",
-              "correctAnswer": ["departed"]
-            },
-            {
-              "beforeBlank": " on time and (arrive) ",
-              "correctAnswer": ["arrived"]
-            },
-            {
-              "beforeBlank": " in Madrid 13 hours later. Finally, she (take) ",
-              "correctAnswer": ["took"],
-              "afterBlank": " a taxi to the airport to ther hotel downtown."
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "Last Tuesday, Liz (fly)",
+                      "correctAnswer": ["flew"]
+                    },
+                    {
+                      "beforeBlank": "from Los Angeles to Madrid. She (get)",
+                      "correctAnswer": ["got"]
+                    },
+                    {
+                      "beforeBlank": "up at 6:00 in the morning and (have)",
+                      "correctAnswer": ["had"]
+                    },
+                    {
+                      "beforeBlank": "a cup of coffee. At 7:15 she (leave)",
+                      "correctAnswer": ["left"]
+                    },
+                    {
+                      "beforeBlank": "home and (drive)",
+                      "correctAnswer": ["drove"]
+                    },
+                    {
+                      "beforeBlank": "When she (get)",
+                      "correctAnswer": ["got"]
+                    },
+                    {
+                      "beforeBlank": "there, she (park)",
+                      "correctAnswer": ["parked"],
+                      "afterBlank": " "
+                    },
+                    {
+                      "beforeBlank": "the car, (walk)",
+                      "correctAnswer": ["walked"]
+                    },
+                    {
+                      "beforeBlank": "to the terminal, and (check)",
+                      "correctAnswer": ["checked"]
+                    },
+                    {
+                      "beforeBlank": "in. Then she (have)",
+                      "correctAnswer": ["had"]
+                    },
+                    {
+                      "beforeBlank": "breakfast at the airport café and (wait)",
+                      "correctAnswer": ["waited"]
+                    },
+                    {
+                      "beforeBlank": "for her flight. The plane (depart)",
+                      "correctAnswer": ["departed"]
+                    },
+                    {
+                      "beforeBlank": "on time and (arrive)",
+                      "correctAnswer": ["arrived"]
+                    },
+                    {
+                      "beforeBlank": " in Madrid 13 hours later. Finally, she (take)",
+                      "correctAnswer": ["took"],
+                      "afterBlank": "a taxi to the airport to ther hotel downtown."
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1511,52 +1554,81 @@
         {
           "fillExercises": [
             {
-              "beforeBlank": "1. James always goes to work by car. Yesterday he ",
-              "correctAnswer": ["went"],
-              "afterBlank": "  to work by car.",
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "2. Rachel often loses her keys. She ",
-              "correctAnswer": ["lost"],
-              "afterBlank": "  her keys last week.",
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "3. Kate meets her friends every night. She ",
-              "correctAnswer": ["met"],
-              "afterBlank": "  her friends last night.",
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "4. I buy a newspaper every day. Yesterday I ",
-              "correctAnswer": ["bought"],
-              "afterBlank": " a newspaper.",
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "5. We often go to the movies on weekends. Last Sunday we ",
-              "correctAnswer": ["went"],
-              "afterBlank": " to the movies.",
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "6. I eat an orange every day. Yesterday I ",
-              "correctAnswer": ["ate"],
-              "afterBlank": " an orange.",
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "7. Tom always takes a shower in the morning. This morning he ",
-              "correctAnswer": ["took"],
-              "afterBlank": " a shower.",
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "8. Our friends often come to see us. They ",
-              "correctAnswer": ["came"],
-              "afterBlank": " to see us last Friday.",
-              "displayBlock": true
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. James always goes to work by car. Yesterday he",
+                      "correctAnswer": ["went"],
+                      "afterBlank": "to work by car."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "2. Rachel often loses her keys. She",
+                      "correctAnswer": ["lost"],
+                      "afterBlank": "her keys last week."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "3. Kate meets her friends every night. She",
+                      "correctAnswer": ["met"],
+                      "afterBlank": "her friends last night."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "4. I buy a newspaper every day. Yesterday I",
+                      "correctAnswer": ["bought"],
+                      "afterBlank": "a newspaper."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "5. We often go to the movies on weekends. Last Sunday we",
+                      "correctAnswer": ["went"],
+                      "afterBlank": "to the movies."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "6. I eat an orange every day. Yesterday I",
+                      "correctAnswer": ["ate"],
+                      "afterBlank": "an orange."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "7. Tom always takes a shower in the morning. This morning he",
+                      "correctAnswer": ["took"],
+                      "afterBlank": "a shower."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "8. Our friends often come to see us. They",
+                      "correctAnswer": ["came"],
+                      "afterBlank": "to see us last Friday."
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1566,24 +1638,40 @@
         {
           "fillExercises": [
             {
-              "beforeBlank": "1. They ",
-              "correctAnswer": ["just arrived."],
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "2. He ",
-              "correctAnswer": [" just woke up."],
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "3. They ",
-              "correctAnswer": ["just bought a new car."],
-              "displayBlock": true
-            },
-            {
-              "beforeBlank": "4. The race ",
-              "correctAnswer": [" just started."],
-              "displayBlock": true
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. They",
+                      "correctAnswer": ["just arrived."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "2. He",
+                      "correctAnswer": [" just woke up."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "3. They",
+                      "correctAnswer": ["just bought a new car."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "4. The race",
+                      "correctAnswer": ["just started."]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }

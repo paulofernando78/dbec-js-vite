@@ -234,7 +234,7 @@ class Exercise extends HTMLElement {
             blank.style.borderRadius = "var(--border-radius)";
             blank.style.border = "2px solid lightgray";
             blank.style.paddingLeft = "5px";
-            blank.style.marginBottom = "2px";
+            blank.style.margin = "0 5px 2px 5px";
             blank.dataset.answers = inputSet.correctAnswer.join(",");
 
             // afterBlank
