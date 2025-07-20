@@ -647,37 +647,37 @@
                   "text": "that"
                 },
                 {
-                  "markedText":	"’s"
+                  "markedText": "’s"
                 },
                 {
-                  "text":	" = that "
+                  "text": " = that "
                 },
                 {
-                  "markedText":	"is"
+                  "markedText": "is"
                 },
                 {
                   "text": " / there"
                 },
                 {
-                  "markedText":	"’s"
+                  "markedText": "’s"
                 },
                 {
-                  "text":	" = there "
+                  "text": " = there "
                 },
                 {
-                  "markedText":	"is"
+                  "markedText": "is"
                 },
                 {
                   "text": " / here"
                 },
                 {
-                  "markedText":	"’s"
+                  "markedText": "’s"
                 },
                 {
-                  "text":	" = here "
+                  "text": " = here "
                 },
                 {
-                  "markedText":	"is"
+                  "markedText": "is"
                 }
               ]
             }
@@ -688,11 +688,104 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "boldText": "• "
+                },
+                {
+                  "text": "Thank you. That's very nice of you."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Look! There's Chris."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "“Here’s your key. “Thank you.””"
                 }
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "homework",
+        "label": "Exercises"
+      }
+    },
+    {
+      "exercises": [
+        {
+          "title": "Exercises",
+          "description": "Description"
+        },
+        {
+          "title": "1.1 Write the short form (she’s / we aren’t, etc.)"
+        },
+        {
+          "fillExercises": [
+            {
+              "beforeBlank": "1. she is ",
+              "correctAnswer": ["she’s", "she's"],
+              "displayBlock": "true"
+            },
+            {
+              "beforeBlank": "2. they are ",
+              "correctAnswer": ["they’re", "they're"],
+              "displayBlock": "true"
+            },
+            {
+              "beforeBlank": "3. it is not ",
+              "correctAnswer": ["it’s not", "it's not", "it isn’t", "it isn't"],
+              "displayBlock": "true"
+            },
+            {
+              "beforeBlank": "4. that is ",
+              "correctAnswer": ["that’s", "that's"],
+              "displayBlock": "true"
+            },
+            {
+              "beforeBlank": "5. I am not ",
+              "correctAnswer": ["I’m not", "I'm not"],
+              "displayBlock": "true"
+            },
+            {
+              "beforeBlank": "6. you are not ",
+              "correctAnswer": [
+                "you’re not",
+                "you're not",
+                "you aren’t",
+                "you aren't"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Write am, is, or are"
+        },
+        {
+          "title": "1.3 Complete the sentences."
+        },
+        {
+          "title": "1.4 Write sentences for the pictures. Use:",
+          "description": "angry / cold / hot / hungr / scared / thirsty"
+        },
+        {
+          "title": "1.5 Write true sentences, affirmative or negative."
         }
       ]
     }
