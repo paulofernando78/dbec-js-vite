@@ -1,7 +1,6 @@
 {
   "whiteboard": {
     "title": "Extra",
-    "subtitle": "Grammar",
     "descriptions": [
       {
         "icon": "book",
@@ -12,7 +11,7 @@
         "description": "Elementary"
       },
       {
-        "icon": "page",
+        "icon": "homework",
         "description": "Unit 1 • am/is/are"
       }
     ]
@@ -21,16 +20,559 @@
     {
       "ribbon": {
         "bgColor": "var(--gray-3)",
-        "color": "black",
+        "textColor": "black",
         "label": "A"
       }
     },
     {
       "text": [
         {
+          "card": false,
           "blocks": [
             {
-              "text": "..."
+              "block": [
+                {
+                  "boldText": "AFFIRMATIVE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "I "
+                },
+                {
+                  "markedText": "am"
+                },
+                {
+                  "text": " (I’"
+                },
+                {
+                  "markedText": "m"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "you "
+                },
+                {
+                  "markedText": "are"
+                },
+                {
+                  "text": " (you’"
+                },
+                {
+                  "markedText": "re"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "he "
+                },
+                {
+                  "markedText": "is"
+                },
+                {
+                  "text": " (he’"
+                },
+                {
+                  "markedText": "s"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "she "
+                },
+                {
+                  "markedText": "is"
+                },
+                {
+                  "text": " (she’"
+                },
+                {
+                  "markedText": "s"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "it "
+                },
+                {
+                  "markedText": "is"
+                },
+                {
+                  "text": " (it’"
+                },
+                {
+                  "markedText": "s"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "we "
+                },
+                {
+                  "markedText": "are"
+                },
+                {
+                  "text": " (we’"
+                },
+                {
+                  "markedText": "re"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "you "
+                },
+                {
+                  "markedText": "are"
+                },
+                {
+                  "text": " (you’"
+                },
+                {
+                  "markedText": "re"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "they "
+                },
+                {
+                  "markedText": "are"
+                },
+                {
+                  "text": " (they’"
+                },
+                {
+                  "markedText": "re"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "I"
+                },
+                {
+                  "markedText": "’m"
+                },
+                {
+                  "text": " cold. Can you close the window, please?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "I"
+                },
+                {
+                  "markedText": "’m"
+                },
+                {
+                  "text": " 32 (years old). My sister "
+                },
+                {
+                  "markedText": "is"
+                },
+                {
+                  "text": " 29."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Steve "
+                },
+                {
+                  "markedText": "is"
+                },
+                {
+                  "text": " sick. He"
+                },
+                {
+                  "markedText": "’s"
+                },
+                {
+                  "text": " in bed."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "My brother "
+                },
+                {
+                  "markedText": "is"
+                },
+                {
+                  "text": " scared of dogs."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "It"
+                },
+                {
+                  "markedText": "’s"
+                },
+                {
+                  "text": " ten (o'clock). You"
+                },
+                {
+                  "markedText": "’re"
+                },
+                {
+                  "text": " late again."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Ann and I "
+                },
+                {
+                  "markedText": "are"
+                },
+                {
+                  "text": " good friends."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Your keys "
+                },
+                {
+                  "markedText": "are"
+                },
+                {
+                  "text": " on the table."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "NEGATIVE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "I "
+                },
+                {
+                  "markedText": "am not"
+                },
+                {
+                  "text": " (I’"
+                },
+                {
+                  "markedText": "m not"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "you "
+                },
+                {
+                  "markedText": "are"
+                },
+                {
+                  "text": " (you’"
+                },
+                {
+                  "markedText": "re"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "he "
+                },
+                {
+                  "markedText": "is"
+                },
+                {
+                  "text": " (he’"
+                },
+                {
+                  "markedText": "s"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "she "
+                },
+                {
+                  "markedText": "is"
+                },
+                {
+                  "text": " (she’"
+                },
+                {
+                  "markedText": "s"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "it "
+                },
+                {
+                  "markedText": "is"
+                },
+                {
+                  "text": " (it’"
+                },
+                {
+                  "markedText": "s"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "we "
+                },
+                {
+                  "markedText": "are"
+                },
+                {
+                  "text": " (we’"
+                },
+                {
+                  "markedText": "re"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "you "
+                },
+                {
+                  "markedText": "are"
+                },
+                {
+                  "text": " (you’"
+                },
+                {
+                  "markedText": "re"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "they "
+                },
+                {
+                  "markedText": "are"
+                },
+                {
+                  "text": " (they’"
+                },
+                {
+                  "markedText": "re"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Jane is "
+                },
+                {
+                  "text": "Autralian. "
+                },
+                {
+                  "text": "She "
+                },
+                {
+                  "markedText": "isn’t"
+                },
+                {
+                  "text": " American."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "These flowers "
+                },
+                {
+                  "text": "are"
+                },
+                {
+                  "text": " nice, and they "
+                },
+                {
+                  "markedText": "aren’t"
+                },
+                {
+                  "text": " expensive."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "James "
+                },
+                {
+                  "markedText": "isn't"
+                },
+                {
+                  "text": " a teacher. He’s a student."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": " Tom "
+                },
+                {
+                  "markedText": "isn't"
+                },
+                {
+                  "text": " here. He’s at work."
+                }
+              ]
             }
           ]
         }
@@ -39,7 +581,7 @@
     {
       "ribbon": {
         "bgColor": "var(--gray-3)",
-        "color": "black",
+        "textColor": "black",
         "label": "B"
       }
     },
@@ -48,7 +590,11 @@
         {
           "blocks": [
             {
-              "text": "..."
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -57,7 +603,7 @@
     {
       "ribbon": {
         "bgColor": "var(--gray-3)",
-        "color": "black",
+        "textColor": "black",
         "label": "C"
       }
     },
@@ -66,7 +612,11 @@
         {
           "blocks": [
             {
-              "text": "..."
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -75,7 +625,7 @@
     {
       "ribbon": {
         "bgColor": "var(--gray-3)",
-        "color": "black",
+        "textColor": "black",
         "label": "D"
       }
     },
@@ -84,7 +634,11 @@
         {
           "blocks": [
             {
-              "text": "..."
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }

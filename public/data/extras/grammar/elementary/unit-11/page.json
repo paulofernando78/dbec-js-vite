@@ -12,7 +12,7 @@
         "description": "Elementary"
       },
       {
-        "icon": "page",
+        "icon": "homework",
         "description": "Unit 11 • worked / got / went etc. (simple past)"
       }
     ]
@@ -1556,6 +1556,33 @@
               "beforeBlank": "8. Our friends often come to see us. They ",
               "correctAnswer": ["came"],
               "afterBlank": " to see us last Friday.",
+              "displayBlock": true
+            }
+          ]
+        },
+        {
+          "title": "11.4 Write a sentence with just for each picture."
+        },
+        {
+          "fillExercises": [
+            {
+              "beforeBlank": "1. They ",
+              "correctAnswer": ["just arrived."],
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "2. He ",
+              "correctAnswer": [" just woke up."],
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "3. They ",
+              "correctAnswer": ["just bought a new car."],
+              "displayBlock": true
+            },
+            {
+              "beforeBlank": "4. The race ",
+              "correctAnswer": [" just started."],
               "displayBlock": true
             }
           ]
