@@ -1,0 +1,332 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "descriptions": [
+      {
+        "icon": "audiobooks",
+        "description": "Audiobooks"
+      },
+      {
+        "icon": "pages",
+        "description": "Starter (Pre-A1)"
+      },
+      {
+        "icon": "book",
+        "description": "Finding Nemo"
+      },
+      {
+        "icon": "flag",
+        "description": "American English"
+      },
+      {
+        "icon": "time",
+        "description": "01:44"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Summary"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "left",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/cover.avif",
+          "imgAlt": "Cover image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Nemo is a fish. Nemo and his Dad live in the ocean. It is the first day in school today. Who does Nemo see in school on the first day?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/extras/audiobooks/starter/kids/finding-nemo/audio.mp3"
+      }
+    },
+    {
+      "exercises": [
+        {
+          "title": "Choose the correct answer."
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "text": "1. Nemo is a:"
+                }
+              ],
+              "options": [
+                { "option": "a) boy", "isCorrect": false },
+                { "option": "b) fish", "isCorrect": true }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. He lives in:"
+                }
+              ],
+              "options": [
+                { "option": "a) a pool", "isCorrect": false },
+                { "option": "b) the ocean", "isCorrect": true }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 1"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-1.avif",
+          "imgAlt": "Paragraph 1 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Hello. My name is Nemo."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 2 (0:07)"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-2.avif",
+          "imgAlt": "Paragraph 2 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "This is my dad. Marlin."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 3 (0:13)"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-3.avif",
+          "imgAlt": "Paragraph 3 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "We live in the ocean."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 4 (0:18)"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-4.avif",
+          "imgAlt": "Paragraph 4 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Hoorah! Hoorah! It's my first day in school today"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 5 (0:29)"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-5.avif",
+          "imgAlt": "Paragraph 5 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Where is my school, Dad?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 6 (0:34)"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-6.avif",
+          "imgAlt": "Paragraph 6 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "It is there, Son."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 7 (0:40)"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-7.avif",
+          "imgAlt": "Paragraph 7 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Hello! Are you the teachers? No, we're moms and dads."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 8 (0:55)"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-8.avif",
+          "imgAlt": "Paragraph 8 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Hello, I'm Nemo. Are you my new friends? Yes, we are."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 9 (1:12)"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-9.avif",
+          "imgAlt": "Paragraph 9 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "I'm Mr Ray. I'm the teacher. Where's my new class? Here we are."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 10 (1:32)"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-10.avif",
+          "imgAlt": "Paragraph 10 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Bye, Dad. Bye, Nemo. Have fun in school."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

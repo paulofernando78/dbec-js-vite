@@ -15,6 +15,10 @@
         "description": "Cinderella"
       },
       {
+        "icon": "flag",
+        "description": "American English"
+      },
+      {
         "icon": "time",
         "description": "03:05"
       }
@@ -32,7 +36,7 @@
         {
           "imgPosition": "left",
           "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/cover.avif",
-          "imgAlt": "A new zealand adventure cover",
+          "imgAlt": "Cover image",
           "blocks": [
             {
               "block": [

@@ -3,7 +3,7 @@
     "title": "Extras",
     "descriptions": [
       {
-        "icon":	"audiobooks",
+        "icon": "audiobooks",
         "description": "Audiobooks"
       },
       {
@@ -12,7 +12,7 @@
       },
       {
         "icon": "book",
-        "description": "Dumbo"
+        "description": "Puss-in-boots"
       },
       {
         "icon": "flag",
@@ -20,7 +20,7 @@
       },
       {
         "icon": "time",
-        "description": "02:56"
+        "description": "00:00"
       }
     ]
   },
@@ -35,14 +35,37 @@
       "text": [
         {
           "imgPosition": "left",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/dumbo/cover.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/puss-in-boots/cover.avif",
           "imgAlt": "Cover image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": "This is Dumbo. He has a yellow hat and big ears. He can fly."
+                  "text": "Puss-in-Boots is a very unusual and clever cat. He wears long boots and is so clever that by his actions he makes his master a rich and happy man."
                 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "Choose the correct answer.",
+          "description": "Description"
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "text": "What does Puss-in-Boots wear?"
+                }
+              ],
+              "options": [
+                { "option": "a) He likes to wear shoes.", "isCorrect": false },
+                { "option": "b) He likes to wear boots.", "isCorrect": true }
               ]
             }
           ]
@@ -52,7 +75,7 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/starter/kids/dumbo/audio.mp3"
+        "src": "/assets/audio/extras/audiobooks/starter/kids/puss-in-boots/audio.mp3"
       }
     },
     {
@@ -65,13 +88,13 @@
       "text": [
         {
           "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/dumbo/paragraph-1.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/puss-in-boots/paragraph-1.avif",
           "imgAlt": "Paragraph 1 image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": "This is baby Dumbo. Small eyes, a big nose, and…"
+                  "text": "Once upon a time, there was a poor farmer who had a very clever cat."
                 }
               ]
             }
@@ -82,20 +105,20 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 2 (0:17)"
+        "label": "Paragraph 2"
       }
     },
     {
       "text": [
         {
           "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/dumbo/paragraph-2.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/puss-in-boots/paragraph-2.avif",
           "imgAlt": "Paragraph 2 image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": "Ha! Ha! He has big ears!"
+                  "text": "“My name's Puss-in-Boots!” The cat said. “Master, I can talk, I'd like to help you.”"
                 }
               ]
             }
@@ -106,20 +129,20 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 3 (0:27)"
+        "label": "Paragraph 3"
       }
     },
     {
       "text": [
         {
           "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/dumbo/paragraph-3.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/puss-in-boots/paragraph-3.avif",
           "imgAlt": "Paragraph 3 image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": "Mommy Elephant is big. The boys are scared. They run."
+                  "text": "Then Puss-in-Boots went into the forest. He caught a big fat rabbit in his bag."
                 }
               ]
             }
@@ -130,20 +153,20 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 4 (0:45)"
+        "label": "Paragraph 4"
       }
     },
     {
       "text": [
         {
           "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/dumbo/paragraph-4.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/puss-in-boots/paragraph-4.avif",
           "imgAlt": "Paragraph 4 image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": "The Boss shuts Mommy Elephant in the train."
+                  "text": "He took the rabbit to the king."
                 }
               ]
             }
@@ -154,20 +177,20 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 5 (0:59)"
+        "label": "Paragraph 5"
       }
     },
     {
       "text": [
         {
           "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/dumbo/paragraph-5.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/puss-in-boots/paragraph-5.avif",
           "imgAlt": "Paragraph 5 image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": "Dumbo is sad. Where is his mommy?"
+                  "text": "“This present is from my master,” he said."
                 }
               ]
             }
@@ -178,20 +201,20 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 6 (1:09)"
+        "label": "Paragraph 6"
       }
     },
     {
       "text": [
         {
           "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/dumbo/paragraph-6.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/puss-in-boots/paragraph-6.avif",
           "imgAlt": "Paragraph 6 image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": "Dumbo is in the circus now. He jumps. He is scared."
+                  "text": "Later, Puss said to his master, ”take off your clothes and jump in the river!“"
                 }
               ]
             }
@@ -202,20 +225,20 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 7 (1:21)"
+        "label": "Paragraph 7"
       }
     },
     {
       "text": [
         {
           "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/dumbo/paragraph-7.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/puss-in-boots/paragraph-7.avif",
           "imgAlt": "Paragraph 7 image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": "Dumbo is sad, but he has a friend."
+                  "text": "“Quick!” Puss said to the king and his daughter. “My master is in the water!”"
                 }
               ]
             }
@@ -226,20 +249,20 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 8 (1:31)"
+        "label": "Paragraph 8"
       }
     },
     {
       "text": [
         {
           "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/dumbo/paragraph-8.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/puss-in-boots/paragraph-8.avif",
           "imgAlt": "Paragraph 8 image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": "A bird gives Dumbo a magic feather."
+                  "text": "The king gave the farmer dry clothes. They were beautiful. The farmer looked very handsome."
                 }
               ]
             }
@@ -250,20 +273,20 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 9 (1:38)"
+        "label": "Paragraph 9"
       }
     },
     {
       "text": [
         {
           "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/dumbo/paragraph-9.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/puss-in-boots/paragraph-9.avif",
           "imgAlt": "Paragraph 9 image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": "Weeeeeee! Now Dumbo flies. Dumbo has the magic feather!"
+                  "text": "Puss-in-Boots saw a big castle. “A monster lives here,” Puss said, “but I'm not scared!”"
                 }
               ]
             }
@@ -274,20 +297,20 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 10 (1:52)"
+        "label": "Paragraph 10"
       }
     },
     {
       "text": [
         {
           "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/dumbo/paragraph-10.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/puss-in-boots/paragraph-10.avif",
           "imgAlt": "Paragraph 10 image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": "This is the big jump. The house is tall."
+                  "text": "“Show me some magic!” Puss said to the monster. “Can you change into a mouse?”"
                 }
               ]
             }
@@ -298,20 +321,20 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 11 (2:02)"
+        "label": "Paragraph 11"
       }
     },
     {
       "text": [
         {
           "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/dumbo/paragraph-11.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/puss-in-boots/paragraph-11.avif",
           "imgAlt": "Paragraph 11 image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": "1, 2, 3! Dumbo jumps! Oops! Where is the feather?"
+                  "text": "“Yes”, the monster said — he was very silly! He changed into a mouse. Puss jumped!"
                 }
               ]
             }
@@ -322,20 +345,20 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 12 (2:21)"
+        "label": "Paragraph 12"
       }
     },
     {
       "text": [
         {
           "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/dumbo/paragraph-12.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/puss-in-boots/paragraph-12.avif",
           "imgAlt": "Paragraph 12 image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": "Dumbo has big, big, big ears! The boys, girls, moms, and dads look. Dumbo flies."
+                  "text": "Puss showed the castle to the king and princess. Puss and his master lived there."
                 }
               ]
             }
@@ -346,20 +369,44 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 13 (2:44)"
+        "label": "Paragraph 13"
       }
     },
     {
       "text": [
         {
           "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/dumbo/paragraph-13.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/puss-in-boots/paragraph-13.avif",
           "imgAlt": "Paragraph 13 image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": "Hooray! Dumbo and Mommy Elephant are happy again."
+                  "text": "His master was now very rich. He married the princess. They had a big party!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 14"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/puss-in-boots/paragraph-14.avif",
+          "imgAlt": "Paragraph 14 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "“Now, everyone is happy,” Puss said. “What a very clever cat I am.” “Purrrrrrrrrrrrrrrrr!”"
                 }
               ]
             }
