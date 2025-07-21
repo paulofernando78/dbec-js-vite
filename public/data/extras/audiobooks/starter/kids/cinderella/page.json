@@ -3,7 +3,7 @@
     "title": "Extras",
     "descriptions": [
       {
-        "icon":	"audiobooks",
+        "icon": "audiobooks",
         "description": "..."
       },
       {
@@ -23,13 +23,62 @@
       "text": [
         {
           "imgPosition": "left",
-          "imgSrc": "/assets/images/extras/audiobooks/.../cover.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/cover.avif",
           "imgAlt": "A new zealand adventure cover",
           "blocks": [
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "There is a dance at the big house today! Cinderella is sad. Her sisters are at the dance … POUF! It is the Fairy Godmother. Does Cinderella go to the dance? Does she see the Prince?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "Choose the correct answer."
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "text": "Cinderella's hair color is:"
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) black",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) blonde",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "Cinderella's dress is:"
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) green",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) blue",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) red",
+                  "isCorrect": false
                 }
               ]
             }
@@ -40,28 +89,338 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/.../audio.mp3"
+        "src": "/assets/audio/extras/audiobooks/starter/kids/cinderella/audio.mp3"
       }
     },
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 1",
-        "subIcon": "schedule",
-        "subLabel": "..."
+        "label": "Paragraph 1"
       }
     },
     {
       "text": [
         {
           "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-1.avif",
           "imgAlt": "Paragraph 1 image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Cluck! Cluck! This is Cinderella."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 2"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-2.avif",
+          "imgAlt": "Paragraph 2 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Cinderella is nice. Her sisters are bad."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 3"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-3.avif",
+          "imgAlt": "Paragraph 3 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "There is a dance at the big house today."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 4"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-4.avif",
+          "imgAlt": "Paragraph 4 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Her sisters are at the dance. Cinderella is sad."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 5"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-5.avif",
+          "imgAlt": "Paragraph 5 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Pouf! It is the Fairy Godmother. Now Cinderella has beautiful clothes."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 6"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-6.avif",
+          "imgAlt": "Paragraph 6 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Twelve is home time, Cinderella! She goes to the dance."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 7"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-7.avif",
+          "imgAlt": "Paragraph 7 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Cinderella is at the dance. The prince sees Cinderella."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 8"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-8.avif",
+          "imgAlt": "Paragraph 8 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "They dance and dance. Dong, dong, dong, dong, dong, dong, dong, dong! Oh, no! It is twelve."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 9"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-9.avif",
+          "imgAlt": "Paragraph 9 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Cinderella runs and runs. Oh no! Where is her shoe?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 10"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-10.avif",
+          "imgAlt": "Paragraph 10 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "A man comes to the house. Where is the beautiful girl?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 11"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-11.avif",
+          "imgAlt": "Paragraph 11 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Is it her shoe? No, it isn't. Ouch! Ouch!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 12"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-12.avif",
+          "imgAlt": "Paragraph 12 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Now Cinderella comes. Is it her shoe?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 13"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-13.avif",
+          "imgAlt": "Paragraph 13 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Yes, it is! She is the beautiful girl!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 14"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-14.avif",
+          "imgAlt": "Paragraph 14 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Now the prince and Cinderella are husband and wife."
                 }
               ]
             }
