@@ -12,7 +12,11 @@
       },
       {
         "icon": "book",
-        "description": "Starter (Pre-A1)"
+        "description": "..."
+      },
+      {
+        "icon": "time",
+        "description": "00:00"
       }
     ]
   },
