@@ -4,11 +4,15 @@
     "descriptions": [
       {
         "icon":	"audiobooks",
-        "description": "..."
+        "description": "Audiobooks"
+      },
+      {
+        "icon": "pages",
+        "description": "Starter (Pre-A1)"
       },
       {
         "icon": "book",
-        "description": "Starter (Pre-A1)/Beginner (A1)"
+        "description": "Starter (Pre-A1)"
       }
     ]
   },
@@ -23,7 +27,7 @@
       "text": [
         {
           "imgPosition": "left",
-          "imgSrc": "/assets/images/extras/audiobooks/.../cover.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/.../cover.avif",
           "imgAlt": "...",
           "blocks": [
             {
@@ -40,7 +44,7 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/.../audio.mp3"
+        "src": "/assets/audio/extras/audiobooks/starter/.../audio.mp3"
       }
     },
     {
