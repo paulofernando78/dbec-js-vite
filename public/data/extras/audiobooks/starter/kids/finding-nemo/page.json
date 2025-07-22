@@ -15,12 +15,12 @@
         "description": "Finding Nemo"
       },
       {
-        "icon": "flag",
-        "description": "American English"
-      },
-      {
         "icon": "time",
         "description": "01:44"
+      },
+      {
+        "icon": "flag",
+        "description": "American English"
       }
     ]
   },

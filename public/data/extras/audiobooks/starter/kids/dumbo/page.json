@@ -3,7 +3,7 @@
     "title": "Extras",
     "descriptions": [
       {
-        "icon":	"audiobooks",
+        "icon": "audiobooks",
         "description": "Audiobooks"
       },
       {
@@ -15,12 +15,12 @@
         "description": "Dumbo"
       },
       {
-        "icon": "flag",
-        "description": "American English"
-      },
-      {
         "icon": "time",
         "description": "02:56"
+      },
+      {
+        "icon": "flag",
+        "description": "American English"
       }
     ]
   },

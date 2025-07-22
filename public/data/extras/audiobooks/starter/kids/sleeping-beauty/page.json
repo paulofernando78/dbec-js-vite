@@ -15,12 +15,12 @@
         "description": "Sleeping Beauty"
       },
       {
-        "icon": "flag",
-        "description": "American English"
-      },
-      {
         "icon": "time",
         "description": "00:00"
+      },
+      {
+        "icon": "flag",
+        "description": "American English"
       }
     ]
   },
@@ -35,14 +35,48 @@
       "text": [
         {
           "imgPosition": "left",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/.../cover.avif",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/sleeping-beauty/cover.avif",
           "imgAlt": "Cover image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Princess Aurora lives in a big castle. Prince Phillip is her friend.The Princess puts one hand on a spindle … she sleeps and sleeps. Does Princess Aurora see Prince Phillip again?"
                 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "Choose the correct answer.",
+          "description": "Description"
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "text": "1. Princess Aurora is:"
+                }
+              ],
+              "options": [
+                { "option": "a) ugly", "isCorrect": false },
+                { "option": "b) beautiful", "isCorrect": true }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "1. Princess Aurora is:"
+                }
+              ],
+              "options": [
+                { "option": "a) sleeping.", "isCorrect": false },
+                { "option": "b) dancing with the Prince", "isCorrect": true }
               ]
             }
           ]
@@ -52,7 +86,7 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/starter/.../audio.mp3"
+        "src": "/assets/audio/extras/audiobooks/starter/kids/sleeping-beauty/audio.mp3"
       }
     },
     {
@@ -65,13 +99,229 @@
       "text": [
         {
           "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/sleeping-beauty/paragraph-1.avif",
           "imgAlt": "Paragraph 1 image",
           "blocks": [
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "This is princess Aurora. She walks in the forest today."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 2"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/sleeping-beauty/paragraph-2.avif",
+          "imgAlt": "Paragraph 2 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Princess Aurora likes birds and animals. They live in the forest."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 3"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/sleeping-beauty/paragraph-3.avif",
+          "imgAlt": "Paragraph 3 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Princess Philip likes the Princess and she likes him."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 4"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/sleeping-beauty/paragraph-4.avif",
+          "imgAlt": "Paragraph 4 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Princess Aurora lives in a big castle."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 5"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/sleeping-beauty/paragraph-5.avif",
+          "imgAlt": "Paragraph 5 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Oh, no! Maleficent is in the castle. She is bad."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 6"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/sleeping-beauty/paragraph-6.avif",
+          "imgAlt": "Paragraph 6 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Princess Aurora sees a spindle. She puts one hand on the spindle."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 7"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/sleeping-beauty/paragraph-7.avif",
+          "imgAlt": "Paragraph 7 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Ouch! It's a bad spindle. Princess Aurora sleeps now. Ha Ha! She sleeps and sleeps and sleeps."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 8"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/sleeping-beauty/paragraph-8.avif",
+          "imgAlt": "Paragraph 8 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Prince Philip is on a horse. He goes in the castle."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 9"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/sleeping-beauty/paragraph-9.avif",
+          "imgAlt": "Paragraph 9 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Prince Philipe kisses Princess Aurora. She looks at the Prince."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 10"
+      }
+    },
+    {
+      "text": [
+        {
+          "imgPosition": "right",
+          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/sleeping-beauty/paragraph-10.avif",
+          "imgAlt": "Paragraph 10 image",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Now the Prince and Princess are happy."
                 }
               ]
             }

@@ -15,12 +15,12 @@
         "description": "Puss-in-boots"
       },
       {
-        "icon": "flag",
-        "description": "American English"
-      },
-      {
         "icon": "time",
         "description": "00:00"
+      },
+      {
+        "icon": "flag",
+        "description": "American English"
       }
     ]
   },

@@ -15,12 +15,12 @@
         "description": "..."
       },
       {
-        "icon": "flag",
-        "description": "..."
-      },
-      {
         "icon": "time",
         "description": "00:00"
+      },
+      {
+        "icon": "flag",
+        "description": "..."
       }
     ]
   },

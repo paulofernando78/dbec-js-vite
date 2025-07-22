@@ -15,12 +15,12 @@
         "description": "Cinderella"
       },
       {
-        "icon": "flag",
-        "description": "American English"
-      },
-      {
         "icon": "time",
         "description": "03:05"
+      },
+      {
+        "icon": "flag",
+        "description": "American English"
       }
     ]
   },
