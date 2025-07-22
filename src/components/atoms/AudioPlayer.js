@@ -23,7 +23,7 @@ class AudioPlayer extends HTMLElement {
 
     const audio = document.createElement("audio");
     audio.controls = true;
-    audio.src = audioPlayer || "";
+    audio.src = audioPlayer.src;
 
     this.shadowRoot.append(cssImports, audio, css);
   }

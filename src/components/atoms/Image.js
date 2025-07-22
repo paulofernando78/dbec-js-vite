@@ -10,15 +10,15 @@ class Image extends HTMLElement {
     // CSS imports
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
+    this.shadowRoot.appendChild(cssImports);
 
     const image = document.createElement("img");
-    image.src = img.src || "";
-    image.alt = img.alt || "";
     image.style.width = img.width || "100%";
     image.style.border = "var(--img-border)"
     image.style.borderRadius = "var(--border-radius)"
+    image.src = img.src;
+    image.alt = img.alt || "";
 
-    this.shadowRoot.appendChild(cssImports);
     this.shadowRoot.appendChild(image);
   }
 

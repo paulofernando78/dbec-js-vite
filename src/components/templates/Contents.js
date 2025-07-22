@@ -101,6 +101,13 @@ class Contents extends HTMLElement {
         contentContainer.appendChild(imageWrapper);
       }
 
+       //Iframe
+      if(section.iframe) {
+        const iframe = document.createElement("wc-iframe");
+        iframe.data = section.iframe;
+        contentContainer.appendChild(iframe)
+      }
+
       // Audioplayer
       if (section.audioPlayer) {
         const audioPlayer = document.createElement("wc-audio-player");
@@ -108,7 +115,7 @@ class Contents extends HTMLElement {
         if (section.audioPlayer.sticky) {
           audioPlayer.classList.add("sticky");
         }
-        audioPlayer.data = section.audioPlayer.src;
+        audioPlayer.data = section.audioPlayer;
         contentContainer.appendChild(audioPlayer);
       }
 
@@ -119,16 +126,18 @@ class Contents extends HTMLElement {
         if (section.videoPlayer.sticky) {
           videoPlayer.classList.add("sticky");
         }
-        videoPlayer.data = section.videoPlayer.src;
+        videoPlayer.data = section.videoPlayer;
         contentContainer.appendChild(videoPlayer);
       }
 
+      // Exercises
       if (section.exercises) {
         const exercise = document.createElement("wc-exercise");
         exercise.data = section.exercises;
         contentContainer.appendChild(exercise);
       }
 
+      // Hr tag
       if (section.hr) {
         const hr = document.createElement("hr");
         contentContainer.appendChild(hr);

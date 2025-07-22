@@ -25,6 +25,10 @@ class Exercise extends HTMLElement {
         this._renderTitleDescription(section.title, section.description);
       }
 
+      if (section.images) {
+        this._renderImages(section.images);
+      }
+
       if (section.radioExercises) {
         // console.log("Recebido?:", section.radioExercises);
         this._renderRadioExercises(section.radioExercises, idx);
@@ -66,6 +70,19 @@ class Exercise extends HTMLElement {
       titleWrapper.appendChild(descriptionElement);
     }
     this.exerciseContainer.appendChild(titleWrapper);
+  }
+
+  // Images
+  _renderImages(items) {
+    items.forEach((item) => {
+      const images = document.createElement("wc-images");
+      images.data  = {
+        width: item.width,
+        src: item.img,
+        alt: item.alt
+      }
+      this.exerciseContainer.appendChild(images);
+    });
   }
 
   // Radio

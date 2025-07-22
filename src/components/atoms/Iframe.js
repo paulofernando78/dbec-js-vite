@@ -1,4 +1,4 @@
-class VideoPlayer extends HTMLElement {
+class Iframe extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -6,7 +6,7 @@ class VideoPlayer extends HTMLElement {
 
   /**
    * Sets the video source URL and renders the player.
-   * @param {VideoPlayerData} item
+   * @param {IframeData} item
    */
   set data(item) {
     this.render(item);
@@ -18,36 +18,21 @@ class VideoPlayer extends HTMLElement {
     cssImports.href = "/src/css/imports.css";
     this.shadowRoot.appendChild(cssImports);
 
-    // iframe-wrapper created so sticky can be applied
-    const css = document.createElement("style"); /*css*/
-    css.textContent = `
-		.iframe-wrapper {
-      display: block;
-      width: 100%
-    }	
-    
-    iframe {
-				aspect-ratio: 16 / 9;
-        width: 100%;
-        border-radius: var(--border-radius)
-			}
-		`;
-
-    const wrapper = document.createElement("div");
-    wrapper.classList.add("iframe-wrapper")
-    
     const iframe = document.createElement("iframe");
-    iframe.style.height = "360px";
+    iframe.style.width = "100%";
+    iframe.style.border = "1px solid lightgray";
+    iframe.style.height = item.height || "400px";
+    iframe.style.borderRadius = "var(--border-radius)";
+    iframe.style.boxShadow = "var(--box-shadow)";
     iframe.setAttribute("frameborder", "0");
     iframe.setAttribute(
       "allow",
       "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     );
     iframe.src = item.src;
-    wrapper.appendChild(iframe)
 
-    this.shadowRoot.append(cssImports, css, wrapper);
+    this.shadowRoot.append(iframe, cssImports);
   }
 }
 
-export default VideoPlayer;
+export default Iframe;
