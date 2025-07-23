@@ -1713,7 +1713,7 @@
                       "correctAnswer": ["drove"]
                     },
                     {
-                      "beforeBlank": "When she (get)",
+                      "beforeBlank": "to the airport. When she (get)",
                       "correctAnswer": ["got"]
                     },
                     {
@@ -1746,9 +1746,9 @@
                       "correctAnswer": ["arrived"]
                     },
                     {
-                      "beforeBlank": " in Madrid 13 hours later. Finally, she (take)",
+                      "beforeBlank": "in Madrid 13 hours later. Finally, she (take)",
                       "correctAnswer": ["took"],
-                      "afterBlank": "a taxi to the airport to ther hotel downtown."
+                      "afterBlank": "a taxi to the airport to their hotel downtown."
                     }
                   ]
                 }

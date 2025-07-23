@@ -26,6 +26,7 @@ class Exercise extends HTMLElement {
       }
 
       if (section.images) {
+        console.log("Getting?:", section.images);
         this._renderImages(section.images);
       }
 
@@ -78,9 +79,10 @@ class Exercise extends HTMLElement {
       const images = document.createElement("wc-images");
       images.data  = {
         width: item.width,
-        src: item.img,
+        src: item.src,
         alt: item.alt
       }
+      console.log("Rendering image:", images.data)
       this.exerciseContainer.appendChild(images);
     });
   }
