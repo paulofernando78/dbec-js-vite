@@ -22,14 +22,14 @@ class Contents extends HTMLElement {
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
-        gap: 10px
+        gap: 6px
       }
 
       .text-grid {
         display: grid;
         grid-template-columns: repeat(auto-fit, 250px);
         justify-content: center;
-        gap: 10px
+        gap: 6px
       }
 
       @media () {

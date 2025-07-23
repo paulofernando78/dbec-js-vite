@@ -14,6 +14,17 @@ class Exercise extends HTMLElement {
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
+    const css = document.createElement("style"); /*css*/
+    css.textContent = `
+      .image-wrapper {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 6px
+      }
+    `;
+    this.shadowRoot.appendChild(css);
+
     this.exerciseContainer = document.createElement("div");
     this.exerciseContainer.classList.add("line-break");
     this.shadowRoot.appendChild(this.exerciseContainer);
@@ -26,7 +37,7 @@ class Exercise extends HTMLElement {
       }
 
       if (section.images) {
-        console.log("Getting?:", section.images);
+        // console.log("Getting?:", section.images);
         this._renderImages(section.images);
       }
 
@@ -75,16 +86,18 @@ class Exercise extends HTMLElement {
 
   // Images
   _renderImages(items) {
+    const imageWrapper = document.createElement("div");
+    imageWrapper.classList.add("image-wrapper");
+
     items.forEach((item) => {
       const images = document.createElement("wc-image");
-      images.data  = {
-        width: item.width,
-        src: item.src,
-        alt: item.alt
-      }
-      console.log("Rendering image:", images.data)
-      this.exerciseContainer.appendChild(images);
+      images.classList.add("image-wrapper");
+      images.style.display = "flex";
+      images.data = item
+      imageWrapper.appendChild(images);
+      // console.log("Rendering image:", images.data)
     });
+    this.exerciseContainer.appendChild(imageWrapper);
   }
 
   // Radio

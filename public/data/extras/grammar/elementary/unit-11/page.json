@@ -1899,6 +1899,30 @@
           "title": "11.4 Write a sentence with just for each picture."
         },
         {
+          "images": [
+            {
+              "width": "180px",
+              "src": "/assets/images/general/people-welcome-door.avif",
+              "alt": "..."
+            },
+            {
+              "width": "180px",
+              "src": "/assets/images/general/woman-wake-up.avif",
+              "alt": "..."
+            },
+            {
+              "width": "180px",
+              "src": "/assets/images/general/people-buy-new-car.avif",
+              "alt": "..."
+            },
+            {
+              "width": "180px",
+              "src": "/assets/images/general/people-run-competition.avif",
+              "alt": "..."
+            }
+          ]
+        },
+        {
           "fillExercises": [
             {
               "blocks": [
@@ -1930,7 +1954,7 @@
                   "block": [
                     {
                       "beforeBlank": "4. The race",
-                      "correctAnswer": ["just started."]
+                      "correctAnswer": ["just started.", "just began"]
                     }
                   ]
                 }
