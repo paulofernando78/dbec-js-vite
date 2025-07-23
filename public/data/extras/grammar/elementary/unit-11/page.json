@@ -164,6 +164,22 @@
             {
               "block": [
                 {
+                  "text": "open"
+                },
+                {
+                  "text": " ➜ open"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "text": "play"
                 },
                 {
@@ -259,7 +275,7 @@
             {
               "block": [
                 {
-                  "text": "live"
+                  "text": "liv"
                 },
                 {
                   "markedText": "e"
@@ -680,10 +696,20 @@
       ]
     },
     {
-      "grid": false,
       "text": [
         {
           "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Examples:"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "blocks": [
             {
               "block": [
@@ -1291,6 +1317,20 @@
             {
               "block": [
                 {
+                  "text": "sweep ➜ "
+                },
+                {
+                  "text": "w"
+                },
+                {
+                  "markedText": "ept"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
                   "text": "weep ➜ "
                 },
                 {
@@ -1490,6 +1530,18 @@
           ]
         },
         {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Examples:"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "blocks": [
             {
               "block": [
@@ -1500,10 +1552,10 @@
                   "text": "I usually get up early, but this morning I "
                 },
                 {
-                  "markedText":	"got up"
+                  "markedText": "got up"
                 },
                 {
-                  "text":	" at 9:30."
+                  "text": " at 9:30."
                 }
               ]
             },
@@ -1516,10 +1568,10 @@
                   "text": "We "
                 },
                 {
-                  "markedText":	"did"
+                  "markedText": "did"
                 },
                 {
-                  "text":	" a lot of work yesterday."
+                  "text": " a lot of work yesterday."
                 }
               ]
             },
@@ -1532,10 +1584,10 @@
                   "text": "Megan "
                 },
                 {
-                  "markedText":	"went"
+                  "markedText": "went"
                 },
                 {
-                  "text":	" to the movies three times last week."
+                  "text": " to the movies three times last week."
                 }
               ]
             },
@@ -1548,22 +1600,22 @@
                   "text": "James "
                 },
                 {
-                  "markedText":	"came"
+                  "markedText": "came"
                 },
                 {
-                  "text":	" into the room, "
+                  "text": " into the room, "
                 },
                 {
-                  "markedText":	"took off"
+                  "markedText": "took off"
                 },
                 {
-                  "text":	" his coat, and "
+                  "text": " his coat, and "
                 },
                 {
-                  "markedText":	"sat down"
+                  "markedText": "sat down"
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
               ]
             }
@@ -1582,7 +1634,7 @@
     {
       "exercises": [
         {
-          "title": "11.1 Complete the sentences with simple past. Use a verb from below.",
+          "title": "11.1 Complete the sentences with simple past. Use these verbs:",
           "description": "die / end / stay / enjoy / happen / open / rain / brush / start /  want"
         },
         {
@@ -1593,6 +1645,7 @@
                   "block": [
                     {
                       "beforeBlank": "1. I",
+                      "placeholder": "brushed",
                       "correctAnswer": ["brushed"],
                       "afterBlank": "my teeth three times yesterday,"
                     }
@@ -1694,6 +1747,7 @@
                   "block": [
                     {
                       "beforeBlank": "Last Tuesday, Liz (fly)",
+                      "placeholder": "flew",
                       "correctAnswer": ["flew"]
                     },
                     {
@@ -1757,8 +1811,7 @@
           ]
         },
         {
-          "title": "11.3 Write sentences about the past.",
-          "description": "Example: James always goes to work by car. Yesterday he went to work by car."
+          "title": "11.3 Write sentences about the past."
         },
         {
           "fillExercises": [
@@ -1769,6 +1822,7 @@
                   "block": [
                     {
                       "beforeBlank": "1. James always goes to work by car. Yesterday he",
+                      "placeholder": "went",
                       "correctAnswer": ["went"],
                       "afterBlank": "to work by car."
                     }
