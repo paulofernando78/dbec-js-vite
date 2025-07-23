@@ -1624,6 +1624,51 @@
       ]
     },
     {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "You can use just with the simple past(just = a short time):"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "“Is Tom here?” “No, he "
+                },
+                {
+                  "markedText":	"just"
+                },
+                {
+                  "text":	" left.”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "I‘m not hungry. I "
+                },
+                {
+                  "markedText":	"just"
+                },
+                {
+                  "text":	" had dinner."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "bgColor": "var(--gray-3)",
         "textColor": "black",
