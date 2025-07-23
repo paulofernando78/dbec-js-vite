@@ -76,7 +76,7 @@ class Exercise extends HTMLElement {
   // Images
   _renderImages(items) {
     items.forEach((item) => {
-      const images = document.createElement("wc-images");
+      const images = document.createElement("wc-image");
       images.data  = {
         width: item.width,
         src: item.src,

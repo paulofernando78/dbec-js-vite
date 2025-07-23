@@ -381,6 +381,15 @@
           "description": "Description"
         },
         {
+          "images": [
+            {
+              "width": "200px",
+              "src": "/assets/images/general/robalo.avif",
+              "alt": "..."
+            }
+          ]
+        },
+        {
           "radioExercises": [
             {
               "question": [
@@ -433,6 +442,15 @@
         {
           "title": "Fill in the blank",
           "description": "Description"
+        },
+        {
+          "images": [
+            {
+              "width": "200px",
+              "src": "/assets/images/general/robalo.avif",
+              "alt": "..."
+            }
+          ]
         },
         {
           "fillExercises": [
