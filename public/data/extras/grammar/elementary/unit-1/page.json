@@ -41,10 +41,10 @@
                   "text": "I"
                 },
                 {
-                  "markedText":	"’m"
+                  "markedText": "’m"
                 },
                 {
-                  "text":	" 22."
+                  "text": " 22."
                 }
               ]
             },
@@ -54,10 +54,10 @@
                   "text": "My name "
                 },
                 {
-                  "markedText":	"is"
+                  "markedText": "is"
                 },
                 {
-                  "text":	" Lisa."
+                  "text": " Lisa."
                 }
               ]
             },
@@ -67,16 +67,16 @@
                   "text": "I"
                 },
                 {
-                  "markedText":	"’m "
+                  "markedText": "’m "
                 },
                 {
-                  "text":	"American. I"
+                  "text": "American. I"
                 },
                 {
-                  "markedText":	"’m"
+                  "markedText": "’m"
                 },
                 {
-                  "text":	" from Chicago."
+                  "text": " from Chicago."
                 }
               ]
             },
@@ -86,10 +86,10 @@
                   "text": "I"
                 },
                 {
-                  "markedText":	"’m"
+                  "markedText": "’m"
                 },
                 {
-                  "text":	" a student."
+                  "text": " a student."
                 }
               ]
             },
@@ -99,16 +99,16 @@
                   "text": "My father "
                 },
                 {
-                  "markedText":	"is"
+                  "markedText": "is"
                 },
                 {
-                  "text":	" a doctor and my mother "
+                  "text": " a doctor and my mother "
                 },
                 {
-                  "markedText":	"is"
+                  "markedText": "is"
                 },
                 {
-                  "text":	" a journalist."
+                  "text": " a journalist."
                 }
               ]
             },
@@ -125,10 +125,10 @@
                   "text": "My favorite sports "
                 },
                 {
-                  "markedText":	"are"
+                  "markedText": "are"
                 },
                 {
-                  "text":	" football and swimming."
+                  "text": " football and swimming."
                 }
               ]
             },
@@ -138,10 +138,10 @@
                   "text": "I"
                 },
                 {
-                  "markedText":	"’m"
+                  "markedText": "’m"
                 },
                 {
-                  "text":	" interested in art."
+                  "text": " interested in art."
                 }
               ]
             },
@@ -151,10 +151,10 @@
                   "text": "I"
                 },
                 {
-                  "markedText":	"’m"
+                  "markedText": "’m"
                 },
                 {
-                  "text":	" not interested in politics."
+                  "text": " not interested in politics."
                 }
               ]
             }
@@ -1136,6 +1136,40 @@
         {
           "title": "1.4 Write sentences for the pictures. Use:",
           "description": "angry / cold / hot / hungry / scared / thirsty"
+        },
+        {
+          "images": [
+            {
+              "width": "250px",
+              "src": "/assets/images/general/woman-buy-water-thirsty.avif",
+              "alt": ""
+            },
+            {
+              "width": "250px",
+              "src": "/assets/images/general/people-cold.avif",
+              "alt": ""
+            },
+            {
+              "width": "250px",
+              "src": "/assets/images/general/woman-feel-hot.avif",
+              "alt": ""
+            },
+            {
+              "width": "250px",
+              "src": "/assets/images/general/man-scared-snake.avif",
+              "alt": ""
+            },
+            {
+              "width": "250px",
+              "src": "/assets/images/general/people-hungry.avif",
+              "alt": ""
+            },
+            {
+              "width": "250px",
+              "src": "/assets/images/general/woman-angry-broken-window.avif",
+              "alt": ""
+            }
+          ]
         },
         {
           "fillExercises": [
