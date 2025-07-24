@@ -40,17 +40,17 @@
       "images": [
         {
           "width": "200px",
-          "src": "/assets/images/general/robalo.avif",
+          "src": "/assets/images/general/cat-1.jpg",
           "alt": "..."
         },
         {
           "width": "200px",
-          "src": "/assets/images/general/robalo.avif",
+          "src": "/assets/images/general/cat-2.jpg",
           "alt": "..."
         },
         {
           "width": "200px",
-          "src": "/assets/images/general/robalo.avif",
+          "src": "/assets/images/general/cat-3.jpg",
           "alt": "..."
         }
       ]
@@ -58,7 +58,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Blocks + Image top / right / left"
+        "label": "Blocks + Image top / right / bottom / left "
       }
     },
     {

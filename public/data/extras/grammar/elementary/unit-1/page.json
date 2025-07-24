@@ -26,6 +26,143 @@
       }
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": true,
+          "imgSrc": "/assets/images/general/woman-smile.avif",
+          "imgAlt": "A woman smiling.",
+
+          "imgPosition": "left",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "I"
+                },
+                {
+                  "markedText":	"’m"
+                },
+                {
+                  "text":	" 22."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "My name "
+                },
+                {
+                  "markedText":	"is"
+                },
+                {
+                  "text":	" Lisa."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "I"
+                },
+                {
+                  "markedText":	"’m "
+                },
+                {
+                  "text":	"American. I"
+                },
+                {
+                  "markedText":	"’m"
+                },
+                {
+                  "text":	" from Chicago."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "I"
+                },
+                {
+                  "markedText":	"’m"
+                },
+                {
+                  "text":	" a student."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "My father "
+                },
+                {
+                  "markedText":	"is"
+                },
+                {
+                  "text":	" a doctor and my mother "
+                },
+                {
+                  "markedText":	"is"
+                },
+                {
+                  "text":	" a journalist."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "My favorite colur is blue."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "My favorite sports "
+                },
+                {
+                  "markedText":	"are"
+                },
+                {
+                  "text":	" football and swimming."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "I"
+                },
+                {
+                  "markedText":	"’m"
+                },
+                {
+                  "text":	" interested in art."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "I"
+                },
+                {
+                  "markedText":	"’m"
+                },
+                {
+                  "text":	" not interested in politics."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "bgColor": "var(--gray-3)",
         "textColor": "black",
@@ -198,6 +335,18 @@
                 },
                 {
                   "text": ")"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Examples"
                 }
               ]
             }
@@ -730,10 +879,6 @@
     {
       "exercises": [
         {
-          "title": "Exercises",
-          "description": "Description"
-        },
-        {
           "title": "1.1 Write the short form (she’s / we aren’t, etc.)"
         },
         {
@@ -744,6 +889,7 @@
                   "block": [
                     {
                       "beforeBlank": "1. she is ",
+                      "placeholder": "she’s",
                       "correctAnswer": ["she’s", "she's"]
                     }
                   ]
@@ -813,6 +959,7 @@
                   "block": [
                     {
                       "beforeBlank": "1. The weather ",
+                      "placeholder": "is",
                       "correctAnswer": ["is", "’s", "'s"],
                       "afterBlank": " nice today.",
                       "displayBlock": true
@@ -874,7 +1021,7 @@
                     {
                       "beforeBlank": "7. Amy ",
                       "correctAnswer": ["is", "’s", "'s"],
-                      "afterBlank": " at work. "
+                      "afterBlank": "at work. "
                     },
                     {
                       "beforeBlank": "Her children ",
@@ -913,6 +1060,7 @@
                   "block": [
                     {
                       "beforeBlank": "1. Matt is sick. ",
+                      "placeholder": "He’s",
                       "correctAnswer": ["He is", "He’s", "He's"],
                       "afterBlank": " in bed."
                     }
@@ -923,7 +1071,7 @@
                     {
                       "beforeBlank": "2. I'm not hungry, but ",
                       "correctAnswer": ["I am", "I’m", "I'm"],
-                      "afterBlank": " thirsty"
+                      "afterBlank": " thirsty."
                     }
                   ]
                 },
@@ -966,8 +1114,8 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "7. Catherine isn’t at home. She ",
-                      "correctAnswer": ["is", "’s", "'s"],
+                      "beforeBlank": "7. Catherine isn’t at home.",
+                      "correctAnswer": ["She is", "She’s", "She's"],
                       "afterBlank": " at work."
                     }
                   ]
@@ -976,7 +1124,7 @@
                   "block": [
                     {
                       "beforeBlank": "8. “",
-                      "correctAnswer": ["There is", "There’s", "There's"],
+                      "correctAnswer": ["Here is", "Here’s", "Here's"],
                       "afterBlank": " your coat.”. “Oh, thank you very much.”."
                     }
                   ]
@@ -997,7 +1145,11 @@
                   "block": [
                     {
                       "beforeBlank": "1. ",
-                      "correctAnswer": ["She is thirty.", "She’s thirsty.", "She's thirsty."]
+                      "correctAnswer": [
+                        "She is thirty.",
+                        "She’s thirsty.",
+                        "She's thirsty."
+                      ]
                     }
                   ]
                 },
@@ -1005,7 +1157,11 @@
                   "block": [
                     {
                       "beforeBlank": "2. ",
-                      "correctAnswer": ["They are cold.", "They’re cold.", "They're cold."]
+                      "correctAnswer": [
+                        "They are cold.",
+                        "They’re cold.",
+                        "They're cold."
+                      ]
                     }
                   ]
                 },
@@ -1021,7 +1177,14 @@
                   "block": [
                     {
                       "beforeBlank": "4. ",
-                      "correctAnswer": ["He is scared.", "He’s scared.", "He's scared.", "He is scared of snakes.", "He’s scared of snakes.", "He's scared of snakes."]
+                      "correctAnswer": [
+                        "He is scared.",
+                        "He’s scared.",
+                        "He's scared.",
+                        "He is scared of snakes.",
+                        "He’s scared of snakes.",
+                        "He's scared of snakes."
+                      ]
                     }
                   ]
                 },
@@ -1029,7 +1192,11 @@
                   "block": [
                     {
                       "beforeBlank": "5. ",
-                      "correctAnswer": ["They are hungry.", "They’re hungry.", "They're hungry."]
+                      "correctAnswer": [
+                        "They are hungry.",
+                        "They’re hungry.",
+                        "They're hungry."
+                      ]
                     }
                   ]
                 },
@@ -1037,7 +1204,11 @@
                   "block": [
                     {
                       "beforeBlank": "6. ",
-                      "correctAnswer": ["She is angry.", "She’s angry", "She's angry."]
+                      "correctAnswer": [
+                        "She is angry.",
+                        "She’s angry",
+                        "She's angry."
+                      ]
                     }
                   ]
                 }
@@ -1046,7 +1217,7 @@
           ]
         },
         {
-          "title": "1.5 Write true sentences, affirmative or negative."
+          "title": "1.5 Rewrite the sentences in the affirmative or negative using the correct verb form."
         },
         {
           "fillExercises": [
@@ -1056,7 +1227,12 @@
                   "block": [
                     {
                       "beforeBlank": "1. (Brazil / a very big country) ",
-                      "correctAnswer": ["Brazil is a very big country.", "Brazil’s a very big country.", "Brazil's a very big country."]
+                      "placeholder": "Brazil...",
+                      "correctAnswer": [
+                        "Brazil is a very big country.",
+                        "Brazil’s a very big country.",
+                        "Brazil's a very big country."
+                      ]
                     }
                   ]
                 },
@@ -1064,7 +1240,11 @@
                   "block": [
                     {
                       "beforeBlank": "2. (Diamonds / cheap) ",
-                      "correctAnswer": ["Diamonds are not cheap.", "Diamonds aren’t cheap.", "Diamonds aren't cheap."]
+                      "correctAnswer": [
+                        "Diamonds are not cheap.",
+                        "Diamonds aren’t cheap.",
+                        "Diamonds aren't cheap."
+                      ]
                     }
                   ]
                 },
@@ -1072,7 +1252,11 @@
                   "block": [
                     {
                       "beforeBlank": "3. (Quebec / in the United States)",
-                      "correctAnswer": ["Quebec is not in the United States.", "Quebec isn’t in the United States.", "Quebec isn't in the United States."]
+                      "correctAnswer": [
+                        "Quebec is not in the United States.",
+                        "Quebec isn’t in the United States.",
+                        "Quebec isn't in the United States."
+                      ]
                     }
                   ]
                 }
