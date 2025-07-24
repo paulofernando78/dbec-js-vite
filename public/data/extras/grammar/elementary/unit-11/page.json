@@ -1956,21 +1956,25 @@
         {
           "images": [
             {
+              "number": "1",
               "width": "180px",
               "src": "/assets/images/general/people-welcome-door.avif",
               "alt": "..."
             },
             {
+              "number": "2",
               "width": "180px",
               "src": "/assets/images/general/woman-wake-up.avif",
               "alt": "..."
             },
             {
+              "number": "3",
               "width": "180px",
               "src": "/assets/images/general/people-buy-new-car.avif",
               "alt": "..."
             },
             {
+              "number": "4",
               "width": "180px",
               "src": "/assets/images/general/people-run-competition.avif",
               "alt": "..."

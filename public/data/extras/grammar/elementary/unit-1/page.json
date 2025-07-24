@@ -1140,32 +1140,38 @@
         {
           "images": [
             {
-              "width": "250px",
+              "width": "200px",
+              "number": "1",
               "src": "/assets/images/general/woman-buy-water-thirsty.avif",
               "alt": ""
             },
             {
-              "width": "250px",
+              "width": "200px",
+              "number": "2",
               "src": "/assets/images/general/people-cold.avif",
               "alt": ""
             },
             {
-              "width": "250px",
+              "width": "200px",
+              "number": "3",
               "src": "/assets/images/general/woman-feel-hot.avif",
               "alt": ""
             },
             {
-              "width": "250px",
+              "width": "200px",
+              "number": "4",
               "src": "/assets/images/general/man-scared-snake.avif",
               "alt": ""
             },
             {
-              "width": "250px",
+              "width": "200px",
+              "number": "5",
               "src": "/assets/images/general/people-hungry.avif",
               "alt": ""
             },
             {
-              "width": "250px",
+              "width": "200px",
+              "number": "6",
               "src": "/assets/images/general/woman-angry-broken-window.avif",
               "alt": ""
             }
@@ -1180,7 +1186,7 @@
                     {
                       "beforeBlank": "1. ",
                       "correctAnswer": [
-                        "She is thirty.",
+                        "She is thirsty.",
                         "She’s thirsty.",
                         "She's thirsty."
                       ]

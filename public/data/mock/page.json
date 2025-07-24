@@ -40,16 +40,19 @@
       "images": [
         {
           "width": "200px",
+          "number": "1",
           "src": "/assets/images/general/cat-1.jpg",
           "alt": "..."
         },
         {
           "width": "200px",
+          "number": "2",
           "src": "/assets/images/general/cat-2.jpg",
           "alt": "..."
         },
         {
           "width": "200px",
+          "number": "3",
           "src": "/assets/images/general/cat-3.jpg",
           "alt": "..."
         }
