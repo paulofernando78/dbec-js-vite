@@ -20,8 +20,8 @@
   "contents": [
     {
       "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
+        "bgColor": "black",
+        "textColor": "var(--gray-3)",
         "icon": "snippet",
         "label": "A"
       }
@@ -34,7 +34,7 @@
             {
               "block": [
                 {
-                  "boldText": "Watch and listen to the sentences."
+                  "boldText": "Watch the video."
                 }
               ]
             }
@@ -47,15 +47,14 @@
         {
           "videoPlayer": [
             {
-              "position": "top",
-              "src": "https://www.youtube.com/embed/wrDgeQtmnEE"
+              "src": "https://www.youtube.com/embed/wrDgeQtmnEE?rel=0"
             }
           ],
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "∙  "
+                  "text": "1. "
                 },
                 {
                   "markedText": "Am I"
@@ -68,7 +67,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "2. "
                 },
                 {
                   "markedText": "Am I"
@@ -81,7 +80,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "3. "
                 },
                 {
                   "text": "Gee, "
@@ -97,7 +96,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "4. "
                 },
                 {
                   "markedText": "Are your"
@@ -110,7 +109,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "5. "
                 },
                 {
                   "markedText": "Are you"
@@ -123,7 +122,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "6. "
                 },
                 {
                   "markedText": "Are you"
@@ -136,7 +135,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "7. "
                 },
                 {
                   "markedText": "Is he"
@@ -149,7 +148,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "8. "
                 },
                 {
                   "markedText": "Is he"
@@ -162,7 +161,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "9. "
                 },
                 {
                   "markedText": "Is he"
@@ -175,7 +174,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "10. "
                 },
                 {
                   "markedText": "Is she"
@@ -188,7 +187,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "11. "
                 },
                 {
                   "markedText": "Is she"
@@ -201,7 +200,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "12. "
                 },
                 {
                   "markedText": "Is she"
@@ -214,7 +213,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "13. "
                 },
                 {
                   "markedText": "Is he"
@@ -227,10 +226,10 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "14. "
                 },
                 {
-                  "markedText": "Is he"
+                  "markedText": "Is it"
                 },
                 {
                   "text": " good?"
@@ -240,7 +239,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "15. "
                 },
                 {
                   "markedText": "Is it"
@@ -253,7 +252,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "16. "
                 },
                 {
                   "markedText": "Are we"
@@ -266,7 +265,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "17. "
                 },
                 {
                   "markedText": "Are we"
@@ -279,7 +278,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "18. "
                 },
                 {
                   "markedText": "Are we"
@@ -292,7 +291,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "19. "
                 },
                 {
                   "markedText": "Are they"
@@ -305,7 +304,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "20. "
                 },
                 {
                   "markedText": "Are they"
@@ -318,7 +317,7 @@
             {
               "block": [
                 {
-                  "boldText": "∙ "
+                  "text": "21. "
                 },
                 {
                   "markedText": "Are they"
@@ -334,8 +333,8 @@
     },
     {
       "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
+        "bgColor": "black",
+        "textColor": "var(--gray-3)",
         "icon": "snippet",
         "label": "B"
       }
@@ -418,21 +417,16 @@
     },
     {
       "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
+        "bgColor": "black",
+        "textColor": "white",
         "icon": "snippet",
         "label": "C"
       }
     },
     {
+      "grid": false,
       "text": [
         {
-          "videoPlayer": [
-            {
-              "position": "top",
-              "src": "https://www.youtube.com/embed/wrDgeQtmnEE"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -448,140 +442,284 @@
             {
               "block": [
                 {
-                  "text": "What...? / Where...? / Who...? / How...? / Why...?"
+                  "text": "what...? / where...? / who...? / how...? / why...?"
                 }
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "what’s = what is"
+      }
+    },
+    {
+      "text": [
         {
-          "card": false,
-          "blocks": [
+          "card": true,
+          "videoPlayer": [
             {
-              "block": [
-                {
-                  "text": "what’s = what is"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "where’s = where is"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "who’s = who is"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "how’s = how is"
-                }
-              ]
+              "src": "https://www.youtube.com/embed/dgB08TOiVXA?rel=0"
             }
-          ]
-        },
-        {
+          ],
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "• "
-                },
-                {
-                  "text": "“"
+                  "text": "1. "
                 },
                 {
                   "markedText": "What’s"
                 },
                 {
-                  "text": " your name?”. “My name’s Mike.”"
+                  "text": " your name?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "boldText": "• "
+                  "text": "2. "
                 },
                 {
-                  "text": "“"
+                  "markedText": "What’s"
                 },
                 {
-                  "markedText": "Where are"
-                },
-                {
-                  "text": " you from?”. “I’m from the United States.”"
+                  "text": " his name?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "boldText": "• "
+                  "text": "3. "
                 },
                 {
-                  "text": "“"
+                  "markedText": "What’s"
                 },
                 {
-                  "markedText": "How old"
-                },
-                {
-                  "text": " are you?. “I’m 47.”"
+                  "text": " her name?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "boldText": "• "
+                  "text": "4. "
                 },
                 {
-                  "text": "“"
+                  "markedText": "What are"
                 },
                 {
-                  "markedText": "Where’s"
-                },
-                {
-                  "text": " your car?” “It’s parked outside.”"
+                  "text": " their names?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "boldText": "• "
+                  "text": "5. So, "
                 },
                 {
-                  "text": "“"
+                  "markedText": "what’s"
                 },
                 {
-                  "markedText": "What color"
-                },
-                {
-                  "text": " is your car?”. “It’s red.”"
+                  "text": " he like?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "boldText": "• "
+                  "text": "6. "
                 },
                 {
-                  "text": "“"
+                  "markedText": "What’s"
                 },
                 {
-                  "markedText": "How fast"
+                  "text": " she like?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "7. "
                 },
                 {
-                  "text": " is it?”. “It’s pretty fast. It goes from 0 to 100 mph in 3 seconds.”"
+                  "markedText": "What is"
+                },
+                {
+                  "text": " it?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "8. "
+                },
+                {
+                  "markedText": "What color is"
+                },
+                {
+                  "text": " it?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "9. "
+                },
+                {
+                  "markedText": "What color is"
+                },
+                {
+                  "text": " your car?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "10. "
+                },
+                {
+                  "markedText": "What’s"
+                },
+                {
+                  "text": " it like to be married?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "11. "
+                },
+                {
+                  "markedText": "What are"
+                },
+                {
+                  "text": " they like?”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "where’s = where is"
+      }
+    },
+    {
+      "text": [
+        {
+          "videoPlayer": [
+            {
+              "src": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "1. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "who’s = who is"
+      }
+    },
+    {
+      "text": [
+        {
+          "videoPlayer": [
+            {
+              "src": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "1. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "how’s = how is"
+      }
+    },
+    {
+      "text": [
+        {
+          "videoPlayer": [
+            {
+              "src": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "1. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "why"
+      }
+    },
+    {
+      "text": [
+        {
+          "videoPlayer": [
+            {
+              "src": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "1. "
                 }
               ]
             }
