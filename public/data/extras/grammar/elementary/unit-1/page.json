@@ -12,7 +12,7 @@
       },
       {
         "icon": "homework",
-        "description": "Unit 1 • am/is/are"
+        "description": "Unit 1 • am / is / are"
       }
     ]
   },
@@ -888,7 +888,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. she is ",
+                      "beforeBlank": "1. she is",
                       "placeholder": "she’s",
                       "correctAnswer": ["she’s", "she's"]
                     }
@@ -897,7 +897,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. they are ",
+                      "beforeBlank": "2. they are",
                       "correctAnswer": ["they’re", "they're"]
                     }
                   ]
@@ -905,7 +905,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. it is not ",
+                      "beforeBlank": "3. it is not",
                       "correctAnswer": [
                         "it’s not",
                         "it's not",
@@ -918,7 +918,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "4. that is ",
+                      "beforeBlank": "4. that is",
                       "correctAnswer": ["that’s", "that's"]
                     }
                   ]
@@ -926,7 +926,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "5. I am not ",
+                      "beforeBlank": "5. I am not",
                       "correctAnswer": ["I’m not", "I'm not"]
                     }
                   ]
@@ -934,7 +934,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "6. you are not ",
+                      "beforeBlank": "6. you are not",
                       "correctAnswer": [
                         "you’re not",
                         "you're not",
@@ -958,10 +958,10 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. The weather ",
+                      "beforeBlank": "1. The weather",
                       "placeholder": "is",
                       "correctAnswer": ["is", "’s", "'s"],
-                      "afterBlank": " nice today.",
+                      "afterBlank": "nice today.",
                       "displayBlock": true
                     }
                   ]
@@ -969,9 +969,9 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. I ",
+                      "beforeBlank": "2. I",
                       "correctAnswer": ["am", "’m", "'m"],
-                      "afterBlank": " not rich.",
+                      "afterBlank": "not rich.",
                       "displayBlock": true
                     }
                   ]
@@ -979,9 +979,9 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. This bag ",
+                      "beforeBlank": "3. This bag",
                       "correctAnswer": ["is", "’s", "'s"],
-                      "afterBlank": " very heavy.",
+                      "afterBlank": "very heavy.",
                       "displayBlock": true
                     }
                   ]
@@ -989,9 +989,9 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "4. These bags ",
+                      "beforeBlank": "4. These bags",
                       "correctAnswer": ["are"],
-                      "afterBlank": " very heavy.",
+                      "afterBlank": "very heavy.",
                       "displayBlock": true
                     }
                   ]
@@ -999,9 +999,9 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "5. Look! There ",
+                      "beforeBlank": "5. Look! There",
                       "correctAnswer": ["is", "’s", "'s"],
-                      "afterBlank": " Rachel.",
+                      "afterBlank": "Rachel.",
                       "displayBlock": true
                     }
                   ]
@@ -1009,9 +1009,9 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "6. My brother and I ",
+                      "beforeBlank": "6. My brother and I",
                       "correctAnswer": ["are"],
-                      "afterBlank": " good friends.",
+                      "afterBlank": "good friends.",
                       "displayBlock": true
                     }
                   ]
@@ -1019,14 +1019,14 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "7. Amy ",
+                      "beforeBlank": "7. Amy",
                       "correctAnswer": ["is", "’s", "'s"],
                       "afterBlank": "at work. "
                     },
                     {
                       "beforeBlank": "Her children ",
                       "correctAnswer": ["are"],
-                      "afterBlank": " at school."
+                      "afterBlank": "at school."
                     }
                   ]
                 },
@@ -1041,7 +1041,7 @@
                     {
                       "beforeBlank": " My sister ",
                       "correctAnswer": ["is", "’s", "'s"],
-                      "afterBlank": " a nurse."
+                      "afterBlank": "a nurse."
                     }
                   ]
                 }
@@ -1059,46 +1059,46 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. Matt is sick. ",
+                      "beforeBlank": "1. Matt is sick.",
                       "placeholder": "He’s",
                       "correctAnswer": ["He is", "He’s", "He's"],
-                      "afterBlank": " in bed."
+                      "afterBlank": "in bed."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. I'm not hungry, but ",
+                      "beforeBlank": "2.I'm not hungry, but",
                       "correctAnswer": ["I am", "I’m", "I'm"],
-                      "afterBlank": " thirsty."
+                      "afterBlank": "thirsty."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. Mr. Thomas is a very old man. ",
+                      "beforeBlank": "3.Mr. Thomas is a very old man",
                       "correctAnswer": ["He is", "He’s", "He's"],
-                      "afterBlank": " 98."
+                      "afterBlank": "98."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "4. These chairs aren’t nice, but ",
+                      "beforeBlank": "4. These chairs aren’t nice, but",
                       "correctAnswer": ["they are", "they’re", "they're"],
-                      "afterBlank": " comfortable."
+                      "afterBlank": "comfortable."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "5. The weather is good today. ",
+                      "beforeBlank": "5.The weather is good today.",
                       "correctAnswer": ["It is", "It’s", "It's"],
-                      "afterBlank": " warm and sunny."
+                      "afterBlank": "warm and sunny."
                     }
                   ]
                 },
@@ -1116,7 +1116,7 @@
                     {
                       "beforeBlank": "7. Catherine isn’t at home.",
                       "correctAnswer": ["She is", "She’s", "She's"],
-                      "afterBlank": " at work."
+                      "afterBlank": "at work."
                     }
                   ]
                 },
@@ -1185,6 +1185,7 @@
                   "block": [
                     {
                       "beforeBlank": "1. ",
+                      "placeholder": "She is thirsty.",
                       "correctAnswer": [
                         "She is thirsty.",
                         "She’s thirsty.",

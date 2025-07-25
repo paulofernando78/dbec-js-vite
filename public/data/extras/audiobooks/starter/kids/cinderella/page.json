@@ -34,9 +34,13 @@
     {
       "text": [
         {
-          "imgPosition": "left",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/cover.avif",
-          "imgAlt": "Cover image",
+          "images": [
+            {
+              "position": "left",
+              "src": "/assets/images/extras/audiobooks/starter/kids/cinderella/cover.avif",
+              "alt": "Cover image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -113,9 +117,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-1.avif",
-          "imgAlt": "Paragraph 1 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-1.avif",
+              "alt": "Paragraph 1 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -137,9 +145,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-2.avif",
-          "imgAlt": "Paragraph 2 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-2.avif",
+              "alt": "Paragraph 2 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -161,9 +173,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-3.avif",
-          "imgAlt": "Paragraph 3 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-3.avif",
+              "alt": "Paragraph 3 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -185,9 +201,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-4.avif",
-          "imgAlt": "Paragraph 4 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-4.avif",
+              "alt": "Paragraph 4 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -209,9 +229,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-5.avif",
-          "imgAlt": "Paragraph 5 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-5.avif",
+              "alt": "Paragraph 5 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -233,9 +257,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-6.avif",
-          "imgAlt": "Paragraph 6 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-6.avif",
+              "alt": "Paragraph 6 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -257,9 +285,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-7.avif",
-          "imgAlt": "Paragraph 7 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-7.avif",
+              "alt": "Paragraph 7 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -281,9 +313,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-8.avif",
-          "imgAlt": "Paragraph 8 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-8.avif",
+              "alt": "Paragraph 8 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -305,9 +341,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-9.avif",
-          "imgAlt": "Paragraph 9 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-9.avif",
+              "alt": "Paragraph 9 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -329,9 +369,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-10.avif",
-          "imgAlt": "Paragraph 10 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-10.avif",
+              "alt": "Paragraph 10 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -353,9 +397,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-11.avif",
-          "imgAlt": "Paragraph 11 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-11.avif",
+              "alt": "Paragraph 11 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -377,9 +425,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-12.avif",
-          "imgAlt": "Paragraph 12 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-12.avif",
+              "alt": "Paragraph 12 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -401,9 +453,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-13.avif",
-          "imgAlt": "Paragraph 13 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-13.avif",
+              "alt": "Paragraph 13 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -425,9 +481,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-14.avif",
-          "imgAlt": "Paragraph 14 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/cinderella/paragraph-14.avif",
+              "alt": "Paragraph 14 image"
+            }
+          ],
           "blocks": [
             {
               "block": [

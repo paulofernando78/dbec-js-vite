@@ -23,7 +23,7 @@ class VideoPlayer extends HTMLElement {
     css.textContent = `
 		.iframe-wrapper {
       display: block;
-      width: 100%
+      width: 100%;
     }	
     
     iframe {
@@ -31,17 +31,18 @@ class VideoPlayer extends HTMLElement {
         width: 100%;
         border-radius: var(--border-radius)
 			}
+
+      @media 
 		`;
 
     const wrapper = document.createElement("div");
     wrapper.classList.add("iframe-wrapper")
     
     const iframe = document.createElement("iframe");
-    iframe.style.height = "360px";
     iframe.setAttribute("frameborder", "0");
     iframe.setAttribute(
       "allow",
-      "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      "accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     );
     iframe.src = item.src;
     wrapper.appendChild(iframe)

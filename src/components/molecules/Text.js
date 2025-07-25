@@ -16,7 +16,7 @@ class Text extends HTMLElement {
         display: grid;
         grid-template-rows: auto auto;
         gap: 10px
-      } 
+      }
 
       .img-right {
         display: grid;
@@ -36,10 +36,16 @@ class Text extends HTMLElement {
         gap: 10px
       }
 
-      .img-top wc-image,
-      .img-bottom wc-image {
-        justify-self: center
+      .image-wrapper, .video-wrapper {
+        justify-self: center;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px
+      }
 
+      .video-wrapper wc-video-player {
+        width: 100%
       }
 
       @media (max-width:     480px) {
@@ -52,13 +58,14 @@ class Text extends HTMLElement {
           margin: 0 auto
         }
 
+        .video-player {
+          height: 100px;
+        }
+
       }
     `;
 
     this.container = document.createElement("div");
-    // this.container.style.marginBottom = "var(--line-break)";
-    this.image = document.createElement("wc-image");
-
     this.shadowRoot.append(css, this.container);
   }
 
@@ -80,14 +87,38 @@ class Text extends HTMLElement {
   }
 
   render(block) {
-    const hasImage = block.imgSrc || block.imgAlt;
+    const hasImage = Array.isArray(block.images) && block.images.length > 0;
 
+    let imageWrapper;
     if (hasImage) {
-      this.image.data = {
-        src: block.imgSrc || "",
-        alt: block.imgAlt || "",
-        width: block.imgWidth || "100%",
-      };
+      imageWrapper = document.createElement("div");
+      imageWrapper.classList.add("image-wrapper");
+      block.images.forEach((img) => {
+        const imageElement = document.createElement("wc-image");
+        imageElement.data = {
+          width: img.width || "100%",
+          number: img.number || "",
+          src: img.src || "",
+          alt: img.alt || "",
+        };
+        imageWrapper.appendChild(imageElement);
+      });
+    }
+
+    const hasVideo = Array.isArray(block.videoPlayer) && block.videoPlayer.length > 0;
+
+    let videoWrapper;
+    if (hasVideo) {
+      videoWrapper = document.createElement("div");
+      videoWrapper.classList.add("video-wrapper");
+
+      block.videoPlayer.forEach((video) => {
+        const videoElement = document.createElement("wc-video-player");
+        videoElement.data = {
+          src: video.src
+        };
+        videoWrapper.appendChild(videoElement);
+      });
     }
 
     const textWrapper = document.createElement("div");
@@ -147,7 +178,7 @@ class Text extends HTMLElement {
           const underline = document.createElement("u");
           underline.textContent = subItem.boldUnderlinedText;
           bold.appendChild(underline);
-          blockElement.appendChild(bold)
+          blockElement.appendChild(bold);
         }
 
         if (subItem.markedText) {
@@ -166,28 +197,42 @@ class Text extends HTMLElement {
       });
 
       if (item.lineBreak) {
-        blockElement.style.marginBottom = "var(--line-break";
+        blockElement.style.marginBottom = "var(--line-break)";
       }
 
       textWrapper.appendChild(blockElement);
     });
 
-    const position = block.imgPosition || "top";
+    const position = hasVideo
+      ? block.videoPlayer[0].position || "top"
+      : hasImage
+      ? block.images[0].position || "top"
+      : "top";
     const validPositions = ["top", "right", "bottom", "left"];
     const validPosition = validPositions.includes(position) ? position : "top";
-    this.container.className = hasImage ? `img-${validPosition}` : "";
+    this.container.className =
+      hasImage || hasVideo ? `img-${validPosition}` : "";
 
-    if (block.imgPosition === "right") {
-      this.container.appendChild(textWrapper);
-      this.container.appendChild(this.image);
-    } else if (block.imgPosition === "bottom") {
-      this.container.appendChild(textWrapper);
-      this.container.appendChild(this.image);
-    } else if (block.imgPosition === "left") {
-      this.container.appendChild(this.image);
-      this.container.appendChild(textWrapper);
+    if (hasImage || hasVideo) {
+      if (validPosition === "right") {
+        this.container.appendChild(textWrapper);
+        if (hasImage) this.container.appendChild(imageWrapper);
+        if (hasVideo) this.container.appendChild(videoWrapper);
+      } else if (validPosition === "bottom") {
+        this.container.appendChild(textWrapper);
+        if (hasImage) this.container.appendChild(imageWrapper);
+        if (hasVideo) this.container.appendChild(videoWrapper);
+      } else if (validPosition === "left") {
+        if (hasImage) this.container.appendChild(imageWrapper);
+        if (hasVideo) this.container.appendChild(videoWrapper);
+        this.container.appendChild(textWrapper);
+      } else {
+        if (hasImage) this.container.appendChild(imageWrapper);
+        if (hasVideo) this.container.appendChild(videoWrapper);
+        this.container.appendChild(textWrapper);
+      }
     } else {
-      this.container.appendChild(this.image);
+      if (hasVideo) this.container.appendChild(videoWrapper)
       this.container.appendChild(textWrapper);
     }
 

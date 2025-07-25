@@ -16,7 +16,7 @@
         "description": "page"
       },
       {
-        "icon": "song",
+        "icon": "lyrics",
         "description": "song"
       },
       {
@@ -68,10 +68,27 @@
       "grid": false,
       "text": [
         {
-          "imgSrc": "/assets/images/general/cat-1.jpg",
-          "imgAlt": "imgAlt",
-          "imgWidth": "200px",
-          "imgPosition": "top",
+          "card": true,
+          "images": [
+            {
+              "width": "250px",
+              "number": "1",
+              "src": "/assets/images/general/cat-1.jpg",
+              "alt": "..."
+            },
+            {
+              "width": "250px",
+              "number": "2",
+              "src": "/assets/images/general/cat-1.jpg",
+              "alt": "..."
+            },
+            {
+              "width": "250px",
+              "number": "3",
+              "src": "/assets/images/general/cat-1.jpg",
+              "alt": "..."
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -102,9 +119,15 @@
           ]
         },
         {
-          "imgSrc": "/assets/images/general/cat-2.jpg",
-          "imgAlt": "imgAlt",
-          "imgPosition": "right",
+          "card": true,
+          "images": [
+            {
+              "position": "right",
+              "width": "200px",
+              "src": "/assets/images/general/cat-2.jpg",
+              "alt": "..."
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -135,15 +158,20 @@
           ]
         },
         {
-          "imgSrc": "/assets/images/general/cat-3.jpg",
-          "imgAlt": "imgAlt",
-          "imgWidth": "200px",
-          "imgPosition": "bottom",
+          "card": true,
+          "images": [
+            {
+              "position": "left",
+              "width": "200px",
+              "src": "/assets/images/general/cat-3.jpg",
+              "alt": "..."
+            }
+          ],
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Bottom boldText "
+                  "boldText": "Right boldText "
                 },
                 {
                   "phonetics": "phonetics "
@@ -169,9 +197,51 @@
           ]
         },
         {
-          "imgSrc": "/assets/images/general/cat-4.jpg",
-          "imgAlt": "imgAlt",
-          "imgPosition": "left",
+          "card": true,
+          "images": [
+            {
+              "width": "200px",
+              "position": "bottom",
+              "src": "/assets/images/general/cat-4.jpg",
+              "alt": "..."
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Right boldText "
+                },
+                {
+                  "phonetics": "phonetics "
+                },
+                {
+                  "partOfSpeech": "partOfSpeech "
+                },
+                {
+                  "text": "text "
+                },
+                {
+                  "markedText": "mark"
+                },
+                {
+                  "ptBoldText": " boldPtText "
+                },
+                {
+                  "ptText": "ptText"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "videoPlayer": [
+            {
+              "position": "top",
+              "src": "/assets/video/am-i-late-for.mp4"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -387,16 +457,19 @@
           "images": [
             {
               "width": "200px",
+              "number": "1",
               "src": "/assets/images/general/cat-1.jpg",
               "alt": "..."
             },
             {
               "width": "200px",
+              "number": "2",
               "src": "/assets/images/general/cat-2.jpg",
               "alt": "..."
             },
             {
               "width": "200px",
+              "number": "3",
               "src": "/assets/images/general/cat-3.jpg",
               "alt": "..."
             }
@@ -460,7 +533,20 @@
           "images": [
             {
               "width": "200px",
-              "src": "/assets/images/general/robalo.avif",
+              "number": "1",
+              "src": "/assets/images/general/cat-1.jpg",
+              "alt": "..."
+            },
+            {
+              "width": "200px",
+              "number": "2",
+              "src": "/assets/images/general/cat-2.jpg",
+              "alt": "..."
+            },
+            {
+              "width": "200px",
+              "number": "3",
+              "src": "/assets/images/general/cat-3.jpg",
               "alt": "..."
             }
           ]
