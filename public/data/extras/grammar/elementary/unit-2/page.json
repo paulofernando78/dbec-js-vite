@@ -27,9 +27,24 @@
       }
     },
     {
+      "grid": false,
       "text": [
         {
-          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Watch and listen to the sentences."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
           "videoPlayer": [
             {
               "position": "top",
@@ -412,6 +427,12 @@
     {
       "text": [
         {
+          "videoPlayer": [
+            {
+              "position": "top",
+              "src": "https://www.youtube.com/embed/wrDgeQtmnEE"
+            }
+          ],
           "blocks": [
             {
               "block": [
