@@ -21,27 +21,32 @@
     {
       "exercises": [
         {
-          "title": "Choose the most appropriate response to the following:"
+          "title": "Choose the best substitute for the highlighted phrase or sentence:"
         },
         {
           "radioExercises": [
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Procter & Gamble had to "
+                },{
+                  "markedText":	"jump through hoops"
+                },
+                {
+                  "text":	" to get its new drug approved by the Food and Drug Administration."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) ask the right people",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) take many steps",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) show proven results",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +54,26 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "2. Nora had a very good job interview with the bank. She thinks "
+                },
+                {
+                  "markedText":	"the job is in the bag"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) she'll get an offer",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) she'll get a rejection letter",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "c) she'll get a bag with the bank's logo on it",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +81,26 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "3. Madeleine Albright made many connections while she was U.S. Secretary of State. It was a "
+                },
+                {
+                  "markedText":	"no-brainer"
+                },
+                {
+                  "text":	" for her to open a political consulting firm after she left office."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) poor decision",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) logical decision",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) tough decision",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +108,26 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "4. When the popular coffee house announced it would start staying open until midnight and start serving beer, many loyal customers feared it would "
+                },
+                {
+                  "markedText":	"become a different animal"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) become a hangout for dogs and cats",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) change in character",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) become an even better coffee house",
                   "isCorrect": false
                 }
               ]
@@ -112,20 +135,53 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "5. I know you were hoping for a higher bonus, but $5,000 is "
+                },
+                {
+                  "markedText":	"nothing to sneeze at"
+                },
+                {
+                  "text":	"!"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) less than you deserve",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) disappointing",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) a good amount of money",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. Of course, I prefer Dom Perignon champagne over a $4 bottle of sparkling wine, but "
+                },
+                {
+                  "markedText":	"comparing the two is like comparing apples to oranges"
+                },
+                {
+                  "text":	"."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) you can't really compare the two",
+                  "isCorrect": true
+                },
+                {
+                  "option": "b) one is fruitier than the other",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) it makes sense to compare the two",
                   "isCorrect": false
                 }
               ]
@@ -133,63 +189,54 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "7. If you need advice on where to set up your new manufacturing facility in China, talk to Stan. "
+                },
+                {
+                  "markedText":	"He knows China inside and out"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) He's been to China a few times.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) He speaks Chinese.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) He knows China very well.",
                   "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
                 }
               ]
             },
             {
               "question": [
                 {
-                  "text": "7. ..."
+                  "text": "8. Chris spent a year working as an intern at Chelsea Brewing Company in order to "
+                },
+                {
+                  "markedText":	"get some experience under his belt"
+                },
+                {
+                  "text":	". Then he opened his own microbrewery."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) have a good time",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) make some money",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) gain experience",
                   "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
                 }
               ]
             }

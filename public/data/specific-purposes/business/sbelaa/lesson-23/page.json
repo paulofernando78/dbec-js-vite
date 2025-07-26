@@ -297,6 +297,411 @@
           ]
         }
       ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "Idioms & Expressions"
+      }
+    },
+    {
+      "text": [
+        {
+          "card": true,
+          "videoPlayer": [
+            {
+              "position": "bottom",
+              "src": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "(to get or to have) under one’s belt"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "to have or to get experience"
+                }
+              ],
+              "displayBlock": "true"
+            },
+            {
+              "block": [
+                {
+                  "text": "Example: Before you start your own coffee shop, you should work at Starbucks to get some experience under your belt."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "card": true,
+          "videoPlayer": [
+            {
+              "position": "bottom",
+              "src": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "nothing to sneeze at"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "not insignificant; impressive"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Example: This year, our company opened 15 new sales offices overseas. That's nothing to sneeze at!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "card": true,
+          "videoPlayer": [
+            {
+              "position": "bottom",
+              "src": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "know something inside and out"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "to know something very well"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Example: If you're having a problem with your presentation, ask Pam for help. She knows Power Point inside and out."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "card": true,
+          "videoPlayer": [
+            {
+              "position": "bottom",
+              "src": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "(a) different animal"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "something entirely different"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Example: The Gap had many years of experience selling clothing through retail stores. When they started the Gap.com, they found out that selling online was a different animal."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "card": true,
+          "videoPlayer": [
+            {
+              "position": "bottom",
+              "src": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "no brainer"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "an easy decision; an obvious choice"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Example: Most of our clients are based in Korea, so it's a no-brainer to open an office there."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "card": true,
+          "videoPlayer": [
+            {
+              "position": "bottom",
+              "src": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "(to) compare apples to oranges"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "to compare two unlike things; to make an invalid comparison"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Example: Comparing a night at EconoLodge with a night at the Four Seasons is like comparing apples to oranges. One is a budget motel, and the other is a luxury hotel."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "card": true,
+          "videoPlayer": [
+            {
+              "position": "bottom",
+              "src": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "to go back to the drawing board"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "to start a task over because the last try failed; to start again from the beginning"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Example: We didn't like the print advertisement our ad agency designed, so we asked them to go back to the drawing board."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "card": true,
+          "videoPlayer": [
+            {
+              "position": "bottom",
+              "src": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "in the bag"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "a sure thing"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Example: Boeing executives thought that the new military contract was in the bag and were surprised when it was awarded to Airbus instead."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "card": true,
+          "videoPlayer": [
+            {
+              "position": "bottom",
+              "src": "https://www.youtube.com/embed/zfAgyT4hy8Q?start=623"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "(to) jump through hoops"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "to go through a lot of difficult work for something; to face many bureaucratic obstacles"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Example: We had to jump through hoops to get our visas to Russia, but finaly got them."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "card": true,
+          "videoPlayer": [
+            {
+              "position": "bottom",
+              "src": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "(to) miss the point"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "to not understand"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Example: You're missing the point. Your son wants an expensive new cell phone so he can impress his friends, not because he actually needs all of those bells and whistles."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "card": true,
+          "videoPlayer": [
+            {
+              "position": "bottom",
+              "src": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "beef up"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "to improve; to add to"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Example: When customers started to complain, Facebook beefed up its security features."
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
