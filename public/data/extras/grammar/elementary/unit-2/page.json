@@ -216,7 +216,7 @@
                   "text": "13. "
                 },
                 {
-                  "markedText": "Is he"
+                  "markedText": "Is it"
                 },
                 {
                   "text": " cold in here?"
@@ -803,7 +803,28 @@
             {
               "block": [
                 {
-                  "text": "1. "
+                  "text": "1. How are you?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2. How is he?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3. How is she?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4. How are they?"
                 }
               ]
             }
@@ -831,7 +852,28 @@
             {
               "block": [
                 {
-                  "text": "1. "
+                  "text": "1. Why are you sad?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2. Why is he sad?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3. Why is she sad?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4. Why are they sad?"
                 }
               ]
             }

@@ -34,9 +34,13 @@
     {
       "text": [
         {
-          "imgPosition": "left",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/cover.avif",
-          "imgAlt": "Cover image",
+          "images": [
+            {
+              "position": "left",
+              "src": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/cover.avif",
+              "alt": "Cover image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -97,9 +101,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-1.avif",
-          "imgAlt": "Paragraph 1 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-1.avif",
+              "alt": "Paragraph 1 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -121,9 +129,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-2.avif",
-          "imgAlt": "Paragraph 2 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-2.avif",
+              "alt": "Paragraph 2 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -145,9 +157,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-3.avif",
-          "imgAlt": "Paragraph 3 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-3.avif",
+              "alt": "Paragraph 3 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -169,9 +185,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-4.avif",
-          "imgAlt": "Paragraph 4 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-4.avif",
+              "alt": "Paragraph 4 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -193,9 +213,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-5.avif",
-          "imgAlt": "Paragraph 5 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-5.avif",
+              "alt": "Paragraph 5 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -217,9 +241,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-6.avif",
-          "imgAlt": "Paragraph 6 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-6.avif",
+              "alt": "Paragraph 6 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -241,9 +269,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-7.avif",
-          "imgAlt": "Paragraph 7 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-7.avif",
+              "alt": "Paragraph 7 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -265,9 +297,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-8.avif",
-          "imgAlt": "Paragraph 8 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-8.avif",
+              "alt": "Paragraph 8 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -289,9 +325,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-9.avif",
-          "imgAlt": "Paragraph 9 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-9.avif",
+              "alt": "Paragraph 9 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -313,9 +353,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-10.avif",
-          "imgAlt": "Paragraph 10 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/kids/finding-nemo/paragraph-10.avif",
+              "alt": "Paragraph 10 image"
+            }
+          ],
           "blocks": [
             {
               "block": [

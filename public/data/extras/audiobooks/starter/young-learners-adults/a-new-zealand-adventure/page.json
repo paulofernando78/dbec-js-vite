@@ -35,9 +35,13 @@
     {
       "text": [
         {
-          "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/cover.avif",
-          "imgAlt": "A new zealand adventure cover",
-          "imgPosition": "left",
+          "images": [
+            {
+              "position": "left",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/cover.avif",
+              "alt": "A new zealand adventure cover"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -65,9 +69,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-1.avif",
-          "imgAlt": "A new zealand adventure cover",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-1.avif",
+              "alt": "Paragraph 1 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -135,9 +143,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-2.avif",
-          "imgAlt": "Paragraph 2 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-2.avif",
+              "alt": "Paragraph 1 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -153,17 +165,19 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 3 • 1:08",
-        "subIcon": "schedule",
-        "subLabel": "1:08"
+        "label": "Paragraph 3 • 1:08"
       }
     },
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-3.avif",
-          "imgAlt": "Paragraph 3 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-3.avif",
+              "alt": "Paragraph 3 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -187,9 +201,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-4.avif",
-          "imgAlt": "Paragraph 4 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-4.avif",
+              "alt": "Paragraph 4 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -213,9 +231,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-5.avif",
-          "imgAlt": "Paragraph 5 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-5.avif",
+              "alt": "Paragraph 5 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -239,9 +261,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-6.avif",
-          "imgAlt": "Paragraph 6 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-6.avif",
+              "alt": "Paragraph 6 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -265,9 +291,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-7.avif",
-          "imgAlt": "Paragraph 7 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-7.avif",
+              "alt": "Paragraph 7 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -291,9 +321,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-8.avif",
-          "imgAlt": "Paragraph 8 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-8.avif",
+              "alt": "Paragraph 8 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -317,9 +351,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-9.avif",
-          "imgAlt": "Paragraph 9 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-9.avif",
+              "alt": "Paragraph 9 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -343,9 +381,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-10.avif",
-          "imgAlt": "Paragraph 10 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-10.avif",
+              "alt": "Paragraph 10 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -369,9 +411,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-11.avif",
-          "imgAlt": "Paragraph 11 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-11.avif",
+              "alt": "Paragraph 11 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -395,9 +441,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-12.avif",
-          "imgAlt": "Paragraph 12 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-12.avif",
+              "alt": "Paragraph 12 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -421,9 +471,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-13.avif",
-          "imgAlt": "Paragraph 13 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-13.avif",
+              "alt": "Paragraph 13 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -447,9 +501,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-14.avif",
-          "imgAlt": "Paragraph 14 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-14.avif",
+              "alt": "Paragraph 14 image"
+            }
+          ],
           "blocks": [
             {
               "block": [

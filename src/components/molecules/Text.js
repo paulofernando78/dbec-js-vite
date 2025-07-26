@@ -40,6 +40,7 @@ class Text extends HTMLElement {
         justify-self: center;
         width: 100%;
         display: flex;
+        justify-content: center;
         flex-wrap: wrap;
         gap: 6px
       }

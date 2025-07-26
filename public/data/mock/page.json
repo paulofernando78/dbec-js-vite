@@ -79,13 +79,13 @@
             {
               "width": "250px",
               "number": "2",
-              "src": "/assets/images/general/cat-1.jpg",
+              "src": "/assets/images/general/cat-2.jpg",
               "alt": "..."
             },
             {
               "width": "250px",
               "number": "3",
-              "src": "/assets/images/general/cat-1.jpg",
+              "src": "/assets/images/general/cat-3.jpg",
               "alt": "..."
             }
           ],
@@ -239,14 +239,14 @@
           "videoPlayer": [
             {
               "position": "top",
-              "src": "/assets/video/am-i-late-for.mp4"
+              "src": "https://www.youtube.com/embed/f14IuqWLdwg?=rel=0"
             }
           ],
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Right boldText "
+                  "boldText": "+ Video boldText "
                 },
                 {
                   "phonetics": "phonetics "
@@ -441,7 +441,7 @@
     {
       "videoPlayer": {
         "sticky": false,
-        "src": "https://www.youtube.com/embed/f14IuqWLdwg"
+        "src": "https://www.youtube.com/embed/f14IuqWLdwg?=rel=0"
       }
     },
     {
