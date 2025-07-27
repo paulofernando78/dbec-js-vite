@@ -8,11 +8,11 @@
       },
       {
         "icon": "pages",
-        "description": "Starter (Pre-A1)"
+        "description": "Beginner (A1)"
       },
       {
         "icon": "book",
-        "description": "..."
+        "description": "Chicken Run"
       },
       {
         "icon": "time",
@@ -20,7 +20,7 @@
       },
       {
         "icon": "flag",
-        "description": "..."
+        "description": "American English"
       }
     ]
   },
@@ -37,7 +37,7 @@
           "images": [
             {
               "position": "left",
-              "src": "/assets/images/extras/audiobooks/starter/.../cover.avif",
+              "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/chicken-run/cover.avif",
               "alt": "Cover image"
             }
           ],
@@ -45,7 +45,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Chicken Run is about Ginger and her chicken friends escaping a farm where they're turned into pies. With the help of Rocky, a rooster, they plan to escape to freedom!"
                 }
               ]
             }
@@ -56,7 +56,7 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/starter/.../audio.mp3"
+        "src": "/assets/audio/extras/audiobooks/beginner/young-learners-adults/chicken-run/audio.mp3"
       }
     },
     {
@@ -71,7 +71,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-1.avif",
+              "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/chicken-run/paragraph-1.avif",
               "alt": "Paragraph 1 image"
             }
           ],
@@ -79,7 +79,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "The chickens weren't happy. They tried again and again to escape from the farm. “What now?” Bunty said. “We can go over the fence,” Ginger said. “How?” Bunty asked. “Ah! I've got a plan,” Mac said."
                 }
               ]
             }
@@ -90,7 +90,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 2 • "
+        "label": "Paragraph 2 • 0:18"
       }
     },
     {
@@ -99,7 +99,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-2.avif",
+              "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/chicken-run/paragraph-2.avif",
               "alt": "Paragraph 2 image"
             }
           ],
@@ -107,7 +107,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Mrs. Tweedy counted the eggs. “I don't like chickens. They don't make money.” How could chickens make money? Mrs. Tweedy started to smile. Now she had a plan!"
                 }
               ]
             }
@@ -118,7 +118,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 3 • "
+        "label": "Paragraph 3 • 0:31"
       }
     },
     {
@@ -127,7 +127,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-3.avif",
+              "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/chicken-run/paragraph-3.avif",
               "alt": "Paragraph 3 image"
             }
           ],
@@ -135,7 +135,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "One evening, the chickens had a big surprise. A rooster flew on to the farm. “FREEDOM AAAHHHH!.” he shouted. Then, CRASH! He got up. “Hello ladies. My name's Rocky.” Now Ginger had a plan too!"
                 }
               ]
             }
@@ -146,7 +146,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 4 • "
+        "label": "Paragraph 4 • 0:55"
       }
     },
     {
@@ -155,7 +155,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-4.avif",
+              "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/chicken-run/paragraph-4.avif",
               "alt": "Paragraph 4 image"
             }
           ],
@@ -163,7 +163,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "“Please teach us how to fly,” Ginger asked him. “O.K.” Rocky said slowly. The chickens started their flying lessons. Rocky gave lessons from the bath!"
                 }
               ]
             }
@@ -174,7 +174,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 5 • "
+        "label": "Paragraph 5 • 1:09"
       }
     },
     {
@@ -183,7 +183,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-5.avif",
+              "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/chicken-run/paragraph-5.avif",
               "alt": "Paragraph 5 image"
             }
           ],
@@ -191,7 +191,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "The chickens tried and tried. Flying was difficult! Bunty tried to fly but she came down nose first. Ginger watched her friend. She was not happy. “The lessons aren't working,” Ginger said."
                 }
               ]
             }
@@ -202,7 +202,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 6 • "
+        "label": "Paragraph 6 • 1:25"
       }
     },
     {
@@ -211,7 +211,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-6.avif",
+              "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/chicken-run/paragraph-6.avif",
               "alt": "Paragraph 6 image"
             }
           ],
@@ -219,7 +219,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "“No problem, ladies,” Rocky said. And he threw a party to make the chickens happy. They all laughed and danced. “This is great,” Ginger smiled."
                 }
               ]
             }
@@ -230,7 +230,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 7 • "
+        "label": "Paragraph 7 • 1:37"
       }
     },
     {
@@ -239,7 +239,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-7.avif",
+              "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/chicken-run/paragraph-7.avif",
               "alt": "Paragraph 7 image"
             }
           ],
@@ -247,7 +247,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "But then the chickens heard a terrible noise. It was the Tweedy's chicken pie machine! Mr. Tweedy put Ginger in it! “HELP!” a scared Ginger shouted."
                 }
               ]
             }
@@ -258,7 +258,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 8 • "
+        "label": "Paragraph 8 • 1:50"
       }
     },
     {
@@ -267,7 +267,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-8.avif",
+              "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/chicken-run/paragraph-8.avif",
               "alt": "Paragraph 8 image"
             }
           ],
@@ -275,7 +275,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Peas and carrots came down on Rocky and Ginger. “We're going to turn into a chicken pie,” Ginger shouted. But Rocky was clever. “Now, the pie machine doesn't work any more!” They jumped free."
                 }
               ]
             }
@@ -286,7 +286,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 9 • "
+        "label": "Paragraph 9 • 2:05"
       }
     },
     {
@@ -295,7 +295,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-9.avif",
+              "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/chicken-run/paragraph-9.avif",
               "alt": "Paragraph 9 image"
             }
           ],
@@ -303,7 +303,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "“My pie machine doesn't work,” Mrs. Tweedy shouted. “What did you do wrong this time?” “I c-c-c-can make it work,” Mr. Tweedy said. But they did not see Rocky and Ginger escape."
                 }
               ]
             }
@@ -314,7 +314,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 10 • "
+        "label": "Paragraph 10 • 2:19"
       }
     },
     {
@@ -323,7 +323,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-10.avif",
+              "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/chicken-run/paragraph-10.avif",
               "alt": "Paragraph 10 image"
             }
           ],
@@ -331,7 +331,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "“Thank you,” Ginger said to Rocky. “You saved me.” “Tomorrow, please show us how to fly. We have very little time.” But Rocky did not know how to fly. The next morning, he was gone."
                 }
               ]
             }
@@ -342,7 +342,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 11 • "
+        "label": "Paragraph 11 • 2:35"
       }
     },
     {
@@ -351,7 +351,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-11.avif",
+              "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/chicken-run/paragraph-11.avif",
               "alt": "Paragraph 11 image"
             }
           ],
@@ -359,7 +359,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Rocky is gone? How could they escape now? “When I was in the Royal Air Force...” Fowler said. “What's that?” Ginger asked. “Here, look at this photo,” Fowler said. “It's a flying machine,” Ginger said. “Let's make one.”"
                 }
               ]
             }
@@ -370,7 +370,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 12 • "
+        "label": "Paragraph 12 • 2:53"
       }
     },
     {
@@ -379,7 +379,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-12.avif",
+              "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/chicken-run/paragraph-12.avif",
               "alt": "Paragraph 12 image"
             }
           ],
@@ -387,7 +387,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "The chickens made a flying machine. “Please fly it, Fowler,” Ginger said. “I can try,” Fowler shouted. “All inside ready to take-off.” And then Rocky came back, in time to help them."
                 }
               ]
             }
@@ -398,7 +398,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 13 • "
+        "label": "Paragraph 13 • 3:08"
       }
     },
     {
@@ -407,7 +407,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-13.avif",
+              "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/chicken-run/paragraph-13.avif",
               "alt": "Paragraph 13 image"
             }
           ],
@@ -415,63 +415,7 @@
             {
               "block": [
                 {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Paragraph 14 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-14.avif",
-              "alt": "Paragraph 14 image"
-            }
-          ],
-          "blocks": [
-            {
-              "block": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Paragraph 15 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-15.avif",
-              "alt": "Paragraph 15 image"
-            }
-          ],
-          "blocks": [
-            {
-              "block": [
-                {
-                  "text": ""
+                  "text": "“Faster, faster,” Fowler shouted. The flying machine went up. then down... and then up again. “Freedom!” all the chickens shouted, when the machine flew over the fence. “Thank you, Rocky,” Ginger said. “You helped us escape the terrible Tweedys”"
                 }
               ]
             }
