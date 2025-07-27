@@ -160,8 +160,17 @@
             "links": [
               {
                 "icon": "book",
-                "link": "/extras/audiobooks/beginner/young-learners-adults/sherlock-holmes",
-                "label": "Sherlock Holmes"
+                "link": "/extras/audiobooks/beginner/young-learners-adults/chicken-run",
+                "label": "Chiken Run"
+              }
+            ]
+          },
+          {
+            "links": [
+              {
+                "icon": "book",
+                "link": "/extras/audiobooks/beginner/young-learners-adults/the-missing-coins",
+                "label": "The Missing Coins"
               }
             ]
           }
@@ -177,24 +186,6 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "kid",
-        "label": "Kids",
-        "descriptions": [
-          {
-            "links": [
-              {
-                "icon": "book",
-                "link": "/extras/audiobooks/elementary/kids/",
-                "label": "See all Elementary Kids Audiobooks"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "card": {
-        "bgColor": "var(--gray-3)",
         "icon": "adult",
         "label": "Young learners / Adults",
         "descriptions": [
@@ -202,8 +193,8 @@
             "links": [
               {
                 "icon": "book",
-                "link": "/extras/audiobooks/elementary/young-learners-adults/",
-                "label": "See all Elementary Young Learners/Adults Audiobooks"
+                "link": "#",
+                "label": "..."
               }
             ]
           }
@@ -219,24 +210,6 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "kid",
-        "label": "Kids",
-        "descriptions": [
-          {
-            "links": [
-              {
-                "icon": "book",
-                "link": "/extras/audiobooks/pre-intermediate/kids/",
-                "label": "See all Pre-Intermediate Kids Audiobooks"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "card": {
-        "bgColor": "var(--gray-3)",
         "icon": "adult",
         "label": "Young learners / Adults",
         "descriptions": [
@@ -244,8 +217,8 @@
             "links": [
               {
                 "icon": "book",
-                "link": "/extras/audiobooks/pre-intermediate/young-learners-adults/",
-                "label": "See all Pre-Intermediate Young Learners/Adults Audiobooks"
+                "link": "#",
+                "label": "..."
               }
             ]
           }
@@ -261,24 +234,6 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "kid",
-        "label": "Kids",
-        "descriptions": [
-          {
-            "links": [
-              {
-                "icon": "book",
-                "link": "/extras/audiobooks/intermediate/kids/",
-                "label": "See all Intermediate Kids Audiobooks"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "card": {
-        "bgColor": "var(--gray-3)",
         "icon": "adult",
         "label": "Young learners / Adults",
         "descriptions": [
@@ -286,8 +241,8 @@
             "links": [
               {
                 "icon": "book",
-                "link": "/extras/audiobooks/intermediate/young-learners-adults/",
-                "label": "See all Intermediate Young Learners/Adults Audiobooks"
+                "link": "#",
+                "label": "..."
               }
             ]
           }

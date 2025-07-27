@@ -15,20 +15,20 @@ class IconItem extends HTMLElement {
         position: relative;
         top: 4.5px
       }
-    `
+    `;
 
-    this.shadowRoot.append(cssImports, css)
+    this.shadowRoot.append(cssImports, css);
   }
 
-  set data({ icon, link, label }) {
+  set data({ icon, link, target, label }) {
     const li = document.createElement("li");
     li.classList.add("alignment");
-    li.style.display = "flex"
-    li.style.gap = "5px"
+    li.style.display = "flex";
+    li.style.gap = "5px";
 
     const svgSpan = document.createElement("span");
     svgSpan.style.position = "relative";
-    svgSpan.style.top = "3px"
+    svgSpan.style.top = "3px";
 
     import("/src/assets/images/svg-imports.js").then((svgIcons) => {
       svgSpan.innerHTML = svgIcons[icon] || "";
@@ -39,15 +39,18 @@ class IconItem extends HTMLElement {
     if (link && label) {
       const anchor = document.createElement("a");
       anchor.href = link;
+      if (target) {
+        anchor.target = target;
+        anchor.rel = "noopener noreferrer";
+      }
       anchor.textContent = label;
-      anchor.classList.add("link-shifted")
+      anchor.classList.add("link-shifted");
       textElement = anchor;
-
     } else {
       const desc = document.createElement("p");
       desc.textContent = label;
-      desc.classList.add("link-shifted")
-      textElement = desc
+      desc.classList.add("link-shifted");
+      textElement = desc;
     }
 
     li.append(svgSpan, textElement);

@@ -1,24 +1,5 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-import {
-  book,
-  books,
-  schedule,
-  page,
-  pages,
-  lyrics,
-  snippet,
-} from "@images/svg-imports";
-
-const svgIcons = {
-  book,
-  books,
-  schedule,
-  page,
-  pages,
-  lyrics,
-  snippet,
-};
 class Ribbon extends HTMLElement {
   constructor() {
     super();

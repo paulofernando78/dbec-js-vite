@@ -16,11 +16,11 @@
       },
       {
         "icon": "time",
-        "description": "00:00"
+        "description": "10:22"
       },
       {
         "icon": "flag",
-        "description": "young-learners-adults/the-troy-stone"
+        "description": "British English"
       }
     ]
   },
@@ -45,7 +45,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Mark Jackson is on holiday in Turkey. He visits the old city of Troy and finds a yellow stone. “I know this stone,“ he thinks. “It comes from... from...” Suddenly Mark goes back in time. He can see a beautiful city, soldiers and a big wooden horse."
                 }
               ]
             }
@@ -79,7 +79,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "The Jackson family are on holiday in Turkey. They are staying at a big hotel in Istanbul. Mark (13), his sister Fay (12) and their parents like Turkey. It is beautiful, the weather is hot and the food is good. There is a lot to see, too. Today they are visiting the city of Troy. It is 9 o’clock in the morning. They are getting on a bus in front of their hotel."
                 }
               ]
             }
@@ -90,7 +90,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 2 • "
+        "label": "Paragraph 2 •0:38 "
       }
     },
     {
@@ -107,7 +107,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "There are forty people on the bus. They come from Britain, America, France, Italy and Holland. At Troy they all have lunch. Then they start to look at the old city. It is a very hot day. After an hour, Mark sits under a tree. “I’m going to stop here for a moment,” he tells Fay. “OK,” she answers. Then, Mark sees something on the ground. “What’s that?” he thinks."
                 }
               ]
             }
@@ -118,7 +118,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 3 • "
+        "label": "Paragraph 3 • 1:23"
       }
     },
     {
@@ -135,7 +135,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "It is a flat, yellow stone. Mark picks it up. Then he starts to clean it with his hands. “But I know this stone,” he thinks. “It comes from... from...” Suddenly, there is a white light in his eyes. Mark closes them. The light is strong. Now there is a loud wind in his ears. He cannot hear or see anything. ”What’s happening ?” he thinks."
                 }
               ]
             }
@@ -146,7 +146,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 4 • "
+        "label": "Paragraph 4 • 2:00"
       }
     },
     {
@@ -163,7 +163,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Ten seconds later the light and the wind stop. Mark opens his eyes. He is standing on a beach. He can see hundreds of ships and men. Behind him there is a beautiful city with high walls. “Where am I?” he thinks. “Where’s my family?” He puts the yellow stone in his pocket. Then one of the men says to him, “Boy! Come here!”"
                 }
               ]
             }
@@ -174,7 +174,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 5 • "
+        "label": "Paragraph 5 • 2:36"
       }
     },
     {
@@ -191,7 +191,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "“Me?” Mark walks across the beach to a long, black ship. “Carry this,” the man says. He gives Mark a lot of wood. Then he gets off the ship. “Follow me,” he says. Mark follows him. The man is very tall and has a short, brown beard. “I don’t know your face,” he says. “Are you new here?” “Yes,” Mark answers. “That’s right. I’m new here.”"
                 }
               ]
             }
@@ -202,24 +202,17 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 6 • "
+        "label": "Paragraph 6 • 3:16"
       }
     },
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-troy-stone/paragraph-6.avif",
-              "alt": "Paragraph 6 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "“My name is Andros,” says the man. He and Mark walk for another ten minutes. Then they climb a small hill. At the top Mark stops. There, in front of them, is a big wooden horse. Andros sees Mark’s face and smiles. “Well... what do you think of it?” he asks. Mark does not answer, and Andros says, “This horse is going to win the war for us Greeks.”"
                 }
               ]
             }
@@ -230,7 +223,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 7 • "
+        "label": "Paragraph 7 • 3:55"
       }
     },
     {
@@ -238,8 +231,8 @@
         {
           "images": [
             {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-troy-stone/paragraph-7.avif",
+              "position": "bottom",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-troy-stone/paragraph-6-7.avif",
               "alt": "Paragraph 7 image"
             }
           ],
@@ -247,7 +240,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "They walk down the hill. There are a lot of men working under the horse. One of them talks to Andros. “There’s a problem,” he says. “We can’t find a stone for the second eye. We must find one before tomorrow.” Mark looks at the horse’s one bright eye. Then he remembers the stone in his pocket. “Wait!” he says. “I think I can help you.”"
                 }
               ]
             }
@@ -258,7 +251,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 8 • "
+        "label": "Paragraph 8 • 4:29"
       }
     },
     {
@@ -275,7 +268,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "He takes the stone out of his pocket. “But how. . .?” says Andros. The man smiles. “That’s it. That’s it!” He looks at Mark. “What’s your name, boy?” Mark tells him. “He’s new here,” says Andros. “Ah!” The man is very happy. “Well ... we must thank him. I know. You can come with us in the horse tomorrow night.” Mark’s mouth opens. “Me?!”"
                 }
               ]
             }
@@ -286,7 +279,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 9 • "
+        "label": "Paragraph 9 • 5:14"
       }
     },
     {
@@ -303,7 +296,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "That evening Mark sits near a big fire on the beach. There is an old woman beside him. Her name is Ana and she is a cook. She tells Mark lots of stories. Stories about Greece, the war, and the beautiful princess Helen. In the end she goes to bed. “Goodbye, boy,” she says. “Come and see me again one day. Come and see me again.”"
                 }
               ]
             }
@@ -314,7 +307,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 10 • "
+        "label": "Paragraph 10 • 5:51"
       }
     },
     {
@@ -331,7 +324,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Next morning the horse is ready. Greek soldiers pull it to the gates of Troy. Then they leave it there, inside the horse there are forty Greeks. They wait all afternoon under the hot, yellow sun. Mark is sitting in the horse’s head. “What happens now?” he thinks. Suddenly the gates open. Trojan soldiers walk out. They pull the horse inside and shut the gates again."
                 }
               ]
             }
@@ -342,7 +335,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 11 • "
+        "label": "Paragraph 11 • 6:36"
       }
     },
     {
@@ -359,7 +352,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Mark can hear the Trojans. “Why are the Greeks giving us this horse?” asks one. “Do you think they want to end the war?” “Yes! Look!” says a soldier on top of the city walls. “Their ships are leaving!” After that the Trojans eat, sing and dance all evening. Then they go to bed very late and Troy is quiet. At that moment the Greeks climb out of the horse."
                 }
               ]
             }
@@ -370,7 +363,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 12 • "
+        "label": "Paragraph 12 • 7:19"
       }
     },
     {
@@ -387,7 +380,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Four men go to the gates and open them. A minute later there are thousands of Greek soldiers in the city. They and their ships are back! They run from one building to another. In five minutes Troy is on fire. Mark watches all this. Suddenly he sees a beautiful woman. She is running along the city walls. “It’s Helen,” he thinks, “Helen of Troy!”"
                 }
               ]
             }
@@ -398,7 +391,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 13 • "
+        "label": "Paragraph 13 • 7:57"
       }
     },
     {
@@ -415,7 +408,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "At that moment Andros says, “Follow me, boy.” He runs down a small street very fast. Mark follows, but the street is full of smoke. After a minute he cannot see anything. “Andros!” he says. “Where are you?” Then suddenly two Trojans with swords come out of the smoke. Mark looks at them. “Please don’t kill me,” he says. “Don’t kill me! Please.”"
                 }
               ]
             }
@@ -426,7 +419,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 14 • "
+        "label": "Paragraph 14 • 8:36"
       }
     },
     {
@@ -443,7 +436,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "“Mark! Mark! It’s 4 o’clock. The bus is leaving in a minute.” Fay is looking down at Mark. After a moment he suddenly wakes up. “What?” he asks. “The bus is leaving,” Fay says again. Then she asks, “Are you OK? Your face is white. And what’s that dirty stone?” Mark looks at the yellow stone in his hand. “This? Oh... it’s nothing.” he says."
                 }
               ]
             }
@@ -454,7 +447,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 15 • "
+        "label": "Paragraph 15 • 9:18"
       }
     },
     {
@@ -471,7 +464,7 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Mark stands up. He sees an old woman. She has lots of small wooden horses in a basket. “Do you want one, boy?” she asks. “Yes. Why not?” Mark buys a horse and looks at the woman. “No. It can’t be,” he thinks. He walks to the bus. Behind him the old woman smiles. “Goodbye, boy,” she says. “Come and see me again one day. Come and see me again.”"
                 }
               ]
             }

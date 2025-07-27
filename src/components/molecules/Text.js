@@ -106,7 +106,8 @@ class Text extends HTMLElement {
       });
     }
 
-    const hasVideo = Array.isArray(block.videoPlayer) && block.videoPlayer.length > 0;
+    const hasVideo =
+      Array.isArray(block.videoPlayer) && block.videoPlayer.length > 0;
 
     let videoWrapper;
     if (hasVideo) {
@@ -116,7 +117,7 @@ class Text extends HTMLElement {
       block.videoPlayer.forEach((video) => {
         const videoElement = document.createElement("wc-video-player");
         videoElement.data = {
-          src: video.src
+          src: video.src,
         };
         videoWrapper.appendChild(videoElement);
       });
@@ -195,6 +196,19 @@ class Text extends HTMLElement {
           mark.appendChild(underline);
           blockElement.appendChild(mark);
         }
+
+        if (subItem.links) {
+          subItem.links.forEach((link) => {
+            const wcIconItem = document.createElement("wc-icon-item");
+            wcIconItem.data = {
+              icon: link.icon,
+              link: link.link,
+              target: link.target,
+              label: link.label
+            }
+            blockElement.appendChild(wcIconItem);
+          });
+        }
       });
 
       if (item.lineBreak) {
@@ -233,7 +247,7 @@ class Text extends HTMLElement {
         this.container.appendChild(textWrapper);
       }
     } else {
-      if (hasVideo) this.container.appendChild(videoWrapper)
+      if (hasVideo) this.container.appendChild(videoWrapper);
       this.container.appendChild(textWrapper);
     }
 
