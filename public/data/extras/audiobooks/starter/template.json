@@ -34,9 +34,13 @@
     {
       "text": [
         {
-          "imgPosition": "left",
-          "imgSrc": "/assets/images/extras/audiobooks/starter/.../cover.avif",
-          "imgAlt": "Cover image",
+          "images": [
+            {
+              "position": "left",
+              "src": "/assets/images/extras/audiobooks/starter/.../cover.avif",
+              "alt": "Cover image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -64,9 +68,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
-          "imgAlt": "Paragraph 1 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-1.avif",
+              "alt": "Paragraph 1 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -88,9 +96,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
-          "imgAlt": "Paragraph 2 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-2.avif",
+              "alt": "Paragraph 2 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -112,9 +124,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
-          "imgAlt": "Paragraph 3 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-3.avif",
+              "alt": "Paragraph 3 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -136,9 +152,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
-          "imgAlt": "Paragraph 4 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-4.avif",
+              "alt": "Paragraph 4 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -160,9 +180,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
-          "imgAlt": "Paragraph 5 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-5.avif",
+              "alt": "Paragraph 5 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -184,9 +208,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
-          "imgAlt": "Paragraph 6 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-6.avif",
+              "alt": "Paragraph 6 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -208,9 +236,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
-          "imgAlt": "Paragraph 7 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-7.avif",
+              "alt": "Paragraph 7 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -232,9 +264,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
-          "imgAlt": "Paragraph 8 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-8.avif",
+              "alt": "Paragraph 8 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -256,9 +292,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
-          "imgAlt": "Paragraph 9 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-9.avif",
+              "alt": "Paragraph 9 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -280,9 +320,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
-          "imgAlt": "Paragraph 10 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-10.avif",
+              "alt": "Paragraph 10 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -304,9 +348,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
-          "imgAlt": "Paragraph 11 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-11.avif",
+              "alt": "Paragraph 11 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -328,9 +376,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
-          "imgAlt": "Paragraph 12 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-12.avif",
+              "alt": "Paragraph 12 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -352,9 +404,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
-          "imgAlt": "Paragraph 13 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-13.avif",
+              "alt": "Paragraph 13 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -376,9 +432,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
-          "imgAlt": "Paragraph 14 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-14.avif",
+              "alt": "Paragraph 14 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -400,9 +460,13 @@
     {
       "text": [
         {
-          "imgPosition": "right",
-          "imgSrc": "/assets/images/extras/audiobooks/",
-          "imgAlt": "Paragraph 15 image",
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-15.avif",
+              "alt": "Paragraph 15 image"
+            }
+          ],
           "blocks": [
             {
               "block": [
