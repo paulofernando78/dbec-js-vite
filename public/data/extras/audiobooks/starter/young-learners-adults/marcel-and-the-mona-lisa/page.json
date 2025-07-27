@@ -1,0 +1,483 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "descriptions": [
+      {
+        "icon": "audiobooks",
+        "description": "Audiobooks"
+      },
+      {
+        "icon": "pages",
+        "description": "Starter (Pre-A1)"
+      },
+      {
+        "icon": "book",
+        "description": "Marcel and the Mona Lisa"
+      },
+      {
+        "icon": "time",
+        "description": "11:50"
+      },
+      {
+        "icon": "flag",
+        "description": "British English"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Summary"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "left",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/cover.avif",
+              "alt": "Cover image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Marcel is a French mouse, and a detective. One evening, at the Louvre museum, he sees a man steal a famous painting - the Mona Lisa. Marcel follows the thief to Venice and risk his life to get the painting back again."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/audio.mp3"
+      }
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 1"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-1.avif",
+              "alt": "Paragraph 1 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Marcel is a French mouse, and a detective. He has lots of friends in Paris. One of them is Céline. She paints pictures and is very beautiful. Céline’s home is at the Louvre. Marcel often goes there for dinner. One evening in May he arrives with some pink flowers. There is a guard at the door. “I don’t know him,” Marcel thinks. “He must be new.” Then he walks inside."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 2 • 0:47"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-2.avif",
+              "alt": "Paragraph 2 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "The two friends eat, drink and talk all evening. Céline shows Marcel her new paintings. They talk about their summer holiday in Los Angeles. They laugh, play jazz. records and tell lots of stories. Then at 11 o’clock Marcel puts on his coat. “It’s late,” he says. “I must go home.” Two minutes later he leaves. “Good night,” says Céline. Then she closes her front door."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 3 • 1:32"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-3.avif",
+              "alt": "Paragraph 3 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Marcel walks across the floor. He is very happy. Then he stops. The room is dark, but he can see something. What is it? A man? A man with a long knife? Yes! Suddenly Marcel’s mouth is very dry. He runs to the wall. Then, after five seconds he looks again. This time he can see the man’s face. “It’s that new guard,” he thinks. “And he’s... he’s stealing the Mona Lisa!”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 4 • 2:26"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-4.avif",
+              "alt": "Paragraph 4 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Next to the thief there is a black bag. Two minutes later the Mona Lisa is inside it. The thief smiles and picks up the bag. But a second later he puts it down again. “Car keys,” he says, and begins to look in all his pockets. “All right — this is it,” Marcel thinks. “It’s now or never.” He runs along the wall very fast, climbs up the tall, black bag, and jumps inside it."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 5 • 3:12"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-5.avif",
+              "alt": "Paragraph 5 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "At the bottom of the bag Marcel can see a face. The Mona Lisa’s face. She is smiling at him. “Now what?” he asks her. There is no answer, but at that moment the bag starts to move. Marcel can hear lots of noises: a motor starts - traffic goes by - a radio plays. Then the bag suddenly stops. Marcel climbs the painting and looks out. “A railway station!”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 6 • 4:15"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-6.avif",
+              "alt": "Paragraph 6 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Five minutes later the Louvre ’guard’ gets on a train. He sits next to a thin man in sunglasses and a white jacket. “Have you got it, Antoine?” the thin man asks. “Yes,” the guard answers. After that the train starts and there is a lot of noise. “Oh no! Now I can’t hear them,” Marcel thinks. But he can hear one or two words. “Italy”, for example, and “all those cats”."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 7 • 5:00"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-7.avif",
+              "alt": "Paragraph 7 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "“Cats!” Marcel looks at the Mona Lisa. His eyes are two big saucers. “But cats kill mice,” he thinks. “They eat them. And where are we going in Italy? Rome? Milan? Naples? ...” But at that moment Antoine puts the bag under the seat. “Now I really can’t hear,” Marcel thinks. Then he goes to sleep and has a very bad dream."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 8 • 5:45"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-8.avif",
+              "alt": "Paragraph 8 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Early next morning the sun is shining. Marcel opens his eyes and sees the Mona Lisa. Then he remembers where he is. He runs up the painting and looks at Antoine and Henri. “Good,” he thinks. “They’re asleep.” Ten seconds later, Marcel is standing at the window. He can see a small village and some mountains. Then a sign goes by: a hundred and eighty kilometres to Venice!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 9 • 6:31"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-9.avif",
+              "alt": "Paragraph 9 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Two hours later Antoine and Henri are on a gondola. “Look,” says Antoine and laughs. He shows Henri a newspaper story. It says, ’THIEVES TAKE DA VINCI PAINTING’. Henri says, “Be quiet!” and turns to the boatman. “Do you see that big palace on the left?” “Signor Spandini’s house?” “Yes. Stop there.” Inside the bag Marcel hears every word."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 10 • 7:17"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-10.avif",
+              "alt": "Paragraph 10 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "An old woman answers the front door. “Come in,” she says to the two thieves. “Signor Spandini is waiting for you.” She takes them to a big, dark room. A fat man is sitting behind a desk. “Have you got it?” he asks. “Yes, Boss,” Henri answers. The bag is beside him. “I can’t stay in here,” Marcel thinks. He jumps out of the bag and hides behind a chair."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 11 • 8:03"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-11.avif",
+              "alt": "Paragraph 11 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "“Good,” he thinks. “Now I can...” But then he goes cold. “Cats!” There are seven, eight - no nine of them in the room. Suddenly Marcel remembers Henri’s words - “all those cats.” Then he remembers his dream on the train. What can he do? Where can he go? But it is too late. One of the cats sees him. “Help!” Marcel thinks and climbs up a red curtain."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 12 • 8:51"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-12.avif",
+              "alt": "Paragraph 12 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "A moment later the cat starts climbing, too. Marcel can hear it below him. He has to do something - and fast! But what? Then he sees two candles above his head. “That’s the answer,” he thinks. He jumps onto the bookcase and starts to push the candles over. They are very heavy, but in the end he does it. Below him he hears, “Yee•owwwww!”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 13 • 9:31"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-13.avif",
+              "alt": "Paragraph 13 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "“What’s all that noise?” asks Antoine. “Look! The carpet’s on fire!” says Henri. Spandini stands up. “Angelina! Quick, bring some water.” Marcel looks over the bookcase. He can see the Mona Lisa on Spandini’s desk. “OK,” he thinks. “This is it.” After that he runs down the curtain, across Spandini’s desk, picks up the Mona Lisa, and runs out of the room."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 14 • 10:23"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-14.avif",
+              "alt": "Paragraph 14 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Marcel runs for a long time. He thinks, “I want to leave the Mona Lisa somewhere safe. But where?” Then, after twenty minutes, he stops in a quiet street. In front of him there is a police station. The front door has a letter-box. “Of course!” Marcel thinks. “That’s it.” He stands up tall. Then he pushes the Mona Lisa through the letter-box."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Paragraph 15 • 11:03"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-15.avif",
+              "alt": "Paragraph 15 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Two days later Marcel is in Paris again. At the station he sees a newspaper. It says, ’ITALIAN POLICE FIND THE MONA LISA’. Then he goes to the Louvre and tells Celine everything. ”Nine cats!“ she says. “Oh Marcel, are you all right?” “Yes, I’m fine,” Marcel answers. He goes to Céline’s window. “And the Mona Lisa’s fine, too. Look, Céline. She’s smiling.”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
