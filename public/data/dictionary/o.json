@@ -1,0 +1,359 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "out of the question",
+        "partOfSpeech": "idiom",
+        "enDefinition": "impossible; not to be considered; absolutely not",
+        "ptDefinition": "impossível; nem pensar; absolutamente não",
+        "examples": [
+          {
+            "enExample": "Buying a new car this year is out of the question - we can't afford it.",
+            "ptExample": "Comprar um carro novo este ano está fora de questão - não podemos pagar."
+          },
+          {
+            "enExample": "Working overtime is out of the question, I need to pick up my kids from school.",
+            "ptExample": "Fazer hora extra está fora de questão, preciso buscar meus filhos na escola."
+          }
+        ],
+        "synonyms": ["impossible", "unthinkable", "not possible"],
+        "antonyms": ["possible", "feasible", "doable"],
+        "seeAlso": ["no way", "impossible"],
+        "notes": [
+          {
+            "enNote": "Used to express that something is absolutely impossible or cannot be considered as an option.",
+            "ptNote": "Usado para expressar que algo é absolutamente impossível ou não pode ser considerado como uma opção."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "(to be or to get) out of hand",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to become difficult or impossible to control",
+        "ptDefinition": "tornar-se difícil ou impossível de controlar",
+        "examples": [
+          {
+            "enExample": "The party got out of hand and the police had to be called.",
+            "ptExample": "A festa saiu do controle e a polícia teve que ser chamada."
+          },
+          {
+            "enExample": "If we don't address the issue now, it could get out of hand.",
+            "ptExample": "Se não abordarmos o problema agora, ele pode sair do controle."
+          }
+        ],
+        "synonyms": ["uncontrollable", "chaotic", "unmanageable"],
+        "antonyms": ["manageable", "controlled", "under control"],
+        "seeAlso": ["out of control", "run wild"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to describe situations that escalate quickly and become difficult to manage.",
+            "ptNote": "Este idiom é frequentemente usado para descrever situações que escalam rapidamente e se tornam difíceis de gerenciar."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "on board",
+        "phonetics": "/ɒn bɔːrd/",
+        "partOfSpeech": "adjective,",
+        "enDefinition": "1. being a member of a team or group 2. to agree or support a plan or idea.",
+        "ptDefinition": "1. ser membro de uma equipe ou grupo. 2. concordar ou apoiar um plano ou ideia.",
+        "examples": [
+          {
+            "enExample": "The new employee is on board with our project and ready to contribute.",
+            "ptExample": "O novo funcionário está a bordo com nosso projeto e pronto para contribuir."
+          },
+          {
+            "enExample": "We need to make sure everyone is on board with the changes before moving forward.",
+            "ptExample": "Precisamos garantir que todos estejam a bordo com as mudanças antes de seguir em frente."
+          }
+        ],
+        "synonyms": ["in agreement", "supportive", "aligned", "with us"],
+        "antonyms": ["opposed", "against", "disagreeing"],
+        "seeAlso": ["team", "collaboration", "agreement"],
+        "notes": [
+          {
+            "enNote": "'On board' is often used in business and team settings to describe someone's agreement or readiness to participate in a plan or project.",
+            "ptNote": "'On board' é frequentemente usado em ambientes de negócios e equipes para descrever o acordo ou disposição de alguém em participar de um plano ou projeto."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "open",
+        "phonetics": "/ˈoʊ.pən/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "not closed or blocked; allowing passage or access",
+        "ptDefinition": "não fechado ou bloqueado; permitindo passagem ou acesso",
+        "examples": [
+          {
+            "enExample": "The door was left open all night.",
+            "ptExample": "A porta ficou aberta a noite toda."
+          },
+          {
+            "enExample": "The store is open from 9 AM to 9 PM.",
+            "ptExample": "A loja está aberta das 9h às 21h."
+          }
+        ],
+        "synonyms": ["unlocked", "accessible", "clear"],
+        "antonyms": ["closed", "shut", "blocked"],
+        "seeAlso": ["accessible", "unlocked"],
+        "notes": [
+          {
+            "enNote": "Often used to describe accessibility or availability.",
+            "ptNote": "Frequentemente usado para descrever acessibilidade ou disponibilidade."
+          }
+        ]
+      },
+      {
+        "word": "open",
+        "phonetics": "/ˈoʊ.pən/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to move or change something so that it is no longer closed or blocked",
+        "ptDefinition": "mover ou mudar algo para que não esteja mais fechado ou bloqueado",
+        "examples": [
+          {
+            "enExample": "Please open the window to let some fresh air in.",
+            "ptExample": "Por favor, abra a janela para deixar entrar um pouco de ar fresco."
+          },
+          {
+            "enExample": "He opened the book to read the first chapter.",
+            "ptExample": "Ele abriu o livro para ler o primeiro capítulo."
+          }
+        ],
+        "synonyms": ["unseal", "uncover", "unfasten"],
+        "antonyms": ["close", "shut", "seal"],
+        "seeAlso": ["unbolt", "unlock", "reveal"],
+        "notes": [
+          {
+            "enNote": "Can refer to physical or metaphorical actions.",
+            "ptNote": "Pode se referir a ações físicas ou metafóricas."
+          }
+        ]
+      },
+      {
+        "word": "open",
+        "phonetics": "/ˈoʊ.pən/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a public or unrestricted space or condition",
+        "ptDefinition": "um espaço ou condição público ou irrestrito",
+        "examples": [
+          {
+            "enExample": "The event was held in the open for everyone to attend.",
+            "ptExample": "O evento foi realizado ao ar livre para todos participarem."
+          },
+          {
+            "enExample": "They camped in the open under the stars.",
+            "ptExample": "Eles acamparam ao ar livre sob as estrelas."
+          }
+        ],
+        "synonyms": ["outdoors", "open air", "clear space"],
+        "antonyms": ["enclosed", "confined", "indoor"],
+        "seeAlso": ["nature", "wilderness", "exterior"],
+        "notes": [
+          {
+            "enNote": "Often associated with outdoor or unrestricted environments.",
+            "ptNote": "Frequentemente associado a ambientes ao ar livre ou irrestritos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "out of touch with reality",
+        "partOfSpeech": "idiom",
+        "enDefinition": "not aware of or not understanding the true situation, often due to unrealistic thinking or lack of knowledge",
+        "ptDefinition": "não estar ciente ou não entender a situação real, muitas vezes devido a pensamentos irreais ou falta de conhecimento",
+        "examples": [
+          {
+            "enExample": "He was out of touch with reality when he thought his small startup could compete with the big corporations.",
+            "ptExample": "Ele estava fora de contato com a realidade quando pensou que sua pequena startup poderia competir com as grandes corporações."
+          },
+          {
+            "enExample": "After years of living in luxury, she became completely out of touch with reality and unaware of the struggles of everyday people.",
+            "ptExample": "Depois de anos vivendo no luxo, ela ficou completamente fora de contato com a realidade e inconsciente das dificuldades das pessoas comuns."
+          },
+          {
+            "enExample": "The politician was out of touch with reality, making promises that were impossible to fulfill.",
+            "ptExample": "O político estava fora de contato com a realidade, fazendo promessas impossíveis de cumprir."
+          }
+        ],
+        "synonyms": ["delusional", "unrealistic", "disconnected from reality", "detached from reality"],
+        "antonyms": ["informed", "aware", "grounded", "realistic"],
+        "seeAlso": ["out of one's mind", "living in a dream world"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used to describe someone who has unrealistic expectations or is not aligned with the practical world.",
+            "ptNote": "Essa frase é frequentemente usada para descrever alguém que tem expectativas irreais ou não está alinhado com o mundo prático."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "out of one's mind",
+        "partOfSpeech": "idiom",
+        "enDefinition": "acting in a way that seems irrational or crazy; being extremely worried or upset",
+        "ptDefinition": "agindo de uma maneira que parece irracional ou louca; estar extremamente preocupado ou chateado",
+        "examples": [
+          {
+            "enExample": "She must be out of her mind to drive in such terrible weather.",
+            "ptExample": "Ela deve estar fora de si para dirigir em um clima tão terrível."
+          },
+          {
+            "enExample": "He was out of his mind with worry when his son didn't come home.",
+            "ptExample": "Ele estava fora de si de preocupação quando seu filho não voltou para casa."
+          },
+          {
+            "enExample": "You're out of your mind if you think this plan will work.",
+            "ptExample": "Você está fora de si se acha que esse plano vai funcionar."
+          }
+        ],
+        "synonyms": ["crazy", "irrational", "insane"],
+        "antonyms": ["rational", "sane", "calm"],
+        "notes": [
+          {
+            "enNote": "This idiom can describe both temporary emotional states and more permanent irrational behaviors.",
+            "ptNote": "Este idioma pode descrever tanto estados emocionais temporários quanto comportamentos irracionais mais permanentes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "of two minds",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be undecided or conflicted about something, having opposing opinions or feelings",
+        "ptDefinition": "estar indeciso ou em conflito sobre algo, tendo opiniões ou sentimentos opostos",
+        "examples": [
+          {
+            "enExample": "I'm of two minds about accepting the job offer; the salary is great, but it's far from home.",
+            "ptExample": "Estou indeciso sobre aceitar a oferta de emprego; o salário é ótimo, mas é longe de casa."
+          },
+          {
+            "enExample": "She's of two minds regarding the vacation plans; she wants to go, but she's concerned about the cost.",
+            "ptExample": "Ela está indecisa em relação aos planos de férias; quer ir, mas está preocupada com o custo."
+          }
+        ],
+        "synonyms": ["undecided", "torn between", "conflicted"],
+        "antonyms": ["certain", "sure", "decided"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "on the same page",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to have a shared understanding or agreement on something, especially in a discussion or collaborative situation",
+        "ptDefinition": "ter um entendimento ou acordo compartilhado sobre algo, especialmente em uma discussão ou situação colaborativa",
+        "examples": [
+          {
+            "enExample": "Let's have a meeting to make sure we're all on the same page before we move forward.",
+            "ptExample": "Vamos fazer uma reunião para garantir que todos estamos alinhados antes de seguir em frente."
+          },
+          {
+            "enExample": "It's important to get everyone on the same page before starting the new project.",
+            "ptExample": "É importante garantir que todos estejam alinhados antes de começar o novo projeto."
+          }
+        ],
+        "synonyms": ["in agreement", "aligned", "on track"],
+        "antonyms": ["misunderstood", "out of sync", "confused"],
+        "notes": [
+          {
+            "enNote": "The phrase is commonly used in both professional and casual contexts to ensure clarity and alignment."
+          },
+          {
+            "ptNote": "A expressão é comumente usada tanto em contextos profissionais quanto casuais para garantir clareza e alinhamento."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "on the right track",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be making progress in the right direction or doing something correctly",
+        "ptDefinition": "estar no caminho certo, fazendo progresso na direção certa ou tomando as decisões corretas",
+        "examples": [
+          {
+            "enExample": "After a few initial setbacks, the project team is now on the right track and moving forward smoothly.",
+            "ptExample": "Após alguns contratempos iniciais, a equipe do projeto agora está no caminho certo e avançando sem problemas."
+          },
+          {
+            "enExample": "Your ideas are solid, so I believe you're on the right track to finding a solution.",
+            "ptExample": "Suas ideias são boas, então acredito que você está no caminho certo para encontrar uma solução."
+          }
+        ],
+        "synonyms": ["making progress", "heading in the right direction", "on the correct path"],
+        "antonyms": ["going off course", "lost", "on the wrong track"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "on top of trends",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to stay informed about the latest developments, styles, or changes in a particular field or industry",
+        "ptDefinition": "manter-se informado sobre os últimos desenvolvimentos, estilos ou mudanças em um determinado campo ou setor",
+        "examples": [
+          {
+            "enExample": "Successful marketers always stay on top of trends to keep their strategies relevant.",
+            "ptExample": "Os marqueteiros de sucesso sempre se mantêm atualizados sobre as tendências para manter suas estratégias relevantes."
+          },
+          {
+            "enExample": "To remain competitive, it's important for designers to stay on top of trends in the fashion industry.",
+            "ptExample": "Para se manter competitivo, é importante que os designers estejam atentos às tendências da indústria da moda."
+          }
+        ],
+        "synonyms": ["stay current", "stay updated", "follow trends"],
+        "antonyms": ["fall behind", "ignore changes", "be outdated"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used in professional or creative contexts where being updated is crucial for success."
+          },
+          {
+            "ptNote": "Este idiom é frequentemente usado em contextos profissionais ou criativos, onde estar atualizado é crucial para o sucesso."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "outage",
+        "phonetics": "/ˈaʊ.t̬ɪdʒ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a period when a service, such as electricity, is not available",
+        "ptDefinition": "corte de energia, apagão",
+        "examples": [
+          {
+            "enExample": "The radio news reported power outages affecting 50 homes.",
+            "ptExample": "O noticiário no rádio relatou quedas de energia afetando 50 casas."
+          }
+        ],
+        "synonyms": ["blackout"]
+      }
+    ]
+  }
+]

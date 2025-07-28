@@ -1,0 +1,513 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "dire",
+        "phonetics": "/daɪər/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "extremely serious or urgent; causing great fear or suffering",
+        "ptDefinition": "terrível, grave, urgente; que causa muito medo ou sofrimento",
+        "examples": [
+          {
+            "enExample": "The country is in dire need of medical supplies.",
+            "ptExample": "O país está em necessidade urgente de suprimentos médicos."
+          },
+          {
+            "enExample": "The economic situation has become dire.",
+            "ptExample": "A situação econômica tornou-se grave."
+          }
+        ],
+        "synonyms": ["desperate", "critical", "severe", "extreme"],
+        "antonyms": ["mild", "trivial", "insignificant"],
+        "seeAlso": ["serious", "urgent"],
+        "notes": [
+          {
+            "enNote": "Often used to emphasize the extreme seriousness of a situation",
+            "ptNote": "Frequentemente usado para enfatizar a extrema gravidade de uma situação"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "Dream on!",
+        "phonetics": "",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to tell someone that what they are hoping for is not likely to happen",
+        "ptDefinition": "usado para dizer a alguém que o que eles estão esperando não é provável que aconteça",
+        "examples": [
+          {
+            "enExample": "You think you can get a promotion without working hard? Dream on!",
+            "ptExample": "Você acha que pode conseguir uma promoção sem trabalhar duro? Continue sonhando!"
+          },
+          {
+            "enExample": "He thinks he can win the lottery. Dream on!",
+            "ptExample": "Ele acha que pode ganhar na loteria. Continue sonhando!"
+          }
+        ],
+        "synonyms": ["keep dreaming", "in your dreams"],
+        "antonyms": ["realistic", "practical"],
+        "seeAlso": ["wishful thinking"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used in a sarcastic or dismissive manner.",
+            "ptNote": "Este idiom é frequentemente usado de maneira sarcástica ou desdenhosa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "drop the ball",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to make a mistake or fail to do something important",
+        "ptDefinition": "cometer um erro ou falhar em fazer algo importante",
+        "examples": [
+          {
+            "enExample": "He really dropped the ball when he forgot to submit the report on time.",
+            "ptExample": "Ele realmente cometeu um erro quando esqueceu de enviar o relatório a tempo."
+          },
+          {
+            "enExample": "The team dropped the ball in the final minutes of the game.",
+            "ptExample": "O time falhou nos minutos finais do jogo."
+          }
+        ],
+        "synonyms": ["make a mistake", "mess up", "blunder"],
+        "antonyms": ["succeed", "perform well", "excel"],
+        "seeAlso": ["slip up", "screw up"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to describe a failure to meet expectations or responsibilities.",
+            "ptNote": "Este idiom é frequentemente usado para descrever uma falha em atender expectativas ou responsabilidades."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "dot your i's and cross your t's",
+        "phonetics": "",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to pay attention to every small detail, to be thorough and meticulous",
+        "ptDefinition": "prestar atenção a cada pequeno detalhe, ser minucioso e meticuloso",
+        "examples": [
+          {
+            "enExample": "When preparing the contract, make sure to dot your i's and cross your t's.",
+            "ptExample": "Ao preparar o contrato, certifique-se de prestar atenção a cada detalhe."
+          },
+          {
+            "enExample": "She always dots her i's and crosses her t's, which is why her work is so accurate.",
+            "ptExample": "Ela sempre presta atenção a cada detalhe, por isso seu trabalho é tão preciso."
+          }
+        ],
+        "synonyms": ["be meticulous", "be thorough", "pay attention to detail"],
+        "antonyms": ["be careless", "overlook details", "be negligent"],
+        "seeAlso": ["be precise", "be exact"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to emphasize the importance of attention to detail in tasks.",
+            "ptNote": "Este idiom é frequentemente usado para enfatizar a importância da atenção aos detalhes nas tarefas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "determine",
+        "phonetics": "/dɪˈtɜːrmɪn/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to establish or ascertain something, often through research or calculation",
+        "ptDefinition": "determinar ou estabelecer algo, muitas vezes através de pesquisa ou cálculo",
+        "examples": [
+          {
+            "enExample": "The test results will determine the next steps in the treatment.",
+            "ptExample": "Os resultados do teste determinarão os próximos passos no tratamento."
+          },
+          {
+            "enExample": "She was determined to succeed in her career.",
+            "ptExample": "Ela estava determinada a ter sucesso em sua carreira."
+          }
+        ],
+        "synonyms": ["ascertain", "decide", "establish"],
+        "antonyms": ["doubt", "hesitate", "ignore"],
+        "seeAlso": ["determination", "determinant"],
+        "notes": [
+          {
+            "enNote": "The word 'determine' can also imply a strong sense of resolve or decision-making.",
+            "ptNote": "A palavra 'determinar' também pode implicar um forte senso de resolução ou tomada de decisão."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "dozen",
+        "phonetics": "/ˈdʌzən/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a group or set of twelve",
+        "ptDefinition": "um grupo ou conjunto de doze",
+        "examples": [
+          {
+            "enExample": "She bought a dozen eggs from the grocery.",
+            "ptExample": "Ela comprou uma dúzia de ovos na mercado."
+          },
+          {
+            "enExample": "There were a dozen cookies in the jar.",
+            "ptExample": "Havia uma dúzia de biscoitos no pote."
+          }
+        ],
+        "synonyms": ["twelve"],
+        "antonyms": [],
+        "seeAlso": ["dozens"],
+        "notes": [
+          {
+            "enNote": "The term 'dozen' is often used to describe a quantity of twelve items.",
+            "ptNote": "O termo 'dúzia' é frequentemente usado para descrever uma quantidade de doze itens."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "disappointed",
+        "phonetics": "/ˌdɪsəˈpɔɪntɪd/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "feeling sad or displeased because someone or something has failed to fulfill one's hopes or expectations",
+        "ptDefinition": "sentindo-se triste ou decepcionado(a) porque alguém ou algo não atendeu às suas esperanças ou expectativas; desapontado(a)",
+        "examples": [
+          {
+            "enExample": "She was disappointed with the results of the exam.",
+            "ptExample": "Ela ficou desapontada com os resultados da prova."
+          },
+          {
+            "enExample": "He felt disappointed when his team lost the match.",
+            "ptExample": "Ele ficou decepcionado quando seu time perdeu o jogo."
+          }
+        ],
+        "synonyms": ["dismayed", "disheartened", "let down"],
+        "antonyms": ["pleased", "satisfied", "content"],
+        "seeAlso": ["disappoint", "disappointment"],
+        "notes": [
+          {
+            "ptNote": "decepcionado(a): que sofreu uma decepção; desiludido(a) / desapontado(a): furstado(a) em seu objetivo ou em suas esperanças, envergonhado(a)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "disappoint",
+        "phonetics": "/ˌdɪsəˈpɔɪnt/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to fail to fulfill the hopes or expectations of someone",
+        "ptDefinition": "falhar em atender as esperanças ou expectativas de alguém; desapontar",
+        "examples": [
+          {
+            "enExample": "The movie did not disappoint; it was as good as the reviews said.",
+            "ptExample": "O filme não decepcionou; foi tão bom quanto as críticas disseram."
+          }
+        ],
+        "synonyms": ["let down", "dissatisfy", "disillusion"],
+        "antonyms": ["satisfy", "please", "fulfill"],
+        "seeAlso": ["disappointment", "disappointing"],
+        "notes": [
+          {
+            "enNote": "The word 'disappoint' is often used when someone or something does not meet expectations.",
+            "ptNote": "A palavra 'decepcionar' é frequentemente usada quando alguém ou algo não atende às expectativas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "deliver",
+        "phonetics": "dɪˈlɪvər",
+        "partOfSpeech": "verb",
+        "enDefinition": "to bring or transport something to a destination, or to fulfill an obligation or promise",
+        "ptDefinition": "levar ou transportar algo a um destino, ou cumprir uma obrigação ou promessa",
+        "examples": [
+          {
+            "enExample": "The company promises to deliver your order within two days.",
+            "ptExample": "A empresa promete entregar seu pedido dentro de dois dias."
+          },
+          {
+            "enExample": "He always delivers excellent results on time.",
+            "ptExample": "Ele sempre entrega resultados excelentes dentro do prazo."
+          }
+        ],
+        "synonyms": ["provide", "supply", "bring"],
+        "antonyms": ["withhold", "keep", "retain"],
+        "notes": [
+          {
+            "enNote": "In a broader sense, 'deliver' can also mean to perform or achieve something successfully, such as delivering a speech or a presentation.",
+            "ptNote": "Em um sentido mais amplo, 'deliver' também pode significar realizar ou alcançar algo com sucesso, como fazer um discurso ou uma apresentação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "drum up business",
+        "phonetics": "/drʌm ʌp ˈbɪznəs/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to generate or increase business, often through activities like advertising, networking, or promotions",
+        "ptDefinition": "aumentar ou gerar negócios, muitas vezes por meio de atividades como publicidade, networking ou promoções",
+        "examples": [
+          {
+            "enExample": "The company is working hard to drum up business by offering discounts to new customers.",
+            "ptExample": "A empresa está se esforçando para atrair mais negócios oferecendo descontos para novos clientes."
+          },
+          {
+            "enExample": "They organized a special event to drum up business for their new store.",
+            "ptExample": "Eles organizaram um evento especial para atrair mais clientes para a nova loja."
+          }
+        ],
+        "synonyms": ["increase sales", "attract customers"],
+        "antonyms": ["lose business", "decline", "reduce sales"],
+        "seeAlso": "",
+        "notes": [
+          {
+            "enNote": "This phrase is commonly used in business contexts to describe efforts aimed at bringing in new customers or clients."
+          },
+          {
+            "ptNote": "Esta expressão é comumente usada em contextos de negócios para descrever esforços voltados para atrair novos clientes ou consumidores."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "dud",
+        "phonetics": "/dʌd/",
+        "partOfSpeech": "noun",
+        "enDefinition": "something that is a failure or does not work as intended",
+        "ptDefinition": "algo que é um fracasso ou não funciona como o esperado",
+        "examples": [
+          {
+            "enExample": "The new gadget turned out to be a dud, it broke after one use.",
+            "ptExample": "O novo dispositivo acabou sendo um fracasso, quebrou após o primeiro uso."
+          }
+        ],
+        "synonyms": ["failure", "flop", "bust"],
+        "antonyms": ["success", "hit", "winner"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "do whatever it takes",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to do everything necessary to achieve a goal, even if it requires significant effort or sacrifice",
+        "ptDefinition": "fazer tudo o que for preciso para alcançar um objetivo, mesmo que exija muito esforço ou sacrifício",
+        "examples": [
+          {
+            "enExample": "The team is ready to do whatever it takes to meet the tight deadline.",
+            "ptExample": "A equipe está disposta a fazer o que for necessário para cumprir o prazo apertado."
+          },
+          {
+            "enExample": "He was determined to succeed and would do whatever it takes to make his dream a reality.",
+            "ptExample": "Ele estava determinado a ter sucesso e faria de tudo para tornar seu sonho realidade."
+          }
+        ],
+        "synonyms": ["pull out all the stops", "go all out", "spare no effort"],
+        "antonyms": ["give up", "hold back", "limit effort"],
+        "notes": [
+          {
+            "enNote": "This expression is often used to convey a strong sense of determination and commitment."
+          },
+          {
+            "ptNote": "Esta expressão é frequentemente usada para transmitir um forte senso de determinação e comprometimento."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "deaf",
+        "phonetics": "/def/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "lacking the power of hearing or having impaired hearing",
+        "ptDefinition": "sem a capacidade de ouvir ou com audição prejudicada; surdo",
+        "examples": [
+          {
+            "enExample": "She has been deaf since birth.",
+            "ptExample": "Ela é surda desde o nascimento."
+          },
+          {
+            "enExample": "He communicates with his deaf friends using sign language.",
+            "ptExample": "Ele se comunica com seus amigos surdos usando a linguagem de sinais."
+          }
+        ],
+        "synonyms": ["hearing-impaired", "unhearing"],
+        "antonyms": ["hearing"],
+        "seeAlso": ["deafness", "hard of hearing"],
+        "notes": [
+          {
+            "enNote": "The term 'deaf' can refer to a range of hearing loss, from partial to complete.",
+            "ptNote": "O termo 'surdo' pode se referir a uma variedade de perdas auditivas, desde parcial até completa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "deafness",
+        "phonetics": "/'def.nəs/",
+        "partOfSpeech": "noun",
+        "enDefinition": "the state of being deaf",
+        "ptDefinition": "surdez",
+        "examples": [
+          {
+            "enExample": "She was finally diagnosed with profound deafness at 19 months.",
+            "ptExample": "Such tumours occur in one of the nerves in the brain and can lead to deafness in one ear."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "deadliest",
+        "phonetics": "/ˈded.liəst/",
+        "partOfSpeech": "superlative of deadly",
+        "ptDefinition": "mais mortal",
+        "examples": [
+          {
+            "enExample": "The Spanish Flu pandemic of 1918 is considered one of the deadliest in human history, with an estimated 50 million deaths worldwide.",
+            "ptExample": "A pandemia de gripe espanhola de 1918 é considerada uma das mais mortais da história humana, com um número estimado de 50 milhões de mortes em todo o mundo."
+          },
+          {
+            "enExample": "Mount Vesuvius's eruption in AD 79 is among the deadliest volcanic eruptions ever recorded, burying the cities of Pompeii and Herculaneum under ash and rock.",
+            "ptExample": "A erupção do Monte Vesúvio em 79 d.C. está entre as erupções vulcânicas mais mortais já registradas, enterrando as cidades de Pompeia e Herculano sob cinzas e rochas."
+          },
+          {
+            "enExample": "The Battle of Stalingrad during World War II was one of the deadliest battles, resulting in nearly two million casualties.",
+            "ptExample": "A Batalha de Stalingrado durante a Segunda Guerra Mundial foi uma das batalhas mais mortais, resultando em quase dois milhões de baixas."
+          },
+          {
+            "enExample": "The bubonic plague, or Black Death, was one of the deadliest pandemics, killing an estimated 25 million people in 14th-century Europe.",
+            "ptExample": "A peste bubônica, ou Peste Negra, foi uma das pandemias mais mortais, matando cerca de 25 milhões de pessoas na Europa do século XIV."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "debris",
+        "phonetics": "/dəˈbriː/",
+        "partOfSpeech": "noun",
+        "enDefinition": "broken or torn pieces of something larger",
+        "ptDefinition": "escombros, entulho",
+        "examples": [
+          {
+            "enExample": "Debris from the aircraft was scattered over a large area.",
+            "ptExample": "Destroços da aeronave foram espalhados por uma grande área."
+          }
+        ],
+        "synonyms": ["detritus"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "dream up",
+        "phonetics": "/driːm ʌp/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to imagine or invent something, especially something creative or unusual",
+        "ptDefinition": "imaginar ou inventar algo, especialmente algo criativo ou incomum",
+        "examples": [
+          {
+            "enExample": "She managed to dream up an innovative solution to the problem.",
+            "ptExample": "Ela conseguiu imaginar uma solução inovadora para o problema."
+          },
+          {
+            "enExample": "The advertising team dreamed up a catchy slogan for the new product.",
+            "ptExample": "A equipe de publicidade inventou um slogan chamativo para o novo produto."
+          }
+        ],
+        "synonyms": ["invent", "create", "conceive"],
+        "antonyms": ["copy", "replicate", "imitate"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "delicious",
+        "phonetics": "/dɪ'lɪʃ.əs/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "highly pleasant to the taste",
+        "ptDefinition": "delicioso",
+        "examples": [
+          {
+            "enExample": "The cake she baked was absolutely delicious.",
+            "ptExample": "O bolo que ela fez estava absolutamente delicioso."
+          }
+        ],
+        "synonyms": ["tasty", "delectable"],
+        "antonyms": ["unpalatable", "tasteless"],
+        "seeAlso": ["scrumptious", "mouth-watering"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "drum up business",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to create business; to find new customers",
+        "examples": [
+          {
+            "enExample": "Sales have been very slow lately. Do you have any ideas for <b>drumming up business</b>?",
+            "ptExample": "As vendas têm sido muito lentas ultimamente. Você tem alguma ideia para impulsionar os negócios?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "dulce de leche",
+        "phonetics": "/ˌdʌl.seɪ də ˈletʃ.eɪ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a sweet food, originally from Latin America, made from milk that has been caramelized until it becomes sweet and brown",
+        "examples": [
+          {
+            "enExample": "The dessert was a dulce de leche and vanilla ice cream.",
+            "ptExample": "A sobremesa era doce de leite e sorvete de baunilha."
+          }
+        ]
+      }
+    ]
+  }
+]

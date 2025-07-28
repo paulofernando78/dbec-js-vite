@@ -1,0 +1,188 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "let's agree to disagree",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a phrase used to end a discussion when both parties cannot reach an agreement but wish to remain cordial",
+        "ptDefinition": "uma frase usada para encerrar uma discussão quando ambas as partes não conseguem chegar a um acordo mas desejam manter a cordialidade",
+        "examples": [
+          {
+            "enExample": "We clearly have different views on this political issue, so let's agree to disagree.",
+            "ptExample": "Claramente temos visões diferentes sobre esta questão política, então vamos concordar em discordar."
+          },
+          {
+            "enExample": "After debating for hours, they decided to agree to disagree about the best approach.",
+            "ptExample": "Depois de debater por horas, eles decidiram concordar em discordar sobre a melhor abordagem."
+          }
+        ],
+        "synonyms": ["agree to differ", "accept our differences"],
+        "antonyms": ["insist on agreement", "force consensus"],
+        "notes": [
+          {
+            "enNote": "This phrase is used to maintain respect and civility when two parties have irreconcilable views",
+            "ptNote": "Esta frase é usada para manter o respeito e a civilidade quando duas partes têm visões irreconciliáveis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "last resort",
+        "partOfSpeech": "noun phrase",
+        "enDefinition": "something that is tried after everything else has failed; the final possibility or option",
+        "ptDefinition": "último recurso; última alternativa quando todas as outras opções falharam",
+        "examples": [
+          {
+            "enExample": "Surgery should be used as a last resort when all other treatments have failed.",
+            "ptExample": "A cirurgia deve ser usada como último recurso quando todos os outros tratamentos falharem."
+          },
+          {
+            "enExample": "Bankruptcy was their last resort after trying everything to save the business.",
+            "ptExample": "A falência foi seu último recurso depois de tentar tudo para salvar o negócio."
+          }
+        ],
+        "synonyms": ["final option", "last choice", "final alternative"],
+        "antonyms": ["first choice", "preferred option", "primary solution"],
+        "notes": [
+          {
+            "enNote": "The phrase implies that this option should only be considered when all other possibilities have been exhausted",
+            "ptNote": "A frase implica que esta opção só deve ser considerada quando todas as outras possibilidades foram esgotadas"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "Louvre",
+        "enDefinition": "the world's largest art museum located in Paris, France, housed in a historic palace and home to many famous works including the Mona Lisa",
+        "ptDefinition": "o maior museu de arte do mundo localizado em Paris, França, instalado em um palácio histórico e lar de muitas obras famosas, incluindo a Mona Lisa",
+        "notes": [
+          {
+            "enNote": "Originally built as a fortress in the 12th century, later served as a royal residence before becoming a museum in 1793.",
+            "ptNote": "Originalmente construído como uma fortaleza no século XII, posteriormente serviu como residência real antes de se tornar um museu em 1793."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "look",
+        "phonetics": "lʊk",
+        "partOfSpeech": "verb",
+        "enDefinition": "to direct your eyes in order to see; to appear to be something",
+        "ptDefinition": "olhar",
+        "examples": [
+          {
+            "enExample": "Look at that beautiful sunset!",
+            "ptExample": "Olhe aquele lindo pôr do sol!"
+          }
+        ],
+        "synonyms": ["see", "watch", "observe", "gaze", "stare", "glance", "peer", "inspect", "scrutinize"],
+        "antonyms": ["be blind", "ignore", "overlook"]
+      },
+      {
+        "enDefinition": "to appear to be something",
+        "ptDefinition": "parecer",
+        "examples": [
+          {
+            "enExample": "You look tired today.",
+            "ptExample": "Você parece cansado hoje."
+          }
+        ],
+        "synonyms": ["appear", "seem", "sound", "feel", "come across as"],
+        "antonyms": ["be", "act", "sound like", "feel like"],
+        "seeAlso": ["seem"],
+        "notes": [
+          {
+            "enNote": "look vs. seem: 'Look' is often used for visual appearances, while 'seem' is used for impressions that may not be visual",
+            "ptNote": "'Look' é baseado na aparência (He looks happy today), enquanto 'seem' é na opinião (It seems like... Parece que...)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "let down",
+        "phonetics": "lɛt daʊn",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to disappoint someone by failing to do what they expected or hoped for",
+        "ptDefinition": "decepcionar alguém ao não fazer o que esperavam ou esperavam",
+        "examples": [
+          {
+            "enExample": "I promised to help him, and I can't let him down.",
+            "ptExample": "Eu prometi ajudá-lo, e não posso decepcioná-lo."
+          },
+          {
+            "enExample": "She felt let down when her friends didn't show up to her party.",
+            "ptExample": "Ela se sentiu decepcionada quando seus amigos não apareceram na festa."
+          }
+        ],
+        "synonyms": ["disappoint", "fail", "betray"],
+        "antonyms": ["support", "uplift", "encourage"],
+        "notes": [
+          {
+            "enNote": "This phrasal verb is often used when someone does not meet expectations or fulfill a promise.",
+            "ptNote": "Este verbo frasal é frequentemente usado quando alguém não atende às expectativas ou cumpre uma promessa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "live to regret this decision",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to eventually regret a decision, especially after experiencing its negative consequences",
+        "ptDefinition": "eventualmente se arrepender de uma decisão, especialmente após vivenciar suas consequências negativas",
+        "examples": [
+          {
+            "enExample": "He might live to regret this decision of quitting his job without a backup plan.",
+            "ptExample": "Ele pode se arrepender dessa decisão de sair do emprego sem um plano de contingência."
+          },
+          {
+            "enExample": "You could live to regret this decision if you don't take the time to consider all the options.",
+            "ptExample": "Você pode se arrepender dessa decisão se não dedicar um tempo para considerar todas as opções."
+          }
+        ],
+        "synonyms": ["regret later", "feel sorry", "pay the price"],
+        "antonyms": ["make the right choice", "have no regrets", "be satisfied"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "leapfrog one's competitors",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to surpass or outdo one's competitors by making a significant advance or breakthrough",
+        "ptDefinition": "superar ou ultrapassar os concorrentes com um avanço ou inovação significativa",
+        "examples": [
+          {
+            "enExample": "The company managed to leapfrog its competitors by introducing a revolutionary new technology.",
+            "ptExample": "A empresa conseguiu superar seus concorrentes ao lançar uma tecnologia revolucionária."
+          }
+        ],
+        "synonyms": ["outpace", "surpass", "outstrip"],
+        "antonyms": ["lag behind", "fall short", "trail"],
+        "notes": [
+          {
+            "enNote": "The term comes from the idea of one person leaping over another in a race, symbolizing a major leap forward. It's also a popular children's game in which one child bends down and another jumps over him or her."
+          },
+          {
+            "ptNote": "O termo vem da ideia de uma pessoa saltando sobre outra em uma corrida, simbolizando um grande avanço. Também é um jogo popular entre crianças em que uma criança se agacha e a outra pula sobre ela."
+          }
+        ]
+      }
+    ]
+  }
+]

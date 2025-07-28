@@ -1,0 +1,768 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "a far cry from",
+        "partOfSpeech": "idiom",
+        "enDefinition": "very different from; not at all like",
+        "ptDefinition": "muito diferente de; nem um pouco parecido com",
+        "examples": [
+          {
+            "enExample": "The small apartment was a far cry from the luxury house she grew up in.",
+            "ptExample": "O pequeno apartamento era muito diferente da casa luxuosa onde ela cresceu."
+          },
+          {
+            "enExample": "His current job is a far cry from what he originally planned to do.",
+            "ptExample": "Seu trabalho atual é muito diferente do que ele originalmente planejava fazer."
+          }
+        ],
+        "synonyms": ["worlds apart from", "completely different from", "nothing like"],
+        "antonyms": ["similar to", "close to", "comparable to"],
+        "seeAlso": ["different from", "unlike"],
+        "notes": [
+          {
+            "enNote": "This idiom emphasizes a stark contrast or significant difference between two things.",
+            "ptNote": "Esta expressão enfatiza um contraste marcante ou diferença significativa entre duas coisas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "allow",
+        "phonetics": "/əˈlaʊ/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to give permission for someone to do something, or to make it possible for something to happen",
+        "ptDefinition": "permitir, deixar, autorizar que algo aconteça ou que alguém faça algo",
+        "examples": [
+          {
+            "enExample": "Smoking is not allowed in the building.", 
+            "ptExample": "Não é permitido fumar no prédio."
+          },
+          {
+            "enExample": "The teacher allowed the students to leave early.",
+            "ptExample": "O professor permitiu que os alunos saíssem mais cedo."
+          }
+        ],
+        "synonyms": ["permit", "let", "authorize", "enable"],
+        "antonyms": ["forbid", "prohibit", "prevent", "deny"],
+        "seeAlso": ["permit", "authorize"],
+        "notes": [
+          {
+            "enNote": "Allow is often followed by an object and infinitive (allow someone to do something)",
+            "ptNote": "Allow é frequentemente seguido por um objeto e infinitivo (permitir que alguém faça algo)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "all in a day's work",
+        "partOfSpeech": "idiom",
+        "enDefinition": "something that is considered a normal part of one's job or routine",
+        "ptDefinition": "algo que é considerado uma parte normal do trabalho ou rotina de alguém",
+        "examples": [
+          {
+            "enExample": "Dealing with difficult customers is all in a day's work for a customer service representative.",
+            "ptExample": "Lidar com clientes difíceis faz parte do trabalho diário de um representante de atendimento ao cliente."
+          },
+          {
+            "enExample": "For a firefighter, rescuing people from burning buildings is all in a day's work.",
+            "ptExample": "Para um bombeiro, resgatar pessoas de prédios em chamas faz parte do trabalho diário."
+          }
+        ],
+        "synonyms": ["routine", "normal", "usual"],
+        "antonyms": ["unusual", "exceptional"],
+        "seeAlso": ["part of the job", "business as usual"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to downplay the difficulty or significance of a task.",
+            "ptNote": "Este idiom é frequentemente usado para minimizar a dificuldade ou importância de uma tarefa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "around the clock",
+        "partOfSpeech": "idiom",
+        "enDefinition": "continuously for 24 hours a day",
+        "ptDefinition": "continuamente por 24 horas por dia",
+        "examples": [
+          {
+            "enExample": "The hospital staff worked around the clock to care for the patients.",
+            "ptExample": "A equipe do hospital trabalhou dia e noite para cuidar dos pacientes."
+          },
+          {
+            "enExample": "The team is working around the clock to meet the deadline.",
+            "ptExample": "A equipe está trabalhando dia e noite para cumprir o prazo."
+          }
+        ],
+        "synonyms": ["nonstop", "day and night", "unceasingly"],
+        "antonyms": ["intermittently", "occasionally"],
+        "seeAlso": ["24/7", "all day long"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to emphasize continuous effort or activity.",
+            "ptNote": "Este idiom é frequentemente usado para enfatizar esforço ou atividade contínua."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "asleep at the wheel",
+        "partOfSpeech": "idiom",
+        "enDefinition": "not paying attention to a situation, especially when you are responsible for it",
+        "ptDefinition": "não prestar atenção a uma situação, especialmente quando você é responsável por ela",
+        "examples": [
+          {
+            "enExample": "The company went bankrupt because the management was asleep at the wheel.",
+            "ptExample": "A empresa faliu porque a administração estava dormindo no ponto."
+          },
+          {
+            "enExample": "If you don't keep up with the latest trends, you'll be asleep at the wheel.",
+            "ptExample": "Se você não acompanhar as últimas tendências, estará dormindo no ponto."
+          }
+        ],
+        "synonyms": ["negligent", "inattentive", "careless"],
+        "antonyms": ["attentive", "vigilant", "alert"],
+        "seeAlso": ["drop the ball", "neglect"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to criticize someone for not fulfilling their responsibilities.",
+            "ptNote": "Este idiom é frequentemente usado para criticar alguém por não cumprir suas responsabilidades."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "ashamed",
+        "phonetics": "/əˈʃeɪmd/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "feeling embarrassed or guilty because of one's actions, characteristics, or associations",
+        "ptDefinition": "sentindo-se envergonhado ou culpado por causa de suas ações, características ou associações; envergonhado(a)",
+        "examples": [
+          {
+            "enExample": "She felt ashamed of her behavior.",
+            "ptExample": "Ela se sentiu envergonhada de seu comportamento."
+          },
+          {
+            "enExample": "He was ashamed to admit his mistake.",
+            "ptExample": "Ele estava envergonhado de admitir seu erro."
+          }
+        ],
+        "synonyms": ["embarrassed", "guilty", "humiliated"],
+        "antonyms": ["proud", "unashamed"],
+        "seeAlso": ["embarrassed", "guilty"],
+        "notes": [
+          {
+            "enNote": "Ashamed is often used to describe a feeling of guilt or embarrassment about something one has done.",
+            "ptNote": "Ashamed é frequentemente usado para descrever um sentimento de culpa ou vergonha sobre algo que alguém fez."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "afraid",
+        "phonetics": "/əˈfreɪd/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "feeling fear or anxiety; frightened",
+        "ptDefinition": "sentindo medo ou ansiedade; assustado",
+        "examples": [
+          {
+            "enExample": "She was afraid of the dark.",
+            "ptExample": "Ela tinha medo do escuro."
+          },
+          {
+            "enExample": "He is afraid of flying.",
+            "ptExample": "Ele tem medo de voar."
+          }
+        ],
+        "synonyms": ["scared", "frightened", "terrified", "fearful"],
+        "antonyms": ["brave", "confident", "fearless"],
+        "seeAlso": ["fear", "anxiety"],
+        "notes": [
+          {
+            "enNote": "Afraid is often used to describe a temporary state of fear.",
+            "ptNote": "Afraid é frequentemente usado para descrever um estado temporário de medo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "anxious",
+        "phonetics": "/ˈæŋk.ʃəs/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "experiencing worry, unease, or nervousness, typically about an imminent event or something with an uncertain outcome",
+        "ptDefinition": "experimentando preocupação, inquietação ou nervosismo, geralmente sobre um evento iminente ou algo com um resultado incerto; ansioso",
+        "examples": [
+          {
+            "enExample": "She felt anxious before the exam.",
+            "ptExample": "Ela se sentiu ansiosa antes do exame."
+          },
+          {
+            "enExample": "He was anxious about the meeting with his boss.",
+            "ptExample": "Ele estava ansioso com a reunião com seu chefe."
+          }
+        ],
+        "synonyms": ["worried", "nervous", "apprehensive", "uneasy"],
+        "antonyms": ["calm", "relaxed", "confident"],
+        "seeAlso": ["nervous", "apprehensive"],
+        "notes": [
+          {
+            "enNote": "Anxious can describe both a temporary state of worry and a more chronic condition.",
+            "ptNote": "Ansioso pode descrever tanto um estado temporário de preocupação quanto uma condição mais crônica."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "ask for trouble",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to behave in a way that is likely to result in trouble or problems",
+        "ptDefinition": "comportar-se de uma maneira que provavelmente resultará em problemas ou dificuldades",
+        "examples": [
+          {
+            "enExample": "If you go out in this storm, you're asking for trouble.",
+            "ptExample": "Se você sair nesta tempestade, estará pedindo problemas."
+          },
+          {
+            "enExample": "Ignoring safety regulations is just asking for trouble.",
+            "ptExample": "Ignorar as normas de segurança é pedir problemas."
+          }
+        ],
+        "synonyms": ["court disaster", "invite trouble", "tempt fate"],
+        "antonyms": ["play it safe", "avoid risk"],
+        "seeAlso": ["bring on trouble", "invite problems"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to warn someone that their actions may lead to negative consequences.",
+            "ptNote": "Este idiom é frequentemente usado para avisar alguém de que suas ações podem levar a consequências negativas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "agenda item",
+        "phonetics": "/əˈdʒɛndə ˈaɪɾəm/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A specific subject or topic listed for discussion or action during a meeting or event",
+        "ptDefinition": "Um assunto ou tópico específico listado para discussão ou ação durante uma reunião ou evento",
+        "examples": [
+          {
+            "enExample": "The budget report is the first agenda item for today's meeting.",
+            "ptExample": "O relatório orçamentário é o primeiro item da agenda para a reunião de hoje."
+          },
+          {
+            "enExample": "Please prepare your notes on the agenda item regarding team restructuring.",
+            "ptExample": "Por favor, prepare suas notas sobre o item da agenda referente à reestruturação da equipe."
+          }
+        ],
+        "synonyms": ["meeting topic", "discussion point", "agenda topic"],
+        "antonyms": [],
+        "seeAlso": ["agenda", "meeting schedule"],
+        "notes": [
+          {
+            "enNote": "Agenda items are typically organized in order of importance or relevance to the meeting objectives.",
+            "ptNote": "Os itens da agenda geralmente são organizados por ordem de importância ou relevância para os objetivos da reunião."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "at a premium",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be in high demand and priced higher than usual, often due to rarity or desirability",
+        "ptDefinition": "estar em alta demanda e com preço mais alto do que o usual, geralmente devido à raridade ou desejo",
+        "examples": [
+          {
+            "enExample": "Tickets for the concert are being sold at a premium due to high demand.",
+            "ptExample": "Os ingressos para o show estão sendo vendidos a um preço elevado devido à alta demanda."
+          },
+          {
+            "enExample": "During the holidays, flights are usually available at a premium.",
+            "ptExample": "Durante as férias, os voos geralmente estão disponíveis a preços mais altos."
+          }
+        ],
+        "synonyms": ["expensive", "costly", "overpriced"],
+        "antonyms": ["cheap", "affordable", "discounted"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "at the end of the day",
+        "partOfSpeech": "idiom",
+        "enDefinition": "ultimately, when all is considered, after all factors have been taken into account",
+        "ptDefinition": "no final das contas, quando tudo for considerado, após levar em conta todos os fatores",
+        "examples": [
+          {
+            "enExample": "At the end of the day, it’s the results that matter the most",
+            "ptExample": "No final das contas, são os resultados que importam mais"
+          },
+          {
+            "enExample": "We might disagree on many points, but at the end of the day, we’re all working towards the same goal.",
+            "ptExample": "Podemos discordar de muitos pontos, mas no final das contas, estamos todos trabalhando para o mesmo objetivo."
+          }
+        ],
+        "synonyms": ["when all is said and done", "in the final analysis", "when the dust settles"],
+        "antonyms": ["at the beginning", "in the early stages", "initially"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used to summarize or conclude a discussion, emphasizing what matters most after considering all aspects.",
+            "ptNote": "Esta expressão é frequentemente usada para resumir ou concluir uma discussão, enfatizando o que é mais importante após considerar todos os aspectos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "aim",
+        "phonetics": "/eɪm/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a result that your plans or actions are intended to achieve",
+        "ptDefinition": "um resultado que seus planos ou ações têm a intenção de alcançar",
+        "ptWordDefinition": "objetivo",
+        "examples": [
+          {
+            "enExample": "My main aim in life is to be a good husband and father.",
+            "ptExample": "Meu principal objetivo na vida é ser um bom marido e pai."
+          }
+        ],
+        "synonyms": ["goal", "ambition", "dream, target", "intention, wish"],
+        "antonyms": ["dislike", "hate", "hatred"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "acronym",
+        "phonetics": "/ˈæ.krə.nɪm/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a word formed from the initial letters of other words and pronounced as a word itself, such as NASA or UNESCO",
+        "ptDefinition": "uma palavra formada pelas letras iniciais de outras palavras e pronunciada como uma palavra, como NASA ou UNESCO",
+        "examples": [
+          {
+            "enExample": "NASA is an acronym for National Aeronautics and Space Administration.",
+            "ptExample": "NASA é um acrônimo para Administração Nacional de Aeronáutica e Espaço."
+          }
+        ],
+        "synonyms": ["abbreviation", "initialism"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "an",
+        "phonetics": "/an/",
+        "partOfSpeech": "article",
+        "enDefinition": "used instead of \"a\" when the following word begins with a vowel sound",
+        "ptDefinition": "usado em vez de \"a\" quando a palavra seguinte começa com um som de vogal",
+        "examples": [
+          {
+            "enExample": "an orange",
+            "ptExample": "uma laranja"
+          },
+          {
+            "enExample": "an honour",
+            "ptExample": "uma honra"
+          },
+          {
+            "enExample": "an easy question",
+            "ptExample": "uma pergunta fácil"
+          },
+          {
+            "enExample": "an interesting story",
+            "ptExample": "uma história interessante"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "angry",
+        "phonetics": "/ˈæŋɡri/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "feeling or showing strong displeasure or hostility; having a strong emotional reaction to something perceived as wrong or offensive",
+        "ptDefinition": "sentindo ou mostrando grande desagrado ou hostilidade; tendo uma reação emocional forte a algo percebido como errado ou ofensivo",
+        "examples": [
+          {
+            "enExample": "She was angry because she didn't get the job.",
+            "ptExample": "Ela estava brava porque não conseguiu o emprego."
+          }
+        ],
+        "synonyms": ["furious", "irate", "enraged", "livid, upset"],
+        "antonyms": ["calm", "content", "peaceful", "happy", "relaxed"],
+        "seeAlso": ["frustrated", "irritated"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "all-you-can-eat",
+        "phonetics": "/ɑːl.jə.kənˈiːt/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "used to describe a meal at a restaurant where people can serve themselves as much food as they want",
+        "ptDefinition": "rodízio, coma à vontade, *continuous table-side meat service",
+        "examples": [
+          {
+            "enExample": "The bar has an all-you-can-eat buffet lunch for $10.",
+            "ptExample": "O bar tem um buffet de almoço \"coma à vontade\" por $10."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "annoy",
+        "phonetics": "/əˈnɔɪ/",
+        "partOfSpeech": "regular verb",
+        "ptDefinition": "aborrecer, chatear, incomodar, irritar",
+        "examples": [
+          {
+            "enExample": "It's important to respect others' personal space and not do things that might annoy them.",
+            "ptExample": "É importante respeitar o espaço pessoal dos outros e não fazer coisas que possam incomodá-los."
+          }
+        ],
+        "synonyms": ["bother", "irritate", "bug"],
+        "antonyms": ["please", "gratify"]
+      },
+      {
+        "word": "annoyed",
+        "phonetics": "/əˈnɔɪd/",
+        "partOfSpeech": "past of annoy",
+        "examples": [
+          {
+            "enExample": "Tina really annoyed me in the meeting this morning.",
+            "ptExample": "Tina realmente me chateou na reunião esta manhã."
+          }
+        ]
+      },
+      {
+        "word": "annoyed",
+        "phonetics": "/əˈnɔɪd/",
+        "partOfSpeech": "past participle of annoy",
+        "examples": [
+          {
+            "enExample": "The loud music has annoyed the neighbors for weeks.",
+            "ptExample": "A música alta tem incomodado os vizinhos há semanas."
+          },
+          {
+            "enExample": "The ongoing construction work has annoyed residents in the area.",
+            "ptExample": "As obras em andamento incomodaram/tem incomodado os moradores da região."
+          }
+        ]
+      },
+      {
+        "word": "annoying",
+        "phonetics": "/əˈnɔɪ.ɪŋ/",
+        "partOfSpeech": "present participle of annoy",
+        "examples": [
+          {
+            "enExample": "I'm sorry - is my cough annoying you?",
+            "ptExample": "Sinto muito - minha tosse está incomodando você?"
+          }
+        ]
+      },
+      {
+        "word": "annoys",
+        "phonetics": "/əˈnɔɪz/",
+        "partOfSpeech": "he • she • it: affirmative only",
+        "examples": [
+          {
+            "enExample": "It really annoys me when people cut in line.",
+            "ptExample": "Realmente me irrita quando as pessoas furam a fila."
+          }
+        ]
+      },
+      {
+        "word": "annoying",
+        "phonetics": "/əˈnɔɪ.ɪŋ/",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "enExample": "It's really annoying when a train is late and there's no explanation.",
+            "ptExample": "É muito irritante quando um trem está atrasado e não há nenhuma explicação."
+          },
+          {
+            "enExample": "He's got a really annoying laugh.",
+            "ptExample": "Ele tem mesmo uma risada irritante."
+          }
+        ]
+      },
+      {
+        "word": "annoyed",
+        "phonetics": "/əˈnɔɪd/",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+        "enExample": "She was annoyed by the constant noise from the construction site.",
+        "ptExample": "Ela estava irritada com o barulho constante do canteiro de obras."
+          },
+          {
+        "enExample": "He felt annoyed when his plans were suddenly changed.",
+        "ptExample": "Ele se sentiu irritado quando seus planos foram subitamente alterados."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "anticipate",
+        "phonetics": "/ænˈtɪs.ə.peɪt/",
+        "partOfSpeech": "verb",
+        "ptDefinition": "prever",
+        "examples": [
+          {
+            "enExample": "We don't anticipate any trouble.",
+            "ptExample": "Não prevemos nenhum problema."
+          },
+          {
+            "enExample": "We had one or two difficulties along the way that we didn't anticipate.",
+            "ptExample": "Tivemos uma ou duas dificuldades ao longo do caminho que não previmos."
+          },
+          {
+            "enExample": "Are you anticipating a lot of people at the party tonight?",
+            "ptExample": "Você está esperando muita gente na festa hoje à noite?"
+          },
+          {
+            "enExample": "[ + -ing verb ] They anticipate having several applicants for the job.",
+            "ptExample": "Eles preveem ter vários candidatos para o emprego."
+          },
+          {
+            "enExample": "[ + that ] They anticipate that they will have several applicants for the job.",
+            "ptExample": "Eles preveem que terão vários candidatos para o emprego."
+          },
+          {
+            "enExample": "[ + question word ] At this stage we can't really anticipate what will happen.",
+            "ptExample": "Nesta fase, não podemos realmente prever o que vai acontecer."
+          },
+          {
+            "enExample": "The anticipated inflation figure is lower than last month's.",
+            "ptExample": "A expectativa de inflação é menor do que a do mês passado."
+          }
+        ],
+        "synonyms": ["expect", "look for", "await", "count on", "prepare oneself for", "look toward", "look forward to", "long for", "pin hope on", "foresee"],
+        "antonyms": ["remember"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "anxiety",
+        "phonetics": "/æŋˈzaɪ.ə.t̬i/",
+        "partOfSpeech": "noun",
+        "ptDefinition": "apreensão, inquietude, ansiedade",
+        "examples": [
+          {
+            "enExample": "Children normally feel a lot of anxiety about their first day at school.",
+            "ptExample": "As crianças normalmente sentem muita ansiedade no seu primeiro dia na escola."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "apple",
+        "phonetics": "/ˈæp.əl/",
+        "partOfSpeech": "noun",
+        "ptDefinition": "maçã",
+        "examples": [
+          {
+            "enExample": "an apple tree",
+            "ptExample": "uma macieira"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "aerobic",
+        "phonetics": "/erˈoʊ.bɪk/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "relating to or requiring free oxygen to live and grow, or involving or improving the body’s ability to absorb and transport oxygen",
+        "ptDefinition": "relativo a ou que exige oxigênio livre para viver e crescer, ou que envolve ou melhora a capacidade do corpo de absorver e transportar oxigênio",
+        "examples": [
+          {
+            "enExample": "Aerobic exercise, like running, improves cardiovascular health.",
+            "ptExample": "Exercícios aeróbicos, como correr, melhoram a saúde cardiovascular."
+          }
+        ],
+        "synonyms": ["cardio", "oxygen-consuming"],
+        "antonyms": ["anaerobic"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "ask",
+        "phonetics": "/æsk/",
+        "partOfSpeech": "regular verb • present",
+        "enDefinition": "to put a question to someone, or to request an answer from someone",
+        "ptDefinition": "perguntar",
+        "examples": [
+          {
+            "enExample": "Ask me anything.",
+            "ptExample": "Pergunte-me qualquer coisa."
+          },
+          {
+            "enExample": "Can I ask you something?",
+            "ptExample": "Posso te perguntar algo?"
+          },
+          {
+            "enExample": "Can I ask you a question?",
+            "ptExample": "Posso te fazer uma pergunta?"
+          }
+        ],
+        "synonyms": ["inquire", "consult"],
+        "antonyms": ["answer", "reply"]
+      },
+      {
+        "ptDefinition": "pedir",
+        "examples": [
+          {
+            "enExample": "Can I ask you a favor?",
+            "ptExample": "Posso te pedir um conselho?"
+          },
+          {
+            "enExample": "I usually ask for directions when I'm lost.",
+            "ptExample": "Eu geralmente peço informações quando estou perdido."
+          },
+          {
+            "enExample": "We usually ask our neighbors to keep an eye on our house when we're away.",
+            "ptExample": "Costumamos pedir aos nossos vizinhos para ficarem de olho na nossa casa quando estamos fora."
+          }
+        ],
+        "synonyms": ["request"],
+        "antonyms": ["refuse", "reject", "deny"]
+      },
+      {
+        "ptDefinition": "pedir (preço), cobrar, demandar",
+        "examples": [
+          {
+            "enExample": "I always ask for $50 per hour for my services.",
+            "ptExample": "Sempre cobro 50 dólares por hora pelos meus serviços."
+          }
+        ],
+        "synonyms": ["demand", "expect", "charge"],
+        "antonyms": ["give, offer"]
+      },
+      {
+        "ptDefinition": "convidar",
+        "examples": [
+          {
+            "enExample": "My grandma always asks me over.",
+            "ptExample": "Minha avó sempre me convida para ir na casa dela."
+          }
+        ],
+        "synonyms": ["invite"],
+        "antonyms": ["avoid", "refrain (from)"]
+      },
+      {
+        "word": "asked",
+        "phonetics": "/æskt/",
+        "partOfSpeech": "past of ask",
+        "examples": [
+          {
+            "enExample": "She asked about Brazil history.",
+            "ptExample": "Ela perguntou sobre a história do Brasil."
+          },
+          {
+            "enExample": "He asked if he could come with us.",
+            "ptExample": "Ele perguntou se ele podia vir conosco."
+          }
+        ]
+      },
+      {
+        "word": "asked",
+        "phonetics": "/æskt/",
+        "partOfSpeech": "past participle of ask",
+        "examples": [
+          {
+            "enExample": "I've asked David to come to the party.",
+            "ptExample": "Convidei o David para vir à festa."
+          },
+          {
+            "enExample": "John has asked us over for dinner next Friday.",
+            "ptExample": "John nos convidou para jantar na próxima sexta-feira."
+          }
+        ]
+      },
+      {
+        "word": "asking",
+        "phonetics": "/æsk.ɪŋ/",
+        "partOfSpeech": "present participle of ask",
+        "examples": [
+          {
+            "enExample": "Mike's asking $250,000 for his house.",
+            "ptExample": "Mike está pedindo 250.000 dólares pela sua casa."
+          },
+          {
+            "enExample": "How much are you asking?",
+            "ptExample": "Quanto está pedindo? / Quanto você quer (por isso)?"
+          },
+          {
+            "enExample": "It's asking a lot when your boss wants you to work weekends as well as evenings.",
+            "ptExample": "É pedir muito quando seu chefe quer que você trabalhe nos finais de semana e também à noite."
+          }
+        ]
+      },
+      {
+        "word": "asks",
+        "phonetics": "/æsks/",
+        "partOfSpeech": "he, she, it of ask: affirmative only",
+        "examples": [
+          {
+            "enExample": "George always asks his parents for advice whenever he's in trouble.",
+            "ptExample": "George sempre pede conselhos aos pais sempre que está com problemas."
+          }
+        ]
+      }
+    ]
+  }
+]

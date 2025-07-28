@@ -1,0 +1,121 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "keep one's eye on the prize",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to stay focused on achieving a positive end result, especially in the face of challenges or distractions",
+        "ptDefinition": "manter o foco em alcançar um resultado positivo, especialmente diante de desafios ou distrações",
+        "examples": [
+          {
+            "enExample": "Despite the difficulties, she kept her eye on the prize and completed her degree.",
+            "ptExample": "Apesar das dificuldades, ela manteve o foco e concluiu seu diploma."
+          },
+          {
+            "enExample": "He reminded his team to keep their eyes on the prize and not get distracted by minor setbacks.",
+            "ptExample": "Ele lembrou sua equipe de manter o foco e não se distrair com pequenos contratempos."
+          }
+        ],
+        "synonyms": ["stay focused", "remain determined", "stay on track"],
+        "antonyms": ["lose focus", "get distracted", "waver"],
+        "seeAlso": ["stay the course", "keep going", "persevere"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to encourage persistence and determination.",
+            "ptNote": "Este idiom é frequentemente usado para encorajar persistência e determinação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "kick off",
+        "phonetics": "kɪk ɔf",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to begin or start something, such as an event or activityt",
+        "ptDefinition": "começar ou iniciar algo, como um evento ou atividade",
+        "examples": [
+          {
+            "enExample": "The meeting will kick off at 9 AM sharp.",
+            "ptExample": "A reunião começará às 9h em ponto."
+          },
+          {
+            "enExample": "The football match will kick off at noon.",
+            "ptExample": "O jogo de futebol começará ao meio-dia."
+          }
+        ],
+        "synonyms": ["begin", "start", "initiate"],
+        "antonyms": ["end", "finish", "conclude"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "keep an open mind",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be willing to consider new ideas, perspectives, and opportunities without prejudice or bias",
+        "ptDefinition": "estar disposto a considerar novas ideias, perspectivas e oportunidades sem preconceitos ou vieses",
+        "examples": [
+          {
+            "enExample": "Successful leaders keep an open mind when receiving feedback from their team.",
+            "ptExample": "Líderes de sucesso mantêm a mente aberta ao receber feedback de sua equipe."
+          }
+        ],
+        "synonyms": ["be receptive", "stay flexible", "remain unbiased"],
+        "antonyms": ["be close-minded", "reject ideas", "be inflexible"],
+        "seeAlso": ["embrace change", "think outside the box", "be open to feedback"]
+      }
+    ]
+  },
+
+  {
+    "definitions": [
+      {
+        "word": "keep something under wraps",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to keep something secret; to not let anybody know about a new project or plan",
+        "ptDefinition": "manter algo em segredo; não deixar ninguém saber sobre um novo projeto ou plano",
+        "examples": [
+          {
+            "enExample": "I'm sorry I can't tell you anything about the project I'm working on. My boss told me to keep it under wraps.",
+            "ptExample": "Desculpe, não posso te contar nada sobre o projeto em que estou trabalhando. Meu chefe me pediu para manter isso em segredo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "kudos",
+        "phonetics": "/ˈkuːdoʊz/",
+        "partOfSpeech": "noun",
+        "enDefinition": "praise, recognition, or respect given for an achievement or good work",
+        "ptDefinition": "elogios, reconhecimento ou respeito dado por uma conquista ou bom trabalho",
+        "examples": [
+          {
+            "enExample": "Kudos to the team for delivering the project ahead of schedule.",
+            "ptExample": "Parabéns à equipe por entregar o projeto antes do prazo."
+          },
+          {
+            "enExample": "She received kudos from her colleagues for her innovative ideas.",
+            "ptExample": "Ela recebeu elogios dos colegas por suas ideias inovadoras."
+          }
+        ],
+        "synonyms": ["praise", "acclaim", "commendation"],
+        "antonyms": ["criticism", "disapproval", "reproach"],
+        "notes": [
+          {
+            "enNote": "Kudos is the Greek word for \"praise.\""
+          },
+          {
+            "ptNote": "Kudos é a palavra grega para \"elogio\""
+          }
+        ]
+      }
+    ]
+  }
+]

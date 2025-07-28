@@ -1,0 +1,481 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "rejuvenate",
+        "phonetics": "/rɪˈdʒuːvəˌneɪt/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to make someone or something look or feel younger, fresher, or more lively",
+        "ptDefinition": "fazer alguém ou algo parecer ou se sentir mais jovem, fresco ou mais animado; rejuvenescer",
+        "examples": [
+          {
+            "enExample": "A good night's sleep can rejuvenate the mind and body.",
+            "ptExample": "Uma boa noite de sono pode rejuvenescer a mente e o corpo."
+          },
+          {
+            "enExample": "The spa treatment rejuvenated her skin.",
+            "ptExample": "O tratamento de spa rejuvenesceu sua pele."
+          }
+        ],
+        "synonyms": ["revitalize", "refresh", "renew"],
+        "antonyms": ["age", "wither", "deteriorate"],
+        "seeAlso": ["revive", "restore", "invigorate"],
+        "notes": [
+          {
+            "enNote": "Rejuvenation can refer to both physical and mental renewal.",
+            "ptNote": "Rejuvenescimento pode se referir tanto à renovação física quanto mental."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "R&R",
+        "phonetics": "/ɑr ən ɑr/",
+        "partOfSpeech": "noun",
+        "enDefinition": "rest and relaxation; a period of time when one can rest and enjoy themselves",
+        "ptDefinition": "descanso e relaxamento; um período de tempo em que se pode descansar e se divertir",
+        "examples": [
+          {
+            "enExample": "After the long project, the team needed some R&R to recharge.",
+            "ptExample": "Após o longo projeto, a equipe precisava de um pouco de descanso e relaxamento para recarregar as energias."
+          },
+          {
+            "enExample": "They went to the beach for some R&R over the weekend.",
+            "ptExample": "Eles foram para a praia para um pouco de descanso e relaxamento no fim de semana."
+          }
+        ],
+        "synonyms": ["rest", "relaxation", "downtime"],
+        "antonyms": ["work", "stress", "strain"],
+        "seeAlso": ["vacation", "break", "time off"],
+        "notes": [
+          {
+            "enNote": "R&R is often used to describe a break from work or stressful activities to rejuvenate.",
+            "ptNote": "R&R é frequentemente usado para descrever uma pausa do trabalho ou atividades estressantes para rejuvenescer."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "reflective",
+        "phonetics": "/rɪˈflɛktɪv/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "providing a reflection; capable of reflecting light or other radiation",
+        "ptDefinition": "que reflete; capaz de refletir luz ou outra radiação",
+        "examples": [
+          {
+            "enExample": "The surface of the lake was calm and reflective, mirroring the sky above.",
+            "ptExample": "A superfície do lago estava calma e refletiva, espelhando o céu acima."
+          },
+          {
+            "enExample": "She wore a reflective vest to ensure she was visible to drivers at night.",
+            "ptExample": "Ela usava um colete refletivo para garantir que fosse visível aos motoristas à noite."
+          }
+        ],
+        "synonyms": ["mirroring", "shiny", "gleaming"],
+        "antonyms": ["dull", "matte", "non-reflective"],
+        "seeAlso": ["mirror-like", "glossy"],
+        "notes": [
+          {
+            "enNote": "Reflective materials are often used in safety equipment to enhance visibility.",
+            "ptNote": "Materiais refletivos são frequentemente usados em equipamentos de segurança para aumentar a visibilidade."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "read",
+        "phonetics": "/riːd/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to look at and comprehend the meaning of written or printed matter",
+        "ptDefinition": "olhar e compreender o significado de material escrito ou impresso; ler",
+        "examples": [
+          {
+            "enExample": "She loves to read mystery novels in her free time.",
+            "ptExample": "Ela adora ler romances de mistério em seu tempo livre."
+          },
+          {
+            "enExample": "He read the instructions carefully before assembling the furniture.",
+            "ptExample": "Ele leu as instruções cuidadosamente antes de montar os móveis."
+          }
+        ],
+        "synonyms": ["scan", "study", "peruse"],
+        "antonyms": ["ignore", "overlook"],
+        "seeAlso": ["comprehend", "interpret"],
+        "notes": [
+          {
+            "enNote": "Reading is a fundamental skill that is essential for learning and communication.",
+            "ptNote": "Ler é uma habilidade fundamental que é essencial para o aprendizado e a comunicação."
+          }
+        ]
+      },
+      {
+        "word": "relax",
+        "phonetics": "/rɪˈlæks/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to become less tense or anxious; to rest or take it easy",
+        "ptDefinition": "ficar menos tenso ou ansioso; descansar ou relaxar",
+        "examples": [
+          {
+            "enExample": "After a long day at work, she likes to relax with a good book.",
+            "ptExample": "Depois de um longo dia de trabalho, ela gosta de relaxar com um bom livro."
+          },
+          {
+            "enExample": "He took a deep breath to relax before giving his speech.",
+            "ptExample": "Ele respirou fundo para relaxar antes de fazer seu discurso."
+          }
+        ],
+        "synonyms": ["unwind", "rest", "take it easy", "calm down"],
+        "antonyms": ["stress", "tense", "worry", "strain"],
+        "seeAlso": ["unwind", "chill", "repose"],
+        "notes": [
+          {
+            "enNote": "Relaxing is important for mental and physical health, helping to reduce stress and improve overall well-being.",
+            "ptNote": "Relaxar é importante para a saúde mental e física, ajudando a reduzir o estresse e melhorar o bem-estar geral."
+          }
+        ]
+      },
+      {
+        "word": "relaxed",
+        "phonetics": "/rɪˈlækst/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "free from tension and anxiety; at ease",
+        "ptDefinition": "livre de tensão e ansiedade; à vontade",
+        "examples": [
+          {
+            "enExample": "She felt relaxed after the massage.",
+            "ptExample": "Ela se sentiu relaxada após a massagem."
+          },
+          {
+            "enExample": "He appeared relaxed and confident during the interview.",
+            "ptExample": "Ele parecia relaxado e confiante durante a entrevista."
+          }
+        ],
+        "synonyms": ["calm", "at ease", "untroubled"],
+        "antonyms": ["tense", "anxious", "stressed"],
+        "seeAlso": ["calm", "peaceful", "serene"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "rally the troops",
+        "partOfSpeech": "idiomatic expression",
+        "enDefinition": "to gather and motivate a group of people (often a team or organization) to work together toward a common goal, especially during difficult or challenging times",
+        "ptDefinition": "reunir e motivar um grupo de pessoas (geralmente uma equipe ou organização) para trabalhar juntas em direção a um objetivo comum, especialmente em tempos difíceis ou desafiadores",
+        "examples": [
+          {
+            "enExample": "The coach rallied the troops before the big game to inspire them to give their best.",
+            "ptExample": "O treinador reuniu a equipe antes do grande jogo para inspirá-los a dar o seu melhor."
+          },
+          {
+            "enExample": "The CEO rallied the troops during the crisis to keep the company's morale high.",
+            "ptExample": "O CEO reuniu a equipe durante a crise para manter a moral da empresa alta."
+          }
+        ],
+        "synonyms": [
+          "motivate the team",
+          "unite the group",
+          "inspire the crew",
+          "boost morale"
+        ],
+        "antonyms": [
+          "disband the team",
+          "demoralize the group",
+          "dishearten the crew"
+        ],
+        "seeAlso": ["team building", "leadership", "encouragement"],
+        "notes": [
+          {
+            "enNote": "'Rally the troops' is often used metaphorically and is associated with leadership, particularly in motivating teams or groups to overcome adversity and work toward a shared objective.",
+            "ptNote": "'Rally the troops' é frequentemente usado de forma metafórica e está associado à liderança, especialmente na motivação de equipes ou grupos para superar adversidades e trabalhar em direção a um objetivo comum."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "rest on one's laurels",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be complacent or stop putting in effort because of past achievements, rather than continuing to work hard or strive for further success",
+        "ptDefinition": "ficar complacente ou parar de se esforçar devido a conquistas passadas, em vez de continuar a trabalhar arduamente ou buscar mais sucesso",
+        "examples": [
+          {
+            "enExample": "After winning the award, he decided to rest on his laurels instead of working on new projects.",
+            "ptExample": "Depois de ganhar o prêmio, ele decidiu descansar sobre os seus louros em vez de trabalhar em novos projetos."
+          },
+          {
+            "enExample": "Don't rest on your laurels; there’s still much to achieve.",
+            "ptExample": "Não descanse sobre os seus louros; ainda há muito a ser conquistado."
+          }
+        ],
+        "synonyms": [
+          "become complacent",
+          "take it easy",
+          "stop trying",
+          "be content"
+        ],
+        "antonyms": ["keep striving", "continue working hard", "push forward"],
+        "seeAlso": ["complacency", "self-satisfaction", "laziness"],
+        "notes": [
+          {
+            "enNote": "This expression is derived from the ancient tradition of rewarding victory with a laurel wreath, but it has a negative connotation when used in modern context.",
+            "ptNote": "Esta expressão é derivada da antiga tradição de premiar a vitória com uma coroa de louros, mas tem uma conotação negativa quando usada no contexto moderno."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "roll up one's sleeves",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to prepare to work hard or to take on a task that requires effort",
+        "ptDefinition": "preparar-se para trabalhar duro ou assumir uma tarefa que exige esforço",
+        "examples": [
+          {
+            "enExample": "She rolled up her sleeves and got to work on the challenging project.",
+            "ptExample": "Ela arregaçou as mangas e começou a trabalhar no projeto desafiador."
+          },
+          {
+            "enExample": "It's time to roll up our sleeves and get this done before the deadline.",
+            "ptExample": "É hora de arregaçar as mangas e terminar isso antes do prazo."
+          }
+        ],
+        "synonyms": ["prepare to work", "get to work", "take action"],
+        "antonyms": ["procrastinate", "avoid work", "relax"],
+        "seeAlso": ["get one's hands dirty", "dive in"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to describe someone who is ready to work hard or take on a challenging task.",
+            "ptNote": "Essa expressão é frequentemente usada para descrever alguém que está pronto para trabalhar duro ou assumir uma tarefa desafiadora."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "record-breaking",
+        "phonetics": "/ˈrɛkɔːd ˌbreɪkɪŋ/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "surpassing previous achievements or setting a new standard",
+        "ptDefinition": "superando realizações anteriores ou estabelecendo um novo padrão",
+        "examples": [
+          {
+            "enExample": "The athlete achieved a record-breaking performance in the 100-meter dash.",
+            "ptExample": "O atleta alcançou um desempenho recorde nos 100 metros rasos."
+          },
+          {
+            "enExample": "The movie had a record-breaking opening weekend, earning millions at the box office.",
+            "ptExample": "O filme teve um fim de semana de estreia recorde, arrecadando milhões nas bilheterias."
+          }
+        ],
+        "synonyms": ["unprecedented", "groundbreaking", "historic"],
+        "antonyms": ["ordinary", "typical", "average"],
+        "notes": [
+          {
+            "enNote": "This term is often used in sports, entertainment, and other fields where exceptional achievements are celebrated."
+          },
+          {
+            "ptNote": "Este termo é frequentemente usado em esportes, entretenimento e outros campos onde conquistas excepcionais são celebradas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "real dog",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a phrase used to describe something or someone as particularly poor, unpleasant, or unattractive",
+        "ptDefinition": "uma expressão usada para descrever algo ou alguém como particularmente ruim, desagradável ou pouco atraente",
+        "examples": [
+          {
+            "enExample": "That movie was a real dog, I couldn’t sit through it.",
+            "ptExample": "Aquele filme foi um verdadeiro fracasso, eu não consegui assistir até o final."
+          }
+        ],
+        "synonyms": ["flop", "dud", "failure"],
+        "antonyms": ["hit", "success"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "reality check",
+        "partOfSpeech": "noun",
+        "enDefinition": "an occasion or event that forces someone to recognize the truth about a situation, often when their expectations are unrealistic",
+        "ptDefinition": "um momento ou evento que força alguém a reconhecer a realidade de uma situação, especialmente quando suas expectativas são irreais",
+        "examples": [
+          {
+            "enExample": "After seeing the sales numbers, the team had a reality check about the effectiveness of their campaign.",
+            "ptExample": "Depois de ver os números de vendas, a equipe caiu na real sobre a eficácia da campanha."
+          },
+          {
+            "enExample": "Failing the exam was a harsh reality check that she needed to study harder.",
+            "ptExample": "Reprovar no exame foi um choque de realidade que mostrou que ela precisava estudar mais."
+          }
+        ],
+        "synonyms": ["wake-up call", "dose of reality", "moment of truth"],
+        "antonyms": ["illusion", "fantasy", "unrealistic expectation"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used to describe moments of clarity or realization, especially when someone's perception is far from reality.",
+            "ptNote": "Esta expressão é frequentemente usada para descrever momentos de clareza ou percepção, especialmente quando a percepção de alguém está distante da realidade."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "run with an idea",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to take an idea and develop it further, often with enthusiasm and energy, or to proceed with it without hesitation",
+        "ptDefinition": "pegar uma ideia e desenvolvê-la, geralmente com entusiasmo e energia, ou seguir com ela sem hesitação",
+        "examples": [
+          {
+            "enExample": "Once the team heard the new proposal, they were eager to run with the idea and start working on it right away.",
+            "ptExample": "Assim que a equipe ouviu a nova proposta, ficaram animados para desenvolver a ideia e começar a trabalhar nela imediatamente."
+          },
+          {
+            "enExample": "She came up with a creative concept, and we decided to run with the idea for our next marketing campaign.",
+            "ptExample": "Ela teve uma ideia criativa, e decidimos desenvolvê-la para nossa próxima campanha de marketing."
+          }
+        ],
+        "synonyms": ["develop", "pursue", "follow through", "act on"],
+        "antonyms": ["abandon", "discard", "ignore", "dismiss"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "record-breaking",
+        "phonetics": "ˈrek.ɚd ˌbreɪkɪŋ",
+        "partOfSpeech": "adjective",
+        "enDefinition": "surpassing previous records or achievements",
+        "ptDefinition": "superando recordes ou conquistas anteriores",
+        "examples": [
+          {
+            "enExample": "The athlete achieved a record-breaking time in the marathon.",
+            "ptExample": "O atleta alcançou um tempo recorde na maratona."
+          },
+          {
+            "enExample": "The movie had a record-breaking opening weekend at the box office.",
+            "ptExample": "O filme teve um fim de semana de estreia recorde nas bilheterias."
+          },
+          {
+            "enExample": "The company posted record-breaking profits this quarter.",
+            "ptExample": "A empresa registrou lucros recordes neste trimestre."
+          }
+        ],
+        "synonyms": ["unprecedented", "historic", "unmatched"],
+        "antonyms": ["average", "typical", "unremarkable"],
+        "seeAlso": ["milestone", "groundbreaking"],
+        "notes": [
+          {
+            "enNote": "This term is often used to highlight extraordinary achievements in various fields.",
+            "ptNote": "Este termo é frequentemente usado para destacar conquistas extraordinárias em diversos campos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "redundancy",
+        "phonetics": "/rɪˈdʌn.dən.si/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a situation in which someone loses their job because their employer does not need them",
+        "ptDefinition": "dispensa, corte de pessoal",
+        "examples": [
+          {
+            "enExample": "The economic downturn has meant 10,000 redundancies in the Northeast.",
+            "ptExample": "A crise econômica significou 10.000 desempregados no Nordeste."
+          },
+          {
+            "enExample": "She took voluntary redundancy.",
+            "ptExample": "Ela optou pela dispensa voluntária."
+          }
+        ],
+        "synonyms": ["repetition"],
+        "antonyms": ["lack", "need", "want"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "rip off",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to copy an idea; to steal",
+        "ptDefinition": "copiar / roubar uma ideia",
+        "examples": [
+          {
+            "enExample": "Why doesn't the Donox Company ever think up any original ideas? All they ever do is rip off their competitors!",
+            "ptExample": "Por que a Donox Company nunca tem ideias originais? Tudo o que eles fazem é copiar seus concorrentes!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "run in place",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to perform an activity or task without making progress or achieving any meaningful results",
+        "ptDefinition": "realizar uma atividade ou tarefa sem fazer progressos ou alcançar resultados significativos",
+        "examples": [
+          {
+            "enExample": "The team has been running in place for months, unable to make any real improvements.",
+            "ptExample": "A equipe tem ficado estagnada por meses, sem conseguir fazer melhorias reais."
+          },
+          {
+            "enExample": "Despite their efforts, the company seems to be running in place, with no major growth in sales.",
+            "ptExample": "Apesar dos esforços, a empresa parece estar estagnada, sem crescimento significativo nas vendas."
+          }
+        ],
+        "synonyms": ["stagnate", "make no progress", "go in circles"],
+        "antonyms": ["advance", "move forward", "progress"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "run the numbers",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to perform calculations or analyze numerical data, usually to evaluate a situation or make a decision",
+        "ptDefinition": "realizar cálculos ou analisar dados numéricos, geralmente para avaliar uma situação ou tomar uma decisão",
+        "examples": [
+          {
+            "enExample": "Before we finalize the project, let's run the numbers to ensure it's financially viable.",
+            "ptExample": "Antes de finalizarmos o projeto, vamos verificar os números para garantir que ele seja financeiramente viável."
+          }
+        ],
+        "synonyms": ["crunch the numbers", "analyze the data", "calculate"],
+        "antonyms": ["ignore the numbers", "skip the analysis"]
+      }
+    ]
+  }
+]

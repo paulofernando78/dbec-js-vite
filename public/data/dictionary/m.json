@@ -1,0 +1,423 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "make a mountain out of a molehill",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to exaggerate a minor problem or issue and make it seem more important than it really is",
+        "ptDefinition": "exagerar um problema ou questão menor e torná-lo mais importante do que realmente é",
+        "examples": [
+          {
+            "enExample": "She made a mountain out of a molehill when she complained about the tiny scratch on her car.",
+            "ptExample": "Ela fez uma tempestade em copo d'água quando reclamou do pequeno arranhão no carro."
+          },
+          {
+            "enExample": "Don't make a mountain out of a molehill; it's just a small mistake.",
+            "ptExample": "Não faça uma tempestade em copo d'água; é apenas um pequeno erro."
+          }
+        ],
+        "synonyms": ["exaggerate", "overreact", "blow out of proportion"],
+        "antonyms": ["downplay", "minimize", "understate"],
+        "seeAlso": ["overreact", "make a big deal"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to advise someone to keep things in perspective and not overreact to minor issues.",
+            "ptNote": "Este idiom é frequentemente usado para aconselhar alguém a manter as coisas em perspectiva e não reagir exageradamente a questões menores."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "move on",
+        "phonetics": "/muːv ɑːn/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to leave a place, situation, or relationship and start something new",
+        "ptDefinition": "deixar um lugar, situação ou relacionamento e começar algo novo",
+        "examples": [
+          {
+            "enExample": "After the breakup, she decided to move on and focus on her career.",
+            "ptExample": "Após o término, ela decidiu seguir em frente e focar em sua carreira."
+          },
+          {
+            "enExample": "It's time to move on from this job and find something more fulfilling.",
+            "ptExample": "É hora de seguir em frente deste trabalho e encontrar algo mais gratificante."
+          }
+        ],
+        "synonyms": ["progress", "advance", "proceed"],
+        "antonyms": ["stay", "remain", "linger"],
+        "seeAlso": ["move forward", "let go"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used to encourage someone to stop dwelling on the past and look towards the future.",
+            "ptNote": "Esta frase é frequentemente usada para encorajar alguém a parar de se prender ao passado e olhar para o futuro."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "messy",
+        "phonetics": "/ˈmɛsi/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "untidy or dirty",
+        "ptDefinition": "bagunçado",
+        "examples": [
+          {
+            "enExample": "Her room is always messy.",
+            "ptExample": "O quarto dela está sempre bagunçado."
+          },
+          {
+            "enExample": "The kitchen was messy after cooking dinner.",
+            "ptExample": "A cozinha estava bagunçada depois de cozinhar o jantar."
+          }
+        ],
+        "synonyms": ["untidy", "disorganized", "cluttered"],
+        "antonyms": ["tidy", "organized", "neat"],
+        "seeAlso": ["disorderly", "chaotic"],
+        "notes": [
+          {
+            "enNote": "The word 'messy' is often used to describe a place or situation that is not neat or orderly.",
+            "ptNote": "A palavra 'messy' é frequentemente usada para descrever um lugar ou situação que não está arrumado ou organizado."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "mess",
+        "phonetics": "/mɛs/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a situation or state of affairs that is confused or full of difficulties",
+        "ptDefinition": "uma situação ou estado de coisas que está confuso ou cheio de dificuldades",
+        "examples": [
+          {
+            "enExample": "The room was a complete mess after the party.",
+            "ptExample": "O quarto estava uma completa bagunça após a festa."
+          },
+          {
+            "enExample": "He made a mess of the project by not following the instructions.",
+            "ptExample": "Ele fez uma bagunça no projeto por não seguir as instruções."
+          }
+        ],
+        "synonyms": ["disorder", "chaos", "clutter"],
+        "antonyms": ["order", "tidiness", "organization"],
+        "seeAlso": ["disarray", "jumble"],
+        "notes": [
+          {
+            "enNote": "The word 'mess' can also be used as a verb meaning to make something untidy or disorganized.",
+            "ptNote": "A palavra 'mess' também pode ser usada como um verbo que significa fazer algo ficar desarrumado ou desorganizado."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "mad",
+        "phonetics": "/mæd/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "very angry or annoyed",
+        "ptDefinition": "muito zangado ou irritado",
+        "examples": [
+          {
+            "enExample": "She was mad at him for being late.",
+            "ptExample": "Ela estava zangada com ele por estar atrasado."
+          },
+          {
+            "enExample": "He gets mad when people don't listen to him.",
+            "ptExample": "Ele fica zangado quando as pessoas não o escutam."
+          }
+        ],
+        "synonyms": ["angry", "furious", "irate"],
+        "antonyms": ["calm", "happy", "pleased"],
+        "notes": [
+          {
+            "enNote": "In British English, 'mad' can also mean 'mentally ill' or 'insane'.",
+            "ptNote": "No inglês britânico, 'mad' também pode significar 'mentalmente doente' ou 'insano'."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "make it up to you",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to do something to show that you are sorry for something wrong you have done and to make amends",
+        "ptDefinition": "fazer algo para mostrar que você está arrependido por algo errado que fez e fazer as pazes",
+        "examples": [
+          {
+            "enExample": "I missed your birthday, but I’ll make it up to you by taking you out for dinner.",
+            "ptExample": "Eu perdi seu aniversário, mas vou compensar levando você para jantar."
+          },
+          {
+            "enExample": "She promised to make it up to him after forgetting their anniversary.",
+            "ptExample": "Ela prometeu compensá-lo depois de esquecer o aniversário deles."
+          }
+        ],
+        "synonyms": ["apologize", "atone", "compensate"],
+        "antonyms": ["ignore", "neglect", "disregard"],
+        "notes": [
+          {
+            "enNote": "This phrase is typically used when trying to repair a relationship or situation caused by a mistake or oversight.",
+            "ptNote": "Essa frase é geralmente usada quando se tenta reparar um relacionamento ou situação causada por um erro ou descuido."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "mess around",
+        "phonetics": "mɛs əˈraʊnd",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to waste time, engage in playful or unproductive behavior, or handle something carelessly",
+        "ptDefinition": "perder tempo, envolver-se em comportamentos brincalhões ou improdutivos, ou lidar com algo de forma descuidada",
+        "examples": [
+          {
+            "enExample": "Stop messing around and finish your work.",
+            "ptExample": "Pare de perder tempo e termine seu trabalho."
+          },
+          {
+            "enExample": "He was just messing around with his friends when he should have been studying.",
+            "ptExample": "Ele estava apenas brincando com os amigos quando deveria estar estudando."
+          }
+        ],
+        "synonyms": ["fool around", "play around", "waste time"],
+        "antonyms": ["focus", "get serious", "concentrate"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used in informal settings and can imply a lack of seriousness or a focus on leisure rather than work.",
+            "ptNote": "Esta frase é frequentemente usada em contextos informais e pode implicar a falta de seriedade ou foco no lazer em vez do trabalho."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "mince words",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to speak in a way that is indirect or avoids being straightforward, often to avoid offending someone",
+        "ptDefinition": "falar de uma maneira indireta ou evitar ser direto, muitas vezes para não ofender alguém",
+        "examples": [
+          {
+            "enExample": "Stop mincing your words and say what you really mean.",
+            "ptExample": "Pare de ser indireto e diga o que você realmente quer dizer."
+          },
+          {
+            "enExample": "He minced his words when discussing the sensitive topic.",
+            "ptExample": "Ele foi indireto ao falar sobre o tópico sensível."
+          }
+        ],
+        "synonyms": ["sugarcoat", "beat around the bush"],
+        "antonyms": ["speak plainly", "speak directly"],
+        "notes": [
+          {
+            "enNote": "This idiom often implies a lack of transparency or honesty in speech.",
+            "ptNote": "Este idiom geralmente implica falta de transparência ou honestidade na fala."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "my gut tells me",
+        "phonetics": "/maɪ ɡʌt tɛlz mi/",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a feeling or intuition that something is true or likely to happen, based on instinct rather than reason or evidence",
+        "ptDefinition": "um sentimento ou intuição de que algo é verdade ou provável de acontecer, baseado no instinto em vez da razão ou evidências",
+        "examples": [
+          {
+            "enExample": "My gut tells me that we should move forward with this project, even if there are risks.",
+            "ptExample": "Meu instinto me diz que devemos seguir com este projeto, mesmo com os riscos."
+          },
+          {
+            "enExample": "I can’t explain it, but my gut tells me that he’s not being honest.",
+            "ptExample": "Não consigo explicar, mas meu instinto me diz que ele não está sendo honesto."
+          }
+        ],
+        "synonyms": ["instinct says", "feeling tells me", "intuition"],
+        "antonyms": ["reasoned judgment", "logical decision", "evidence-based conclusion"],
+        "notes": [
+          {
+            "enNote": "This idiom is used to describe a strong, instinctive feeling about something, without relying on hard facts or logic.",
+            "ptNote": "Este idiom é usado para descrever um forte sentimento instintivo sobre algo, sem depender de fatos concretos ou lógica."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "me-too products",
+        "phonetics": "/miː tuː ˈprɒdʌkts/",
+        "partOfSpeech": "noun",
+        "enDefinition": "products that copy or closely resemble successful ones already on the market, typically made by competitors",
+        "ptDefinition": "produtos que imitam ou se assemelham muito a outros já populares no mercado, geralmente feitos por concorrentes",
+        "examples": [
+          {
+            "enExample": "The company introduced a me-too product to take on the top-selling brand in the market.",
+            "ptExample": "A empresa lançou um produto semelhante para competir com a marca mais vendida do mercado."
+          }
+        ],
+        "synonyms": ["copycat products", "knock-offs", "imitations"],
+        "antonyms": ["innovative products", "original products"],
+        "notes": [
+          {
+            "enNote": "This term often implies a lack of originality or creativity."
+          },
+          {
+            "ptNote": "Este termo frequentemente implica falta de originalidade ou criatividade."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "make a killing",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to make a lot of money",
+        "ptDefinition": "ganhar muito dinheiro",
+        "examples": [
+          {
+            "enExample": "Suzanne made a killing on her Google stock and retired at 40.",
+            "ptExample": "Suzanne ganhou uma fortuna com suas ações do Google e se aposentou aos 40 anos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "market share",
+        "phonetics": "/ˈmɑrkɪt ʃɛr/",
+        "partOfSpeech": "noun",
+        "enDefinition": "the percentage of total sales or customers that a company or product captures within a specific market",
+        "ptDefinition": "a porcentagem das vendas totais ou clientes que uma empresa ou produto conquista dentro de um mercado específico",
+        "examples": [
+          {
+            "enExample": "The company increased its market share by launching a new product line.",
+            "ptExample": "A empresa aumentou sua participação no mercado ao lançar uma nova linha de produtos."
+          },
+          {
+            "enExample": "They are focusing on customer retention to maintain their market share in the industry.",
+            "ptExample": "Eles estão focados na retenção de clientes para manter sua participação no mercado na indústria."
+          }
+        ],
+        "synonyms": ["market portion", "market percentage", "customer base"],
+        "antonyms": ["market loss", "reduced influence", "decreased share"],
+        "notes": [
+          {
+            "enNote": "Market share is often used as a key performance indicator in business strategies."
+          },
+          {
+            "ptNote": "A \"participação de mercado\" é frequentemente usada como um indicador chave de desempenho em estratégias de negócios."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "menopause",
+        "phonetics": "/ˈmen.ə.pɑːz/ (US)",
+        "partOfSpeech": "noun",
+        "enDefinition": "the time in a woman's life, typically around the age of 45–55, when menstruation permanently ceases",
+        "ptDefinition": "o período na vida de uma mulher, geralmente entre 45 e 55 anos, em que a menstruação cessa permanentemente",
+        "examples": [
+          {
+            "enExample": "Many women experience hot flashes during menopause.",
+            "ptExample": "Muitas mulheres experimentam ondas de calor durante a menopausa."
+          }
+        ],
+        "synonyms": ["climacteric", "change of life"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "miscarriage",
+        "phonetics": "/ˈmɪsˌker.ɪdʒ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "an early, unintentional end to a pregnancy when the foetus is born too early and dies because it has not developed enough",
+        "ptDefinition": "aborto espontâneo",
+        "examples": [
+          {
+            "enExample": "The amniocentesis test carries a significant risk of miscarriage.",
+            "ptExample": "O teste de amniocentese carrega um risco significativo de aborto espontâneo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "moderate",
+        "phonetics": "/ˈmɑː.dɚ.ət/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "average in amount, intensity, or degree; not extreme",
+        "ptDefinition": "médio em quantidade, intensidade ou grau; não extremo",
+        "examples": [
+          {
+            "enExample": "She exercises at a moderate intensity for better health.",
+            "ptExample": "Ela se exercita com intensidade moderada para melhorar a saúde."
+          }
+        ],
+        "synonyms": ["average", "medium", "mild"],
+        "antonyms": ["extreme", "intense"]
+      },
+      {
+        "word": "moderate",
+        "phonetics": "/ˈmɑː.dɚ.reɪt/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to make or become less extreme, intense, or severe",
+        "ptDefinition": "fazer ou tornar algo menos extremo, intenso ou severo",
+        "examples": [
+          {
+            "enExample": "The teacher moderated the discussion to keep it on topic.",
+            "ptExample": "O professor moderou a discussão para mantê-la no tema."
+          }
+        ],
+        "synonyms": ["temper", "control", "adjust"],
+        "antonyms": ["intensify", "escalate"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "mum's the word",
+        "partOfSpeech": "idiom",
+        "enDefinition": "let's keep quiet about this; I agree not to tell anyone about this",
+        "ptDefinition": "vamos manter isso em silêncio; concordo em não contar a ninguém sobre isso",
+        "examples": [
+          {
+            "enExample": "Please don't tell anybody about our new project. Remember: mum's the word!",
+            "ptExample": "Por favor, não conte a ninguém sobre o nosso novo projeto. Lembre-se: boca fechada!"
+          }
+        ]
+      }
+    ]
+  }
+]

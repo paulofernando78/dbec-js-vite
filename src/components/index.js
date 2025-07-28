@@ -22,10 +22,11 @@ import Layout from "./organisms/Layout"
 import NavBar from "./organisms/NavBar"
 import FourOhFour from "./organisms/404";
 import UnderConstruction from "./organisms/UnderConstruction";
-import Dictionary from "./organisms/Dictionary";
+import Dictionary from "./organisms/DictionarySearch";
 
 //Templates
 import Contents from "./templates/Contents";
+import DictionaryContent from "./templates/DictionaryContent";
 
 // Pages
 import Dashboard from "./organisms/dashboard";
@@ -60,6 +61,7 @@ customElements.define("wc-dictionary", Dictionary)
 
 // Templates
 customElements.define("wc-contents", Contents)
+customElements.define("wc-dictionary-content", DictionaryContent)
 
 // Pages
 customElements.define("wc-dashboard", Dashboard);

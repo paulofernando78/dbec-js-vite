@@ -1,0 +1,25 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "vigorous",
+        "phonetics": "/ˈvɪɡ.ɚ.əs/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "strong, healthy, and full of energy; involving great effort or force",
+        "ptDefinition": "forte, saudável e cheio de energia; envolvendo grande esforço ou força",
+        "examples": [
+          {
+            "enExample": "She performed vigorous exercises to improve her fitness.",
+            "ptExample": "Ela realizou exercícios vigorosos para melhorar sua forma física."
+          },
+          {
+            "enExample": "The debate was marked by vigorous arguments from both sides.",
+            "ptExample": "O debate foi marcado por argumentos vigorosos de ambos os lados."
+          }
+        ],
+        "synonyms": ["energetic", "forceful", "robust"],
+        "antonyms": ["weak", "sluggish", "feeble"]
+      }
+    ]
+  }
+]

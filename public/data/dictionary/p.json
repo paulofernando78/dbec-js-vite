@@ -1,0 +1,939 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "point fingers at",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to blame or accuse someone of something",
+        "ptDefinition": "culpar ou acusar alguém de algo",
+        "examples": [
+          {
+            "enExample": "It's easy to point fingers at others when things go wrong.",
+            "ptExample": "É fácil culpar os outros quando as coisas dão errado."
+          },
+          {
+            "enExample": "Instead of finding a solution, they just pointed fingers at each other.",
+            "ptExample": "Em vez de encontrar uma solução, eles apenas culparam uns aos outros."
+          }
+        ],
+        "synonyms": ["blame", "accuse", "fault"],
+        "antonyms": ["praise", "commend", "applaud"],
+        "seeAlso": ["blame game", "scapegoat"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used in situations where people are trying to avoid responsibility by blaming others.",
+            "ptNote": "Este idiom é frequentemente usado em situações onde as pessoas tentam evitar a responsabilidade culpando os outros."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "pass the buck",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to shift responsibility or blame to someone else",
+        "ptDefinition": "passar a responsabilidade ou culpa para outra pessoa",
+        "examples": [
+          {
+            "enExample": "He always tries to pass the buck when something goes wrong.",
+            "ptExample": "Ele sempre tenta passar a responsabilidade quando algo dá errado."
+          },
+          {
+            "enExample": "Instead of solving the problem, she passed the buck to her colleague.",
+            "ptExample": "Em vez de resolver o problema, ela passou a responsabilidade para sua colega."
+          }
+        ],
+        "synonyms": ["shift blame", "evade responsibility", "delegate"],
+        "antonyms": ["take responsibility", "own up", "accept blame"],
+        "seeAlso": ["blame game", "finger-pointing"],
+        "notes": [
+          {
+            "enNote": "This idiom originated from poker, where a marker called a 'buck' was used to indicate the person whose turn it was to deal. Passing the buck meant passing the responsibility of dealing to the next player.",
+            "ptNote": "Este idiom originou-se do pôquer, onde um marcador chamado 'buck' era usado para indicar a pessoa cuja vez era de distribuir as cartas. Passar o 'buck' significava passar a responsabilidade de distribuir para o próximo jogador."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "pitch in",
+        "phonetics": "/pɪtʃ ɪn/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to contribute or help with something, especially by offering money or effort",
+        "ptDefinition": "contribuir ou ajudar com algo, especialmente oferecendo dinheiro ou esforço",
+        "examples": [
+          {
+            "enExample": "Everyone in the community pitched in to help rebuild the playground.",
+            "ptExample": "Todos na comunidade contribuíram para ajudar a reconstruir o parquinho."
+          },
+          {
+            "enExample": "If we all pitch in, we can finish the project by the end of the day.",
+            "ptExample": "Se todos nós ajudarmos, podemos terminar o projeto até o final do dia."
+          }
+        ],
+        "synonyms": ["contribute", "help", "assist"],
+        "antonyms": ["neglect", "ignore", "withhold"],
+        "seeAlso": ["chip in", "lend a hand"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used in the context of group efforts or community activities.",
+            "ptNote": "Esta frase é frequentemente usada no contexto de esforços em grupo ou atividades comunitárias."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "pull something off",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to succeed in doing something difficult or unexpected",
+        "ptDefinition": "conseguir fazer algo difícil ou inesperado",
+        "examples": [
+          {
+            "enExample": "No one thought he could win the race, but he pulled it off.",
+            "ptExample": "Ninguém achou que ele poderia vencer a corrida, mas ele conseguiu."
+          },
+          {
+            "enExample": "She pulled off a brilliant performance despite the challenges.",
+            "ptExample": "Ela conseguiu uma performance brilhante apesar dos desafios."
+          }
+        ],
+        "synonyms": ["succeed", "accomplish", "achieve"],
+        "antonyms": ["fail", "flop", "fall short"],
+        "seeAlso": ["carry out", "bring off"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used to describe achieving something that seemed unlikely or required significant effort.",
+            "ptNote": "Esta frase é frequentemente usada para descrever a realização de algo que parecia improvável ou exigia um esforço significativo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "push the envelope",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to go beyond the usual or expected limits, especially in a creative or innovative way",
+        "ptDefinition": "ir além dos limites usuais ou esperados, especialmente de maneira criativa ou inovadora",
+        "examples": [
+          {
+            "enExample": "The company is known for pushing the envelope in terms of technology and design.",
+            "ptExample": "A empresa é conhecida por ir além dos limites em termos de tecnologia e design."
+          },
+          {
+            "enExample": "The director pushed the envelope with his latest film, exploring new and controversial themes.",
+            "ptExample": "O diretor foi além dos limites com seu último filme, explorando temas novos e controversos."
+          }
+        ],
+        "synonyms": ["innovate", "break new ground", "go beyond"],
+        "antonyms": ["conform", "stick to the norm", "play it safe"],
+        "seeAlso": ["think outside the box", "break the mold"],
+        "notes": [
+          {
+            "enNote": "This idiom originated from the field of aviation, where 'envelope' refers to the performance limits of an aircraft.",
+            "ptNote": "Este idiom originou-se no campo da aviação, onde 'envelope' se refere aos limites de desempenho de uma aeronave."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "put in one's two cents",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to offer one's opinion or thoughts on a matter, often unsolicited or unwelcome",
+        "ptDefinition": "dar a sua opinião sobre um assunto, muitas vezes sem ser solicitado ou bem-vindo",
+        "examples": [
+          {
+            "enExample": "I know you didn't ask for my advice, but I just had to put in my two cents.",
+            "ptExample": "Eu sei que você não pediu meu conselho, mas eu tive que dar minha opinião."
+          },
+          {
+            "enExample": "She always puts in her two cents, even when no one asks for it.",
+            "ptExample": "Ela sempre dá sua opinião, mesmo quando ninguém pede."
+          }
+        ],
+        "synonyms": ["offer an opinion", "weigh in", "chime in"],
+        "antonyms": ["stay silent", "keep quiet"],
+        "seeAlso": ["give one's opinion", "speak up"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to preface a statement that may be seen as unnecessary or unsolicited.",
+            "ptNote": "Este idiom é frequentemente usado para introduzir uma declaração que pode ser vista como desnecessária ou não solicitada."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "playful",
+        "phonetics": "/ˈpleɪ.fəl/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "full of fun and high spirits; lively and playful",
+        "ptDefinition": "cheio de diversão e alto astral; animado e brincalhão",
+        "examples": [
+          {
+            "enExample": "The puppy was very playful, chasing its tail around the yard.",
+            "ptExample": "O filhote era muito brincalhão, correndo atrás do próprio rabo no quintal."
+          },
+          {
+            "enExample": "She gave him a playful wink.",
+            "ptExample": "Ela lhe deu uma piscadela brincalhona."
+          }
+        ],
+        "synonyms": ["fun-loving", "frisky", "lively"],
+        "antonyms": ["serious", "solemn", "grave"],
+        "seeAlso": ["mischievous", "jovial"],
+        "notes": [
+          {
+            "enNote": "The word 'playful' often describes behavior that is light-hearted and intended to amuse.",
+            "ptNote": "A palavra 'brincalhão' frequentemente descreve um comportamento leve e destinado a divertir."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "play",
+        "phonetics": "/pleɪ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a dramatic work for the stage or to be broadcast",
+        "ptDefinition": "uma obra dramática para o palco ou para ser transmitida",
+        "examples": [
+          {
+            "enExample": "We went to see a play at the theater last night.",
+            "ptExample": "Fomos ver uma peça no teatro ontem à noite."
+          },
+          {
+            "enExample": "The play was well-received by the audience.",
+            "ptExample": "A peça foi bem recebida pelo público."
+          }
+        ],
+        "synonyms": ["drama", "performance", "production"],
+        "antonyms": ["reality", "truth"],
+        "seeAlso": ["theater", "stage", "script"],
+        "notes": [
+          {
+            "enNote": "The term 'play' can also refer to a recreational activity, but in this context, it refers to a theatrical production.",
+            "ptNote": "O termo 'play' também pode se referir a uma atividade recreativa, mas neste contexto, refere-se a uma produção teatral."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "play",
+        "phonetics": "/pleɪ/",
+        "partOfSpeech": "verb",
+        "enDefinition": "engage in activity for enjoyment and recreation rather than a serious or practical purpose",
+        "ptDefinition": "participar de uma atividade para diversão e recreação em vez de um propósito sério ou prático; jogar",
+        "examples": [
+          {
+            "enExample": "The children love to play in the park.",
+            "ptExample": "As crianças adoram brincar no parque."
+          },
+          {
+            "enExample": "He plays the guitar beautifully.",
+            "ptExample": "Ele toca guitarra lindamente."
+          }
+        ],
+        "synonyms": ["engage", "participate", "perform"],
+        "antonyms": ["work", "labor", "toil"],
+        "seeAlso": ["game", "recreation", "sport"],
+        "notes": [
+          {
+            "enNote": "The word 'play' can also refer to performing a role in a theatrical production.",
+            "ptNote": "A palavra 'play' também pode se referir a desempenhar um papel em uma produção teatral."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "peaceful",
+        "phonetics": "/ˈpiːs.fəl/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "free from disturbance; tranquil",
+        "ptDefinition": "livre de perturbação; tranquilo",
+        "examples": [
+          {
+            "enExample": "The park is a peaceful place to relax.",
+            "ptExample": "O parque é um lugar tranquilo para relaxar."
+          },
+          {
+            "enExample": "She felt peaceful after meditating.",
+            "ptExample": "Ela se sentiu tranquila após meditar."
+          }
+        ],
+        "synonyms": ["calm", "serene", "tranquil"],
+        "antonyms": ["chaotic", "noisy", "disturbed"],
+        "seeAlso": ["quiet", "restful"],
+        "notes": [
+          {
+            "enNote": "The word 'peaceful' is often used to describe environments or situations that promote a sense of calm and relaxation.",
+            "ptNote": "A palavra 'tranquilo' é frequentemente usada para descrever ambientes ou situações que promovem uma sensação de calma e relaxamento."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "pet peeve",
+        "phonetics": "/pɛt piːv/",
+        "partOfSpeech": "noun",
+        "enDefinition": "something that a particular person finds especially annoying",
+        "ptDefinition": "algo que uma pessoa em particular acha especialmente irritante",
+        "examples": [
+          {
+            "enExample": "One of my biggest pet peeves is people chewing loudly.",
+            "ptExample": "Uma das coisas que mais me irrita é pessoas mastigando alto."
+          },
+          {
+            "enExample": "Her pet peeve is when people leave dirty dishes in the sink.",
+            "ptExample": "O que mais a irrita é quando as pessoas deixam louça suja na pia."
+          }
+        ],
+        "synonyms": ["annoyance", "irritation", "bother"],
+        "antonyms": ["pleasure", "delight", "satisfaction"],
+        "seeAlso": ["grievance", "complaint"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "private-label products",
+        "partOfSpeech": "noun phrase",
+        "enDefinition": "products that are manufactured by one company but sold under another company's brand name. Typically, the retailer or brand owner controls the branding, packaging, and marketing of the product",
+        "ptDefinition": "produtos fabricados por uma empresa, mas vendidos sob o nome de marca de outra empresa. Normalmente, o varejista ou proprietário da marca controla a marca, embalagem e marketing do produto",
+        "examples": [
+          {
+            "enExample": "Many supermarkets offer a range of private-label products, often at a lower price than national brands.",
+            "ptExample": "Muitos supermercados oferecem uma variedade de produtos de marca própria, geralmente a um preço mais baixo do que as marcas nacionais."
+          },
+          {
+            "enExample": "Private-label products have become increasingly popular as consumers look for cheaper alternatives to name-brand goods.",
+            "ptExample": "Os produtos de marca própria se tornaram cada vez mais populares à medida que os consumidores procuram alternativas mais baratas aos produtos de marcas famosas."
+          }
+        ],
+        "synonyms": [
+          "store brand",
+          "house brand",
+          "generic brand",
+          "own-brand product"
+        ],
+        "antonyms": ["national brand", "name-brand product"],
+        "seeAlso": ["brand equity", "white-label products"],
+        "notes": [
+          {
+            "enNote": "Private-label products are often sold at a lower price point compared to national brands, while still offering similar quality.",
+            "ptNote": "Os produtos de marca própria costumam ser vendidos a um preço mais baixo em comparação com as marcas nacionais, mas oferecendo qualidade semelhante."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "put one's mind to something",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to focus one's attention and effort on a task or goal",
+        "ptDefinition": "concentrar a atenção e esforço em uma tarefa ou objetivo",
+        "examples": [
+          {
+            "enExample": "If you put your mind to it, you can finish the project by tomorrow.",
+            "ptExample": "Se você se concentrar, pode terminar o projeto até amanhã."
+          },
+          {
+            "enExample": "She put her mind to solving the problem and found a solution quickly.",
+            "ptExample": "Ela se concentrou em resolver o problema e encontrou uma solução rapidamente."
+          }
+        ],
+        "synonyms": ["focus", "concentrate", "commit to"],
+        "antonyms": ["distract", "neglect", "ignore"],
+        "seeAlso": ["set one's mind to", "give one's all"],
+        "notes": [
+          {
+            "enNote": "This phrase emphasizes the power of determination and mental focus when tackling challenges.",
+            "ptNote": "Essa frase enfatiza o poder da determinação e foco mental ao enfrentar desafios."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "pull the wool over one's eyes",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to deceive or trick someone into believing something that is not true",
+        "ptDefinition": "enganar ou iludir alguém, fazendo com que acredite em algo que não é verdade",
+        "examples": [
+          {
+            "enExample": "he tried to pull the wool over my eyes, but I saw through his plan",
+            "ptExample": "Ele tentou me enganar, mas eu percebi o plano dele."
+          },
+          {
+            "enExample": "The salesman pulled the wool over her eyes, convincing her to buy the expensive item.",
+            "ptExample": "O vendedor a enganou, convencendo-a a comprar o item caro."
+          }
+        ],
+        "synonyms": ["deceive", "trick", "mislead"],
+        "antonyms": ["be honest", "tell the truth", "be straightforward"],
+        "notes": [
+          {
+            "enNote": "In the 17th and 18th centuries, men sometimes wore wigs. The \"wool\" refers to the wig (made of wool). Pulling th wool over th eyes made it impossible to see.",
+            "ptNote": "No século XVII e XVIII, os homens às vezes usavam perucas. A palavra \"wool\" se refere à peruca (feita de lã). Puxar a lã sobre os olhos tornava impossível ver.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "pull out all the stops",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to do everything possible to achieve something, often by using all available resources or effort",
+        "ptDefinition": "fazer tudo o que é possível para alcançar algo, muitas vezes usando todos os recursos ou esforço disponíveis",
+        "examples": [
+          {
+            "enExample": "The team pulled out all the stops to win the championship.",
+            "ptExample": "A equipe fez de tudo para ganhar o campeonato."
+          },
+          {
+            "enExample": "They pulled out all the stops for their wedding to make it unforgettable.",
+            "ptExample": "Eles fizeram tudo para que o casamento fosse inesquecível."
+          }
+        ],
+        "synonyms": [
+          "go all out",
+          "spare no expense",
+          "give it all you've got"
+        ],
+        "antonyms": ["hold back", "take it easy", "not try"],
+        "notes": [
+          {
+            "enNote": "This expression comes from the world of music. To increase the volume of a pipe organ, organists \"pull out stops\" (levers that control the volume.)",
+            "ptNote": "Esta expressão vem do mundo da música. Para aumentar o volume de um órgão de tubos, os organistas “puxam os registros” (alavancas que controlam o volume)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "pretty penny",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a large amount of money, often more than expected or considered reasonable",
+        "ptDefinition": "uma grande quantia de dinheiro, muitas vezes mais do que o esperado ou considerado razoável",
+        "examples": [
+          {
+            "enExample": "The car cost me a pretty penny, but it was worth it.",
+            "ptExample": "O carro me custou uma boa quantia, mas valeu a pena."
+          },
+          {
+            "enExample": "The wedding expenses ran into a pretty penny.",
+            "ptExample": "Os gastos com o casamento foram altos."
+          }
+        ],
+        "synonyms": ["a lot of money", "fortune", "small fortune"],
+        "antonyms": ["bargain", "cheap", "inexpensive"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to describe something expensive or requiring a significant financial investment.",
+            "ptNote": "Este idiom é frequentemente usado para descrever algo caro ou que exige um investimento financeiro significativo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "put a stake in the ground",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to establish a clear position, commitment, or boundary on something, often as a point of reference or to take a stand",
+        "ptDefinition": "estabelecer uma posição clara, compromisso ou limite sobre algo, muitas vezes como um ponto de referência ou para tomar uma posição",
+        "examples": [
+          {
+            "enExample": "The company decided to put a stake in the ground by announcing its commitment to sustainability.",
+            "ptExample": "A empresa decidiu estabelecer sua posição anunciando seu compromisso com a sustentabilidade."
+          },
+          {
+            "enExample": "By launching this product, they’re putting a stake in the ground in the competitive market.",
+            "ptExample": "Ao lançar este produto, eles estão estabelecendo sua posição no mercado competitivo."
+          }
+        ],
+        "synonyms": ["take a stand", "set a benchmark", "draw a line"],
+        "antonyms": ["remain neutral", "stay indecisive", "avoid commitment"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used in business or leadership contexts to signify a clear decision or boundary being set.",
+            "ptNote": "Este idiom é frequentemente usado em contextos de negócios ou liderança para significar uma decisão clara ou limite sendo estabelecido."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "pros and cons",
+        "partOfSpeech": "idiom",
+        "enDefinition": "the advantages and disadvantages of something, often considered when making a decision",
+        "ptDefinition": "as vantagens e desvantagens de algo, geralmente consideradas ao tomar uma decisão",
+        "examples": [
+          {
+            "enExample": "We need to weigh the pros and cons of expanding the business before making a final decision.",
+            "ptExample": "Precisamos avaliar as vantagens e desvantagens de expandir o negócio antes de tomar uma decisão final."
+          },
+          {
+            "enExample": "When choosing a new car, it's important to consider the pros and cons of each model.",
+            "ptExample": "Ao escolher um novo carro, é importante considerar as vantagens e desvantagens de cada modelo."
+          }
+        ],
+        "synonyms": [
+          "advantages and disadvantages",
+          "benefits and drawbacks",
+          "upsides and downsides"
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "pan out",
+        "phonetics": "/pæn aʊt/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to develop or unfold in a particular way, usually with a positive or successful outcome",
+        "ptDefinition": "se desenrolar ou se desenvolver de uma maneira específica, geralmente com um resultado positivo ou bem-sucedido",
+        "examples": [
+          {
+            "enExample": "The project didn't pan out as expected, but we learned a lot from the experience.",
+            "ptExample": "O projeto não teve o resultado esperado, mas aprendemos muito com a experiência."
+          },
+          {
+            "enExample": "Their plan to expand the business really panned out, and they saw significant growth.",
+            "ptExample": "O plano de expandir os negócios realmente deu certo, e eles viram um crescimento significativo."
+          }
+        ],
+        "synonyms": ["work out", "succeed", "unfold"],
+        "antonyms": ["fail", "flop", "go wrong"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "a pat on the back",
+        "partOfSpeech": "idiom",
+        "enDefinition": "an expression of praise or approval for someone's achievement or effort",
+        "ptDefinition": "uma expressão de elogio ou aprovação por uma conquista ou esforço de alguém",
+        "examples": [
+          {
+            "enExample": "She deserves a pat on the back for her hard work on the project.",
+            "ptExample": "Ela merece um elogio pelo trabalho duro no projeto."
+          },
+          {
+            "enExample": "The coach gave the team a pat on the back after their victory.",
+            "ptExample": "O treinador elogiou o time após a vitória."
+          }
+        ],
+        "synonyms": ["compliment", "praise", "recognition"],
+        "antonyms": ["criticism", "reprimand", "disapproval"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to express appreciation informally, either literally or figuratively."
+          },
+          {
+            "ptNote": "Este idiom é frequentemente usado para expressar apreciação de maneira informal, seja literalmente ou figurativamente."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "plug a product",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to promote or advertise a product, often in a way that draws attention or generates interest, typically in a casual or informal manner",
+        "ptDefinition": "divulgar ou promover um produto, geralmente de forma informal e chamando a atenção de maneira descontraída",
+        "examples": [
+          {
+            "enExample": "During the interview, the CEO took a moment to plug their latest product, encouraging viewers to check it out.",
+            "ptExample": "Durante a entrevista, o CEO aproveitou para divulgar o lançamento do seu mais novo produto, incentivando os telespectadores a conhecerem."
+          },
+          {
+            "enExample": "We need to plug our product at the event to get more attention and attract potential customers.",
+            "ptExample": "Precisamos promover nosso produto no evento para chamar mais atenção e atrair clientes em potencial."
+          }
+        ],
+        "synonyms": ["promote", "advertise", "market", "push"],
+        "antonyms": ["hide", "ignore", "downplay"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "pan out",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to succeed; to bring the desired results",
+        "examples": [
+          {
+            "enExample": "When Steve's career in acting didn't pan out, he decided to go to business school.",
+            "ptExample": "Quando a carreira de Steve na atuação não deu certo, ele decidiu ingressar na escola de negócios."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "(to be) petty",
+        "partOfSpeech": "adjective",
+        "enDefinition": "complaining too much about things that are not important",
+        "ptDefinition": "mesquinho",
+        "examples": [
+          {
+            "enExample": "Don't be so petty!",
+            "ptExample": "Não seja tão mesquinho!"
+          }
+        ]
+      },
+      {
+        "enDefinition": "not important and not worth giving attention to",
+        "ptDefinition": "pequeno, insignificante",
+        "examples": [
+          {
+            "enExample": "a petty theft",
+            "ptExample": "um pequeno roubo"
+          },
+          {
+            "enExample": "a petty crime",
+            "ptExample": "um pequeno crime"
+          },
+          {
+            "enExample": "a petty official",
+            "ptExample": "official de ranque baixo"
+          },
+          {
+            "enExample": "I don’t have time for petty matters like that.",
+            "ptExample": "Não tenho tempo para assuntos sem importância."
+          },
+          {
+            "enExample": "Prisoners complain that they are subjected to too many petty rules and restrictions.",
+            "ptExample": "Os presos queixam-se de que estão sujeitos a demasiadas regras e restrições insignificantes."
+          }
+        ],
+
+        "synonyms": ["frivolous", "trivial", "minor", "small", "slight", "unimportant", "insignificant", "narrow-minded"],
+        "antonyms": ["greater", "major", "serious"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "phonetics": "/ˈplæn.tɪn/",
+        "partOfSpeech": "noun",
+        "ptDefinition": "banana-da-terra"
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "portmanteau",
+        "phonetics": " /pɔːrtˈmæn.toʊ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a word formed by combining two other words",
+        "ptDefinition": "palavra formada pela união de dois ou mais radicais",
+        "examples": [
+          {
+            "enExample": "\"Podcast\" is a portmanteau word formed from \"iPod\" and \"broadcast\".",
+            "ptExample": "\"Podcast\" é uma palavra-valise formada a partir de \"iPod\" e \"broadcast\"."
+          }
+        ],
+        "notes": [
+          {
+            "enNote": "The word <b>portmanteau</b> itself is an appropriate embodiment of this word form, since portmanteau, which is French for porte (“to carry”) + manteau (“cloak”), describes a suitcase that opens in two halves."
+          },
+          {
+            "enNote": "- animatronics (animation + electronics): the electronic animation of puppets or similar figures to create lifelike effects."
+          },
+          {
+            "enNote": "- anklet (ankle + bracelet): jewelry designed to wrap around the ankle"
+          },
+          {
+            "enNote": "- biopic (biography + picture): a biographical film"
+          },
+          {
+            "enNote": "- Bollywood (Bombay + Hollywood): the Hindi film industry based in Mumbai"
+          },
+          {
+            "enNote": "- Botox (botulism + toxin): an injectable drug that uses a strain of botulism to treat signs of aging on the skin"
+          },
+          {
+            "enNote": "- brainiac (brain + maniac): a highly intelligent person"
+          },
+          {
+            "enNote": "- breathalyzer (breath + analyzer): a device used to analyze a person’s breath for their blood alcohol content or to detect viruses"
+          },
+          {
+            "enNote": "- Brexit (Britain + exit): the withdrawal of Great Britain from the European Union in 2020, after voting to leave in a 2016 referendum"
+          },
+          {
+            "enNote": "- bromance (brother + romance): a close platonic relationship between two male friends"
+          },
+          {
+            "enNote": "- brunch (breakfast + lunch): a meal that takes place between breakfast and lunch hours"
+          },
+          {
+            "enNote": "- carjack (car + hijack): theft of an automobile using violence or intimidation"
+          },
+          {
+            "enNote": "- cosplay (costume + roleplay): an art or practice where people dress as fictional characters"
+          },
+          {
+            "enNote": "- cyborg (cybernetic + organism): a creature with human features created using mechanical components"
+          },
+          {
+            "enNote": "- electrocute (electricity + execute): to harm or kill with electricity"
+          },
+          {
+            "enNote": "- email (electronic + mail): the electronic alternative to paper mail communication"
+          },
+          {
+            "enNote": "- emoticon (emotion + icon): facial expressions or emotions expressed through keyboard symbols"
+          },
+          {
+            "enNote": "- froyo (frozen + yogurt): a frozen dessert made of yogurt"
+          },
+          {
+            "enNote": "- fauxhawk (faux + mohawk): hair that’s styled to look like a mohawk"
+          },
+          {
+            "enNote": "- hazmat (hazardous + material) – substances that could be dangerous if not properly contained"
+          },
+          {
+            "enNote": "- intercom (internal + communication): a two-way speaker system used to communicate among people in a specific location"
+          },
+          {
+            "enNote": "- internet (interconnected + network): a computer network of information"
+          },
+          {
+            "enNote": "- jeggings (jeans + leggings): leggings designed to resemble denim jeans"
+          },
+          {
+            "enNote": "- Juneteenth (June + nineteenth): the day that commemorates the announcement of the Emancipation Proclamation, and the end of slavery, in the United States"
+          },
+          {
+            "enNote": "- Medicare (medical + care): the government-administered US health insurance program for people with disabilities and those who are age sixty-five or older; similar to Medicaid (medical + aid), the health insurance program for people with limited income."
+          },
+          {
+            "enNote": "- metaverse (meta + universe): a virtual environment meant for social connection\n- mocktail (mock + cocktail): a cocktail that contains no alcohol"
+          },
+          {
+            "enNote": "- motel (motor + hotel): a hotel designed for motorists"
+          },
+          {
+            "enNote": "- newscast (news + broadcast): a radio or television segment that features current events"
+          },
+          {
+            "enNote": "- Pokémon (pocket + monsters): an animated Japanese media franchise centered around creatures that are kept in pocket-sized balls and trained to battle each other"
+          },
+          {
+            "enNote": "- popsicle (pop + icicle): a frozen dessert, typically made with fruit juice or fruit flavor"
+          },
+          {
+            "enNote": "- smog (smoke + fog): hazy, polluted air"
+          },
+          {
+            "enNote": "- stash (store + cache): a secret hiding place where valuables are kept"
+          },
+          {
+            "enNote": "- vlog (video + log): a video-based diary published online"
+          },
+          {
+            "enNote": "- webinar (web + seminar): a presentation or seminar held online"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "pregnancy",
+        "phonetics": "/ˈpreɡ.nən.si/",
+        "partOfSpeech": "noun",
+        "enDefinition": "the state of being pregnant:",
+        "ptDefinition": "gravidez",
+        "examples": [
+          {
+            "enExample": "Most women feel sick in the mornings during their first months of pregnancy.",
+            "ptExample": "A maioria das mulheres sente-se mal pela manhã durante os primeiros meses de gravidez."
+          }
+        ],
+        "synonyms": ["gestation"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "word",
+        "phonetics": "/ˌproʊ.dəkˈtɪv.ə.t̬i/",
+        "partOfSpeech": "noun",
+        "ptDefinition": "produtividade",
+        "examples": [
+          {
+            "enExample": "Studies show that if a working environment is pleasant, productivity increases.",
+            "ptExample": "Estudos demonstram que, se um ambiente de trabalho é agradável, a produtividade aumenta."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "phonetics": "/ˈpʌb.lɪ.kli/",
+        "partOfSpeech": "adverb",
+        "ptDefinition": "publicamente",
+        "examples": [
+          {
+            "enExample": "The company publicly apologized and agreed to contribute some money to charity.",
+            "ptExample": "A empresa pediu desculpas publicamente e concordou em contribuir com uma quantia para caridade."
+          }
+        ],
+        "synonyms": ["honestly, openly, plainly"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "publish",
+        "phonetics": "/ˈpʌb.lɪʃ/",
+        "partOfSpeech": "regular verb",
+        "enDefinition": "to make information available to people, especially in a book, magazine, or newspaper, or to produce and sell a book, magazine, or newspaper",
+        "ptDefinition": "publicar",
+        "examples": [
+          {
+            "enExample": "She's just had an article published in their weekend supplement.",
+            "ptExample": "Um artigo dela acabou de ser publicado no caderno especial de final de semana."
+          },
+          {
+            "enExample": "She was only 19 when her first novel was published.",
+            "ptExample": "Ela tinha apenas 19 anos quando seu primeiro romance foi publicado."
+          }
+        ],
+        "synonyms": ["issue"],
+        "antonyms": ["reject"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "pull the plug",
+        "phonetics": "",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to stop or end something abruptly, especially a project, plan, or activity",
+        "ptDefinition": "interromper ou encerrar algo abruptamente, especialmente um projeto, plano ou atividade",
+        "examples": [
+          {
+            "enExample": "The company decided to pull the plug on the new product after poor sales performance.",
+            "ptExample": "A empresa decidiu interromper o lançamento do novo produto após o desempenho insatisfatório de vendas."
+          },
+          {
+            "enExample": "After months of delays, they finally pulled the plug on the construction project.",
+            "ptExample": "Após meses de atrasos, eles finalmente interromperam o projeto de construção."
+          }
+        ],
+        "synonyms": ["cancel", "terminate", "end"],
+        "antonyms": ["continue", "proceed", "carry on"],
+        "seeAlso": ["call it quits", "shut down"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "put",
+        "phonetics": "/pʊt/",
+        "partOfSpeech": "irregular verb",
+        "enDefinition": "to move or place something in a particular position or location",
+        "ptDefinition": "mover ou colocar algo em uma posição ou local específico",
+        "examples": [
+          {
+            "enExample": "Can you put the book on the table?",
+            "ptExample": "Você pode colocar o livro na mesa?"
+          }
+        ],
+        "synonyms": ["place", "set", "position"],
+        "antonyms": ["remove", "take away"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "put a spoke in someone's wheel",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to make it difficult for someone to achieve something they had planned to do",
+        "ptDefinition": "atrapalhar, dificultar",
+        "examples": [
+          {
+            "enExample": "His letter really put a spoke in our wheel.",
+            "ptExample": "A carta dele realmente atrapalhou nossos planos."
+          }
+        ],
+        "synonyms": ["hinder"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "put in a good word",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to say something good about someone",
+        "ptDefinition": "fazer uma boa recomendação",
+        "examples": [
+          {
+            "enExample": "Would you mind putting in a good word for me?",
+            "ptExample": "Você se importaria de fazer uma boa recomendação para mim?"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "insidious",
+        "phonetics": "/ɪnˈsɪdiəs/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "proceeding in a gradual, subtle way, but with harmful effects",
+        "ptDefinition": "que progride de maneira gradual e sutil, mas com efeitos prejudiciais",
+        "examples": [
+          {
+            "enExample": "The insidious effects of smoking damaged his health over many years.",
+            "ptExample": "Os efeitos insidiosos do tabagismo prejudicaram sua saúde ao longo de muitos anos."
+          },
+          {
+            "enExample": "The disease progressed in an insidious manner, showing few early symptoms.",
+            "ptExample": "A doença progrediu de maneira insidiosa, mostrando poucos sintomas iniciais."
+          }
+        ],
+        "synonyms": ["treacherous", "sneaky", "subtle", "harmful"],
+        "antonyms": ["obvious", "apparent", "harmless"],
+        "seeAlso": "subtle",
+        "notes": [
+          {
+            "enNote": "Often used to describe harmful things that develop so gradually that they are not noticed until it's too late.",
+            "ptNote": "Frequentemente usado para descrever coisas prejudiciais que se desenvolvem tão gradualmente que não são notadas até ser tarde demais."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "I can't believe my ears!",
+        "partOfSpeech": "phrase",
+        "enDefinition": "used to express great surprise or disbelief at something heard",
+        "ptDefinition": "usado para expressar grande surpresa ou descrença em algo ouvido",
+        "examples": [
+          {
+            "enExample": "When she told me the news, I couldn't believe my ears!",
+            "ptExample": "Quando ela me contou a notícia, eu não pude acreditar no que ouvi!"
+          },
+          {
+            "enExample": "I can't believe my ears! Did he really say that?",
+            "ptExample": "Eu não posso acreditar no que ouvi! Ele realmente disse isso?"
+          }
+        ],
+        "synonyms": ["astonished", "shocked", "amazed"],
+        "antonyms": ["unsurprised", "unimpressed"],
+        "seeAlso": "I can't believe my eyes",
+        "notes": [
+          {
+            "enNote": "This phrase is often used in situations where the speaker is hearing something unexpected or unbelievable.",
+            "ptNote": "Esta frase é frequentemente usada em situações onde o falante está ouvindo algo inesperado ou inacreditável."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "I could've sworn that",
+        "partOfSpeech": "phrase",
+        "enDefinition": "used to express strong belief or certainty about something that one remembers or perceives",
+        "ptDefinition": "usado para expressar forte crença ou certeza sobre algo que se lembra ou percebe",
+        "examples": [
+          {
+            "enExample": "I could've sworn that I left my keys on the table.",
+            "ptExample": "Eu poderia jurar que deixei minhas chaves na mesa."
+          },
+          {
+            "enExample": "She could've sworn that she saw him at the party.",
+            "ptExample": "Ela poderia jurar que o viu na festa."
+          }
+        ],
+        "synonyms": ["I was sure", "I believed", "I thought"],
+        "antonyms": ["I doubted", "I was unsure"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used when someone is surprised to find out that their memory or perception was incorrect.",
+            "ptNote": "Esta frase é frequentemente usada quando alguém fica surpreso ao descobrir que sua memória ou percepção estava incorreta."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "I beg to differ",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a polite way of saying that you disagree with someone",
+        "ptDefinition": "uma maneira educada de dizer que você discorda de alguém",
+        "examples": [
+          {
+            "enExample": "I beg to differ, but I don't think that's the best solution.",
+            "ptExample": "Desculpe, mas eu discordo, não acho que essa seja a melhor solução."
+          },
+          {
+            "enExample": "With all due respect, I beg to differ on this point.",
+            "ptExample": "Com todo o respeito, eu discordo desse ponto."
+          }
+        ],
+        "synonyms": ["disagree", "differ", "take issue"],
+        "antonyms": ["agree", "concur"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used in formal or polite conversations to express disagreement without causing offense.",
+            "ptNote": "Esta frase é frequentemente usada em conversas formais ou educadas para expressar discordância sem causar ofensa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "in a nutshell",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to indicate that you are describing something in a very brief way, using few words",
+        "ptDefinition": "usado para indicar que você está descrevendo algo de maneira muito breve, usando poucas palavras",
+        "examples": [
+          {
+            "enExample": "To put it in a nutshell, we’re bankrupt.",
+            "ptExample": "Resumindo, estamos falidos."
+          },
+          {
+            "enExample": "In a nutshell, the project was a success.",
+            "ptExample": "Resumindo, o projeto foi um sucesso."
+          }
+        ],
+        "synonyms": ["briefly", "in short", "summarized"],
+        "antonyms": ["in detail", "at length"],
+        "seeAlso": "to sum up",
+        "notes": [
+          {
+            "enNote": "This idiom is often used to summarize complex information in a simple and concise manner.",
+            "ptNote": "Este idiom é frequentemente usado para resumir informações complexas de maneira simples e concisa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "illness",
+        "phonetics": "/ˈɪlnəs/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a disease or period of sickness affecting the body or mind",
+        "ptDefinition": "uma doença ou período de enfermidade que afeta o corpo ou a mente",
+        "examples": [
+          {
+            "enExample": "She missed a lot of school due to illness.",
+            "ptExample": "Ela faltou muito à escola devido a uma doença."
+          },
+          {
+            "enExample": "The illness left him weak and tired.",
+            "ptExample": "A doença o deixou fraco e cansado."
+          }
+        ],
+        "synonyms": ["sickness", "disease", "ailment", "disorder"],
+        "antonyms": ["health", "wellness", "fitness"],
+        "notes": [
+          {
+            "enNote": "Illness can refer to both a specific disease and a general state of poor health.",
+            "ptNote": "Doença pode se referir tanto a uma doença específica quanto a um estado geral de má saúde."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "ill",
+        "phonetics": "/ɪl/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "not in good health; sick",
+        "ptDefinition": "não estar em boa saúde; doente",
+        "examples": [
+          {
+            "enExample": "She has been feeling ill for a few days.",
+            "ptExample": "Ela tem se sentido doente há alguns dias."
+          },
+          {
+            "enExample": "He was too ill to attend the meeting.",
+            "ptExample": "Ele estava muito doente para comparecer à reunião."
+          }
+        ],
+        "synonyms": ["sick", "unwell", "ailing", "indisposed"],
+        "antonyms": ["healthy", "well", "fit"],
+        "seeAlso": "sick",
+        "notes": [
+          {
+            "enNote": "The word 'ill' is often used in British English, while 'sick' is more common in American English.",
+            "ptNote": "A palavra 'ill' é frequentemente usada no inglês britânico, enquanto 'sick' é mais comum no inglês americano."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "ire",
+        "phonetics": "/aɪər/",
+        "partOfSpeech": "noun",
+        "enDefinition": "anger or intense displeasure",
+        "ptDefinition": "ira ou descontentamento intenso",
+        "examples": [
+          {
+            "enExample": "The decision to close the factory aroused the ire of the workers.",
+            "ptExample": "A decisão de fechar a fábrica despertou a ira dos trabalhadores."
+          },
+          {
+            "enExample": "She could not contain her ire when she saw the damage to her car.",
+            "ptExample": "Ela não conseguiu conter sua ira quando viu o dano em seu carro."
+            },
+            {
+            "enExample": "His controversial remarks drew the ire of the community.",
+            "ptExample": "Seus comentários controversos despertaram a ira da comunidade."
+            }
+        ],
+        "synonyms": ["anger", "rage", "fury", "wrath"],
+        "antonyms": ["calm", "peace", "contentment"],
+        "seeAlso": "anger",
+        "notes": [
+          {
+            "enNote": "The word 'ire' is often used in literary contexts to convey a strong sense of anger.",
+            "ptNote": "A palavra 'ira' é frequentemente usada em contextos literários para transmitir um forte senso de raiva."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "insane",
+        "phonetics": "/ɪnˈseɪn/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "in a state of mind which prevents normal perception, behavior, or social interaction; seriously mentally ill",
+        "ptDefinition": "em um estado mental que impede a percepção normal, comportamento ou interação social; seriamente doente mental",
+        "examples": [
+          {
+            "enExample": "The man was declared insane and committed to a mental institution.",
+            "ptExample": "O homem foi declarado insano e internado em uma instituição mental."
+          },
+          {
+            "enExample": "Her ideas were considered insane by her peers.",
+            "ptExample": "Suas ideias foram consideradas insanas por seus colegas."
+          }
+        ],
+        "synonyms": ["mad", "crazy", "deranged", "mentally ill"],
+        "antonyms": ["sane", "rational", "sound"],
+        "seeAlso": "madness",
+        "notes": [
+          {
+            "enNote": "The term 'insane' is often used in a legal context to describe someone who is not responsible for their actions due to mental illness.",
+            "ptNote": "O termo 'insano' é frequentemente usado em um contexto legal para descrever alguém que não é responsável por suas ações devido a doença mental."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "icing on the cake",
+        "partOfSpeech": "idiom",
+        "enDefinition": "an additional benefit or feature that makes something even better or more enjoyable, often in a situation that is already positive",
+        "ptDefinition": "um benefício ou detalhe adicional que torna algo ainda melhor ou mais agradável, especialmente quando a situação já é boa",
+        "examples": [
+          {
+            "enExample": "The vacation was amazing, and getting upgraded to a luxury suite was the icing on the cake.",
+            "ptExample": "As férias foram incríveis, e o upgrade para uma suíte de luxo foi o toque final perfeito."
+          }
+        ],
+        "synonyms": ["final touch", "finishing touch"],
+        "antonyms": ["a letdown", "a disappointment", "a setback"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "intent",
+        "phonetics": "/ɪnˈtent/",
+        "partOfSpeech": "noun",
+        "ptDefinition": "intenção",
+        "examples": [
+          {
+            "enExample": "I spent half the morning on the phone, which wasn't really my intent.",
+            "ptExample": "Passei metade da manhã ao telefone, o que não era exatamente minha intenção."
+          },
+          {
+            "enExample": "[+ to infinitive] It was not his intent to hurt anyone.",
+            "ptExample": "Não era intenção dele fazer mal a ninguém."
+          },
+          {
+            "enExample": "[+ with] She was charged with possessing weapons with intent to endanger life.",
+            "ptExample": "Ela foi acusada de possuir armas com a intenção de colocar vidas em perigo."
+          }
+        ],
+        "synonyms": ["aim (intention)", "ambition", "aspiration (hope)", "dream (hope)", "goal (aim)", "hope", "intention", "objective", "target (aim)"],
+        "antonyms": ["accident", "chance", "luck", "fortune"],
+        "note": [
+          {
+            "enNote": "Intention and intent are synonyms, but with a subtle difference. Intention implies a general desire or plan to accomplish something, while intent is a little stronger, indicating a firm resolve to get it done. Intent can be used as a noun or adjective."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "in hot water",
+        "partOfSpeech": "idiom",
+        "enDefinition": "in trouble, often as a result of one's actions or decisions",
+        "ptDefinition": "em apuros, geralmente como resultado das próprias ações ou decisões",
+        "examples": [
+          {
+            "enExample": "He was in hot water after missing the important meeting.",
+            "ptExample": "Ele estava em apuros depois de perder a reunião importante."
+          }
+        ],
+        "synonyms": ["in trouble", "in a jam", "in difficulty"],
+        "antonyms": ["in the clear", "safe", "out of trouble"],
+        "seeAlso": "get into trouble"
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "in deep trouble",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be in a very serious or difficult situation, often with severe consequences",
+        "ptDefinition": "estar em uma situação muito séria ou difícil, frequentemente com consequências graves",
+        "examples": [
+          {
+            "enExample": "He’s in deep trouble after missing the payment deadline for his loan.",
+            "ptExample": "Ele está em apuros depois de perder o prazo de pagamento do empréstimo."
+          },
+          {
+            "enExample": "The company found itself in deep trouble after the product recall.",
+            "ptExample": "A empresa se viu em sérios problemas após o recall do produto."
+          }
+        ],
+        "synonyms": ["in hot water", "in a bind", "in a tough spot"],
+        "antonyms": ["in a good position", "trouble-free", "safe"],
+        "notes": [
+          {
+            "enNote": "This phrase is commonly used in both personal and professional contexts to emphasize the gravity of a problem."
+          },
+          {
+            "ptNote": "Esta expressão é comumente usada tanto em contextos pessoais quanto profissionais para enfatizar a gravidade de um problema."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "in the red",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be in debt or operating at a financial loss",
+        "ptDefinition": "estar endividado ou operando com prejuízo financeiro",
+        "examples": [
+          {
+            "enExample": "The company has been in the red since the beginning of the year due to declining sales.",
+            "ptExample": "A empresa está no vermelho desde o início do ano devido à queda nas vendas."
+          },
+          {
+            "enExample": "If we don't cut expenses, we'll be in the red by the end of the month.",
+            "ptExample": "Se não reduzirmos as despesas, estaremos no vermelho até o final do mês."
+          }
+        ],
+        "synonyms": ["in debt", "financially struggling", "operating at a loss"],
+        "antonyms": ["in the black", "profitable", "financially stable"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used in financial contexts to describe a negative cash flow or balance."
+          },
+          {
+            "ptNote": "Este idiom é frequentemente usado em contextos financeiros para descrever um fluxo de caixa ou saldo negativo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "Israeli",
+        "phonetics": "/ɪzˈreɪ.li/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "belonging to or relating to Israel or its people",
+        "ptDefinition": "pertencente ou relacionado a Israel ou seu povo",
+        "examples": [
+          {
+            "enExample": "Israeli exports",
+            "ptExample": "exportações israelenses"
+          },
+          {
+            "enExample": "an Israeli newspaper",
+            "ptExample": "um jornal israelense"
+          }
+        ]
+      }
+    ]
+  }
+]

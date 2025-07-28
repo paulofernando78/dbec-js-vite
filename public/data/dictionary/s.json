@@ -1,0 +1,986 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "save a bundle",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to save a large amount of money",
+        "ptDefinition": "economizar uma grande quantia de dinheiro",
+        "examples": [
+          {
+            "enExample": "We saved a bundle by buying our plane tickets six months in advance.",
+            "ptExample": "Economizamos muito comprando nossas passagens aéreas com seis meses de antecedência."
+          },
+          {
+            "enExample": "You can save a bundle if you shop during the sales.",
+            "ptExample": "Você pode economizar muito se comprar durante as promoções."
+          }
+        ],
+        "synonyms": ["save a lot", "save big", "save plenty"],
+        "antonyms": ["spend a fortune", "pay full price"],
+        "seeAlso": ["bargain", "discount"],
+        "notes": [
+          {
+            "enNote": "Informal expression commonly used in contexts of shopping and financial decisions",
+            "ptNote": "Expressão informal comumente usada em contextos de compras e decisões financeiras"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "short by",
+        "phonetics": "/ʃɔrt baɪ/",
+        "partOfSpeech": "phrasal verb", 
+        "enDefinition": "to lack or be deficient in a specified amount",
+        "ptDefinition": "faltar ou estar em falta de uma quantidade específica",
+        "examples": [
+          {
+            "enExample": "We are short by $100 to pay the bill.",
+            "ptExample": "Estamos com $100 a menos para pagar a conta."
+          }
+        ],
+        "synonyms": ["lacking", "deficient", "missing"],
+        "antonyms": ["have enough", "sufficient"],
+        "seeAlso": ["shortage", "deficit"],
+        "notes": [
+          {
+            "enNote": "Used when there is a specific numerical or quantifiable shortage",
+            "ptNote": "Usado quando há uma falta específica numérica ou quantificável"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "scrutinize",
+        "phonetics": "/ˈskruːtəˌnaɪz/",
+        "partOfSpeech": "verb", 
+        "enDefinition": "to examine something very carefully and in detail",
+        "ptDefinition": "examinar algo muito cuidadosamente e em detalhe; escrutinar",
+        "examples": [
+          {
+            "enExample": "The committee will scrutinize all applications carefully.",
+            "ptExample": "O comitê examinará todas as inscrições cuidadosamente."
+          },
+          {
+            "enExample": "Investors scrutinized the company's financial records.",
+            "ptExample": "Os investidores escrutinaram os registros financeiros da empresa."
+          }
+        ],
+        "synonyms": ["examine", "inspect", "analyze", "study"],
+        "antonyms": ["overlook", "ignore", "disregard"],
+        "seeAlso": ["investigate", "review"],
+        "notes": [
+          {
+            "enNote": "Often used in contexts involving detailed analysis or investigation",
+            "ptNote": "Frequentemente usado em contextos envolvendo análise ou investigação detalhada"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "strike gold",
+    "definitions": [
+      {
+        "word": "strike gold",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to discover something valuable or profitable, often unexpectedly",
+        "ptDefinition": "descobrir algo valioso ou lucrativo, muitas vezes inesperadamente",
+        "examples": [
+          {
+            "enExample": "They struck gold when they found oil on their land.",
+            "ptExample": "Eles encontraram ouro quando descobriram petróleo em suas terras."
+          },
+          {
+            "enExample": "The startup struck gold with its innovative app.",
+            "ptExample": "A startup encontrou ouro com seu aplicativo inovador."
+          }
+        ],
+        "synonyms": ["hit the jackpot", "find a treasure", "hit pay dirt"],
+        "antonyms": ["miss out", "fail", "lose"],
+        "seeAlso": ["hit the jackpot", "come across"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to describe a significant and unexpected success.",
+            "ptNote": "Este idiom é frequentemente usado para descrever um sucesso significativo e inesperado."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "shell out",
+    "definitions": [
+      {
+        "word": "shell out",
+        "phonetics": "/ʃɛl aʊt/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to pay a large amount of money for something, often reluctantly",
+        "ptDefinition": "pagar uma grande quantia de dinheiro por algo, muitas vezes com relutância",
+        "examples": [
+          {
+            "enExample": "I had to shell out $200 for a new phone.",
+            "ptExample": "Tive que desembolsar $200 por um novo telefone."
+          },
+          {
+            "enExample": "They shelled out a lot of money for their vacation.",
+            "ptExample": "Eles desembolsaram muito dinheiro para as férias."
+          }
+        ],
+        "synonyms": ["pay", "spend", "disburse"],
+        "antonyms": ["save", "hoard"],
+        "seeAlso": ["fork out", "cough up"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used to emphasize the high cost or reluctance in spending money.",
+            "ptNote": "Esta expressão é frequentemente usada para enfatizar o alto custo ou a relutância em gastar dinheiro."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "short by",
+    "definitions": [
+      {
+        "word": "short by",
+        "phonetics": "/ʃɔrt baɪ/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to be lacking or deficient in a certain amount or number",
+        "ptDefinition": "estar em falta ou deficiente em uma certa quantidade ou número",
+        "examples": [
+          {
+            "enExample": "We are short by two people for the team.",
+            "ptExample": "Estamos com falta de duas pessoas para a equipe."
+          },
+          {
+            "enExample": "The project budget is short by $500.",
+            "ptExample": "O orçamento do projeto está faltando $500."
+          }
+        ],
+        "synonyms": ["lacking", "deficient", "missing"],
+        "antonyms": ["sufficient", "adequate", "enough"],
+        "seeAlso": ["shortfall", "deficit"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used to indicate a shortage or insufficiency in various contexts.",
+            "ptNote": "Esta expressão é frequentemente usada para indicar uma escassez ou insuficiência em vários contextos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "successful",
+    "definitions": [
+      {
+        "word": "successful",
+        "phonetics": "/səkˈsɛsfəl/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "accomplishing an aim or purpose; having achieved success",
+        "ptDefinition": "realizando um objetivo ou propósito; tendo alcançado sucesso",
+        "examples": [
+          {
+            "enExample": "She was successful in her career as a lawyer.",
+            "ptExample": "Ela foi bem-sucedida em sua carreira como advogada."
+          },
+          {
+            "enExample": "The company had a successful year with record profits.",
+            "ptExample": "A empresa teve um ano de sucesso com lucros recordes."
+          }
+        ],
+        "synonyms": ["prosperous", "triumphant", "victorious"],
+        "antonyms": ["unsuccessful", "failing", "defeated"],
+        "seeAlso": ["accomplished", "achieved"],
+        "notes": [
+          {
+            "enNote": "Being successful can mean different things to different people, including personal satisfaction, financial gain, or recognition.",
+            "ptNote": "Ser bem-sucedido pode significar coisas diferentes para pessoas diferentes, incluindo satisfação pessoal, ganho financeiro ou reconhecimento."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "success",
+    "definitions": [
+      {
+        "word": "success",
+        "phonetics": "/səkˈsɛs/",
+        "partOfSpeech": "noun",
+        "enDefinition": "the accomplishment of an aim or purpose",
+        "ptDefinition": "a realização de um objetivo ou propósito",
+        "examples": [
+          {
+            "enExample": "Her success in the competition was well-deserved.",
+            "ptExample": "Seu sucesso na competição foi merecido."
+          },
+          {
+            "enExample": "The project was a great success.",
+            "ptExample": "O projeto foi um grande sucesso."
+          }
+        ],
+        "synonyms": ["achievement", "triumph", "victory"],
+        "antonyms": ["failure", "defeat", "loss"],
+        "seeAlso": ["accomplishment", "prosperity"],
+        "notes": [
+          {
+            "enNote": "Success can be measured in various ways, including personal satisfaction, financial gain, or recognition.",
+            "ptNote": "O sucesso pode ser medido de várias maneiras, incluindo satisfação pessoal, ganho financeiro ou reconhecimento."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "sickness",
+    "definitions": [
+      {
+        "word": "sickness",
+        "phonetics": "/ˈsɪknəs/",
+        "partOfSpeech": "noun",
+        "enDefinition": "the state of being ill or having a disease",
+        "ptDefinition": "o estado de estar doente ou ter uma doença",
+        "examples": [
+          {
+            "enExample": "She was absent from work due to sickness.",
+            "ptExample": "Ela estava ausente do trabalho devido a doença."
+          },
+          {
+            "enExample": "The sickness spread rapidly through the community.",
+            "ptExample": "A doença se espalhou rapidamente pela comunidade."
+          }
+        ],
+        "synonyms": ["illness", "disease", "ailment"],
+        "antonyms": ["health", "wellness"],
+        "notes": [
+          {
+            "enNote": "The term 'sickness' can refer to both physical and mental health conditions.",
+            "ptNote": "O termo 'doença' pode se referir a condições de saúde física e mental."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "sick",
+    "definitions": [
+      {
+        "word": "sick",
+        "phonetics": "/sɪk/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "affected by physical or mental illness",
+        "ptDefinition": "afetado por doença física ou mental; doente",
+        "examples": [
+          {
+            "enExample": "She felt sick after eating too much.",
+            "ptExample": "Ela se sentiu doente depois de comer demais."
+          },
+          {
+            "enExample": "He has been sick with the flu for a week.",
+            "ptExample": "Ele está doente com gripe há uma semana."
+          }
+        ],
+        "synonyms": ["ill", "unwell", "ailing"],
+        "antonyms": ["healthy", "well", "fit"],
+        "seeAlso": ["ill", "unwell"],
+        "notes": [
+          {
+            "enNote": "The word 'sick' can also be used informally to mean 'cool' or 'awesome' in slang.",
+            "ptNote": "A palavra 'sick' também pode ser usada informalmente para significar 'legal' ou 'incrível' em gíria."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "sleepy",
+    "definitions": [
+      {
+        "word": "sleepy",
+        "phonetics": "/ˈsliːpi/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "feeling or needing sleep; drowsy",
+        "ptDefinition": "sonolento",
+        "examples": [
+          {
+            "enExample": "I feel sleepy after lunch.",
+            "ptExample": "Eu me sinto sonolento depois do almoço."
+          },
+          {
+            "enExample": "The baby looked sleepy and ready for bed.",
+            "ptExample": "O bebê parecia sonolento e pronto para dormir."
+          }
+        ],
+        "synonyms": ["drowsy", "tired", "lethargic"],
+        "antonyms": ["alert", "awake", "energetic"],
+        "seeAlso": ["drowsy", "sluggish"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "scared",
+        "phonetics": "/skɛrd/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "feeling fear or anxiety; frightened",
+        "ptDefinition": "sentindo medo ou ansiedade; assustado",
+        "examples": [
+          {
+            "enExample": "The children were scared by the thunderstorm.",
+            "ptExample": "As crianças ficaram assustadas com a tempestade."
+          },
+          {
+            "enExample": "She felt scared walking alone at night.",
+            "ptExample": "Ela se sentiu assustada andando sozinha à noite."
+          }
+        ],
+        "synonyms": ["frightened", "afraid", "terrified"],
+        "antonyms": ["calm", "brave", "confident"],
+        "seeAlso": ["afraid", "terrified"],
+        "notes": [
+          {
+            "enNote": "The word 'scared' is often used to describe a temporary feeling of fear.",
+            "ptNote": "A palavra 'scared' é frequentemente usada para descrever um sentimento temporário de medo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "scare",
+    "definitions": [
+      {
+        "word": "scare",
+        "phonetics": "/skɛr/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to cause someone to feel frightened or alarmed",
+        "ptDefinition": "causar medo ou alarme em alguém; assustar",
+        "examples": [
+          {
+            "enExample": "The loud noise scared the children.",
+            "ptExample": "O barulho alto assustou as crianças."
+          },
+          {
+            "enExample": "She was scared by the horror movie.",
+            "ptExample": "Ela ficou assustada com o filme de terror."
+          }
+        ],
+        "synonyms": ["frighten", "alarm", "terrify"],
+        "antonyms": ["calm", "reassure"],
+        "seeAlso": ["frighten", "startle"],
+        "notes": [
+          {
+            "enNote": "The word 'scare' can be used both as a verb and a noun.",
+            "ptNote": "A palavra 'scare' pode ser usada tanto como verbo quanto como substantivo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "silly",
+    "definitions": [
+      {
+        "word": "silly",
+        "phonetics": "/ˈsɪli/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "having or showing a lack of common sense or judgment; absurd and foolish",
+        "ptDefinition": "tendo ou mostrando falta de bom senso ou julgamento; absurdo e tolo",
+        "examples": [
+          {
+            "enExample": "Don't be silly, it's not that big of a deal.",
+            "ptExample": "Não seja bobo, não é tão importante assim."
+          },
+          {
+            "enExample": "She made a silly mistake on the test.",
+            "ptExample": "Ela cometeu um erro bobo no teste."
+          }
+        ],
+        "synonyms": ["foolish", "absurd", "ridiculous"],
+        "antonyms": ["sensible", "serious", "wise"],
+        "seeAlso": ["foolish", "childish"],
+        "notes": [
+          {
+            "enNote": "The word 'silly' is often used in a light-hearted or playful manner.",
+            "ptNote": "A palavra 'silly' é frequentemente usada de maneira descontraída ou brincalhona."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "send",
+    "definitions": [
+      {
+        "word": "send",
+        "phonetics": "/sɛnd/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to cause something to go or be taken to a particular destination, especially by mail or email",
+        "ptDefinition": "enviar algo para um destino específico, especialmente por correio ou e-mail",
+        "examples": [
+          {
+            "enExample": "I will send you the documents by email.",
+            "ptExample": "Vou enviar os documentos por e-mail."
+          },
+          {
+            "enExample": "She sent a letter to her friend.",
+            "ptExample": "Ela enviou uma carta para sua amiga."
+          }
+        ],
+        "synonyms": ["dispatch", "forward", "transmit"],
+        "antonyms": ["receive", "retain"],
+        "seeAlso": ["mail", "deliver", "transmit"],
+        "notes": [
+          {
+            "enNote": "The verb 'send' is commonly used in the context of communication and delivery.",
+            "ptNote": "O verbo 'enviar' é comumente usado no contexto de comunicação e entrega."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "swivel",
+    "definitions": [
+      {
+        "word": "swivel",
+        "phonetics": "/ˈswɪvəl/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to turn around a central point or axis, often quickly or smoothly",
+        "ptDefinition": "girar em torno de um ponto ou eixo central, muitas vezes de forma rápida ou suave",
+        "examples": [
+          {
+            "enExample": "The office chair swivels 360 degrees for easy movement.",
+            "ptExample": "A cadeira de escritório gira 360 graus para facilitar o movimento."
+          }
+        ],
+        "synonyms": ["spin", "rotate", "turn"],
+        "antonyms": ["stay still", "remain stationary"]
+      }
+    ]
+  },
+  {
+    "keyword": "share the credit",
+    "definitions": [
+      {
+        "word": "share the credit",
+        "phonetics": "/ʃɛr ðə ˈkrɛdɪt/",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to divide or distribute recognition or praise for an accomplishment among multiple people",
+        "ptDefinition": "dividir ou distribuir o reconhecimento ou elogio por uma conquista entre várias pessoas",
+        "examples": [
+          {
+            "enExample": "The team worked together and decided to share the credit for the success of the project.",
+            "ptExample": "A equipe trabalhou junta e decidiu dividir o reconhecimento pelo sucesso do projeto."
+          },
+          {
+            "enExample": "He was quick to share the credit with his colleagues for the success of the campaign.",
+            "ptExample": "Ele foi rápido em dividir o reconhecimento com seus colegas pelo sucesso da campanha."
+          }
+        ],
+        "synonyms": [
+          "give credit",
+          "acknowledge others",
+          "share the recognition"
+        ],
+        "antonyms": [
+          "take all the credit",
+          "claim all the recognition",
+          "be selfish"
+        ],
+        "notes": [
+          {
+            "enNote": "This phrase emphasizes collaboration and fairness in recognizing everyone's contribution."
+          },
+          {
+            "ptNote": "Esta expressão enfatiza a colaboração e a justiça ao reconhecer a contribuição de todos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "sign on new customers (or members)",
+    "definitions": [
+      {
+        "word": "sign on new customers (or members)",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to acquire new customers or members, usually through contracts, subscriptions, or agreements",
+        "ptDefinition": "adquirir novos clientes ou membros, geralmente por meio de contratos, assinaturas ou acordos",
+        "examples": [
+          {
+            "enExample": "The company is focused on signing on new customers to boost sales this quarter.",
+            "ptExample": "A empresa está focada em conquistar novos clientes para aumentar as vendas neste trimestre."
+          },
+          {
+            "enExample": "They worked hard to sign on new members for the gym by offering special deals.",
+            "ptExample": "Eles se esforçaram para atrair novos membros para a academia oferecendo promoções especiais."
+          }
+        ],
+        "synonyms": ["acquire customers", "recruit members", "gain clients"],
+        "antonyms": [
+          "lose customers",
+          "cancel memberships",
+          "reduce clientele"
+        ],
+        "notes": [
+          {
+            "enNote": "This phrase is often used in marketing, sales, and membership-driven businesses."
+          },
+          {
+            "ptNote": "Esta expressão é frequentemente usada em marketing, vendas e negócios baseados em adesão."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "step up to the plate",
+    "definitions": [
+      {
+        "word": "step up to the plate",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to take responsibility or take action when a situation demands it, often in a challenging or high-pressure context",
+        "ptDefinition": "assumir a responsabilidade ou tomar uma atitude quando a situação exige, muitas vezes em um contexto desafiador ou de alta pressão",
+        "examples": [
+          {
+            "enExample": "When the project fell behind schedule, Sarah stepped up to the plate and took charge of the team.",
+            "ptExample": "Quando o projeto atrasou, Sarah assumiu a responsabilidade e liderou a equipe."
+          },
+          {
+            "enExample": "It’s time for the new manager to step up to the plate and show what they can do.",
+            "ptExample": "É hora do novo gerente assumir o desafio e mostrar do que é capaz."
+          }
+        ],
+        "synonyms": [
+          "take responsibility",
+          "rise to the occasion",
+          "take charge"
+        ],
+        "antonyms": ["avoid responsibility", "back down", "pass the buck"],
+        "notes": [
+          {
+            "enNote": "This expression originates from baseball but is commonly used in business and everyday situations to describe taking initiative."
+          },
+          {
+            "ptNote": "Esta expressão tem origem no beisebol, mas é comumente usada em negócios e situações cotidianas para descrever a tomada de iniciativa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "sad",
+        "phonetics": "/sæd/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "feeling or showing sorrow; unhappy",
+        "ptDefinition": "sentindo ou demonstrando tristeza; infeliz",
+        "examples": [
+          {
+            "enExample": "She felt sad after hearing the news.",
+            "ptExample": "Ela ficou triste depois de ouvir a notícia."
+          },
+          {
+            "enExample": "It was a sad story that touched everyone's heart.",
+            "ptExample": "Foi uma história triste que comoveu todos."
+          }
+        ],
+        "synonyms": ["unhappy", "sorrowful", "downcast", "melancholy"],
+        "antonyms": ["happy", "joyful", "cheerful", "content"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "saturated fat",
+        "phonetics": "/ˈsætʃ.ə.reɪ.tɪd fæt/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a type of fat found in animal products and some plant oils, characterized by single bonds between carbon atoms, typically solid at room temperature",
+        "ptDefinition": "um tipo de gordura encontrada em produtos de origem animal e alguns óleos vegetais, caracterizada por ligações simples entre átomos de carbono, geralmente sólida à temperatura ambiente",
+        "examples": [
+          {
+            "enExample": "Butter is high in saturated fat, which can increase cholesterol levels.",
+            "ptExample": "A manteiga é rica em gordura saturada, o que pode aumentar os níveis de colesterol."
+          }
+        ],
+        "synonyms": ["animal fat", "solid fat"],
+        "antonyms": ["unsaturated fat", "healthy fat"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "screen",
+        "phonetics": "/skriːn/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a flat surface on which images or data are displayed, such as on a television, computer, or smartphone",
+        "ptDefinition": "uma superfície plana na qual imagens ou dados são exibidos, como em uma televisão, computador ou smartphone",
+        "examples": [
+          {
+            "enExample": "I spend too much time staring at my phone screen.",
+            "ptExample": "Eu passo muito tempo olhando para a tela do meu celular."
+          }
+        ],
+        "synonyms": ["display", "monitor", "panel"]
+      },
+      {
+        "word": "screen",
+        "phonetics": "/skriːn/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to show a movie or video, or to examine or filter something.",
+        "ptDefinition": "exibir um filme ou vídeo, ou examinar ou filtrar algo.",
+        "examples": [
+          {
+            "enExample": "The movie will be screened at the festival tomorrow.",
+            "ptExample": "O filme será exibido no festival amanhã."
+          },
+          {
+            "enExample": "All passengers are screened at the airport for security purposes.",
+            "ptExample": "Todos os passageiros são examinados no aeroporto por motivos de segurança."
+          }
+        ],
+        "synonyms": ["examine", "filter", "display"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "seem",
+        "partOfSpeech": "regular verb",
+        "phonetics": "/siːm/",
+        "enDefinition": "to give the effect of being; to be judged to be",
+        "ptDefinition": "parecer",
+        "examples": [
+          {
+            "enExample": "[+ infinitive] I seem <u>to know</u> more about him than anyone else.",
+            "ptExample": "Parece que sei mais sobre ele do que qualquer outra pessoa."
+          },
+          {
+            "enExample": "[+ noun] They seem to be good people.",
+            "ptExample": "Eles parecem ser pessoas boas."
+          },
+          {
+            "enExample": "[+ adjective] You seem happy.",
+            "ptExample": "Você parece feliz"
+          },
+          {
+            "enExample": "[+ adjective] You seem (to be) nervous.",
+            "ptExample": "Você parece estar nervoso(a)."
+          },
+          {
+            "enExample": "Things are seldom as/how/what they seem.",
+            "ptExample": "As coisas raramente são como/o que parecem."
+          }
+        ],
+        "synonyms": ["look", "sound", "suggest", "imply"],
+        "antonyms": ["be real"]
+      },
+      {
+        "word": "seemed",
+        "phonetics": "/siːmd/",
+        "partOfSpeech": "past of verb seem",
+        "examples": [
+          {
+            "enExample": "The patient seemed to be in good health, with a healthy glow in his cheeks.",
+            "ptExample": "O paciente parecia estar com boa saúde, com um brilho saudável nas bochechas."
+          },
+          {
+            "enExample": "The children seemed (<u>as if</u>/<u>as though</u>/<u>like</u> they were) tired.",
+            "ptExample": "As crianças pareciam (como se / estivessem) cansadas."
+          }
+        ]
+      },
+      {
+        "word": "seems",
+        "phonetics": "/siːmz/",
+        "partOfSpeech": "he/she/it: affirmative only",
+        "examples": [
+          {
+            "enExample": "It seems a good ideia.",
+            "ptExample": "Parece uma boa ideia."
+          },
+          {
+            "enExample": "He's 16, but he often seems (to be) younger.",
+            "ptExample": "Ele tem 16 anos, mas muitas vezes parece (ser) mais jovem."
+          },
+          {
+            "enExample": "[+ noun] He seems (to be) a nice <u>man</u>.",
+            "ptExample": "Ele parece (ser) um homem legal."
+          },
+          {
+            "enExample": "[+ adjective] She seems (to be) sad.",
+            "ptExample": "Ela parece (estar) triste."
+          },
+          {
+            "enExample": "It seems <u>clear</u> that there has been a mistake.",
+            "ptExample": "Parece claro que houve um erro."
+          },
+          {
+            "enExample": "Do whatever seems best to you.",
+            "ptExample": "Faça o que achar melhor."
+          }
+        ]
+      },
+      {
+        "word": "seeming",
+        "phonetics": "/ˈsiː.mɪŋ/",
+        "partOfSpeech": "adjective",
+
+        "ptDefinition": "aparente",
+        "examples": [
+          {
+            "enExample": "He said, with seeming embarrassment, that he would have to cancel the meeting.",
+            "ptExample": "Ele disse, com aparente constrangimento, que teria que cancelar a reunião."
+          }
+        ]
+      },
+      {
+        "word": "seemingly",
+        "phonetics": "/ˈsiː.mɪŋ.li/",
+        "partOfSpeech": "adverb",
+        "ptDefinition": "aparentemente",
+        "examples": [
+          {
+            "enExample": "The factory closure is seemingly i<u>ne</u>vitable.",
+            "ptExample": "Aparentemente o fechamento da fábrica é inevitável."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "several",
+        "phonetics": " /ˈsev.ɚ.əl/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "more than a few, but not many",
+        "ptDefinition": "alguns/-umas, vários/-ias, diversos/-sas",
+        "examples": [
+          {
+            "enExample": "Several people left.",
+            "ptExample": "Várias pessoas saíram."
+          },
+          {
+            "enExample": "I knocked several times.",
+            "ptExample": "Bati diversas vezes."
+          },
+          {
+            "enExample": "Several more birds appeared.",
+            "ptExample": "Vários outros pássaros apareceram."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "share the credit",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to acknowledge someone else's contribution; to share with somebody else recognition for a job well done",
+        "examples": [
+          {
+            "enExample": "Thank you for giving me the award for coming up with the best new product idea this year. But I really need to share the credit with my colleagues in the marketing department.",
+            "ptExample": "Obrigado por me conceder o prêmio de melhor ideia de novo produto deste ano. Mas preciso compartilhar o mérito com meus colegas do departamento de marketing."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "sign on new customers or members",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to enlist new customers; to get customers to open an account or take a membership",
+        "examples": [
+          {
+            "enExample": "The fitness center was able to sign on 300 new members in May thanks to their successful advertising campaign.",
+            "ptExample": "O centro de fitness conseguiu conquistar 300 novos membros em maio graças à sua bem-sucedida campanha publicitária."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "slippery slope",
+        "phonetics": "ˈslɪpəri sloʊp",
+        "partOfSpeech": "noun",
+        "enDefinition": "a situation or course of action that is difficult to stop once started and tends to lead to worse or more extreme outcomes",
+        "ptDefinition": "uma situação ou curso de ação difícil de parar uma vez iniciado e que tende a levar a piores ou mais extremos resultados",
+        "examples": [
+          {
+            "enExample": "Introducing censorship can lead to a slippery slope of losing freedom of speech.",
+            "ptExample": "Introduzir a censura pode levar a um declive perigoso de perda da liberdade de expressão."
+          },
+          {
+            "enExample": "Skipping one workout might put you on a slippery slope to abandoning your fitness routine altogether.",
+            "ptExample": "Pular um treino pode colocá-lo em um declive perigoso de abandonar completamente sua rotina de exercícios."
+          },
+          {
+            "enExample": "Allowing exceptions to the rule creates a slippery slope that undermines its purpose.",
+            "ptExample": "Permitir exceções à regra cria um declive perigoso que compromete seu propósito."
+          }
+        ],
+        "synonyms": ["domino effect", "chain reaction", "downward spiral"],
+        "antonyms": ["stable path", "firm ground", "safe course"],
+        "seeAlso": ["snowball effect", "cascade"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used in arguments to warn against the potential dangers of a seemingly small decision.",
+            "ptNote": "Esta expressão é frequentemente usada em argumentos para alertar contra os perigos potenciais de uma decisão aparentemente pequena."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "spindle",
+        "phonetics": "/ˈspɪndl/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a rod or pin used in spinning to twist fibers into thread, or a part of a machine that rotates",
+        "ptDefinition": "uma haste ou pino usado na fiação para torcer fibras em fios, ou uma parte de uma máquina que gira; roca",
+        "examples": [
+          {
+            "enExample": "The spindle of the sewing machine rotates rapidly.",
+            "ptExample": "O eixo da máquina de costura gira rapidamente."
+          },
+          {
+            "enExample": "The craftsman used a spindle to create fine threads.",
+            "ptExample": "O artesão usou um fuso para criar fios finos."
+          }
+        ],
+        "synonyms": ["rod", "shaft", "axle", "pin"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "stem cell",
+        "phonetics": "/ˈstem ˌsel/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a cell, especially one taken from a person or animal in a very early stage of development, that can develop into any other type of cell",
+        "ptDefinition": "célula-tronco"
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "stocking stuffer",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a small gift at Christmas time",
+        "ptDefinition": "um pequeno presente na época do Natal; lembrancinhas",
+        "examples": [
+          {
+            "enExample": "These new mini travel pillows will make great stocking stuffers!",
+            "ptExample": "Esses novos mini travesseiros de viagem são perfeitos para encher as meias de Natal."
+          }
+        ],
+        "notes": [
+          {
+            "enNote": "This expression comes from the practice of kids hanging up stockings that Santa Claus fills (or \"stuffs\") with small gifts."
+          },
+          {
+            "ptNote": "Esta expressão vem da prática das crianças pendurarem meias que o Papai Noel enche (ou \"recheia\") com pequenos presentes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "suddenly",
+        "phonetics": "/ˈsʌd.ən.li/",
+        "partOfSpeech": "adverb",
+        "enDefinition": "quickly and unexpectedly",
+        "ptDefinition": "de forma rápida e inesperada",
+        "examples": [
+          {
+            "enExample": "Suddenly, the lights went out, and the room was pitch black.",
+            "ptExample": "De repente, as luzes se apagaram e o quarto ficou completamente escuro."
+          },
+          {
+            "enExample": "The car stopped suddenly, avoiding a collision.",
+            "ptExample": "O carro parou de repente, evitando uma colisão."
+          }
+        ],
+        "synonyms": ["abruptly", "unexpectedly", "instantaneously"],
+        "antonyms": ["gradually", "slowly"],
+        "seeAlso": ["immediately", "abruptly"],
+        "notes": [
+          {
+            "enNote": "Often used to describe an action that occurs without warning.",
+            "ptNote": "Frequentemente usado para descrever uma ação que ocorre sem aviso prévio."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "swamped",
+        "phonetics": "swɑmpt",
+        "partOfSpeech": "adjective",
+        "enDefinition": "overwhelmed with tasks, responsibilities, or work, often to the point of being unable to manage everything",
+        "ptDefinition": "sobrecarregado com tarefas, responsabilidades ou trabalho, frequentemente a ponto de não conseguir administrar tudo",
+        "examples": [
+          {
+            "enExample": "I’m swamped with work right now; I can’t take on any more projects.",
+            "ptExample": "Estou sobrecarregado de trabalho agora; não posso aceitar mais projetos."
+          },
+          {
+            "enExample": "She's swamped with meetings this week, so she can't attend the conference.",
+            "ptExample": "Ela está sobrecarregada com reuniões esta semana, então não pode comparecer à conferência."
+          }
+        ],
+        "synonyms": ["overwhelmed", "buried", "flooded"],
+        "antonyms": ["unoccupied", "free", "relaxed"],
+        "notes": [
+          {
+            "enNote": "This term is often used in professional or work contexts to describe a situation where someone has too much to do.",
+            "ptNote": "Este termo é frequentemente usado em contextos profissionais ou de trabalho para descrever uma situação em que alguém tem muitas coisas para fazer."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "synthetic",
+        "phonetics": "/sɪnˈθet̬.ɪk/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "Synthetic products are made from artificial substances, often copying a natural product.",
+        "ptDefinition": "sintético",
+        "examples": [
+          {
+            "enExample": "synthetic fibres",
+            "ptExample": "fibras sintéticas"
+          }
+        ]
+      }
+    ]
+  }
+]

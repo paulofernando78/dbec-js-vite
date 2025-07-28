@@ -1,0 +1,536 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "fall guy",
+        "phonetics": "/ˈfɔːl ɡaɪ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a person who is blamed for something that has gone wrong, especially when it is not their fault",
+        "ptDefinition": "uma pessoa que é culpada por algo que deu errado, especialmente quando não é culpa dela",
+        "examples": [
+          {
+            "enExample": "He was the fall guy for the company's financial scandal.",
+            "ptExample": "Ele foi o bode expiatório para o escândalo financeiro da empresa."
+          },
+          {
+            "enExample": "They needed a fall guy to take the blame for the failed project.",
+            "ptExample": "Eles precisavam de um bode expiatório para levar a culpa pelo projeto fracassado."
+          }
+        ],
+        "synonyms": ["scapegoat", "patsy", "victim"],
+        "antonyms": ["culprit", "perpetrator"],
+        "notes": [
+          {
+            "enNote": "The term 'fall guy' is often used in contexts where someone is unfairly blamed for the mistakes or wrongdoings of others.",
+            "ptNote": "O termo 'bode expiatório' é frequentemente usado em contextos onde alguém é injustamente culpado pelos erros ou malfeitos de outros."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "figure out",
+        "phonetics": "/ˈfɪɡ.jər aʊt/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to understand or solve something",
+        "ptDefinition": "entender ou resolver algo",
+        "examples": [
+          {
+            "enExample": "I can't figure out how to do this math problem.",
+            "ptExample": "Não consigo entender como resolver este problema de matemática."
+          },
+          {
+            "enExample": "She figured out a way to make the project work.",
+            "ptExample": "Ela descobriu uma maneira de fazer o projeto funcionar."
+          }
+        ],
+        "synonyms": ["solve", "understand", "comprehend"],
+        "antonyms": ["misunderstand", "confuse"],
+        "seeAlso": "work out",
+        "notes": [
+          {
+            "enNote": "This phrasal verb is commonly used in informal contexts.",
+            "ptNote": "Este verbo frasal é comumente usado em contextos informais."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "frustrated",
+        "phonetics": "/ˈfrʌs.treɪ.tɪd/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "feeling or expressing distress and annoyance resulting from an inability to change or achieve something",
+        "ptDefinition": "sentindo ou expressando angústia e irritação resultantes da incapacidade de mudar ou alcançar algo",
+        "examples": [
+          {
+            "enExample": "He felt frustrated by his lack of progress.",
+            "ptExample": "Ele se sentiu frustrado pela falta de progresso."
+          },
+          {
+            "enExample": "She was frustrated with the slow internet connection.",
+            "ptExample": "Ela estava frustrada com a conexão lenta da internet."
+          }
+        ],
+        "synonyms": ["annoyed", "disappointed", "disheartened"],
+        "antonyms": ["content", "satisfied", "pleased"],
+        "seeAlso": "frustrate",
+        "notes": [
+          {
+            "enNote": "The adjective 'frustrated' is often used to describe a feeling of being blocked or hindered in one's efforts.",
+            "ptNote": "O adjetivo 'frustrado' é frequentemente usado para descrever um sentimento de estar bloqueado ou impedido em seus esforços."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "frustrate",
+        "phonetics": "/ˈfrʌs.treɪt/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to cause someone to feel upset or annoyed, typically as a result of being unable to change or achieve something",
+        "ptDefinition": "causar a alguém sentir-se chateado ou irritado, tipicamente como resultado de não conseguir mudar ou alcançar algo",
+        "examples": [
+          {
+            "enExample": "The delays in the project frustrated the team.",
+            "ptExample": "Os atrasos no projeto frustraram a equipe."
+          },
+          {
+            "enExample": "She was frustrated by her inability to find a job.",
+            "ptExample": "Ela estava frustrada por sua incapacidade de encontrar um emprego."
+          }
+        ],
+        "synonyms": ["annoy", "irritate", "exasperate"],
+        "antonyms": ["satisfy", "please", "delight"],
+        "seeAlso": "frustration",
+        "notes": [
+          {
+            "enNote": "The verb 'frustrate' is often used when someone feels blocked or hindered in their efforts.",
+            "ptNote": "O verbo 'frustrar' é frequentemente usado quando alguém se sente bloqueado ou impedido em seus esforços."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "fly",
+        "phonetics": "/flaɪ/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to move through the air using wings",
+        "ptDefinition": "mover-se pelo ar usando asas; voar",
+        "examples": [
+          {
+            "enExample": "Birds fly south for the winter.",
+            "ptExample": "Os pássaros voam para o sul no inverno."
+          },
+          {
+            "enExample": "She learned to fly a plane.",
+            "ptExample": "Ela aprendeu a pilotar um avião."
+          }
+        ],
+        "synonyms": ["soar", "glide", "hover"],
+        "antonyms": ["land", "fall"],
+        "seeAlso": "flight"
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "find",
+        "phonetics": "/faɪnd/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to discover or perceive by chance or unexpectedly",
+        "ptDefinition": "descobrir ou perceber por acaso ou inesperadamente",
+        "examples": [
+          {
+            "enExample": "I happened to find a rare coin in the attic.",
+            "ptExample": "Eu encontrei uma moeda rara no sótão por acaso."
+          },
+          {
+            "enExample": "She found her keys in the kitchen.",
+            "ptExample": "Ela encontrou suas chaves na cozinha."
+          }
+        ],
+        "synonyms": ["discover", "locate", "uncover"],
+        "antonyms": ["lose", "misplace"],
+        "seeAlso": "discover",
+        "notes": [
+          {
+            "enNote": "The verb 'find' can be used in various contexts, including discovering something by chance or searching for something specific.",
+            "ptNote": "O verbo 'encontrar' pode ser usado em vários contextos, incluindo descobrir algo por acaso ou procurar algo específico."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "face the music",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to accept and deal with the consequences of one's actions, especially when they are negative",
+        "ptDefinition": "aceitar e lidar com as consequências de suas ações, especialmente quando são negativas",
+        "examples": [
+          {
+            "enExample": "After making such a big mistake, he had no choice but to face the music.",
+            "ptExample": "Depois de cometer um erro tão grande, ele não teve outra escolha senão encarar as consequências."
+          },
+          {
+            "enExample": "The employees knew they would have to face the music for missing the deadline.",
+            "ptExample": "Os funcionários sabiam que teriam que lidar com as consequências por não cumprirem o prazo."
+          }
+        ],
+        "synonyms": ["accept consequences", "take responsibility", "own up"],
+        "antonyms": ["avoid blame", "escape responsibility", "deny"],
+        "seeAlso": "",
+        "notes": [
+          {
+            "enNote": "This idiom is often used when someone must confront a difficult or unpleasant situation as a result of their actions."
+          },
+          {
+            "ptNote": "Este idiom é frequentemente usado quando alguém precisa enfrentar uma situação difícil ou desagradável como resultado de suas ações."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "freebie",
+        "phonetics": "/ˈfriːbi/",
+        "partOfSpeech": "noun",
+        "enDefinition": "something that is given for free, often as a promotional item or gift",
+        "ptDefinition": "algo que é dado gratuitamente, geralmente como um item promocional ou presente",
+        "examples": [
+          {
+            "enExample": "They handed out freebies to customers at the grand opening of the store.",
+            "ptExample": "Eles distribuíram brindes para os clientes na inauguração da loja."
+          },
+          {
+            "enExample": "Many websites offer freebies to attract new users or subscribers.",
+            "ptExample": "Muitos sites oferecem brindes para atrair novos usuários ou assinantes."
+          }
+        ],
+        "synonyms": ["gift", "giveaway", "promotional item"],
+        "antonyms": ["purchase", "buy", "charge"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "for starters",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to introduce the first item in a list or sequence of points or ideas",
+        "ptDefinition": "usado para introduzir o primeiro ponto ou item em uma lista ou sequência de ideias",
+        "examples": [
+          {
+            "enExample": "For starters, we need to address the budget issue before moving on to other topics.",
+            "ptExample": "Para começar, precisamos resolver a questão do orçamento antes de passar para outros tópicos."
+          }
+        ],
+        "synonyms": ["first of all", "to begin with"],
+        "notes": [
+          {
+            "ptNote": "The phrase is often used when listing reasons or steps in an argument or plan."
+          },
+          {
+            "enNote": "A expressão é frequentemente usada ao listar razões ou etapas em um argumento ou plano."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "fast followers",
+        "partOfSpeech": "noun",
+        "enDefinition": "companies or individuals who quickly adopt innovations or trends after they have been proven successful by early adopters",
+        "ptDefinition": "empresas ou indivíduos que adotam rapidamente inovações ou tendências após elas terem sido comprovadas como bem-sucedidas pelos primeiros adotantes",
+        "examples": [
+          {
+            "enExample": "Many tech companies are fast followers, adopting new technologies after seeing their success with early adopters.",
+            "ptExample": "Muitas empresas de tecnologia são seguidoras rápidas, adotando novas tecnologias após verem o sucesso delas com os primeiros adotantes."
+          },
+          {
+            "enExample": "The fashion industry is full of fast followers, quickly bringing new styles to the market after they are popularized by influencers.",
+            "ptExample": "A indústria da moda está cheia de seguidoras rápidas, trazendo novas tendências para o mercado depois de serem popularizadas por influenciadores."
+          }
+        ],
+        "synonyms": ["copycats", "imitators", "trend followers"],
+        "antonyms": ["early adopters", "innovators"],
+        "notes": [
+          {
+            "enNote": "The term \"fast follower\" often carries a connotation of being reactive rather than proactive in adopting new ideas."
+          },
+          {
+            "ptNote": "O termo \"fast follower\" costuma carregar a conotação de ser reativo em vez de proativo ao adotar novas ideias."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "(just) for the record",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to clarify or emphasize a fact, often to ensure there is no misunderstanding",
+        "ptDefinition": "usado para esclarecer ou enfatizar um fato, geralmente para evitar mal-entendidos",
+        "examples": [
+          {
+            "enExample": "Just for the record, I never agreed to those terms.",
+            "ptExample": "Só para deixar claro, eu nunca concordei com esses termos."
+          },
+          {
+            "enExample": "Just for the record, the project deadline is next Friday, not this Friday.",
+            "ptExample": "Só para constar, o prazo do projeto é na próxima sexta, não nesta."
+          }
+        ],
+        "synonyms": ["for clarity", "to be clear", "let it be known"],
+        "antonyms": ["ambiguous", "unclear", "uncertain"],
+        "notes": [
+          {
+            "enNote": "Often used in conversations or formal statements to ensure accurate understanding of a point."
+          },
+          {
+            "ptnote": "Frequentemente usado em conversas ou declarações formais para garantir a compreensão precisa de um ponto."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "fine-tune",
+        "phonetics": "faɪn-tun",
+        "partOfSpeech": "verb",
+        "enDefinition": "to make small and precise adjustments to improve something, such as a system, plan, or product, so it works perfectly",
+        "ptDefinition": "fazer ajustes pequenos e precisos para melhorar algo, como um sistema, plano ou produto, para que funcione perfeitamente",
+        "examples": [
+          {
+            "enExample": "We need to fine-tune the presentation before showing it to the investors.",
+            "ptExample": "Precisamos ajustar os detalhes da apresentação antes de mostrá-la aos investidores."
+          },
+          {
+            "enExample": "The engineer spent hours fine-tuning the machine to ensure it operated at peak efficiency.",
+            "ptExample": "O engenheiro passou horas ajustando a máquina para garantir que operasse com eficiência máxima."
+          }
+        ],
+        "synonyms": ["adjust", "refine", "tweak", "optimize"],
+        "antonyms": ["neglect", "worsen", "overlook"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used in technical, creative, or professional contexts when precision is essential."
+          },
+          {
+            "ptNote": "Esta expressão é frequentemente usada em contextos técnicos, criativos ou profissionais quando a precisão é essencial."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "flesh out something",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to add more detail, substance, or development to an idea, plan, or concept, often to make it more complete or well-rounded",
+        "ptDefinition": "adicionar mais detalhes, substância ou desenvolvimento a uma ideia, plano ou conceito, geralmente para torná-lo mais completo ou consistente",
+        "examples": [
+          {
+            "enExample": "The initial proposal was just a rough outline, but we need to flesh it out before presenting it to the client.",
+            "ptExample": "A proposta inicial era apenas um esboço, mas precisamos detalhá-la antes de apresentá-la ao cliente."
+          }
+        ],
+        "synonyms": ["develop", "expand", "elaborate", "refine"],
+        "antonyms": ["simplify", "abbreviate", "shorten", "condense"],
+        "notes": [
+          {
+            "enNote": "This phrase is commonly used when referring to developing a concept, project, or plan further, especially in creative or business contexts."
+          },
+          {
+            "ptNote": "Esta expressão é comumente usada ao se referir ao desenvolvimento de um conceito, projeto ou plano, especialmente em contextos criativos ou de negócios."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "faux pas",
+        "phonetics": "/ˌfoʊ ˈpɑː/",
+        "partOfSpeech": "noun",
+        "enDefinition": "an action or a remark that causes somebody to feel embarrassed because it is not socially correct",
+        "ptDefinition": "uma ação ou comentário que faz alguém se sentir constrangido porque não é socialmente correto",
+        "examples": [
+          {
+            "enExample": "I made some remark about his wife's family, and then realized I'd made a serious faux pas.",
+            "ptExample": "Fiz um comentário sobre a família da esposa dele e, em seguida, percebi que cometi uma gafe séria."
+          }
+        ],
+        "synonyms": ["gaffe", "slip"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "face the music",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to admit that there's a problem; to deal with an unpleasant situation realistically",
+        "ptDefinition": "admitir que há um problema; lidar com uma situação desagradável de forma realista",
+        "examples": [
+          {
+            "enExample": "Enron executives finally had to face the music and admit that they were involved in some illegal activities.",
+            "ptExample": "Os executivos da Enron finalmente tiveram que encarar a realidade e admitir que estavam envolvidos em algumas atividades ilegais."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "fast track a project",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to make a project a high priority; to speed up the time frame of a project",
+        "ptDefinition": "dar alta prioridade a um projeto; acelerar o cronograma de um projeto",
+        "examples": [
+          {
+            "enExample": "Let's fast track this project. We've heard rumors that our competitors are developing similar products.",
+            "ptExample": "Vamos acelerar este projeto. Ouvimos rumores de que nossos concorrentes estão desenvolvendo produtos semelhantes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "feel like",
+        "partOfSpeech": "verbal expression",
+        "ptDefinition": "sentir-se como",
+        "examples": [
+          {
+            "enExample": "I feel like a princess in this beautiful dress.",
+            "ptExample": "Eu me sinto como uma princesa neste lindo vestido."
+          },
+          {
+            "enExample": "He felt like an idiot (= He felt very foolish).",
+            "ptExample": "Ele se sentiu como um idiota (= Ele se sentiu muito tolo)."
+          }
+        ]
+      },
+      {
+        "ptDefinition": "ter vontade, apetecer",
+        "examples": [
+          {
+            "enExample": "I feel like a drink.",
+            "ptExample": "Estou com vontade de beber."
+          },
+          {
+            "enExample": "[+ing] I feel like drinking something.",
+            "ptExample": "Estou com vontade de beber algo."
+          },
+          {
+            "enExample": "[+ing] Do you feel like going to the movies?",
+            "ptExample": "Você está a fim de ir ao cinema?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "fetus",
+        "phonetics": "/ˈfiː.t̬əs/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a young human being or animal before birth, after the organs have started to develop",
+        "ptDefinition": "feto",
+        "examples": [
+          {
+            "enExample": "The ultrasound showed that the fetus was developing normally.",
+            "ptExample": "O ultrassom mostrou que o feto estava se desenvolvendo normalmente."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "focus",
+        "phonetics": "/ˈfoʊ.kəs/",
+        "partOfSpeech": "noun",
+        "ptDefinition": "foco",
+        "examples": [
+          {
+            "enExample": "I think Dave likes to be the focus of attention.",
+            "ptExample": "Acho que o Dave gosta de ser o centro das atenções."
+          }
+        ],
+        "synonyms": [
+          "concentration",
+          "attention",
+          "center",
+          "spotlight",
+          "limelight"
+        ]
+      },
+      {
+        "word": "focus",
+        "phonetics": "/ˈfoʊ.kəs/",
+        "partOfSpeech": "regular verb",
+        "ptDefinition": "focar, focalizar",
+        "examples": [
+          {
+            "enExample": "You need to focus the camera.",
+            "ptExample": "Você precisa focar a câmera."
+          }
+        ],
+        "synonyms": ["adjust"]
+      },
+      {
+        "ptDefinition": "concentrar",
+        "examples": [
+          {
+            "enExample": "Focus your attention on what is important",
+            "ptExample": "Concentre sua atenção no que é importante."
+          }
+        ],
+        "synonyms": ["concentrate"]
+      }
+    ]
+  },
+
+  {
+    "definitions": [
+      {
+        "word": "freebie",
+        "partOfSpeech": "slang",
+        "enDefinition": "a free thing; something that is given away for free, usually as part of a promotional campaign",
+        "examples": [
+          {
+            "enExample": "Example: Yoplait got lots of people to \"like\" its Facebook page by giving away freebies, including a free cup of yogurt.",
+            "ptExample": "Exemplo: A Yoplait conseguiu que muitas pessoas \"curtissem\" sua página no Facebook ao oferecer brindes, incluindo um copo de iogurte grátis."
+          }
+        ]
+      }
+    ]
+  }
+]

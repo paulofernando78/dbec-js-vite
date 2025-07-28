@@ -1,0 +1,992 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "the name of the game",
+        "partOfSpeech": "idiom",
+        "enDefinition": "the most important aspect or main purpose of an activity or situation",
+        "ptDefinition": "o aspecto mais importante ou objetivo principal de uma atividade ou situação",
+        "examples": [
+          {
+            "enExample": "In business, making a profit is the name of the game.",
+            "ptExample": "Nos negócios, obter lucro é o objetivo principal."
+          },
+          {
+            "enExample": "Speed is the name of the game in this competition.",
+            "ptExample": "Velocidade é o que mais importa nesta competição."
+          }
+        ],
+        "synonyms": ["main point", "key aspect", "crucial element"],
+        "antonyms": ["minor detail", "secondary aspect"],
+        "seeAlso": ["bottom line", "key factor"],
+        "notes": [
+          {
+            "enNote": "This idiom emphasizes what is most essential or crucial in a particular situation.",
+            "ptNote": "Este idiom enfatiza o que é mais essencial ou crucial em uma determinada situação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "the lesser of two evils",
+        "partOfSpeech": "idiom",
+        "enDefinition": "the less unpleasant or undesirable of two poor choices or possibilities",
+        "ptDefinition": "a opção menos desagradável ou indesejável entre duas escolhas ruins ou possibilidades",
+        "examples": [
+          {
+            "enExample": "Neither candidate was ideal, but we had to choose the lesser of two evils.",
+            "ptExample": "Nenhum dos candidatos era ideal, mas tivemos que escolher o menor dos males."
+          },
+          {
+            "enExample": "Taking the longer route was the lesser of two evils compared to sitting in traffic for hours.",
+            "ptExample": "Tomar o caminho mais longo era o menor dos males comparado a ficar preso no trânsito por horas."
+          }
+        ],
+        "synonyms": ["better option", "better choice", "better alternative"],
+        "antonyms": ["win-win situation", "ideal choice"],
+        "seeAlso": ["catch-22", "dilemma"],
+        "notes": [
+          {
+            "enNote": "This idiom is used when someone must choose between two undesirable options.",
+            "ptNote": "Este idiom é usado quando alguém deve escolher entre duas opções indesejáveis."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "track something down",
+        "phonetics": "/træk ˈsʌmθɪŋ daʊn/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to find someone or something after a thorough or difficult search",
+        "ptDefinition": "encontrar alguém ou algo após uma busca minuciosa ou difícil",
+        "examples": [
+          {
+            "enExample": "It took me weeks to track down the book I needed for my research.",
+            "ptExample": "Demorei semanas para encontrar o livro que precisava para minha pesquisa."
+          },
+          {
+            "enExample": "The police managed to track down the suspect after a long investigation.",
+            "ptExample": "A polícia conseguiu localizar o suspeito após uma longa investigação."
+          }
+        ],
+        "synonyms": ["locate", "find", "discover"],
+        "antonyms": ["lose", "miss", "overlook"],
+        "seeAlso": ["hunt down", "search for"],
+        "notes": [
+          {
+            "enNote": "This phrasal verb is often used when the search is challenging or requires significant effort.",
+            "ptNote": "Este phrasal verb é frequentemente usado quando a busca é desafiadora ou requer um esforço significativo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "talk someone into something",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to persuade someone to do something, often by using arguments or reasoning",
+        "ptDefinition": "persuadir alguém a fazer algo, geralmente usando argumentos ou raciocínio",
+        "examples": [
+          {
+            "enExample": "He talked her into going to the party even though she didn't feel like it.",
+            "ptExample": "Ele a convenceu a ir à festa, mesmo que ela não estivesse com vontade."
+          },
+          {
+            "enExample": "They talked him into joining the team despite his initial reluctance.",
+            "ptExample": "Eles o convenceram a entrar para o time, apesar de sua relutância inicial."
+          }
+        ],
+        "synonyms": ["persuade", "convince", "coax"],
+        "antonyms": ["dissuade", "discourage", "talk out of"],
+        "seeAlso": ["coax", "convince"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used when someone is convinced to do something they were initially hesitant about.",
+            "ptNote": "Este idiom é frequentemente usado quando alguém é convencido a fazer algo sobre o qual estava inicialmente hesitante."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "team player",
+        "phonetics": "/tiːm ˈpleɪ.ɚ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a person who works well as a member of a team or group, often putting the team's goals and needs above their own",
+        "ptDefinition": "uma pessoa que trabalha bem como membro de uma equipe ou grupo, frequentemente colocando os objetivos e necessidades da equipe acima dos seus próprios",
+        "examples": [
+          {
+            "enExample": "She is a great team player and always helps her colleagues.",
+            "ptExample": "Ela é uma ótima jogadora de equipe e sempre ajuda seus colegas."
+          },
+          {
+            "enExample": "Being a team player is essential for success in this company.",
+            "ptExample": "Ser um jogador de equipe é essencial para o sucesso nesta empresa."
+          }
+        ],
+        "synonyms": ["collaborator", "cooperator", "team member"],
+        "antonyms": ["individualist", "lone wolf", "soloist"],
+        "seeAlso": ["teamwork", "collaboration"],
+        "notes": [
+          {
+            "enNote": "A team player is often valued for their ability to work harmoniously with others and contribute to the group's success.",
+            "ptNote": "Um jogador de equipe é frequentemente valorizado por sua capacidade de trabalhar harmoniosamente com os outros e contribuir para o sucesso do grupo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "the issue at hand",
+        "partOfSpeech": "idiom",
+        "enDefinition": "the current topic or problem being discussed or considered",
+        "ptDefinition": "o tópico ou problema atual sendo discutido ou considerado",
+        "examples": [
+          {
+            "enExample": "Let's focus on the issue at hand and not get distracted by other matters.",
+            "ptExample": "Vamos nos concentrar no problema atual e não nos distrair com outras questões."
+          },
+          {
+            "enExample": "The meeting was called to address the issue at hand, which is the budget deficit.",
+            "ptExample": "A reunião foi convocada para tratar do problema atual, que é o déficit orçamentário."
+          }
+        ],
+        "synonyms": ["current issue", "present matter", "topic of discussion"],
+        "antonyms": ["irrelevant issue", "unrelated matter"],
+        "seeAlso": ["current topic", "focus"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to bring attention back to the main subject of discussion.",
+            "ptNote": "Este idiom é frequentemente usado para trazer a atenção de volta ao assunto principal da discussão."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "put it lightly",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to express or describe something in a way that lessens or mitigates its scale, scope, or significance",
+        "ptDefinition": "expressar ou descrever algo de uma maneira que reduza ou mitigue sua escala, alcance ou significado",
+        "examples": [
+          {
+            "enExample": "Saying the weather is a bit chilly is putting it lightly; it's freezing outside!",
+            "ptExample": "Dizer que o tempo está um pouco frio é um eufemismo; está congelando lá fora!"
+          },
+          {
+            "enExample": "Calling the project challenging is putting it lightly; it was nearly impossible to complete.",
+            "ptExample": "Chamar o projeto de desafiador é um eufemismo; foi quase impossível de completar."
+          }
+        ],
+        "synonyms": ["understatement", "downplay", "minimize"],
+        "antonyms": ["exaggerate", "overstate", "amplify"],
+        "seeAlso": ["understate", "soft-pedal"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to emphasize that the actual situation is much more intense or serious than described.",
+            "ptNote": "Este idiom é frequentemente usado para enfatizar que a situação real é muito mais intensa ou séria do que descrita."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "the (definite article)",
+        "phonetics": "/ðə, ðiː/",
+        "partOfSpeech": "definite article",
+        "enDefinition": "used to specify or make particular a noun that is already known or has been previously mentioned",
+        "ptDefinition": "usado para especificar ou tornar particular um substantivo que já é conhecido ou foi mencionado anteriormente",
+        "examples": [
+          {
+            "enExample": "The cat sat on the mat.",
+            "ptExample": "O gato sentou no tapete."
+          },
+          {
+            "enExample": "She went to the store.",
+            "ptExample": "Ela foi à loja."
+          }
+        ],
+        "synonyms": ["this", "that", "these", "those"],
+        "seeAlso": ["a", "an"],
+        "notes": [
+          {
+            "enNote": "The definite article 'the' is used before singular and plural nouns when the noun is specific or particular.",
+            "ptNote": "O artigo definido 'the' é usado antes de substantivos singulares e plurais quando o substantivo é específico ou particular."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "thankful",
+        "phonetics": "/ˈθæŋkfəl/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "feeling or expressing gratitude; appreciative",
+        "ptDefinition": "sentindo ou expressando gratidão; agradecido",
+        "examples": [
+          {
+            "enExample": "She was thankful for the support of her friends.",
+            "ptExample": "Ela estava agradecida pelo apoio de seus amigos."
+          },
+          {
+            "enExample": "We are thankful for the opportunity to be here.",
+            "ptExample": "Estamos agradecidos pela oportunidade de estar aqui."
+          }
+        ],
+        "synonyms": ["grateful", "appreciative", "obliged"],
+        "antonyms": ["ungrateful", "thankless", "unappreciative"],
+        "seeAlso": ["gratitude", "appreciation"],
+        "notes": [
+          {
+            "enNote": "Being thankful often involves recognizing and appreciating the positive aspects of one's life.",
+            "ptNote": "Ser agradecido frequentemente envolve reconhecer e apreciar os aspectos positivos da vida."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "tire",
+        "phonetics": "/taɪər/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to lose energy and feel that you need to rest",
+        "ptDefinition": "perder energia e sentir que precisa descansar",
+        "examples": [
+          {
+            "enExample": "After running for an hour, she began to tire.",
+            "ptExample": "Depois de correr por uma hora, ela começou a se cansar."
+          },
+          {
+            "enExample": "He tires easily after his illness.",
+            "ptExample": "Ele se cansa facilmente após a doença."
+          }
+        ],
+        "synonyms": ["weary", "exhaust", "fatigue"],
+        "antonyms": ["energize", "refresh", "invigorate"],
+        "seeAlso": ["fatigue", "wear out"],
+        "notes": [
+          {
+            "enNote": "The verb 'tire' is often used to describe the process of becoming physically or mentally exhausted.",
+            "ptNote": "O verbo 'tire' é frequentemente usado para descrever o processo de se tornar fisicamente ou mentalmente exausto."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "thoughtful",
+        "phonetics": "/ˈθɔːtfəl/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "engaged in or involving deep or serious thought",
+        "ptDefinition": "envolvido em ou envolvendo pensamento profundo ou sério; pensativo",
+        "examples": [
+          {
+        "enExample": "He looked thoughtful as he pondered the question.",
+        "ptExample": "Ele parecia pensativo enquanto ponderava a questão."
+          },
+          {
+        "enExample": "Her thoughtful expression indicated she was considering all options.",
+        "ptExample": "Sua expressão pensativa indicava que ela estava considerando todas as opções."
+          }
+        ],
+        "synonyms": ["reflective", "pensive", "contemplative", "meditative"],
+        "antonyms": ["unreflective", "thoughtless", "careless"],
+        "seeAlso": ["reflection", "meditation"],
+        "notes": [
+          {
+        "enNote": "Being thoughtful often involves taking time to consider various aspects of a situation.",
+        "ptNote": "Ser pensativo frequentemente envolve dedicar tempo para considerar vários aspectos de uma situação."
+          }
+        ]
+      },
+      {
+        "enDefinition": "Showing consideration for the needs of other people",
+        "ptDefinition": "Mostrando consideração pelas necessidades de outras pessoas; atencioso, cuidadoso",
+        "examples": [
+          {
+            "enExample": "She gave a thoughtful gift to her friend.",
+            "ptExample": "Ela deu um presente atencioso para sua amiga."
+          },
+          {
+            "enExample": "His thoughtful comments were appreciated by everyone.",
+            "ptExample": "Seus comentários atenciosos foram apreciados por todos."
+          }
+        ],
+        "synonyms": ["considerate", "attentive", "kind", "caring"],
+        "antonyms": ["thoughtless", "inconsiderate", "selfish"],
+        "seeAlso": ["consideration", "kindness"],
+        "notes": [
+          {
+            "enNote": "Being thoughtful often involves empathy and understanding of others' feelings.",
+            "ptNote": "Ser atencioso frequentemente envolve empatia e compreensão dos sentimentos dos outros."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "tired",
+        "phonetics": "/ˈtaɪərd/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "in need of sleep or rest; weary",
+        "ptDefinition": "necessitando de sono ou descanso; cansado",
+        "examples": [
+          {
+            "enExample": "She felt tired after a long day at work.",
+            "ptExample": "Ela se sentiu cansada após um longo dia de trabalho."
+          },
+          {
+            "enExample": "He was too tired to continue the hike.",
+            "ptExample": "Ele estava muito cansado para continuar a caminhada."
+          }
+        ],
+        "synonyms": ["weary", "exhausted", "fatigued", "sleepy"],
+        "antonyms": ["energetic", "rested", "alert"],
+        "seeAlso": ["weariness", "exhaustion"],
+        "notes": [
+          {
+            "enNote": "Feeling tired can be a result of physical exertion, lack of sleep, or mental stress.",
+            "ptNote": "Sentir-se cansado pode ser resultado de esforço físico, falta de sono ou estresse mental."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "team spirit",
+        "phonetics": "/tiːm ˈspɪrɪt/",
+        "partOfSpeech": "noun",
+        "enDefinition": "the feeling of friendship and cooperation among members of a group, especially when working together towards a common goal",
+        "ptDefinition": "o sentimento de amizade e cooperação entre membros de um grupo, especialmente ao trabalharem juntos em direção a um objetivo comum",
+        "examples": [
+          {
+            "enExample": "The team's spirit was incredible during the competition, with everyone helping each other to succeed.",
+            "ptExample": "O espírito de equipe foi incrível durante a competição, com todos ajudando uns aos outros a ter sucesso."
+          },
+          {
+            "enExample": "Good team spirit is essential for achieving long-term success in any organization.",
+            "ptExample": "Um bom espírito de equipe é essencial para alcançar o sucesso a longo prazo em qualquer organização."
+          }
+        ],
+        "synonyms": ["collaboration", "camaraderie", "unity", "solidarity"],
+        "antonyms": ["individualism", "selfishness", "discord"],
+        "seeAlso": ["teamwork", "cooperation", "group dynamics"],
+        "notes": [
+          {
+            "enNote": "Team spirit is often considered a key factor in achieving success within teams and organizations, as it encourages cooperation and mutual support.",
+            "ptNote": "O espírito de equipe é frequentemente considerado um fator-chave para alcançar o sucesso dentro de equipes e organizações, pois incentiva a cooperação e o apoio mútuo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "turn around one's business",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to improve or change the direction of a business or organization that is struggling or underperforming, typically by implementing new strategies or making major adjustments",
+        "ptDefinition": "melhorar ou mudar a direção de um negócio ou organização que está lutando ou tendo um desempenho insatisfatório, geralmente por meio da implementação de novas estratégias ou fazendo ajustes importantes",
+        "examples": [
+          {
+            "enExample": "After months of low sales, the company decided to turn around its business by launching a new marketing campaign.",
+            "ptExample": "Depois de meses de vendas baixas, a empresa decidiu reverter o seu negócio lançando uma nova campanha de marketing."
+          },
+          {
+            "enExample": "With a fresh approach and new leadership, the company was able to turn around its business within a year.",
+            "ptExample": "Com uma abordagem nova e uma nova liderança, a empresa conseguiu reverter o seu negócio em um ano."
+          }
+        ],
+        "synonyms": [
+          "revitalize",
+          "restore",
+          "improve",
+          "recover",
+          "bounce back"
+        ],
+        "antonyms": ["decline", "deteriorate", "fail", "struggle"],
+        "seeAlso": [
+          "business turnaround",
+          "business recovery",
+          "corporate strategy"
+        ],
+        "notes": [
+          {
+            "enNote": "This expression is commonly used in the business world when a company is able to overcome financial or operational difficulties and return to profitability or success.",
+            "ptNote": "Essa expressão é comumente usada no mundo dos negócios quando uma empresa consegue superar dificuldades financeiras ou operacionais e retorna à rentabilidade ou ao sucesso."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "track record",
+        "phonetics": "/træk ˈrɛkɔːd/",
+        "partOfSpeech": "noun",
+        "enDefinition": "the history of past performance or achievements, especially in a particular field or activity. It refers to the record of someone's or something's previous successes or failures",
+        "ptDefinition": "o histórico de desempenho ou conquistas passadas, especialmente em um campo ou atividade específica. Refere-se ao registro de sucessos ou falhas anteriores de alguém ou algo",
+        "examples": [
+          {
+            "enExample": "The company has a strong track record of delivering high-quality products on time.",
+            "ptExample": "A empresa tem um histórico sólido de entrega de produtos de alta qualidade no prazo."
+          },
+          {
+            "enExample": "Before hiring, make sure to check the candidate's track record in previous roles.",
+            "ptExample": "Antes de contratar, certifique-se de verificar o histórico do candidato em funções anteriores."
+          }
+        ],
+        "synonyms": [
+          "history",
+          "background",
+          "past performance",
+          "record",
+          "reputation"
+        ],
+        "antonyms": ["inexperience", "lack of history"],
+        "seeAlso": ["reputation", "credentials", "achievements"],
+        "notes": [
+          {
+            "enNote": "A good track record is often a key factor in decision-making for hiring, investments, or partnerships.",
+            "ptNote": "Um bom histórico frequentemente é um fator chave na tomada de decisões para contratações, investimentos ou parcerias."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "throw in the towel",
+        "partOfSpeech": "idiomatic expression",
+        "enDefinition": "to give up or admit defeat, often after trying hard for a period of time",
+        "ptDefinition": "desistir ou admitir a derrota, muitas vezes após tentar muito por um tempo",
+        "examples": [
+          {
+            "enExample": "After hours of trying to fix the car, he finally threw in the towel.",
+            "ptExample": "Depois de horas tentando consertar o carro, ele finalmente desistiu."
+          },
+          {
+            "enExample": "She didn't want to throw in the towel, but the project was too complicated.",
+            "ptExample": "Ela não queria desistir, mas o projeto era muito complicado."
+          }
+        ],
+        "synonyms": ["give up", "quit", "surrender", "throw up one's hands"],
+        "antonyms": ["persevere", "persist", "carry on"],
+        "seeAlso": ["call it a day", "wave the white flag"],
+        "notes": [
+          {
+            "enNote": "This expression originated from boxing, where a trainer would throw a towel into the ring to stop the fight, signaling defeat.",
+            "ptNote": "Essa expressão se originou no boxe, onde o treinador jogava uma toalha no ringue para parar a luta, sinalizando a derrota."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "take a crack at something",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to attempt or try something, often for the first time",
+        "ptDefinition": "tentar ou fazer uma tentativa em algo, muitas vezes pela primeira vez",
+        "examples": [
+          {
+            "enExample": "I'm going to take a crack at fixing the car this weekend.",
+            "ptExample": "Vou tentar consertar o carro neste fim de semana."
+          },
+          {
+            "enExample": "He decided to take a crack at painting, even though he had no experience.",
+            "ptExample": "Ele decidiu tentar pintar, mesmo sem experiência."
+          }
+        ],
+        "synonyms": ["attempt", "try", "have a go at"],
+        "antonyms": ["avoid", "refuse", "neglect"],
+        "seeAlso": ["give it a shot", "try out"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used in informal contexts, emphasizing the act of making an effort or attempt, usually without certainty of success.",
+            "ptNote": "Essa frase é frequentemente usada em contextos informais, enfatizando o ato de fazer um esforço ou tentativa, geralmente sem certeza de sucesso."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "the best of both worlds",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a situation in which one can enjoy the advantages of two different things at the same time, without having to compromise",
+        "ptDefinition": "uma situação em que se pode desfrutar das vantagens de duas coisas diferentes ao mesmo tempo, sem precisar fazer concessões",
+        "examples": [
+          {
+            "enExample": "With the new hybrid car, you get the best of both worlds—great fuel efficiency and a spacious design.",
+            "ptExample": "Com o novo carro híbrido, você tem o melhor dos dois mundos—ótima eficiência de combustível e um design espaçoso."
+          },
+          {
+            "enExample": "Working from home allows me to have the best of both worlds: a flexible schedule and no commute.",
+            "ptExample": "Trabalhar de casa me permite ter o melhor dos dois mundos: um horário flexível e sem necessidade de deslocamento."
+          }
+        ],
+        "synonyms": [
+          "have it all",
+          "all the advantages",
+          "the ideal situation"
+        ],
+        "antonyms": ["compromise", "trade-off", "sacrifice"],
+        "notes": [
+          {
+            "enNote": "This idiom is used to describe a scenario where one benefits from two different things without having to give up either.",
+            "ptNote": "Este idiom é usado para descrever uma situação em que alguém se beneficia de duas coisas diferentes sem precisar abrir mão de nenhuma delas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "test the waters",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to try something in a small or cautious way to see if it will be successful before fully committing to it",
+        "ptDefinition": "tentar algo de forma pequena ou cautelosa para ver se será bem-sucedido antes de se comprometer totalmente",
+        "examples": [
+          {
+            "enExample": "Before launching the new product, the company decided to test the waters with a limited release.",
+            "ptExample": "Antes de lançar o novo produto, a empresa decidiu testar o mercado com uma versão limitada."
+          },
+          {
+            "enExample": "We’re testing the waters by offering a free trial to see if customers are interested in our service.",
+            "ptExample": "Estamos testando o mercado oferecendo uma versão de teste gratuita para ver se os clientes têm interesse em nosso serviço."
+          }
+        ],
+        "synonyms": ["try out", "dip a toe in", "sample"],
+        "antonyms": ["commit", "dive in", "jump in"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "tough call",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a difficult decision or choice, often involving a trade-off between two or more equally important options",
+        "ptDefinition": "uma decisão ou escolha difícil, muitas vezes envolvendo uma troca entre duas ou mais opções igualmente importantes",
+        "examples": [
+          {
+            "enExample": "Choosing between the two job offers was a tough call, as both had great benefits.",
+            "ptExample": "Escolher entre as duas ofertas de emprego foi uma decisão difícil, já que ambas tinham ótimos benefícios."
+          },
+          {
+            "enExample": "It’s a tough call whether we should expand into new markets or focus on improving our current products.",
+            "ptExample": "É uma decisão difícil decidir se devemos expandir para novos mercados ou focar em melhorar nossos produtos atuais."
+          }
+        ],
+        "synonyms": ["difficult decision", "hard choice", "close call"],
+        "antonyms": ["easy decision", "clear choice", "no-brainer"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "think outside the box",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to think creatively or unconventionally, to consider ideas or solutions that are different from the usual approach",
+        "ptDefinition": "pensar de forma criativa ou não convencional, considerar ideias ou soluções diferentes da abordagem habitual",
+        "examples": [
+          {
+            "enExample": "We need to think outside the box if we want to solve this problem in a new way.",
+            "ptExample": "Precisamos pensar de maneira criativa se quisermos resolver esse problema de uma forma nova."
+          },
+          {
+            "enExample": "The team was encouraged to think outside the box to come up with innovative marketing strategies.",
+            "ptExample": "A equipe foi incentivada a pensar fora da caixa para criar estratégias de marketing inovadoras."
+          }
+        ],
+        "synonyms": ["be creative", "innovate", "think differently"],
+        "antonyms": ["follow the norm", "be conventional", "stick to tradition"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "through the roof",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to increase dramatically or to reach an extremely high level",
+        "ptDefinition": "aumentar drasticamente ou atingir um nível extremamente alto",
+        "examples": [
+          {
+            "enExample": "Demand for the product went through the roof after the advertisement aired.",
+            "ptExample": "A demanda pelo produto disparou depois que o anúncio foi exibido."
+          },
+          {
+            "enExample": "Housing prices have gone through the roof in the last year due to high demand.",
+            "ptExample": "Os preços das casas dispararam no último ano devido à alta demanda."
+          }
+        ],
+        "synonyms": ["skyrocket", "surge", "escalate"],
+        "antonyms": ["drop", "decrease", "plummet"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used to describe sharp increases in prices, emotions, or demand."
+          },
+          {
+            "ptNote": "Esta expressão é frequentemente usada para descrever aumentos acentuados em preços, emoções ou demanda."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "twenty-four seven (24/7)",
+        "partOfSpeech": "idiom",
+        "enDefinition": "available or operating at all times, every day of the week, without interruption",
+        "ptDefinition": "disponível ou funcionando o tempo todo, todos os dias da semana, sem interrupções",
+        "examples": [
+          {
+            "enExample": "The customer service hotline is available 24/7 for any urgent inquiries.",
+            "ptExample": "A linha de atendimento ao cliente está disponível 24/7 para qualquer solicitação urgente."
+          },
+          {
+            "enExample": "Some businesses run 24/7 to meet customer demands.",
+            "ptExample": "Alguns negócios funcionam 24/7 para atender às demandas dos clientes."
+          }
+        ],
+        "synonyms": ["around the clock", "all day every day", "nonstop"],
+        "antonyms": ["limited hours", "part-time", "closed"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "touch base with someone",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to make contact or communicate briefly with someone, often to exchange information or check in on progress",
+        "ptDefinition": "entrar em contato ou se comunicar brevemente com alguém, geralmente para trocar informações ou acompanhar o andamento de algo",
+        "examples": [
+          {
+            "enExample": "I'll touch base with the team to see if they need anything before the meeting.",
+            "ptExample": "Vou entrar em contato com a equipe para ver se eles precisam de algo antes da reunião."
+          },
+          {
+            "enExample": "We should touch base with the client next week to ensure everything is on track with the project.",
+            "ptExample": "Devemos entrar em contato com o cliente na próxima semana para garantir que o projeto esteja no caminho certo."
+          }
+        ],
+        "synonyms": ["contact", "check in", "reach out", "communicate"],
+        "antonyms": ["ignore", "avoid", "neglect"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "twist one's arm",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to persuade or pressure someone to do something they might not want to do, often by using forceful or convincing arguments.",
+        "ptDefinition": "persuadir ou pressionar alguém a fazer algo que talvez não queira, geralmente usando argumentos convincentes ou pressão",
+        "examples": [
+          {
+            "enExample": "I didn't want to go to the party, but my friends twisted my arm, and I ended up going.",
+            "ptExample": "Eu não queria ir à festa, mas meus amigos me convenceram e acabei indo."
+          },
+          {
+            "enExample": "It took a while to twist his arm, but he finally agreed to help with the project.",
+            "ptExample": "Demorou um pouco para convencê-lo, mas ele finalmente concordou em ajudar com o projeto."
+          }
+        ],
+        "synonyms": ["persuade", "pressure", "convince", "talk into"],
+        "antonyms": ["dissuade", "discourage", "talk out of"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "throw cold water (on)",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to discourage or dampen enthusiasm, ideas, or plans, often by highlighting potential problems or obstacles",
+        "ptDefinition": "desanimar ou esfriar o entusiasmo de alguém, geralmente ao apontar dificuldades ou problemas que podem surgir",
+        "examples": [
+          {
+            "enExample": "While some team members were excited about the new project, one manager threw cold water on it by pointing out the risks.",
+            "ptExample": "Embora alguns membros da equipe estivessem empolgados com o novo projeto, um gerente acabou desmotivando a todos ao destacar os riscos envolvidos."
+          },
+          {
+            "enExample": "It's important to consider feedback, but you don't want to throw cold water on every new idea.",
+            "ptExample": "É importante levar em conta o feedback, mas não se deve desmotivar todas as novas ideias que surgem."
+          }
+        ],
+        "synonyms": [
+          "discourage",
+          "downplay",
+          "dampen enthusiasm",
+          "rain on someone's parade"
+        ],
+        "antonyms": ["encourage", "support", "inspire", "fuel enthusiasm"],
+        "notes": [
+          {
+            "enNote": "Although it's important to be cautious, excessive criticism can discourage innovation and creativity."
+          },
+          {
+            "ptNote": "Embora seja importante ter cautela, críticas excessivas podem desestimular a inovação e a criatividade."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "tagline",
+        "phonetics": "ˈtæɡˌlaɪn",
+        "partOfSpeech": "noun",
+        "enDefinition": "a short, memorable phrase or slogan used to convey the essence of a brand, product, or company, often used in marketing and advertising",
+        "ptDefinition": "uma frase curta e memorável usada para transmitir a essência de uma marca, produto ou empresa, frequentemente utilizada em marketing e publicidade",
+        "examples": [
+          {
+            "enExample": "The tagline 'Just Do It' has become synonymous with Nike's brand identity.",
+            "ptExample": "'Just Do It' se tornou sinônimo da identidade da marca Nike."
+          },
+          {
+            "enExample": "A strong tagline can capture the essence of a business and leave a lasting impression on customers.",
+            "ptExample": "Uma boa tagline pode capturar a essência de um negócio e deixar uma impressão duradoura nos clientes."
+          }
+        ],
+        "synonyms": ["slogan", "catchphrase", "motto", "strapline"],
+        "antonyms": ["content", "narrative", "description"],
+        "seeAlso": ["branding", "marketing", "advertising", "identity"],
+        "notes": [
+          {
+            "enNote": "A memorable tagline plays a crucial role in reinforcing a brand's message and creating emotional connections with consumers."
+          },
+          {
+            "ptNote": "Um \"slogan\" memorável desempenha um papel crucial em reforçar a mensagem de uma marca e criar conexões emocionais com os consumidores."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "think outside the box",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to think creatively and consider ideas that are not confined by traditional or conventional boundaries",
+        "ptDefinition": "pensar de forma criativa e considerar ideias que não estão limitadas por fronteiras tradicionais ou convencionais",
+        "examples": [
+          {
+            "enExample": "The team was encouraged to think outside the box to solve the complex problem.",
+            "ptExample": "A equipe foi incentivada a pensar fora da caixa para resolver o problema complexo."
+          }
+        ],
+        "synonyms": ["be creative", "think unconventionally", "innovate"],
+        "antonyms": [
+          "think traditionally",
+          "follow conventions",
+          "stay conventional"
+        ],
+        "seeAlso": ["brainstorm", "blue-sky thinking"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "through the roof",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to increase or rise very quickly to an extremely high level",
+        "ptDefinition": "aumentar ou subir muito rapidamente para um nível extremamente alto",
+        "examples": [
+          {
+            "enExample": "During the holiday season, sales went through the roof.",
+            "ptExample": "Durante a temporada de férias, as vendas dispararam."
+          },
+          {
+            "enExample": "Her excitement went through the roof when she heard the news.",
+            "ptExample": "A empolgação dela foi às alturas quando ouviu a notícia."
+          }
+        ],
+        "synonyms": ["skyrocket", "soar", "escalate"],
+        "antonyms": ["drop", "plummet", "decline"],
+        "seeAlso": ["hit the ceiling", "go through the ceiling"],
+        "notes": [
+          {
+            "enNote": "This idiom is commonly used to describe sudden increases in prices, emotions, or demand.",
+            "ptNote": "Este idioma é comumente usado para descrever aumentos repentinos em preços, emoções ou demanda."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "to the letter",
+        "partOfSpeech": "idiom",
+        "enDefinition": "exactly as instructed, without any deviation or error",
+        "ptDefinition": "exatamente como instruído, sem qualquer desvio ou erro",
+        "examples": [
+          {
+            "enExample": "She followed the recipe to the letter and made a perfect cake.",
+            "ptExample": "Ela seguiu a receita à risca e fez um bolo perfeito."
+          },
+          {
+            "enExample": "He carried out the task to the letter, ensuring everything was done as requested.",
+            "ptExample": "Ele executou a tarefa à risca, garantindo que tudo fosse feito conforme solicitado."
+          }
+        ],
+        "synonyms": ["exactly", "precisely", "accurately"],
+        "antonyms": ["roughly", "loosely", "imprecisely"],
+        "seeAlso": ["by the book", "verbatim"],
+        "notes": [
+          {
+            "enNote": "This phrase is used when something is done with great precision or when instructions are followed exactly as given.",
+            "ptNote": "Essa frase é usada quando algo é feito com grande precisão ou quando as instruções são seguidas exatamente como dadas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "to the tune of",
+        "phonetics": "/tə ðə tuːn ʌv/",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to indicate a specific amount or degree, often referring to money or a quantity",
+        "ptDefinition": "usado para indicar um valor ou quantidade específica, frequentemente relacionado a dinheiro ou uma quantidade",
+        "examples": [
+          {
+            "enExample": "The company spent millions to the tune of $5 million on advertising this year.",
+            "ptExample": "A empresa gastou milhões, chegando a $5 milhões, em publicidade este ano."
+          },
+          {
+            "enExample": "They raised funds to the tune of $500,000 for the charity event.",
+            "ptExample": "Eles arrecadaram fundos na ordem de $500.000 para o evento beneficente."
+          }
+        ],
+        "synonyms": ["amounting to", "totaling", "in the ballpark of"],
+        "antonyms": ["insignificant", "minimal", "small-scale"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to emphasize the magnitude of something, particularly in financial contexts."
+          },
+          {
+            "ptNote": "Este idiom é frequentemente usado para enfatizar a magnitude de algo, especialmente em contextos financeiros."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "track",
+        "phonetics": "/træk/",
+        "partOfSpeech": "noun",
+        "ptDefinition": "pista",
+        "examples": [
+          {
+            "enExample": "a horse track",
+            "ptExample": "uma pista para cavalos"
+          }
+        ]
+      },
+      {
+        "ptDefinition": "trilho",
+        "examples": [
+          {
+            "enExample": "He stood on the railroad tracks.",
+            "ptExample": "Ele ficou em pé nos trilhos da ferrovia."
+          }
+        ]
+      },
+      {
+        "ptDefinition": "trilha",
+        "examples": [
+          {
+            "enExample": "We hiked the track to the waterfall and back.",
+            "ptExample": "Subimos a trilha até a cachoeira e voltamos."
+          }
+        ]
+      },
+      {
+        "ptDefinition": "faixa (music)",
+        "examples": [
+          {
+            "enExample": "The album includes four previously unreleased tracks.",
+            "ptExample": "O álbum inclui quatro faixas inéditas."
+          }
+        ],
+        "seeAlso": "soundtrack"
+      },
+      {
+        "word": "track",
+        "phonetics": "/træk/",
+        "partOfSpeech": "verb",
+        "ptDefinition": "rastrear, acompanhar",
+        "examples": [
+          {
+            "enExample": "Electronic equipment helps us track the dolphins.",
+            "ptExample": "Equipamentos eletrônicos ajudam a rastrear os golfinhos."
+          },
+          {
+            "enExample": "It is her job to track the cost of various products.",
+            "ptExample": "É o trabalho dela acompanhar os preços de diferentes produtos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "translate",
+        "phonetics": "/trænsˈleɪt/",
+        "partOfSpeech": "verb",
+        "ptDefinition": "traduzir",
+        "examples": [
+          {
+            "enExample": "She works for the UN, translating from English into French.",
+            "ptExample": "Ela trabalha para a ONU, traduzindo do inglês para o francês."
+          }
+        ],
+        "seeAlso": "interpret"
+      }
+    ]
+  }
+]

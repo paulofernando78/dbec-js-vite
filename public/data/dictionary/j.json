@@ -1,0 +1,81 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "jump the gun",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to do something too soon, especially without thinking carefully about it",
+        "ptDefinition": "agir precipitadamente",
+        "examples": [
+          {
+            "enExample": "They've only just met - isn't it jumping the gun to be talking about marriage already?",
+            "ptExample": "Eles acabaram de se conhecer - não é precipitado já estarem falando sobre casamento?"
+          }
+        ],
+        "synonyms": ["act prematurely"],
+        "antonyms": ["wait", "be patient"],
+        "seeAlso": ["rush", "hurry"],
+        "notes": [
+          {
+            "enNote": "This idiom comes from track and field races, where starting before the gun is fired results in a false start.",
+            "ptNote": "Este idiom vem das corridas de atletismo, onde começar antes do tiro resulta em uma largada falsa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "junk",
+        "phonetics": "/dʒʌŋk/",
+        "partOfSpeech": "noun",
+        "enDefinition": "things that are considered to be of no use or value, or of low quality",
+        "ptDefinition": "tralhas, trastes",
+        "examples": [
+          {
+            "enExample": "We ought to clear out this cupboard - it's full of junk.",
+            "ptExample": "Temos que limpar este armário, está cheio de tralha."
+          }
+        ]
+      },
+      {
+        "enDefinition": "objects that have been thrown out or are considered useless",
+        "ptDefinition": "lixo",
+        "examples": [
+          {
+            "enExample": "There are too much junk in his room.",
+            "ptExample": "Tem muito lixo no quarto dele"
+          }
+        ],
+        "synonyms": ["trash"]
+      },
+      {
+        "enDefinition": "something of low quality or value",
+        "ptDefinition": "besteira, porcaria",
+        "examples": [
+          {
+            "enExample": "I can't stand watching the junk that's on TV these days.",
+            "ptExample": "Eu não suporto assistir as porcarias que estão passando na TV hoje em dia."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "(just) for the record",
+        "partOfSpeech": "idiom",
+        "enDefinition": "let me make my opinion clear",
+        "ptDefinition": "deixar claro; só para constar",
+        "examples": [
+          {
+            "enExample": "I know that everybody else likes the idea of using a bear for a mascot, but, just for the record, I think it's a lousy idea.",
+            "ptExample": "Eu sei que todo mundo gosta da ideia de usar um urso como mascote, mas, só para constar, acho que é uma péssima ideia."
+          }
+        ]
+      }
+    ]
+  }
+]

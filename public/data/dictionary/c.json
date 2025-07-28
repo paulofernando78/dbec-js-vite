@@ -1,0 +1,934 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "cut back on",
+        "phonetics": "/kʌt bæk ɒn/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to reduce the amount or quantity of something",
+        "ptDefinition": "reduzir a quantidade de algo",
+        "examples": [
+          {
+        "enExample": "We need to cut back on our expenses this month.",
+        "ptExample": "Precisamos reduzir nossas despesas este mês."
+          },
+          {
+        "enExample": "The doctor advised him to cut back on sugar.",
+        "ptExample": "O médico o aconselhou a reduzir o consumo de açúcar."
+          }
+        ],
+        "synonyms": ["reduce", "decrease", "lessen", "diminish"],
+        "antonyms": ["increase", "expand", "raise"],
+        "seeAlso": ["cut down on", "reduce"],
+        "notes": [
+          {
+        "enNote": "This phrasal verb is commonly used when discussing budgets, consumption, or lifestyle changes.",
+        "ptNote": "Este verbo frasal é comumente usado ao discutir orçamentos, consumo ou mudanças no estilo de vida."
+          }
+        ]
+      },
+      {
+        "word": "clock in",
+        "phonetics": "/klɑk ɪn/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to record or register one's arrival time at work, typically by using a time clock or similar system",
+        "ptDefinition": "registrar o horário de chegada no trabalho, geralmente usando um relógio de ponto ou sistema similar",
+        "examples": [
+          {
+            "enExample": "I have to clock in by 9 AM every morning.",
+            "ptExample": "Eu tenho que bater o ponto às 9h todas as manhãs."
+          },
+          {
+            "enExample": "The employees are required to clock in when they arrive at work.", 
+            "ptExample": "Os funcionários são obrigados a registrar a entrada quando chegam ao trabalho."
+          }
+        ],
+        "synonyms": ["punch in", "sign in", "check in"],
+        "antonyms": ["clock out", "punch out", "sign out"],
+        "seeAlso": ["time card", "attendance"],
+        "notes": [
+          {
+            "enNote": "This phrase is commonly used in workplace contexts to describe the formal recording of work hours.",
+            "ptNote": "Esta frase é comumente usada em contextos de trabalho para descrever o registro formal das horas trabalhadas."
+          }
+        ]
+            }
+          ]
+        },
+  {
+    "definitions": [
+      {
+        "word": "clock up",
+        "phonetics": "/klɑk ʌp/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to gradually accumulate or achieve an amount of something over time",
+        "ptDefinition": "acumular ou atingir gradualmente uma quantidade de algo ao longo do tempo",
+        "examples": [
+          {
+            "enExample": "He has clocked up over 20 years of experience in the industry.",
+            "ptExample": "Ele acumulou mais de 20 anos de experiência na indústria."
+          },
+          {
+            "enExample": "The car has clocked up 100,000 miles.",
+            "ptExample": "O carro acumulou 100.000 milhas."
+          }
+        ],
+        "synonyms": ["accumulate", "amass", "build up"],
+        "antonyms": ["reduce", "decrease"],
+        "seeAlso": ["rack up", "pile up"],
+        "notes": [
+          {
+            "enNote": "Often used when talking about time, distance, or achievements accumulated over a period.",
+            "ptNote": "Frequentemente usado ao falar sobre tempo, distância ou conquistas acumuladas ao longo de um período."
+          }
+        ]
+            }
+          ]
+        },
+  {
+    "definitions": [
+      {
+        "word": "clockwise",
+        "phonetics": "/ˈklɒkwaɪz/",
+        "partOfSpeech": "adjective/adverb",
+        "enDefinition": "moving in the same direction as the hands of a clock",
+        "ptDefinition": "no sentido dos ponteiros do relógio",
+        "examples": [
+          {
+            "enExample": "Turn the lid clockwise to tighten it.",
+            "ptExample": "Gire a tampa no sentido horário para apertá-la."
+          },
+          {
+            "enExample": "The carousel rotates in a clockwise direction.",
+            "ptExample": "O carrossel gira no sentido horário."
+          }
+        ],
+        "synonyms": ["dextrorotary", "dextrorotatory"],
+        "antonyms": ["counterclockwise", "anticlockwise"],
+        "seeAlso": ["rotation", "direction"],
+        "notes": [
+          {
+            "enNote": "Often used in instructions and technical descriptions to specify direction of rotation.",
+            "ptNote": "Frequentemente usado em instruções e descrições técnicas para especificar direção de rotação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "convolute",
+        "phonetics": "/kənˈvɑːluːt/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to make something complex and difficult to follow",
+        "ptDefinition": "tornar algo complexo e difícil de entender",
+        "examples": [
+          {
+            "enExample": "The writer convoluted the plot with too many characters and subplots.",
+            "ptExample": "O escritor complicou o enredo com muitos personagens e subtramas."
+          },
+          {
+            "enExample": "Don't convolute the instructions - keep them simple and clear.",
+            "ptExample": "Não complique as instruções - mantenha-as simples e claras."
+          }
+        ],
+        "synonyms": ["complicate", "confuse", "entangle", "perplex"],
+        "antonyms": ["simplify", "clarify", "streamline"],
+        "seeAlso": ["complex", "intricate"],
+        "notes": [
+          {
+            "enNote": "Often used to describe making something unnecessarily complicated or difficult to understand.",
+            "ptNote": "Frequentemente usado para descrever algo que foi tornado desnecessariamente complicado ou difícil de entender."
+          }
+        ]
+            }
+          ]
+        },
+  {
+    "definitions": [
+      {
+        "word": "character",
+        "phonetics": "/ˈkærɪktɚ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a person represented in a film, play, or story",
+        "ptDefinition": "uma pessoa representada em um filme, peça ou história",
+        "examples": [
+          {
+            "enExample": "The main character in the movie is a young girl who discovers she has magical powers.",
+            "ptExample": "O personagem principal do filme é uma jovem que descobre que tem poderes mágicos."
+          },
+          {
+            "enExample": "He played the character of Hamlet in the school play.",
+            "ptExample": "Ele interpretou o personagem Hamlet na peça da escola."
+          }
+        ],
+        "synonyms": ["role", "persona", "figure"],
+        "antonyms": ["nonentity"],
+        "seeAlso": ["protagonist", "antagonist"],
+        "notes": [
+          {
+            "enNote": "In literature and film, characters are often developed through their actions, dialogue, and interactions with other characters.",
+            "ptNote": "Na literatura e no cinema, os personagens são frequentemente desenvolvidos através de suas ações, diálogos e interações com outros personagens."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "character",
+        "phonetics": "/ˈkærɪktɚ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "the mental and moral qualities distinctive to an individual",
+        "ptDefinition": "as qualidades mentais e morais distintivas de um indivíduo",
+        "examples": [
+          {
+            "enExample": "Her character is known for being very kind and generous.",
+            "ptExample": "Seu caráter é conhecido por ser muito gentil e generoso."
+          },
+          {
+            "enExample": "He has a strong character and always stands up for what he believes in.",
+            "ptExample": "Ele tem um caráter forte e sempre defende o que acredita."
+          }
+        ],
+        "synonyms": ["personality", "nature", "disposition"],
+        "antonyms": ["anonymity", "facelessness"],
+        "seeAlso": ["trait", "attribute"],
+        "notes": [
+          {
+            "enNote": "Character is often judged by how a person behaves in difficult situations.",
+            "ptNote": "O caráter é frequentemente julgado pela forma como uma pessoa se comporta em situações difíceis."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "cover oneself",
+        "phonetics": "/ˈkʌvər wʌnˈsɛlf/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to take action to protect oneself from blame, criticism, or legal responsibility",
+        "ptDefinition": "tomar medidas para se proteger de culpa, crítica ou responsabilidade legal",
+        "examples": [
+          {
+            "enExample": "He made sure to document everything to cover himself in case of any issues.",
+            "ptExample": "Ele se certificou de documentar tudo para se proteger em caso de problemas."
+          },
+          {
+            "enExample": "She always covers herself by getting agreements in writing.",
+            "ptExample": "Ela sempre se protege obtendo acordos por escrito."
+          }
+        ],
+        "synonyms": ["protect oneself", "safeguard", "shield"],
+        "antonyms": ["expose oneself", "risk"],
+        "seeAlso": ["cover your tracks", "play it safe"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used in professional or legal contexts where individuals take steps to avoid potential negative consequences.",
+            "ptNote": "Esta frase é frequentemente usada em contextos profissionais ou legais onde os indivíduos tomam medidas para evitar possíveis consequências negativas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "come with the territory",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be an unavoidable part of a particular situation or job",
+        "ptDefinition": "ser uma parte inevitável de uma situação ou trabalho específico",
+        "examples": [
+          {
+            "enExample": "Long hours and high stress levels come with the territory of being a doctor.",
+            "ptExample": "Longas horas e altos níveis de estresse fazem parte do trabalho de ser médico."
+          },
+          {
+            "enExample": "Criticism comes with the territory when you're a public figure.",
+            "ptExample": "Críticas fazem parte do território quando você é uma figura pública."
+          }
+        ],
+        "synonyms": ["part and parcel", "inevitable", "unavoidable"],
+        "antonyms": ["unexpected", "unforeseen"],
+        "seeAlso": ["go hand in hand", "come along with"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to express that certain negative aspects are an inherent part of a job or situation.",
+            "ptNote": "Este idiom é frequentemente usado para expressar que certos aspectos negativos são uma parte inerente de um trabalho ou situação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "circle back to",
+        "phonetics": "/ˈsɜːr.kəl bæk tuː/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to return to a previous topic or point in a discussion or conversation",
+        "ptDefinition": "retornar a um tópico ou ponto anterior em uma discussão ou conversa",
+        "examples": [
+          {
+            "enExample": "Let's circle back to the budget issue after we've discussed the new project.",
+            "ptExample": "Vamos voltar à questão do orçamento depois de discutirmos o novo projeto."
+          },
+          {
+            "enExample": "I want to circle back to the point you made earlier about customer feedback.",
+            "ptExample": "Quero voltar ao ponto que você mencionou anteriormente sobre o feedback dos clientes."
+          }
+        ],
+        "synonyms": ["revisit", "return to", "go back to"],
+        "antonyms": ["move on", "leave behind"],
+        "seeAlso": ["readdress", "reconsider"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used in business or formal settings to indicate a need to revisit a topic that was previously discussed.",
+            "ptNote": "Esta frase é frequentemente usada em ambientes de negócios ou formais para indicar a necessidade de revisitar um tópico que foi discutido anteriormente."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "company offsite",
+        "phonetics": "/ˈkʌm.pə.ni ˈɔːf.saɪt/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a meeting or event held at a location away from the company's usual place of business, often for team-building, training, or strategic planning",
+        "ptDefinition": "uma reunião ou evento realizado em um local fora do local habitual de negócios da empresa, geralmente para construção de equipe, treinamento ou planejamento estratégico",
+        "examples": [
+          {
+            "enExample": "The company offsite was held at a resort to encourage team bonding.",
+            "ptExample": "O evento da empresa foi realizado em um resort para incentivar a união da equipe."
+          },
+          {
+            "enExample": "We discussed our annual goals during the company offsite.",
+            "ptExample": "Discutimos nossas metas anuais durante o evento da empresa."
+          }
+        ],
+        "synonyms": ["retreat", "offsite meeting", "team-building event"],
+        "antonyms": ["onsite meeting", "in-house meeting"],
+        "seeAlso": ["corporate retreat", "team offsite"],
+        "notes": [
+          {
+            "enNote": "Company offsites are often used to foster collaboration and innovation among employees.",
+            "ptNote": "Eventos fora da empresa são frequentemente usados para promover a colaboração e a inovação entre os funcionários."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "cover a lot of ground",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to deal with many topics or areas of a subject",
+        "ptDefinition": "abranger muitos tópicos ou áreas de um assunto",
+        "examples": [
+          {
+            "enExample": "The lecture covered a lot of ground in just one hour.",
+            "ptExample": "A palestra abrangeu muitos tópicos em apenas uma hora."
+          },
+          {
+            "enExample": "We need to cover a lot of ground in today's meeting.",
+            "ptExample": "Precisamos cobrir muitos tópicos na reunião de hoje."
+          }
+        ],
+        "synonyms": ["address many topics", "deal with many issues", "cover a wide range"],
+        "antonyms": ["focus on one topic", "narrow scope"],
+        "seeAlso": ["touch on many points", "explore various aspects"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used in contexts where a discussion, presentation, or piece of work includes a wide range of information or topics.",
+            "ptNote": "Este idiom é frequentemente usado em contextos onde uma discussão, apresentação ou trabalho inclui uma ampla gama de informações ou tópicos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "crazy",
+        "phonetics": "/ˈkreɪ.zi/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "mentally deranged, especially as manifested in a wild or aggressive way",
+        "ptDefinition": "mentalmente perturbado, especialmente manifestado de maneira selvagem ou agressiva",
+        "examples": [
+          {
+            "enExample": "He was acting crazy after the accident.",
+            "ptExample": "Ele estava agindo de forma louca após o acidente."
+          },
+          {
+            "enExample": "She must be crazy to go out in this weather.",
+            "ptExample": "Ela deve estar louca para sair com esse tempo."
+          }
+        ],
+        "synonyms": ["insane", "mad", "deranged", "lunatic"],
+        "antonyms": ["sane", "rational", "sensible"],
+        "seeAlso": ["mad", "insane"],
+        "notes": [
+          {
+            "enNote": "The term 'crazy' can be considered offensive when referring to someone's mental health.",
+            "ptNote": "O termo 'louco' pode ser considerado ofensivo quando se refere à saúde mental de alguém."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "calm",
+        "phonetics": "/kɑːm/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "not showing or feeling nervousness, anger, or other strong emotions",
+        "ptDefinition": "não demonstrar ou sentir nervosismo, raiva ou outras emoções fortes",
+        "examples": [
+          {
+            "enExample": "She remained calm during the emergency.",
+            "ptExample": "Ela permaneceu calma durante a emergência."
+          },
+          {
+            "enExample": "His calm demeanor helped to reassure the anxious passengers.",
+            "ptExample": "Seu comportamento calmo ajudou a tranquilizar os passageiros ansiosos."
+          }
+        ],
+        "synonyms": ["peaceful", "tranquil", "serene", "composed"],
+        "antonyms": ["agitated", "nervous", "anxious", "excited"],
+        "seeAlso": ["peaceful", "relaxed"],
+        "notes": [
+          {
+            "enNote": "Being calm can help in making rational decisions during stressful situations.",
+            "ptNote": "Estar calmo pode ajudar a tomar decisões racionais durante situações estressantes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "count me in",
+        "phonetics": "/kaʊnt mi ɪn/",
+        "partOfSpeech": "phrase",
+        "enDefinition": "an expression used to indicate that you are willing to participate or be included in something",
+        "ptDefinition": "uma expressão usada para indicar que você está disposto a participar ou ser incluído em algo",
+        "examples": [
+          {
+            "enExample": "If you're going to the party tonight, count me in!",
+            "ptExample": "Se você for à festa hoje à noite, me conta!"
+          },
+          {
+            "enExample": "The team is planning a trip, and I said, 'Count me in!'",
+            "ptExample": "A equipe está planejando uma viagem, e eu disse: 'Me conta!'"
+          }
+        ],
+        "synonyms": ["I'm in", "count me aboard", "I'm up for it", "I'm game"],
+        "antonyms": ["count me out", "not interested", "I pass"],
+        "notes": [
+          {
+            "enNote": "'Count me in' is a casual and informal way to express that you're interested in joining or participating in an activity.",
+            "ptNote": "'Count me in' é uma maneira casual e informal de expressar que você tem interesse em se juntar ou participar de uma atividade."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "call it quits",
+        "partOfSpeech": "idiomatic expression",
+        "enDefinition": "to stop doing something, typically after deciding that it's no longer worth the effort or is no longer successful",
+        "ptDefinition": "parar de fazer algo, geralmente depois de decidir que não vale mais a pena ou não está mais dando certo",
+        "examples": [
+          {
+            "enExample": "After working on the project for hours without making progress, she decided to call it quits.",
+            "ptExample": "Depois de trabalhar no projeto por horas sem fazer progresso, ela decidiu parar."
+          },
+          {
+            "enExample": "He called it quits after trying to fix the machine for over an hour.",
+            "ptExample": "Ele parou depois de tentar consertar a máquina por mais de uma hora."
+          }
+        ],
+        "synonyms": ["give up", "stop, quit", "abandon", "pack it in"],
+        "antonyms": ["continue", "persist", "carry on", "press on"],
+        "seeAlso": ["throw in the towel", "call it a day"],
+        "notes": [
+          {
+            "enNote": "This expression is often used when someone decides to stop an activity or task, often because it is no longer productive or enjoyable.",
+            "ptNote": "Essa expressão é frequentemente usada quando alguém decide parar uma atividade ou tarefa, geralmente porque não está mais sendo produtiva ou agradável."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "come",
+        "phonetics": "/kʌm/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to move or travel toward the speaker or with the speaker",
+        "ptDefinition": "Mover-se ou viajar em direção ao falante ou com o falantet",
+        "examples": [
+          {
+            "enExample": "Please come to my house this evening.",
+            "ptExample": "Por favor, venha à minha casa esta noite."
+          },
+          {
+            "enExample": "The cat will come if you call it.",
+            "ptExample": "O gato virá se você chamá-lo."
+          }
+        ],
+        "synonyms": ["approach", "arrive"],
+        "antonyms": ["go", "leave"],
+        "seeAlso": ["arrive", "appear"],
+        "notes": [
+          {
+            "enNote": "Often used in phrasal verbs, such as 'come up' or 'come over.'",
+            "ptNote": "Frequentemente usado em verbos frasais, como 'come up' ou 'come over'."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "can",
+        "phonetics": "/kæn/",
+        "partOfSpeech": "modal verb",
+        "enDefinition": "to be able to do something or have the ability to do it",
+        "ptDefinition": "ser capaz de fazer algo ou ter a habilidade de fazê-lo",
+        "examples": [
+          {
+            "enExample": "She can play the piano beautifully.",
+            "ptExample": "Ela consegue tocar piano lindamente."
+          },
+          {
+            "enExample": "Can you help me with this project?",
+            "ptExample": "Você pode me ajudar com este projeto?"
+          }
+        ],
+        "synonyms": ["be able to", "have the ability to", "be capable of"],
+        "antonyms": ["cannot", "be unable to", "lack the ability"],
+        "seeAlso": ["could", "may", "might"]
+      },
+      {
+        "partOfSpeech": "noun",
+        "enDefinition": "a cylindrical metal container used for storing food or liquids",
+        "ptDefinition": "um recipiente cilíndrico de metal usado para armazenar alimentos ou líquidos",
+        "examples": [
+          {
+            "enExample": "He opened a can of soup for dinner.",
+            "ptExample": "Ele abriu uma lata de sopa para o jantar."
+          },
+          {
+            "enExample": "She recycled a pile of empty cans.",
+            "ptExample": "Ela reciclou uma pilha de latas vazias."
+          }
+        ],
+        "synonyms": ["tin", "container", "drum"],
+        "notes": [
+          {
+            "enNote": "Commonly used for storing beverages or food.",
+            "ptNote": "Comumente usado para armazenar bebidas ou alimentos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "child's play",
+        "phonetics": "/ʧaɪldz pleɪ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "something that is very easy to do or understand",
+        "ptDefinition": "algo muito fácil de fazer ou entender",
+        "examples": [
+          {
+            "enExample": "The test was child's play for him; he finished it in just a few minutes.",
+            "ptExample": "O teste foi brincadeira de criança para ele; ele terminou em apenas alguns minutos."
+          },
+          {
+            "enExample": "Compared to the last project, this task is child's play.",
+            "ptExample": "Comparado ao último projeto, esta tarefa é brincadeira de criança."
+          }
+        ],
+        "synonyms": ["easy", "simple", "effortless", "a walk in the park"],
+        "antonyms": ["challenging", "difficult", "hard"],
+        "seeAlso": ["piece of cake", "a breeze"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to describe tasks or problems that are so simple they seem almost trivial.",
+            "ptNote": "Essa expressão é frequentemente usada para descrever tarefas ou problemas tão simples que parecem quase triviais."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "can-do attitude",
+        "phonetics": "/ˈkæn duː ˈætɪtjuːd/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a positive and determined approach to challenges and tasks",
+        "ptDefinition": "uma abordagem positiva e determinada para desafios e tarefas",
+        "examples": [
+          {
+            "enExample": "Her can-do attitude helped the team achieve their goals on time.",
+            "ptExample": "A atitude positiva dela ajudou a equipe a atingir seus objetivos a tempo."
+          },
+          {
+            "enExample": "With a can-do attitude, he was able to solve the problem quickly.",
+            "ptExample": "Com uma atitude positiva, ele conseguiu resolver o problema rapidamente."
+          }
+        ],
+        "synonyms": ["positive attitude", "determined", "optimistic", "proactive"],
+        "antonyms": ["pessimistic", "negative", "discouraged"],
+        "seeAlso": ["take initiative", "problem solver"],
+        "notes": [
+          {
+            "enNote": "This expression is often used to describe someone who approaches challenges with enthusiasm and a willingness to tackle any obstacles.",
+            "ptNote": "Essa expressão é frequentemente usada para descrever alguém que enfrenta desafios com entusiasmo e disposição para superar obstáculos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "cash cow",
+        "phonetics": "kæʃ kaʊ",
+        "partOfSpeech": "noun",
+        "enDefinition": "a product, service, or business that generates a steady and significant flow of income, often with little investment or effort",
+        "ptDefinition": "um produto, serviço ou negócio que gera um fluxo constante e significativo de receita, geralmente com pouco investimento ou esforço",
+        "examples": [
+          {
+            "enExample": "The company's flagship smartphone became a cash cow, bringing in billions of dollars every year.",
+            "ptExample": "O smartphone insignia da empresa se tornou uma vaca leiteira, gerando bilhões de dólares todos os anos."
+          },
+          {
+            "enExample": "The software subscription model has become a cash cow for many tech companies.",
+            "ptExample": "O modelo de assinatura de software se tornou uma vaca leiteira para muitas empresas de tecnologia."
+          }
+        ],
+        "synonyms": ["money maker", "profit machine", "revenue generator"],
+        "antonyms": ["money pit", "drain", "loss-maker"],
+        "notes": [
+          {
+            "enNote": "The term 'cash cow' is often used in business to refer to a reliable and profitable source of income."
+          },
+          {
+            "enNote": "O termo \"cash cow\" é frequentemente usado nos negócios para se referir a uma fonte confiável e lucrativa de renda."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "cutting-edge",
+        "phonetics": "ˈkʌtɪŋ ɛdʒ",
+        "partOfSpeech": "adjective",
+        "enDefinition": "at the forefront of innovation or progress; incorporating the latest and most advanced ideas or technology",
+        "ptDefinition": "na vanguarda da inovação ou progresso; incorporando as ideias ou tecnologias mais recentes e avançadas",
+        "examples": [
+          {
+            "enExample": "The company is known for its cutting-edge technology in the field of artificial intelligence.",
+            "ptExample": "A empresa é conhecida pela sua tecnologia de ponta no campo da inteligência artificial."
+          },
+          {
+            "enExample": "They developed a cutting-edge app that revolutionized the way people communicate.",
+            "ptExample": "Eles desenvolveram um aplicativo de ponta que revolucionou a forma como as pessoas se comunicam."
+          }
+        ],
+        "synonyms": ["state-of-the-art", "pioneering", "innovative"],
+        "antonyms": ["outdated", "obsolete", "traditional"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "cutting it (a little) close",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to leave very little time or margin for error when completing a task or reaching a deadline",
+        "ptDefinition": "deixar muito pouco tempo ou margem para erros ao concluir uma tarefa ou cumprir um prazo",
+        "examples": [
+          {
+            "enExample": "We’re cutting it a little close, but I think we’ll finish the project on time.",
+            "ptExample": "Estamos no limite, mas acho que vamos terminar o projeto a tempo."
+          },
+          {
+            "enExample": "If we don’t leave now, we’ll be cutting it too close to catch the train.",
+            "ptExample": "Se não sairmos agora, vamos arriscar perder o trem por pouco."
+          }
+        ],
+        "synonyms": ["pushing the limit", "tight timing", "last-minute"],
+        "antonyms": ["well-planned", "ahead of schedule", "ample time"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used in situations involving time management or tight deadlines."
+          },
+          {
+            "ptNote": "Esta expressão é frequentemente usada em situações envolvendo gerenciamento de tempo ou prazos apertados."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "calorie",
+        "phonetics": "/ˈkæl.ɚ.i/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a unit of energy often used to measure the energy content of foods and beverages",
+        "ptDefinition": "uma unidade de energia frequentemente usada para medir o conteúdo energético de alimentos e bebidas",
+        "examples": [
+          {
+            "enExample": "This chocolate bar contains 250 calories.",
+            "ptExample": "Esta barra de chocolate contém 250 calorias."
+          }
+        ],
+        "synonyms": ["kilocalorie", "energy unit"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "capital flight",
+        "partOfSpeech": "noun",
+        "enDefinition": "a situation in which large amounts of money are sent out of a country to be kept or invested in other countries, for example, because of fears about the economy",
+        "ptDefinition": "fuga de capital",
+        "examples": [
+          {
+            "enExample": "How can capital flight be skyrocketing and the market crashing when, on the surface, things look so good?",
+            "ptExample": "Como pode haver uma fuga de capitais em alta e o mercado em queda quando, na superfície, as coisas parecem tão boas?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "carry",
+        "phonetics": "/ˈker.i/",
+        "partOfSpeech": "regular verb",
+        "enDefinition": "to hold something or someone with your hands, arms, or on your back and transport it, him, or her from one place to another",
+        "ptDefinition": "levar, carregar",
+        "examples": [
+          {
+            "enExample": "These books are too heavy for me to carry.",
+            "ptExample": "Estes livros são muito pesados para eu carregar."
+          }
+        ],
+        "synonyms": ["bear", "take"],
+        "antonyms": ["drop"]
+      },
+      {
+        "word": "carry out",
+        "phonetics": "/ˈkær·i/ ",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to perform or complete a job or activity; to fulfill",
+        "ptDefinition": "cumprir algo, levar algo adiante, pôr algo em prática",
+        "examples": [
+          {
+            "enExample": "The hospital is carrying out tests to find out what's wrong with the patient.",
+            "ptExample": "O hospital está realizando exames para descobrir o que há de errado com o paciente."
+          },
+          {
+            "enExample": "Don't blame me, I'm only carrying out my orders/instructions.",
+            "ptExample": "Não me culpe, estou apenas fazendo o que me foi pedido."
+          }
+        ],
+        "synonyms": ["perform", "execute", "accomplish"],
+        "antonyms": ["fail", "abandon", "halt", "ignore, miss"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "cash in on",
+        "phonetics": "/kæʃ ɪn ɑn/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to take advantage of a situation or opportunity to make a profit or gain some benefit",
+        "ptDefinition": "aproveitar uma situação ou oportunidade para lucrar ou obter algum benefício",
+        "examples": [
+          {
+            "enExample": "The company cashed in on the holiday season by launching a special promotion.",
+            "ptExample": "A empresa aproveitou a temporada de festas para lançar uma promoção especial."
+          },
+          {
+            "enExample": "She cashed in on her popularity by signing a lucrative endorsement deal.",
+            "ptExample": "Ela aproveitou sua popularidade para assinar um contrato lucrativo de patrocínio."
+          }
+        ],
+        "synonyms": ["capitalize on", "profit from", "take advantage of"],
+        "antonyms": ["miss an opportunity", "overlook, ignore"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "characteristic",
+        "phonetics": "/ˌker.ək.təˈrɪs.tɪk/",
+        "partOfSpeech": "noun",
+        "ptDefinition": "característica",
+        "examples": [
+          {
+            "enExample": "The male bird displays several characteristics which distinguish him from the female.",
+            "ptExample": "O macho desse pássaro apresenta várias características que o distinguem da fêmea."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "chimpanzee",
+        "phonetics": "/ˌtʃɪm.pænˈziːz/",
+        "partOfSpeech": "noun",
+        "ptDefinition": "chimpanzé",
+        "examples": [
+          {
+            "enExample": "Chimpanzees are known for their ability to use tools, such as sticks to extract termites from holes.",
+            "ptExample": "Os chimpanzés são conhecidos por sua habilidade de usar ferramentas, como gravetos para extrair cupins de buracos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "clean house",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to remove unwanted elements or people from a group or organization, often to improve its efficiency or effectiveness",
+        "ptDefinition": "remover elementos ou pessoas indesejadas de um grupo ou organização, geralmente para melhorar sua eficiência ou eficácia",
+        "examples": [
+          {
+            "enExample": "The new CEO decided to clean house by letting go of several underperforming employees.",
+            "ptExample": "O novo CEO decidiu fazer uma limpeza na empresa, demitindo vários funcionários com baixo desempenho."
+          },
+          {
+            "enExample": "The team needed to clean house after a series of poor results and make some tough decisions.",
+            "ptExample": "A equipe precisou fazer uma limpeza após uma série de resultados ruins e tomar decisões difíceis."
+          }
+        ],
+        "synonyms": ["purge", "streamline", "reorganize"],
+        "antonyms": ["maintain", "preserve", "retain"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used in professional or organizational contexts, referring to making significant changes to improve performance."
+          },
+          {
+            "ptNote": "Este idiom é frequentemente usado em contextos profissionais ou organizacionais, referindo-se a fazer mudanças significativas para melhorar o desempenho."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "compel",
+        "phonetics": "/kəmˈpel/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to force someone to do something",
+        "ptDefinition": "obrigar",
+        "examples": [
+          {
+            "enExample": "As a schoolboy he was compelled to wear shorts even in winter.",
+            "ptExample": "Como estudante, ele foi obrigado a usar shorts mesmo no inverno."
+          }
+        ],
+        "synonyms": ["force", "require", "impel", "oblige"],
+        "antonyms": ["stop", "prevent", "thwart", "deter", "hinder"]
+      },
+      {
+        "word": "compelling",
+        "phonetics": "/kəmˈpel.ɪŋ/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "If a reason, argument, etc. is compelling, it makes you believe it or accept it because it is so strong.",
+        "ptDefinition": "convincente",
+        "examples": [
+          {
+            "enExample": "compelling evidence",
+            "ptExample": "evidência convincente"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "come up with a winner",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to think up a very good idea",
+        "ptDefinition": "pensar em uma ideia muito boa",
+        "examples": [
+          {
+            "enExample": "Everybody likes Pepsi's new advertising campaign. Their advertising agency has come up with a winner.",
+            "ptExample": "Todo mundo gosta da nova campanha publicitária da Pepsi. A agência de publicidade deles criou um sucesso."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "customer",
+        "phonetics": "/ˈkʌs.tə.mɚ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a person who buys goods or a service",
+        "ptDefinition": "uma pessoa que compra bens ou serviços",
+        "examples": [
+          {
+            "enExample": "Mrs. Wilson is one of our regular customers.",
+            "ptExample": "A Sra. Wilson é uma de nossas clientes regulares."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "crunch the numbers",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to analyze and process numerical data, often to make decisions or conclusions",
+        "ptDefinition": "analisar e processar dados numéricos, geralmente para tomar decisões ou conclusões",
+        "examples": [
+          {
+            "enExample": "Before making the final decision, the team had to crunch the numbers to ensure the budget would work.",
+            "ptExample": "Antes de tomar a decisão final, a equipe teve que analisar os números para garantir que o orçamento funcionaria."
+          }
+        ],
+        "synonyms": ["analyze the data", "process the figures", "do the calculations"],
+        "antonyms": ["ignore the data", "disregard the numbers"]
+      }
+    ]
+  }
+]

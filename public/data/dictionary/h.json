@@ -1,0 +1,163 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "hunker down",
+        "phonetics": "ˈhʌŋkɚ daʊn",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to settle in a place for a long period of time, especially for protection or to wait for something to happen",
+        "ptDefinition": "se estabelecer em um lugar por um longo período de tempo, especialmente para proteção ou para esperar que algo aconteça",
+        "examples": [
+          {
+            "enExample": "We decided to hunker down and wait out the storm.",
+            "ptExample": "Decidimos nos abrigar e esperar a tempestade passar."
+          },
+          {
+            "enExample": "The soldiers hunkered down in their trenches.",
+            "ptExample": "Os soldados se agacharam em suas trincheiras."
+          }
+        ],
+        "synonyms": ["settle in", "bunker down", "take cover"],
+        "antonyms": ["move out", "evacuate"],
+        "seeAlso": ["shelter", "stay put"],
+        "notes": [
+          {
+            "enNote": "Often used in the context of preparing for a difficult or dangerous situation.",
+            "ptNote": "Frequentemente usado no contexto de se preparar para uma situação difícil ou perigosa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "house",
+        "phonetics": "haʊs",
+        "partOfSpeech": "noun",
+        "enDefinition": "a building for human habitation, especially one that is lived in by a family or small group of people",
+        "ptDefinition": "um edifício para habitação humana, especialmente um que é habitado por uma família ou pequeno grupo de pessoas",
+        "examples": [
+          {
+            "enExample": "The house has three bedrooms and two bathrooms.",
+            "ptExample": "A casa tem três quartos e dois banheiros."
+          }
+        ],
+        "synonyms": ["home", "residence", "dwelling"],
+        "antonyms": ["apartment", "condominium"],
+        "seeAlso": ["building", "home", "residence"],
+        "notes": [
+          {
+            "enNote": "A house can be a single-family home, a townhouse, or a row house.",
+            "ptNote": "Uma casa pode ser uma residência unifamiliar, uma casa geminada ou uma casa em banda."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "half-baked ideas",
+        "partOfSpeech": "idiom",
+        "enDefinition": "ideas or plans that are still underdeveloped or not fully thought through, often requiring further refinement or consideration",
+        "ptDefinition": "ideias ou planos que ainda não estão totalmente desenvolvidos ou que precisam de mais reflexão e ajustes",
+        "examples": [
+          {
+            "enExample": "In creative brainstorming sessions, half-baked ideas can lead to unexpected breakthroughs when refined.",
+            "ptExample": "Em sessões de brainstorming criativo, ideias inacabadas podem levar a descobertas inesperadas quando aperfeiçoadas."
+          }
+        ],
+        "synonyms": ["unfinished ideas", "rough concepts", "early-stage thoughts"],
+        "antonyms": ["well-developed ideas", "polished solutions", "concrete plans"],
+        "seeAlso": ["brainstorming", "creative process", "idea development"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "happy",
+        "phonetics": "ˈhæpi",
+        "partOfSpeech": "adjective",
+        "enDefinition": "feeling or showing pleasure, contentment, or joy",
+        "ptDefinition": "sentindo ou demonstrando prazer, satisfação ou alegria",
+        "examples": [
+          {
+            "enExample": "She felt happy when she saw her family after a long time.",
+            "ptExample": "Ela se sentiu feliz ao ver sua família depois de muito tempo."
+          },
+          {
+            "enExample": "The children were happy playing in the park.",
+            "ptExample": "As crianças estavam felizes brincando no parque."
+          },
+          {
+            "enExample": "He was happy with the results of his hard work.",
+            "ptExample": "Ele ficou feliz com os resultados de seu trabalho árduo."
+          }
+        ],
+        "synonyms": ["joyful", "cheerful", "content"],
+        "antonyms": ["sad", "unhappy", "miserable"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "hard stop",
+        "phonetics": "hɑrd stɑp",
+        "partOfSpeech": "noun",
+        "enDefinition": "a firm and non-negotiable deadline or ending time",
+        "ptDefinition": "um prazo ou horário de término firme e inegociável",
+        "examples": [
+          {
+            "enExample": "I have a hard stop at 3 PM for another meeting.",
+            "ptExample": "Tenho um horário final às 15h para outra reunião."
+          },
+          {
+            "enExample": "Let's make sure we cover all the points before the hard stop.",
+            "ptExample": "Vamos garantir que cobrimos todos os pontos antes do horário final."
+          },
+          {
+            "enExample": "The team agreed on a hard stop to keep the project on schedule.",
+            "ptExample": "A equipe concordou em um prazo final para manter o projeto dentro do cronograma."
+          }
+        ],
+        "synonyms": ["deadline", "cutoff", "endpoint"],
+        "antonyms": ["flexible timing", "open-ended"],
+        "notes": [
+          {
+            "enNote": "Commonly used in business or scheduling contexts to emphasize strict time management.",
+            "ptNote": "Comumente usado em contextos de negócios ou planejamento para enfatizar a gestão rigorosa do tempo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "one's head on the chopping block",
+        "partOfSpeech": "idiom",
+        "enDefinition": "in a position where one is at risk of being criticized, blamed, or punished for something",
+        "ptDefinition": "em uma posição de risco de ser criticado, culpado ou punido por algo",
+        "examples": [
+          {
+            "enExample": "If this project fails, it's my head on the chopping block.",
+            "ptExample": "Se este projeto falhar, será a minha cabeça na guilhotina."
+          }
+        ],
+        "notes": [
+          {
+            "enNote": "A chopping block is a piece of wood on which food or wood is chopped. Having your head on the block would suggest that it is going to be cut off. Fortunately, the meeting here is not literal. If your head is on the chopping block, you might lose your job, but at least you'll still have your head!"
+          },
+          {
+            "ptNote": "Uma \"tábua de cortar\" é um pedaço de madeira onde alimentos ou madeira são cortados. Ter sua cabeça na tábua sugeriria que ela seria cortada. Felizmente, o significado aqui não é literal. Se sua cabeça estiver na tábua de cortar, você pode perder seu emprego, mas pelo menos ainda terá sua cabeça!"
+          }
+        ],
+        "synonyms": ["at risk", "on the line", "under threat", "in jeopardy"],
+        "antonyms": ["safe", "out of harm's way"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "no big deal",
+        "phonetics": "/nəʊ bɪɡ diːl/",
+        "partOfSpeech": "idiom", 
+        "enDefinition": "used to indicate that something is not important or not a problem",
+        "ptDefinition": "usado para indicar que algo não é importante ou não é um problema",
+        "examples": [
+          {
+            "enExample": "Don't worry about breaking the glass, it's no big deal.",
+            "ptExample": "Não se preocupe por ter quebrado o copo, não é nada demais."
+          }
+        ],
+        "synonyms": ["not important", "no problem", "no worries"],
+        "antonyms": ["big deal", "major issue"],
+        "seeAlso": ["no problem", "don't worry about it"],
+        "notes": [
+          {
+            "enNote": "A casual expression used to minimize concerns",
+            "ptNote": "Uma expressão casual usada para minimizar preocupações"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "no big deal",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to indicate that something is not important or not a problem",
+        "ptDefinition": "usado para indicar que algo não é importante ou não é um problema",
+        "examples": [
+          {
+            "enExample": "Don't worry about being late, it's no big deal.",
+            "ptExample": "Não se preocupe em se atrasar, não é nada demais."
+          },
+          {
+            "enExample": "It's no big deal if you can't come to the party.",
+            "ptExample": "Não é nada demais se você não puder vir à festa."
+          }
+        ],
+        "synonyms": ["not important", "no problem", "no worries"],
+        "antonyms": ["big deal", "important", "significant"],
+        "seeAlso": ["no problem", "no worries"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to reassure someone that something is not a cause for concern.",
+            "ptNote": "Este idiom é frequentemente usado para tranquilizar alguém de que algo não é motivo de preocupação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "not see eye-to-eye",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to disagree with someone or have different opinions",
+        "ptDefinition": "não concordar com alguém ou ter opiniões diferentes",
+        "examples": [
+          {
+            "enExample": "They don't see eye-to-eye on the new policy.",
+            "ptExample": "Eles não concordam com a nova política."
+          },
+          {
+            "enExample": "We rarely see eye-to-eye on how to raise the children.",
+            "ptExample": "Raramente concordamos sobre como criar os filhos."
+          }
+        ],
+        "synonyms": ["disagree", "differ", "clash"],
+        "antonyms": ["agree", "concur", "see things the same way"],
+        "seeAlso": ["dispute", "conflict"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to describe a situation where two people have different opinions or perspectives.",
+            "ptNote": "Este idiom é frequentemente usado para descrever uma situação em que duas pessoas têm opiniões ou perspectivas diferentes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "nervous",
+        "phonetics": "/ˈnɜːrvəs/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "easily agitated or alarmed; tending to be anxious; highly strung",
+        "ptDefinition": "facilmente agitado ou alarmado; tendendo a ser ansioso; muito tenso",
+        "examples": [
+          {
+            "enExample": "She was nervous about her job interview.",
+            "ptExample": "Ela estava nervosa com a entrevista de emprego."
+          },
+          {
+            "enExample": "He gave a nervous laugh.",
+            "ptExample": "Ele deu uma risada nervosa."
+          }
+        ],
+        "synonyms": ["anxious", "apprehensive", "tense"],
+        "antonyms": ["calm", "relaxed", "confident"],
+        "seeAlso": ["anxiety", "stress"],
+        "notes": [
+          {
+            "enNote": "The word 'nervous' can describe both a temporary state of anxiety and a more general tendency to be anxious.",
+            "ptNote": "A palavra 'nervoso' pode descrever tanto um estado temporário de ansiedade quanto uma tendência mais geral de ser ansioso."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "nothing ventured, nothing gained",
+        "partOfSpeech": "idiom",
+        "enDefinition": "you can't achieve anything without taking risks or trying",
+        "ptDefinition": "você não pode alcançar nada sem correr riscos ou tentar",
+        "examples": [
+          {
+            "enExample": "I know starting a new business is risky, but nothing ventured, nothing gained.",
+            "ptExample": "Eu sei que começar um novo negócio é arriscado, mas quem não arrisca, não petisca."
+          },
+          {
+            "enExample": "He decided to ask for the promotion, thinking 'nothing ventured, nothing gained'.",
+            "ptExample": "Ele decidiu pedir a promoção, pensando 'quem não arrisca, não petisca'."
+          }
+        ],
+        "synonyms": [
+          "take a chance",
+          "no risk, no reward",
+          "step out of one's comfort zone"
+        ],
+        "antonyms": ["play it safe", "avoid risk"],
+        "seeAlso": ["take risks", "dare to try"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to encourage someone to take chances or embrace new opportunities.",
+            "ptNote": "Essa expressão é frequentemente usada para encorajar alguém a correr riscos ou abraçar novas oportunidades."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "need something like a hole in the head",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to emphasize that something is completely unnecessary or undesirable",
+        "ptDefinition": "usado para enfatizar que algo é completamente desnecessário ou indesejado",
+        "examples": [
+          {
+            "enExample": "I need more paperwork like a hole in the head.",
+            "ptExample": "Eu preciso de mais papelada \"como de um buraco na cabeça.\""
+          },
+          {
+            "enExample": "He says he needs another meeting like a hole in the head.",
+            "ptExample": "Ele diz que precisa de mais uma reunião \"como de um buraco na cabeça.\""
+          }
+        ],
+        "synonyms": ["not want", "unnecessary", "undesirable"],
+        "antonyms": ["welcome", "necessary", "desirable"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used sarcastically to stress how unwanted or unnecessary something is.",
+            "ptNote": "Esta frase é frequentemente usada sarcasticamente para enfatizar o quão indesejado ou desnecessário algo é."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "no ifs, ands, or buts",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to emphasize that there are no excuses, exceptions, or compromises allowed in a situation",
+        "ptDefinition": "usado para enfatizar que não há desculpas, exceções ou concessões permitidas em uma situação",
+        "examples": [
+          {
+            "enExample": "You need to finish your report by tomorrow — no ifs, ands, or buts.",
+            "ptExample": "Você precisa terminar o relatório até amanhã — sem desculpas ou negociações."
+          },
+          {
+            "enExample": "The rules are clear, and everyone must follow them, no ifs, ands, or buts.",
+            "ptExample": "As regras são claras e todos devem segui-las, sem exceções ou argumentos."
+          }
+        ],
+        "synonyms": [
+          "no excuses",
+          "no exceptions",
+          "no compromises",
+          "absolutely"
+        ],
+        "antonyms": ["with exceptions", "with conditions", "negotiable"],
+        "notes": [
+          {
+            "enNote": "This expression is often used to establish firm boundaries or emphasize strict adherence to a rule or decision."
+          },
+          {
+            "ptNote": "Esta expressão é frequentemente usada para estabelecer limites firmes ou enfatizar a estrita adesão a uma regra ou decisão."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "near",
+        "phonetics": "/nɪr/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to come closer to someone or something",
+        "ptDefinition": "aproximar-se de alguém ou algo",
+        "examples": [
+          {
+            "enExample": "The train neared the station.",
+            "ptExample": "O trem se aproximou da estação."
+          }
+        ],
+        "synonyms": ["approach", "advance"],
+        "antonyms": ["recede", "withdraw"],
+        "seeAlso": ["come closer", "draw near"]
+      },
+      {
+        "word": "near",
+        "phonetics": "/nɪr/",
+        "partOfSpeech": "adverb",
+        "enDefinition": "At or to a short distance away.",
+        "ptDefinition": "A uma curta distância.",
+        "examples": [
+          {
+            "enExample": "We moved nearer to the stage.",
+            "ptExample": "Nós nos movemos mais perto do palco."
+          }
+        ],
+        "synonyms": ["closely", "nearby"],
+        "antonyms": ["far", "distantly"],
+        "seeAlso": ["close", "approximately"]
+      },
+      {
+        "word": "near",
+        "phonetics": "/nɪr/",
+        "partOfSpeech": "preposition",
+        "enDefinition": "Close to someone or something in distance or time.",
+        "ptDefinition": "Perto de alguém ou algo em distância ou tempo.",
+        "examples": [
+          {
+            "enExample": "She sat near the window.",
+            "ptExample": "Ela se sentou perto da janela."
+          }
+        ],
+        "synonyms": ["by", "beside", "next to"],
+        "antonyms": ["far from", "away from"],
+        "seeAlso": ["adjacent", "alongside"]
+      },
+      {
+        "word": "near",
+        "phonetics": "/nɪr/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "Located a short distance away; close.",
+        "ptDefinition": "Localizado a uma curta distância; próximo.",
+        "examples": [
+          {
+            "enExample": "The nearest hospital is just a mile away.",
+            "ptExample": "O hospital mais próximo fica a apenas um quilômetro."
+          }
+        ],
+        "synonyms": ["close", "neighboring"],
+        "antonyms": ["distant", "remote"],
+        "seeAlso": ["proximal", "nearby"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "new blood",
+        "partOfSpeech": "idiom",
+        "enDefinition": "new people or ideas brought into a group, organization, or situation, often to invigorate or refresh it",
+        "ptDefinition": "novas pessoas ou ideias introduzidas em um grupo, organização ou situação, geralmente para revigorá-lo ou atualizá-lo",
+        "examples": [
+          {
+            "enExample": "The company hired new blood to help innovate their outdated processes.",
+            "ptExample": "A empresa contratou novas pessoas para ajudar a inovar seus processos desatualizados."
+          },
+          {
+            "enExample": "The team is looking for some new blood to bring fresh perspectives to the project.",
+            "ptExample": "A equipe está procurando por novas pessoas para trazer perspectivas frescas para o projeto."
+          }
+        ],
+        "synonyms": ["fresh talent", "new faces", "new recruits"],
+        "antonyms": ["old guard", "stagnation", "status quo"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used in professional contexts to refer to the infusion of new talent or ideas into a group."
+          },
+          {
+            "ptNote": "Este idiom é frequentemente usado em contextos profissionais para se referir à infusão de novos talentos ou ideias em um grupo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "New Zealand",
+        "partOfSpeech": "noun",
+        "enDefinition": "a country in the southern Pacific Ocean",
+        "ptDefinition": "Nova Zelândia"
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "nip ",
+        "phonetics": " /nɪp/",
+        "partOfSpeech": "verb",
+        "enDefinition": "bite sharply",
+        "ptDefinition": "abocanhar, morder",
+        "examples": [
+          {
+            "enExample": "The puppy nipped me on the leg.",
+            "ptExample": "O cachorrinho me mordeu na perna."
+          }
+        ],
+        "synonyms": ["bite", "pinch", "snap"]
+      },
+      {
+        "enDefinition": "frost",
+        "ptDefinition": "congelar",
+        "examples": [
+          {
+            "enExample": "The frost nipped the flowers.",
+            "ptExample": "A geada congelou as flores"
+          }
+        ]
+      },
+      {
+        "enDefinition": "[UK informal] to go somewhere quickly or be somewhere for only a short time",
+        "ptDefinition": "dar uma saída rápida",
+        "examples": [
+          {
+            "enExample": "Can you nip out/round/down to the shop for me?",
+            "ptExample": "Você pode ir rapidinho na loja para mim?"
+          }
+        ],
+        "synonyms": ["go", "rush", "dash", "stop by"]
+      },
+      {
+        "word": "nip off",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "remove something by pinching or squeezing sharply",
+        "ptDefinition": "arrancar, cortar",
+        "examples": [
+          {
+            "enExample": "He nipped off a length of wire with the cutters.",
+            "ptExample": "Ele cortou um pedaço de arame com o alicate."
+          }
+        ],
+        "synonyms": ["cut off", "trim", "remove"]
+      },
+      {
+        "word": "nip and tuck",
+        "partOfSpeech": "noun",
+        "enDefinition": "cosmetic surgery",
+        "ptDefinition": "cirurgia plástica",
+        "examples": [
+          {
+            "enExample": "Tessa has consulted a cosmetic surgeon about having a nip and tuck.",
+            "ptExample": "Tessa consultou um cirurgião plástico sobre fazer uma cirurgia plástica."
+          }
+        ],
+        "synonyms": ["neck and neck", "even", "drawn", "tied", "balanced"],
+        "antonyms": []
+      },
+      {
+        "word": "nip and tuck",
+        "partOfSpeech": "adjective",
+        "enDefinition": "If a competition is nip and tuck, first one side seems to be winning and then the other, so that the result is not certain.",
+        "ptDefinition": "acirrado, indefinido",
+        "examples": [
+          {
+            "enExample": "It was nip and tuck as to who would win the playoffs.",
+            "ptExample": "A competição estava taco a taco, então era difícil saber quem venceria as finais."
+          },
+          {
+            "enExample": "That race was so nip and tuck that I had no idea who would win until the very end.",
+            "ptExample": "Aquela corrida foi tão acirrada que eu não tinha ideia de quem venceria até o final."
+          }
+        ],
+        "synonyms": ["neck and neck", "even", "drawn", "tied", "balanced"],
+        "antonyms": []
+      },
+      {
+        "word": "nip (something) in the bud",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to stop (something) as soon as it starts",
+        "ptDefinition": "cortar pela raiz",
+        "examples": [
+          {
+            "enExample": "The managers nipped the strike in the bud.",
+            "ptExample": "Os dirigentes cortaram a greve pela raiz."
+          }
+        ],
+        "synonyms": ["abort"],
+        "antonyms": ["cut off", "cut short"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "no wonder",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to express that something is not surprising or that the reason for something is obvious",
+        "ptDefinition": "usado para expressar que algo não é surpreendente ou que a razão de algo é óbvia",
+        "examples": [
+          {
+            "enExample": "No wonder she was tired after running a marathon!",
+            "ptExample": "Não é de se admirar que ela estivesse cansada depois de correr uma maratona!"
+          }
+        ]
+      }
+    ]
+  }
+]

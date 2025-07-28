@@ -1,0 +1,749 @@
+[
+  {
+    "definitions": [
+      {
+        "word": "go cold turkey",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to suddenly and completely stop using an addictive substance or engaging in a habitual behavior",
+        "ptDefinition": "parar abruptamente e completamente de usar uma substância viciante ou um comportamento habitual",
+        "examples": [
+          {
+            "enExample": "He decided to go cold turkey and quit smoking immediately.",
+            "ptExample": "Ele decidiu parar de uma vez e deixou de fumar imediatamente."
+          },
+          {
+            "enExample": "Going cold turkey on caffeine can cause withdrawal headaches.",
+            "ptExample": "Parar de consumir cafeína abruptamente pode causar dores de cabeça."
+          }
+        ],
+        "synonyms": ["quit abruptly", "stop suddenly", "withdraw completely"],
+        "antonyms": ["wean off", "gradually reduce", "taper off"],
+        "seeAlso": ["withdrawal", "addiction", "quit"],
+        "notes": [
+          {
+            "enNote": "This phrase originated in the early 20th century, possibly referring to the cold, clammy skin during drug withdrawal.",
+            "ptNote": "Esta frase originou-se no início do século XX, possivelmente referindo-se à pele fria e úmida durante a abstinência de drogas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "go on about",
+        "partOfSpeech": "phrasal verb",
+        "phonetics": "/ɡoʊ ɑn əˈbaʊt/",
+        "enDefinition": "to talk at length about something, often in a way that is boring or annoying to others",
+        "ptDefinition": "falar longamente sobre algo, muitas vezes de uma maneira que é chata ou irritante para os outros",
+        "examples": [
+          {
+            "enExample": "He went on about his vacation for hours, and everyone was getting bored.",
+            "ptExample": "Ele falou sobre suas férias por horas, e todos estavam ficando entediados."
+          },
+          {
+            "enExample": "She can go on about her favorite TV show for ages.",
+            "ptExample": "Ela pode falar sobre seu programa de TV favorito por muito tempo."
+          }
+        ],
+        "synonyms": ["ramble", "drone on", "talk endlessly"],
+        "antonyms": ["be concise", "summarize", "be brief"],
+        "seeAlso": ["rant", "babble"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used to describe someone who is speaking in a way that others find tedious.",
+            "ptNote": "Esta frase é frequentemente usada para descrever alguém que está falando de uma maneira que os outros acham tediosa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "get off track",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to become distracted or lose focus on the main task or objective",
+        "ptDefinition": "ficar distraído ou perder o foco na tarefa ou objetivo principal",
+        "examples": [
+          {
+            "enExample": "We were making good progress on the project, but then we got off track with all the side discussions.",
+            "ptExample": "Estávamos fazendo um bom progresso no projeto, mas então nos desviamos com todas as discussões paralelas."
+          },
+          {
+            "enExample": "It's easy to get off track when there are so many distractions around.",
+            "ptExample": "É fácil se desviar quando há tantas distrações ao redor."
+          }
+        ],
+        "synonyms": ["lose focus", "get distracted", "stray"],
+        "antonyms": ["stay focused", "remain on track", "stay on course"],
+        "seeAlso": ["lose sight of", "wander off"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to describe situations where someone or something deviates from the intended path or goal.",
+            "ptNote": "Este idiom é frequentemente usado para descrever situações em que alguém ou algo se desvia do caminho ou objetivo pretendido."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "go",
+        "phonetics": "/ɡoʊ/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to move or travel from one place to another",
+        "ptDefinition": "ir",
+        "examples": [
+          {
+            "enExample": "I need to go to the store to buy some groceries.",
+            "ptExample": "Eu preciso ir à loja para comprar mantimentos."
+          },
+          {
+            "enExample": "She goes to work by bus every day.",
+            "ptExample": "Ela vai para o trabalho de ônibus todos os dias."
+          }
+        ],
+        "synonyms": ["move", "travel", "proceed"],
+        "antonyms": ["stay", "remain", "stop"],
+        "seeAlso": ["depart", "leave", "advance"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "grateful",
+        "phonetics": "/ˈɡreɪt.fəl/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "feeling or showing an appreciation for something done or received",
+        "ptDefinition": "sentindo ou mostrando apreço por algo feito ou recebido",
+        "examples": [
+          {
+            "enExample": "She was grateful for the help she received from her friends.",
+            "ptExample": "Ela estava grata pela ajuda que recebeu de seus amigos."
+          },
+          {
+            "enExample": "I'm grateful for your support during this difficult time.",
+            "ptExample": "Estou grato pelo seu apoio durante este momento difícil."
+          }
+        ],
+        "synonyms": ["thankful", "appreciative", "obliged"],
+        "antonyms": ["ungrateful", "thankless", "unappreciative"],
+        "seeAlso": ["thankful", "appreciative"],
+        "notes": [
+          {
+            "enNote": "Being grateful often involves recognizing the positive impact others have had on your life.",
+            "ptNote": "Ser grato frequentemente envolve reconhecer o impacto positivo que os outros tiveram em sua vida."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "goofy",
+        "phonetics": "/ˈɡuː.fi/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "silly or ridiculous, often in a way that is endearing or amusing",
+        "ptDefinition": "bobo ou ridículo, muitas vezes de uma maneira cativante ou divertida",
+        "examples": [
+          {
+            "enExample": "He made a goofy face to make the children laugh.",
+            "ptExample": "Ele fez uma cara boba para fazer as crianças rirem."
+          },
+          {
+            "enExample": "Her goofy sense of humor always lightens the mood.",
+            "ptExample": "Seu senso de humor bobo sempre melhora o clima."
+          }
+        ],
+        "synonyms": ["silly", "ridiculous", "absurd"],
+        "antonyms": ["serious", "sensible", "solemn"],
+        "seeAlso": ["funny", "comical", "whimsical"],
+        "notes": [
+          {
+            "enNote": "The term 'goofy' is often used affectionately to describe someone who is playfully silly.",
+            "ptNote": "O termo 'goofy' é frequentemente usado de forma carinhosa para descrever alguém que é brincalhão e bobo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "glad",
+        "phonetics": "/ɡlæd/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "feeling pleasure, joy, or happiness",
+        "ptDefinition": "sentindo prazer, alegria ou felicidade",
+        "examples": [
+          {
+            "enExample": "I'm so glad you came to the party.",
+            "ptExample": "Estou tão feliz que você veio à festa."
+          },
+          {
+            "enExample": "She was glad to hear the good news.",
+            "ptExample": "Ela ficou feliz em ouvir as boas notícias."
+          }
+        ],
+        "synonyms": ["happy", "pleased", "delighted"],
+        "antonyms": ["sad", "unhappy", "displeased"],
+        "seeAlso": ["joyful", "content", "cheerful"],
+        "notes": [
+          {
+            "enNote": "The word 'glad' is often used to express a positive emotional response to something.",
+            "ptNote": "A palavra 'glad' é frequentemente usada para expressar uma resposta emocional positiva a algo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "get down to business",
+        "partOfSpeech": "idiom",
+        "enDefinition": "To start focusing on the most important or serious part of something, usually after preliminary or less important tasks have been completed.",
+        "ptDefinition": "Começar a focar na parte mais importante ou séria de algo, geralmente depois que tarefas preliminares ou menos importantes foram concluídas.",
+        "examples": [
+          {
+            "enExample": "After a brief introduction, the meeting finally got down to business and started discussing the main project goals.",
+            "ptExample": "Depois de uma breve introdução, a reunião finalmente entrou no assunto e começou a discutir os principais objetivos do projeto."
+          },
+          {
+            "enExample": "Let's get down to business and figure out how to solve this issue as quickly as possible.",
+            "ptExample": "Vamos nos concentrar no trabalho e descobrir como resolver esse problema o mais rápido possível."
+          }
+        ],
+        "synonyms": ["get to the point", "focus", "begin", "start working"],
+        "antonyms": ["procrastinate", "waste time", "delay"],
+        "seeAlso": ["business discussion", "focus", "priority tasks"],
+        "notes": [
+          {
+            "enNote": "This phrase is commonly used to indicate that it's time to stop small talk or distractions and begin the main, serious part of a conversation or activity.",
+            "ptNote": "Essa frase é comumente usada para indicar que é hora de parar com a conversa fiada ou distrações e começar a parte principal e séria de uma conversa ou atividade."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "get buy-in (from)",
+        "phonetics": "/ɡɛt baɪ ɪn frəm/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to gain approval, support, or agreement from others, especially in a business or organizational context",
+        "ptDefinition": "obter aprovação, apoio ou concordância de outras pessoas, especialmente em um contexto empresarial ou organizacional",
+        "examples": [
+          {
+            "enExample": "We need to get buy-in from the team before we can proceed with the project.",
+            "ptExample": "Precisamos obter o apoio da equipe antes de podermos prosseguir com o projeto."
+          },
+          {
+            "enExample": "The manager worked hard to get buy-in from the stakeholders for the new initiative.",
+            "ptExample": "O gerente trabalhou duro para obter a aprovação dos envolvidos para a nova iniciativa."
+          }
+        ],
+        "synonyms": ["gain support", "win approval", "get agreement"],
+        "antonyms": ["face opposition", "be rejected"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "get right on something",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to start doing something immediately or with great focus and attention",
+        "ptDefinition": "começar a fazer algo imediatamente ou com grande foco e atenção",
+        "examples": [
+          {
+            "enExample": "I'll get right on the report as soon as I finish this task.",
+            "ptExample": "Eu vou começar o relatório assim que terminar essa tarefa."
+          },
+          {
+            "enExample": "We need to get right on this project to meet the deadline.",
+            "ptExample": "Precisamos começar este projeto imediatamente para cumprir o prazo."
+          }
+        ],
+        "synonyms": ["get started", "tackle", "dive into"],
+        "antonyms": ["delay", "procrastinate", "put off"],
+        "notes": [
+          {
+            "enNote": "This idiom emphasizes urgency and prioritization, suggesting that the task at hand should be dealt with right away.",
+            "ptNote": "Este idiom enfatiza urgência e priorização, sugerindo que a tarefa em questão deve ser tratada imediatamente."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "get with the program",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to understand or accept the current situation or way of doing things, especially when it is necessary for progress or success",
+        "ptDefinition": "entender ou aceitar a situação atual ou a forma de fazer as coisas, especialmente quando isso é necessário para o progresso ou sucesso",
+        "examples": [
+          {
+            "enExample": "You need to get with the program if you want to succeed in this industry.",
+            "ptExample": "Você precisa se atualizar se quiser ter sucesso nesta indústria."
+          },
+          {
+            "enExample": "Stop resisting change and get with the program—this is how things are done now.",
+            "ptExample": "Pare de resistir à mudança e se atualize—é assim que as coisas funcionam agora."
+          }
+        ],
+        "synonyms": ["get on board", "get in line", "accept the reality"],
+        "antonyms": ["resist change", "be left behind", "not adapt"],
+        "notes": [
+          {
+            "note": "This phrase is often used to encourage someone to adapt to new ideas, technologies, or approaches."
+          },
+          {
+            "note": "Esta expressão é frequentemente usada para incentivar alguém a se adaptar a novas ideias, tecnologias ou abordagens."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "get the job done",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to complete a task or fulfill a responsibility successfully, regardless of challenges",
+        "ptDefinition": "concluir uma tarefa ou cumprir uma responsabilidade com sucesso, apesar dos desafios",
+        "examples": [
+          {
+            "enExample": "We may face some obstacles, but our team knows how to get the job done.",
+            "ptExample": "Podemos enfrentar alguns obstáculos, mas nossa equipe sabe como fazer o trabalho acontecer."
+          },
+          {
+            "enExample": "No matter how difficult it is, she always finds a way to get the job done.",
+            "ptExample": "Não importa quão difícil seja, ela sempre encontra uma maneira de realizar a tarefa."
+          }
+        ],
+        "synonyms": ["accomplish the task", "make it happen", "see it through"],
+        "antonyms": ["fail to complete", "leave unfinished", "fall short"],
+        "notes": [
+          {
+            "enNote": "This phrase emphasizes determination and reliability, often in professional or practical contexts."
+          },
+          {
+            "ptNote": "Esta expressão enfatiza determinação e confiabilidade, frequentemente em contextos profissionais ou práticos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "generate lots of buzz",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to create excitement, attention, or interest, often in a short period of time, usually through word-of-mouth or publicity",
+        "ptDefinition": "gerar muita atenção ou empolgação, geralmente de forma rápida, publicidade ou boca a boca",
+        "examples": [
+          {
+            "enExample": "The new product launch generated lots of buzz on social media, with people sharing their opinions and excitement.",
+            "ptExample": "O lançamento do novo produto gerou muita atenção nas redes sociais, com as pessoas compartilhando suas opiniões e empolgação."
+          }
+        ],
+        "synonyms": ["create excitement", "stir up interest", "spark attention"],
+        "antonyms": ["go unnoticed", "lack interest", "be ignored"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used in marketing and media to describe how something quickly becomes a topic of conversation."
+          },
+          {
+            "ptNote": "Esta expressão é frequentemente usada em marketing e mídia para descrever como algo rapidamente se torna um tópico de conversa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "game plan",
+        "partOfSpeech": "idiom",
+        "enDefinition": "an action plan; a plan for how a project will proceed",
+        "ptDefinition": "um plano de ação; um plano de como um projeto irá prosseguir",
+        "examples": [
+          {
+            "enExample": "The software company's game plan is to expand its operations into China and India over the next year.",
+            "ptExample": "O plano de ação da empresa de software é expandir suas operações para a China e a Índia ao longo do próximo ano."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "gene",
+        "phonetics": "dʒiːn",
+        "partOfSpeech": "noun",
+        "enDefinition": "a unit of heredity in a living organism, typically a segment of DNA or RNA, that determines specific traits or functions",
+        "ptDefinition": "uma unidade de hereditariedade em um organismo vivo, tipicamente um segmento de DNA ou RNA, que determina características ou funções específicas",
+        "examples": [
+          {
+            "enExample": "Scientists discovered a gene responsible for eye color.",
+            "ptExample": "Cientistas descobriram um gene responsável pela cor dos olhos."
+          },
+          {
+            "enExample": "The gene mutation led to a rare disorder.",
+            "ptExample": "A mutação genética levou a uma desordem rara."
+          },
+          {
+            "enExample": "Genes are passed from parents to their offspring.",
+            "ptExample": "Os genes são transmitidos dos pais para seus descendentes."
+          }
+        ],
+        "synonyms": ["hereditary unit", "DNA segment", "genetic material"],
+        "antonyms": ["non-genetic factor"],
+        "seeAlso": ["genetics", "genome", "chromosome"],
+        "notes": [
+          {
+            "enNote": "Genes play a fundamental role in the inheritance of traits and biological diversity.",
+            "ptNote": "Os genes desempenham um papel fundamental na herança de características e na diversidade biológica."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "genome",
+        "phonetics": "/ˈdʒiː.noʊm/",
+        "partOfSpeech": "noun",
+        "enDefinition": "the complete set of genetic material of a human, animal, plant, or other living thing",
+        "ptDefinition": "genoma"
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "genetic code",
+        "partOfSpeech": "noun",
+        "enDefinition": "the instructions contained in a gene that tell a cell how to make a specific protein",
+        "ptDefinition": "código genético"
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "get something off the ground",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to get started on something, often a project",
+        "ptDefinition": "começar algo, geralmente um projeto",
+        "examples": [
+          {
+            "enExample": "We've been sitting around talking about this project for months. It's time to take action and get it off the ground!",
+            "ptExample": "Ficamos discutindo este projeto por meses. É hora de agir e colocá-lo em prática!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "get to the bottom of something",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to find out the real cause or reason for something, often by thoroughly investigating",
+        "ptDefinition": "descobrir a verdadeira causa ou razão de algo, geralmente por meio de uma investigação detalhada",
+        "examples": [
+          {
+            "enExample": "The manager is determined to get to the bottom of the issue with the delayed shipments.",
+            "ptExample": "O gerente está determinado a descobrir a causa do problema com os atrasos nas entregas."
+          },
+          {
+            "enExample": "We need to get to the bottom of why sales have been declining over the past few months.",
+            "ptExample": "Precisamos entender de fato por que as vendas têm diminuído nos últimos meses."
+          }
+        ],
+        "synonyms": ["investigate", "uncover", "figure out"],
+        "antonyms": ["ignore", "neglect", "overlook"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used in problem-solving contexts where understanding the root cause is essential."
+          },
+          {
+            "ptNote": "Este idiom é frequentemente usado em contextos de resolução de problemas, onde entender a causa raiz é essencial."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "get wind of",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to find out about something, often sensitive information",
+        "ptDefinition": "descobrir algo, muitas vezes uma informação sensível",
+        "examples": [
+          {
+            "enExample": "When the restaurant owner got wind of the fact that one of his waiters was stealing money from the cash register, he was furious.",
+            "ptExample": "Quando o dono do restaurante soube que um de seus garçons estava roubando dinheiro do caixa, ficou furioso."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "give a run for one's money",
+        "phonetics": "",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to challenge someone, providing strong competition or resistance; to make it difficult for someone to succeed or achieve something easily",
+        "ptDefinition": "desafiar alguém, proporcionando forte competição ou resistência; dificultar para que alguém alcance algo facilmente",
+        "examples": [
+          {
+            "enExample": "The underdog team gave the reigning champions a run for their money in the finals.",
+            "ptExample": "O time azarão deu trabalho para os campeões na final."
+          },
+          {
+            "enExample": "If you hire her, she'll give all the other employees a run for their money.",
+            "ptExample": "Se você contratá-la, ela vai dar trabalho para todos os outros funcionários."
+          }
+        ],
+        "synonyms": ["challenge", "compete with", "rival"],
+        "antonyms": ["yield", "concede", "surrender"],
+        "seeAlso": ["give someone a hard time", "hold one's own"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "give it one's best shot",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to try one's hardest or put forth maximum effort in an attempt to succeed",
+        "ptDefinition": "tentar o máximo possível ou dar o melhor de si para ter sucesso",
+        "examples": [
+          {
+            "enExample": "Even though it was a tough challenge, he gave it his best shot and passed the exam.",
+            "ptExample": "Embora fosse um desafio difícil, ele deu o melhor de si e passou na prova."
+          },
+          {
+            "enExample": "She gave it her best shot, but the performance still didn't go as planned.",
+            "ptExample": "Ela deu o melhor de si, mas a apresentação ainda não saiu como o planejado."
+          },
+          {
+            "enExample": "I'm not sure if I can do it, but I'll give it my best shot.",
+            "ptExample": "Não tenho certeza se consigo fazer, mas vou dar o meu melhor."
+          }
+        ],
+        "synonyms": ["try hard", "give one's all", "do one's best"],
+        "antonyms": ["give up", "half-hearted attempt", "slack off"],
+        "seeAlso": ["put in effort", "give one's all"],
+        "notes": [
+          {
+            "enNote": "This idiom emphasizes putting in maximum effort, regardless of the outcome.",
+            "ptNote": "Essa expressão enfatiza o ato de se esforçar ao máximo, independentemente do resultado."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "give somebody the greenlight",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to give someone permission or approval to proceed with a project, action, or idea",
+        "ptDefinition": "dar a alguém permissão ou aprovação para seguir com um projeto, ação ou ideia",
+        "examples": [
+          {
+            "enExample": "The manager gave the team the greenlight to start the new campaign.",
+            "ptExample": "O gerente deu à equipe o sinal verde para começar a nova campanha."
+          },
+          {
+            "enExample": "Once we get the greenlight from the board, we can proceed with construction.",
+            "ptExample": "Assim que recebermos o sinal verde do conselho, podemos prosseguir com a construção."
+          }
+        ],
+        "synonyms": ["approve", "authorize", "permit"],
+        "antonyms": ["deny", "block", "refuse"],
+        "seeAlso": ["give the go-ahead", "grant permission"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "good",
+        "phonetics": "/ɡʊd/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "very satisfactory, enjoyable, pleasant, or interesting",
+        "ptDefinition": "bom",
+        "examples": [
+          {
+            "enExample": "It's a good book.",
+            "ptExample": "É um bom livro."
+          }
+        ]
+      },
+      {
+        "enDefinition": "successful, or able to do something well",
+        "ptDefinition": "bom",
+        "examples": [
+          {
+            "enExample": "Kate's a good cook.",
+            "ptExample": "Kate é uma boa cozinheira."
+          },
+          {
+            "enExample": "He's very good at geography.",
+            "ptExample": "Ele é muito boa em geografia."
+          },
+          {
+            "enExample": "She's very good with children.",
+            "ptExample": "Ela é muito boa com crianças."
+          }
+        ]
+      },
+      {
+        "enDefinition": "kind or helpful",
+        "ptDefinition": "bom, gentil",
+        "examples": [
+          {
+            "enExample": "He's a good friend.",
+            "ptExample": "Ele é um bom amigo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "goods",
+        "phonetics": "/ɡʊdz/",
+        "partOfSpeech": "noun",
+        "enDefinition": "things that are made to be sold",
+        "ptDefinition": "mercadorias, bens",
+        "examples": [
+          {
+            "enExample": "expensive goods",
+            "ptExample": "bens caros"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "good call",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a wise or sensible decision or judgment",
+        "ptDefinition": "uma decisão ou julgamento sábio ou sensato",
+        "examples": [
+          {
+            "enExample": "Choosing to invest in renewable energy was a good call for the company.",
+            "ptExample": "Optar por investir em energia renovável foi uma boa decisão para a empresa."
+          },
+          {
+            "enExample": "It was a good call to delay the event until the weather improved.",
+            "ptExample": "Foi uma boa decisão adiar o evento até o tempo melhorar."
+          }
+        ],
+        "synonyms": ["wise decision", "smart move", "good judgment"],
+        "antonyms": ["bad decision", "poor judgment", "mistake"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to praise someone for making a smart or appropriate choice.",
+            "ptNote": "Este idiom é frequentemente usado para elogiar alguém por tomar uma decisão inteligente ou apropriada."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "go all out",
+        "partOfSpeech": "idiom",
+        "enDefinition": "this phrase means to put in maximum effort or to go to extremes in doing something",
+        "ptDefinition": "esta expressão significa colocar o máximo de esforço ou ir ao extremo em algo",
+        "examples": [
+          {
+            "enExample": "They decided to go all out with their wedding, hiring a famous band and booking an expensive venue.",
+            "ptExample": "Eles decidiram se dedicar completamente ao casamento, contratando uma banda famosa e reservando um local caro."
+          },
+          {
+            "enExample": "The company is going all out to win this contract, offering extra services and incentives.",
+            "ptExample": "A empresa está se dedicando ao máximo para ganhar este contrato, oferecendo serviços extras e incentivos."
+          }
+        ],
+        "synonyms": ["put in maximum effort", "go the extra mile", "spare no expense"],
+        "antonyms": ["hold back", "take it easy", "go easy"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to describe situations where someone is fully committed to achieving a goal.",
+            "ptNote": "Este idiom é frequentemente usado para descrever situações em que alguém está totalmente comprometido em alcançar um objetivo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "the grass is always greener on the other side",
+        "partOfSpeech": "proverb",
+        "enDefinition": "the circumstances of others seem more desirable than one's own but in reality often are not",
+        "ptDefinition": "a grama do vizinho é sempre mais verde",
+        "examples": [
+          {
+            "enExample": "<b>A:</b> It just seems like they have this perfect life, always traveling and spending time together. <b>B:</b> Hey, the grass is always greener. I'm sure they have their own problems that no one else can see.",
+            "ptExample": "A: Parece que eles têm uma vida perfeita, sempre viajando e passando tempo juntos. B: Ei, a grama sempre parece mais verde. Tenho certeza de que eles têm seus próprios problemas que ninguém mais pode ver."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "guerrilla marketing",
+        "phonetics": "/ɡəˈrɪlə ˈmɑrkɪtɪŋ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a creative and unconventional approach to marketing that uses low-cost strategies to promote a product or service",
+        "ptDefinition": "uma abordagem criativa e não convencional de marketing que utiliza estratégias de baixo custo para promover um produto ou serviço",
+        "examples": [
+          {
+            "enExample": "The small business used guerrilla marketing to attract attention with street art campaigns.",
+            "ptExample": "A pequena empresa utilizou marketing de guerrilha para atrair atenção com campanhas de arte de rua."
+          },
+          {
+            "enExample": "Guerrilla marketing tactics often rely on surprise and creativity to engage audiences.",
+            "ptExample": "As táticas de marketing de guerrilha frequentemente dependem de surpresa e criatividade para engajar o público."
+          }
+        ],
+        "synonyms": ["unconventional marketing", "creative advertising", "grassroots marketing"],
+        "antonyms": ["traditional marketing", "conventional advertising"],
+        "seeAlso": "",
+        "notes": [
+          {
+            "enNote": "This term originates from the idea of guerrilla warfare, emphasizing unconventional and strategic actions."
+          },
+          {
+            "ptNote": "Este termo vem da guerra de guerrilha, destacando ações não convencionais e estratégicas."
+          }
+        ]
+      }
+    ]
+  }
+]
