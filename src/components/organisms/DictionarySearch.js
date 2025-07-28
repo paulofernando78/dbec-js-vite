@@ -32,14 +32,16 @@ class Dictionary extends HTMLElement {
     const input = document.createElement("input");
     input.style.width = "100%";
     input.style.borderRadius = "var(--border-radius)";
-    input.style.border = "1px";
+    input.style.border = "none";
     input.placeholder = "Search word";
+    input.style.margin = "0 6px 0 4px";
     input.style.padding = "4px";
 
     const searchButton = document.createElement("wc-button");
     searchButton.setAttribute("data-icon", "search");
     searchButton.style.position = "relative";
     searchButton.style.top = "2px";
+    searchButton.style.marginRight = "2px";
     searchButton.addEventListener("click", () => {
     })
 
