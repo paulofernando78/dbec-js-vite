@@ -246,7 +246,7 @@ class Exercise extends HTMLElement {
           // Check each "block"
           group.block.forEach((inputSet) => {
             const fillWrapper = document.createElement("div");
-            fillWrapper.style.display = "inline-block";
+            fillWrapper.style.display = "inline";
 
             // beforeBlank
             const beforeBlank = document.createElement("span");

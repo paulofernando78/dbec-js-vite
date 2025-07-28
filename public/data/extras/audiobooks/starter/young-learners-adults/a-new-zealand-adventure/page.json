@@ -166,6 +166,31 @@
         }
       ]
     },
+     {
+      "exercises": [
+        {
+          "title": "Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. What do the girls do when they get to the airport? They",
+                      "correctAnswer": ["look for"],
+                      "afterBlank": "a taxi."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "ribbon": {
         "icon": "snippet",
@@ -187,6 +212,40 @@
               "block": [
                 {
                   "text": "The taxi stops at the bus station. Suddenly, Jessica sees a mobile phone on the taxi floor. “Is that your mobile phone?” she asks the driver. He looks at it. “No,” he answers. “It’s the boy’s mobile.” Sarah takes it. Perhaps I can find his address,” she says. “Yes! His name’s Michael. Tomorrow he’s at Ninety Mile Beach. We can give it to him there.”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. What does Sarah do when she sees the phone on the taxi floor? She",
+                      "correctAnswer": ["takes"],
+                      "afterBlank": "it."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "2. Now they have to",
+                      "correctAnswer": ["find"],
+                      "afterBlank": "his address."
+                    }
+                  ]
                 }
               ]
             }
@@ -225,6 +284,31 @@
       ]
     },
     {
+      "exercises": [
+        {
+          "title": "Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. What do the girls do at the Ninety Beach? They",
+                      "correctAnswer": ["wait"],
+                      "afterBlank": "for Michael."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 5 • 2:22",
@@ -247,6 +331,40 @@
               "block": [
                 {
                   "text": "The girls get on a bus. “Can we catch (h)im?” Jessica asks. “I don’(t) know,” Sarah answers. “I can’(t) see his bus now.” Suddenly, they hear a beep. Sarah looks at the mobile. “There’s a message for Michael,” she says. She reads the message. “It’s important,” she says. “Perhaps we can find (h)im tomorrow a(t) the Sky Tower in Auckland.”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. Suddenly, they hear a beep. Sarah",
+                      "correctAnswer": ["looks"]
+                    },
+                    {
+                      "beforeBlank": "at the mobile. “",
+                      "correctAnswer": ["There’s", "There's"],
+                      "afterBlank": ""
+                    },
+                    {
+                      "beforeBlank": "a message for Michael,” she",
+                      "correctAnswer": ["says"],
+                      "afterBlank": "."
+                    }
+                  ]
                 }
               ]
             }
@@ -285,6 +403,35 @@
       ]
     },
     {
+      "exercises": [
+        {
+          "title": "Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. What does Sarah give to Jessica? She",
+                      "correctAnswer": ["gives"]
+                    },
+                    {
+                      "beforeBlank": "her bag and she",
+                      "correctAnswer": ["goes up"],
+                      "afterBlank": "the tower."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 7 • 3:34",
@@ -307,6 +454,31 @@
               "block": [
                 {
                   "text": "Sarah jumps. It is very long jump. She comes down near the street and she sees Michael. Jessica sees him too. “Michael! Come back! We’ve got your mobile!” she calls to him. But Michael is walking away. She runs after him. She doesn’t take Sarah’s bag. “Jessica! My bag!” Sarah calls."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. At the top of the tower Sarah",
+                      "correctAnswer": ["jumps"],
+                      "afterBlank": "."
+                    }
+                  ]
                 }
               ]
             }
@@ -345,6 +517,39 @@
       ]
     },
     {
+      "exercises": [
+        {
+          "title": "Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. They're unhappy because they can’t",
+                      "correctAnswer": ["find"]
+                    },
+                    {
+                      "beforeBlank": "Michael, Sarah’s bag and they don’t",
+                      "correctAnswer": ["have"]
+                    },
+                    {
+                      "beforeBlank": "money. But, they",
+                      "correctAnswer": ["have", "have got", "’ve got", "'ve got"],
+                      "afterBlank": "tickets for the Glow-worm Caves."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 9 • 4:42",
@@ -367,6 +572,31 @@
               "block": [
                 {
                   "text": "The girls go on a boat into the dark cave. The lights from the glow-worm are very beautiful and it is very quiet. Suddenly, there is a beep from Michael’s mobile. The lights go dark. The people in the boat are angry. “No mobiles!” they say. “We’re very sorry,” Sarah says. She sees a new message for Michael. “Perhaps we can find him in Rotorua.”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. How do the girls get into the dark cave? They",
+                      "correctAnswer": ["go on"],
+                      "afterBlank": "a boat."
+                    }
+                  ]
                 }
               ]
             }
@@ -405,6 +635,31 @@
       ]
     },
     {
+      "exercises": [
+        {
+          "title": "Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. Where’s Michael? He’s in the",
+                      "correctAnswer": ["South"],
+                      "afterBlank": "Island."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 11 • 5:55",
@@ -427,6 +682,36 @@
               "block": [
                 {
                   "text": "Sarah and Jessica take a boat to the South Island. It is very cold, but the café is expensive. Suddenly, there is a beep from Michael’s mobile phone. “Oh, no! Not again!” Sarah says. She reads the message. “Michael’s mother and father are worrying about him, and we can’t find him. Let’s take his mobile phone to the police station in Kaikoura.”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. After the beep, Sarah",
+                      "correctAnswer": ["reads"],
+                      "afterBlank": "the message"
+                    },
+                    {
+                      "beforeBlank": "and they",
+                      "correctAnswer": ["take"],
+                      "afterBlank": "the phone to the police station."
+                    }
+                  ]
                 }
               ]
             }
@@ -465,6 +750,31 @@
       ]
     },
     {
+      "exercises": [
+        {
+          "title": "Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. They can't see the whales because the tickets are",
+                      "correctAnswer": ["expensive"],
+                      "afterBlank": "."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 13 • 7:03",
@@ -495,6 +805,45 @@
       ]
     },
     {
+      "exercises": [
+        {
+          "title": "Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. After Michael gets the phone back he",
+                      "correctAnswer": ["calls"],
+                      "afterBlank": "home."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "2. Michael can",
+                      "correctAnswer": ["give"],
+                      "afterBlank": "the girls a surprise."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 14 • 7:35",
@@ -517,6 +866,31 @@
               "block": [
                 {
                   "text": "“Thank you for my mobile,” Michael says to the girls. “Thank you for the surprise,” Jessica says. She is very excited. “Do you like the whales?” Michael asks. “I love them,” Jessica answers. “They’re beautiful.” “Yes, and New Zealand is beautiful too,” Sarah says. “This is an adventure!”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. The trip is an",
+                      "correctAnswer": ["adventure"],
+                      "afterBlank": "."
+                    }
+                  ]
                 }
               ]
             }
