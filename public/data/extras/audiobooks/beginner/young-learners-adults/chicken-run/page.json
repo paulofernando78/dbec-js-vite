@@ -54,6 +54,15 @@
       ]
     },
     {
+      "images": [
+        {
+          "width": "80%",
+          "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/chicken-run/characters.avif",
+          "alt": ""
+        }
+      ]
+    },
+    {
       "audioPlayer": {
         "sticky": true,
         "src": "/assets/audio/extras/audiobooks/beginner/young-learners-adults/chicken-run/audio.mp3"
