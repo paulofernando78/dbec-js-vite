@@ -12,9 +12,15 @@ class Contents extends HTMLElement {
     const css = document.createElement("style");
     /*css*/
     css.textContent = `
-      wc-audio-player.sticky, wc-video-player.sticky {
+      wc-dictionary {
         position: sticky;
         top: 0;
+        z-index: 999
+      }
+
+      wc-audio-player.sticky, wc-video-player.sticky {
+        position: sticky;
+        top: 48px;
         z-index: 999
       }
 

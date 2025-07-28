@@ -14,6 +14,7 @@ class Dictionary extends HTMLElement {
 
   render() {
     const wrapper = document.createElement("div")
+    wrapper.style.backgroundColor = "var(--gray-3)";
     wrapper.style.display = "flex";
     wrapper.style.alignItems = "center"
     wrapper.style.gap = "6px"
