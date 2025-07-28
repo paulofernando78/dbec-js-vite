@@ -48,20 +48,6 @@ class Whiteboard extends HTMLElement {
       };
 
       container.appendChild(wcIconItem)
-
-      // const descriptionWrapper = document.createElement("div");
-      // descriptionWrapper.style.display = "flex"
-      // descriptionWrapper.style.alignItems = "center"
-      // descriptionWrapper.style.gap = "8px"
-      // container.appendChild(descriptionWrapper);
-
-      // const icon = document.createElement("span");
-      // icon.innerHTML = svgIcons[desc.icon];
-      // descriptionWrapper.appendChild(icon);
-
-      // const description = document.createElement("p");
-      // description.textContent = desc.description;
-      // descriptionWrapper.appendChild(description);
     });
 
     this.shadowRoot.appendChild(container);

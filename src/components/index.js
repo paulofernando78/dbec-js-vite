@@ -22,6 +22,7 @@ import Layout from "./organisms/Layout"
 import NavBar from "./organisms/NavBar"
 import FourOhFour from "./organisms/404";
 import UnderConstruction from "./organisms/UnderConstruction";
+import Dictionary from "./organisms/Dictionary";
 
 //Templates
 import Contents from "./templates/Contents";
@@ -54,6 +55,8 @@ customElements.define("wc-layout", Layout)
 customElements.define("wc-navbar", NavBar)
 customElements.define("wc-four-oh-four", FourOhFour)
 customElements.define("wc-under-construction", UnderConstruction)
+customElements.define("wc-dictionary", Dictionary)
+
 
 // Templates
 customElements.define("wc-contents", Contents)

@@ -22,13 +22,11 @@ class IconItem extends HTMLElement {
 
   set data({ icon, link, target, label }) {
     const li = document.createElement("li");
-    li.classList.add("alignment");
     li.style.display = "flex";
+    li.style.alignItems = "center";
     li.style.gap = "5px";
 
     const svgSpan = document.createElement("span");
-    svgSpan.style.position = "relative";
-    svgSpan.style.top = "3px";
 
     import("/src/assets/images/svg-imports.js").then((svgIcons) => {
       svgSpan.innerHTML = svgIcons[icon] || "";
@@ -44,12 +42,12 @@ class IconItem extends HTMLElement {
         anchor.rel = "noopener noreferrer";
       }
       anchor.textContent = label;
-      anchor.classList.add("link-shifted");
+      // anchor.classList.add("link-shifted");
       textElement = anchor;
     } else {
       const desc = document.createElement("p");
       desc.textContent = label;
-      desc.classList.add("link-shifted");
+      // desc.classList.add("link-shifted");
       textElement = desc;
     }
 

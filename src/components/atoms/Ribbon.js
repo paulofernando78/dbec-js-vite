@@ -26,7 +26,7 @@ class Ribbon extends HTMLElement {
 
   set data(ribbon) {
     const container = document.createElement("div");
-    container.style.padding = "2px 6px 2px 6px";
+    container.style.padding = "2px 6px 2px 2px";
 
     this.shadowRoot.append(container);
 

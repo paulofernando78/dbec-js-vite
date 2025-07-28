@@ -54,7 +54,10 @@ class Contents extends HTMLElement {
     const whiteboard = document.createElement("wc-whiteboard");
     whiteboard.data = content.whiteboard;
 
+    const dictionary = document.createElement("wc-dictionary")
+
     contentContainer.appendChild(whiteboard);
+    contentContainer.appendChild(dictionary)
 
     // Ribbon
     content.contents.forEach((section) => {
