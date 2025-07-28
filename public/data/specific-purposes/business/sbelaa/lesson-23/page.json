@@ -20,7 +20,7 @@
   "contents": [
     {
       "audioPlayer": {
-        "sticky": true,
+        "sticky": false,
         "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-23.mp3"
       }
     },
@@ -313,7 +313,7 @@
           "videoPlayer": [
             {
               "position": "bottom",
-              "src": ""
+              "src": "https://www.youtube.com/embed/c9POdfpqURQ?rel=0"
             }
           ],
           "blocks": [
@@ -330,7 +330,7 @@
                   "text": "to have or to get experience"
                 }
               ],
-              "displayBlock": "true"
+              "lineBreak": true
             },
             {
               "block": [
@@ -350,7 +350,7 @@
           "videoPlayer": [
             {
               "position": "bottom",
-              "src": ""
+              "src": "https://www.youtube.com/embed/R2IL7-cy99w?rel=0"
             }
           ],
           "blocks": [
@@ -366,7 +366,8 @@
                 {
                   "text": "not insignificant; impressive"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
@@ -386,7 +387,7 @@
           "videoPlayer": [
             {
               "position": "bottom",
-              "src": ""
+              "src": "https://www.youtube.com/embed/LW3dESjjBDg?rel=0"
             }
           ],
           "blocks": [
@@ -402,7 +403,8 @@
                 {
                   "text": "to know something very well"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
@@ -438,7 +440,8 @@
                 {
                   "text": "something entirely different"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
@@ -474,7 +477,8 @@
                 {
                   "text": "an easy decision; an obvious choice"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
@@ -510,7 +514,8 @@
                 {
                   "text": "to compare two unlike things; to make an invalid comparison"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
@@ -546,7 +551,8 @@
                 {
                   "text": "to start a task over because the last try failed; to start again from the beginning"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
@@ -582,7 +588,8 @@
                 {
                   "text": "a sure thing"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
@@ -618,7 +625,8 @@
                 {
                   "text": "to go through a lot of difficult work for something; to face many bureaucratic obstacles"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
@@ -654,7 +662,8 @@
                 {
                   "text": "to not understand"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
@@ -690,7 +699,8 @@
                 {
                   "text": "to improve; to add to"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
