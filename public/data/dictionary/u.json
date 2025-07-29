@@ -3,10 +3,6 @@
     "definitions": [
       {
         "word": "have under one’s belt",
-        "aliases": [
-          "get under one’s belt",
-          "under one’s belt"
-        ],
         "partOfSpeech": "idiom",
         "enDefinition": "to have achieved or experienced something, especially something that adds to one's experience or skills",
         "ptDefinition": "ter alcançado ou vivenciado algo, especialmente algo que acrescenta à experiência ou habilidades de alguém",
@@ -18,7 +14,7 @@
         ],
         "videoPlayer": {
           "sticky": false,
-          "src": "http://www.youtube.com/watch?v=c9POdfpqURQ"
+          "src": "http://www.youtube.com/embed/c9POdfpqURQ?rel=0"
         },
         "synonyms": ["accomplished", "achieved", "experienced"],
         "antonyms": ["inexperienced", "unaccomplished"],

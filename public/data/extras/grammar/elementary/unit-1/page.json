@@ -1078,7 +1078,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. Mr. Thomas is a very old man",
+                      "beforeBlank": "3. Mr. Thomas is a very old man.",
                       "correctAnswer": ["He is", "He’s", "He's"],
                       "afterBlank": "98."
                     }
@@ -1105,9 +1105,9 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "6. “",
+                      "beforeBlank": "6. A: “",
                       "correctAnswer": ["You are", "You’re", "You're"],
-                      "afterBlank": " late”. “No, I‘m not.”"
+                      "afterBlank": " late”. B: “No, I‘m not.”"
                     }
                   ]
                 },
@@ -1210,7 +1210,7 @@
                   "block": [
                     {
                       "beforeBlank": "3. ",
-                      "correctAnswer": ["He is hot.", "He’s hot.", "He's hot."]
+                      "correctAnswer": ["She is hot.", "She’s hot.", "She's hot."]
                     }
                   ]
                 },
@@ -1224,7 +1224,13 @@
                         "He's scared.",
                         "He is scared of snakes.",
                         "He’s scared of snakes.",
-                        "He's scared of snakes."
+                        "He's scared of snakes.",
+                        "He is afraid.",
+                        "He’s afraid.",
+                        "He's afraid.",
+                        "He is afraid of snakes.",
+                        "He’s afraid of snakes.",
+                        "He's afraid of snakes."
                       ]
                     }
                   ]

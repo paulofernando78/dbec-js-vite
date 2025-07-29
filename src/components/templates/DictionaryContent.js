@@ -42,6 +42,11 @@ class DictionaryContent extends HTMLElement {
       .margin-top {
         margin-top: 10px
       }
+
+      wc-video-player.margin-top {
+        display: block; /* ou inline-block */
+        margin-top: 10px;
+}
     `;
 
     this.shadowRoot.append(cssImports, css);
@@ -51,6 +56,7 @@ class DictionaryContent extends HTMLElement {
     wrapper.style.border = "var(--border)";
     wrapper.style.borderRadius = "var(--border-radius)";
     wrapper.style.boxShadow = "var(--box-shadow)";
+    wrapper.style.backgroundColor = "var(--yellow-1)";
 
     const wordWrapper = document.createElement("div");
 
@@ -111,6 +117,7 @@ class DictionaryContent extends HTMLElement {
 
     if (this.videoPlayer) {
       videoPlayer = document.createElement("wc-video-player");
+      videoPlayer.classList.add("margin-top");
       videoPlayer.data = this.videoPlayer;
     }
 

@@ -48,7 +48,9 @@ class Dictionary extends HTMLElement {
         .then((res) => res.json())
         .then((data) => {
           const entry = data.find((item) =>
-            item.definitions.some((def) => def.word.toLowerCase().include(word))
+            item.definitions.some((def) =>
+              def.word.toLowerCase().includes(word)
+            )
           );
 
           if (!entry) {
@@ -56,7 +58,7 @@ class Dictionary extends HTMLElement {
             return;
           }
           const matched = entry.definitions.find((def) =>
-            def.word.toLowerCase()().include(word)
+            def.word.toLowerCase().includes(word)
           );
           this.showResult(matched, word);
         });
@@ -85,12 +87,13 @@ class Dictionary extends HTMLElement {
     const content = document.createElement("wc-dictionary-content");
 
     content.setData({
-      word,
+      word: result?.word || word,
       phonetics: result?.phonetics || "",
       partOfSpeech: result?.partOfSpeech || "",
       enDefinition: result?.enDefinition || "",
       ptDefinition: result?.ptDefinition || "",
       examples: result?.examples || [],
+      videoPlayer: result?.videoPlayer || null,
     });
 
     this.shadowRoot.appendChild(content);

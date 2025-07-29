@@ -64,7 +64,13 @@
                   "boldText": "Gina: "
                 },
                 {
-                  "text": "I see from your application that you've already got two franchise businesses "
+                  "text": "I see from your application that you"
+                },
+                {
+                  "markedText":	"'ve"
+                },
+                {
+                  "text":	" already got two franchise businesses "
                 },
                 {
                   "markedText": "under your belt"
