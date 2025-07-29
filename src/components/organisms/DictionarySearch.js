@@ -24,29 +24,64 @@ class Dictionary extends HTMLElement {
     wrapper.style.borderRadius = "var(--border-radius)";
     wrapper.style.boxShadow = "var(--box-shadow)";
 
-    // const svgSpan = document.createElement("span");
-    // import("/src/assets/images/svg-imports.js").then((svgIcons) => {
-    //   svgSpan.innerHTML = svgIcons.search;
-    // });
-
-    const input = document.createElement("input");
-    input.style.width = "100%";
-    input.style.borderRadius = "var(--border-radius)";
-    input.style.border = "none";
-    input.placeholder = "Search word";
-    input.style.margin = "0 6px 0 4px";
-    input.style.padding = "4px";
+    this.input = document.createElement("input");
+    this.input.style.width = "100%";
+    this.input.style.borderRadius = "var(--border-radius)";
+    this.input.style.border = "none";
+    this.input.placeholder = "Search word";
+    this.input.style.margin = "0 6px 0 4px";
+    this.input.style.padding = "4px";
 
     const searchButton = document.createElement("wc-button");
     searchButton.setAttribute("data-icon", "search");
     searchButton.style.position = "relative";
     searchButton.style.top = "2px";
     searchButton.style.marginRight = "2px";
-    searchButton.addEventListener("click", () => {
-    })
 
-    wrapper.append(input, searchButton);
+    searchButton.addEventListener("click", () => {
+      const word = this.input.value.trim().toLowerCase();
+
+      const letter = word[0];
+
+      fetch(`/data/dictionary/${letter}.json`)
+        .then((res) => res.json())
+        .then((data) => {
+          const entry = data.find((item) =>
+            item.definitions.some((def) => def.word.toLowerCase() === word)
+          );
+
+          if (!entry) {
+            this.showResult(null, word);
+            return;
+          }
+          const matched = entry.definitions.find(
+            (def) => def.word.toLowerCase() === word
+          );
+          this.showResult(matched, word);
+        });
+    });
+
+    wrapper.append(this.input, searchButton);
     this.shadowRoot.appendChild(wrapper);
+  }
+
+  showResult(result, word) {
+      const existing = this.shadowRoot.querySelector("wc-dictionary-content")
+
+    if (existing) existing.remove();
+    
+    const content = document.createElement("wc-dictionary-content");
+    
+    content.setData({
+      word,
+      phonetics: result?.phonetics || "",
+      partOfSpeech: result?.partOfSpeech || "",
+      enDefinition: result?.enDefinition || "",
+      ptDefinition: result?.ptDefinition || "",
+      examples: result?.examples || [],
+    });
+
+    this.shadowRoot.appendChild(content);
   }
 }
 
