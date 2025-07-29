@@ -48,15 +48,15 @@ class Dictionary extends HTMLElement {
         .then((res) => res.json())
         .then((data) => {
           const entry = data.find((item) =>
-            item.definitions.some((def) => def.word.toLowerCase() === word)
+            item.definitions.some((def) => def.word.toLowerCase().include(word))
           );
 
           if (!entry) {
             this.showResult(null, word);
             return;
           }
-          const matched = entry.definitions.find(
-            (def) => def.word.toLowerCase() === word
+          const matched = entry.definitions.find((def) =>
+            def.word.toLowerCase()().include(word)
           );
           this.showResult(matched, word);
         });

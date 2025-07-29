@@ -1069,7 +1069,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "2.I'm not hungry, but",
+                      "beforeBlank": "2. I'm not hungry, but",
                       "correctAnswer": ["I am", "I’m", "I'm"],
                       "afterBlank": "thirsty."
                     }
@@ -1078,7 +1078,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "3.Mr. Thomas is a very old man",
+                      "beforeBlank": "3. Mr. Thomas is a very old man",
                       "correctAnswer": ["He is", "He’s", "He's"],
                       "afterBlank": "98."
                     }
@@ -1087,7 +1087,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "4. These chairs aren’t nice, but",
+                      "beforeBlank": "4.These chairs aren’t nice, but",
                       "correctAnswer": ["they are", "they’re", "they're"],
                       "afterBlank": "comfortable."
                     }
@@ -1096,7 +1096,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "5.The weather is good today.",
+                      "beforeBlank": "5. The weather is good today.",
                       "correctAnswer": ["It is", "It’s", "It's"],
                       "afterBlank": "warm and sunny."
                     }

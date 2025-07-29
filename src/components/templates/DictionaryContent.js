@@ -13,13 +13,15 @@ class DictionaryContent extends HTMLElement {
     enDefinition,
     ptDefinition,
     examples,
+    videoPlayer,
   }) {
-    this.word = word;
+    this.word = word.replace(/[’']/g, "’");
     this.phonetics = phonetics;
     this.partOfSpeech = partOfSpeech;
     this.enDefinition = enDefinition;
     this.ptDefinition = ptDefinition;
     this.examples = examples;
+    this.videoPlayer = videoPlayer;
 
     this.render();
   }
@@ -52,16 +54,19 @@ class DictionaryContent extends HTMLElement {
 
     const wordWrapper = document.createElement("div");
 
+    // word
     const word = document.createElement("span");
-    word.textContent = this.word;
+    word.textContent = this.word.replace(/'/g, "’");
     word.style.fontWeight = "bold";
     word.classList.add("word-margin");
 
+    // phonetics
     const phonetics = document.createElement("span");
     phonetics.textContent = this.phonetics;
     phonetics.classList.add("phonetics");
     phonetics.classList.add("word-margin");
 
+    // partOfSpeech
     const partOfSpeech = document.createElement("span");
     partOfSpeech.textContent = this.partOfSpeech;
     partOfSpeech.classList.add("part-of-speech");
@@ -69,24 +74,28 @@ class DictionaryContent extends HTMLElement {
 
     wordWrapper.append(word, phonetics, partOfSpeech);
 
+    // enDefinition
     const enDefinition = document.createElement("span");
     enDefinition.style.display = "block";
     enDefinition.textContent = this.enDefinition;
 
+    // ptDefinition
     const ptDefinition = document.createElement("span");
     ptDefinition.style.display = "block";
     ptDefinition.style.color = "var(--gray-4)";
     ptDefinition.textContent = this.ptDefinition;
 
     const exampleList = document.createElement("ul");
-    
+
     this.examples.forEach((example) => {
       const item = document.createElement("li");
       item.classList.add("margin-top");
 
+      // enExample
       const enExample = document.createElement("p");
       enExample.textContent = example.enExample;
 
+      // ptExample
       const ptExample = document.createElement("p");
       ptExample.style.color = "var(--gray-4)";
       ptExample.textContent = example.ptExample;
@@ -96,14 +105,28 @@ class DictionaryContent extends HTMLElement {
       exampleList.appendChild(item);
     });
 
-    wrapper.append(
-      word,
-      phonetics,
-      partOfSpeech,
-      enDefinition,
-      ptDefinition,
-      exampleList
-    );
+    // VideoPlayer
+
+    let videoPlayer;
+
+    if (this.videoPlayer) {
+      videoPlayer = document.createElement("wc-video-player");
+      videoPlayer.data = this.videoPlayer;
+    }
+
+    const children = [wordWrapper, enDefinition, ptDefinition, exampleList];
+
+    if (videoPlayer) {
+      children.push(videoPlayer);
+    }
+
+    const synonyms = document.createElement("span");
+
+    const antonyms = document.createElement("span");
+
+    const notes = document.createElement("p");
+
+    wrapper.append(...children);
 
     this.shadowRoot.appendChild(wrapper);
   }

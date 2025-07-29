@@ -2,6 +2,39 @@
   {
     "definitions": [
       {
+        "word": "have under one’s belt",
+        "aliases": [
+          "get under one’s belt",
+          "under one’s belt"
+        ],
+        "partOfSpeech": "idiom",
+        "enDefinition": "to have achieved or experienced something, especially something that adds to one's experience or skills",
+        "ptDefinition": "ter alcançado ou vivenciado algo, especialmente algo que acrescenta à experiência ou habilidades de alguém",
+        "examples": [
+          {
+            "enExample": "Once you have a few successful projects under your belt, you'll feel more confident.",
+            "ptExample": "Depois que você tiver alguns projetos bem-sucedidos sob sua responsabilidade, se sentirá mais confiante."
+          }
+        ],
+        "videoPlayer": {
+          "sticky": false,
+          "src": "http://www.youtube.com/watch?v=c9POdfpqURQ"
+        },
+        "synonyms": ["accomplished", "achieved", "experienced"],
+        "antonyms": ["inexperienced", "unaccomplished"],
+        "seeAlso": ["notch up", "gain experience"],
+        "notes": [
+          {
+            "enNote": "This idiom often refers to achievements or experiences that contribute to someone's qualifications.",
+            "ptNote": "Esta expressão geralmente se refere a conquistas ou experiências que contribuem para as qualificações de alguém."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "until someone is blue in the face",
         "partOfSpeech": "idiom",
         "enDefinition": "to do or say something repeatedly for a long time without success or result",
