@@ -18,6 +18,7 @@ class Dictionary extends HTMLElement {
     wrapper.style.display = "flex";
     wrapper.style.alignItems = "center";
     wrapper.style.gap = "6px";
+    wrapper.style.marginBottom = "10px";
 
     wrapper.style.padding = "var(--padding)";
     wrapper.style.border = "var(--border)";
@@ -61,17 +62,28 @@ class Dictionary extends HTMLElement {
         });
     });
 
-    wrapper.append(this.input, searchButton);
+    this.input.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") {
+        searchButton.click();
+      }
+    });
+
+    const closeButton = document.createElement("wc-button");
+    closeButton.setAttribute("data-icon", "close");
+    closeButton.style.position = "relative";
+    closeButton.style.top = "2px";
+
+    wrapper.append(this.input, searchButton, closeButton);
     this.shadowRoot.appendChild(wrapper);
   }
 
   showResult(result, word) {
-      const existing = this.shadowRoot.querySelector("wc-dictionary-content")
+    const existing = this.shadowRoot.querySelector("wc-dictionary-content");
 
     if (existing) existing.remove();
-    
+
     const content = document.createElement("wc-dictionary-content");
-    
+
     content.setData({
       word,
       phonetics: result?.phonetics || "",
