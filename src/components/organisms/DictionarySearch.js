@@ -1,6 +1,6 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-class Dictionary extends HTMLElement {
+class DictionarySearch extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -147,4 +147,4 @@ class Dictionary extends HTMLElement {
   }
 }
 
-export default Dictionary;
+export default DictionarySearch;

@@ -12,16 +12,16 @@ class Contents extends HTMLElement {
     const css = document.createElement("style");
     /*css*/
     css.textContent = `
-      wc-dictionary {
+      wc-dictionary-search {
         position: sticky;
         top: 0;
-        z-index: 999
+        z-index: 2
       }
 
       wc-audio-player.sticky, wc-video-player.sticky {
         position: sticky;
-        top: 48px;
-        z-index: 999
+        top: 58px;
+        z-index: 1
       }
 
       .image-wrapper {
@@ -59,10 +59,10 @@ class Contents extends HTMLElement {
     // Whiteboard
     const whiteboard = document.createElement("wc-whiteboard");
     whiteboard.data = content.whiteboard;
-
-    const dictionary = document.createElement("wc-dictionary")
-
     contentContainer.appendChild(whiteboard);
+
+    // Dictionry
+    const dictionary = document.createElement("wc-dictionary-search")
     contentContainer.appendChild(dictionary)
 
     // Ribbon
