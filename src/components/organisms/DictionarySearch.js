@@ -78,11 +78,12 @@ class DictionarySearch extends HTMLElement {
         }
       });
 
+      // Clear previous results and messages
       const previousContents = this.shadowRoot.querySelectorAll("wc-dictionary-content");
-      previousContents.forEach((el) => el.remove);
+      previousContents.forEach((el) => el.remove());
 
-      const previuosMessage = this.shadowRoot.querySelector("p") 
-      if (previuosMessage) previuosMessage.remove();
+      const previousMessage = this.shadowRoot.querySelector("p");
+      if (previousMessage) previousMessage.remove();
     });
 
     // Pressing Enter triggers the search button
