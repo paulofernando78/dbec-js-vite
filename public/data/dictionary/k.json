@@ -70,23 +70,36 @@
       }
     ]
   },
-
-  {
-    "definitions": [
-      {
-        "word": "keep something under wraps",
-        "partOfSpeech": "idiom",
-        "enDefinition": "to keep something secret; to not let anybody know about a new project or plan",
-        "ptDefinition": "manter algo em segredo; não deixar ninguém saber sobre um novo projeto ou plano",
-        "examples": [
-          {
-            "enExample": "I'm sorry I can't tell you anything about the project I'm working on. My boss told me to keep it under wraps.",
-            "ptExample": "Desculpe, não posso te contar nada sobre o projeto em que estou trabalhando. Meu chefe me pediu para manter isso em segredo."
-          }
-        ]
-      }
-    ]
-  },
+{
+  "definitions": [
+    {
+      "word": "keep something under wraps",
+      "phonetics": "",
+      "partOfSpeech": "idiom",
+      "enDefinition": "to keep something secret or hidden from others; to not reveal information.",
+      "ptDefinition": "manter algo em segredo ou escondido dos outros; não revelar informações.",
+      "examples": [
+        {
+          "enExample": "They managed to keep the new product under wraps until the official launch.",
+          "ptExample": "Eles conseguiram manter o novo produto em segredo até o lançamento oficial."
+        },
+        {
+          "enExample": "The company is keeping the details of the merger under wraps.",
+          "ptExample": "A empresa está mantendo os detalhes da fusão em segredo."
+        }
+      ],
+      "synonyms": ["keep secret", "conceal", "hide"],
+      "antonyms": ["reveal", "disclose", "make public"],
+      "seeAlso": ["keep quiet", "hush up", "cover up"],
+      "notes": [
+        {
+          "enNote": "Often used when referring to confidential information or surprises.",
+          "ptNote": "Frequentemente usado ao se referir a informações confidenciais ou surpresas."
+        }
+      ]
+    }
+  ]
+},
   {
     "definitions": [
       {

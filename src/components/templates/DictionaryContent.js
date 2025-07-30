@@ -105,7 +105,7 @@ class DictionaryContent extends HTMLElement {
 
       // enExample
       const enExample = document.createElement("p");
-      enExample.textContent = example.enExample;
+      enExample.textContent = "• " + example.enExample;
 
       // ptExample
       const ptExample = document.createElement("p");
@@ -128,17 +128,21 @@ class DictionaryContent extends HTMLElement {
     }
 
     const synonymsTitle = document.createElement("span");
-    synonymsTitle.textContent = "Synomyns:",
-    synonymsTitle.style.fontFamily = "times-roman"
+    synonymsTitle.style.display = "inline-block";
+    synonymsTitle.textContent = "Synonyms:";
+    synonymsTitle.style.fontFamily = "times-roman";
+    synonymsTitle.classList.add("margin-top");
 
-    const synonyms = document.createElement("span");
+    const synonyms = document.createElement("p");
     synonyms.textContent = this.synonyms.join(", ");
 
     const antonymsTitle = document.createElement("span");
-    antonymsTitle.textContent = "Antonyms:",
-    antonymsTitle.style.fontFamily = "times-roman"
-    
-    const antonyms = document.createElement("span");
+    antonymsTitle.style.display = "inline-block";
+    antonymsTitle.textContent = "Antonyms:";
+    antonymsTitle.style.fontFamily = "times-roman";
+    antonymsTitle.classList.add("margin-top");
+
+    const antonyms = document.createElement("p");
     antonyms.textContent = this.antonyms.join(", ");
 
     const notes = document.createElement("p");
@@ -148,7 +152,9 @@ class DictionaryContent extends HTMLElement {
       enDefinition,
       ptDefinition,
       exampleList,
+      synonymsTitle,
       synonyms,
+      antonymsTitle,
       antonyms,
     ];
 
