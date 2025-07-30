@@ -267,7 +267,7 @@
       {
         "word": "drum up business",
         "phonetics": "/drʌm ʌp ˈbɪznəs/",
-        "partOfSpeech": "phrasal verb",
+        "partOfSpeech": "idiom",
         "enDefinition": "to generate or increase business, often through activities like advertising, networking, or promotions",
         "ptDefinition": "aumentar ou gerar negócios, muitas vezes por meio de atividades como publicidade, networking ou promoções",
         "examples": [
@@ -476,21 +476,6 @@
         "synonyms": ["tasty", "delectable"],
         "antonyms": ["unpalatable", "tasteless"],
         "seeAlso": ["scrumptious", "mouth-watering"]
-      }
-    ]
-  },
-  {
-    "definitions": [
-      {
-        "word": "drum up business",
-        "partOfSpeech": "idiom",
-        "enDefinition": "to create business; to find new customers",
-        "examples": [
-          {
-            "enExample": "Sales have been very slow lately. Do you have any ideas for <b>drumming up business</b>?",
-            "ptExample": "As vendas têm sido muito lentas ultimamente. Você tem alguma ideia para impulsionar os negócios?"
-          }
-        ]
       }
     ]
   },

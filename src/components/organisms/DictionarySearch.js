@@ -19,7 +19,6 @@ class Dictionary extends HTMLElement {
     wrapper.style.alignItems = "center";
     wrapper.style.gap = "6px";
     wrapper.style.marginBottom = "10px";
-
     wrapper.style.padding = "var(--padding)";
     wrapper.style.border = "var(--border)";
     wrapper.style.borderRadius = "var(--border-radius)";
@@ -29,7 +28,7 @@ class Dictionary extends HTMLElement {
     this.input.style.width = "100%";
     this.input.style.borderRadius = "var(--border-radius)";
     this.input.style.border = "none";
-    this.input.placeholder = "Search word";
+    this.input.placeholder = "Dictionary";
     this.input.style.margin = "0 6px 0 4px";
     this.input.style.padding = "4px";
 
@@ -42,61 +41,109 @@ class Dictionary extends HTMLElement {
     searchButton.addEventListener("click", () => {
       const word = this.input.value.trim().toLowerCase();
 
-      const letter = word[0];
+      // Avoid searching for very short inputs
+      if (word.length < 2) {
+        this.showMessage("Please type at least 2 letters to search.");
+        return;
+      }
 
-      fetch(`/data/dictionary/${letter}.json`)
-        .then((res) => res.json())
-        .then((data) => {
-          const entry = data.find((item) =>
-            item.definitions.some((def) =>
-              def.word.toLowerCase().includes(word)
-            )
-          );
+      // Load all dictionary files (a.json to z.json)
+      const alphabet = "abcdefghijklmnopqrstuvwxyz".split("");
+      const fetches = alphabet.map((letter) =>
+        fetch(`/data/dictionary/${letter}.json`)
+          .then((res) => (res.ok ? res.json() : []))
+          .catch(() => [])
+      );
 
-          if (!entry) {
-            this.showResult(null, word);
-            return;
-          }
-          const matched = entry.definitions.find((def) =>
-            def.word.toLowerCase().includes(word)
-          );
-          this.showResult(matched, word);
-        });
+      // Wait for all files to load and search through all definitions
+      Promise.all(fetches).then((results) => {
+        const allData = results.flat(); // Merge all results into a single array
+
+        // Find all definitions or aliases that include the search word
+        const matchedList = allData.flatMap((item) =>
+          item.definitions.filter(
+            (def) =>
+              (def.word && def.word.toLowerCase().includes(word)) ||
+              (def.aliases &&
+                def.aliases.some((alias) => alias.toLowerCase().includes(word)))
+          )
+        );
+
+        // Show result or not found message
+        if (matchedList.length === 0) {
+          this.showMessage(`"${word}" not found :(`);
+        } else {
+          this.showResults(matchedList, word);
+        }
+      });
     });
 
+    // Pressing Enter triggers the search button
     this.input.addEventListener("keydown", (e) => {
       if (e.key === "Enter") {
         searchButton.click();
       }
     });
 
+    // Button to close or clear results (currently not wired)
     const closeButton = document.createElement("wc-button");
     closeButton.setAttribute("data-icon", "close");
     closeButton.style.position = "relative";
     closeButton.style.top = "2px";
 
+    closeButton.addEventListener("click", () => {
+      const contents = this.shadowRoot.querySelectorAll("wc-dictionary-content");
+      contents.forEach((el) => el.remove());
+
+      const message = this.shadowRoot.querySelector("p");
+      if (message) message.remove();
+    });
+
     wrapper.append(this.input, searchButton, closeButton);
     this.shadowRoot.appendChild(wrapper);
   }
 
-  showResult(result, word) {
-    const existing = this.shadowRoot.querySelector("wc-dictionary-content");
+  // Displays multiple matching results (as many wc-dictionary-content components)
+  showResults(results, word) {
+    // Remove any previous results
+    const existingContents = this.shadowRoot.querySelectorAll(
+      "wc-dictionary-content"
+    );
+    existingContents.forEach((el) => el.remove());
 
+    // Add each result to the shadow DOM
+    results.forEach((result) => {
+      const content = document.createElement("wc-dictionary-content");
+      content.setData({
+        word: result.word || word,
+        phonetics: result.phonetics || "",
+        partOfSpeech: result.partOfSpeech || "",
+        enDefinition: result.enDefinition || "",
+        ptDefinition: result.ptDefinition || "",
+        examples: result.examples || [],
+        videoPlayer: result.videoPlayer || null,
+      });
+      this.shadowRoot.appendChild(content);
+    });
+  }
+
+  // Displays a message when no result is found or there's an issue
+  showMessage(message) {
+    // Remove previous result (if any)
+    const existing = this.shadowRoot.querySelector("wc-dictionary-content");
     if (existing) existing.remove();
 
-    const content = document.createElement("wc-dictionary-content");
+    // Create and style the message element
+    const messageElement = document.createElement("p");
+    messageElement.textContent = message;
+    messageElement.style.color = "var(--red-4)";
+    messageElement.style.fontWeight = "bold";
+    messageElement.style.padding = "10px";
+    messageElement.style.backgroundColor = "var(--yellow-1)";
+    messageElement.style.borderRadius = "var(--border-radius)";
+    messageElement.style.marginTop = "10px";
 
-    content.setData({
-      word: result?.word || word,
-      phonetics: result?.phonetics || "",
-      partOfSpeech: result?.partOfSpeech || "",
-      enDefinition: result?.enDefinition || "",
-      ptDefinition: result?.ptDefinition || "",
-      examples: result?.examples || [],
-      videoPlayer: result?.videoPlayer || null,
-    });
-
-    this.shadowRoot.appendChild(content);
+    this.shadowRoot.appendChild(messageElement);
   }
 }
 

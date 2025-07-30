@@ -56,7 +56,9 @@ class DictionaryContent extends HTMLElement {
     wrapper.style.border = "var(--border)";
     wrapper.style.borderRadius = "var(--border-radius)";
     wrapper.style.boxShadow = "var(--box-shadow)";
-    wrapper.style.backgroundColor = "var(--yellow-1)";
+    wrapper.style.backgroundColor = "var(--yellow-0)";
+    wrapper.style.color = "black";
+    wrapper.style.marginBottom = "10px";
 
     const wordWrapper = document.createElement("div");
 
