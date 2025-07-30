@@ -41,12 +41,6 @@ class DictionarySearch extends HTMLElement {
     searchButton.addEventListener("click", () => {
       const word = this.input.value.trim().toLowerCase();
 
-      // Avoid searching for very short inputs
-      if (word.length < 2) {
-        this.showMessage("Please type at least 2 letters to search.");
-        return;
-      }
-
       // Load all dictionary files (a.json to z.json)
       const alphabet = "abcdefghijklmnopqrstuvwxyz".split("");
       const fetches = alphabet.map((letter) =>
@@ -59,15 +53,22 @@ class DictionarySearch extends HTMLElement {
       Promise.all(fetches).then((results) => {
         const allData = results.flat(); // Merge all results into a single array
 
-        // Find all definitions or aliases that include the search word
+        // Find all definitions or aliases that match the search word using RegExp for accuracy
+        const pattern = new RegExp(`\\b${word}\\b`, "i");
+
         const matchedList = allData.flatMap((item) =>
           item.definitions.filter(
             (def) =>
-              (def.word && def.word.toLowerCase().includes(word)) ||
-              (def.aliases &&
-                def.aliases.some((alias) => alias.toLowerCase().includes(word)))
+              (def.word && pattern.test(def.word)) ||
+              (def.aliases && def.aliases.some((alias) => pattern.test(alias)))
           )
         );
+
+        // Avoid searching for very short inputs
+        if (word.length < 2) {
+          this.showMessage("Please type at least 2 letters to search.");
+          return;
+        }
 
         // Show result or not found message
         if (matchedList.length === 0) {
@@ -76,6 +77,12 @@ class DictionarySearch extends HTMLElement {
           this.showResults(matchedList, word);
         }
       });
+
+      const previousContents = this.shadowRoot.querySelectorAll("wc-dictionary-content");
+      previousContents.forEach((el) => el.remove);
+
+      const previuosMessage = this.shadowRoot.querySelector("p") 
+      if (previuosMessage) previuosMessage.remove();
     });
 
     // Pressing Enter triggers the search button
@@ -92,7 +99,9 @@ class DictionarySearch extends HTMLElement {
     closeButton.style.top = "2px";
 
     closeButton.addEventListener("click", () => {
-      const contents = this.shadowRoot.querySelectorAll("wc-dictionary-content");
+      const contents = this.shadowRoot.querySelectorAll(
+        "wc-dictionary-content"
+      );
       contents.forEach((el) => el.remove());
 
       const message = this.shadowRoot.querySelector("p");
