@@ -14,6 +14,8 @@ class DictionaryContent extends HTMLElement {
     ptDefinition,
     examples,
     videoPlayer,
+    synonyms,
+    antonyms,
   }) {
     this.word = word.replace(/[’']/g, "’");
     this.phonetics = phonetics;
@@ -22,6 +24,8 @@ class DictionaryContent extends HTMLElement {
     this.ptDefinition = ptDefinition;
     this.examples = examples;
     this.videoPlayer = videoPlayer;
+    this.synonyms = synonyms;
+    this.antonyms = antonyms;
 
     this.render();
   }
@@ -123,17 +127,34 @@ class DictionaryContent extends HTMLElement {
       videoPlayer.data = this.videoPlayer;
     }
 
-    const children = [wordWrapper, enDefinition, ptDefinition, exampleList];
+    const synonymsTitle = document.createElement("span");
+    synonymsTitle.textContent = "Synomyns:",
+    synonymsTitle.style.fontFamily = "times-roman"
+
+    const synonyms = document.createElement("span");
+    synonyms.textContent = this.synonyms.join(", ");
+
+    const antonymsTitle = document.createElement("span");
+    antonymsTitle.textContent = "Antonyms:",
+    antonymsTitle.style.fontFamily = "times-roman"
+    
+    const antonyms = document.createElement("span");
+    antonyms.textContent = this.antonyms.join(", ");
+
+    const notes = document.createElement("p");
+
+    const children = [
+      wordWrapper,
+      enDefinition,
+      ptDefinition,
+      exampleList,
+      synonyms,
+      antonyms,
+    ];
 
     if (videoPlayer) {
       children.push(videoPlayer);
     }
-
-    const synonyms = document.createElement("span");
-
-    const antonyms = document.createElement("span");
-
-    const notes = document.createElement("p");
 
     wrapper.append(...children);
 

@@ -79,7 +79,9 @@ class DictionarySearch extends HTMLElement {
       });
 
       // Clear previous results and messages
-      const previousContents = this.shadowRoot.querySelectorAll("wc-dictionary-content");
+      const previousContents = this.shadowRoot.querySelectorAll(
+        "wc-dictionary-content"
+      );
       previousContents.forEach((el) => el.remove());
 
       const previousMessage = this.shadowRoot.querySelector("p");
@@ -132,6 +134,8 @@ class DictionarySearch extends HTMLElement {
         ptDefinition: result.ptDefinition || "",
         examples: result.examples || [],
         videoPlayer: result.videoPlayer || null,
+        synonyms: result.synonyms || [],
+        antonyms: result.antonyms || [],
       });
       this.shadowRoot.appendChild(content);
     });
