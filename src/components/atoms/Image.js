@@ -53,6 +53,7 @@ class Image extends HTMLElement {
       number.style.padding = "2px 5px";
       number.style.top = "8px";
       number.style.left = "8px";
+      number.style.color = "black";
       number.textContent = img.number;
       wrapper.appendChild(number);
     }
