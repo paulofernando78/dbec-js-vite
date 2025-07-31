@@ -13,16 +13,16 @@ class DictionarySearch extends HTMLElement {
   }
 
   render() {
-    const wrapper = document.createElement("div");
-    wrapper.style.backgroundColor = "var(--gray-3)";
-    wrapper.style.display = "flex";
-    wrapper.style.alignItems = "center";
-    wrapper.style.gap = "6px";
-    wrapper.style.marginBottom = "10px";
-    wrapper.style.padding = "var(--padding)";
-    wrapper.style.border = "var(--border)";
-    wrapper.style.borderRadius = "var(--border-radius)";
-    wrapper.style.boxShadow = "var(--box-shadow)";
+    const dictionaryContainer = document.createElement("div");
+    dictionaryContainer.style.backgroundColor = "var(--gray-3)";
+    dictionaryContainer.style.display = "flex";
+    dictionaryContainer.style.alignItems = "center";
+    dictionaryContainer.style.gap = "6px";
+    dictionaryContainer.style.marginBottom = "10px";
+    dictionaryContainer.style.padding = "var(--padding)";
+    dictionaryContainer.style.border = "var(--border)";
+    dictionaryContainer.style.borderRadius = "var(--border-radius)";
+    dictionaryContainer.style.boxShadow = "var(--box-shadow)";
 
     this.input = document.createElement("input");
     this.input.style.width = "100%";
@@ -111,8 +111,8 @@ class DictionarySearch extends HTMLElement {
       if (message) message.remove();
     });
 
-    wrapper.append(this.input, searchButton, closeButton);
-    this.shadowRoot.appendChild(wrapper);
+    dictionaryContainer.append(this.input, searchButton, closeButton);
+    this.shadowRoot.appendChild(dictionaryContainer);
   }
 
   // Displays multiple matching results (as many wc-dictionary-content components)
@@ -124,6 +124,14 @@ class DictionarySearch extends HTMLElement {
     existingContents.forEach((el) => el.remove());
 
     // Add each result to the shadow DOM
+    const multipleResults = document.createElement("div");
+    multipleResults.style.maxHeight = "60vh";
+    multipleResults.style.backgroundColor = "var(--gray-3)"
+    multipleResults.style.borderRadius = "var(--border-radius)"
+    multipleResults.style.boxShadow = "var(--box-shadow)"
+    multipleResults.style.padding = "var(--padding)"
+    multipleResults.style.overflowY = "auto";
+
     results.forEach((result) => {
       const content = document.createElement("wc-dictionary-content");
       content.setData({
@@ -136,8 +144,12 @@ class DictionarySearch extends HTMLElement {
         videoPlayer: result.videoPlayer || null,
         synonyms: result.synonyms || [],
         antonyms: result.antonyms || [],
+        notes: result?.notes || [],
       });
-      this.shadowRoot.appendChild(content);
+
+      multipleResults.appendChild(content);
+
+      this.shadowRoot.appendChild(multipleResults);
     });
   }
 

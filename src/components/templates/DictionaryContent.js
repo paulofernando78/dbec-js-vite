@@ -16,6 +16,7 @@ class DictionaryContent extends HTMLElement {
     videoPlayer,
     synonyms,
     antonyms,
+    notes,
   }) {
     this.word = word.replace(/[’']/g, "’");
     this.phonetics = phonetics;
@@ -26,6 +27,7 @@ class DictionaryContent extends HTMLElement {
     this.videoPlayer = videoPlayer;
     this.synonyms = synonyms;
     this.antonyms = antonyms;
+    this.notes = notes;
 
     this.render();
   }
@@ -39,18 +41,11 @@ class DictionaryContent extends HTMLElement {
     const css = document.createElement("style");
     /*css*/
     css.textContent = `
-      .word-margin {
-        margin-right: 5px
-      }
 
-      .margin-top {
-        margin-top: 10px
-      }
-
-      wc-video-player.margin-top {
-        display: block; /* ou inline-block */
-        margin-top: 10px;
-}
+    wc-video-player.margin-top {
+      display: block; /* ou inline-block */
+      margin-top: 10px;
+    }
     `;
 
     this.shadowRoot.append(cssImports, css);
@@ -62,58 +57,74 @@ class DictionaryContent extends HTMLElement {
     wrapper.style.boxShadow = "var(--box-shadow)";
     wrapper.style.backgroundColor = "var(--yellow-0)";
     wrapper.style.color = "black";
-    wrapper.style.marginBottom = "10px";
+    wrapper.style.marginBottom = "10px"
 
     const wordWrapper = document.createElement("div");
+    wrapper.appendChild(wordWrapper);
 
     // word
     const word = document.createElement("span");
     word.textContent = this.word.replace(/'/g, "’");
     word.style.fontWeight = "bold";
-    word.classList.add("word-margin");
+    word.style.marginRight = "var(--margin-right)";
+    wordWrapper.appendChild(word);
 
     // phonetics
-    const phonetics = document.createElement("span");
-    phonetics.textContent = this.phonetics;
-    phonetics.classList.add("phonetics");
-    phonetics.classList.add("word-margin");
+    if (this.phonetics) {
+      const phoneticsEl = document.createElement("span");
+      phoneticsEl.textContent = this.phonetics;
+      phoneticsEl.classList.add("phonetics");
+      phoneticsEl.style.marginRight = "var(--margin-right)";
+      wordWrapper.appendChild(phoneticsEl);
+    }
 
     // partOfSpeech
-    const partOfSpeech = document.createElement("span");
-    partOfSpeech.textContent = this.partOfSpeech;
-    partOfSpeech.classList.add("part-of-speech");
-    partOfSpeech.classList.add("word-margin");
-
-    wordWrapper.append(word, phonetics, partOfSpeech);
+    if (this.partOfSpeech) {
+      const partOfSpeechEl = document.createElement("span");
+      partOfSpeechEl.textContent = this.partOfSpeech;
+      partOfSpeechEl.classList.add("part-of-speech");
+      partOfSpeechEl.style.marginRight = "var(--margin-right)";
+      wordWrapper.appendChild(partOfSpeechEl);
+    }
 
     // enDefinition
-    const enDefinition = document.createElement("span");
-    enDefinition.style.display = "block";
-    enDefinition.textContent = this.enDefinition;
+    if (this.enDefinition) {
+      const enDef = document.createElement("p");
+      enDef.textContent = this.enDefinition;
+      wordWrapper.appendChild(enDef);
+    }
 
     // ptDefinition
-    const ptDefinition = document.createElement("span");
-    ptDefinition.style.display = "block";
-    ptDefinition.style.color = "var(--gray-4)";
-    ptDefinition.textContent = this.ptDefinition;
+    const ptDef = document.createElement("p");
+    ptDef.style.color = "var(--gray-4)";
+    ptDef.textContent = this.ptDefinition;
+    wordWrapper.appendChild(ptDef);
 
     const exampleList = document.createElement("ul");
+    wrapper.appendChild(exampleList);
 
     this.examples.forEach((example) => {
       const item = document.createElement("li");
-      item.classList.add("margin-top");
+      item.style.marginTop = "var(--margin-top)";
 
       // enExample
-      const enExample = document.createElement("p");
-      enExample.textContent = "• " + example.enExample;
+      if (example.enExample) {
+        const enExample = document.createElement("p");
+        enExample.style.marginRight = "var(--margin-right)";
+        enExample.style.display = "inline";
+        enExample.textContent = "• " + example.enExample;
+        item.appendChild(enExample);
+      }
 
       // ptExample
-      const ptExample = document.createElement("p");
-      ptExample.style.color = "var(--gray-4)";
-      ptExample.textContent = example.ptExample;
+      if (example.ptExample) {
+        const ptExample = document.createElement("p");
+        ptExample.style.display = "inline";
+        ptExample.style.color = "var(--gray-4)";
+        ptExample.textContent = example.ptExample;
+        item.appendChild(ptExample);
+      }
 
-      item.appendChild(enExample);
-      item.appendChild(ptExample);
       exampleList.appendChild(item);
     });
 
@@ -123,46 +134,60 @@ class DictionaryContent extends HTMLElement {
 
     if (this.videoPlayer) {
       videoPlayer = document.createElement("wc-video-player");
-      videoPlayer.classList.add("margin-top");
+      word.style.marginTop = "var(--margin-top)";
       videoPlayer.data = this.videoPlayer;
     }
+    if (videoPlayer) wrapper.appendChild(videoPlayer);
+
+    const synonymsWrapper = document.createElement("div");
+    wrapper.appendChild(synonymsWrapper)
 
     const synonymsTitle = document.createElement("span");
     synonymsTitle.style.display = "inline-block";
     synonymsTitle.textContent = "Synonyms:";
     synonymsTitle.style.fontFamily = "times-roman";
-    synonymsTitle.classList.add("margin-top");
+    synonymsTitle.style.marginTop = "var(--margin-top)";
+    synonymsTitle.style.marginRight = "var(--margin-right)";
+    synonymsWrapper.appendChild(synonymsTitle);
 
-    const synonyms = document.createElement("p");
+    const synonyms = document.createElement("span");
     synonyms.textContent = this.synonyms.join(", ");
+    synonymsWrapper.appendChild(synonyms);
+
+    const antonymsWrapper = document.createElement("div");
+    wrapper.appendChild(antonymsWrapper)
 
     const antonymsTitle = document.createElement("span");
-    antonymsTitle.style.display = "inline-block";
     antonymsTitle.textContent = "Antonyms:";
     antonymsTitle.style.fontFamily = "times-roman";
-    antonymsTitle.classList.add("margin-top");
+    antonymsTitle.style.marginRight = "var(--margin-right)";
+    antonymsWrapper.appendChild(antonymsTitle);
 
-    const antonyms = document.createElement("p");
+    const antonyms = document.createElement("span");
     antonyms.textContent = this.antonyms.join(", ");
+    antonymsWrapper.appendChild(antonyms);
 
-    const notes = document.createElement("p");
+    const notesList = document.createElement("ul");
+    notesList.style.marginTop = "var(--margin-top)";
+    wrapper.appendChild(notesList);
 
-    const children = [
-      wordWrapper,
-      enDefinition,
-      ptDefinition,
-      exampleList,
-      synonymsTitle,
-      synonyms,
-      antonymsTitle,
-      antonyms,
-    ];
+    if (Array.isArray(this.notes)) {
+      this.notes.forEach((note) => {
+        const item = document.createElement("li");
+        item.classList.add("margin-top");
 
-    if (videoPlayer) {
-      children.push(videoPlayer);
+        const enNote = document.createElement("p");
+        enNote.textContent = note.enNote;
+
+        const ptNote = document.createElement("p");
+        ptNote.style.color = "var(--gray-4)";
+        ptNote.textContent = note.ptNote;
+
+        item.appendChild(enNote);
+        item.appendChild(ptNote);
+        notesList.appendChild(item);
+      });
     }
-
-    wrapper.append(...children);
 
     this.shadowRoot.appendChild(wrapper);
   }
