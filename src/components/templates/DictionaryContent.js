@@ -50,17 +50,16 @@ class DictionaryContent extends HTMLElement {
 
     this.shadowRoot.append(cssImports, css);
 
-    const wrapper = document.createElement("div");
-    wrapper.style.padding = "var(--padding)";
-    wrapper.style.border = "var(--border)";
-    wrapper.style.borderRadius = "var(--border-radius)";
-    wrapper.style.boxShadow = "var(--box-shadow)";
-    wrapper.style.backgroundColor = "var(--yellow-0)";
-    wrapper.style.color = "black";
-    wrapper.style.marginBottom = "10px"
+    const dictionaryCard = document.createElement("div");
+    dictionaryCard.style.padding = "var(--padding)";
+    dictionaryCard.style.border = "var(--border)";
+    dictionaryCard.style.borderRadius = "var(--border-radius)";
+    dictionaryCard.style.boxShadow = "var(--box-shadow)";
+    dictionaryCard.style.backgroundColor = "var(--yellow-0)";
+    dictionaryCard.style.color = "black";
 
     const wordWrapper = document.createElement("div");
-    wrapper.appendChild(wordWrapper);
+    dictionaryCard.appendChild(wordWrapper);
 
     // word
     const word = document.createElement("span");
@@ -101,7 +100,7 @@ class DictionaryContent extends HTMLElement {
     wordWrapper.appendChild(ptDef);
 
     const exampleList = document.createElement("ul");
-    wrapper.appendChild(exampleList);
+    dictionaryCard.appendChild(exampleList);
 
     this.examples.forEach((example) => {
       const item = document.createElement("li");
@@ -137,10 +136,10 @@ class DictionaryContent extends HTMLElement {
       word.style.marginTop = "var(--margin-top)";
       videoPlayer.data = this.videoPlayer;
     }
-    if (videoPlayer) wrapper.appendChild(videoPlayer);
+    if (videoPlayer) dictionaryCard.appendChild(videoPlayer);
 
     const synonymsWrapper = document.createElement("div");
-    wrapper.appendChild(synonymsWrapper)
+    dictionaryCard.appendChild(synonymsWrapper);
 
     const synonymsTitle = document.createElement("span");
     synonymsTitle.style.display = "inline-block";
@@ -155,7 +154,7 @@ class DictionaryContent extends HTMLElement {
     synonymsWrapper.appendChild(synonyms);
 
     const antonymsWrapper = document.createElement("div");
-    wrapper.appendChild(antonymsWrapper)
+    dictionaryCard.appendChild(antonymsWrapper);
 
     const antonymsTitle = document.createElement("span");
     antonymsTitle.textContent = "Antonyms:";
@@ -169,7 +168,7 @@ class DictionaryContent extends HTMLElement {
 
     const notesList = document.createElement("ul");
     notesList.style.marginTop = "var(--margin-top)";
-    wrapper.appendChild(notesList);
+    dictionaryCard.appendChild(notesList);
 
     if (Array.isArray(this.notes)) {
       this.notes.forEach((note) => {
@@ -189,7 +188,7 @@ class DictionaryContent extends HTMLElement {
       });
     }
 
-    this.shadowRoot.appendChild(wrapper);
+    this.shadowRoot.appendChild(dictionaryCard);
   }
 }
 

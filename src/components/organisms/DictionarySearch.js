@@ -126,14 +126,15 @@ class DictionarySearch extends HTMLElement {
     // Add each result to the shadow DOM
     const multipleResults = document.createElement("div");
     multipleResults.style.maxHeight = "60vh";
-    multipleResults.style.backgroundColor = "var(--gray-3)"
-    multipleResults.style.borderRadius = "var(--border-radius)"
-    multipleResults.style.boxShadow = "var(--box-shadow)"
-    multipleResults.style.padding = "var(--padding)"
+    multipleResults.style.backgroundColor = "var(--gray-3)";
+    multipleResults.style.borderRadius = "var(--border-radius)";
+    multipleResults.style.boxShadow = "var(--box-shadow)";
+    multipleResults.style.padding = "var(--padding)";
     multipleResults.style.overflowY = "auto";
 
-    results.forEach((result) => {
+    results.forEach((result, index) => {
       const content = document.createElement("wc-dictionary-content");
+
       content.setData({
         word: result.word || word,
         phonetics: result.phonetics || "",
@@ -147,10 +148,15 @@ class DictionarySearch extends HTMLElement {
         notes: result?.notes || [],
       });
 
-      multipleResults.appendChild(content);
+      const dictionaryCard = document.createElement("div");
+      if (index !== results.length - 1) {
+        dictionaryCard.style.marginBottom = "4px";
+      }
 
-      this.shadowRoot.appendChild(multipleResults);
+      dictionaryCard.appendChild(content)
+      multipleResults.appendChild(dictionaryCard);
     });
+    this.shadowRoot.appendChild(multipleResults);
   }
 
   // Displays a message when no result is found or there's an issue
