@@ -54,7 +54,7 @@ class DictionarySearch extends HTMLElement {
         const allData = results.flat(); // Merge all results into a single array
 
         // Find all definitions or aliases that match the search word using RegExp for accuracy
-        const pattern = new RegExp(`${word}`, "i");
+        const pattern = new RegExp(`\\b${word}`, "i");
 
         const matchedList = allData.flatMap((item) =>
           item.definitions.filter(
@@ -63,7 +63,8 @@ class DictionarySearch extends HTMLElement {
               (def.aliases && def.aliases.some((alias) => pattern.test(alias)))
           )
         );
-
+        matchedList.sort((a, b) => (a.word?.length || 0) - (b.word?.length || 0)
+        );
         // Avoid searching for very short inputs
         if (word.length < 2) {
           this.showMessage("Please type at least 2 letters to search.");
@@ -79,8 +80,9 @@ class DictionarySearch extends HTMLElement {
       });
 
       // Clear previous results and messages
-      const previousResults = this.shadowRoot.querySelectorAll(".dictionary-card");
-      previousResults.forEach((div) => div.remove())
+      const previousResults =
+        this.shadowRoot.querySelectorAll(".dictionary-card");
+      previousResults.forEach((div) => div.remove());
 
       const previousMessage = this.shadowRoot.querySelector("p");
       if (previousMessage) previousMessage.remove();
@@ -101,8 +103,9 @@ class DictionarySearch extends HTMLElement {
     closeButton.style.top = "2px";
 
     closeButton.addEventListener("click", () => {
-      const previousResults = this.shadowRoot.querySelectorAll(".dictionary-card");
-      previousResults.forEach((div) => div.remove())
+      const previousResults =
+        this.shadowRoot.querySelectorAll(".dictionary-card");
+      previousResults.forEach((div) => div.remove());
 
       const message = this.shadowRoot.querySelector("p");
       if (message) message.remove();
@@ -122,7 +125,7 @@ class DictionarySearch extends HTMLElement {
 
     // Multiple results
     const multipleResults = document.createElement("div");
-    multipleResults.classList.add("dictionary-card")
+    multipleResults.classList.add("dictionary-card");
     multipleResults.style.maxHeight = "60vh";
     multipleResults.style.backgroundColor = "var(--gray-3)";
     multipleResults.style.borderRadius = "var(--border-radius)";
