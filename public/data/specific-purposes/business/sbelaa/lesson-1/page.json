@@ -262,51 +262,6 @@
           ]
         }
       ]
-    },
-    {
-      "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
-        "icon": "snippet",
-        "label": "Idioms & Expressions"
-      }
-    },
-    {
-      "text": [
-        {
-          "card": true,
-          "videoPlayer": [
-            {
-              "position": "bottom",
-              "src": ""
-            }
-          ],
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "..."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "Example: ..."
-                }
-              ]
-            }
-          ]
-        }
-      ]
     }
   ]
 }

@@ -79,10 +79,8 @@ class DictionarySearch extends HTMLElement {
       });
 
       // Clear previous results and messages
-      const previousContents = this.shadowRoot.querySelectorAll(
-        "wc-dictionary-content"
-      );
-      previousContents.forEach((el) => el.remove());
+      const previousResults = this.shadowRoot.querySelectorAll(".dictionary-card");
+      previousResults.forEach((div) => div.remove())
 
       const previousMessage = this.shadowRoot.querySelector("p");
       if (previousMessage) previousMessage.remove();
@@ -95,6 +93,7 @@ class DictionarySearch extends HTMLElement {
       }
     });
 
+    // CLOSE Button
     // Button to close or clear results (currently not wired)
     const closeButton = document.createElement("wc-button");
     closeButton.setAttribute("data-icon", "close");
@@ -102,10 +101,8 @@ class DictionarySearch extends HTMLElement {
     closeButton.style.top = "2px";
 
     closeButton.addEventListener("click", () => {
-      const contents = this.shadowRoot.querySelectorAll(
-        "wc-dictionary-content"
-      );
-      contents.forEach((el) => el.remove());
+      const previousResults = this.shadowRoot.querySelectorAll(".dictionary-card");
+      previousResults.forEach((div) => div.remove())
 
       const message = this.shadowRoot.querySelector("p");
       if (message) message.remove();
@@ -123,8 +120,9 @@ class DictionarySearch extends HTMLElement {
     );
     existingContents.forEach((el) => el.remove());
 
-    // Add each result to the shadow DOM
+    // Multiple results
     const multipleResults = document.createElement("div");
+    multipleResults.classList.add("dictionary-card")
     multipleResults.style.maxHeight = "60vh";
     multipleResults.style.backgroundColor = "var(--gray-3)";
     multipleResults.style.borderRadius = "var(--border-radius)";
@@ -153,7 +151,7 @@ class DictionarySearch extends HTMLElement {
         dictionaryCard.style.marginBottom = "4px";
       }
 
-      dictionaryCard.appendChild(content)
+      dictionaryCard.appendChild(content);
       multipleResults.appendChild(dictionaryCard);
     });
     this.shadowRoot.appendChild(multipleResults);
