@@ -54,7 +54,7 @@ class DictionarySearch extends HTMLElement {
         const allData = results.flat(); // Merge all results into a single array
 
         // Find all definitions or aliases that match the search word using RegExp for accuracy
-        const pattern = new RegExp(`\\b${word}\\b`, "i");
+        const pattern = new RegExp(`${word}`, "i");
 
         const matchedList = allData.flatMap((item) =>
           item.definitions.filter(
