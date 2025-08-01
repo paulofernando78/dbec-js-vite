@@ -610,48 +610,32 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1.",
-                      "correctAnswer": ["xxx"],
-                      "afterBlank": "xxx "
+                      "text": "text"
+                    },
+                    {
+                      "correctAnswer": ["xxx"]
+                    },
+                    {
+                      "text": "text"
+                    },
+                    {
+                      "correctAnswer": ["xxx"]
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "2.",
-                      "correctAnswer": ["xxx"],
-                      "afterBlank": "xxx "
-                    }
-                  ]
-                },
-                {
-                  "block": [
+                      "text": "text"
+                    },
                     {
-                      "beforeBlank": "3.",
-                      "correctAnswer": ["xxx"],
-                      "afterBlank": "xxx "
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "blocks": [
-                {
-                  "block": [
-                    {
-                      "beforeBlank": "4.",
                       "correctAnswer": ["xxx"]
                     },
                     {
-                      "beforeBlank": "xxx",
-                      "correctAnswer": ["xxx"]
+                      "text": "text"
                     },
                     {
-                      "beforeBlank": "xxx",
-                      "correctAnswer": ["xxx"],
-                      "afterBlank": " xxx "
+                      "correctAnswer": ["xxx"]
                     }
                   ]
                 }

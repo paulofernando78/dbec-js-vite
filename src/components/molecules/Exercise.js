@@ -265,45 +265,44 @@ class Exercise extends HTMLElement {
     const fillContainer = document.createElement("div");
 
     items.forEach((item) => {
-      // Verify if it's a "block of blocks"
       if (item.blocks) {
         item.blocks.forEach((group, groupIndex) => {
           const fillGroupWrapper = document.createElement("div");
-          if (groupIndex === item.blocks.length - 1 && item.blocks.length > 1) {
+          // if (groupIndex === item.blocks.length - 1 && item.blocks.length > 1) {
+          //   fillGroupWrapper.style.marginBottom = "var(--line-break)";
+          // }
+          if (group.lineBreak) {
             fillGroupWrapper.style.marginBottom = "var(--line-break)";
           }
 
-          // Check each "block"
           group.block.forEach((inputSet) => {
             const fillWrapper = document.createElement("div");
             fillWrapper.style.display = "inline";
 
-            // beforeBlank
-            const beforeBlank = document.createElement("span");
-            beforeBlank.textContent = inputSet.beforeBlank;
+            // text
+            const text = document.createElement("span");
+            text.textContent = inputSet.text;
+            fillWrapper.appendChild(text);
 
             // input
-            const blank = document.createElement("input");
-            const longestAnswer = inputSet.correctAnswer.reduce((a, b) =>
-              a.length > b.length ? a : b
-            );
-            const estimateWidth = `${longestAnswer.length + 2}ch`;
-            blank.style.width = inputSet.width || estimateWidth;
+            if (inputSet.correctAnswer && inputSet.correctAnswer.length > 0) {
+              const blank = document.createElement("input");
+              const longestAnswer = inputSet.correctAnswer.reduce((a, b) =>
+                a.length > b.length ? a : b
+              );
+              const estimateWidth = `${longestAnswer.length + 2}ch`;
+              blank.style.width = inputSet.width || estimateWidth;
 
-            blank.type = "text";
-            blank.placeholder = inputSet.placeholder || "";
-            blank.style.fontFamily = "courier";
-            blank.style.borderRadius = "var(--border-radius)";
-            blank.style.border = "2px solid lightgray";
-            blank.style.paddingLeft = "5px";
-            blank.style.margin = "0 5px 2px 5px";
-            blank.dataset.answers = inputSet.correctAnswer.join(",");
-
-            // afterBlank
-            const afterBlank = document.createElement("span");
-            afterBlank.textContent = inputSet.afterBlank;
-
-            fillWrapper.append(beforeBlank, blank, afterBlank);
+              blank.type = "text";
+              blank.placeholder = inputSet.placeholder || "";
+              blank.style.fontFamily = "courier";
+              blank.style.borderRadius = "var(--border-radius)";
+              blank.style.border = "2px solid lightgray";
+              blank.style.paddingLeft = "5px";
+              blank.style.margin = "0 5px 2px 5px";
+              blank.dataset.answers = inputSet.correctAnswer.join(",");
+              fillWrapper.append(blank);
+            }
             fillGroupWrapper.appendChild(fillWrapper);
           });
 

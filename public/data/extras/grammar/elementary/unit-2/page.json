@@ -973,8 +973,8 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. Where’s the camera?",
-                      "placeholder": "G",
+                      "text": "1. Where’s the camera?",
+                      "placeholder": "g",
                       "correctAnswer": ["g"]
                     }
                   ]
@@ -982,7 +982,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. Is your car blue?",
+                      "text": "2. Is your car blue?",
                       "correctAnswer": ["f"]
                     }
                   ]
@@ -990,7 +990,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. Is Nicole from London?",
+                      "text": "3. Is Nicole from London?",
                       "correctAnswer": ["h"]
                     }
                   ]
@@ -998,7 +998,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "4. Am I late?",
+                      "text": "4. Am I late?",
                       "correctAnswer": ["c"]
                     }
                   ]
@@ -1006,7 +1006,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "5. Where’s Megan From?",
+                      "text": "5. Where’s Megan From?",
                       "correctAnswer": ["a"]
                     }
                   ]
@@ -1014,7 +1014,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "6. What color is your bag?",
+                      "text": "6. What color is your bag?",
                       "correctAnswer": ["e"]
                     }
                   ]
@@ -1022,7 +1022,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "7. Are you hungry?",
+                      "text": "7. Are you hungry?",
                       "correctAnswer": ["b"]
                     }
                   ]
@@ -1030,7 +1030,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "8. How’s Christopher?",
+                      "text": "8. How’s Christopher?",
                       "correctAnswer": ["i"]
                     }
                   ]
@@ -1038,8 +1038,8 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "9. Who’s that woman?",
-                      "correctAnswer": [".e"]
+                      "text": "9. Who’s that woman?",
+                      "correctAnswer": ["d"]
                     }
                   ]
                 }
@@ -1048,8 +1048,7 @@
           ]
         },
         {
-          "title": "2.2 ...",
-          "description": "Description"
+          "title": "2.2 Make questions with these words."
         },
         {
           "fillExercises": [
@@ -1058,74 +1057,76 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. ...",
-                      "placeholder": "...",
-                      "correctAnswer": ["..."]
+                      "text": "1. (is / home / your mother)",
+                      "placeholder": "How’s your mother?",
+                      "correctAnswer": [
+                        "How’s your mother?",
+                        "How's your mother?"
+                      ]
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. ...",
-                      "correctAnswer": ["..."]
+                      "text": "2. (your parents / are / how)",
+                      "correctAnswer": ["How are your parents?"]
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. ...",
-                      "correctAnswer": ["..."]
+                      "text": "3. (interesting / is / your job)",
+                      "correctAnswer": ["Is your job interesting?"]
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "4. ...",
-                      "correctAnswer": ["..."]
+                      "text": "4. the stores / are / open today",
+                      "correctAnswer": ["Are the stores open today?"]
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "5. ...",
-                      "correctAnswer": ["..."]
+                      "text": "5. (from / where / you / are)",
+                      "correctAnswer": ["Where are you from?"]
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "6. ...",
-                      "correctAnswer": ["..."]
+                      "text": "6. (interested in sports / you / are)",
+                      "correctAnswer": ["Are you interested in sports?"]
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "7. ...",
-                      "correctAnswer": ["..."]
+                      "text": "7. (is / near here / the train station)",
+                      "correctAnswer": ["Is the subway near here?"]
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "8. ...",
-                      "correctAnswer": ["..."]
+                      "text": "8. (at school / are / your children)",
+                      "correctAnswer": ["Are your children at school?"]
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "9. ...",
-                      "correctAnswer": ["..."],
-                      "afterBlank": ""
+                      "text": "9. (you / are / late / why)",
+                      "correctAnswer": ["Why are you late?"]
                     }
                   ]
                 }
@@ -1134,8 +1135,7 @@
           ]
         },
         {
-          "title": "2.3 ...",
-          "description": "Description"
+          "title": "2.3 Complete the questions. Use What... / Who... / Where... / How... ."
         },
         {
           "fillExercises": [
@@ -1144,74 +1144,135 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. ...",
-                      "placeholder": "...",
-                      "correctAnswer": ["..."]
+                      "text": "1. A:"
+                    },
+                    {
+                      "placeholder": "How are",
+                      "correctAnswer": ["How are"]
+                    },
+                    {
+                      "text": "your children?"
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. ...",
-                      "correctAnswer": ["..."]
+                      "text": "B: Five, six, and ten."
+                    }
+                  ],
+                  "lineBreak": true
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2. A:",
+                      "correctAnswer": ["Where is", "Where’s", "Where's"]
+                    },
+                    {
+                      "text": "the bus stop?"
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. ...",
-                      "correctAnswer": ["..."]
+                      "text": "B: At the end of the block."
+                    }
+                  ],
+                  "lineBreak": true
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3. A:",
+                      "correctAnswer": ["How old are"]
+                    },
+                    {
+                      "text": "your children?"
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "4. ...",
-                      "correctAnswer": ["..."]
+                      "text": "B: Five, six, and ten."
+                    }
+                  ],
+                  "lineBreak": true
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4. A:",
+                      "correctAnswer": ["How much"]
+                    },
+                    {
+                      "text": "are these oranges? "
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "5. ...",
-                      "correctAnswer": ["..."]
+                      "text": "B: $1.50 a pound."
+                    }
+                  ],
+                  "lineBreak": true
+                },
+                {
+                  "block": [
+                    {
+                      "text": "5. A:",
+                      "correctAnswer": ["What is", "What’s"]
+                    },
+                    {
+                      "text": "your favorite sport?"
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "6. ...",
-                      "correctAnswer": ["..."]
+                      "text": "B: Skiing."
+                    }
+                  ],
+                  "lineBreak": true
+                },
+                {
+                  "block": [
+                    {
+                      "text": "6. A:",
+                      "correctAnswer": ["How is", "How’s", "How's"]
+                    },
+                    {
+                      "text": "the man in this photo? B: That’s my dad."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "7. ...",
-                      "correctAnswer": ["..."]
+                      "text": "B: That’s my dad."
+                    }
+                  ],
+                  "lineBreak": true
+                },
+                {
+                  "block": [
+                    {
+                      "text": "7. A:",
+                      "correctAnswer": ["What color are"]
+                    },
+                    {
+                      "text": "your new shoes?"
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "8. ...",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "beforeBlank": "9. ...",
-                      "correctAnswer": ["..."],
-                      "afterBlank": ""
+                      "text": "B: Black."
                     }
                   ]
                 }
@@ -1220,8 +1281,16 @@
           ]
         },
         {
-          "title": "2.4 ...",
-          "description": "Description"
+          "title": "2.4 Write the questions."
+        },
+        {
+          "images": [
+            {
+              "width": "50%",
+              "src": "/assets/images/general/talking-man-woman.avif",
+              "alt": "A man and a woman having a conversation."
+            }
+          ]
         },
         {
           "fillExercises": [
@@ -1230,74 +1299,85 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. ...",
-                      "placeholder": "...",
-                      "correctAnswer": ["..."]
+                      "text": "1. (name)",
+                      "placeholder": "What’s your name?",
+                      "correctAnswer": [
+                        "What’s your name?",
+                        "What's your name?"
+                      ],
+                      "afterBlank": "Eric."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. ...",
-                      "correctAnswer": ["..."]
+                      "text": "2. (Australian?)",
+                      "correctAnswer": ["Are you Australian?"],
+                      "afterBlank": "No, I’m Canadian."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. ...",
-                      "correctAnswer": ["..."]
+                      "text": "3. how old?",
+                      "correctAnswer": ["How old are you?"],
+                      "afterBlank": "I’m 30."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "4. ...",
-                      "correctAnswer": ["..."]
+                      "text": "4. (a teacher?)",
+                      "correctAnswer": ["Are you a teacher?"],
+                      "afterBlank": "No, I’m a lawyer."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "5. ...",
-                      "correctAnswer": ["..."]
+                      "text": "5. (married?)",
+                      "correctAnswer": ["Are you married?"],
+                      "afterBlank": "Yes, I am."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "6. ...",
-                      "correctAnswer": ["..."]
+                      "text": "6. (wife a lawyer?)",
+                      "correctAnswer": ["Is your wife a laywer?"],
+                      "afterBlank": "No, she’s a teacher."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "7. ...",
-                      "correctAnswer": ["..."]
+                      "text": "7. (from?)",
+                      "correctAnswer": ["Where’s she from?"],
+                      "afterBlank": "She’s from Mexico."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "8. ...",
-                      "correctAnswer": ["..."]
+                      "text": "8. (her name?)",
+                      "correctAnswer": ["What’s her name?", "What's her name?"],
+                      "afterBlank": "Ana."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "9. ...",
-                      "correctAnswer": ["..."],
-                      "afterBlank": ""
+                      "text": "9. (How old?)",
+                      "correctAnswer": ["How old is you?"],
+                      "afterBlank": "She’s 27."
                     }
                   ]
                 }
