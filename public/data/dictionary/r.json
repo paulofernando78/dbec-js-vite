@@ -1,5 +1,76 @@
 [
   {
+    "word": "RIP",
+    "phonetics": "/ˌɑːr.aɪˈpiː/",
+    "partOfSpeech": "abbreviation",
+    "enDefinition": "rest in peace; used to express sympathy or respect for someone who has died",
+    "ptDefinition": "descanse em paz; usado para expressar simpatia ou respeito por alguém que faleceu",
+    "examples": [
+      {
+        "enExample": "We will miss her deeply. RIP.",
+        "ptExample": "Sentiremos muito a falta dela. RIP."
+      }
+    ],
+    "notes": [
+      {
+        "enNote": "Often seen on gravestones or social media posts about someone who has passed away.",
+        "ptNote": "Frequentemente usado em lápides ou postagens nas redes sociais sobre alguém que faleceu."
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "rip",
+        "phonetics": "/rɪp/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to tear something quickly or violently",
+        "ptDefinition": "rasgar algo de forma rápida ou violenta",
+        "examples": [
+          {
+            "enExample": "He accidentally ripped his shirt while climbing the fence.",
+            "ptExample": "Ele rasgou a camisa sem querer ao escalar a cerca."
+          }
+        ],
+        "synonyms": "tear, shred, split",
+        "antonyms": "mend, repair, sew",
+        "seeAlso": "",
+        "notes": [
+          {
+            "enNote": "Can also be used figuratively, like 'rip someone off'.",
+            "ptNote": "Também pode ser usada de forma figurada, como em 'rip someone off'."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "reap",
+        "phonetics": "/riːp/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to receive or obtain something as a result of one's own actions",
+        "ptDefinition": "receber ou obter algo como resultado das próprias ações",
+        "examples": [
+          {
+            "enExample": "You reap what you sow.",
+            "ptExample": "Você colhe o que planta."
+          }
+        ],
+        "synonyms": "harvest, collect, gain",
+        "antonyms": "sow, plant, invest",
+        "seeAlso": "reap the benefits",
+        "notes": [
+          {
+            "enNote": "Often used metaphorically to talk about consequences of actions.",
+            "ptNote": "Frequentemente usada de forma metafórica para falar sobre consequências das ações."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "definitions": [
       {
         "word": "be running behind",
@@ -8,12 +79,12 @@
         "ptDefinition": "estar atrasado ou não progredindo tão rapidamente quanto o planejado; estar atrasado em relação a um cronograma ou prazo",
         "examples": [
           {
-        "enExample": "Sorry, I'm running behind this morning and will be late to the meeting.",
-        "ptExample": "Desculpe, estou atrasado esta manhã e vou me atrasar para a reunião."
+            "enExample": "Sorry, I'm running behind this morning and will be late to the meeting.",
+            "ptExample": "Desculpe, estou atrasado esta manhã e vou me atrasar para a reunião."
           },
           {
-        "enExample": "The project is running behind because of unexpected technical issues.",
-        "ptExample": "O projeto está atrasado devido a problemas técnicos inesperados."
+            "enExample": "The project is running behind because of unexpected technical issues.",
+            "ptExample": "O projeto está atrasado devido a problemas técnicos inesperados."
           }
         ],
         "synonyms": ["be late", "fall behind", "lag behind", "be delayed"],
@@ -21,8 +92,8 @@
         "seeAlso": ["fall behind", "behind schedule", "delay"],
         "notes": [
           {
-        "enNote": "This idiom is commonly used in both personal and professional contexts to indicate being late or not meeting expected progress.",
-        "ptNote": "Esse idiom é comumente usado em contextos pessoais e profissionais para indicar atraso ou não cumprimento do progresso esperado."
+            "enNote": "This idiom is commonly used in both personal and professional contexts to indicate being late or not meeting expected progress.",
+            "ptNote": "Esse idiom é comumente usado em contextos pessoais e profissionais para indicar atraso ou não cumprimento do progresso esperado."
           }
         ]
       },
@@ -41,9 +112,18 @@
             "ptExample": "Ela mantém disciplina rígida em sua sala de aula, e os alunos sabem exatamente o que se espera deles."
           }
         ],
-        "synonyms": ["be strict", "be disciplined", "maintain order", "be efficient"],
+        "synonyms": [
+          "be strict",
+          "be disciplined",
+          "maintain order",
+          "be efficient"
+        ],
         "antonyms": ["be lax", "be disorganized", "be lenient"],
-        "seeAlso": ["keep things in order", "run efficiently", "maintain discipline"],
+        "seeAlso": [
+          "keep things in order",
+          "run efficiently",
+          "maintain discipline"
+        ],
         "notes": [
           {
             "enNote": "This idiom is often used to praise leaders who are effective and organized, but it can also imply being overly strict.",
