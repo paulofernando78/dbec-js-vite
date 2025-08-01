@@ -1,20 +1,24 @@
 [
   {
-    "word": "RIP",
-    "phonetics": "/ˌɑːr.aɪˈpiː/",
-    "partOfSpeech": "abbreviation",
-    "enDefinition": "rest in peace; used to express sympathy or respect for someone who has died",
-    "ptDefinition": "descanse em paz; usado para expressar simpatia ou respeito por alguém que faleceu",
-    "examples": [
+    "definitions": [
       {
-        "enExample": "We will miss her deeply. RIP.",
-        "ptExample": "Sentiremos muito a falta dela. RIP."
-      }
-    ],
-    "notes": [
-      {
-        "enNote": "Often seen on gravestones or social media posts about someone who has passed away.",
-        "ptNote": "Frequentemente usado em lápides ou postagens nas redes sociais sobre alguém que faleceu."
+        "word": "RIP",
+        "phonetics": "/ˌɑːr.aɪˈpiː/",
+        "partOfSpeech": "abbreviation",
+        "enDefinition": "rest in peace; used to express sympathy or respect for someone who has died",
+        "ptDefinition": "descanse em paz; usado para expressar simpatia ou respeito por alguém que faleceu",
+        "examples": [
+          {
+            "enExample": "We will miss her deeply. RIP.",
+            "ptExample": "Sentiremos muito a falta dela. RIP."
+          }
+        ],
+        "notes": [
+          {
+            "enNote": "Often seen on gravestones or social media posts about someone who has passed away.",
+            "ptNote": "Frequentemente usado em lápides ou postagens nas redes sociais sobre alguém que faleceu."
+          }
+        ]
       }
     ]
   },
