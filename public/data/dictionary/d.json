@@ -2,6 +2,123 @@
   {
     "definitions": [
       {
+        "word": "dog-eat-dog world",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a ruthless environment or situation where people compete aggressively and are willing to harm each other to succeed",
+        "ptDefinition": "um ambiente ou situação implacável onde as pessoas competem agressivamente e estão dispostas a prejudicar umas às outras para vencer",
+        "examples": [
+          {
+            "enExample": "The business world is a dog-eat-dog world where only the strongest survive.",
+            "ptExample": "O mundo dos negócios é um ambiente implacável onde só os mais fortes sobrevivem."
+          },
+          {
+            "enExample": "In a dog-eat-dog world, you have to watch your back at all times.",
+            "ptExample": "Em um mundo cruel e competitivo, você precisa estar sempre atento."
+          }
+        ],
+        "synonyms": "cutthroat, ruthless, competitive",
+        "antonyms": "cooperative, friendly, supportive",
+        "seeAlso": "survival of the fittest, ruthless competition",
+        "notes": [
+          {
+            "enNote": "Often used to describe harsh competitive environments.",
+            "ptNote": "Frequentemente usada para descrever ambientes competitivos e agressivos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "on the dot",
+        "partOfSpeech": "idiom",
+        "enDefinition": "exactly at the stated time; precisely on time",
+        "ptDefinition": "exatamente na hora marcada; pontualmente",
+        "examples": [
+          {
+            "enExample": "The meeting will start at 10 a.m. on the dot.",
+            "ptExample": "A reunião começará às 10 horas em ponto."
+          },
+          {
+            "enExample": "She arrived at the party on the dot, not a minute late.",
+            "ptExample": "Ela chegou à festa em ponto, nem um minuto atrasada."
+          }
+        ],
+        "synonyms": ["punctually", "precisely", "exactly"],
+        "antonyms": ["late", "early", "delayed"],
+        "seeAlso": ["sharp", "right on time", "to the minute"],
+        "notes": [
+          {
+            "enNote": "Commonly used to emphasize punctuality or exact timing.",
+            "ptNote": "Comumente usado para enfatizar pontualidade ou exatidão no horário."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "don’t waste your breath",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to tell someone not to bother trying to persuade or explain something to someone else because it will have no effect",
+        "ptDefinition": "usado para dizer a alguém que não adianta tentar convencer ou explicar algo para outra pessoa porque não terá efeito",
+        "examples": [
+          {
+            "enExample": "Don’t waste your breath trying to change his mind—he never listens.",
+            "ptExample": "Não perca seu tempo tentando convencê-lo — ele nunca escuta."
+          },
+          {
+            "enExample": "She told me not to waste my breath arguing with the manager.",
+            "ptExample": "Ela me disse para não perder tempo discutindo com o gerente."
+          }
+        ],
+        "synonyms": ["don’t bother", "save your breath", "it’s pointless"],
+        "antonyms": ["be persuasive", "convince", "succeed"],
+        "seeAlso": ["fall on deaf ears", "talk to a brick wall"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used when someone feels their efforts to communicate will be ignored.",
+            "ptNote": "Este idiom é frequentemente usado quando alguém sente que seus esforços de comunicação serão ignorados."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "dump someone",
+        "phonetics": "/dʌmp ˈsʌmwʌn/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to suddenly end a romantic relationship with someone",
+        "ptDefinition": "terminar abruptamente um relacionamento amoroso com alguém",
+        "examples": [
+          {
+            "enExample": "She dumped him after finding out he lied to her.",
+            "ptExample": "Ela terminou com ele depois de descobrir que ele mentiu para ela."
+          },
+          {
+            "enExample": "He felt terrible when his girlfriend dumped him by text message.",
+            "ptExample": "Ele se sentiu péssimo quando sua namorada terminou com ele por mensagem."
+          }
+        ],
+        "synonyms": ["break up with", "leave", "end a relationship"],
+        "antonyms": ["get together", "stay with", "reconcile"],
+        "seeAlso": ["break up", "split up"],
+        "notes": [
+          {
+            "enNote": "This phrase is informal and often used when the breakup is sudden or one-sided.",
+            "ptNote": "Esta expressão é informal e geralmente usada quando o término é repentino ou unilateral."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "dire",
         "phonetics": "/daɪər/",
         "partOfSpeech": "adjective",

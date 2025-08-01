@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "definitions": [
+      {
+        "word": "out of the question",
+        "partOfSpeech": "idiom",
+        "enDefinition": "impossible; not to be considered; absolutely not",
+        "ptDefinition": "impossível; nem pensar; absolutamente não",
+        "examples": [
+          {
+            "enExample": "Buying a new car this year is out of the question - we can't afford it.",
+            "ptExample": "Comprar um carro novo este ano está fora de questão - não podemos pagar."
+          },
+          {
+            "enExample": "Working overtime is out of the question, I need to pick up my kids from school.",
+            "ptExample": "Fazer hora extra está fora de questão, preciso buscar meus filhos na escola."
+          }
+        ],
+        "synonyms": ["impossible", "unthinkable", "not possible"],
+        "antonyms": ["possible", "feasible", "doable"],
+        "seeAlso": ["no way", "impossible"],
+        "notes": [
+          {
+            "enNote": "Used to express that something is absolutely impossible or cannot be considered as an option.",
+            "ptNote": "Usado para expressar que algo é absolutamente impossível ou não pode ser considerado como uma opção."
+          }
+        ]
+      }
+    ]
+  }
+]

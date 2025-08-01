@@ -2,27 +2,85 @@
   {
     "definitions": [
       {
-        "word": "keep one's eye on the prize",
+        "word": "keep one’s nose to the grindstone",
         "partOfSpeech": "idiom",
-        "enDefinition": "to stay focused on achieving a positive end result, especially in the face of challenges or distractions",
-        "ptDefinition": "manter o foco em alcançar um resultado positivo, especialmente diante de desafios ou distrações",
+        "enDefinition": "to work hard and continuously without distraction",
+        "ptDefinition": "trabalhar duro e continuamente, sem distrações",
         "examples": [
           {
-            "enExample": "Despite the difficulties, she kept her eye on the prize and completed her degree.",
-            "ptExample": "Apesar das dificuldades, ela manteve o foco e concluiu seu diploma."
+            "enExample": "If you keep your nose to the grindstone, you'll finish the project on time.",
+            "ptExample": "Se você mantiver o foco, vai terminar o projeto no prazo."
           },
           {
-            "enExample": "He reminded his team to keep their eyes on the prize and not get distracted by minor setbacks.",
-            "ptExample": "Ele lembrou sua equipe de manter o foco e não se distrair com pequenos contratempos."
+            "enExample": "She kept her nose to the grindstone to pass all her exams.",
+            "ptExample": "Ela trabalhou duro para passar em todas as provas."
           }
         ],
-        "synonyms": ["stay focused", "remain determined", "stay on track"],
-        "antonyms": ["lose focus", "get distracted", "waver"],
-        "seeAlso": ["stay the course", "keep going", "persevere"],
+        "synonyms": "work hard, stay focused, persevere",
+        "antonyms": "slack off, procrastinate, get distracted",
+        "seeAlso": "hang in there, keep going",
         "notes": [
           {
-            "enNote": "This idiom is often used to encourage persistence and determination.",
-            "ptNote": "Este idiom é frequentemente usado para encorajar persistência e determinação."
+            "enNote": "A common expression encouraging diligence and focus.",
+            "ptNote": "Expressão comum que incentiva diligência e foco."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "keep one’s head above water",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to manage to survive, especially in difficult financial or personal situations",
+        "ptDefinition": "conseguir sobreviver, especialmente em situações financeiras ou pessoais difíceis",
+        "examples": [
+          {
+            "enExample": "Despite all the debts, they managed to keep their heads above water.",
+            "ptExample": "Apesar de todas as dívidas, eles conseguiram se manter à tona."
+          },
+          {
+            "enExample": "During tough times, she just tries to keep her head above water.",
+            "ptExample": "Durante os tempos difíceis, ela apenas tenta se manter."
+          }
+        ],
+        "synonyms": "manage, survive, cope",
+        "antonyms": "struggle, drown, fail",
+        "seeAlso": "stay afloat, hold on",
+        "notes": [
+          {
+            "enNote": "Often used metaphorically for surviving challenges.",
+            "ptNote": "Frequentemente usada metaforicamente para sobreviver a desafios."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "kiss up (to someone)",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "To try to please someone, especially a person in authority, by behaving in an overly flattering or submissive way.",
+        "ptDefinition": "Tentar agradar alguém, especialmente uma pessoa em posição de autoridade, comportando-se de maneira excessivamente bajuladora ou submissa.",
+        "examples": [
+          {
+            "enExample": "He's always kissing up to the boss to get a promotion.",
+            "ptExample": "Ele está sempre puxando o saco do chefe para conseguir uma promoção."
+          },
+          {
+            "enExample": "Stop kissing up and just do your work.",
+            "ptExample": "Pare de bajular e apenas faça seu trabalho."
+          }
+        ],
+        "synonyms": "brown-nose, suck up, flatter",
+        "antonyms": "be independent, speak honestly",
+        "seeAlso": "brown noser, yes man, bootlicker",
+        "notes": [
+          {
+            "enNote": "Informal phrase often used negatively to describe insincere flattery.",
+            "ptNote": "Expressão informal frequentemente usada de forma negativa para descrever bajulação insincera."
           }
         ]
       }
@@ -66,40 +124,44 @@
         ],
         "synonyms": ["be receptive", "stay flexible", "remain unbiased"],
         "antonyms": ["be close-minded", "reject ideas", "be inflexible"],
-        "seeAlso": ["embrace change", "think outside the box", "be open to feedback"]
+        "seeAlso": [
+          "embrace change",
+          "think outside the box",
+          "be open to feedback"
+        ]
       }
     ]
   },
-{
-  "definitions": [
-    {
-      "word": "keep something under wraps",
-      "phonetics": "",
-      "partOfSpeech": "idiom",
-      "enDefinition": "to keep something secret or hidden from others; to not reveal information.",
-      "ptDefinition": "manter algo em segredo ou escondido dos outros; não revelar informações.",
-      "examples": [
-        {
-          "enExample": "They managed to keep the new product under wraps until the official launch.",
-          "ptExample": "Eles conseguiram manter o novo produto em segredo até o lançamento oficial."
-        },
-        {
-          "enExample": "The company is keeping the details of the merger under wraps.",
-          "ptExample": "A empresa está mantendo os detalhes da fusão em segredo."
-        }
-      ],
-      "synonyms": ["keep secret", "conceal", "hide"],
-      "antonyms": ["reveal", "disclose", "make public"],
-      "seeAlso": ["keep quiet", "hush up", "cover up"],
-      "notes": [
-        {
-          "enNote": "Often used when referring to confidential information or surprises.",
-          "ptNote": "Frequentemente usado ao se referir a informações confidenciais ou surpresas."
-        }
-      ]
-    }
-  ]
-},
+  {
+    "definitions": [
+      {
+        "word": "keep something under wraps",
+        "phonetics": "",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to keep something secret or hidden from others; to not reveal information.",
+        "ptDefinition": "manter algo em segredo ou escondido dos outros; não revelar informações.",
+        "examples": [
+          {
+            "enExample": "They managed to keep the new product under wraps until the official launch.",
+            "ptExample": "Eles conseguiram manter o novo produto em segredo até o lançamento oficial."
+          },
+          {
+            "enExample": "The company is keeping the details of the merger under wraps.",
+            "ptExample": "A empresa está mantendo os detalhes da fusão em segredo."
+          }
+        ],
+        "synonyms": ["keep secret", "conceal", "hide"],
+        "antonyms": ["reveal", "disclose", "make public"],
+        "seeAlso": ["keep quiet", "hush up", "cover up"],
+        "notes": [
+          {
+            "enNote": "Often used when referring to confidential information or surprises.",
+            "ptNote": "Frequentemente usado ao se referir a informações confidenciais ou surpresas."
+          }
+        ]
+      }
+    ]
+  },
   {
     "definitions": [
       {

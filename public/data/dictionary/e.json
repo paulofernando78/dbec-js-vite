@@ -2,6 +2,214 @@
   {
     "definitions": [
       {
+        "word": "up to one’s ears in work",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be extremely busy with work",
+        "ptDefinition": "estar extremamente ocupado com trabalho",
+        "examples": [
+          {
+            "enExample": "I’m up to my ears in work this week and barely have time to rest.",
+            "ptExample": "Estou atolado de trabalho esta semana e mal tenho tempo para descansar."
+          },
+          {
+            "enExample": "She’s up to her ears in work preparing for the big event.",
+            "ptExample": "Ela está atolada de trabalho preparando para o grande evento."
+          }
+        ],
+        "synonyms": "overloaded, swamped, very busy",
+        "antonyms": "free, relaxed, unoccupied",
+        "seeAlso": "busy, overwhelmed",
+        "notes": [
+          {
+            "enNote": "Commonly used to describe a heavy workload.",
+            "ptNote": "Usado comumente para descrever uma carga de trabalho pesada."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "80/20 rule",
+        "phonetics": "ˈeɪti ˈtwɛnti ruːl",
+        "partOfSpeech": "noun phrase",
+        "enDefinition": "the principle that 80% of results come from 20% of efforts or causes",
+        "ptDefinition": "o princípio de que 80% dos resultados vêm de 20% dos esforços ou causas",
+        "examples": [
+          {
+            "enExample": "According to the 80/20 rule, most of your sales come from a small number of customers.",
+            "ptExample": "Segundo a regra 80/20, a maior parte das suas vendas vem de um pequeno número de clientes."
+          },
+          {
+            "enExample": "Focus on the vital few tasks that follow the 80/20 rule to maximize productivity.",
+            "ptExample": "Concentre-se nas poucas tarefas vitais que seguem a regra 80/20 para maximizar a produtividade."
+          }
+        ],
+        "synonyms": "Pareto principle, law of the vital few",
+        "antonyms": "",
+        "seeAlso": "efficiency, prioritization",
+        "notes": [
+          {
+            "enNote": "Widely used in business and productivity contexts.",
+            "ptNote": "Ampliamente usada em contextos de negócios e produtividade."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "the walls have ears",
+        "partOfSpeech": "idiom",
+        "enDefinition": "B]be careful what you say because someone might be listening secretly",
+        "ptDefinition": "tenha cuidado com o que diz, pois alguém pode estar ouvindo em segredo",
+        "examples": [
+          {
+            "enExample": "Don't talk about it here—the walls have ears.",
+            "ptExample": "Não fale sobre isso aqui—as paredes têm ouvidos."
+          },
+          {
+            "enExample": "He whispered because he knew the walls had ears.",
+            "ptExample": "Ele sussurrou porque sabia que as paredes tinham ouvidos."
+          }
+        ],
+        "synonyms": "be discreet, speak cautiously",
+        "antonyms": "speak freely, talk openly",
+        "seeAlso": "watch your mouth, loose lips sink ships",
+        "notes": [
+          {
+            "enNote": "This idiom is often used in situations involving secrecy or surveillance.",
+            "ptNote": "Esse idiom é usado em contextos que envolvem segredo ou vigilância."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "at one’s expense",
+        "partOfSpeech": "idiom / prepositional phrase",
+        "enDefinition": "to be the cause of someone's loss, embarrassment, or disadvantage, often implying that the cost is borne by that person",
+        "ptDefinition": "ser a causa da perda, constrangimento ou desvantagem de alguém, frequentemente implicando que o custo é suportado por essa pessoa",
+        "examples": [
+          {
+            "enExample": "He made a joke at her expense, and she didn't find it funny.",
+            "ptExample": "Ele fez uma piada às custas dela, e ela não achou engraçado."
+          },
+          {
+            "enExample": "The company gained profit at the employees’ expense.",
+            "ptExample": "A empresa lucrou às custas dos funcionários."
+          }
+        ],
+        "synonyms": "at someone's cost, to someone's detriment",
+        "antonyms": "to someone's benefit, for someone's gain",
+        "seeAlso": "make fun of, laugh at",
+        "notes": [
+          {
+            "enNote": "Often used to indicate someone is negatively affected by an action or event.",
+            "ptNote": "Frequentemente usada para indicar que alguém é afetado negativamente por uma ação ou evento."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "give somebody an earful",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to angrily tell someone in detail what you think about their mistakes or behavior; to scold or reprimand someone at length",
+        "ptDefinition": "repreender alguém de forma detalhada e irritada; dar uma bronca longa em alguém",
+        "examples": [
+          {
+            "enExample": "When he got home late, his mother gave him an earful.",
+            "ptExample": "Quando ele chegou tarde em casa, sua mãe lhe deu uma bronca."
+          },
+          {
+            "enExample": "The boss gave the team an earful after the project failed.",
+            "ptExample": "O chefe deu uma bronca na equipe depois que o projeto fracassou."
+          }
+        ],
+        "synonyms": ["scold", "reprimand", "lecture", "berate"],
+        "antonyms": ["praise", "compliment", "commend"],
+        "seeAlso": [
+          "tell off",
+          "chew out",
+          "give someone a piece of your mind"
+        ],
+        "notes": [
+          {
+            "enNote": "This idiom is informal and often used to describe a situation where someone is criticized at length.",
+            "ptNote": "Este idiom é informal e geralmente usado para descrever uma situação em que alguém é criticado por um longo tempo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "push the envelope",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to go beyond the usual or expected limits, especially in a creative or innovative way",
+        "ptDefinition": "ir além dos limites usuais ou esperados, especialmente de maneira criativa ou inovadora",
+        "examples": [
+          {
+            "enExample": "The company is known for pushing the envelope in terms of technology and design.",
+            "ptExample": "A empresa é conhecida por ir além dos limites em termos de tecnologia e design."
+          },
+          {
+            "enExample": "The director pushed the envelope with his latest film, exploring new and controversial themes.",
+            "ptExample": "O diretor foi além dos limites com seu último filme, explorando temas novos e controversos."
+          }
+        ],
+        "synonyms": ["innovate", "break new ground", "go beyond"],
+        "antonyms": ["conform", "stick to the norm", "play it safe"],
+        "seeAlso": ["think outside the box", "break the mold"],
+        "notes": [
+          {
+            "enNote": "This idiom originated from the field of aviation, where 'envelope' refers to the performance limits of an aircraft.",
+            "ptNote": "Este idiom originou-se no campo da aviação, onde 'envelope' se refere aos limites de desempenho de uma aeronave."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "I can't believe my ears!",
+        "partOfSpeech": "phrase",
+        "enDefinition": "used to express great surprise or disbelief at something heard",
+        "ptDefinition": "usado para expressar grande surpresa ou descrença em algo ouvido",
+        "examples": [
+          {
+            "enExample": "When she told me the news, I couldn't believe my ears!",
+            "ptExample": "Quando ela me contou a notícia, eu não pude acreditar no que ouvi!"
+          },
+          {
+            "enExample": "I can't believe my ears! Did he really say that?",
+            "ptExample": "Eu não posso acreditar no que ouvi! Ele realmente disse isso?"
+          }
+        ],
+        "synonyms": ["astonished", "shocked", "amazed"],
+        "antonyms": ["unsurprised", "unimpressed"],
+        "seeAlso": "I can't believe my eyes",
+        "notes": [
+          {
+            "enNote": "This phrase is often used in situations where the speaker is hearing something unexpected or unbelievable.",
+            "ptNote": "Esta frase é frequentemente usada em situações onde o falante está ouvindo algo inesperado ou inacreditável."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "enthral",
         "phonetics": "/ɪnˈθrɔːl/",
         "partOfSpeech": "verb",

@@ -2,6 +2,60 @@
   {
     "definitions": [
       {
+        "word": "be running behind",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be delayed or not progressing as quickly as planned; to be late in relation to a schedule or deadline",
+        "ptDefinition": "estar atrasado ou não progredindo tão rapidamente quanto o planejado; estar atrasado em relação a um cronograma ou prazo",
+        "examples": [
+          {
+        "enExample": "Sorry, I'm running behind this morning and will be late to the meeting.",
+        "ptExample": "Desculpe, estou atrasado esta manhã e vou me atrasar para a reunião."
+          },
+          {
+        "enExample": "The project is running behind because of unexpected technical issues.",
+        "ptExample": "O projeto está atrasado devido a problemas técnicos inesperados."
+          }
+        ],
+        "synonyms": ["be late", "fall behind", "lag behind", "be delayed"],
+        "antonyms": ["be on time", "be ahead of schedule", "be early"],
+        "seeAlso": ["fall behind", "behind schedule", "delay"],
+        "notes": [
+          {
+        "enNote": "This idiom is commonly used in both personal and professional contexts to indicate being late or not meeting expected progress.",
+        "ptNote": "Esse idiom é comumente usado em contextos pessoais e profissionais para indicar atraso ou não cumprimento do progresso esperado."
+          }
+        ]
+      },
+      {
+        "word": "run a tight ship",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to manage an organization, group, or operation in a very disciplined, efficient, and strict manner",
+        "ptDefinition": "gerenciar uma organização, grupo ou operação de forma muito disciplinada, eficiente e rigorosa",
+        "examples": [
+          {
+            "enExample": "The new manager runs a tight ship, so everyone is always on time and prepared.",
+            "ptExample": "O novo gerente é muito rigoroso, então todos estão sempre pontuais e preparados."
+          },
+          {
+            "enExample": "She runs a tight ship in her classroom, and the students know exactly what is expected of them.",
+            "ptExample": "Ela mantém disciplina rígida em sua sala de aula, e os alunos sabem exatamente o que se espera deles."
+          }
+        ],
+        "synonyms": ["be strict", "be disciplined", "maintain order", "be efficient"],
+        "antonyms": ["be lax", "be disorganized", "be lenient"],
+        "seeAlso": ["keep things in order", "run efficiently", "maintain discipline"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to praise leaders who are effective and organized, but it can also imply being overly strict.",
+            "ptNote": "Essa expressão é frequentemente usada para elogiar líderes eficazes e organizados, mas também pode sugerir excesso de rigor."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "rejuvenate",
         "phonetics": "/rɪˈdʒuːvəˌneɪt/",
         "partOfSpeech": "verb",

@@ -2,6 +2,160 @@
   {
     "definitions": [
       {
+        "word": "likely story",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a sarcastic way to express disbelief in what someone has said.",
+        "ptDefinition": "uma forma sarcástica de expressar descrença no que alguém disse",
+        "examples": [
+          {
+            "enExample": "you missed the meeting because your alarm didn’t go off? Likely story.",
+            "ptExample": "você perdeu a reunião porque o alarme não tocou? Sei... conta outra"
+          },
+          {
+            "enExample": "He said he didn’t eat the cake? Likely story!",
+            "ptExample": "Ele disse que não comeu o bolo? Sei... bem provável!"
+          }
+        ],
+        "synonyms": "yeah, right; sure thing (sarcastic)",
+        "antonyms": "I believe you, sounds legit",
+        "seeAlso": "pulling my leg, sounds fishy",
+        "notes": [
+          {
+            "enNote": "Used sarcastically to show doubt or disbelief.",
+            "ptNote": "Usado de forma sarcástica para mostrar dúvida ou descrença."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "look at oneself in the mirror",
+        "partOfSpeech": "idiom",
+        "enDefinition": "To reflect honestly on one's own behavior, actions, or character.",
+        "ptDefinition": "Refletir honestamente sobre o próprio comportamento, ações ou caráter.",
+        "examples": [
+          {
+            "enExample": "Before blaming others, you should look at yourself in the mirror.",
+            "ptExample": "Antes de culpar os outros, você deveria se olhar no espelho."
+          },
+          {
+            "enExample": "She needed to look at herself in the mirror and recognize her mistakes.",
+            "ptExample": "Ela precisava se olhar no espelho e reconhecer seus erros."
+          }
+        ],
+        "synonyms": "self-reflect, introspect, examine oneself",
+        "antonyms": "ignore, avoid self-reflection",
+        "seeAlso": "self-awareness, introspection",
+        "notes": [
+          {
+            "enNote": "Often used to encourage self-examination and personal responsibility.",
+            "ptNote": "Frequentemente usada para incentivar autoexame e responsabilidade pessoal."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "out of the loop",
+        "phonetics": "",
+        "partOfSpeech": "idiom",
+        "enDefinition": "not informed or not involved in something, especially information or decisions that others are aware of",
+        "ptDefinition": "não estar informado ou envolvido em algo, especialmente informações ou decisões que outros conhecem",
+        "examples": [
+          {
+            "enExample": "I was out of the loop during the meeting and didn't know about the new changes.",
+            "ptExample": "Eu estava por fora durante a reunião e não soube das novas mudanças."
+          },
+          {
+            "enExample": "If you don't check your emails, you'll be out of the loop.",
+            "ptExample": "Se você não verificar seus e-mails, ficará por fora."
+          }
+        ],
+        "synonyms": ["uninformed", "excluded", "not in the know"],
+        "antonyms": ["informed", "in the loop", "aware"],
+        "seeAlso": ["in the loop", "left out"],
+        "notes": [
+          {
+            "enNote": "Commonly used in workplaces or groups to describe someone who is not updated or included in communication.",
+            "ptNote": "Comumente usado em ambientes de trabalho ou grupos para descrever alguém que não está atualizado ou incluído na comunicação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "last straw",
+        "phonetics": "/læst strɔː/",
+        "partOfSpeech": "idiom",
+        "enDefinition": "the final problem or annoyance that makes a situation unbearable or causes someone to lose patience",
+        "ptDefinition": "a última gota; o problema final que torna uma situação insuportável ou faz alguém perder a paciência",
+        "examples": [
+          {
+            "enExample": "When he arrived late again, it was the last straw and she decided to fire him.",
+            "ptExample": "Quando ele chegou atrasado de novo, foi a gota d'água e ela decidiu demiti-lo."
+          },
+          {
+            "enExample": "The constant noise was bad enough, but the broken elevator was the last straw.",
+            "ptExample": "O barulho constante já era ruim, mas o elevador quebrado foi a gota d'água."
+          }
+        ],
+        "synonyms": ["breaking point", "final straw", "limit", "tipping point"],
+        "antonyms": ["tolerance", "patience", "endurance"],
+        "seeAlso": ["breaking point", "the straw that broke the camel's back"],
+        "notes": [
+          {
+            "enNote": "Often used in the phrase 'the last straw' or 'the straw that broke the camel's back' to indicate a final, small burden that causes a collapse.",
+            "ptNote": "Frequentemente usada na expressão 'a gota d'água' para indicar o último problema que faz alguém perder a paciência."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "leniency",
+        "phonetics": "/ˈliːniənsi/",
+        "partOfSpeech": "noun",
+        "enDefinition": "the quality of being more merciful or tolerant than expected; showing mildness or forgiveness in judging or punishing someone",
+        "ptDefinition": "a qualidade de ser mais misericordioso ou tolerante do que o esperado; demonstrar brandura ou perdão ao julgar ou punir alguém",
+        "examples": [
+          {
+            "enExample": "The judge showed leniency and gave him a lighter sentence.",
+            "ptExample": "O juiz mostrou leniência e deu a ele uma sentença mais branda."
+          },
+          {
+            "enExample": "Teachers are often asked to exercise leniency with students facing personal difficulties.",
+            "ptExample": "Muitas vezes, pede-se aos professores que exerçam leniência com alunos que enfrentam dificuldades pessoais."
+          }
+        ],
+        "synonyms": [
+          "mercy",
+          "clemency",
+          "forgiveness",
+          "tolerance",
+          "indulgence"
+        ],
+        "antonyms": ["harshness", "severity", "strictness", "rigor"],
+        "seeAlso": ["clemency", "forgiveness", "tolerance"],
+        "notes": [
+          {
+            "enNote": "Leniency is often discussed in legal or disciplinary contexts, where it refers to a decision to be less severe than the norm.",
+            "ptNote": "A leniência é frequentemente discutida em contextos legais ou disciplinares, referindo-se a uma decisão de ser menos severo do que o normal."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "let's agree to disagree",
         "partOfSpeech": "idiom",
         "enDefinition": "a phrase used to end a discussion when both parties cannot reach an agreement but wish to remain cordial",
@@ -84,7 +238,17 @@
             "ptExample": "Olhe aquele lindo pôr do sol!"
           }
         ],
-        "synonyms": ["see", "watch", "observe", "gaze", "stare", "glance", "peer", "inspect", "scrutinize"],
+        "synonyms": [
+          "see",
+          "watch",
+          "observe",
+          "gaze",
+          "stare",
+          "glance",
+          "peer",
+          "inspect",
+          "scrutinize"
+        ],
         "antonyms": ["be blind", "ignore", "overlook"]
       },
       {

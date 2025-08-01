@@ -2,6 +2,278 @@
   {
     "definitions": [
       {
+        "word": "in tip-top shape",
+        "partOfSpeech": "idiom",
+        "enDefinition": "in excellent physical or mental condition",
+        "ptDefinition": "em excelente condição física ou mental",
+        "examples": [
+          {
+            "enExample": "After months of training, she’s in tip-top shape for the competition.",
+            "ptExample": "Depois de meses de treino, ela está em excelente forma para a competição."
+          }
+        ],
+        "synonyms": "in great shape, very fit, in peak condition",
+        "antonyms": "out of shape, unfit, unhealthy",
+        "seeAlso": "",
+        "notes": [
+          {
+            "enNote": "This is an informal phrase often used about physical health or readiness.",
+            "ptNote": "Essa é uma expressão informal frequentemente usada sobre saúde física ou preparo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "take it easy",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to relax and not stress or worry",
+        "ptDefinition": "relaxar e não ficar estressado ou preocupado",
+        "examples": [
+          {
+            "enExample": "After a long week, it’s important to take it easy on the weekend.",
+            "ptExample": "Depois de uma semana longa, é importante relaxar no fim de semana."
+          },
+          {
+            "enExample": "Take it easy and don’t rush the process.",
+            "ptExample": "Relaxe e não apresse o processo."
+          }
+        ],
+        "synonyms": "relax, chill out, calm down",
+        "antonyms": "stress out, hurry, rush",
+        "seeAlso": "chill out, calm down",
+        "notes": [
+          {
+            "enNote": "Common phrase encouraging relaxation.",
+            "ptNote": "Frase comum que incentiva o relaxamento."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "think twice",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to consider something very carefully before making a decision or taking action",
+        "ptDefinition": "pensar com muito cuidado antes de tomar uma decisão ou agir",
+        "examples": [
+          {
+            "enExample": "You should think twice before quitting your job.",
+            "ptExample": "Você deveria pensar duas vezes antes de pedir demissão."
+          },
+          {
+            "enExample": "He thought twice about investing all his savings in one place.",
+            "ptExample": "Ele pensou duas vezes antes de investir todas as economias em um único lugar."
+          }
+        ],
+        "synonyms": "reconsider, pause, reflect",
+        "antonyms": "act impulsively, rush",
+        "seeAlso": "second thoughts, weigh the pros and cons"
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "talk behind someone's back",
+        "partOfSpeech": "idiom",
+        "enDefinition": "To say negative or unkind things about someone without them knowing, especially when they are not present.",
+        "ptDefinition": "Falar mal ou dizer coisas desagradáveis sobre alguém sem que a pessoa saiba, especialmente na ausência dela.",
+        "examples": [
+          {
+            "enExample": "I can't believe they were talking behind my back about the project.",
+            "ptExample": "Não acredito que eles estavam falando pelas minhas costas sobre o projeto."
+          },
+          {
+            "enExample": "She felt betrayed when she found out her friends talked behind her back.",
+            "ptExample": "Ela se sentiu traída quando descobriu que suas amigas falaram pelas costas dela."
+          }
+        ],
+        "synonyms": "gossip, badmouth, slander",
+        "antonyms": "speak openly, confront directly",
+        "seeAlso": "stab in the back, two-faced",
+        "notes": [
+          {
+            "enNote": "This idiom is often used to describe betrayal or disloyalty in relationships.",
+            "ptNote": "Esse idiom é frequentemente usado para descrever traição ou deslealdade em relacionamentos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "talk about",
+        "enDefinition": "that’s an example of...",
+        "examples": [
+          {
+            "enExample": "Sharon told everybody that Carla was having an affair with her boss. Talk about spreading nasty rumors!",
+            "ptExample": "A Sharon contou para todo mundo que a Carla estava tendo um caso com o chefe dela. Fala sério, qu e jeito de espalhar boatos desagradáveis!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "out of touch with reality",
+        "partOfSpeech": "idiom",
+        "enDefinition": "not aware of or not understanding the true situation, often due to unrealistic thinking or lack of knowledge",
+        "ptDefinition": "não estar ciente ou não entender a situação real, muitas vezes devido a pensamentos irreais ou falta de conhecimento",
+        "examples": [
+          {
+            "enExample": "He was out of touch with reality when he thought his small startup could compete with the big corporations.",
+            "ptExample": "Ele estava fora de contato com a realidade quando pensou que sua pequena startup poderia competir com as grandes corporações."
+          },
+          {
+            "enExample": "After years of living in luxury, she became completely out of touch with reality and unaware of the struggles of everyday people.",
+            "ptExample": "Depois de anos vivendo no luxo, ela ficou completamente fora de contato com a realidade e inconsciente das dificuldades das pessoas comuns."
+          },
+          {
+            "enExample": "The politician was out of touch with reality, making promises that were impossible to fulfill.",
+            "ptExample": "O político estava fora de contato com a realidade, fazendo promessas impossíveis de cumprir."
+          }
+        ],
+        "synonyms": [
+          "delusional",
+          "unrealistic",
+          "disconnected from reality",
+          "detached from reality"
+        ],
+        "antonyms": ["informed", "aware", "grounded", "realistic"],
+        "seeAlso": ["out of one's mind", "living in a dream world"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used to describe someone who has unrealistic expectations or is not aligned with the practical world.",
+            "ptNote": "Essa frase é frequentemente usada para descrever alguém que tem expectativas irreais ou não está alinhado com o mundo prático."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "on the right track",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be making progress in the right direction or doing something correctly",
+        "ptDefinition": "estar no caminho certo, fazendo progresso na direção certa ou tomando as decisões corretas",
+        "examples": [
+          {
+            "enExample": "After a few initial setbacks, the project team is now on the right track and moving forward smoothly.",
+            "ptExample": "Após alguns contratempos iniciais, a equipe do projeto agora está no caminho certo e avançando sem problemas."
+          },
+          {
+            "enExample": "Your ideas are solid, so I believe you're on the right track to finding a solution.",
+            "ptExample": "Suas ideias são boas, então acredito que você está no caminho certo para encontrar uma solução."
+          }
+        ],
+        "synonyms": [
+          "making progress",
+          "heading in the right direction",
+          "on the correct path"
+        ],
+        "antonyms": ["going off course", "lost", "on the wrong track"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "on top of trends",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to stay informed about the latest developments, styles, or changes in a particular field or industry",
+        "ptDefinition": "manter-se informado sobre os últimos desenvolvimentos, estilos ou mudanças em um determinado campo ou setor",
+        "examples": [
+          {
+            "enExample": "Successful marketers always stay on top of trends to keep their strategies relevant.",
+            "ptExample": "Os marqueteiros de sucesso sempre se mantêm atualizados sobre as tendências para manter suas estratégias relevantes."
+          },
+          {
+            "enExample": "To remain competitive, it's important for designers to stay on top of trends in the fashion industry.",
+            "ptExample": "Para se manter competitivo, é importante que os designers estejam atentos às tendências da indústria da moda."
+          }
+        ],
+        "synonyms": ["stay current", "stay updated", "follow trends"],
+        "antonyms": ["fall behind", "ignore changes", "be outdated"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used in professional or creative contexts where being updated is crucial for success."
+          },
+          {
+            "ptNote": "Este idiom é frequentemente usado em contextos profissionais ou criativos, onde estar atualizado é crucial para o sucesso."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "take the cake",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be the most remarkable or outstanding example of something, often in a negative or surprising way",
+        "ptDefinition": "ser o exemplo mais notável ou surpreendente de algo, geralmente de forma negativa",
+        "examples": [
+          {
+            "enExample": "I've heard some strange excuses before, but that one really takes the cake.",
+            "ptExample": "Já ouvi algumas desculpas estranhas antes, mas essa realmente supera todas."
+          },
+          {
+            "enExample": "The service was bad, but the rude manager took the cake.",
+            "ptExample": "O atendimento foi ruim, mas o gerente grosseiro foi o pior de tudo."
+          }
+        ],
+        "synonyms": ["top it all", "beat all", "stand out", "surpass"],
+        "antonyms": ["be ordinary", "be unremarkable"],
+        "seeAlso": ["take the biscuit", "top it off"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to express disbelief or annoyance at something that is the most extreme or outrageous example.",
+            "ptNote": "Este idiom é frequentemente usado para expressar surpresa ou irritação diante de algo que é o exemplo mais extremo ou absurdo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "turn a blind eye to something",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to deliberately ignore something, especially something wrong or illegal, instead of taking action",
+        "ptDefinition": "ignorar deliberadamente algo, especialmente algo errado ou ilegal, em vez de tomar uma atitude",
+        "examples": [
+          {
+            "enExample": "The manager turned a blind eye to the employee's misconduct.",
+            "ptExample": "O gerente fez vista grossa ao mau comportamento do funcionário."
+          },
+          {
+            "enExample": "Many governments turn a blind eye to environmental violations.",
+            "ptExample": "Muitos governos fazem vista grossa para violações ambientais."
+          }
+        ],
+        "synonyms": ["ignore", "overlook", "disregard", "look the other way"],
+        "antonyms": ["address", "confront", "acknowledge", "take action"],
+        "seeAlso": ["look the other way", "let slide"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used when someone chooses not to notice or deal with a problem.",
+            "ptNote": "Este idiom é frequentemente usado quando alguém escolhe não perceber ou lidar com um problema."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "the name of the game",
         "partOfSpeech": "idiom",
         "enDefinition": "the most important aspect or main purpose of an activity or situation",
@@ -303,12 +575,12 @@
         "ptDefinition": "envolvido em ou envolvendo pensamento profundo ou sério; pensativo",
         "examples": [
           {
-        "enExample": "He looked thoughtful as he pondered the question.",
-        "ptExample": "Ele parecia pensativo enquanto ponderava a questão."
+            "enExample": "He looked thoughtful as he pondered the question.",
+            "ptExample": "Ele parecia pensativo enquanto ponderava a questão."
           },
           {
-        "enExample": "Her thoughtful expression indicated she was considering all options.",
-        "ptExample": "Sua expressão pensativa indicava que ela estava considerando todas as opções."
+            "enExample": "Her thoughtful expression indicated she was considering all options.",
+            "ptExample": "Sua expressão pensativa indicava que ela estava considerando todas as opções."
           }
         ],
         "synonyms": ["reflective", "pensive", "contemplative", "meditative"],
@@ -316,8 +588,8 @@
         "seeAlso": ["reflection", "meditation"],
         "notes": [
           {
-        "enNote": "Being thoughtful often involves taking time to consider various aspects of a situation.",
-        "ptNote": "Ser pensativo frequentemente envolve dedicar tempo para considerar vários aspectos de uma situação."
+            "enNote": "Being thoughtful often involves taking time to consider various aspects of a situation.",
+            "ptNote": "Ser pensativo frequentemente envolve dedicar tempo para considerar vários aspectos de uma situação."
           }
         ]
       },
@@ -549,7 +821,7 @@
         "examples": [
           {
             "enExample": "With the new hybrid car, you get the best of both worlds—great fuel efficiency and a spacious design.",
-            "ptExample": "Com o novo carro híbrido, você tem o melhor dos dois mundos—ótima eficiência de combustível e um design espaçoso."
+            "ptExample": "Com o novo carro híbrido, você tem o melhor dos dois mundos — ótima eficiência de combustível e um design espaçoso."
           },
           {
             "enExample": "Working from home allows me to have the best of both worlds: a flexible schedule and no commute.",

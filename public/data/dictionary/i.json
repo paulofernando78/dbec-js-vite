@@ -2,6 +2,36 @@
   {
     "definitions": [
       {
+  "word": "have (some) issues",
+  "phonetics": "hæv (sʌm) ˈɪʃuːz",
+  "partOfSpeech": "verb phrase",
+  "enDefinition": "to experience problems or difficulties, often emotional or psychological, but can also refer to practical or technical troubles",
+  "ptDefinition": "ter problemas ou dificuldades, frequentemente de natureza emocional ou psicológica, mas também pode se referir a questões práticas ou técnicas",
+  "examples": [
+    {
+      "enExample": "He seems to have some issues with trust after his past relationships.",
+      "ptExample": "Ele parece ter alguns problemas de confiança após seus relacionamentos passados."
+    },
+    {
+      "enExample": "The software has some issues that need to be fixed before release.",
+      "ptExample": "O software tem alguns problemas que precisam ser corrigidos antes do lançamento."
+    }
+  ],
+  "synonyms": "have problems, face difficulties, struggle with",
+  "antonyms": "be fine, have no problems, be well",
+  "seeAlso": "issue, problem, difficulty",
+  "notes": [
+    {
+      "enNote": "The phrase can refer to emotional, psychological, or practical difficulties depending on the context.",
+      "ptNote": "A expressão pode se referir a dificuldades emocionais, psicológicas ou práticas, dependendo do contexto."
+    }
+  ]
+}
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "insidious",
         "phonetics": "/ɪnˈsɪdiəs/",
         "partOfSpeech": "adjective",
@@ -24,63 +54,6 @@
           {
             "enNote": "Often used to describe harmful things that develop so gradually that they are not noticed until it's too late.",
             "ptNote": "Frequentemente usado para descrever coisas prejudiciais que se desenvolvem tão gradualmente que não são notadas até ser tarde demais."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "definitions": [
-      {
-        "word": "I can't believe my ears!",
-        "partOfSpeech": "phrase",
-        "enDefinition": "used to express great surprise or disbelief at something heard",
-        "ptDefinition": "usado para expressar grande surpresa ou descrença em algo ouvido",
-        "examples": [
-          {
-            "enExample": "When she told me the news, I couldn't believe my ears!",
-            "ptExample": "Quando ela me contou a notícia, eu não pude acreditar no que ouvi!"
-          },
-          {
-            "enExample": "I can't believe my ears! Did he really say that?",
-            "ptExample": "Eu não posso acreditar no que ouvi! Ele realmente disse isso?"
-          }
-        ],
-        "synonyms": ["astonished", "shocked", "amazed"],
-        "antonyms": ["unsurprised", "unimpressed"],
-        "seeAlso": "I can't believe my eyes",
-        "notes": [
-          {
-            "enNote": "This phrase is often used in situations where the speaker is hearing something unexpected or unbelievable.",
-            "ptNote": "Esta frase é frequentemente usada em situações onde o falante está ouvindo algo inesperado ou inacreditável."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "definitions": [
-      {
-        "word": "I could've sworn that",
-        "partOfSpeech": "phrase",
-        "enDefinition": "used to express strong belief or certainty about something that one remembers or perceives",
-        "ptDefinition": "usado para expressar forte crença ou certeza sobre algo que se lembra ou percebe",
-        "examples": [
-          {
-            "enExample": "I could've sworn that I left my keys on the table.",
-            "ptExample": "Eu poderia jurar que deixei minhas chaves na mesa."
-          },
-          {
-            "enExample": "She could've sworn that she saw him at the party.",
-            "ptExample": "Ela poderia jurar que o viu na festa."
-          }
-        ],
-        "synonyms": ["I was sure", "I believed", "I thought"],
-        "antonyms": ["I doubted", "I was unsure"],
-        "notes": [
-          {
-            "enNote": "This phrase is often used when someone is surprised to find out that their memory or perception was incorrect.",
-            "ptNote": "Esta frase é frequentemente usada quando alguém fica surpreso ao descobrir que sua memória ou percepção estava incorreta."
           }
         ]
       }

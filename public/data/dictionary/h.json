@@ -2,6 +2,175 @@
   {
     "definitions": [
       {
+        "word": "hang in there",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to persevere and not give up, even in difficult circumstances",
+        "ptDefinition": "perseverar e não desistir, mesmo em circunstâncias difíceis",
+        "examples": [
+          {
+            "enExample": "I know it’s tough, but hang in there—you’ll get through it.",
+            "ptExample": "Eu sei que está difícil, mas aguente firme—você vai superar isso."
+          },
+          {
+            "enExample": "Hang in there during the final stretch of the project.",
+            "ptExample": "Aguente firme durante a reta final do projeto."
+          }
+        ],
+        "synonyms": "persevere, endure, keep going",
+        "antonyms": "give up, quit, surrender",
+        "seeAlso": "keep going, stay strong",
+        "notes": [
+          {
+            "enNote": "Often used to encourage someone to keep trying.",
+            "ptNote": "Frequentemente usado para encorajar alguém a continuar tentando."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "have a lot on one’s plate",
+        "partOfSpeech": "idiom",
+        "enDefinition": "To have many tasks or responsibilities to deal with.",
+        "ptDefinition": "Ter muitas tarefas ou responsabilidades para lidar.",
+        "examples": [
+          {
+            "enExample": "She has a lot on her plate right now with work and family commitments.",
+            "ptExample": "Ela está com muitas coisas para resolver agora, com trabalho e compromissos familiares."
+          },
+          {
+            "enExample": "I can’t take on more projects; I already have a lot on my plate.",
+            "ptExample": "Não posso assumir mais projetos; já tenho muitas responsabilidades."
+          }
+        ],
+        "synonyms": "be busy, have many responsibilities, be overloaded",
+        "antonyms": "be free, have little to do",
+        "seeAlso": "overwhelmed, swamped",
+        "notes": [
+          {
+            "enNote": "Commonly used to describe being busy or overwhelmed with duties.",
+            "ptNote": "Comumente usado para descrever estar ocupado ou sobrecarregado com deveres."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "(to be or to get) on one’s high horse",
+        "partOfSpeech": "idiom",
+        "enDefinition": "To act as if you are morally superior to others; to behave in a self-righteous, arrogant, or condescending way.",
+        "ptDefinition": "Agir como se fosse moralmente superior aos outros; comportar-se de forma arrogante, prepotente ou condescendente.",
+        "examples": [
+          {
+            "enExample": "She got on her high horse and started lecturing everyone about ethics.",
+            "ptExample": "Ela subiu no salto e começou a dar sermão em todo mundo sobre ética."
+          },
+          {
+            "enExample": "Don't get on your high horse — we all make mistakes.",
+            "ptExample": "Não fique se achando superior — todos nós cometemos erros."
+          }
+        ],
+        "synonyms": "act superior, be condescending, be self-righteous",
+        "antonyms": "be humble, act modestly",
+        "seeAlso": "holier-than-thou, arrogant, condescending",
+        "notes": [
+          {
+            "enNote": "Originally referred to literal high horses ridden by nobility, now used figuratively to describe arrogance.",
+            "ptNote": "Originalmente referia-se a cavalos altos montados pela nobreza; hoje é usado de forma figurada para descrever arrogância."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "hot-head",
+        "phonetics": "/ˈhɑːtˌhed/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a person who easily becomes angry or loses their temper quickly",
+        "ptDefinition": "uma pessoa que se irrita facilmente ou perde a calma rapidamente",
+        "examples": [
+          {
+            "enExample": "He's a bit of a hot-head and often gets into arguments.",
+            "ptExample": "Ele é meio cabeça-quente e frequentemente entra em discussões."
+          },
+          {
+            "enExample": "Try not to be a hot-head during the negotiations.",
+            "ptExample": "Tente não ser cabeça-quente durante as negociações."
+          }
+        ],
+        "synonyms": ["quick-tempered person", "firebrand", "irascible person"],
+        "antonyms": ["calm person", "level-headed person", "peacemaker"],
+        "seeAlso": ["short fuse", "lose one's temper", "impulsive"],
+        "notes": [
+          {
+            "enNote": "Often used to describe someone who reacts emotionally or impulsively, especially in stressful situations.",
+            "ptNote": "Frequentemente usado para descrever alguém que reage de forma emocional ou impulsiva, especialmente em situações de estresse."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "have or get out of hand",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to become difficult or impossible to control",
+        "ptDefinition": "tornar-se difícil ou impossível de controlar",
+        "examples": [
+          {
+            "enExample": "The party got out of hand and the police had to be called.",
+            "ptExample": "A festa saiu do controle e a polícia teve que ser chamada."
+          },
+          {
+            "enExample": "If we don't address the issue now, it could get out of hand.",
+            "ptExample": "Se não abordarmos o problema agora, ele pode sair do controle."
+          }
+        ],
+        "synonyms": ["uncontrollable", "chaotic", "unmanageable"],
+        "antonyms": ["manageable", "controlled", "under control"],
+        "seeAlso": ["out of control", "run wild"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to describe situations that escalate quickly and become difficult to manage.",
+            "ptNote": "Este idiom é frequentemente usado para descrever situações que escalam rapidamente e se tornam difíceis de gerenciar."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "have a rough night",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to experience a night that is difficult, unpleasant, or filled with problems such as lack of sleep, stress, or discomfort",
+        "ptDefinition": "passar por uma noite difícil, desagradável ou cheia de problemas, como falta de sono, estresse ou desconforto",
+        "examples": [
+          {
+            "enExample": "I had a rough night and barely got any sleep.",
+            "ptExample": "Tive uma noite difícil e mal consegui dormir."
+          },
+          {
+            "enExample": "She looked tired because she had a rough night with the baby.",
+            "ptExample": "Ela parecia cansada porque teve uma noite difícil com o bebê."
+          }
+        ],
+        "synonyms": ["bad night", "sleepless night", "tough night"],
+        "antonyms": ["good night", "restful night", "peaceful night"],
+        "seeAlso": ["restless night", "tough day"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "hunker down",
         "phonetics": "/ˈhʌŋkɚ daʊn/",
         "partOfSpeech": "phrasal verb",
@@ -68,8 +237,16 @@
             "ptExample": "Em sessões de brainstorming criativo, ideias inacabadas podem levar a descobertas inesperadas quando aperfeiçoadas."
           }
         ],
-        "synonyms": ["unfinished ideas", "rough concepts", "early-stage thoughts"],
-        "antonyms": ["well-developed ideas", "polished solutions", "concrete plans"],
+        "synonyms": [
+          "unfinished ideas",
+          "rough concepts",
+          "early-stage thoughts"
+        ],
+        "antonyms": [
+          "well-developed ideas",
+          "polished solutions",
+          "concrete plans"
+        ],
         "seeAlso": ["brainstorming", "creative process", "idea development"]
       }
     ]

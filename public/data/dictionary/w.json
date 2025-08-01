@@ -2,6 +2,133 @@
   {
     "definitions": [
       {
+        "word": "under the weather",
+        "partOfSpeech": "idiom",
+        "enDefinition": "feeling ill or unwell",
+        "ptDefinition": "sentir-se doente ou indisposto",
+        "examples": [
+          {
+            "enExample": "I'm feeling a bit under the weather today, so I’m going to rest.",
+            "ptExample": "Estou me sentindo um pouco mal hoje, então vou descansar."
+          },
+          {
+            "enExample": "She was under the weather and couldn't come to work.",
+            "ptExample": "Ela estava indisposta e não pôde ir trabalhar."
+          }
+        ],
+        "synonyms": "ill, sick, unwell",
+        "antonyms": "healthy, well, fit",
+        "seeAlso": "feeling off, out of sorts",
+        "notes": [
+          {
+            "enNote": "Common informal expression to describe mild illness.",
+            "ptNote": "Expressão informal comum para descrever doença leve."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "wiped out",
+        "phonetics": "waɪpt aʊt",
+        "partOfSpeech": "adjective / phrasal verb",
+        "enDefinition": "extremely tired or exhausted; completely destroyed or defeated",
+        "ptDefinition": "extremamente cansado ou exausto; completamente destruído ou derrotado",
+        "examples": [
+          {
+            "enExample": "After the marathon, I was completely wiped out.",
+            "ptExample": "Depois da maratona, eu estava completamente exausto."
+          },
+          {
+            "enExample": "The company's profits were wiped out by the recent crisis.",
+            "ptExample": "Os lucros da empresa foram completamente eliminados pela recente crise."
+          }
+        ],
+        "synonyms": "exhausted, drained, defeated",
+        "antonyms": "energized, refreshed, victorious",
+        "seeAlso": "burned out, worn out",
+        "notes": [
+          {
+            "enNote": "Used informally to express extreme fatigue or total loss.",
+            "ptNote": "Usado informalmente para expressar fadiga extrema ou perda total."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "no wonder",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to express that something is not surprising or that the reason for something is obvious",
+        "ptDefinition": "usado para expressar que algo não é surpreendente ou que a razão de algo é óbvia",
+        "examples": [
+          {
+            "enExample": "No wonder she was tired after running a marathon!",
+            "ptExample": "Não é de se admirar que ela estivesse cansada depois de correr uma maratona!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "You took the words right out of my mouth",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to indicate that someone has said exactly what you were thinking or about to say",
+        "ptDefinition": "usado para indicar que alguém disse exatamente o que você estava pensando ou prestes a dizer",
+        "examples": [
+          {
+            "enExample": "When she suggested going for pizza, I said, 'You took the words right out of my mouth!'",
+            "ptExample": "Quando ela sugeriu comer pizza, eu disse: 'Você tirou as palavras da minha boca!'"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "definitions": [
+      {
+        "word": "What’s the deal?",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a question used to ask for an explanation or clarification about a situation, event, or someone's behavior; can also express curiosity, confusion, or skepticism",
+        "ptDefinition": "uma pergunta usada para pedir explicação ou esclarecimento sobre uma situação, evento ou comportamento de alguém; também pode expressar curiosidade, confusão ou ceticismo",
+        "examples": [
+          {
+            "enExample": "What’s the deal with all the noise next door?",
+            "ptExample": "Qual é o motivo de tanto barulho ao lado?"
+          },
+          {
+            "enExample": "You’ve been acting strange lately — what’s the deal?",
+            "ptExample": "Você tem agido estranho ultimamente—o que está acontecendo?"
+          }
+        ],
+        "synonyms": [
+          "what's going on?",
+          "what's happening?",
+          "what's up?",
+          "what's the matter?"
+        ],
+        "antonyms": ["all is clear", "everything is fine"],
+        "seeAlso": ["what's up?", "what gives?", "what's the story?"],
+        "notes": [
+          {
+            "enNote": "This phrase is informal and commonly used in conversational English to seek clarification or express surprise.",
+            "ptNote": "Esta frase é informal e comumente usada no inglês falado para pedir esclarecimento ou expressar surpresa."
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "definitions": [
+      {
         "word": "wash one's hands of",
         "partOfSpeech": "idiom",
         "enDefinition": "to refuse to have anything more to do with someone or something; to disassociate oneself from a situation",

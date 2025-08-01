@@ -2,6 +2,221 @@
   {
     "definitions": [
       {
+        "word": "I wasn’t born yesterday",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to say that you're not easily fooled because you're not naive or inexperienced",
+        "ptDefinition": "usado para dizer que você não é facilmente enganado porque não é ingênuo ou inexperiente",
+        "examples": [
+          {
+            "enExample": "You expect me to believe that? I wasn’t born yesterday.",
+            "ptExample": "Você espera que eu acredite nisso? Eu não nasci ontem."
+          },
+          {
+            "enExample": "Don’t try to trick me – I wasn’t born yesterday.",
+            "ptExample": "Não tente me enganar – eu não nasci ontem."
+          }
+        ],
+        "synonyms": "I’m not stupid, I know what’s going on",
+        "antonyms": "naive, gullible",
+        "seeAlso": "pull the wool over someone’s eyes, fool me once",
+        "notes": [
+          {
+            "enNote": "Often said with sarcasm or irritation when someone tries to deceive you.",
+            "ptNote": "Frequentemente dito com sarcasmo ou irritação quando alguém tenta enganar você."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "butter up",
+        "phonetics": "ˈbʌtər ʌp",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to flatter someone excessively or ingratiate oneself to gain favor or advantage",
+        "ptDefinition": "bajular alguém excessivamente ou agradar para ganhar favor ou vantagem",
+        "examples": [
+          {
+            "enExample": "He’s trying to butter up his teacher to get a better grade.",
+            "ptExample": "Ele está tentando puxar o saco da professora para conseguir uma nota melhor."
+          },
+          {
+            "enExample": "Don’t butter me up; just tell me the truth.",
+            "ptExample": "Não me puxe o saco; apenas me diga a verdade."
+          }
+        ],
+        "synonyms": "flatter, ingratiate oneself, suck up to",
+        "antonyms": "criticize, offend, insult",
+        "seeAlso": "brown-nose, kiss up, suck up",
+        "notes": [
+          {
+            "enNote": "Informal phrase often used in casual conversation.",
+            "ptNote": "Expressão informal frequentemente usada em conversas casuais."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "brownie points",
+        "phonetics": "ˈbraʊni pɔɪnts",
+        "partOfSpeech": "noun phrase",
+        "enDefinition": "informal term referring to credit or approval earned for doing something good or helpful.",
+        "ptDefinition": "termo informal que se refere a crédito ou aprovação conquistada por fazer algo bom ou útil",
+        "examples": [
+          {
+            "enExample": "She earned brownie points with her boss by staying late to finish the project.",
+            "ptExample": "Ela ganhou pontos com o chefe por ficar até tarde para terminar o projeto."
+          },
+          {
+            "enExample": "Helping out around the house will get you some brownie points with your parents.",
+            "ptExample": "Ajudar nas tarefas de casa vai te render alguns pontos com seus pais."
+          }
+        ],
+        "synonyms": "credit, approval, recognition",
+        "antonyms": "disapproval, criticism",
+        "seeAlso": "kudos, praise, recognition",
+        "notes": [
+          {
+            "enNote": "Often used humorously to describe informal rewards for good behavior.",
+            "ptNote": "Frequentemente usado de forma humorística para descrever recompensas informais por bom comportamento."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "not a bad guy",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to describe someone who is generally good, kind, or decent, even if they have some flaws or make mistakes",
+        "ptDefinition": "usado para descrever alguém que é geralmente bom, gentil ou decente, mesmo que tenha alguns defeitos ou cometa erros",
+        "examples": [
+          {
+            "enExample": "He may seem strict, but he's not a bad guy once you get to know him.",
+            "ptExample": "Ele pode parecer rígido, mas não é uma má pessoa quando você o conhece melhor."
+          },
+          {
+            "enExample": "People think he's unfriendly, but honestly, he's not a bad guy.",
+            "ptExample": "As pessoas acham que ele é antipático, mas sinceramente, ele não é uma má pessoa."
+          }
+        ],
+        "synonyms": ["decent person", "good person", "nice guy"],
+        "antonyms": ["bad person", "villain", "wrongdoer"],
+        "seeAlso": ["good guy", "not so bad", "decent"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used to defend or excuse someone who may be misunderstood or judged harshly.",
+            "ptNote": "Esta frase é frequentemente usada para defender ou desculpar alguém que pode ser mal compreendido ou julgado com severidade."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "push one’s buttons",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to deliberately say or do something to annoy or provoke someone; to trigger a strong emotional reaction in someone, often irritation or anger",
+        "ptDefinition": "deliberadamente dizer ou fazer algo para irritar ou provocar alguém; desencadear uma reação emocional forte em alguém, geralmente irritação ou raiva",
+        "examples": [
+          {
+            "enExample": "He knows exactly how to push my buttons and make me angry.",
+            "ptExample": "Ele sabe exatamente como me provocar e me deixar irritado."
+          },
+          {
+            "enExample": "Don’t let her push your buttons—just ignore her comments.",
+            "ptExample": "Não deixe ela te provocar—apenas ignore os comentários dela."
+          }
+        ],
+        "synonyms": [
+          "provoke",
+          "annoy",
+          "irritate",
+          "get under someone's skin"
+        ],
+        "antonyms": ["calm", "soothe", "comfort"],
+        "seeAlso": ["wind up", "get on someone's nerves"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used when someone intentionally tries to elicit a reaction, especially negative, from another person.",
+            "ptNote": "Este idiom é frequentemente usado quando alguém tenta intencionalmente provocar uma reação, especialmente negativa, em outra pessoa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "on board",
+        "phonetics": "/ɒn bɔːrd/",
+        "partOfSpeech": "adjective,",
+        "enDefinition": "1. being a member of a team or group 2. to agree or support a plan or idea.",
+        "ptDefinition": "1. ser membro de uma equipe ou grupo 2. concordar ou apoiar um plano ou ideia.",
+        "examples": [
+          {
+            "enExample": "The new employee is on board with our project and ready to contribute.",
+            "ptExample": "O novo funcionário está a bordo com nosso projeto e pronto para contribuir."
+          },
+          {
+            "enExample": "We need to make sure everyone is on board with the changes before moving forward.",
+            "ptExample": "Precisamos garantir que todos estejam a bordo com as mudanças antes de seguir em frente."
+          }
+        ],
+        "synonyms": ["in agreement", "supportive", "aligned", "with us"],
+        "antonyms": ["opposed", "against", "disagreeing"],
+        "seeAlso": ["team", "collaboration", "agreement"],
+        "notes": [
+          {
+            "enNote": "'On board' is often used in business and team settings to describe someone's agreement or readiness to participate in a plan or project.",
+            "ptNote": "'On board' é frequentemente usado em ambientes de negócios e equipes para descrever o acordo ou disposição de alguém em participar de um plano ou projeto."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "burn one's bridges",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to do something that makes it impossible to go back to a previous situation or relationship; to destroy one's path, connections, or opportunities, often intentionally and irreversibly",
+        "ptDefinition": "fazer algo que torna impossível voltar a uma situação ou relacionamento anterior; destruir seu próprio caminho, conexões ou oportunidades, muitas vezes de forma intencional e irreversível",
+        "examples": [
+          {
+            "enExample": "He burned his bridges when he insulted his boss before quitting.",
+            "ptExample": "Ele feichou as portas quando insultou seu chefe antes de pedir demissão."
+          },
+          {
+            "enExample": "Be careful not to burn your bridges with former colleagues—you might need their help in the future.",
+            "ptExample": "Cuidado para não fechar as portas com antigos colegas — você pode precisar da ajuda deles no futuro."
+          }
+        ],
+        "synonyms": ["cut ties", "leave no way back", "sever connections"],
+        "antonyms": [
+          "keep options open",
+          "maintain relationships",
+          "leave the door open"
+        ],
+        "seeAlso": ["cross the Rubicon", "point of no return"],
+        "notes": [
+          {
+            "enNote": "This idiom comes from the military practice of burning bridges after crossing them to prevent retreat.",
+            "ptNote": "Este idiom vem da prática militar de queimar pontes após atravessá-las para impedir a retirada."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "bat around some ideas",
         "partOfSpeech": "idiom",
         "enDefinition": "to discuss different ideas or possibilities in an informal way",

@@ -2,6 +2,147 @@
   {
     "definitions": [
       {
+        "word": "my stomach (my head, my arm, etc…) is killing me",
+        "partOfSpeech": "idiomatic expression",
+        "enDefinition": "used to express severe pain or discomfort in a part of the body",
+        "ptDefinition": "usado para expressar dor ou desconforto intenso em uma parte do corpo",
+        "examples": [
+          {
+            "enExample": "My stomach is killing me after that spicy meal.",
+            "ptExample": "Meu estômago está me matando depois daquela comida apimentada."
+          },
+          {
+            "enExample": "My head is killing me from all the noise.",
+            "ptExample": "Minha cabeça está doendo muito por causa de todo o barulho."
+          }
+        ],
+        "synonyms": "be in pain, hurt badly, ache",
+        "antonyms": "feel fine, be comfortable",
+        "seeAlso": "have a headache, be in agony",
+        "notes": [
+          {
+            "enNote": "Commonly used in informal contexts to describe pain.",
+            "ptNote": "Comumente usado em contextos informais para descrever dor."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "out of one's mind",
+        "partOfSpeech": "idiom",
+        "enDefinition": "acting in a way that seems irrational or crazy; being extremely worried or upset",
+        "ptDefinition": "agindo de uma maneira que parece irracional ou louca; estar extremamente preocupado ou chateado",
+        "examples": [
+          {
+            "enExample": "She must be out of her mind to drive in such terrible weather.",
+            "ptExample": "Ela deve estar fora de si para dirigir em um clima tão terrível."
+          },
+          {
+            "enExample": "He was out of his mind with worry when his son didn't come home.",
+            "ptExample": "Ele estava fora de si de preocupação quando seu filho não voltou para casa."
+          },
+          {
+            "enExample": "You're out of your mind if you think this plan will work.",
+            "ptExample": "Você está fora de si se acha que esse plano vai funcionar."
+          }
+        ],
+        "synonyms": ["crazy", "irrational", "insane"],
+        "antonyms": ["rational", "sane", "calm"],
+        "notes": [
+          {
+            "enNote": "This idiom can describe both temporary emotional states and more permanent irrational behaviors.",
+            "ptNote": "Este idioma pode descrever tanto estados emocionais temporários quanto comportamentos irracionais mais permanentes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "of two minds",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be undecided or conflicted about something, having opposing opinions or feelings",
+        "ptDefinition": "estar indeciso ou em conflito sobre algo, tendo opiniões ou sentimentos opostos",
+        "examples": [
+          {
+            "enExample": "I'm of two minds about accepting the job offer; the salary is great, but it's far from home.",
+            "ptExample": "Estou indeciso sobre aceitar a oferta de emprego; o salário é ótimo, mas é longe de casa."
+          },
+          {
+            "enExample": "She's of two minds regarding the vacation plans; she wants to go, but she's concerned about the cost.",
+            "ptExample": "Ela está indecisa em relação aos planos de férias; quer ir, mas está preocupada com o custo."
+          }
+        ],
+        "synonyms": ["undecided", "torn between", "conflicted"],
+        "antonyms": ["certain", "sure", "decided"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "on the make",
+        "partOfSpeech": "idiom",
+        "enDefinition": "actively seeking personal gain, especially in a dishonest or aggressive way; trying to improve one's social or financial position",
+        "ptDefinition": "buscando ativamente ganho pessoal, especialmente de forma desonesta ou agressiva; tentando melhorar sua posição social ou financeira",
+        "examples": [
+          {
+            "enExample": "He’s always on the make, looking for ways to get ahead, no matter who gets hurt.",
+            "ptExample": "Ele está sempre querendo se dar bem, procurando maneiras de se destacar, não importa quem seja prejudicado."
+          },
+          {
+            "enExample": "Some people thought she was on the make, only interested in people who could help her career.",
+            "ptExample": "Algumas pessoas achavam que ela só queria se dar bem, interessada apenas em pessoas que pudessem ajudar em sua carreira."
+          }
+        ],
+        "synonyms": ["ambitious", "opportunistic", "self-seeking"],
+        "antonyms": ["content", "selfless", "unambitious"],
+        "seeAlso": ["climbing the ladder", "go-getter"],
+        "notes": [
+          {
+            "enNote": "This idiom often has a negative connotation, implying selfish or unscrupulous motives.",
+            "ptNote": "Este idiom geralmente tem uma conotação negativa, implicando motivos egoístas ou sem escrúpulos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "make a pass at someone",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to try to start a romantic or sexual relationship with someone, often by flirting or expressing interest",
+        "ptDefinition": "tentar iniciar um relacionamento romântico ou sexual com alguém, geralmente flertando ou demonstrando interesse",
+        "examples": [
+          {
+            "enExample": "He got in trouble at work for making a pass at his coworker.",
+            "ptExample": "Ele se meteu em problemas no trabalho por dar em cima da colega."
+          },
+          {
+            "enExample": "She was surprised when her friend made a pass at her during the party.",
+            "ptExample": "Ela ficou surpresa quando o amigo deu em cima dela durante a festa."
+          }
+        ],
+        "synonyms": ["flirt", "hit on", "come on to"],
+        "antonyms": ["ignore", "avoid", "rebuff"],
+        "seeAlso": ["come on to", "hit on"],
+        "notes": [
+          {
+            "enNote": "This idiom is informal and can sometimes imply unwanted or inappropriate advances.",
+            "ptNote": "Este idiom é informal e pode, às vezes, implicar investidas indesejadas ou inadequadas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "make a mountain out of a molehill",
         "partOfSpeech": "idiom",
         "enDefinition": "to exaggerate a minor problem or issue and make it seem more important than it really is",
@@ -251,7 +392,11 @@
           }
         ],
         "synonyms": ["instinct says", "feeling tells me", "intuition"],
-        "antonyms": ["reasoned judgment", "logical decision", "evidence-based conclusion"],
+        "antonyms": [
+          "reasoned judgment",
+          "logical decision",
+          "evidence-based conclusion"
+        ],
         "notes": [
           {
             "enNote": "This idiom is used to describe a strong, instinctive feeling about something, without relying on hard facts or logic.",

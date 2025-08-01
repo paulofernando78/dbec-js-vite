@@ -2,6 +2,279 @@
   {
     "definitions": [
       {
+        "word": "can’t afford to",
+        "phonetics": "kænt əˈfɔrd tu",
+        "partOfSpeech": "modal verb phrase",
+        "enDefinition": "to not have enough money or resources to do something; to not be able to risk or allow something to happen, often due to serious consequences or limitations",
+        "ptDefinition": "não ter dinheiro ou recursos suficientes para fazer algo; não poder correr o risco ou permitir que algo aconteça, frequentemente por causa de consequências sérias ou limitações",
+        "examples": [
+          {
+            "enExample": "I can’t afford to buy a new car right now.",
+            "ptExample": "Eu não posso comprar um carro novo agora."
+          },
+          {
+            "enExample": "She can’t afford to take a vacation this year.",
+            "ptExample": "Ela não pode tirar férias este ano."
+          },
+          {
+            "enExample": "She can’t afford to lose this client.",
+            "ptExample": "Ela não pode se dar ao luxo de perder este cliente."
+          }
+        ],
+        "synonyms": "not have enough money, be unable to pay",
+        "antonyms": "afford, be able to pay",
+        "seeAlso": "budget, financial planning",
+        "notes": [
+          {
+            "enNote": "Commonly used to talk about financial limitations.",
+            "ptNote": "Usado comumente para falar sobre limitações financeiras."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "call in sick",
+        "phonetics": "kɔːl ɪn sɪk",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to notify your employer that you will not come to work because you are ill",
+        "ptDefinition": "avisar seu empregador que você não irá trabalhar porque está doente",
+        "examples": [
+          {
+            "enExample": "I had to call in sick because of a severe headache.",
+            "ptExample": "Eu tive que avisar que estava doente por causa de uma forte dor de cabeça."
+          },
+          {
+            "enExample": "She called in sick and stayed home all day.",
+            "ptExample": "Ela avisou que estava doente e ficou em casa o dia todo."
+          }
+        ],
+        "synonyms": "report sick, take a sick day",
+        "antonyms": "go to work, be present",
+        "seeAlso": "call off, sick leave",
+        "notes": [
+          {
+            "enNote": "Commonly used in work contexts when someone cannot attend due to illness.",
+            "ptNote": "Comumente usado em contextos de trabalho quando alguém não pode comparecer por doença."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "crunch time",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a critical period when pressure is highest, often before a deadline or important event",
+        "ptDefinition": "período crítico em que a pressão é maior, geralmente antes de um prazo ou evento importante",
+        "examples": [
+          {
+            "enExample": "It's crunch time at work, and everyone is putting in extra hours.",
+            "ptExample": "Está na hora da pressão no trabalho, e todos estão fazendo hora extra."
+          },
+          {
+            "enExample": "During crunch time, it's important to stay focused and avoid distractions.",
+            "ptExample": "Durante o período de pressão, é importante manter o foco e evitar distrações."
+          }
+        ],
+        "synonyms": "deadline pressure, critical moment, crunch",
+        "antonyms": "leisure time, downtime, relaxed period",
+        "seeAlso": "high pressure, last minute",
+        "notes": [
+          {
+            "enNote": "Commonly used in business and project management contexts.",
+            "ptNote": "Comumente usado em contextos de negócios e gerenciamento de projetos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "I don’t know whether I’m coming or going",
+        "partOfSpeech": "idiom / expression",
+        "enDefinition": "used to say that you're very confused or overwhelmed, often because of being very busy or stressed",
+        "ptDefinition": "usado para dizer que você está muito confuso ou sobrecarregado, geralmente por estar muito ocupado ou estressado",
+        "examples": [
+          {
+            "enExample": "There’s so much going on at work—I don’t know whether I’m coming or going.",
+            "ptExample": "Tem tanta coisa acontecendo no trabalho que eu não sei se estou indo ou vindo."
+          },
+          {
+            "enExample": "After moving to a new city and starting a new job, she didn’t know whether she was coming or going.",
+            "ptExample": "Depois de se mudar para uma nova cidade e começar um novo emprego, ela não sabia se estava indo ou vindo."
+          }
+        ],
+        "synonyms": "confused, overwhelmed, lost",
+        "antonyms": "clear-headed, in control",
+        "seeAlso": "all over the place, scatterbrained",
+        "notes": [
+          {
+            "enNote": "Often said with humor or frustration when someone is overwhelmed.",
+            "ptNote": "Geralmente dito com humor ou frustração quando alguém está sobrecarregado."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "chill out",
+        "phonetics": "tʃɪl aʊt",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to relax and stop feeling angry, nervous, or excited",
+        "ptDefinition": "relaxar e parar de se sentir irritado, nervoso ou agitado",
+        "examples": [
+          {
+            "enExample": "You need to chill out and stop stressing over every little thing.",
+            "ptExample": "Você precisa relaxar e parar de se estressar com cada coisinha."
+          },
+          {
+            "enExample": "Let’s just chill out and watch a movie.",
+            "ptExample": "Vamos apenas relaxar e assistir a um filme."
+          }
+        ],
+        "synonyms": "relax, calm down, take it easy",
+        "antonyms": "stress out, freak out",
+        "seeAlso": "take a breather, unwind",
+        "notes": [
+          {
+            "enNote": "Often used informally to tell someone to calm down.",
+            "ptNote": "Usado informalmente para dizer a alguém que se acalme."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "climb the corporate ladder",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to advance within a company by getting promotions and increasing responsibilities.",
+        "ptDefinition": "progredir dentro de uma empresa, conseguindo promoções e assumindo mais responsabilidades",
+        "examples": [
+          {
+            "enExample": "She worked hard to climb the corporate ladder and become the CEO.",
+            "ptExample": "Ela trabalhou duro para subir na hierarquia da empresa e se tornar CEO."
+          },
+          {
+            "enExample": "Many employees aspire to climb the corporate ladder quickly.",
+            "ptExample": "Muitos funcionários aspiram subir rapidamente na hierarquia corporativa."
+          }
+        ],
+        "synonyms": "advance, get promoted, move up",
+        "antonyms": "stay stagnant, be demoted",
+        "seeAlso": "get ahead, move up, promotion",
+        "notes": [
+          {
+            "enNote": "Commonly used to describe career progression in corporate environments.",
+            "ptNote": "Usada para descrever progressão na carreira em ambientes corporativos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "have a chip on one’s shoulder",
+        "phonetics": "hæv ə ʧɪp ɒn wʌnz ˈʃoʊldər",
+        "partOfSpeech": "verb phrase",
+        "enDefinition": "to seem angry or easily offended because of something that happened in the past, often acting as if one is constantly ready to argue or fight",
+        "ptDefinition": "demonstrar ressentimento ou estar sempre na defensiva por causa de algo do passado, agindo como se estivesse constantemente pronto para discutir ou brigar",
+        "examples": [
+          {
+            "enExample": "He has a chip on his shoulder about not getting promoted last year.",
+            "ptExample": "Ele está ressentido por não ter sido promovido no ano passado."
+          },
+          {
+            "enExample": "She walks around with a chip on her shoulder, like the world owes her something.",
+            "ptExample": "Ela anda por aí como se estivesse com raiva do mundo, como se o mundo devesse algo a ela."
+          }
+        ],
+        "synonyms": "hold a grudge, be resentful, be defensive",
+        "antonyms": "let go, be forgiving, be at peace",
+        "seeAlso": "grudge, resentment, touchy",
+        "notes": [
+          {
+            "enNote": "This idiom is often used to describe someone who is easily provoked due to past grievances.",
+            "ptNote": "Essa expressão é usada para descrever alguém que se ofende facilmente por mágoas passadas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "a far cry from",
+        "partOfSpeech": "idiom",
+        "enDefinition": "very different from; not at all like",
+        "ptDefinition": "muito diferente de; nem um pouco parecido com",
+        "examples": [
+          {
+            "enExample": "The small apartment was a far cry from the luxury house she grew up in.",
+            "ptExample": "O pequeno apartamento era muito diferente da casa luxuosa onde ela cresceu."
+          },
+          {
+            "enExample": "His current job is a far cry from what he originally planned to do.",
+            "ptExample": "Seu trabalho atual é muito diferente do que ele originalmente planejava fazer."
+          }
+        ],
+        "synonyms": [
+          "worlds apart from",
+          "completely different from",
+          "nothing like"
+        ],
+        "antonyms": ["similar to", "close to", "comparable to"],
+        "seeAlso": ["different from", "unlike"],
+        "notes": [
+          {
+            "enNote": "This idiom emphasizes a stark contrast or significant difference between two things.",
+            "ptNote": "Esta expressão enfatiza um contraste marcante ou diferença significativa entre duas coisas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "cut someone some slack",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be less critical or give someone more freedom or leniency than usual, especially because they are having difficulties",
+        "ptDefinition": "ser menos crítico ou dar mais liberdade ou tolerância a alguém do que o habitual, especialmente porque a pessoa está passando por dificuldades",
+        "examples": [
+          {
+            "enExample": "She’s been under a lot of stress lately, so cut her some slack.",
+            "ptExample": "Ela tem passado por muito estresse ultimamente, então pegue leve com ela."
+          },
+          {
+            "enExample": "I know I made a mistake, but could you cut me some slack this time?",
+            "ptExample": "Eu sei que cometi um erro, mas você pode pegar leve comigo desta vez?"
+          }
+        ],
+        "synonyms": ["go easy on", "be lenient", "give a break", "show mercy"],
+        "antonyms": ["be strict", "be harsh", "be unforgiving"],
+        "seeAlso": ["give someone a break", "let it slide"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to ask for or suggest understanding and tolerance in difficult situations.",
+            "ptNote": "Este idiom é frequentemente usado para pedir ou sugerir compreensão e tolerância em situações difíceis."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "cut back on",
         "phonetics": "/kʌt bæk ɒn/",
         "partOfSpeech": "phrasal verb",
@@ -9,12 +282,12 @@
         "ptDefinition": "reduzir a quantidade de algo",
         "examples": [
           {
-        "enExample": "We need to cut back on our expenses this month.",
-        "ptExample": "Precisamos reduzir nossas despesas este mês."
+            "enExample": "We need to cut back on our expenses this month.",
+            "ptExample": "Precisamos reduzir nossas despesas este mês."
           },
           {
-        "enExample": "The doctor advised him to cut back on sugar.",
-        "ptExample": "O médico o aconselhou a reduzir o consumo de açúcar."
+            "enExample": "The doctor advised him to cut back on sugar.",
+            "ptExample": "O médico o aconselhou a reduzir o consumo de açúcar."
           }
         ],
         "synonyms": ["reduce", "decrease", "lessen", "diminish"],
@@ -22,8 +295,8 @@
         "seeAlso": ["cut down on", "reduce"],
         "notes": [
           {
-        "enNote": "This phrasal verb is commonly used when discussing budgets, consumption, or lifestyle changes.",
-        "ptNote": "Este verbo frasal é comumente usado ao discutir orçamentos, consumo ou mudanças no estilo de vida."
+            "enNote": "This phrasal verb is commonly used when discussing budgets, consumption, or lifestyle changes.",
+            "ptNote": "Este verbo frasal é comumente usado ao discutir orçamentos, consumo ou mudanças no estilo de vida."
           }
         ]
       },
@@ -39,7 +312,7 @@
             "ptExample": "Eu tenho que bater o ponto às 9h todas as manhãs."
           },
           {
-            "enExample": "The employees are required to clock in when they arrive at work.", 
+            "enExample": "The employees are required to clock in when they arrive at work.",
             "ptExample": "Os funcionários são obrigados a registrar a entrada quando chegam ao trabalho."
           }
         ],
@@ -52,9 +325,9 @@
             "ptNote": "Esta frase é comumente usada em contextos de trabalho para descrever o registro formal das horas trabalhadas."
           }
         ]
-            }
-          ]
-        },
+      }
+    ]
+  },
   {
     "definitions": [
       {
@@ -82,9 +355,9 @@
             "ptNote": "Frequentemente usado ao falar sobre tempo, distância ou conquistas acumuladas ao longo de um período."
           }
         ]
-            }
-          ]
-        },
+      }
+    ]
+  },
   {
     "definitions": [
       {
@@ -142,9 +415,9 @@
             "ptNote": "Frequentemente usado para descrever algo que foi tornado desnecessariamente complicado ou difícil de entender."
           }
         ]
-            }
-          ]
-        },
+      }
+    ]
+  },
   {
     "definitions": [
       {
@@ -341,7 +614,11 @@
             "ptExample": "Precisamos cobrir muitos tópicos na reunião de hoje."
           }
         ],
-        "synonyms": ["address many topics", "deal with many issues", "cover a wide range"],
+        "synonyms": [
+          "address many topics",
+          "deal with many issues",
+          "cover a wide range"
+        ],
         "antonyms": ["focus on one topic", "narrow scope"],
         "seeAlso": ["touch on many points", "explore various aspects"],
         "notes": [
@@ -595,7 +872,12 @@
             "ptExample": "Com uma atitude positiva, ele conseguiu resolver o problema rapidamente."
           }
         ],
-        "synonyms": ["positive attitude", "determined", "optimistic", "proactive"],
+        "synonyms": [
+          "positive attitude",
+          "determined",
+          "optimistic",
+          "proactive"
+        ],
         "antonyms": ["pessimistic", "negative", "discouraged"],
         "seeAlso": ["take initiative", "problem solver"],
         "notes": [
@@ -926,7 +1208,11 @@
             "ptExample": "Antes de tomar a decisão final, a equipe teve que analisar os números para garantir que o orçamento funcionaria."
           }
         ],
-        "synonyms": ["analyze the data", "process the figures", "do the calculations"],
+        "synonyms": [
+          "analyze the data",
+          "process the figures",
+          "do the calculations"
+        ],
         "antonyms": ["ignore the data", "disregard the numbers"]
       }
     ]

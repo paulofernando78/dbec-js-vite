@@ -2,6 +2,462 @@
   {
     "definitions": [
       {
+        "word": "settle down",
+        "phonetics": "/ˈsetl daʊn/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to become calm, quiet, or orderly; to start living a stable and routine life, often by getting married or starting a family",
+        "ptDefinition": "ficar calmo, tranquilo ou organizado; começar a viver uma vida estável e rotineira, frequentemente ao casar ou formar uma família",
+        "examples": [
+          {
+            "enExample": "After traveling for years, he decided to settle down in a small town.",
+            "ptExample": "Depois de viajar por anos, ele decidiu se estabelecer em uma cidade pequena."
+          },
+          {
+            "enExample": "The kids finally settled down after the long car ride.",
+            "ptExample": "As crianças finalmente se acalmaram depois da longa viagem de carro."
+          }
+        ],
+        "synonyms": "calm down, relax, establish oneself",
+        "antonyms": "get restless, become unsettled",
+        "seeAlso": "calm down, settle in",
+        "notes": [
+          {
+            "enNote": "Used both for calming behavior and establishing a stable life.",
+            "ptNote": "Usado tanto para acalmar o comportamento quanto para estabelecer uma vida estável."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "as sick as a dog",
+        "partOfSpeech": "idiom",
+        "enDefinition": "very ill or sick",
+        "ptDefinition": "muito doente",
+        "examples": [
+          {
+            "enExample": "He was as sick as a dog after eating the bad seafood.",
+            "ptExample": "Ele ficou muito doente depois de comer frutos do mar estragados."
+          },
+          {
+            "enExample": "She felt as sick as a dog during the flu.",
+            "ptExample": "Ela se sentiu muito doente durante a gripe."
+          }
+        ],
+        "synonyms": "very ill, extremely sick",
+        "antonyms": "healthy, well",
+        "seeAlso": "feel under the weather, down with something",
+        "notes": [
+          {
+            "enNote": "Common informal expression for feeling very ill.",
+            "ptNote": "Expressão informal comum para sentir-se muito doente."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "scale back one’s hours",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to reduce the number of hours one works or spends on an activity",
+        "ptDefinition": "reduzir o número de horas que se trabalha ou dedica a uma atividade",
+        "examples": [
+          {
+            "enExample": "After the baby was born, she decided to scale back her hours at work.",
+            "ptExample": "Depois que o bebê nasceu, ela decidiu reduzir suas horas de trabalho."
+          },
+          {
+            "enExample": "Many companies scale back employees’ hours during economic downturns.",
+            "ptExample": "Muitas empresas reduzem as horas dos funcionários durante crises econômicas."
+          }
+        ],
+        "synonyms": "reduce, cut back, lessen",
+        "antonyms": "increase, extend, add hours",
+        "seeAlso": "cut back, scale down",
+        "notes": [
+          {
+            "enNote": "Commonly used in work and business contexts.",
+            "ptNote": "Comumente usado em contextos de trabalho e negócios."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "stressed out",
+        "phonetics": "strest aʊt",
+        "partOfSpeech": "adjective",
+        "enDefinition": "feeling very anxious, worried, or overwhelmed",
+        "ptDefinition": "sentindo-se muito ansioso, preocupado ou sobrecarregado",
+        "examples": [
+          {
+            "enExample": "I’ve been so stressed out with work lately.",
+            "ptExample": "Tenho estado muito estressado com o trabalho ultimamente."
+          },
+          {
+            "enExample": "She gets stressed out before every exam.",
+            "ptExample": "Ela fica muito estressada antes de cada prova."
+          }
+        ],
+        "synonyms": "anxious, overwhelmed, tense",
+        "antonyms": "calm, relaxed, chill",
+        "seeAlso": "burned out, under pressure",
+        "notes": [
+          {
+            "enNote": "Common in everyday conversation to express emotional overload.",
+            "ptNote": "Comum em conversas do dia a dia para expressar sobrecarga emocional."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "slip one’s mind",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to forget something unintentionally",
+        "ptDefinition": "esquecer algo sem querer",
+        "examples": [
+          {
+            "enExample": "Sorry I didn’t call you back — it totally slipped my mind.",
+            "ptExample": "Desculpa por não ter te ligado de volta — isso simplesmente me escapou da cabeça."
+          },
+          {
+            "enExample": "I meant to send the email yesterday, but it slipped my mind.",
+            "ptExample": "Eu pretendia enviar o e-mail ontem, mas acabei esquecendo."
+          }
+        ],
+        "synonyms": "forget, overlook",
+        "antonyms": "remember, keep in mind",
+        "seeAlso": "lose track of, blank out",
+        "notes": [
+          {
+            "enNote": "Used to express that forgetting was accidental.",
+            "ptNote": "Usado para indicar que o esquecimento foi acidental."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "get under one’s skin",
+        "partOfSpeech": "idiom",
+        "enDefinition": "To irritate or bother someone deeply; to affect someone emotionally, either in a negative or intense way.",
+        "ptDefinition": "Irritar profundamente alguém ou mexer com alguém emocionalmente, de forma negativa ou intensa.",
+        "examples": [
+          {
+            "enExample": "Her constant criticism really gets under my skin.",
+            "ptExample": "As críticas constantes dela realmente me tiram do sério."
+          },
+          {
+            "enExample": "He’s really gotten under her skin — she can’t stop thinking about him.",
+            "ptExample": "Ele realmente mexeu com ela — ela não consegue parar de pensar nele."
+          }
+        ],
+        "synonyms": "irritate, annoy, provoke, get to someone",
+        "antonyms": "ignore, not be affected, remain indifferent",
+        "seeAlso": "rub someone the wrong way, push someone's buttons",
+        "notes": [
+          {
+            "enNote": "Depending on context, the phrase can suggest strong irritation or emotional attraction.",
+            "ptNote": "Dependendo do contexto, a expressão pode sugerir irritação profunda ou atração emocional intensa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "steer clear of somebody or something",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to deliberately avoid someone or something that may cause trouble or be unpleasant",
+        "ptDefinition": "evitar deliberadamente alguém ou algo que possa causar problemas ou ser desagradável",
+        "examples": [
+          {
+            "enExample": "You should steer clear of that area after dark.",
+            "ptExample": "Você deve evitar aquela área depois de escurecer."
+          },
+          {
+            "enExample": "He tries to steer clear of arguments at work.",
+            "ptExample": "Ele tenta evitar discussões no trabalho."
+          }
+        ],
+        "synonyms": ["avoid", "keep away from", "shun", "eschew"],
+        "antonyms": ["approach", "confront", "face"],
+        "seeAlso": [
+          "stay away from",
+          "give a wide berth",
+          "keep one's distance"
+        ],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to give advice or warnings about people, places, or situations.",
+            "ptNote": "Este idiom é frequentemente usado para dar conselhos ou alertas sobre pessoas, lugares ou situações."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "bent out of shape",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to become very angry, upset, or agitated, often over something minor or trivial",
+        "ptDefinition": "ficar muito irritado, chateado ou agitado, geralmente por algo pequeno ou trivial",
+        "examples": [
+          {
+            "enExample": "Don't get bent out of shape over a simple mistake.",
+            "ptExample": "Não fique tão irritado por um simples erro."
+          },
+          {
+            "enExample": "She got bent out of shape when she found out her meeting was rescheduled.",
+            "ptExample": "Ela ficou muito chateada quando descobriu que sua reunião foi remarcada."
+          }
+        ],
+        "synonyms": ["upset", "angry", "worked up", "overreact"],
+        "antonyms": ["calm", "unbothered", "relaxed"],
+        "seeAlso": ["lose your temper", "fly off the handle", "overreact"],
+        "notes": [
+          {
+            "enNote": "This idiom is informal and often used to tell someone not to overreact.",
+            "ptNote": "Este idiom é informal e frequentemente usado para dizer a alguém para não exagerar na reação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "I could've sworn that",
+        "partOfSpeech": "phrase",
+        "enDefinition": "used to express strong belief or certainty about something that one remembers or perceives",
+        "ptDefinition": "usado para expressar forte crença ou certeza sobre algo que se lembra ou percebe",
+        "examples": [
+          {
+            "enExample": "I could've sworn that I left my keys on the table.",
+            "ptExample": "Eu poderia jurar que deixei minhas chaves na mesa."
+          },
+          {
+            "enExample": "She could've sworn that she saw him at the party.",
+            "ptExample": "Ela poderia jurar que o viu na festa."
+          }
+        ],
+        "synonyms": ["I was sure", "I believed", "I thought"],
+        "antonyms": ["I doubted", "I was unsure"],
+        "notes": [
+          {
+            "enNote": "This phrase is often used when someone is surprised to find out that their memory or perception was incorrect.",
+            "ptNote": "Esta frase é frequentemente usada quando alguém fica surpreso ao descobrir que sua memória ou percepção estava incorreta."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "on the same page",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to have a shared understanding or agreement on something, especially in a discussion or collaborative situation",
+        "ptDefinition": "ter um entendimento ou acordo compartilhado sobre algo, especialmente em uma discussão ou situação colaborativa",
+        "examples": [
+          {
+            "enExample": "Let's have a meeting to make sure we're all on the same page before we move forward.",
+            "ptExample": "Vamos fazer uma reunião para garantir que todos estamos alinhados antes de seguir em frente."
+          },
+          {
+            "enExample": "It's important to get everyone on the same page before starting the new project.",
+            "ptExample": "É importante garantir que todos estejam alinhados antes de começar o novo projeto."
+          }
+        ],
+        "synonyms": ["in agreement", "aligned", "on track"],
+        "antonyms": ["misunderstood", "out of sync", "confused"],
+        "notes": [
+          {
+            "enNote": "The phrase is commonly used in both professional and casual contexts to ensure clarity and alignment."
+          },
+          {
+            "ptNote": "A expressão é comumente usada tanto em contextos profissionais quanto casuais para garantir clareza e alinhamento."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "in a snit",
+    "definitions": [
+      {
+        "word": "in a snit",
+        "phonetics": "/ɪn ə snɪt/",
+        "partOfSpeech": "idiom",
+        "enDefinition": "in a state of irritation, annoyance, or sulky anger, often over something minor",
+        "ptDefinition": "em um estado de irritação, aborrecimento ou mau humor, geralmente por algo pequeno",
+        "examples": [
+          {
+            "enExample": "She was in a snit because her friend canceled their plans.",
+            "ptExample": "Ela ficou de mau humor porque sua amiga cancelou os planos."
+          },
+          {
+            "enExample": "Don’t get in a snit over such a trivial mistake.",
+            "ptExample": "Não fique irritado por um erro tão trivial."
+          }
+        ],
+        "synonyms": ["in a huff", "upset", "annoyed", "sulking"],
+        "antonyms": ["content", "cheerful", "unbothered"],
+        "seeAlso": ["in a huff", "throw a fit", "sulk"],
+        "notes": [
+          {
+            "enNote": "This phrase is informal and often used to describe someone who is visibly annoyed or sulking.",
+            "ptNote": "Esta expressão é informal e frequentemente usada para descrever alguém visivelmente irritado ou emburrado."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "slave driver",
+    "definitions": [
+      {
+        "word": "slave driver",
+        "phonetics": "/ˈsleɪv ˌdraɪ.vər/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a person who makes other people work very hard, often in a harsh or demanding way",
+        "ptDefinition": "uma pessoa que faz os outros trabalharem muito, frequentemente de forma dura ou exigente",
+        "examples": [
+          {
+            "enExample": "My boss is a real slave driver—he expects us to work late every night.",
+            "ptExample": "Meu chefe é um verdadeiro explorador — ele espera que trabalhemos até tarde todas as noites."
+          },
+          {
+            "enExample": "The coach was a slave driver, pushing the team to their limits.",
+            "ptExample": "O treinador era um explorador, levando o time ao limite."
+          }
+        ],
+        "synonyms": ["taskmaster", "tyrant", "martinet"],
+        "antonyms": ["easygoing boss", "lenient supervisor"],
+        "seeAlso": ["drill sergeant", "disciplinarian"],
+        "notes": [
+          {
+            "enNote": "This term is often used informally and can be considered offensive if used literally.",
+            "ptNote": "Este termo é frequentemente usado de forma informal e pode ser considerado ofensivo se usado literalmente."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "shape up or ship out",
+    "definitions": [
+      {
+        "word": "shape up or ship out",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to tell someone that they must improve their behavior or performance or leave their job, position, or group",
+        "ptDefinition": "usado para dizer a alguém que deve melhorar seu comportamento ou desempenho ou sair do emprego, posição ou grupo",
+        "examples": [
+          {
+            "enExample": "The manager told the team they had to shape up or ship out.",
+            "ptExample": "O gerente disse à equipe que eles precisavam melhorar ou ir embora."
+          },
+          {
+            "enExample": "If you don't start arriving on time, you'll have to shape up or ship out.",
+            "ptExample": "Se você não começar a chegar no horário, terá que melhorar ou sair."
+          }
+        ],
+        "synonyms": [
+          "improve or leave",
+          "get your act together",
+          "pull your socks up"
+        ],
+        "antonyms": ["stay as you are", "remain unchanged"],
+        "seeAlso": ["pull your weight", "step up", "get your act together"],
+        "notes": [
+          {
+            "enNote": "Often used in workplaces or teams to demand better performance or discipline.",
+            "ptNote": "Frequentemente usado em ambientes de trabalho ou equipes para exigir melhor desempenho ou disciplina."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "sick and tired of",
+    "definitions": [
+      {
+        "word": "sick and tired of",
+        "partOfSpeech": "idiom",
+        "enDefinition": "extremely annoyed with or bored by something that has been happening for a long time; fed up",
+        "ptDefinition": "extremamente irritado ou cansado de algo que tem acontecido por muito tempo; de saco cheio",
+        "examples": [
+          {
+            "enExample": "I'm sick and tired of hearing the same excuses every day.",
+            "ptExample": "Estou de saco cheio de ouvir as mesmas desculpas todos os dias."
+          },
+          {
+            "enExample": "She was sick and tired of waiting for him to change.",
+            "ptExample": "Ela estava cansada de esperar que ele mudasse."
+          }
+        ],
+        "synonyms": ["fed up with", "had enough of", "weary of", "bored with"],
+        "antonyms": ["tolerant of", "patient with", "accepting of"],
+        "seeAlso": ["fed up", "can't stand", "had enough"],
+        "notes": [
+          {
+            "enNote": "This idiom is commonly used to express frustration or impatience with a repeated situation.",
+            "ptNote": "Este idiom é comumente usado para expressar frustração ou impaciência com uma situação repetitiva."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "spare us the sob story",
+    "definitions": [
+      {
+        "word": "spare us (or me) the sob story",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to tell someone to stop giving excuses or telling a sad story to gain sympathy, especially when it is seen as exaggerated or manipulative",
+        "ptDefinition": "usado para pedir que alguém pare de dar desculpas ou contar uma história triste para ganhar simpatia, especialmente quando é visto como exagerado ou manipulador",
+        "examples": [
+          {
+            "enExample": "Oh, spare us the sob story and just admit you forgot to do your work.",
+            "ptExample": "Ah, poupe-nos da história triste e apenas admita que você esqueceu de fazer seu trabalho."
+          },
+          {
+            "enExample": "He tried to explain why he was late, but the boss said, 'Spare me the sob story.'",
+            "ptExample": "Ele tentou explicar por que estava atrasado, mas o chefe disse: 'Poupe-me da história triste.'"
+          }
+        ],
+        "synonyms": [
+          "cut the excuses",
+          "save the drama",
+          "don't play the victim"
+        ],
+        "antonyms": ["show sympathy", "listen patiently"],
+        "seeAlso": ["cry me a river", "play the victim", "make excuses"],
+        "notes": [
+          {
+            "enNote": "Often used in informal or slightly impatient contexts when someone is perceived as exaggerating their problems.",
+            "ptNote": "Frequentemente usado em contextos informais ou um pouco impacientes quando alguém é visto como exagerando seus problemas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "save a bundle",
         "partOfSpeech": "idiom",
         "enDefinition": "to save a large amount of money",
@@ -33,7 +489,7 @@
       {
         "word": "short by",
         "phonetics": "/ʃɔrt baɪ/",
-        "partOfSpeech": "phrasal verb", 
+        "partOfSpeech": "phrasal verb",
         "enDefinition": "to lack or be deficient in a specified amount",
         "ptDefinition": "faltar ou estar em falta de uma quantidade específica",
         "examples": [
@@ -59,7 +515,7 @@
       {
         "word": "scrutinize",
         "phonetics": "/ˈskruːtəˌnaɪz/",
-        "partOfSpeech": "verb", 
+        "partOfSpeech": "verb",
         "enDefinition": "to examine something very carefully and in detail",
         "ptDefinition": "examinar algo muito cuidadosamente e em detalhe; escrutinar",
         "examples": [

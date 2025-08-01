@@ -2,27 +2,27 @@
   {
     "definitions": [
       {
-        "word": "a far cry from",
+        "word": "according to the rumor mill",
         "partOfSpeech": "idiom",
-        "enDefinition": "very different from; not at all like",
-        "ptDefinition": "muito diferente de; nem um pouco parecido com",
+        "enDefinition": "used to indicate that information is based on unofficial gossip or rumors rather than confirmed facts",
+        "ptDefinition": "usado para indicar que uma informação é baseada em boatos ou fofocas não oficiais, e não em fatos confirmados",
         "examples": [
           {
-            "enExample": "The small apartment was a far cry from the luxury house she grew up in.",
-            "ptExample": "O pequeno apartamento era muito diferente da casa luxuosa onde ela cresceu."
+            "enExample": "According to the rumor mill, the company is planning to lay off several employees.",
+            "ptExample": "Segundo os boatos, a empresa está planejando demitir vários funcionários."
           },
           {
-            "enExample": "His current job is a far cry from what he originally planned to do.",
-            "ptExample": "Seu trabalho atual é muito diferente do que ele originalmente planejava fazer."
+            "enExample": "According to the rumor mill, they're getting married next month.",
+            "ptExample": "Segundo os boatos, eles vão se casar no próximo mês."
           }
         ],
-        "synonyms": ["worlds apart from", "completely different from", "nothing like"],
-        "antonyms": ["similar to", "close to", "comparable to"],
-        "seeAlso": ["different from", "unlike"],
+        "synonyms": ["rumor has it", "word on the street", "grapevine"],
+        "antonyms": ["officially", "confirmed", "according to sources"],
+        "seeAlso": ["rumor", "gossip", "word on the street"],
         "notes": [
           {
-            "enNote": "This idiom emphasizes a stark contrast or significant difference between two things.",
-            "ptNote": "Esta expressão enfatiza um contraste marcante ou diferença significativa entre duas coisas."
+            "enNote": "This idiom is often used to preface information that may not be reliable.",
+            "ptNote": "Esta expressão é frequentemente usada para introduzir informações que podem não ser confiáveis."
           }
         ]
       }

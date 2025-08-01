@@ -2,9 +2,39 @@
   {
     "definitions": [
       {
+        "word": "brown noser",
+        "phonetics": "ˈbraʊn ˌnoʊzər",
+        "partOfSpeech": "noun",
+        "enDefinition": "a person who tries to gain favor with someone, especially a superior, by excessive flattery or sycophantic behavior",
+        "ptDefinition": "pessoa que tenta ganhar favores de alguém, especialmente um superior, por meio de elogios excessivos ou comportamento bajulador",
+        "examples": [
+          {
+            "enExample": "He's such a brown noser that he always agrees with the manager, no matter what.",
+            "ptExample": "Ele é tão puxa-saco que sempre concorda com o gerente, não importa o que seja."
+          },
+          {
+            "enExample": "Nobody likes a brown noser in the office.",
+            "ptExample": "Ninguém gosta de um puxa-saco no escritório."
+          }
+        ],
+        "synonyms": "yes man, sycophant, toady",
+        "antonyms": "independent thinker, critic",
+        "seeAlso": "bootlicker, suck-up, flatterer",
+        "notes": [
+          {
+            "enNote": "Informal and often derogatory term used to describe someone who flatters excessively to gain advantage.",
+            "ptNote": "Termo informal e frequentemente pejorativo usado para descrever alguém que bajula excessivamente para obter vantagens."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "no big deal",
         "phonetics": "/nəʊ bɪɡ diːl/",
-        "partOfSpeech": "idiom", 
+        "partOfSpeech": "idiom",
         "enDefinition": "used to indicate that something is not important or not a problem",
         "ptDefinition": "usado para indicar que algo não é importante ou não é um problema",
         "examples": [
@@ -20,35 +50,6 @@
           {
             "enNote": "A casual expression used to minimize concerns",
             "ptNote": "Uma expressão casual usada para minimizar preocupações"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "definitions": [
-      {
-        "word": "no big deal",
-        "partOfSpeech": "idiom",
-        "enDefinition": "used to indicate that something is not important or not a problem",
-        "ptDefinition": "usado para indicar que algo não é importante ou não é um problema",
-        "examples": [
-          {
-            "enExample": "Don't worry about being late, it's no big deal.",
-            "ptExample": "Não se preocupe em se atrasar, não é nada demais."
-          },
-          {
-            "enExample": "It's no big deal if you can't come to the party.",
-            "ptExample": "Não é nada demais se você não puder vir à festa."
-          }
-        ],
-        "synonyms": ["not important", "no problem", "no worries"],
-        "antonyms": ["big deal", "important", "significant"],
-        "seeAlso": ["no problem", "no worries"],
-        "notes": [
-          {
-            "enNote": "This idiom is often used to reassure someone that something is not a cause for concern.",
-            "ptNote": "Este idiom é frequentemente usado para tranquilizar alguém de que algo não é motivo de preocupação."
           }
         ]
       }
@@ -183,7 +184,7 @@
         "ptDefinition": "usado para enfatizar que não há desculpas, exceções ou concessões permitidas em uma situação",
         "examples": [
           {
-            "enExample": "You need to finish your report by tomorrow — no ifs, ands, or buts.",
+            "enExample": "You need to finish your report by tomorrow—no ifs, ands, or buts.",
             "ptExample": "Você precisa terminar o relatório até amanhã — sem desculpas ou negociações."
           },
           {
@@ -412,22 +413,6 @@
         ],
         "synonyms": ["abort"],
         "antonyms": ["cut off", "cut short"]
-      }
-    ]
-  },
-  {
-    "definitions": [
-      {
-        "word": "no wonder",
-        "partOfSpeech": "idiom",
-        "enDefinition": "used to express that something is not surprising or that the reason for something is obvious",
-        "ptDefinition": "usado para expressar que algo não é surpreendente ou que a razão de algo é óbvia",
-        "examples": [
-          {
-            "enExample": "No wonder she was tired after running a marathon!",
-            "ptExample": "Não é de se admirar que ela estivesse cansada depois de correr uma maratona!"
-          }
-        ]
       }
     ]
   }

@@ -2,6 +2,174 @@
   {
     "definitions": [
       {
+        "word": "there’s something going around",
+        "partOfSpeech": "idiom / expression",
+        "enDefinition": "an illness or problem that is spreading among people",
+        "ptDefinition": "uma doença ou problema que está se espalhando entre as pessoas",
+        "examples": [
+          {
+            "enExample": "I think there’s something going around because several people at work are sick.",
+            "ptExample": "Eu acho que tem alguma coisa rolando porque várias pessoas no trabalho estão doentes."
+          },
+          {
+            "enExample": "There’s something going around that’s making everyone tired.",
+            "ptExample": "Está circulando algo que está deixando todo mundo cansado."
+          }
+        ],
+        "synonyms": "spreading illness, epidemic, going viral",
+        "antonyms": "",
+        "seeAlso": "catch something, come down with",
+        "notes": [
+          {
+            "enNote": "Commonly used to refer to illnesses or problems affecting a group of people.",
+            "ptNote": "Usado comumente para se referir a doenças ou problemas que afetam um grupo de pessoas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "get ahead",
+        "phonetics": "ɡet əˈhed",
+        "partOfSpeech": "to make progress or succeed, especially in one's career or life",
+        "ptDefinition": "fazer progresso ou ter sucesso, especialmente na carreira ou na vida",
+        "examples": [
+          {
+            "enExample": "She works hard to get ahead in her job.",
+            "ptExample": "Ela trabalha duro para progredir no trabalho."
+          },
+          {
+            "enExample": "If you want to get ahead, you need to take more risks.",
+            "ptExample": "Se você quer progredir, precisa correr mais riscos."
+          }
+        ],
+        "synonyms": "advance, succeed, progress",
+        "antonyms": "fall behind, fail, regress",
+        "seeAlso": "get ahead of, move up, climb the ladder",
+        "notes": [
+          {
+            "enNote": "Commonly used in professional and personal contexts to indicate progress.",
+            "ptNote": "Comumente usado em contextos profissionais e pessoais para indicar progresso."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "grin and bear it",
+        "partOfSpeech": "idiom",
+        "enDefinition": "To accept a difficult or unpleasant situation without complaining, often with forced good humor.",
+        "ptDefinition": "Aceitar uma situação difícil ou desagradável sem reclamar, geralmente com um sorriso forçado ou resignação.",
+        "examples": [
+          {
+            "enExample": "The dentist appointment was painful, but I had to grin and bear it.",
+            "ptExample": "A consulta no dentista foi dolorosa, mas tive que aguentar firme e sem reclamar."
+          },
+          {
+            "enExample": "When his boss gave him extra work, he just grinned and bore it.",
+            "ptExample": "Quando o chefe deu trabalho extra a ele, ele apenas suportou sem reclamar."
+          }
+        ],
+        "synonyms": "endure, tolerate, put up with it, bite the bullet",
+        "antonyms": "complain, protest, give up",
+        "seeAlso": "suck it up, keep a stiff upper lip, swallow one's pride",
+        "notes": [
+          {
+            "enNote": "This expression emphasizes endurance and self-control in unpleasant situations.",
+            "ptNote": "A expressão enfatiza resistência e autocontrole em situações desagradáveis."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "What goes around comes around",
+        "partOfSpeech": "idiom",
+        "enDefinition": "the idea that a person's actions, whether good or bad, will eventually have consequences for that person; similar to the concept of karma",
+        "ptDefinition": "a ideia de que as ações de uma pessoa, sejam boas ou ruins, eventualmente terão consequências para ela; semelhante ao conceito de carma",
+        "examples": [
+          {
+            "enExample": "He was always kind to others, and now people are helping him—what goes around comes around.",
+            "ptExample": "Ele sempre foi gentil com os outros, e agora as pessoas estão ajudando ele—o que vai, volta."
+          },
+          {
+            "enExample": "She cheated her friends, but eventually lost their trust. What goes around comes around.",
+            "ptExample": "Ela enganou os amigos, mas acabou perdendo a confiança deles. O que vai, volta."
+          }
+        ],
+        "synonyms": ["karma", "you reap what you sow", "just deserts"],
+        "antonyms": ["no consequences", "unpunished", "unrewarded"],
+        "seeAlso": ["tit for tat", "reap what you sow", "cause and effect"]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "he’ll get his / she’ll get hers",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to say that someone will eventually receive the punishment or consequences they deserve for their actions, especially if they have done something wrong or unfair",
+        "ptDefinition": "usado para dizer que alguém eventualmente receberá o que merece, especialmente se fez algo errado ou injusto",
+        "examples": [
+          {
+            "enExample": "Don’t worry about the way he treated you—he’ll get his sooner or later.",
+            "ptExample": "Não se preocupe com a forma como ele te tratou — ele vai receber o que merece mais cedo ou mais tarde."
+          },
+          {
+            "enExample": "She thinks she can cheat people and get away with it, but she’ll get hers in the end.",
+            "ptExample": "Ela acha que pode enganar as pessoas e sair impune, mas vai receber o que merece no final."
+          }
+        ],
+        "synonyms": ["get what's coming", "face consequences", "pay the price"],
+        "antonyms": ["get away with", "escape punishment"],
+        "seeAlso": ["just deserts", "what goes around comes around"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to reassure someone that justice or karma will eventually catch up with a wrongdoer.",
+            "ptNote": "Este idiom é frequentemente usado para tranquilizar alguém de que a justiça ou o karma eventualmente alcançará quem fez algo errado."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "get to the bottom of something",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to find out the real cause or reason for something, often by thoroughly investigating",
+        "ptDefinition": "descobrir a verdadeira causa ou razão de algo, geralmente por meio de uma investigação detalhada",
+        "examples": [
+          {
+            "enExample": "The manager is determined to get to the bottom of the issue with the delayed shipments.",
+            "ptExample": "O gerente está determinado a descobrir a causa do problema com os atrasos nas entregas."
+          },
+          {
+            "enExample": "We need to get to the bottom of why sales have been declining over the past few months.",
+            "ptExample": "Precisamos entender de fato por que as vendas têm diminuído nos últimos meses."
+          }
+        ],
+        "synonyms": ["investigate", "uncover", "figure out"],
+        "antonyms": ["ignore", "neglect", "overlook"],
+        "seeAlso": [],
+        "notes": [
+          {
+            "enNote": "This idiom is often used in problem-solving contexts where understanding the root cause is essential.",
+            "ptNote": "Este idiom é frequentemente usado em contextos de resolução de problemas, onde entender a causa raiz é essencial."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "go cold turkey",
         "partOfSpeech": "idiom",
         "enDefinition": "to suddenly and completely stop using an addictive substance or engaging in a habitual behavior",
@@ -295,7 +463,7 @@
           },
           {
             "enExample": "Stop resisting change and get with the program—this is how things are done now.",
-            "ptExample": "Pare de resistir à mudança e se atualize—é assim que as coisas funcionam agora."
+            "ptExample": "Pare de resistir à mudança e se atualize — é assim que as coisas funcionam agora."
           }
         ],
         "synonyms": ["get on board", "get in line", "accept the reality"],
@@ -354,7 +522,11 @@
             "ptExample": "O lançamento do novo produto gerou muita atenção nas redes sociais, com as pessoas compartilhando suas opiniões e empolgação."
           }
         ],
-        "synonyms": ["create excitement", "stir up interest", "spark attention"],
+        "synonyms": [
+          "create excitement",
+          "stir up interest",
+          "spark attention"
+        ],
         "antonyms": ["go unnoticed", "lack interest", "be ignored"],
         "notes": [
           {
@@ -687,7 +859,11 @@
             "ptExample": "A empresa está se dedicando ao máximo para ganhar este contrato, oferecendo serviços extras e incentivos."
           }
         ],
-        "synonyms": ["put in maximum effort", "go the extra mile", "spare no expense"],
+        "synonyms": [
+          "put in maximum effort",
+          "go the extra mile",
+          "spare no expense"
+        ],
         "antonyms": ["hold back", "take it easy", "go easy"],
         "notes": [
           {
@@ -732,7 +908,11 @@
             "ptExample": "As táticas de marketing de guerrilha frequentemente dependem de surpresa e criatividade para engajar o público."
           }
         ],
-        "synonyms": ["unconventional marketing", "creative advertising", "grassroots marketing"],
+        "synonyms": [
+          "unconventional marketing",
+          "creative advertising",
+          "grassroots marketing"
+        ],
         "antonyms": ["traditional marketing", "conventional advertising"],
         "seeAlso": "",
         "notes": [

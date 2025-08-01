@@ -2,6 +2,64 @@
   {
     "definitions": [
       {
+        "word": "not feel so hot",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to feel unwell or sick",
+        "ptDefinition": "sentir-se mal ou doente",
+        "examples": [
+          {
+            "enExample": "I didn’t go to work because I was not feeling so hot.",
+            "ptExample": "Eu não fui trabalhar porque não estava me sentindo bem."
+          },
+          {
+            "enExample": "She’s not feeling so hot after eating that seafood.",
+            "ptExample": "Ela não está se sentindo bem depois de comer aqueles frutos do mar."
+          }
+        ],
+        "synonyms": "feel ill, feel sick, feel unwell",
+        "antonyms": "feel good, feel well, be healthy",
+        "seeAlso": "under the weather, feeling off",
+        "notes": [
+          {
+            "enNote": "Informal way to say someone is feeling sick.",
+            "ptNote": "Forma informal de dizer que alguém está se sentindo doente."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "point fingers at",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to blame or accuse someone of something",
+        "ptDefinition": "culpar ou acusar alguém de algo",
+        "examples": [
+          {
+            "enExample": "It's easy to point fingers at others when things go wrong.",
+            "ptExample": "É fácil culpar os outros quando as coisas dão errado."
+          },
+          {
+            "enExample": "Instead of finding a solution, they just pointed fingers at each other.",
+            "ptExample": "Em vez de encontrar uma solução, eles apenas culparam uns aos outros."
+          }
+        ],
+        "synonyms": ["blame", "accuse", "fault"],
+        "antonyms": ["praise", "commend", "applaud"],
+        "seeAlso": ["blame game", "scapegoat"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used in situations where people are trying to avoid responsibility by blaming others.",
+            "ptNote": "Este idiom é frequentemente usado em situações onde as pessoas tentam evitar a responsabilidade culpando os outros."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "fall guy",
         "phonetics": "/ˈfɔːl ɡaɪ/",
         "partOfSpeech": "noun",

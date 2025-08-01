@@ -2,27 +2,86 @@
   {
     "definitions": [
       {
-        "word": "point fingers at",
+        "word": "keep one's eye on the prize",
         "partOfSpeech": "idiom",
-        "enDefinition": "to blame or accuse someone of something",
-        "ptDefinition": "culpar ou acusar alguém de algo",
+        "enDefinition": "to stay focused on achieving a positive end result, especially in the face of challenges or distractions",
+        "ptDefinition": "manter o foco em alcançar um resultado positivo, especialmente diante de desafios ou distrações",
         "examples": [
           {
-            "enExample": "It's easy to point fingers at others when things go wrong.",
-            "ptExample": "É fácil culpar os outros quando as coisas dão errado."
+            "enExample": "Despite the difficulties, she kept her eye on the prize and completed her degree.",
+            "ptExample": "Apesar das dificuldades, ela manteve o foco e concluiu seu diploma."
           },
           {
-            "enExample": "Instead of finding a solution, they just pointed fingers at each other.",
-            "ptExample": "Em vez de encontrar uma solução, eles apenas culparam uns aos outros."
+            "enExample": "He reminded his team to keep their eyes on the prize and not get distracted by minor setbacks.",
+            "ptExample": "Ele lembrou sua equipe de manter o foco e não se distrair com pequenos contratempos."
           }
         ],
-        "synonyms": ["blame", "accuse", "fault"],
-        "antonyms": ["praise", "commend", "applaud"],
-        "seeAlso": ["blame game", "scapegoat"],
+        "synonyms": ["stay focused", "remain determined", "stay on track"],
+        "antonyms": ["lose focus", "get distracted", "waver"],
+        "seeAlso": ["stay the course", "keep going", "persevere"],
         "notes": [
           {
-            "enNote": "This idiom is often used in situations where people are trying to avoid responsibility by blaming others.",
-            "ptNote": "Este idiom é frequentemente usado em situações onde as pessoas tentam evitar a responsabilidade culpando os outros."
+            "enNote": "This idiom is often used to encourage persistence and determination.",
+            "ptNote": "Este idiom é frequentemente usado para encorajar persistência e determinação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "politically correct",
+        "phonetics": "/pəˈlɪt.ɪ.kəl.i kəˈrekt/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "avoiding language or behavior that may offend or exclude groups of people who are socially disadvantaged or discriminated against",
+        "ptDefinition": "evitar linguagem ou comportamento que possa ofender ou excluir grupos de pessoas socialmente desfavorecidas ou discriminadas",
+        "examples": [
+          {
+            "enExample": "The company uses politically correct language in all its official communications.",
+            "ptExample": "A empresa utiliza linguagem politicamente correta em todas as suas comunicações oficiais."
+          },
+          {
+            "enExample": "Some people criticize politically correct attitudes as excessive or restrictive.",
+            "ptExample": "Algumas pessoas criticam atitudes politicamente corretas como excessivas ou restritivas."
+          }
+        ],
+        "synonyms": ["inclusive", "non-offensive", "sensitive"],
+        "antonyms": ["offensive", "insensitive", "discriminatory"],
+        "seeAlso": ["inclusive language", "social justice", "woke"],
+        "notes": [
+          {
+            "enNote": "The term 'politically correct' is sometimes used pejoratively to criticize efforts to avoid offense.",
+            "ptNote": "O termo 'politicamente correto' às vezes é usado de forma pejorativa para criticar esforços de evitar ofensas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "pull one's weight",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to do one's fair share of work or contribute equally to a group effort",
+        "ptDefinition": "fazer a sua parte; contribuir de forma justa em um esforço coletivo",
+        "examples": [
+          {
+            "enExample": "If everyone pulls their weight, the project will be finished on time.",
+            "ptExample": "Se todos fizerem sua parte, o projeto será concluído no prazo."
+          },
+          {
+            "enExample": "She wasn't pulling her weight, so the team struggled to meet the deadline.",
+            "ptExample": "Ela não estava fazendo sua parte, então a equipe teve dificuldades para cumprir o prazo."
+          }
+        ],
+        "synonyms": ["do one's part", "contribute", "carry one's share"],
+        "antonyms": ["slack off", "avoid responsibility", "let others down"],
+        "seeAlso": ["pitch in", "carry one's weight"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used in teamwork or group settings to emphasize the importance of equal effort.",
+            "ptNote": "Este idiom é frequentemente usado em contextos de trabalho em equipe para enfatizar a importância do esforço igualitário."
           }
         ]
       }
@@ -111,35 +170,6 @@
           {
             "enNote": "This phrase is often used to describe achieving something that seemed unlikely or required significant effort.",
             "ptNote": "Esta frase é frequentemente usada para descrever a realização de algo que parecia improvável ou exigia um esforço significativo."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "definitions": [
-      {
-        "word": "push the envelope",
-        "partOfSpeech": "idiom",
-        "enDefinition": "to go beyond the usual or expected limits, especially in a creative or innovative way",
-        "ptDefinition": "ir além dos limites usuais ou esperados, especialmente de maneira criativa ou inovadora",
-        "examples": [
-          {
-            "enExample": "The company is known for pushing the envelope in terms of technology and design.",
-            "ptExample": "A empresa é conhecida por ir além dos limites em termos de tecnologia e design."
-          },
-          {
-            "enExample": "The director pushed the envelope with his latest film, exploring new and controversial themes.",
-            "ptExample": "O diretor foi além dos limites com seu último filme, explorando temas novos e controversos."
-          }
-        ],
-        "synonyms": ["innovate", "break new ground", "go beyond"],
-        "antonyms": ["conform", "stick to the norm", "play it safe"],
-        "seeAlso": ["think outside the box", "break the mold"],
-        "notes": [
-          {
-            "enNote": "This idiom originated from the field of aviation, where 'envelope' refers to the performance limits of an aircraft.",
-            "ptNote": "Este idiom originou-se no campo da aviação, onde 'envelope' se refere aos limites de desempenho de uma aeronave."
           }
         ]
       }

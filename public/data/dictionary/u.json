@@ -2,6 +2,57 @@
   {
     "definitions": [
       {
+        "word": "un-PC",
+        "phonetics": "/ˌʌnˌpiːˈsiː/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "not politically correct; expressing or holding views that may offend particular groups of people",
+        "ptDefinition": "não politicamente correto; expressando ou mantendo opiniões que podem ofender determinados grupos de pessoas",
+        "examples": [
+          {
+            "enExample": "He made an un-PC joke that offended some people in the audience.",
+            "ptExample": "Ele fez uma piada não politicamente correta que ofendeu algumas pessoas na plateia."
+          }
+        ],
+        "synonyms": ["politically incorrect", "insensitive", "offensive"],
+        "antonyms": ["PC", "politically correct", "sensitive"],
+        "seeAlso": ["taboo", "controversial"],
+        "notes": [
+          {
+            "enNote": "Often used informally to describe language or behavior that does not conform to socially accepted standards of sensitivity.",
+            "ptNote": "Frequentemente usado informalmente para descrever linguagem ou comportamento que não está de acordo com padrões socialmente aceitos de sensibilidade."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
+        "word": "up to one’s old tricks",
+        "partOfSpeech": "idiom",
+        "enDefinition": "behaving in the same mischievous or deceitful way as before; repeating one's usual bad or annoying behavior",
+        "ptDefinition": "agindo da mesma forma travessa ou enganosa de antes; repetindo o comportamento ruim ou irritante de costume",
+        "examples": [
+          {
+            "enExample": "Don't trust him—he's up to his old tricks again.",
+            "ptExample": "Não confie nele — ele está aprontando de novo."
+          }
+        ],
+        "synonyms": ["misbehaving", "acting up", "being mischievous"],
+        "antonyms": ["behaving", "reformed"],
+        "seeAlso": ["fall back into old habits", "same old story"],
+        "notes": [
+          {
+            "enNote": "Often used when someone resumes a pattern of negative or mischievous behavior.",
+            "ptNote": "Frequentemente usado quando alguém retoma um padrão de comportamento negativo ou travesso."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "definitions": [
+      {
         "word": "have under one’s belt",
         "partOfSpeech": "idiom",
         "enDefinition": "to have achieved or experienced something, especially something that adds to one's experience or skills",
