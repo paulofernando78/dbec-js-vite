@@ -19,11 +19,7 @@
             "ptNote": "Frequentemente usado em lápides ou postagens nas redes sociais sobre alguém que faleceu."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "rip",
         "phonetics": "/rɪp/",
@@ -49,11 +45,7 @@
             "ptNote": "Também pode ser usada de forma figurada, como em 'rip someone off'."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "reap",
         "phonetics": "/riːp/",
@@ -70,8 +62,8 @@
             "ptExample": "Ela trabalhou duro e colheu as recompensas de sua dedicação."
           }
         ],
-        "synonyms": "harvest, collect, gain",
-        "antonyms": "sow, plant, invest",
+        "synonyms": ["harvest, collect, gain"],
+        "antonyms": ["sow, plant, invest"],
         "seeAlso": "reap the benefits",
         "notes": [
           {
@@ -79,11 +71,7 @@
             "ptNote": "Frequentemente usada de forma metafórica para falar sobre consequências das ações."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "be running behind",
         "partOfSpeech": "idiom",
@@ -142,11 +130,7 @@
             "ptNote": "Essa expressão é frequentemente usada para elogiar líderes eficazes e organizados, mas também pode sugerir excesso de rigor."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "rejuvenate",
         "phonetics": "/rɪˈdʒuːvəˌneɪt/",
@@ -172,11 +156,7 @@
             "ptNote": "Rejuvenescimento pode se referir tanto à renovação física quanto mental."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "R&R",
         "phonetics": "/ɑr ən ɑr/",
@@ -202,11 +182,7 @@
             "ptNote": "R&R é frequentemente usado para descrever uma pausa do trabalho ou atividades estressantes para rejuvenescer."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "reflective",
         "phonetics": "/rɪˈflɛktɪv/",
@@ -232,11 +208,7 @@
             "ptNote": "Materiais refletivos são frequentemente usados em equipamentos de segurança para aumentar a visibilidade."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "read",
         "phonetics": "/riːd/",
@@ -308,11 +280,7 @@
         "synonyms": ["calm", "at ease", "untroubled"],
         "antonyms": ["tense", "anxious", "stressed"],
         "seeAlso": ["calm", "peaceful", "serene"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "rally the troops",
         "partOfSpeech": "idiomatic expression",
@@ -346,11 +314,7 @@
             "ptNote": "'Rally the troops' é frequentemente usado de forma metafórica e está associado à liderança, especialmente na motivação de equipes ou grupos para superar adversidades e trabalhar em direção a um objetivo comum."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "rest on one's laurels",
         "partOfSpeech": "idiom",
@@ -380,11 +344,7 @@
             "ptNote": "Esta expressão é derivada da antiga tradição de premiar a vitória com uma coroa de louros, mas tem uma conotação negativa quando usada no contexto moderno."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "roll up one's sleeves",
         "partOfSpeech": "idiom",
@@ -409,11 +369,7 @@
             "ptNote": "Essa expressão é frequentemente usada para descrever alguém que está pronto para trabalhar duro ou assumir uma tarefa desafiadora."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "record-breaking",
         "phonetics": "/ˈrɛkɔːd ˌbreɪkɪŋ/",
@@ -440,11 +396,7 @@
             "ptNote": "Este termo é frequentemente usado em esportes, entretenimento e outros campos onde conquistas excepcionais são celebradas."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "real dog",
         "partOfSpeech": "idiom",
@@ -458,11 +410,7 @@
         ],
         "synonyms": ["flop", "dud", "failure"],
         "antonyms": ["hit", "success"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "reality check",
         "partOfSpeech": "noun",
@@ -486,11 +434,7 @@
             "ptNote": "Esta expressão é frequentemente usada para descrever momentos de clareza ou percepção, especialmente quando a percepção de alguém está distante da realidade."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "run with an idea",
         "partOfSpeech": "idiom",
@@ -508,11 +452,7 @@
         ],
         "synonyms": ["develop", "pursue", "follow through", "act on"],
         "antonyms": ["abandon", "discard", "ignore", "dismiss"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "record-breaking",
         "phonetics": "ˈrek.ɚd ˌbreɪkɪŋ",
@@ -542,11 +482,7 @@
             "ptNote": "Este termo é frequentemente usado para destacar conquistas extraordinárias em diversos campos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "redundancy",
         "phonetics": "/rɪˈdʌn.dən.si/",
@@ -565,11 +501,7 @@
         ],
         "synonyms": ["repetition"],
         "antonyms": ["lack", "need", "want"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "rip off",
         "partOfSpeech": "idiom",
@@ -581,11 +513,7 @@
             "ptExample": "Por que a Donox Company nunca tem ideias originais? Tudo o que eles fazem é copiar seus concorrentes!"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "run in place",
         "partOfSpeech": "idiom",
@@ -603,11 +531,7 @@
         ],
         "synonyms": ["stagnate", "make no progress", "go in circles"],
         "antonyms": ["advance", "move forward", "progress"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "run the numbers",
         "partOfSpeech": "idiom",

@@ -16,8 +16,8 @@
             "ptExample": "Ele disse que não comeu o bolo? Sei... bem provável!"
           }
         ],
-        "synonyms": "yeah, right; sure thing (sarcastic)",
-        "antonyms": "I believe you, sounds legit",
+        "synonyms": ["yeah, right; sure thing (sarcastic)"],
+        "antonyms": ["I believe you, sounds legit"],
         "seeAlso": "pulling my leg, sounds fishy",
         "notes": [
           {
@@ -25,11 +25,7 @@
             "ptNote": "Usado de forma sarcástica para mostrar dúvida ou descrença."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "look at oneself in the mirror",
         "partOfSpeech": "idiom",
@@ -45,8 +41,8 @@
             "ptExample": "Ela precisava se olhar no espelho e reconhecer seus erros."
           }
         ],
-        "synonyms": "self-reflect, introspect, examine oneself",
-        "antonyms": "ignore, avoid self-reflection",
+        "synonyms": ["self-reflect, introspect, examine oneself"],
+        "antonyms": ["ignore, avoid self-reflection"],
         "seeAlso": "self-awareness, introspection",
         "notes": [
           {
@@ -54,11 +50,7 @@
             "ptNote": "Frequentemente usada para incentivar autoexame e responsabilidade pessoal."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "out of the loop",
         "phonetics": "",
@@ -84,11 +76,7 @@
             "ptNote": "Comumente usado em ambientes de trabalho ou grupos para descrever alguém que não está atualizado ou incluído na comunicação."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "last straw",
         "phonetics": "/læst strɔː/",
@@ -114,11 +102,7 @@
             "ptNote": "Frequentemente usada na expressão 'a gota d'água' para indicar o último problema que faz alguém perder a paciência."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "leniency",
         "phonetics": "/ˈliːniənsi/",
@@ -150,11 +134,7 @@
             "ptNote": "A leniência é frequentemente discutida em contextos legais ou disciplinares, referindo-se a uma decisão de ser menos severo do que o normal."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "let's agree to disagree",
         "partOfSpeech": "idiom",
@@ -178,11 +158,7 @@
             "ptNote": "Esta frase é usada para manter o respeito e a civilidade quando duas partes têm visões irreconciliáveis"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "last resort",
         "partOfSpeech": "noun phrase",
@@ -206,11 +182,7 @@
             "ptNote": "A frase implica que esta opção só deve ser considerada quando todas as outras possibilidades foram esgotadas"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "Louvre",
         "enDefinition": "the world's largest art museum located in Paris, France, housed in a historic palace and home to many famous works including the Mona Lisa",
@@ -221,21 +193,21 @@
             "ptNote": "Originalmente construído como uma fortaleza no século XII, posteriormente serviu como residência real antes de se tornar um museu em 1793."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "look",
-        "phonetics": "lʊk",
+        "phonetics": "/lʊk/",
         "partOfSpeech": "verb",
-        "enDefinition": "to direct your eyes in order to see; to appear to be something",
-        "ptDefinition": "olhar",
+        "enDefinition": "to direct your eyes in order to see",
+        "ptDefinition": "direcionar os olhos para ver",
         "examples": [
           {
             "enExample": "Look at that beautiful sunset!",
             "ptExample": "Olhe aquele lindo pôr do sol!"
+          },
+          {
+            "enExample": "She looked out the window and saw it was snowing.",
+            "ptExample": "Ela olhou pela janela e viu que estava nevando."
           }
         ],
         "synonyms": [
@@ -247,33 +219,61 @@
           "glance",
           "peer",
           "inspect",
-          "scrutinize"
+          "view"
         ],
-        "antonyms": ["be blind", "ignore", "overlook"]
+        "antonyms": ["ignore", "overlook", "be blind to"],
+        "notes": [
+          {
+            "enNote": "Often followed by prepositions like 'at', 'into', 'through'.",
+            "ptNote": "Frequentemente seguido de preposições como 'at', 'into', 'through'."
+          }
+        ]
       },
       {
-        "enDefinition": "to appear to be something",
-        "ptDefinition": "parecer",
+        "word": "look",
+        "phonetics": "/lʊk/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to appear or seem to be something based on visual impression",
+        "ptDefinition": "parecer ser algo com base na aparência",
         "examples": [
           {
             "enExample": "You look tired today.",
             "ptExample": "Você parece cansado hoje."
+          },
+          {
+            "enExample": "That soup looks delicious.",
+            "ptExample": "Essa sopa parece deliciosa."
           }
         ],
-        "synonyms": ["appear", "seem", "sound", "feel", "come across as"],
-        "antonyms": ["be", "act", "sound like", "feel like"],
-        "seeAlso": ["seem"],
+        "synonyms": ["seem", "appear", "come across as", "sound", "feel"],
+        "antonyms": [],
         "notes": [
           {
-            "enNote": "look vs. seem: 'Look' is often used for visual appearances, while 'seem' is used for impressions that may not be visual",
-            "ptNote": "'Look' é baseado na aparência (He looks happy today), enquanto 'seem' é na opinião (It seems like... Parece que...)."
+            "enNote": "'Look' in this sense is used to describe someone's or something's appearance.",
+            "ptNote": "'Look', nesse sentido, é usado para descrever a aparência de alguém ou algo."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
+      {
+        "word": "look",
+        "phonetics": "/lʊk/",
+        "partOfSpeech": "noun",
+        "enDefinition": "an act of directing one's gaze in a particular direction",
+        "ptDefinition": "ato de direcionar o olhar para uma direção específica",
+        "examples": [
+          {
+            "enExample": "He gave me a strange look.",
+            "ptExample": "Ele me lançou um olhar estranho."
+          },
+          {
+            "enExample": "She has a unique look.",
+            "ptExample": "Ela tem um visual único."
+          }
+        ],
+        "synonyms": ["glance", "gaze", "stare", "appearance", "expression"],
+        "antonyms": [],
+        "seeAlso": "get a look, take a look"
+      },
       {
         "word": "let down",
         "phonetics": "/let daʊn/",
@@ -298,11 +298,7 @@
             "ptNote": "Este verbo frasal é frequentemente usado quando alguém não atende às expectativas ou cumpre uma promessa."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "live to regret this decision",
         "partOfSpeech": "idiom",
@@ -320,11 +316,7 @@
         ],
         "synonyms": ["regret later", "feel sorry", "pay the price"],
         "antonyms": ["make the right choice", "have no regrets", "be satisfied"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "leapfrog one's competitors",
         "partOfSpeech": "idiom",

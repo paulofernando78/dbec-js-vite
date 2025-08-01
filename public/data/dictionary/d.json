@@ -16,8 +16,8 @@
             "ptExample": "Em um mundo cruel e competitivo, você precisa estar sempre atento."
           }
         ],
-        "synonyms": "cutthroat, ruthless, competitive",
-        "antonyms": "cooperative, friendly, supportive",
+        "synonyms": ["cutthroat, ruthless, competitive"],
+        "antonyms": ["cooperative, friendly, supportive"],
         "seeAlso": "survival of the fittest, ruthless competition",
         "notes": [
           {
@@ -25,11 +25,7 @@
             "ptNote": "Frequentemente usada para descrever ambientes competitivos e agressivos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "on the dot",
         "partOfSpeech": "idiom",
@@ -54,12 +50,8 @@
             "ptNote": "Comumente usado para enfatizar pontualidade ou exatidão no horário."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
-      {
+      },
+       {
         "word": "don’t waste your breath",
         "partOfSpeech": "idiom",
         "enDefinition": "used to tell someone not to bother trying to persuade or explain something to someone else because it will have no effect",
@@ -83,11 +75,7 @@
             "ptNote": "Este idiom é frequentemente usado quando alguém sente que seus esforços de comunicação serão ignorados."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "dump someone",
         "phonetics": "/dʌmp ˈsʌmwʌn/",
@@ -113,11 +101,7 @@
             "ptNote": "Esta expressão é informal e geralmente usada quando o término é repentino ou unilateral."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "dire",
         "phonetics": "/daɪər/",
@@ -143,12 +127,8 @@
             "ptNote": "Frequentemente usado para enfatizar a extrema gravidade de uma situação"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
-      {
+      },
+       {
         "word": "Dream on!",
         "phonetics": "",
         "partOfSpeech": "idiom",
@@ -173,11 +153,7 @@
             "ptNote": "Este idiom é frequentemente usado de maneira sarcástica ou desdenhosa."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "drop the ball",
         "partOfSpeech": "idiom",
@@ -202,11 +178,7 @@
             "ptNote": "Este idiom é frequentemente usado para descrever uma falha em atender expectativas ou responsabilidades."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "dot your i's and cross your t's",
         "phonetics": "",
@@ -232,12 +204,8 @@
             "ptNote": "Este idiom é frequentemente usado para enfatizar a importância da atenção aos detalhes nas tarefas."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
-      {
+      },
+       {
         "word": "determine",
         "phonetics": "/dɪˈtɜːrmɪn/",
         "partOfSpeech": "verb",
@@ -262,11 +230,7 @@
             "ptNote": "A palavra 'determinar' também pode implicar um forte senso de resolução ou tomada de decisão."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "dozen",
         "phonetics": "/ˈdʌzən/",
@@ -292,11 +256,7 @@
             "ptNote": "O termo 'dúzia' é frequentemente usado para descrever uma quantidade de doze itens."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "disappointed",
         "phonetics": "/ˌdɪsəˈpɔɪntɪd/",
@@ -321,11 +281,7 @@
             "ptNote": "decepcionado(a): que sofreu uma decepção; desiludido(a) / desapontado(a): furstado(a) em seu objetivo ou em suas esperanças, envergonhado(a)"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "disappoint",
         "phonetics": "/ˌdɪsəˈpɔɪnt/",
@@ -347,11 +303,7 @@
             "ptNote": "A palavra 'decepcionar' é frequentemente usada quando alguém ou algo não atende às expectativas."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "deliver",
         "phonetics": "dɪˈlɪvər",
@@ -376,11 +328,7 @@
             "ptNote": "Em um sentido mais amplo, 'deliver' também pode significar realizar ou alcançar algo com sucesso, como fazer um discurso ou uma apresentação."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "drum up business",
         "phonetics": "/drʌm ʌp ˈbɪznəs/",
@@ -408,11 +356,7 @@
             "ptNote": "Esta expressão é comumente usada em contextos de negócios para descrever esforços voltados para atrair novos clientes ou consumidores."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "dud",
         "phonetics": "/dʌd/",
@@ -427,11 +371,7 @@
         ],
         "synonyms": ["failure", "flop", "bust"],
         "antonyms": ["success", "hit", "winner"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "do whatever it takes",
         "partOfSpeech": "idiom",
@@ -457,11 +397,7 @@
             "ptNote": "Esta expressão é frequentemente usada para transmitir um forte senso de determinação e comprometimento."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "deaf",
         "phonetics": "/def/",
@@ -487,11 +423,7 @@
             "ptNote": "O termo 'surdo' pode se referir a uma variedade de perdas auditivas, desde parcial até completa."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "deafness",
         "phonetics": "/'def.nəs/",
@@ -504,11 +436,7 @@
             "ptExample": "Such tumours occur in one of the nerves in the brain and can lead to deafness in one ear."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "deadliest",
         "phonetics": "/ˈded.liəst/",
@@ -532,11 +460,7 @@
             "ptExample": "A peste bubônica, ou Peste Negra, foi uma das pandemias mais mortais, matando cerca de 25 milhões de pessoas na Europa do século XIV."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "debris",
         "phonetics": "/dəˈbriː/",
@@ -550,11 +474,7 @@
           }
         ],
         "synonyms": ["detritus"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "dream up",
         "phonetics": "/driːm ʌp/",
@@ -573,11 +493,7 @@
         ],
         "synonyms": ["invent", "create", "conceive"],
         "antonyms": ["copy", "replicate", "imitate"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "delicious",
         "phonetics": "/dɪ'lɪʃ.əs/",
@@ -593,11 +509,7 @@
         "synonyms": ["tasty", "delectable"],
         "antonyms": ["unpalatable", "tasteless"],
         "seeAlso": ["scrumptious", "mouth-watering"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "dulce de leche",
         "phonetics": "/ˌdʌl.seɪ də ˈletʃ.eɪ/",

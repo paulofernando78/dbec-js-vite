@@ -12,8 +12,8 @@
             "ptExample": "Depois de meses de treino, ela está em excelente forma para a competição."
           }
         ],
-        "synonyms": "in great shape, very fit, in peak condition",
-        "antonyms": "out of shape, unfit, unhealthy",
+        "synonyms": ["in great shape, very fit, in peak condition"],
+        "antonyms": ["out of shape, unfit, unhealthy"],
         "seeAlso": "",
         "notes": [
           {
@@ -21,40 +21,7 @@
             "ptNote": "Essa é uma expressão informal frequentemente usada sobre saúde física ou preparo."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
-      {
-        "word": "take it easy",
-        "partOfSpeech": "idiom",
-        "enDefinition": "to relax and not stress or worry",
-        "ptDefinition": "relaxar e não ficar estressado ou preocupado",
-        "examples": [
-          {
-            "enExample": "After a long week, it’s important to take it easy on the weekend.",
-            "ptExample": "Depois de uma semana longa, é importante relaxar no fim de semana."
-          },
-          {
-            "enExample": "Take it easy and don’t rush the process.",
-            "ptExample": "Relaxe e não apresse o processo."
-          }
-        ],
-        "synonyms": "relax, chill out, calm down",
-        "antonyms": "stress out, hurry, rush",
-        "seeAlso": "chill out, calm down",
-        "notes": [
-          {
-            "enNote": "Common phrase encouraging relaxation.",
-            "ptNote": "Frase comum que incentiva o relaxamento."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "think twice",
         "partOfSpeech": "idiom",
@@ -70,14 +37,10 @@
             "ptExample": "Ele pensou duas vezes antes de investir todas as economias em um único lugar."
           }
         ],
-        "synonyms": "reconsider, pause, reflect",
-        "antonyms": "act impulsively, rush",
+        "synonyms": ["reconsider, pause, reflect"],
+        "antonyms": ["act impulsively, rush"],
         "seeAlso": "second thoughts, weigh the pros and cons"
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "talk behind someone's back",
         "partOfSpeech": "idiom",
@@ -93,8 +56,8 @@
             "ptExample": "Ela se sentiu traída quando descobriu que suas amigas falaram pelas costas dela."
           }
         ],
-        "synonyms": "gossip, badmouth, slander",
-        "antonyms": "speak openly, confront directly",
+        "synonyms": ["gossip, badmouth, slander"],
+        "antonyms": ["speak openly, confront directly"],
         "seeAlso": "stab in the back, two-faced",
         "notes": [
           {
@@ -102,25 +65,17 @@
             "ptNote": "Esse idiom é frequentemente usado para descrever traição ou deslealdade em relacionamentos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "talk about",
         "enDefinition": "that’s an example of...",
         "examples": [
           {
             "enExample": "Sharon told everybody that Carla was having an affair with her boss. Talk about spreading nasty rumors!",
-            "ptExample": "A Sharon contou para todo mundo que a Carla estava tendo um caso com o chefe dela. Fala sério, qu e jeito de espalhar boatos desagradáveis!"
+            "ptExample": "A Sharon contou para todo mundo que a Carla estava tendo um caso com o chefe dela. Fala sério, que jeito de espalhar boatos desagradáveis!"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "out of touch with reality",
         "partOfSpeech": "idiom",
@@ -154,11 +109,7 @@
             "ptNote": "Essa frase é frequentemente usada para descrever alguém que tem expectativas irreais ou não está alinhado com o mundo prático."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "on the right track",
         "partOfSpeech": "idiom",
@@ -180,11 +131,7 @@
           "on the correct path"
         ],
         "antonyms": ["going off course", "lost", "on the wrong track"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "on top of trends",
         "partOfSpeech": "idiom",
@@ -210,11 +157,7 @@
             "ptNote": "Este idiom é frequentemente usado em contextos profissionais ou criativos, onde estar atualizado é crucial para o sucesso."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "take the cake",
         "partOfSpeech": "idiom",
@@ -239,11 +182,7 @@
             "ptNote": "Este idiom é frequentemente usado para expressar surpresa ou irritação diante de algo que é o exemplo mais extremo ou absurdo."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "turn a blind eye to something",
         "partOfSpeech": "idiom",
@@ -268,11 +207,7 @@
             "ptNote": "Este idiom é frequentemente usado quando alguém escolhe não perceber ou lidar com um problema."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "the name of the game",
         "partOfSpeech": "idiom",
@@ -297,11 +232,7 @@
             "ptNote": "Este idiom enfatiza o que é mais essencial ou crucial em uma determinada situação."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "the lesser of two evils",
         "partOfSpeech": "idiom",
@@ -326,11 +257,7 @@
             "ptNote": "Este idiom é usado quando alguém deve escolher entre duas opções indesejáveis."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "track something down",
         "phonetics": "/træk ˈsʌmθɪŋ daʊn/",
@@ -356,11 +283,7 @@
             "ptNote": "Este phrasal verb é frequentemente usado quando a busca é desafiadora ou requer um esforço significativo."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "talk someone into something",
         "partOfSpeech": "idiom",
@@ -385,11 +308,7 @@
             "ptNote": "Este idiom é frequentemente usado quando alguém é convencido a fazer algo sobre o qual estava inicialmente hesitante."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "team player",
         "phonetics": "/tiːm ˈpleɪ.ɚ/",
@@ -415,11 +334,7 @@
             "ptNote": "Um jogador de equipe é frequentemente valorizado por sua capacidade de trabalhar harmoniosamente com os outros e contribuir para o sucesso do grupo."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "the issue at hand",
         "partOfSpeech": "idiom",
@@ -444,11 +359,7 @@
             "ptNote": "Este idiom é frequentemente usado para trazer a atenção de volta ao assunto principal da discussão."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "put it lightly",
         "partOfSpeech": "idiom",
@@ -473,11 +384,7 @@
             "ptNote": "Este idiom é frequentemente usado para enfatizar que a situação real é muito mais intensa ou séria do que descrita."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "the (definite article)",
         "phonetics": "/ðə, ðiː/",
@@ -502,11 +409,7 @@
             "ptNote": "O artigo definido 'the' é usado antes de substantivos singulares e plurais quando o substantivo é específico ou particular."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "thankful",
         "phonetics": "/ˈθæŋkfəl/",
@@ -532,11 +435,7 @@
             "ptNote": "Ser agradecido frequentemente envolve reconhecer e apreciar os aspectos positivos da vida."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "tire",
         "phonetics": "/taɪər/",
@@ -562,11 +461,7 @@
             "ptNote": "O verbo 'tire' é frequentemente usado para descrever o processo de se tornar fisicamente ou mentalmente exausto."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "thoughtful",
         "phonetics": "/ˈθɔːtfəl/",
@@ -594,8 +489,11 @@
         ]
       },
       {
-        "enDefinition": "Showing consideration for the needs of other people",
-        "ptDefinition": "Mostrando consideração pelas necessidades de outras pessoas; atencioso, cuidadoso",
+        "word": "thoughtful",
+        "phonetics": "/ˈθɔːt.fəl/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "Showing consideration for the needs of other people.",
+        "ptDefinition": "Mostrando consideração pelas necessidades de outras pessoas; atencioso, cuidadoso.",
         "examples": [
           {
             "enExample": "She gave a thoughtful gift to her friend.",
@@ -615,11 +513,7 @@
             "ptNote": "Ser atencioso frequentemente envolve empatia e compreensão dos sentimentos dos outros."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "tired",
         "phonetics": "/ˈtaɪərd/",
@@ -645,11 +539,7 @@
             "ptNote": "Sentir-se cansado pode ser resultado de esforço físico, falta de sono ou estresse mental."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "team spirit",
         "phonetics": "/tiːm ˈspɪrɪt/",
@@ -675,11 +565,7 @@
             "ptNote": "O espírito de equipe é frequentemente considerado um fator-chave para alcançar o sucesso dentro de equipes e organizações, pois incentiva a cooperação e o apoio mútuo."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "turn around one's business",
         "partOfSpeech": "idiom",
@@ -714,11 +600,7 @@
             "ptNote": "Essa expressão é comumente usada no mundo dos negócios quando uma empresa consegue superar dificuldades financeiras ou operacionais e retorna à rentabilidade ou ao sucesso."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "track record",
         "phonetics": "/træk ˈrɛkɔːd/",
@@ -750,11 +632,7 @@
             "ptNote": "Um bom histórico frequentemente é um fator chave na tomada de decisões para contratações, investimentos ou parcerias."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "throw in the towel",
         "partOfSpeech": "idiomatic expression",
@@ -779,11 +657,7 @@
             "ptNote": "Essa expressão se originou no boxe, onde o treinador jogava uma toalha no ringue para parar a luta, sinalizando a derrota."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "take a crack at something",
         "partOfSpeech": "idiom",
@@ -808,11 +682,7 @@
             "ptNote": "Essa frase é frequentemente usada em contextos informais, enfatizando o ato de fazer um esforço ou tentativa, geralmente sem certeza de sucesso."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "the best of both worlds",
         "partOfSpeech": "idiom",
@@ -840,11 +710,7 @@
             "ptNote": "Este idiom é usado para descrever uma situação em que alguém se beneficia de duas coisas diferentes sem precisar abrir mão de nenhuma delas."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "test the waters",
         "partOfSpeech": "idiom",
@@ -862,11 +728,7 @@
         ],
         "synonyms": ["try out", "dip a toe in", "sample"],
         "antonyms": ["commit", "dive in", "jump in"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "tough call",
         "partOfSpeech": "idiom",
@@ -884,11 +746,7 @@
         ],
         "synonyms": ["difficult decision", "hard choice", "close call"],
         "antonyms": ["easy decision", "clear choice", "no-brainer"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "think outside the box",
         "partOfSpeech": "idiom",
@@ -906,11 +764,7 @@
         ],
         "synonyms": ["be creative", "innovate", "think differently"],
         "antonyms": ["follow the norm", "be conventional", "stick to tradition"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "through the roof",
         "partOfSpeech": "idiom",
@@ -936,11 +790,7 @@
             "ptNote": "Esta expressão é frequentemente usada para descrever aumentos acentuados em preços, emoções ou demanda."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "twenty-four seven (24/7)",
         "partOfSpeech": "idiom",
@@ -958,11 +808,7 @@
         ],
         "synonyms": ["around the clock", "all day every day", "nonstop"],
         "antonyms": ["limited hours", "part-time", "closed"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "touch base with someone",
         "partOfSpeech": "idiom",
@@ -980,11 +826,7 @@
         ],
         "synonyms": ["contact", "check in", "reach out", "communicate"],
         "antonyms": ["ignore", "avoid", "neglect"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "twist one's arm",
         "partOfSpeech": "idiom",
@@ -1002,11 +844,7 @@
         ],
         "synonyms": ["persuade", "pressure", "convince", "talk into"],
         "antonyms": ["dissuade", "discourage", "talk out of"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "throw cold water (on)",
         "partOfSpeech": "idiom",
@@ -1037,11 +875,7 @@
             "ptNote": "Embora seja importante ter cautela, críticas excessivas podem desestimular a inovação e a criatividade."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "tagline",
         "phonetics": "ˈtæɡˌlaɪn",
@@ -1069,11 +903,7 @@
             "ptNote": "Um \"slogan\" memorável desempenha um papel crucial em reforçar a mensagem de uma marca e criar conexões emocionais com os consumidores."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "think outside the box",
         "partOfSpeech": "idiom",
@@ -1092,11 +922,7 @@
           "stay conventional"
         ],
         "seeAlso": ["brainstorm", "blue-sky thinking"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "through the roof",
         "partOfSpeech": "idiom",
@@ -1121,11 +947,7 @@
             "ptNote": "Este idioma é comumente usado para descrever aumentos repentinos em preços, emoções ou demanda."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "to the letter",
         "partOfSpeech": "idiom",
@@ -1150,11 +972,7 @@
             "ptNote": "Essa frase é usada quando algo é feito com grande precisão ou quando as instruções são seguidas exatamente como dadas."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "to the tune of",
         "phonetics": "/tə ðə tuːn ʌv/",
@@ -1181,44 +999,25 @@
             "ptNote": "Este idiom é frequentemente usado para enfatizar a magnitude de algo, especialmente em contextos financeiros."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "track",
         "phonetics": "/træk/",
         "partOfSpeech": "noun",
-        "ptDefinition": "pista",
+        "ptDefinition": "pista, trilho; trilha; faixa (music); ",
         "examples": [
           {
             "enExample": "a horse track",
             "ptExample": "uma pista para cavalos"
-          }
-        ]
-      },
-      {
-        "ptDefinition": "trilho",
-        "examples": [
+          },
           {
             "enExample": "He stood on the railroad tracks.",
             "ptExample": "Ele ficou em pé nos trilhos da ferrovia."
-          }
-        ]
-      },
-      {
-        "ptDefinition": "trilha",
-        "examples": [
+          },
           {
             "enExample": "We hiked the track to the waterfall and back.",
             "ptExample": "Subimos a trilha até a cachoeira e voltamos."
-          }
-        ]
-      },
-      {
-        "ptDefinition": "faixa (music)",
-        "examples": [
+          },
           {
             "enExample": "The album includes four previously unreleased tracks.",
             "ptExample": "O álbum inclui quatro faixas inéditas."
@@ -1241,11 +1040,7 @@
             "ptExample": "É o trabalho dela acompanhar os preços de diferentes produtos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "translate",
         "phonetics": "/trænsˈleɪt/",

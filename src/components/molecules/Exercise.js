@@ -36,23 +36,23 @@ class Exercise extends HTMLElement {
         this._renderTitleDescription(section.title, section.description);
       }
 
+      if (section.texts) {
+        this._renderTexts(section.texts);
+      }
+
       if (section.images) {
-        // console.log("Getting?:", section.images);
         this._renderImages(section.images);
       }
 
       if (section.radioExercises) {
-        // console.log("Recebido?:", section.radioExercises);
         this._renderRadioExercises(section.radioExercises, idx);
       }
 
       if (section.checkboxExercises) {
-        // console.log("Recebido?:", section.checkboxExercises);
         this._renderCheckboxExercises(section.checkboxExercises, idx);
       }
 
       if (section.dropdownExercises) {
-        // console.log("Recebido?:", section.dropdownExercises);
         this._renderDropdownExercises(section.dropdownExercises, idx);
       }
 
@@ -84,6 +84,36 @@ class Exercise extends HTMLElement {
     this.exerciseContainer.appendChild(titleWrapper);
   }
 
+  // Texts
+  _renderTexts(texts) {
+    texts.forEach((textGroup) => {
+      const textContainer = document.createElement("div");
+      textContainer.style.width = "max-content";
+      textContainer.style.padding = "var(--padding)";
+      textContainer.style.border = "var(--border)";
+      textContainer.style.borderRadius = "var(--border-radius)";
+      textContainer.style.boxShadow = "var(--box-shadow)";
+
+      textGroup.blocks.forEach((block) => {
+        const p = document.createElement("p");
+
+        if (Array.isArray(block.block)) {
+          block.block.forEach((item) => {
+            if (item.text) {
+              const span = document.createElement("span");
+              span.textContent = item.text;
+              p.appendChild(span);
+            }
+          });
+        }
+
+        textContainer.appendChild(p);
+      });
+
+      this.exerciseContainer.appendChild(textContainer);
+    });
+  }
+
   // Images
   _renderImages(items) {
     const imageWrapper = document.createElement("div");
@@ -93,7 +123,7 @@ class Exercise extends HTMLElement {
       const images = document.createElement("wc-image");
       images.classList.add("image-wrapper");
       images.style.display = "flex";
-      images.data = item
+      images.data = item;
       imageWrapper.appendChild(images);
       // console.log("Rendering image:", images.data)
     });

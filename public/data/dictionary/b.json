@@ -2,6 +2,37 @@
   {
     "definitions": [
       {
+        "word": "began",
+        "phonetics": "/bɪˈɡæn/",
+        "partOfSpeech": "irregular verb (past of begin) ",
+        "examples": [
+          {
+            "enExample": "She began working at the company last year.",
+            "ptExample": "Ela começou a trabalhar na empresa no ano passado."
+          },
+          {
+            "enExample": "The movie began at exactly 8 p.m.",
+            "ptExample": "O filme começou exatamente às 20h."
+          }
+        ]
+      },
+      {
+        "word": "begin",
+        "phonetics": "/bɪˈɡɪn/",
+        "partOfSpeech": "verb (present tense)",
+        "enDefinition": "to start doing something",
+        "ptDefinition": "começar a fazer algo",
+        "examples": [
+          {
+            "enExample": "We will begin the meeting at 9 a.m.",
+            "ptExample": "Vamos começar a reunião às 9 da manhã."
+          }
+        ],
+        "synonyms": ["start, commence, initiate"],
+        "antonyms": ["end, finish, conclude"],
+        "seeAlso": "get started"
+      },
+      {
         "word": "I wasn’t born yesterday",
         "partOfSpeech": "idiom",
         "enDefinition": "used to say that you're not easily fooled because you're not naive or inexperienced",
@@ -16,8 +47,8 @@
             "ptExample": "Não tente me enganar – eu não nasci ontem."
           }
         ],
-        "synonyms": "I’m not stupid, I know what’s going on",
-        "antonyms": "naive, gullible",
+        "synonyms": ["I’m not stupid, I know what’s going on"],
+        "antonyms": ["naive, gullible"],
         "seeAlso": "pull the wool over someone’s eyes, fool me once",
         "notes": [
           {
@@ -25,11 +56,7 @@
             "ptNote": "Frequentemente dito com sarcasmo ou irritação quando alguém tenta enganar você."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "butter up",
         "phonetics": "ˈbʌtər ʌp",
@@ -46,8 +73,8 @@
             "ptExample": "Não me puxe o saco; apenas me diga a verdade."
           }
         ],
-        "synonyms": "flatter, ingratiate oneself, suck up to",
-        "antonyms": "criticize, offend, insult",
+        "synonyms": ["flatter, ingratiate oneself, suck up to"],
+        "antonyms": ["criticize, offend, insult"],
         "seeAlso": "brown-nose, kiss up, suck up",
         "notes": [
           {
@@ -55,15 +82,11 @@
             "ptNote": "Expressão informal frequentemente usada em conversas casuais."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "brownie points",
         "phonetics": "ˈbraʊni pɔɪnts",
-        "partOfSpeech": "noun phrase",
+        "partOfSpeech": "idiom",
         "enDefinition": "informal term referring to credit or approval earned for doing something good or helpful.",
         "ptDefinition": "termo informal que se refere a crédito ou aprovação conquistada por fazer algo bom ou útil",
         "examples": [
@@ -76,8 +99,8 @@
             "ptExample": "Ajudar nas tarefas de casa vai te render alguns pontos com seus pais."
           }
         ],
-        "synonyms": "credit, approval, recognition",
-        "antonyms": "disapproval, criticism",
+        "synonyms": ["credit, approval, recognition"],
+        "antonyms": ["disapproval, criticism"],
         "seeAlso": "kudos, praise, recognition",
         "notes": [
           {
@@ -85,11 +108,7 @@
             "ptNote": "Frequentemente usado de forma humorística para descrever recompensas informais por bom comportamento."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "not a bad guy",
         "partOfSpeech": "idiom",
@@ -114,11 +133,7 @@
             "ptNote": "Esta frase é frequentemente usada para defender ou desculpar alguém que pode ser mal compreendido ou julgado com severidade."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "push one’s buttons",
         "partOfSpeech": "idiom",
@@ -148,11 +163,7 @@
             "ptNote": "Este idiom é frequentemente usado quando alguém tenta intencionalmente provocar uma reação, especialmente negativa, em outra pessoa."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "on board",
         "phonetics": "/ɒn bɔːrd/",
@@ -178,11 +189,7 @@
             "ptNote": "'On board' é frequentemente usado em ambientes de negócios e equipes para descrever o acordo ou disposição de alguém em participar de um plano ou projeto."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "burn one's bridges",
         "partOfSpeech": "idiom",
@@ -211,11 +218,7 @@
             "ptNote": "Este idiom vem da prática militar de queimar pontes após atravessá-las para impedir a retirada."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "bat around some ideas",
         "partOfSpeech": "idiom",
@@ -240,11 +243,7 @@
             "ptNote": "Esta frase informal sugere uma discussão casual e colaborativa de possibilidades sem tomar decisões imediatas."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "between a rock and a hard place",
         "partOfSpeech": "idiom",
@@ -269,11 +268,7 @@
             "ptNote": "Este idioma enfatiza estar enfrentando duas alternativas igualmente indesejáveis sem nenhum resultado bom."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "belt-tightening",
         "phonetics": "/ˈbelt ˌtaɪtnɪŋ/",
@@ -299,11 +294,7 @@
             "ptNote": "Esta expressão metafórica vem do ato de apertar o cinto ao perder peso, sugerindo ter que se contentar com menos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "bottom line",
         "partOfSpeech": "idiom",
@@ -328,11 +319,7 @@
             "ptNote": "Esta frase originou-se da contabilidade, onde a linha inferior refere-se à última linha de uma demonstração financeira mostrando o lucro ou prejuízo líquido."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "burn the midnight oil",
         "partOfSpeech": "idiom",
@@ -357,11 +344,7 @@
             "ptNote": "Este idiom se origina da época em que lâmpadas a óleo eram usadas para iluminação, e trabalhar até tarde da noite exigia queimar mais óleo."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "bitter pill to swallow",
         "partOfSpeech": "idiom",
@@ -386,11 +369,7 @@
             "ptNote": "Este idiom é frequentemente usado para descrever situações em que a aceitação é necessária apesar da dificuldade."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "blow things out of proportion",
         "partOfSpeech": "idiom",
@@ -415,11 +394,7 @@
             "ptNote": "Este idiom é frequentemente usado para descrever situações em que alguém reage de forma excessiva a um problema relativamente menor."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "big",
         "phonetics": "/bɪɡ/",
@@ -445,11 +420,7 @@
             "ptNote": "A palavra 'grande' pode descrever o tamanho físico, bem como conceitos abstratos como sonhos ou ideias."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "bore",
         "phonetics": "/bɔːr/",
@@ -521,11 +492,7 @@
             "ptNote": "Algo que é chato não consegue prender a atenção ou interesse."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "bigwig",
         "phonetics": "/ˈbɪɡwɪɡ/",
@@ -556,11 +523,7 @@
             "ptNote": "Esse termo originalmente se referia às perucas elaboradas usadas por indivíduos de alta posição no passado, simbolizando seu status."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "bite the bullet",
         "partOfSpeech": "idiom",
@@ -586,11 +549,7 @@
             "ptNote": "Foi sugerido que esta expressão tem origem histórica na prática de fazer com que o paciente mordesse uma bala com os dentes como uma forma de lidar com a dor de um procedimento cirúrgico sem anestesia."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "beef up",
         "phonetics": "/biːf ʌp/",
@@ -617,11 +576,7 @@
             "ptNote": "A expressão pode ser aplicada a várias situações, desde segurança até marketing ou até treinamento físico."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "back-of-the-envelope calculations",
         "partOfSpeech": "idiom",
@@ -636,11 +591,7 @@
         "synonyms": ["rough estimate", "quick calculation"],
         "antonyms": ["detailed analysis", "precise calculation"],
         "seeAlso": ["ballpark figure", "guesstimate"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "back and forth on an issue",
         "partOfSpeech": "idiom",
@@ -666,11 +617,7 @@
             "ptNote": "Este idiom é frequentemente usado para descrever discussões, debates ou movimentos que são repetitivos ou que mudam constantemente entre dois pontos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "bells and whistles",
         "partOfSpeech": "idiom",
@@ -682,11 +629,7 @@
             "ptExample": "Nosso escritório acaba de receber uma nova copiadora com todos os acessórios. Provavelmente nunca aprenderei como usar todos os seus recursos!"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "big win",
         "partOfSpeech": "idiom",
@@ -698,11 +641,7 @@
             "ptExample": "A empresa farmacêutica gastou milhões em pesquisa e desenvolvimento, esperando que um de seus novos produtos fosse um grande sucesso."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "bring a product to the market",
         "partOfSpeech": "idiom",
@@ -728,11 +667,7 @@
             "ptNote": "Esta expressão é comumente usada em contextos de negócios e desenvolvimento de produtos para descrever o processo de disponibilizar um produto para os consumidores."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "bladder",
         "phonetics": "/ˈblæd.ɚ/",
@@ -743,11 +678,7 @@
       {
         "word": "bladder stones",
         "ptDefinition": "cálculos na bexiga"
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "blockbuster",
         "partOfSpeech": "idiom",
@@ -767,11 +698,7 @@
             "ptNote": "Este termo vem das bombas \"blockbuster\" usadas durante a Segunda Guerra Mundial pela Força Aérea Real Britânica. Elas eram enormes e criavam uma força explosiva. Ideias \"blockbuster\", de forma similar, criam um grande impacto — e esperançosamente não causam destruição como as bombas blockbuster!"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "blow one's mind",
         "partOfSpeech": "idiom",
@@ -790,11 +717,7 @@
         "synonyms": ["amaze", "astonish", "overwhelm"],
         "antonyms": ["bore", "disappoint", "underwhelm"],
         "seeAlso": ["leave speechless", "take one's breath away"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "break even",
         "partOfSpeech": "idiom",

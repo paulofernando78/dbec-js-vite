@@ -16,8 +16,8 @@
             "ptExample": "Na política, algumas pessoas agem apenas em benefício próprio."
           }
         ],
-        "synonyms": "selfish, self-centered, egotistic",
-        "antonyms": "selfless, altruistic, considerate",
+        "synonyms": ["selfish, self-centered, egotistic"],
+        "antonyms": ["selfless, altruistic, considerate"],
         "seeAlso": "look out for number one, put oneself first",
         "notes": [
           {
@@ -25,11 +25,7 @@
             "ptNote": "Frequentemente usada para descrever comportamento egoísta ou interesseiro."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "open",
         "phonetics": "/ˈoʊ.pən/",
@@ -107,11 +103,7 @@
             "ptNote": "Frequentemente associado a ambientes ao ar livre ou irrestritos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "outage",
         "phonetics": "/ˈaʊ.t̬ɪdʒ/",

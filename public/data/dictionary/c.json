@@ -21,8 +21,8 @@
             "ptExample": "Ela não pode se dar ao luxo de perder este cliente."
           }
         ],
-        "synonyms": "not have enough money, be unable to pay",
-        "antonyms": "afford, be able to pay",
+        "synonyms": ["not have enough money, be unable to pay"],
+        "antonyms": ["afford, be able to pay"],
         "seeAlso": "budget, financial planning",
         "notes": [
           {
@@ -30,11 +30,7 @@
             "ptNote": "Usado comumente para falar sobre limitações financeiras."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "call in sick",
         "phonetics": "kɔːl ɪn sɪk",
@@ -51,8 +47,8 @@
             "ptExample": "Ela avisou que estava doente e ficou em casa o dia todo."
           }
         ],
-        "synonyms": "report sick, take a sick day",
-        "antonyms": "go to work, be present",
+        "synonyms": ["report sick, take a sick day"],
+        "antonyms": ["go to work, be present"],
         "seeAlso": "call off, sick leave",
         "notes": [
           {
@@ -60,11 +56,7 @@
             "ptNote": "Comumente usado em contextos de trabalho quando alguém não pode comparecer por doença."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "crunch time",
         "partOfSpeech": "idiom",
@@ -80,8 +72,8 @@
             "ptExample": "Durante o período de pressão, é importante manter o foco e evitar distrações."
           }
         ],
-        "synonyms": "deadline pressure, critical moment, crunch",
-        "antonyms": "leisure time, downtime, relaxed period",
+        "synonyms": ["deadline pressure, critical moment, crunch"],
+        "antonyms": ["leisure time, downtime, relaxed period"],
         "seeAlso": "high pressure, last minute",
         "notes": [
           {
@@ -89,11 +81,7 @@
             "ptNote": "Comumente usado em contextos de negócios e gerenciamento de projetos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "I don’t know whether I’m coming or going",
         "partOfSpeech": "idiom / expression",
@@ -109,8 +97,8 @@
             "ptExample": "Depois de se mudar para uma nova cidade e começar um novo emprego, ela não sabia se estava indo ou vindo."
           }
         ],
-        "synonyms": "confused, overwhelmed, lost",
-        "antonyms": "clear-headed, in control",
+        "synonyms": ["confused, overwhelmed, lost"],
+        "antonyms": ["clear-headed, in control"],
         "seeAlso": "all over the place, scatterbrained",
         "notes": [
           {
@@ -118,11 +106,7 @@
             "ptNote": "Geralmente dito com humor ou frustração quando alguém está sobrecarregado."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "chill out",
         "phonetics": "tʃɪl aʊt",
@@ -139,8 +123,8 @@
             "ptExample": "Vamos apenas relaxar e assistir a um filme."
           }
         ],
-        "synonyms": "relax, calm down, take it easy",
-        "antonyms": "stress out, freak out",
+        "synonyms": ["relax, calm down, take it easy"],
+        "antonyms": ["stress out, freak out"],
         "seeAlso": "take a breather, unwind",
         "notes": [
           {
@@ -148,11 +132,7 @@
             "ptNote": "Usado informalmente para dizer a alguém que se acalme."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "climb the corporate ladder",
         "partOfSpeech": "idiom",
@@ -168,8 +148,8 @@
             "ptExample": "Muitos funcionários aspiram subir rapidamente na hierarquia corporativa."
           }
         ],
-        "synonyms": "advance, get promoted, move up",
-        "antonyms": "stay stagnant, be demoted",
+        "synonyms": ["advance, get promoted, move up"],
+        "antonyms": ["stay stagnant, be demoted"],
         "seeAlso": "get ahead, move up, promotion",
         "notes": [
           {
@@ -177,11 +157,7 @@
             "ptNote": "Usada para descrever progressão na carreira em ambientes corporativos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "have a chip on one’s shoulder",
         "phonetics": "hæv ə ʧɪp ɒn wʌnz ˈʃoʊldər",
@@ -198,8 +174,8 @@
             "ptExample": "Ela anda por aí como se estivesse com raiva do mundo, como se o mundo devesse algo a ela."
           }
         ],
-        "synonyms": "hold a grudge, be resentful, be defensive",
-        "antonyms": "let go, be forgiving, be at peace",
+        "synonyms": ["hold a grudge, be resentful, be defensive"],
+        "antonyms": ["let go, be forgiving, be at peace"],
         "seeAlso": "grudge, resentment, touchy",
         "notes": [
           {
@@ -207,11 +183,7 @@
             "ptNote": "Essa expressão é usada para descrever alguém que se ofende facilmente por mágoas passadas."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "a far cry from",
         "partOfSpeech": "idiom",
@@ -240,11 +212,7 @@
             "ptNote": "Esta expressão enfatiza um contraste marcante ou diferença significativa entre duas coisas."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "cut someone some slack",
         "partOfSpeech": "idiom",
@@ -269,11 +237,7 @@
             "ptNote": "Este idiom é frequentemente usado para pedir ou sugerir compreensão e tolerância em situações difíceis."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "cut back on",
         "phonetics": "/kʌt bæk ɒn/",
@@ -325,11 +289,7 @@
             "ptNote": "Esta frase é comumente usada em contextos de trabalho para descrever o registro formal das horas trabalhadas."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "clock up",
         "phonetics": "/klɑk ʌp/",
@@ -355,11 +315,7 @@
             "ptNote": "Frequentemente usado ao falar sobre tempo, distância ou conquistas acumuladas ao longo de um período."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "clockwise",
         "phonetics": "/ˈklɒkwaɪz/",
@@ -385,11 +341,7 @@
             "ptNote": "Frequentemente usado em instruções e descrições técnicas para especificar direção de rotação."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "convolute",
         "phonetics": "/kənˈvɑːluːt/",
@@ -415,11 +367,7 @@
             "ptNote": "Frequentemente usado para descrever algo que foi tornado desnecessariamente complicado ou difícil de entender."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "character",
         "phonetics": "/ˈkærɪktɚ/",
@@ -445,11 +393,7 @@
             "ptNote": "Na literatura e no cinema, os personagens são frequentemente desenvolvidos através de suas ações, diálogos e interações com outros personagens."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "character",
         "phonetics": "/ˈkærɪktɚ/",
@@ -475,11 +419,7 @@
             "ptNote": "O caráter é frequentemente julgado pela forma como uma pessoa se comporta em situações difíceis."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "cover oneself",
         "phonetics": "/ˈkʌvər wʌnˈsɛlf/",
@@ -505,11 +445,7 @@
             "ptNote": "Esta frase é frequentemente usada em contextos profissionais ou legais onde os indivíduos tomam medidas para evitar possíveis consequências negativas."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "come with the territory",
         "partOfSpeech": "idiom",
@@ -534,11 +470,7 @@
             "ptNote": "Este idiom é frequentemente usado para expressar que certos aspectos negativos são uma parte inerente de um trabalho ou situação."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "circle back to",
         "phonetics": "/ˈsɜːr.kəl bæk tuː/",
@@ -564,11 +496,7 @@
             "ptNote": "Esta frase é frequentemente usada em ambientes de negócios ou formais para indicar a necessidade de revisitar um tópico que foi discutido anteriormente."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "company offsite",
         "phonetics": "/ˈkʌm.pə.ni ˈɔːf.saɪt/",
@@ -594,11 +522,7 @@
             "ptNote": "Eventos fora da empresa são frequentemente usados para promover a colaboração e a inovação entre os funcionários."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "cover a lot of ground",
         "partOfSpeech": "idiom",
@@ -627,11 +551,7 @@
             "ptNote": "Este idiom é frequentemente usado em contextos onde uma discussão, apresentação ou trabalho inclui uma ampla gama de informações ou tópicos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "crazy",
         "phonetics": "/ˈkreɪ.zi/",
@@ -657,11 +577,7 @@
             "ptNote": "O termo 'louco' pode ser considerado ofensivo quando se refere à saúde mental de alguém."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "calm",
         "phonetics": "/kɑːm/",
@@ -687,11 +603,7 @@
             "ptNote": "Estar calmo pode ajudar a tomar decisões racionais durante situações estressantes."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "count me in",
         "phonetics": "/kaʊnt mi ɪn/",
@@ -716,11 +628,7 @@
             "ptNote": "'Count me in' é uma maneira casual e informal de expressar que você tem interesse em se juntar ou participar de uma atividade."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "call it quits",
         "partOfSpeech": "idiomatic expression",
@@ -745,11 +653,7 @@
             "ptNote": "Essa expressão é frequentemente usada quando alguém decide parar uma atividade ou tarefa, geralmente porque não está mais sendo produtiva ou agradável."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "come",
         "phonetics": "/kʌm/",
@@ -775,11 +679,7 @@
             "ptNote": "Frequentemente usado em verbos frasais, como 'come up' ou 'come over'."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "can",
         "phonetics": "/kæn/",
@@ -801,6 +701,8 @@
         "seeAlso": ["could", "may", "might"]
       },
       {
+        "word": "can",
+        "phonetics": "/kæn/",
         "partOfSpeech": "noun",
         "enDefinition": "a cylindrical metal container used for storing food or liquids",
         "ptDefinition": "um recipiente cilíndrico de metal usado para armazenar alimentos ou líquidos",
@@ -821,11 +723,7 @@
             "ptNote": "Comumente usado para armazenar bebidas ou alimentos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "child's play",
         "phonetics": "/ʧaɪldz pleɪ/",
@@ -851,11 +749,7 @@
             "ptNote": "Essa expressão é frequentemente usada para descrever tarefas ou problemas tão simples que parecem quase triviais."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "can-do attitude",
         "phonetics": "/ˈkæn duː ˈætɪtjuːd/",
@@ -886,11 +780,7 @@
             "ptNote": "Essa expressão é frequentemente usada para descrever alguém que enfrenta desafios com entusiasmo e disposição para superar obstáculos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "cash cow",
         "phonetics": "kæʃ kaʊ",
@@ -917,11 +807,7 @@
             "enNote": "O termo \"cash cow\" é frequentemente usado nos negócios para se referir a uma fonte confiável e lucrativa de renda."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "cutting-edge",
         "phonetics": "ˈkʌtɪŋ ɛdʒ",
@@ -940,11 +826,7 @@
         ],
         "synonyms": ["state-of-the-art", "pioneering", "innovative"],
         "antonyms": ["outdated", "obsolete", "traditional"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "cutting it (a little) close",
         "partOfSpeech": "idiom",
@@ -970,11 +852,7 @@
             "ptNote": "Esta expressão é frequentemente usada em situações envolvendo gerenciamento de tempo ou prazos apertados."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "calorie",
         "phonetics": "/ˈkæl.ɚ.i/",
@@ -988,11 +866,7 @@
           }
         ],
         "synonyms": ["kilocalorie", "energy unit"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "capital flight",
         "partOfSpeech": "noun",
@@ -1004,11 +878,7 @@
             "ptExample": "Como pode haver uma fuga de capitais em alta e o mercado em queda quando, na superfície, as coisas parecem tão boas?"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "carry",
         "phonetics": "/ˈker.i/",
@@ -1042,11 +912,7 @@
         ],
         "synonyms": ["perform", "execute", "accomplish"],
         "antonyms": ["fail", "abandon", "halt", "ignore, miss"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "cash in on",
         "phonetics": "/kæʃ ɪn ɑn/",
@@ -1065,11 +931,7 @@
         ],
         "synonyms": ["capitalize on", "profit from", "take advantage of"],
         "antonyms": ["miss an opportunity", "overlook, ignore"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "characteristic",
         "phonetics": "/ˌker.ək.təˈrɪs.tɪk/",
@@ -1081,14 +943,10 @@
             "ptExample": "O macho desse pássaro apresenta várias características que o distinguem da fêmea."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "chimpanzee",
-        "phonetics": "/ˌtʃɪm.pænˈziːz/",
+        "phonetics": "/ˌtʃɪm.pænˈziː/",
         "partOfSpeech": "noun",
         "ptDefinition": "chimpanzé",
         "examples": [
@@ -1097,11 +955,7 @@
             "ptExample": "Os chimpanzés são conhecidos por sua habilidade de usar ferramentas, como gravetos para extrair cupins de buracos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "clean house",
         "partOfSpeech": "idiom",
@@ -1127,11 +981,7 @@
             "ptNote": "Este idiom é frequentemente usado em contextos profissionais ou organizacionais, referindo-se a fazer mudanças significativas para melhorar o desempenho."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "compel",
         "phonetics": "/kəmˈpel/",
@@ -1159,11 +1009,7 @@
             "ptExample": "evidência convincente"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "come up with a winner",
         "partOfSpeech": "idiom",
@@ -1175,11 +1021,7 @@
             "ptExample": "Todo mundo gosta da nova campanha publicitária da Pepsi. A agência de publicidade deles criou um sucesso."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "customer",
         "phonetics": "/ˈkʌs.tə.mɚ/",
@@ -1192,11 +1034,7 @@
             "ptExample": "A Sra. Wilson é uma de nossas clientes regulares."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "crunch the numbers",
         "partOfSpeech": "idiom",

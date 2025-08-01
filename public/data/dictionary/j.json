@@ -21,49 +21,29 @@
             "ptNote": "Este idiom vem das corridas de atletismo, onde começar antes do tiro resulta em uma largada falsa."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "junk",
         "phonetics": "/dʒʌŋk/",
         "partOfSpeech": "noun",
         "enDefinition": "things that are considered to be of no use or value, or of low quality",
-        "ptDefinition": "tralhas, trastes",
+        "ptDefinition": "tralhas, trastes; lixo; besteira, porcaria",
         "examples": [
           {
             "enExample": "We ought to clear out this cupboard - it's full of junk.",
             "ptExample": "Temos que limpar este armário, está cheio de tralha."
-          }
-        ]
-      },
-      {
-        "enDefinition": "objects that have been thrown out or are considered useless",
-        "ptDefinition": "lixo",
-        "examples": [
+          },
           {
             "enExample": "There are too much junk in his room.",
             "ptExample": "Tem muito lixo no quarto dele"
-          }
-        ],
-        "synonyms": ["trash"]
-      },
-      {
-        "enDefinition": "something of low quality or value",
-        "ptDefinition": "besteira, porcaria",
-        "examples": [
+          },
           {
             "enExample": "I can't stand watching the junk that's on TV these days.",
             "ptExample": "Eu não suporto assistir as porcarias que estão passando na TV hoje em dia."
           }
-        ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+        ],
+        "synonyms": ["trash"]
+      },
       {
         "word": "(just) for the record",
         "partOfSpeech": "idiom",

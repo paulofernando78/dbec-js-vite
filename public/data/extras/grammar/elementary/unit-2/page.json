@@ -880,6 +880,432 @@
           ]
         }
       ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "homework",
+        "label": "Exercises"
+      }
+    },
+    {
+      "exercises": [
+        {
+          "title": "2.1 Find the right answers for the questions. Use the letters below.",
+          "description": "Description"
+        },
+        {
+          "texts": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "A • Toronto."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "B • No, I’m not"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "C • Yes, you are."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "D • My sister."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "E • Black."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "F • No, it’s black."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "G • In your bag."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "H • No, she’s American."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "I • Fine / Good."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. Where’s the camera?",
+                      "placeholder": "G",
+                      "correctAnswer": ["g"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "2. Is your car blue?",
+                      "correctAnswer": ["f"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "3. Is Nicole from London?",
+                      "correctAnswer": ["h"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "4. Am I late?",
+                      "correctAnswer": ["c"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "5. Where’s Megan From?",
+                      "correctAnswer": ["a"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "6. What color is your bag?",
+                      "correctAnswer": ["e"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "7. Are you hungry?",
+                      "correctAnswer": ["b"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "8. How’s Christopher?",
+                      "correctAnswer": ["i"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "9. Who’s that woman?",
+                      "correctAnswer": [".e"]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2 ...",
+          "description": "Description"
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. ...",
+                      "placeholder": "...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "2. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "3. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "4. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "5. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "6. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "7. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "8. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "9. ...",
+                      "correctAnswer": ["..."],
+                      "afterBlank": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.3 ...",
+          "description": "Description"
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. ...",
+                      "placeholder": "...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "2. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "3. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "4. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "5. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "6. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "7. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "8. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "9. ...",
+                      "correctAnswer": ["..."],
+                      "afterBlank": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.4 ...",
+          "description": "Description"
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "1. ...",
+                      "placeholder": "...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "2. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "3. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "4. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "5. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "6. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "7. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "8. ...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "9. ...",
+                      "correctAnswer": ["..."],
+                      "afterBlank": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -2,6 +2,24 @@
   {
     "definitions": [
       {
+        "word": "ask out",
+        "phonetics": "/æsk aʊt/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to invite someone to go on a date",
+        "ptDefinition": "convidar alguém para sair em um encontro romântico",
+        "examples": [
+          {
+            "enExample": "He finally asked her out after weeks of hesitation.",
+            "ptExample": "Ele finalmente a convidou para sair depois de semanas de hesitação."
+          },
+          {
+            "enExample": "She was nervous when he asked her out to dinner.",
+            "ptExample": "Ela ficou nervosa quando ele a convidou para jantar."
+          }
+        ],
+        "synonyms": ["invite on a date"]
+      },
+      {
         "word": "according to the rumor mill",
         "partOfSpeech": "idiom",
         "enDefinition": "used to indicate that information is based on unofficial gossip or rumors rather than confirmed facts",
@@ -25,11 +43,7 @@
             "ptNote": "Esta expressão é frequentemente usada para introduzir informações que podem não ser confiáveis."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "allow",
         "phonetics": "/əˈlaʊ/",
@@ -38,7 +52,7 @@
         "ptDefinition": "permitir, deixar, autorizar que algo aconteça ou que alguém faça algo",
         "examples": [
           {
-            "enExample": "Smoking is not allowed in the building.", 
+            "enExample": "Smoking is not allowed in the building.",
             "ptExample": "Não é permitido fumar no prédio."
           },
           {
@@ -55,11 +69,7 @@
             "ptNote": "Allow é frequentemente seguido por um objeto e infinitivo (permitir que alguém faça algo)"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "all in a day's work",
         "partOfSpeech": "idiom",
@@ -84,11 +94,7 @@
             "ptNote": "Este idiom é frequentemente usado para minimizar a dificuldade ou importância de uma tarefa."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "around the clock",
         "partOfSpeech": "idiom",
@@ -113,11 +119,7 @@
             "ptNote": "Este idiom é frequentemente usado para enfatizar esforço ou atividade contínua."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "asleep at the wheel",
         "partOfSpeech": "idiom",
@@ -142,11 +144,7 @@
             "ptNote": "Este idiom é frequentemente usado para criticar alguém por não cumprir suas responsabilidades."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "ashamed",
         "phonetics": "/əˈʃeɪmd/",
@@ -172,11 +170,7 @@
             "ptNote": "Ashamed é frequentemente usado para descrever um sentimento de culpa ou vergonha sobre algo que alguém fez."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "afraid",
         "phonetics": "/əˈfreɪd/",
@@ -202,11 +196,7 @@
             "ptNote": "Afraid é frequentemente usado para descrever um estado temporário de medo."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "anxious",
         "phonetics": "/ˈæŋk.ʃəs/",
@@ -232,11 +222,7 @@
             "ptNote": "Ansioso pode descrever tanto um estado temporário de preocupação quanto uma condição mais crônica."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "ask for trouble",
         "partOfSpeech": "idiom",
@@ -261,11 +247,7 @@
             "ptNote": "Este idiom é frequentemente usado para avisar alguém de que suas ações podem levar a consequências negativas."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "agenda item",
         "phonetics": "/əˈdʒɛndə ˈaɪɾəm/",
@@ -291,11 +273,7 @@
             "ptNote": "Os itens da agenda geralmente são organizados por ordem de importância ou relevância para os objetivos da reunião."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "at a premium",
         "partOfSpeech": "idiom",
@@ -313,11 +291,7 @@
         ],
         "synonyms": ["expensive", "costly", "overpriced"],
         "antonyms": ["cheap", "affordable", "discounted"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "at the end of the day",
         "partOfSpeech": "idiom",
@@ -333,7 +307,11 @@
             "ptExample": "Podemos discordar de muitos pontos, mas no final das contas, estamos todos trabalhando para o mesmo objetivo."
           }
         ],
-        "synonyms": ["when all is said and done", "in the final analysis", "when the dust settles"],
+        "synonyms": [
+          "when all is said and done",
+          "in the final analysis",
+          "when the dust settles"
+        ],
         "antonyms": ["at the beginning", "in the early stages", "initially"],
         "notes": [
           {
@@ -341,11 +319,7 @@
             "ptNote": "Esta expressão é frequentemente usada para resumir ou concluir uma discussão, enfatizando o que é mais importante após considerar todos os aspectos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "aim",
         "phonetics": "/eɪm/",
@@ -359,13 +333,16 @@
             "ptExample": "Meu principal objetivo na vida é ser um bom marido e pai."
           }
         ],
-        "synonyms": ["goal", "ambition", "dream", "target", "intention", "wish"],
+        "synonyms": [
+          "goal",
+          "ambition",
+          "dream",
+          "target",
+          "intention",
+          "wish"
+        ],
         "antonyms": ["dislike", "hate", "hatred"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "acronym",
         "phonetics": "/ˈæ.krə.nɪm/",
@@ -379,17 +356,13 @@
           }
         ],
         "synonyms": ["abbreviation", "initialism"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "an",
         "phonetics": "/an/",
         "partOfSpeech": "article",
-        "enDefinition": "used instead of \"a\" when the following word begins with a vowel sound",
-        "ptDefinition": "usado em vez de \"a\" quando a palavra seguinte começa com um som de vogal",
+        "enDefinition": "used instead of “a” when the following word begins with a vowel sound",
+        "ptDefinition": "usado em vez de “a” quando a palavra seguinte começa com um som de vogal",
         "examples": [
           {
             "enExample": "an orange",
@@ -408,11 +381,7 @@
             "ptExample": "uma história interessante"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "angry",
         "phonetics": "/ˈæŋɡri/",
@@ -428,11 +397,7 @@
         "synonyms": ["furious", "irate", "enraged", "livid, upset"],
         "antonyms": ["calm", "content", "peaceful", "happy", "relaxed"],
         "seeAlso": ["frustrated", "irritated"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "all-you-can-eat",
         "phonetics": "/ɑːl.jə.kənˈiːt/",
@@ -445,11 +410,7 @@
             "ptExample": "O bar tem um buffet de almoço \"coma à vontade\" por $10."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "annoy",
         "phonetics": "/əˈnɔɪ/",
@@ -533,19 +494,15 @@
         "partOfSpeech": "adjective",
         "examples": [
           {
-        "enExample": "She was annoyed by the constant noise from the construction site.",
-        "ptExample": "Ela estava irritada com o barulho constante do canteiro de obras."
+            "enExample": "She was annoyed by the constant noise from the construction site.",
+            "ptExample": "Ela estava irritada com o barulho constante do canteiro de obras."
           },
           {
-        "enExample": "He felt annoyed when his plans were suddenly changed.",
-        "ptExample": "Ele se sentiu irritado quando seus planos foram subitamente alterados."
+            "enExample": "He felt annoyed when his plans were suddenly changed.",
+            "ptExample": "Ele se sentiu irritado quando seus planos foram subitamente alterados."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "anticipate",
         "phonetics": "/ænˈtɪs.ə.peɪt/",
@@ -581,13 +538,20 @@
             "ptExample": "A expectativa de inflação é menor do que a do mês passado."
           }
         ],
-        "synonyms": ["expect", "look for", "await", "count on", "prepare oneself for", "look toward", "look forward to", "long for", "pin hope on", "foresee"],
+        "synonyms": [
+          "expect",
+          "look for",
+          "await",
+          "count on",
+          "prepare oneself for",
+          "look toward",
+          "look forward to",
+          "long for",
+          "pin hope on",
+          "foresee"
+        ],
         "antonyms": ["remember"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "anxiety",
         "phonetics": "/æŋˈzaɪ.ə.t̬i/",
@@ -599,11 +563,7 @@
             "ptExample": "As crianças normalmente sentem muita ansiedade no seu primeiro dia na escola."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "apple",
         "phonetics": "/ˈæp.əl/",
@@ -615,11 +575,7 @@
             "ptExample": "uma macieira"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "aerobic",
         "phonetics": "/erˈoʊ.bɪk/",
@@ -634,74 +590,62 @@
         ],
         "synonyms": ["cardio", "oxygen-consuming"],
         "antonyms": ["anaerobic"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "ask",
         "phonetics": "/æsk/",
-        "partOfSpeech": "regular verb • present",
-        "enDefinition": "to put a question to someone, or to request an answer from someone",
-        "ptDefinition": "perguntar",
+        "partOfSpeech": "verb",
+        "enDefinition": "to say something in order to get an answer or information",
+        "ptDefinition": "dizer algo com o objetivo de obter uma resposta ou informação",
         "examples": [
           {
-            "enExample": "Ask me anything.",
-            "ptExample": "Pergunte-me qualquer coisa."
+            "enExample": "She asked me if I wanted some coffee.",
+            "ptExample": "Ela me perguntou se eu queria um pouco de café."
           },
           {
-            "enExample": "Can I ask you something?",
-            "ptExample": "Posso te perguntar algo?"
-          },
-          {
-            "enExample": "Can I ask you a question?",
-            "ptExample": "Posso te fazer uma pergunta?"
+            "enExample": "Don't be afraid to ask questions.",
+            "ptExample": "Não tenha medo de fazer perguntas."
           }
         ],
-        "synonyms": ["inquire", "consult"],
-        "antonyms": ["answer", "reply"]
+        "synonyms": ["inquire, question, request"],
+        "antonyms": ["answer, reply"],
+        "seeAlso": ["ask for, ask out"],
+        "notes": [
+          {
+            "enNote": "Can be followed by a direct or indirect question.",
+            "ptNote": "Pode ser seguido por uma pergunta direta ou indireta."
+          }
+        ]
       },
       {
-        "ptDefinition": "pedir",
+        "word": "ask for",
+        "phonetics": "/æsk fɔːr/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to request something from someone",
+        "ptDefinition": "pedir algo a alguém",
         "examples": [
           {
-            "enExample": "Can I ask you a favor?",
-            "ptExample": "Posso te pedir um conselho?"
+            "enExample": "She asked for a glass of water.",
+            "ptExample": "Ela pediu um copo de água."
           },
           {
-            "enExample": "I usually ask for directions when I'm lost.",
-            "ptExample": "Eu geralmente peço informações quando estou perdido."
-          },
-          {
-            "enExample": "We usually ask our neighbors to keep an eye on our house when we're away.",
-            "ptExample": "Costumamos pedir aos nossos vizinhos para ficarem de olho na nossa casa quando estamos fora."
+            "enExample": "If you need help, don't hesitate to ask for it.",
+            "ptExample": "Se você precisar de ajuda, não hesite em pedir."
           }
         ],
-        "synonyms": ["request"],
-        "antonyms": ["refuse", "reject", "deny"]
+        "synonyms": ["request", "demand", "plead for"],
+        "antonyms": ["give", "offer", "grant"]
       },
       {
-        "ptDefinition": "pedir (preço), cobrar, demandar",
+        "word": "asks",
+        "phonetics": "/æsks/",
+        "partOfSpeech": "he, she, it of ask: affirmative only",
         "examples": [
           {
-            "enExample": "I always ask for $50 per hour for my services.",
-            "ptExample": "Sempre cobro 50 dólares por hora pelos meus serviços."
+            "enExample": "George always asks his parents for advice whenever he's in trouble.",
+            "ptExample": "George sempre pede conselhos aos pais sempre que está com problemas."
           }
-        ],
-        "synonyms": ["demand", "expect", "charge"],
-        "antonyms": ["give, offer"]
-      },
-      {
-        "ptDefinition": "convidar",
-        "examples": [
-          {
-            "enExample": "My grandma always asks me over.",
-            "ptExample": "Minha avó sempre me convida para ir na casa dela."
-          }
-        ],
-        "synonyms": ["invite"],
-        "antonyms": ["avoid", "refrain (from)"]
+        ]
       },
       {
         "word": "asked",
@@ -749,17 +693,6 @@
           {
             "enExample": "It's asking a lot when your boss wants you to work weekends as well as evenings.",
             "ptExample": "É pedir muito quando seu chefe quer que você trabalhe nos finais de semana e também à noite."
-          }
-        ]
-      },
-      {
-        "word": "asks",
-        "phonetics": "/æsks/",
-        "partOfSpeech": "he, she, it of ask: affirmative only",
-        "examples": [
-          {
-            "enExample": "George always asks his parents for advice whenever he's in trouble.",
-            "ptExample": "George sempre pede conselhos aos pais sempre que está com problemas."
           }
         ]
       }

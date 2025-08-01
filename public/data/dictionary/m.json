@@ -16,8 +16,8 @@
             "ptExample": "Minha cabeça está doendo muito por causa de todo o barulho."
           }
         ],
-        "synonyms": "be in pain, hurt badly, ache",
-        "antonyms": "feel fine, be comfortable",
+        "synonyms": ["be in pain, hurt badly, ache"],
+        "antonyms": ["feel fine, be comfortable"],
         "seeAlso": "have a headache, be in agony",
         "notes": [
           {
@@ -25,11 +25,7 @@
             "ptNote": "Comumente usado em contextos informais para descrever dor."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "out of one's mind",
         "partOfSpeech": "idiom",
@@ -57,11 +53,7 @@
             "ptNote": "Este idioma pode descrever tanto estados emocionais temporários quanto comportamentos irracionais mais permanentes."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "of two minds",
         "partOfSpeech": "idiom",
@@ -79,11 +71,7 @@
         ],
         "synonyms": ["undecided", "torn between", "conflicted"],
         "antonyms": ["certain", "sure", "decided"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "on the make",
         "partOfSpeech": "idiom",
@@ -108,11 +96,7 @@
             "ptNote": "Este idiom geralmente tem uma conotação negativa, implicando motivos egoístas ou sem escrúpulos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "make a pass at someone",
         "partOfSpeech": "idiom",
@@ -137,11 +121,7 @@
             "ptNote": "Este idiom é informal e pode, às vezes, implicar investidas indesejadas ou inadequadas."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "make a mountain out of a molehill",
         "partOfSpeech": "idiom",
@@ -166,11 +146,7 @@
             "ptNote": "Este idiom é frequentemente usado para aconselhar alguém a manter as coisas em perspectiva e não reagir exageradamente a questões menores."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "move on",
         "phonetics": "/muːv ɑːn/",
@@ -196,11 +172,7 @@
             "ptNote": "Esta frase é frequentemente usada para encorajar alguém a parar de se prender ao passado e olhar para o futuro."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "messy",
         "phonetics": "/ˈmɛsi/",
@@ -226,11 +198,7 @@
             "ptNote": "A palavra 'messy' é frequentemente usada para descrever um lugar ou situação que não está arrumado ou organizado."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "mess",
         "phonetics": "/mɛs/",
@@ -256,11 +224,7 @@
             "ptNote": "A palavra 'mess' também pode ser usada como um verbo que significa fazer algo ficar desarrumado ou desorganizado."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "mad",
         "phonetics": "/mæd/",
@@ -285,11 +249,7 @@
             "ptNote": "No inglês britânico, 'mad' também pode significar 'mentalmente doente' ou 'insano'."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "make it up to you",
         "partOfSpeech": "idiom",
@@ -313,11 +273,7 @@
             "ptNote": "Essa frase é geralmente usada quando se tenta reparar um relacionamento ou situação causada por um erro ou descuido."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "mess around",
         "phonetics": "mɛs əˈraʊnd",
@@ -342,11 +298,7 @@
             "ptNote": "Esta frase é frequentemente usada em contextos informais e pode implicar a falta de seriedade ou foco no lazer em vez do trabalho."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "mince words",
         "partOfSpeech": "idiom",
@@ -370,11 +322,7 @@
             "ptNote": "Este idiom geralmente implica falta de transparência ou honestidade na fala."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "my gut tells me",
         "phonetics": "/maɪ ɡʌt tɛlz mi/",
@@ -403,11 +351,7 @@
             "ptNote": "Este idiom é usado para descrever um forte sentimento instintivo sobre algo, sem depender de fatos concretos ou lógica."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "me-too products",
         "phonetics": "/miː tuː ˈprɒdʌkts/",
@@ -430,11 +374,7 @@
             "ptNote": "Este termo frequentemente implica falta de originalidade ou criatividade."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "make a killing",
         "partOfSpeech": "idiom",
@@ -446,11 +386,7 @@
             "ptExample": "Suzanne ganhou uma fortuna com suas ações do Google e se aposentou aos 40 anos."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "market share",
         "phonetics": "/ˈmɑrkɪt ʃɛr/",
@@ -477,11 +413,7 @@
             "ptNote": "A \"participação de mercado\" é frequentemente usada como um indicador chave de desempenho em estratégias de negócios."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "menopause",
         "phonetics": "/ˈmen.ə.pɑːz/ (US)",
@@ -495,28 +427,7 @@
           }
         ],
         "synonyms": ["climacteric", "change of life"]
-      }
-    ]
-  },
-  {
-    "definitions": [
-      {
-        "word": "miscarriage",
-        "phonetics": "/ˈmɪsˌker.ɪdʒ/",
-        "partOfSpeech": "noun",
-        "enDefinition": "an early, unintentional end to a pregnancy when the foetus is born too early and dies because it has not developed enough",
-        "ptDefinition": "aborto espontâneo",
-        "examples": [
-          {
-            "enExample": "The amniocentesis test carries a significant risk of miscarriage.",
-            "ptExample": "O teste de amniocentese carrega um risco significativo de aborto espontâneo."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "moderate",
         "phonetics": "/ˈmɑː.dɚ.ət/",
@@ -533,6 +444,19 @@
         "antonyms": ["extreme", "intense"]
       },
       {
+        "word": "miscarriage",
+        "phonetics": "/ˈmɪsˌker.ɪdʒ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "an early, unintentional end to a pregnancy when the foetus is born too early and dies because it has not developed enough",
+        "ptDefinition": "aborto espontâneo",
+        "examples": [
+          {
+            "enExample": "The amniocentesis test carries a significant risk of miscarriage.",
+            "ptExample": "O teste de amniocentese carrega um risco significativo de aborto espontâneo."
+          }
+        ]
+      },
+      {
         "word": "moderate",
         "phonetics": "/ˈmɑː.dɚ.reɪt/",
         "partOfSpeech": "verb",
@@ -546,11 +470,7 @@
         ],
         "synonyms": ["temper", "control", "adjust"],
         "antonyms": ["intensify", "escalate"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "mum's the word",
         "partOfSpeech": "idiom",

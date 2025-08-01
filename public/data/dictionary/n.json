@@ -17,8 +17,8 @@
             "ptExample": "Ninguém gosta de um puxa-saco no escritório."
           }
         ],
-        "synonyms": "yes man, sycophant, toady",
-        "antonyms": "independent thinker, critic",
+        "synonyms": ["yes man, sycophant, toady"],
+        "antonyms": ["independent thinker, critic"],
         "seeAlso": "bootlicker, suck-up, flatterer",
         "notes": [
           {
@@ -26,11 +26,7 @@
             "ptNote": "Termo informal e frequentemente pejorativo usado para descrever alguém que bajula excessivamente para obter vantagens."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "no big deal",
         "phonetics": "/nəʊ bɪɡ diːl/",
@@ -52,11 +48,7 @@
             "ptNote": "Uma expressão casual usada para minimizar preocupações"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "not see eye-to-eye",
         "partOfSpeech": "idiom",
@@ -81,11 +73,7 @@
             "ptNote": "Este idiom é frequentemente usado para descrever uma situação em que duas pessoas têm opiniões ou perspectivas diferentes."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "nervous",
         "phonetics": "/ˈnɜːrvəs/",
@@ -111,11 +99,7 @@
             "ptNote": "A palavra 'nervoso' pode descrever tanto um estado temporário de ansiedade quanto uma tendência mais geral de ser ansioso."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "nothing ventured, nothing gained",
         "partOfSpeech": "idiom",
@@ -144,11 +128,7 @@
             "ptNote": "Essa expressão é frequentemente usada para encorajar alguém a correr riscos ou abraçar novas oportunidades."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "need something like a hole in the head",
         "partOfSpeech": "idiom",
@@ -172,11 +152,7 @@
             "ptNote": "Esta frase é frequentemente usada sarcasticamente para enfatizar o quão indesejado ou desnecessário algo é."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "no ifs, ands, or buts",
         "partOfSpeech": "idiom",
@@ -207,11 +183,7 @@
             "ptNote": "Esta expressão é frequentemente usada para estabelecer limites firmes ou enfatizar a estrita adesão a uma regra ou decisão."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "near",
         "phonetics": "/nɪr/",
@@ -227,6 +199,22 @@
         "synonyms": ["approach", "advance"],
         "antonyms": ["recede", "withdraw"],
         "seeAlso": ["come closer", "draw near"]
+      },
+      {
+        "word": "near",
+        "phonetics": "/nɪr/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "Located a short distance away; close.",
+        "ptDefinition": "Localizado a uma curta distância; próximo.",
+        "examples": [
+          {
+            "enExample": "The nearest hospital is just a mile away.",
+            "ptExample": "O hospital mais próximo fica a apenas um quilômetro."
+          }
+        ],
+        "synonyms": ["close", "neighboring"],
+        "antonyms": ["distant", "remote"],
+        "seeAlso": ["proximal", "nearby"]
       },
       {
         "word": "near",
@@ -261,26 +249,6 @@
         "seeAlso": ["adjacent", "alongside"]
       },
       {
-        "word": "near",
-        "phonetics": "/nɪr/",
-        "partOfSpeech": "adjective",
-        "enDefinition": "Located a short distance away; close.",
-        "ptDefinition": "Localizado a uma curta distância; próximo.",
-        "examples": [
-          {
-            "enExample": "The nearest hospital is just a mile away.",
-            "ptExample": "O hospital mais próximo fica a apenas um quilômetro."
-          }
-        ],
-        "synonyms": ["close", "neighboring"],
-        "antonyms": ["distant", "remote"],
-        "seeAlso": ["proximal", "nearby"]
-      }
-    ]
-  },
-  {
-    "definitions": [
-      {
         "word": "new blood",
         "partOfSpeech": "idiom",
         "enDefinition": "new people or ideas brought into a group, organization, or situation, often to invigorate or refresh it",
@@ -305,21 +273,13 @@
             "ptNote": "Este idiom é frequentemente usado em contextos profissionais para se referir à infusão de novos talentos ou ideias em um grupo."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "New Zealand",
         "partOfSpeech": "noun",
         "enDefinition": "a country in the southern Pacific Ocean",
         "ptDefinition": "Nova Zelândia"
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "nip ",
         "phonetics": " /nɪp/",
@@ -335,6 +295,9 @@
         "synonyms": ["bite", "pinch", "snap"]
       },
       {
+        "word": "nip ",
+        "phonetics": " /nɪp/",
+        "partOfSpeech": "verb",
         "enDefinition": "frost",
         "ptDefinition": "congelar",
         "examples": [
@@ -345,6 +308,9 @@
         ]
       },
       {
+        "word": "nip ",
+        "phonetics": " /nɪp/",
+        "partOfSpeech": "verb",
         "enDefinition": "[UK informal] to go somewhere quickly or be somewhere for only a short time",
         "ptDefinition": "dar uma saída rápida",
         "examples": [

@@ -16,8 +16,8 @@
             "ptExample": "Ela estava indisposta e não pôde ir trabalhar."
           }
         ],
-        "synonyms": "ill, sick, unwell",
-        "antonyms": "healthy, well, fit",
+        "synonyms": ["ill, sick, unwell"],
+        "antonyms": ["healthy, well, fit"],
         "seeAlso": "feeling off, out of sorts",
         "notes": [
           {
@@ -25,11 +25,7 @@
             "ptNote": "Expressão informal comum para descrever doença leve."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "wiped out",
         "phonetics": "waɪpt aʊt",
@@ -46,8 +42,8 @@
             "ptExample": "Os lucros da empresa foram completamente eliminados pela recente crise."
           }
         ],
-        "synonyms": "exhausted, drained, defeated",
-        "antonyms": "energized, refreshed, victorious",
+        "synonyms": ["exhausted, drained, defeated"],
+        "antonyms": ["energized, refreshed, victorious"],
         "seeAlso": "burned out, worn out",
         "notes": [
           {
@@ -55,11 +51,7 @@
             "ptNote": "Usado informalmente para expressar fadiga extrema ou perda total."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "no wonder",
         "partOfSpeech": "idiom",
@@ -71,11 +63,7 @@
             "ptExample": "Não é de se admirar que ela estivesse cansada depois de correr uma maratona!"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "You took the words right out of my mouth",
         "partOfSpeech": "idiom",
@@ -87,12 +75,7 @@
             "ptExample": "Quando ela sugeriu comer pizza, eu disse: 'Você tirou as palavras da minha boca!'"
           }
         ]
-      }
-    ]
-  },
-
-  {
-    "definitions": [
+      },
       {
         "word": "What’s the deal?",
         "partOfSpeech": "idiom",
@@ -122,12 +105,7 @@
             "ptNote": "Esta frase é informal e comumente usada no inglês falado para pedir esclarecimento ou expressar surpresa."
           }
         ]
-      }
-    ]
-  },
-
-  {
-    "definitions": [
+      },
       {
         "word": "wash one's hands of",
         "partOfSpeech": "idiom",
@@ -152,11 +130,7 @@
             "ptNote": "Este idiom é frequentemente usado quando alguém quer se distanciar de uma situação problemática ou controversa."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "weigh in on",
         "phonetics": "/weɪ ɪn ɑn/",
@@ -182,11 +156,7 @@
             "ptNote": "Esta frase é frequentemente usada em contextos onde alguém é solicitado a fornecer sua opinião sobre um assunto."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "write",
         "phonetics": "/raɪt/",
@@ -212,11 +182,7 @@
             "ptNote": "O ato de escrever pode ser tanto um processo físico quanto criativo."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "writing",
         "phonetics": "/ˈraɪtɪŋ/",
@@ -242,11 +208,7 @@
             "ptNote": "Escrever pode ser uma forma de comunicação, expressão e criatividade."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "work",
         "phonetics": "/wɝːrk/",
@@ -272,17 +234,13 @@
             "ptNote": "O termo 'work' pode se referir tanto ao local onde alguém está empregado quanto às tarefas que alguém realiza."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "work",
         "phonetics": "/wɝːrk/",
         "partOfSpeech": "verb",
         "enDefinition": "to engage in physical or mental activity in order to achieve a purpose or result, especially in one's job",
-        "ptDefinition": "engajar-se em atividade física ou mental para alcançar um propósito ou resultado, especialmente no trabalho",
+        "ptDefinition": "engajar-se em atividade física ou mental para alcançar um propósito ou resultado, especialmente no trabalho; trabalhar",
         "examples": [
           {
             "enExample": "She works at a bank.",
@@ -304,6 +262,8 @@
         ]
       },
       {
+        "word": "work",
+        "phonetics": "/wɝːrk/",
         "enDefinition": "to be effective or successful",
         "ptDefinition": "funcionar, dar certo",
         "examples": [
@@ -337,11 +297,7 @@
             "ptNote": "Neste contexto, 'work' significa alcançar o resultado desejado ou funcionar como pretendido."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "wacky",
         "phonetics": "/ˈwæki/",
@@ -367,11 +323,7 @@
             "ptNote": "O termo 'wacky' é frequentemente usado de maneira leve ou afetuosa para descrever alguém ou algo que é não convencional ou estranhamente divertido."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "well",
         "phonetics": "/wɛl/",
@@ -397,11 +349,7 @@
             "ptNote": "A palavra 'well' também pode ser usada como adjetivo, substantivo, interjeição e verbo, dependendo do contexto."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "work one's tail off",
         "partOfSpeech": "idiomatic expression",
@@ -426,11 +374,7 @@
             "ptNote": "Essa expressão é usada de maneira informal para descrever alguém que está colocando muito esforço, especialmente em uma tarefa exigente ou cansativa."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "where to begin?",
         "partOfSpeech": "idiom",
@@ -458,11 +402,7 @@
             "ptNote": "Esta frase frequentemente transmite a sensação de estar sobrecarregado ou inseguro sobre a complexidade de uma situação."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "wishy-washy",
         "phonetics": "/ˈwɪʃi ˈwɒʃi/",
@@ -489,11 +429,7 @@
             "ptNote": "Este termo é frequentemente usado de forma negativa para descrever alguém que é incapaz de tomar decisões firmes ou adotar posições claras."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "Why mess with success?",
         "partOfSpeech": "idiom",
@@ -507,11 +443,7 @@
         ],
         "synonyms": ["don’t rock the boat"],
         "antonyms": ["take risks", "try something new", "innovate"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "work down to the wire",
         "partOfSpeech": "idiom",
@@ -545,11 +477,7 @@
             "ptNote": "Esta expressão é frequentemente usada em contextos onde o gerenciamento de tempo é crítico, e as tarefas são concluídas pouco antes do prazo."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "work out the kinks",
         "partOfSpeech": "idiom",
@@ -572,11 +500,7 @@
             "note": "This phrase is often used in contexts where something is in progress and requires minor fixes or refinements before completion."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "weird",
         "phonetics": "/wɪrd/",
@@ -602,11 +526,7 @@
             "ptNote": "O termo 'weird' pode ter conotações positivas e negativas, dependendo do contexto."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "weirdo",
         "phonetics": "/ˈwɪərdoʊ/",

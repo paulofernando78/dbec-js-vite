@@ -16,8 +16,8 @@
             "ptExample": "Aguente firme durante a reta final do projeto."
           }
         ],
-        "synonyms": "persevere, endure, keep going",
-        "antonyms": "give up, quit, surrender",
+        "synonyms": ["persevere, endure, keep going"],
+        "antonyms": ["give up, quit, surrender"],
         "seeAlso": "keep going, stay strong",
         "notes": [
           {
@@ -25,11 +25,7 @@
             "ptNote": "Frequentemente usado para encorajar alguém a continuar tentando."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "have a lot on one’s plate",
         "partOfSpeech": "idiom",
@@ -45,8 +41,8 @@
             "ptExample": "Não posso assumir mais projetos; já tenho muitas responsabilidades."
           }
         ],
-        "synonyms": "be busy, have many responsibilities, be overloaded",
-        "antonyms": "be free, have little to do",
+        "synonyms": ["be busy, have many responsibilities, be overloaded"],
+        "antonyms": ["be free, have little to do"],
         "seeAlso": "overwhelmed, swamped",
         "notes": [
           {
@@ -54,11 +50,7 @@
             "ptNote": "Comumente usado para descrever estar ocupado ou sobrecarregado com deveres."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "(to be or to get) on one’s high horse",
         "partOfSpeech": "idiom",
@@ -74,8 +66,8 @@
             "ptExample": "Não fique se achando superior — todos nós cometemos erros."
           }
         ],
-        "synonyms": "act superior, be condescending, be self-righteous",
-        "antonyms": "be humble, act modestly",
+        "synonyms": ["act superior, be condescending, be self-righteous"],
+        "antonyms": ["be humble, act modestly"],
         "seeAlso": "holier-than-thou, arrogant, condescending",
         "notes": [
           {
@@ -83,11 +75,7 @@
             "ptNote": "Originalmente referia-se a cavalos altos montados pela nobreza; hoje é usado de forma figurada para descrever arrogância."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "hot-head",
         "phonetics": "/ˈhɑːtˌhed/",
@@ -113,11 +101,7 @@
             "ptNote": "Frequentemente usado para descrever alguém que reage de forma emocional ou impulsiva, especialmente em situações de estresse."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "have or get out of hand",
         "partOfSpeech": "idiom",
@@ -142,11 +126,7 @@
             "ptNote": "Este idiom é frequentemente usado para descrever situações que escalam rapidamente e se tornam difíceis de gerenciar."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "have a rough night",
         "partOfSpeech": "idiom",
@@ -165,11 +145,7 @@
         "synonyms": ["bad night", "sleepless night", "tough night"],
         "antonyms": ["good night", "restful night", "peaceful night"],
         "seeAlso": ["restless night", "tough day"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "hunker down",
         "phonetics": "/ˈhʌŋkɚ daʊn/",
@@ -195,11 +171,7 @@
             "ptNote": "Frequentemente usado no contexto de se preparar para uma situação difícil ou perigosa."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "house",
         "phonetics": "haʊs",
@@ -221,11 +193,7 @@
             "ptNote": "Uma casa pode ser uma residência unifamiliar, uma casa geminada ou uma casa em banda."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "half-baked ideas",
         "partOfSpeech": "idiom",
@@ -248,11 +216,7 @@
           "concrete plans"
         ],
         "seeAlso": ["brainstorming", "creative process", "idea development"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "happy",
         "phonetics": "ˈhæpi",
@@ -275,11 +239,7 @@
         ],
         "synonyms": ["joyful", "cheerful", "content"],
         "antonyms": ["sad", "unhappy", "miserable"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "hard stop",
         "phonetics": "hɑrd stɑp",
@@ -308,12 +268,7 @@
             "ptNote": "Comumente usado em contextos de negócios ou planejamento para enfatizar a gestão rigorosa do tempo."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
-      {
+      },{
         "word": "one's head on the chopping block",
         "partOfSpeech": "idiom",
         "enDefinition": "in a position where one is at risk of being criticized, blamed, or punished for something",

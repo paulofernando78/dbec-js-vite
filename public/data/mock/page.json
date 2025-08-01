@@ -431,7 +431,7 @@
     },
     {
       "audioPlayer": {
-        "sticky": true,
+        "sticky": false,
         "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/audio.mp3"
       }
     },
@@ -440,7 +440,7 @@
     },
     {
       "videoPlayer": {
-        "sticky": true,
+        "sticky": false,
         "src": "https://www.youtube.com/embed/f14IuqWLdwg?=rel=0"
       }
     },
@@ -452,6 +452,58 @@
         {
           "title": "Exercises",
           "description": "Description"
+        },
+        {
+          "texts": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "teste "
+                    },
+                    {
+                      "text": "teste"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "teste "
+                    },
+                    {
+                      "text": "teste"
+                    }
+                  ]
+                } 
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "teste "
+                    },
+                    {
+                      "text": "teste"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "teste "
+                    },
+                    {
+                      "text": "teste"
+                    }
+                  ]
+                } 
+              ]
+            }
+          ]
         },
         {
           "images": [

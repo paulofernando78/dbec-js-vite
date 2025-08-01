@@ -16,8 +16,8 @@
             "ptExample": "Ela está atolada de trabalho preparando para o grande evento."
           }
         ],
-        "synonyms": "overloaded, swamped, very busy",
-        "antonyms": "free, relaxed, unoccupied",
+        "synonyms": ["overloaded, swamped, very busy"],
+        "antonyms": ["free, relaxed, unoccupied"],
         "seeAlso": "busy, overwhelmed",
         "notes": [
           {
@@ -25,11 +25,7 @@
             "ptNote": "Usado comumente para descrever uma carga de trabalho pesada."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "80/20 rule",
         "phonetics": "ˈeɪti ˈtwɛnti ruːl",
@@ -46,8 +42,7 @@
             "ptExample": "Concentre-se nas poucas tarefas vitais que seguem a regra 80/20 para maximizar a produtividade."
           }
         ],
-        "synonyms": "Pareto principle, law of the vital few",
-        "antonyms": "",
+        "synonyms": ["Pareto principle, law of the vital few"],
         "seeAlso": "efficiency, prioritization",
         "notes": [
           {
@@ -55,11 +50,7 @@
             "ptNote": "Ampliamente usada em contextos de negócios e produtividade."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "the walls have ears",
         "partOfSpeech": "idiom",
@@ -75,8 +66,8 @@
             "ptExample": "Ele sussurrou porque sabia que as paredes tinham ouvidos."
           }
         ],
-        "synonyms": "be discreet, speak cautiously",
-        "antonyms": "speak freely, talk openly",
+        "synonyms": ["be discreet, speak cautiously"],
+        "antonyms": ["speak freely, talk openly"],
         "seeAlso": "watch your mouth, loose lips sink ships",
         "notes": [
           {
@@ -84,11 +75,7 @@
             "ptNote": "Esse idiom é usado em contextos que envolvem segredo ou vigilância."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "at one’s expense",
         "partOfSpeech": "idiom / prepositional phrase",
@@ -104,8 +91,8 @@
             "ptExample": "A empresa lucrou às custas dos funcionários."
           }
         ],
-        "synonyms": "at someone's cost, to someone's detriment",
-        "antonyms": "to someone's benefit, for someone's gain",
+        "synonyms": ["at someone's cost, to someone's detriment"],
+        "antonyms": ["to someone's benefit, for someone's gain"],
         "seeAlso": "make fun of, laugh at",
         "notes": [
           {
@@ -113,11 +100,7 @@
             "ptNote": "Frequentemente usada para indicar que alguém é afetado negativamente por uma ação ou evento."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "give somebody an earful",
         "partOfSpeech": "idiom",
@@ -175,11 +158,7 @@
             "ptNote": "Este idiom originou-se no campo da aviação, onde 'envelope' se refere aos limites de desempenho de uma aeronave."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "I can't believe my ears!",
         "partOfSpeech": "phrase",
@@ -204,11 +183,7 @@
             "ptNote": "Esta frase é frequentemente usada em situações onde o falante está ouvindo algo inesperado ou inacreditável."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "enthral",
         "phonetics": "/ɪnˈθrɔːl/",
@@ -230,37 +205,7 @@
             "ptNote": "Variante britânica de 'enthrall'"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
-      {
-        "word": "enthrall",
-        "phonetics": "/ɪnˈθrɔːl/",
-        "partOfSpeech": "verb",
-        "enDefinition": "to capture the fascinated attention of someone; to charm or captivate completely",
-        "ptDefinition": "cativar ou fascinar completamente; encantar",
-        "examples": [
-          {
-            "enExample": "The storyteller's tales enthralled the children.",
-            "ptExample": "As histórias do contador encantaram as crianças."
-          }
-        ],
-        "synonyms": ["captivate", "fascinate", "spellbind", "enchant"],
-        "antonyms": ["bore", "repel", "disinterest"],
-        "seeAlso": ["charm", "mesmerize"],
-        "notes": [
-          {
-            "enNote": "Often used to describe a state of being completely absorbed or captivated by something.",
-            "ptNote": "Frequentemente usado para descrever um estado de estar completamente absorto ou cativado por algo."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "every time I turn around",
         "partOfSpeech": "idiom",
@@ -285,11 +230,7 @@
             "ptNote": "Frequentemente usado para expressar frustração com a frequência das ocorrências."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "embarrassing",
         "phonetics": "/ɪmˈbærəsɪŋ/",
@@ -315,11 +256,7 @@
             "ptNote": "Frequentemente usado para descrever situações que causam desconforto social."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "embarrassed",
         "phonetics": "/ɪmˈbærəst/",
@@ -345,11 +282,7 @@
             "ptNote": "Frequentemente usado para descrever um sentimento de desconforto em situações sociais."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "embarrass",
         "phonetics": "/ɪmˈbærəs/",
@@ -375,11 +308,7 @@
             "ptNote": "Frequentemente usado para descrever situações em que alguém se sente socialmente desconfortável ou constrangido."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "exhaust",
         "phonetics": "/ɪɡˈzɑːst/",
@@ -421,11 +350,7 @@
         "synonyms": ["tired", "fatigued", "worn out"],
         "antonyms": ["energetic", "rested", "refreshed"],
         "seeAlso": ["weary", "drained"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "eating one's lunch",
         "partOfSpeech": "idiom",
@@ -443,11 +368,7 @@
         ],
         "synonyms": ["outperform", "surpass", "dominate"],
         "antonyms": ["fall behind", "ose to", "be outdone"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "educated guess",
         "partOfSpeech": "noun",
@@ -462,11 +383,7 @@
         "synonyms": ["informed guess", "reasoned guess"],
         "antonyms": ["wild guess", "shot in the dark"],
         "seeAlso": ["hypothesis"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "escarole",
         "phonetics": "/ˈes.kə.roʊl/",
@@ -479,11 +396,7 @@
             "ptExample": "Adicione uma lata de grão-de-bico escorrida e a escarola bem picada (grosseiramente)."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "ethical",
         "phonetics": "/ˈeθ.ɪ.kəl/",
@@ -498,11 +411,7 @@
         ],
         "synonyms": ["honest", "honoroble", "humane", "proper"],
         "antonyms": ["dishonest", "immoral", "corrupt", "improper", "unjust"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "everyone",
         "phonetics": "ˈɛvrɪwʌn",
@@ -528,11 +437,7 @@
             "ptNote": "Usado para se referir a todas as pessoas coletivamente."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "excite",
         "phonetics": "/ɪkˈsaɪt/",

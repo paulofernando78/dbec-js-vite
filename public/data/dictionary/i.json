@@ -2,35 +2,31 @@
   {
     "definitions": [
       {
-  "word": "have (some) issues",
-  "phonetics": "hæv (sʌm) ˈɪʃuːz",
-  "partOfSpeech": "verb phrase",
-  "enDefinition": "to experience problems or difficulties, often emotional or psychological, but can also refer to practical or technical troubles",
-  "ptDefinition": "ter problemas ou dificuldades, frequentemente de natureza emocional ou psicológica, mas também pode se referir a questões práticas ou técnicas",
-  "examples": [
-    {
-      "enExample": "He seems to have some issues with trust after his past relationships.",
-      "ptExample": "Ele parece ter alguns problemas de confiança após seus relacionamentos passados."
-    },
-    {
-      "enExample": "The software has some issues that need to be fixed before release.",
-      "ptExample": "O software tem alguns problemas que precisam ser corrigidos antes do lançamento."
-    }
-  ],
-  "synonyms": "have problems, face difficulties, struggle with",
-  "antonyms": "be fine, have no problems, be well",
-  "seeAlso": "issue, problem, difficulty",
-  "notes": [
-    {
-      "enNote": "The phrase can refer to emotional, psychological, or practical difficulties depending on the context.",
-      "ptNote": "A expressão pode se referir a dificuldades emocionais, psicológicas ou práticas, dependendo do contexto."
-    }
-  ]
-}
-    ]
-  },
-  {
-    "definitions": [
+        "word": "have (some) issues",
+        "phonetics": "hæv (sʌm) ˈɪʃuːz",
+        "partOfSpeech": "verb phrase",
+        "enDefinition": "to experience problems or difficulties, often emotional or psychological, but can also refer to practical or technical troubles",
+        "ptDefinition": "ter problemas ou dificuldades, frequentemente de natureza emocional ou psicológica, mas também pode se referir a questões práticas ou técnicas",
+        "examples": [
+          {
+            "enExample": "He seems to have some issues with trust after his past relationships.",
+            "ptExample": "Ele parece ter alguns problemas de confiança após seus relacionamentos passados."
+          },
+          {
+            "enExample": "The software has some issues that need to be fixed before release.",
+            "ptExample": "O software tem alguns problemas que precisam ser corrigidos antes do lançamento."
+          }
+        ],
+        "synonyms": ["have problems, face difficulties, struggle with"],
+        "antonyms": ["be fine, have no problems, be well"],
+        "seeAlso": "issue, problem, difficulty",
+        "notes": [
+          {
+            "enNote": "The phrase can refer to emotional, psychological, or practical difficulties depending on the context.",
+            "ptNote": "A expressão pode se referir a dificuldades emocionais, psicológicas ou práticas, dependendo do contexto."
+          }
+        ]
+      },
       {
         "word": "insidious",
         "phonetics": "/ɪnˈsɪdiəs/",
@@ -56,11 +52,7 @@
             "ptNote": "Frequentemente usado para descrever coisas prejudiciais que se desenvolvem tão gradualmente que não são notadas até ser tarde demais."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "I beg to differ",
         "partOfSpeech": "idiom",
@@ -84,11 +76,7 @@
             "ptNote": "Esta frase é frequentemente usada em conversas formais ou educadas para expressar discordância sem causar ofensa."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "in a nutshell",
         "partOfSpeech": "idiom",
@@ -113,11 +101,7 @@
             "ptNote": "Este idiom é frequentemente usado para resumir informações complexas de maneira simples e concisa."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "illness",
         "phonetics": "/ˈɪlnəs/",
@@ -142,11 +126,7 @@
             "ptNote": "Doença pode se referir tanto a uma doença específica quanto a um estado geral de má saúde."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "ill",
         "phonetics": "/ɪl/",
@@ -172,11 +152,7 @@
             "ptNote": "A palavra 'ill' é frequentemente usada no inglês britânico, enquanto 'sick' é mais comum no inglês americano."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "ire",
         "phonetics": "/aɪər/",
@@ -191,11 +167,11 @@
           {
             "enExample": "She could not contain her ire when she saw the damage to her car.",
             "ptExample": "Ela não conseguiu conter sua ira quando viu o dano em seu carro."
-            },
-            {
+          },
+          {
             "enExample": "His controversial remarks drew the ire of the community.",
             "ptExample": "Seus comentários controversos despertaram a ira da comunidade."
-            }
+          }
         ],
         "synonyms": ["anger", "rage", "fury", "wrath"],
         "antonyms": ["calm", "peace", "contentment"],
@@ -206,11 +182,7 @@
             "ptNote": "A palavra 'ira' é frequentemente usada em contextos literários para transmitir um forte senso de raiva."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "insane",
         "phonetics": "/ɪnˈseɪn/",
@@ -236,11 +208,7 @@
             "ptNote": "O termo 'insano' é frequentemente usado em um contexto legal para descrever alguém que não é responsável por suas ações devido a doença mental."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "icing on the cake",
         "partOfSpeech": "idiom",
@@ -254,11 +222,7 @@
         ],
         "synonyms": ["final touch", "finishing touch"],
         "antonyms": ["a letdown", "a disappointment", "a setback"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "intent",
         "phonetics": "/ɪnˈtent/",
@@ -278,18 +242,24 @@
             "ptExample": "Ela foi acusada de possuir armas com a intenção de colocar vidas em perigo."
           }
         ],
-        "synonyms": ["aim (intention)", "ambition", "aspiration (hope)", "dream (hope)", "goal (aim)", "hope", "intention", "objective", "target (aim)"],
+        "synonyms": [
+          "aim (intention)",
+          "ambition",
+          "aspiration (hope)",
+          "dream (hope)",
+          "goal (aim)",
+          "hope",
+          "intention",
+          "objective",
+          "target (aim)"
+        ],
         "antonyms": ["accident", "chance", "luck", "fortune"],
         "note": [
           {
             "enNote": "Intention and intent are synonyms, but with a subtle difference. Intention implies a general desire or plan to accomplish something, while intent is a little stronger, indicating a firm resolve to get it done. Intent can be used as a noun or adjective."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "in hot water",
         "partOfSpeech": "idiom",
@@ -304,11 +274,7 @@
         "synonyms": ["in trouble", "in a jam", "in difficulty"],
         "antonyms": ["in the clear", "safe", "out of trouble"],
         "seeAlso": "get into trouble"
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "in deep trouble",
         "partOfSpeech": "idiom",
@@ -334,11 +300,7 @@
             "ptNote": "Esta expressão é comumente usada tanto em contextos pessoais quanto profissionais para enfatizar a gravidade de um problema."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "in the red",
         "partOfSpeech": "idiom",
@@ -354,7 +316,11 @@
             "ptExample": "Se não reduzirmos as despesas, estaremos no vermelho até o final do mês."
           }
         ],
-        "synonyms": ["in debt", "financially struggling", "operating at a loss"],
+        "synonyms": [
+          "in debt",
+          "financially struggling",
+          "operating at a loss"
+        ],
         "antonyms": ["in the black", "profitable", "financially stable"],
         "notes": [
           {
@@ -364,11 +330,7 @@
             "ptNote": "Este idiom é frequentemente usado em contextos financeiros para descrever um fluxo de caixa ou saldo negativo."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "Israeli",
         "phonetics": "/ɪzˈreɪ.li/",

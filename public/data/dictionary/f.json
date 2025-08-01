@@ -16,8 +16,8 @@
             "ptExample": "Ela não está se sentindo bem depois de comer aqueles frutos do mar."
           }
         ],
-        "synonyms": "feel ill, feel sick, feel unwell",
-        "antonyms": "feel good, feel well, be healthy",
+        "synonyms": ["feel ill, feel sick, feel unwell"],
+        "antonyms": ["feel good, feel well, be healthy"],
         "seeAlso": "under the weather, feeling off",
         "notes": [
           {
@@ -25,11 +25,7 @@
             "ptNote": "Forma informal de dizer que alguém está se sentindo doente."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "point fingers at",
         "partOfSpeech": "idiom",
@@ -54,11 +50,7 @@
             "ptNote": "Este idiom é frequentemente usado em situações onde as pessoas tentam evitar a responsabilidade culpando os outros."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "fall guy",
         "phonetics": "/ˈfɔːl ɡaɪ/",
@@ -83,11 +75,7 @@
             "ptNote": "O termo 'bode expiatório' é frequentemente usado em contextos onde alguém é injustamente culpado pelos erros ou malfeitos de outros."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "figure out",
         "phonetics": "/ˈfɪɡ.jər aʊt/",
@@ -113,11 +101,7 @@
             "ptNote": "Este verbo frasal é comumente usado em contextos informais."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "frustrated",
         "phonetics": "/ˈfrʌs.treɪ.tɪd/",
@@ -143,11 +127,7 @@
             "ptNote": "O adjetivo 'frustrado' é frequentemente usado para descrever um sentimento de estar bloqueado ou impedido em seus esforços."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "frustrate",
         "phonetics": "/ˈfrʌs.treɪt/",
@@ -173,11 +153,7 @@
             "ptNote": "O verbo 'frustrar' é frequentemente usado quando alguém se sente bloqueado ou impedido em seus esforços."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "fly",
         "phonetics": "/flaɪ/",
@@ -197,11 +173,7 @@
         "synonyms": ["soar", "glide", "hover"],
         "antonyms": ["land", "fall"],
         "seeAlso": "flight"
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "find",
         "phonetics": "/faɪnd/",
@@ -227,11 +199,7 @@
             "ptNote": "O verbo 'encontrar' pode ser usado em vários contextos, incluindo descobrir algo por acaso ou procurar algo específico."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "face the music",
         "partOfSpeech": "idiom",
@@ -258,11 +226,7 @@
             "ptNote": "Este idiom é frequentemente usado quando alguém precisa enfrentar uma situação difícil ou desagradável como resultado de suas ações."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "freebie",
         "phonetics": "/ˈfriːbi/",
@@ -281,11 +245,7 @@
         ],
         "synonyms": ["gift", "giveaway", "promotional item"],
         "antonyms": ["purchase", "buy", "charge"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "for starters",
         "partOfSpeech": "idiom",
@@ -306,11 +266,7 @@
             "enNote": "A expressão é frequentemente usada ao listar razões ou etapas em um argumento ou plano."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "fast followers",
         "partOfSpeech": "noun",
@@ -336,11 +292,7 @@
             "ptNote": "O termo \"fast follower\" costuma carregar a conotação de ser reativo em vez de proativo ao adotar novas ideias."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "(just) for the record",
         "partOfSpeech": "idiom",
@@ -366,11 +318,7 @@
             "ptnote": "Frequentemente usado em conversas ou declarações formais para garantir a compreensão precisa de um ponto."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "fine-tune",
         "phonetics": "faɪn-tun",
@@ -397,11 +345,7 @@
             "ptNote": "Esta expressão é frequentemente usada em contextos técnicos, criativos ou profissionais quando a precisão é essencial."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "flesh out something",
         "partOfSpeech": "idiom",
@@ -423,11 +367,7 @@
             "ptNote": "Esta expressão é comumente usada ao se referir ao desenvolvimento de um conceito, projeto ou plano, especialmente em contextos criativos ou de negócios."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "faux pas",
         "phonetics": "/ˌfoʊ ˈpɑː/",
@@ -441,27 +381,7 @@
           }
         ],
         "synonyms": ["gaffe", "slip"]
-      }
-    ]
-  },
-  {
-    "definitions": [
-      {
-        "word": "face the music",
-        "partOfSpeech": "idiom",
-        "enDefinition": "to admit that there's a problem; to deal with an unpleasant situation realistically",
-        "ptDefinition": "admitir que há um problema; lidar com uma situação desagradável de forma realista",
-        "examples": [
-          {
-            "enExample": "Enron executives finally had to face the music and admit that they were involved in some illegal activities.",
-            "ptExample": "Os executivos da Enron finalmente tiveram que encarar a realidade e admitir que estavam envolvidos em algumas atividades ilegais."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "fast track a project",
         "partOfSpeech": "idiom",
@@ -473,15 +393,11 @@
             "ptExample": "Vamos acelerar este projeto. Ouvimos rumores de que nossos concorrentes estão desenvolvendo produtos semelhantes."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "feel like",
         "partOfSpeech": "verbal expression",
-        "ptDefinition": "sentir-se como",
+        "ptDefinition": "sentir-se como; ter vontade, apetecer",
         "examples": [
           {
             "enExample": "I feel like a princess in this beautiful dress.",
@@ -490,12 +406,7 @@
           {
             "enExample": "He felt like an idiot (= He felt very foolish).",
             "ptExample": "Ele se sentiu como um idiota (= Ele se sentiu muito tolo)."
-          }
-        ]
-      },
-      {
-        "ptDefinition": "ter vontade, apetecer",
-        "examples": [
+          },
           {
             "enExample": "I feel like a drink.",
             "ptExample": "Estou com vontade de beber."
@@ -509,11 +420,7 @@
             "ptExample": "Você está a fim de ir ao cinema?"
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "fetus",
         "phonetics": "/ˈfiː.t̬əs/",
@@ -526,11 +433,7 @@
             "ptExample": "O ultrassom mostrou que o feto estava se desenvolvendo normalmente."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "focus",
         "phonetics": "/ˈfoʊ.kəs/",
@@ -554,40 +457,18 @@
         "word": "focus",
         "phonetics": "/ˈfoʊ.kəs/",
         "partOfSpeech": "regular verb",
-        "ptDefinition": "focar, focalizar",
+        "ptDefinition": "focar, focalizar, concentrar",
         "examples": [
           {
             "enExample": "You need to focus the camera.",
             "ptExample": "Você precisa focar a câmera."
-          }
-        ],
-        "synonyms": ["adjust"]
-      },
-      {
-        "ptDefinition": "concentrar",
-        "examples": [
+          },
           {
             "enExample": "Focus your attention on what is important",
             "ptExample": "Concentre sua atenção no que é importante."
           }
         ],
-        "synonyms": ["concentrate"]
-      }
-    ]
-  },
-
-  {
-    "definitions": [
-      {
-        "word": "freebie",
-        "partOfSpeech": "slang",
-        "enDefinition": "a free thing; something that is given away for free, usually as part of a promotional campaign",
-        "examples": [
-          {
-            "enExample": "Example: Yoplait got lots of people to \"like\" its Facebook page by giving away freebies, including a free cup of yogurt.",
-            "ptExample": "Exemplo: A Yoplait conseguiu que muitas pessoas \"curtissem\" sua página no Facebook ao oferecer brindes, incluindo um copo de iogurte grátis."
-          }
-        ]
+        "synonyms": ["adjust, concentrate"]
       }
     ]
   }

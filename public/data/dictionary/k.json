@@ -16,8 +16,8 @@
             "ptExample": "Ela trabalhou duro para passar em todas as provas."
           }
         ],
-        "synonyms": "work hard, stay focused, persevere",
-        "antonyms": "slack off, procrastinate, get distracted",
+        "synonyms": ["work hard, stay focused, persevere"],
+        "antonyms": ["slack off, procrastinate, get distracted"],
         "seeAlso": "hang in there, keep going",
         "notes": [
           {
@@ -25,11 +25,7 @@
             "ptNote": "Expressão comum que incentiva diligência e foco."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "keep one’s head above water",
         "partOfSpeech": "idiom",
@@ -45,8 +41,8 @@
             "ptExample": "Durante os tempos difíceis, ela apenas tenta se manter."
           }
         ],
-        "synonyms": "manage, survive, cope",
-        "antonyms": "struggle, drown, fail",
+        "synonyms": ["manage, survive, cope"],
+        "antonyms": ["struggle, drown, fail"],
         "seeAlso": "stay afloat, hold on",
         "notes": [
           {
@@ -54,11 +50,7 @@
             "ptNote": "Frequentemente usada metaforicamente para sobreviver a desafios."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "kiss up (to someone)",
         "partOfSpeech": "phrasal verb",
@@ -74,8 +66,8 @@
             "ptExample": "Pare de bajular e apenas faça seu trabalho."
           }
         ],
-        "synonyms": "brown-nose, suck up, flatter",
-        "antonyms": "be independent, speak honestly",
+        "synonyms": ["brown-nose, suck up, flatter"],
+        "antonyms": ["be independent, speak honestly"],
         "seeAlso": "brown noser, yes man, bootlicker",
         "notes": [
           {
@@ -83,11 +75,7 @@
             "ptNote": "Expressão informal frequentemente usada de forma negativa para descrever bajulação insincera."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "kick off",
         "phonetics": "kɪk ɔf",
@@ -106,11 +94,7 @@
         ],
         "synonyms": ["begin", "start", "initiate"],
         "antonyms": ["end", "finish", "conclude"]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "keep an open mind",
         "partOfSpeech": "idiom",
@@ -129,11 +113,7 @@
           "think outside the box",
           "be open to feedback"
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "keep something under wraps",
         "phonetics": "",
@@ -159,11 +139,7 @@
             "ptNote": "Frequentemente usado ao se referir a informações confidenciais ou surpresas."
           }
         ]
-      }
-    ]
-  },
-  {
-    "definitions": [
+      },
       {
         "word": "kudos",
         "phonetics": "/ˈkuːdoʊz/",
