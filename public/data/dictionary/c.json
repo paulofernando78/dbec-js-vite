@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "compare apples to oranges",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to compare two things that are fundamentally different and should not be compared directly",
+        "ptDefinition": "comparar duas coisas que são fundamentalmente diferentes e que não deveriam ser comparadas diretamente",
+        "examples": [
+          {
+            "enExample": "You can't compare her art to his–it’s like comparing apples to oranges.",
+            "ptExample": "Você não pode comparar a arte dela com a dele – é como comparar maçãs com laranjas."
+          },
+          {
+            "enExample": "Trying to choose between a tablet and a laptop is like comparing apples to oranges.",
+            "ptExample": "Tentar escolher entre um tablet e um laptop é como comparar maçãs com laranjas."
+          }
+        ],
+        "synonyms": ["unrelated comparison", "false equivalence"],
+        "antonyms": ["compare like with like", "similar items"],
+        "seeAlso": ["apples and oranges", "false comparison"],
+        "notes": [
+          {
+            "enNote": "Often used to point out that two options are too different to be fairly compared.",
+            "ptNote": "Usado frequentemente para indicar que duas opções são diferentes demais para serem comparadas de forma justa."
+          }
+        ]
+      },
+      {
         "word": "not all it’s cracked up to be",
         "partOfSpeech": "idiom",
         "enDefinition": "not as good as people say or expect",

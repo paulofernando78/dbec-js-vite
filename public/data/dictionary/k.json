@@ -2,6 +2,62 @@
   {
     "definitions": [
       {
+        "word": "know",
+        "phonetics": "/noʊ/",
+        "partOfSpeech": "irregular verb (past: knew / participle: known)",
+        "enDefinition": "to have information in your mind; to be aware of something through experience, observation, or education",
+        "ptDefinition": "ter informação na mente; estar ciente de algo por meio de experiência, observação ou educação",
+        "examples": [
+          {
+            "enExample": "I know the answer to this question.",
+            "ptExample": "Eu sei a resposta para esta pergunta."
+          },
+          {
+            "enExample": "He knows a lot about computers.",
+            "ptExample": "Ele entende muito de computadores."
+          }
+        ],
+        "synonyms": [
+          "understand",
+          "realize",
+          "be aware of",
+          "be familiar with"
+        ],
+        "antonyms": ["ignore", "forget", "not know"],
+        "seeAlso": ["learn", "understand", "recognize"],
+        "notes": [
+          {
+            "enNote": "‘Know’ is an irregular verb: know – knew – known.",
+            "ptNote": "‘Know’ é um verbo irregular: know – knew – known."
+          }
+        ]
+      },
+      {
+        "word": "know something inside and out",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to know something very thoroughly; to be extremely familiar with all aspects of it",
+        "ptDefinition": "conhecer algo por completo; estar extremamente familiarizado com todos os aspectos",
+        "examples": [
+          {
+            "enExample": "She knows the system inside and out.",
+            "ptExample": "Ela conhece o sistema de cabo a rabo."
+          },
+          {
+            "enExample": "You have to know the product inside and out before you try to sell it.",
+            "ptExample": "Você precisa conhecer o produto profundamente antes de tentar vendê-lo."
+          }
+        ],
+        "synonyms": ["be well-versed in", "be an expert in", "master"],
+        "antonyms": ["be unfamiliar with", "be new to"],
+        "seeAlso": ["know like the back of one's hand", "be an expert"],
+        "notes": [
+          {
+            "enNote": "Often used in professional or technical contexts to describe deep expertise.",
+            "ptNote": "Frequentemente usado em contextos profissionais ou técnicos para descrever domínio completo de algo."
+          }
+        ]
+      },
+      {
         "word": "keep up the good work",
         "partOfSpeech": "idiom",
         "enDefinition": "to continue doing something well and with effort",

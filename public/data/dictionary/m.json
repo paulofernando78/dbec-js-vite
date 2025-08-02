@@ -2,6 +2,58 @@
   {
     "definitions": [
       {
+        "word": "miss",
+        "phonetics": "/mɪs/",
+        "partOfSpeech": "regular verb (past: missed / participle: missed)",
+        "enDefinition": "to fail to hit, reach, or catch something; or to feel the absence of someone or something",
+        "ptDefinition": "falhar em atingir, alcançar ou pegar algo; ou sentir falta de alguém ou algo",
+        "examples": [
+          {
+            "enExample": "I missed the bus this morning.",
+            "ptExample": "Perdi o ônibus esta manhã."
+          },
+          {
+            "enExample": "She misses her family when she travels.",
+            "ptExample": "Ela sente falta da família quando viaja."
+          }
+        ],
+        "synonyms": ["fail", "lose", "long for", "yearn for"],
+        "antonyms": ["hit", "reach", "find", "meet"],
+        "seeAlso": ["fail", "absence", "nostalgia"],
+        "notes": [
+          {
+            "enNote": "‘Miss’ can describe both a physical failure (like missing a target) and an emotional feeling (like missing someone).",
+            "ptNote": "‘Miss’ pode se referir tanto a uma falha física (como errar um alvo) quanto a um sentimento emocional (como sentir falta de alguém)."
+          }
+        ]
+      },
+
+      {
+        "word": "miss the point",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to fail to understand the main or essential part of something",
+        "ptDefinition": "não entender o ponto principal ou a essência de algo",
+        "examples": [
+          {
+            "enExample": "I think you missed the point of what she was saying.",
+            "ptExample": "Acho que você não entendeu o ponto principal do que ela estava dizendo."
+          },
+          {
+            "enExample": "He kept arguing, but he totally missed the point.",
+            "ptExample": "Ele continuou discutindo, mas não entendeu o verdadeiro objetivo."
+          }
+        ],
+        "synonyms": ["misunderstand", "misinterpret", "get it wrong"],
+        "antonyms": ["understand", "grasp", "get the idea"],
+        "seeAlso": ["miss the mark", "take out of context"],
+        "notes": [
+          {
+            "enNote": "Used when someone misunderstands the core meaning or intent of something.",
+            "ptNote": "Usado quando alguém não compreende o significado central ou a intenção de algo."
+          }
+        ]
+      },
+      {
         "word": "make an offer",
         "phonetics": "/meɪk ən ˈɒfər/",
         "partOfSpeech": "verb phrase",

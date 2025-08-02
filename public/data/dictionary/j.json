@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "jump through hoops",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to go through many complicated, difficult, or unnecessary steps to achieve something",
+        "ptDefinition": "passar por muitas etapas complicadas, difíceis ou desnecessárias para conseguir algo",
+        "examples": [
+          {
+            "enExample": "We had to jump through hoops to get the permit approved.",
+            "ptExample": "Tivemos que passar por mil burocracias para conseguir a aprovação da licença."
+          },
+          {
+            "enExample": "She jumped through hoops just to schedule an appointment.",
+            "ptExample": "Ela teve que enfrentar muita dificuldade só para marcar uma consulta."
+          }
+        ],
+        "synonyms": ["go through red tape", "struggle", "make an effort"],
+        "antonyms": ["have it easy", "breeze through"],
+        "seeAlso": ["red tape", "hurdles"],
+        "notes": [
+          {
+            "enNote": "Often used to criticize overly complex procedures or requirements.",
+            "ptNote": "Frequentemente usado para criticar processos ou exigências excessivamente complexos."
+          }
+        ]
+      },
+      {
         "word": "jump ship",
         "partOfSpeech": "idiom",
         "enDefinition": "to leave an organization, project, or situation abruptly, especially when it starts to fail",

@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "go back to the drawing board",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to start planning something again because the previous attempt failed",
+        "ptDefinition": "voltar ao início do planejamento porque a tentativa anterior falhou",
+        "examples": [
+          {
+            "enExample": "Our proposal was rejected, so it's back to the drawing board.",
+            "ptExample": "Nossa proposta foi rejeitada, então temos que voltar à estaca zero."
+          },
+          {
+            "enExample": "The prototype didn't work, so the engineers had to go back to the drawing board.",
+            "ptExample": "O protótipo não funcionou, então os engenheiros tiveram que começar do zero novamente."
+          }
+        ],
+        "synonyms": ["start over", "rethink", "begin again"],
+        "antonyms": ["move forward", "finalize", "complete"],
+        "seeAlso": ["back to square one", "start from scratch"],
+        "notes": [
+          {
+            "enNote": "This idiom is commonly used in business, design, and problem-solving contexts.",
+            "ptNote": "Esse idiom é comumente usado em contextos de negócios, design e resolução de problemas."
+          }
+        ]
+      },
+      {
         "word": "get the ball rolling",
         "partOfSpeech": "idiom",
         "enDefinition": "to start an activity or process",

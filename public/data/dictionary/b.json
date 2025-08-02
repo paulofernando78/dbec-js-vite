@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "in the bag",
+        "partOfSpeech": "idiom",
+        "enDefinition": "certain to be achieved or won; guaranteed",
+        "ptDefinition": "certo de ser alcançado ou ganho; garantido",
+        "examples": [
+          {
+            "enExample": "Don’t worry about the contract — it’s in the bag.",
+            "ptExample": "Não se preocupe com o contrato — já está garantido."
+          },
+          {
+            "enExample": "They thought the game was in the bag, but they lost in the last minute.",
+            "ptExample": "Eles achavam que o jogo estava ganho, mas perderam no último minuto."
+          }
+        ],
+        "synonyms": ["guaranteed", "secured", "certain"],
+        "antonyms": ["uncertain", "at risk", "doubtful"],
+        "seeAlso": ["sure thing", "done deal"],
+        "notes": [
+          {
+            "enNote": "Used to express high confidence that a success or result is already secured.",
+            "ptNote": "Usado para expressar grande confiança de que o sucesso ou resultado já está garantido."
+          }
+        ]
+      },
+      {
         "word": "the big picture",
         "phonetics": "/ðə bɪɡ ˈpɪkʧər/",
         "partOfSpeech": "noun phrase",

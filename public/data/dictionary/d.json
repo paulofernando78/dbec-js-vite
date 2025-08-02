@@ -2,6 +2,36 @@
   {
     "definitions": [
       {
+        "word": "different animal",
+        "phonetics": "/ˈdɪf.ɚ.ənt ˈæn.ə.məl/",
+        "partOfSpeech": "idiom",
+        "enDefinition": "something that is very different in nature or character from what was previously considered or compared",
+        "ptDefinition": "algo que é muito diferente em natureza ou característica do que foi anteriormente considerado ou comparado",
+        "examples": [
+          {
+            "enExample": "Managing a small team is one thing, but leading an entire department is a different animal.",
+            "ptExample": "Gerenciar uma pequena equipe é uma coisa, mas liderar um departamento inteiro é outra história completamente diferente."
+          },
+          {
+            "enExample": "Teaching kids is a different animal compared to teaching adults.",
+            "ptExample": "Ensinar crianças é algo bem diferente de ensinar adultos."
+          }
+        ],
+        "synonyms": [
+          "another matter",
+          "a whole other thing",
+          "something entirely different"
+        ],
+        "antonyms": ["more of the same", "similar case"],
+        "seeAlso": ["whole different ballgame", "another story"],
+        "notes": [
+          {
+            "enNote": "Used informally to highlight a significant difference between two situations or things.",
+            "ptNote": "Usado informalmente para destacar uma grande diferença entre duas situações ou coisas."
+          }
+        ]
+      },
+      {
         "word": "draw",
         "phonetics": "/drɔː/",
         "partOfSpeech": "irregular verb (past: drew / participle: drawn)",
