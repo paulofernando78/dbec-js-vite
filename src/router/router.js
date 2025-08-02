@@ -14,6 +14,8 @@ const Router = {
 
   nav: (route, addToHistory = true) => {
     console.log(route);
+    Router.scrollPositions = Router.scrollPositions || {};
+    Router.scrollPositions[window.location.pathname] = window.scrollY
     if (addToHistory) {
       history.pushState({ route }, null, route);
     }
@@ -33,7 +35,7 @@ const Router = {
 
     // wc-layout ot its shadowRoot not available yet
     if (!layout || !layout.shadowRoot) {
-      console.warn("wc-layout ot its shadowRoot not available yet")
+      console.warn("wc-layout ot its shadowRoot not available yet");
       return;
     }
 

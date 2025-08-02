@@ -39,15 +39,15 @@
               ],
               "options": [
                 {
-                  "option": "a) I really need a new business card holder.",
+                  "option": "I really need a new business card holder.",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) I'm happy to get another business card holder.",
+                  "option": "I'm happy to get another business card holder.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) I really don't need another business card holder.",
+                  "option": "I really don't need another business card holder.",
                   "isCorrect": true
                 }
               ]
@@ -66,15 +66,15 @@
               ],
               "options": [
                 {
-                  "option": "a) very easy",
+                  "option": "very easy",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) challenging",
+                  "option": "challenging",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) enjoyable",
+                  "option": "enjoyable",
                   "isCorrect": false
                 }
               ]
@@ -93,15 +93,15 @@
               ],
               "options": [
                 {
-                  "option": "a) we should take a risk and enter the Chinese market",
+                  "option": "we should take a risk and enter the Chinese market",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) we shouldn't enter the Chinese market",
+                  "option": "we shouldn't enter the Chinese market",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) if we enter the Chinese market, we'll definitely succeed",
+                  "option": "if we enter the Chinese market, we'll definitely succeed",
                   "isCorrect": false
                 }
               ]
@@ -120,15 +120,15 @@
               ],
               "options": [
                 {
-                  "option": "a) fix the crack in it",
+                  "option": "fix the crack in it",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) try to fix it",
+                  "option": "try to fix it",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) throw it in the trash",
+                  "option": "throw it in the trash",
                   "isCorrect": false
                 }
               ]
@@ -147,15 +147,15 @@
               ],
               "options": [
                 {
-                  "option": "a) ended",
+                  "option": "ended",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) postponed",
+                  "option": "postponed",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) began",
+                  "option": "began",
                   "isCorrect": true
                 }
               ]
@@ -174,15 +174,15 @@
               ],
               "options": [
                 {
-                  "option": "a) don't think too much about it",
+                  "option": "don't think too much about it",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) work hard at it",
+                  "option": "work hard at it",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) think about it",
+                  "option": "think about it",
                   "isCorrect": false
                 }
               ]
@@ -201,15 +201,15 @@
               ],
               "options": [
                 {
-                  "option": "a) tried as hard as I could",
+                  "option": "tried as hard as I could",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) made a little effort",
+                  "option": "made a little effort",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) didn't try too hard",
+                  "option": "didn't try too hard",
                   "isCorrect": false
                 }
               ]
@@ -228,15 +228,15 @@
               ],
               "options": [
                 {
-                  "option": "a) low-level employee",
+                  "option": "low-level employee",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) frequent visitor",
+                  "option": "frequent visitor",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) senior executive",
+                  "option": "senior executive",
                   "isCorrect": true
                 }
               ]

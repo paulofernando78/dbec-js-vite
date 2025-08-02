@@ -39,15 +39,15 @@
               ],
               "options": [
                 {
-                  "option": "a) a great idea",
+                  "option": "a great idea",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) a really bad idea",
+                  "option": "a really bad idea",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) an idea that needs some more time in the oven",
+                  "option": "an idea that needs some more time in the oven",
                   "isCorrect": false
                 }
               ]
@@ -66,15 +66,15 @@
               ],
               "options": [
                 {
-                  "option": "a) nothing has been decided yet",
+                  "option": "nothing has been decided yet",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) the proposal has been approved",
+                  "option": "the proposal has been approved",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) nothing will ever be decided",
+                  "option": "nothing will ever be decided",
                   "isCorrect": false
                 }
               ]
@@ -93,15 +93,15 @@
               ],
               "options": [
                 {
-                  "option": "a) convince the boss",
+                  "option": "convince the boss",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) hurt the boss",
+                  "option": "hurt the boss",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ignore the boss",
+                  "option": "ignore the boss",
                   "isCorrect": false
                 }
               ]
@@ -120,15 +120,15 @@
               ],
               "options": [
                 {
-                  "option": "a) drinking products",
+                  "option": "drinking products",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) advertising products",
+                  "option": "advertising products",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) terminating products",
+                  "option": "terminating products",
                   "isCorrect": false
                 }
               ]
@@ -147,15 +147,15 @@
               ],
               "options": [
                 {
-                  "option": "a) throw out",
+                  "option": "throw out",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) present",
+                  "option": "present",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) add more detail to",
+                  "option": "add more detail to",
                   "isCorrect": true
                 }
               ]
@@ -174,15 +174,15 @@
               ],
               "options": [
                 {
-                  "option": "a) a lot of money",
+                  "option": "a lot of money",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) not much money",
+                  "option": "not much money",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) a lot of time",
+                  "option": "a lot of time",
                   "isCorrect": false
                 }
               ]
@@ -201,15 +201,15 @@
               ],
               "options": [
                 {
-                  "option": "a) easy when you live in Vermont",
+                  "option": "easy when you live in Vermont",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) how they earn their living",
+                  "option": "how they earn their living",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) an additional benefit",
+                  "option": "an additional benefit",
                   "isCorrect": true
                 }
               ]
@@ -228,15 +228,15 @@
               ],
               "options": [
                 {
-                  "option": "a) Let's discuss it further.",
+                  "option": "Let's discuss it further.",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) Let's proceed with it.",
+                  "option": "Let's proceed with it.",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) Let's forget it.",
+                  "option": "Let's forget it.",
                   "isCorrect": false
                 }
               ]

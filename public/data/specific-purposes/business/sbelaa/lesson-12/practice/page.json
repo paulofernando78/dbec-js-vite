@@ -21,7 +21,7 @@
     {
       "exercises": [
         {
-          "title": "Choose the most appropriate response to the following:"
+          "title": "Choose the best substitute for the highlighted phrase or sentence:"
         },
         {
           "radioExercises": [
@@ -39,15 +39,15 @@
               ],
               "options": [
                 {
-                  "option": "a) don't understand",
+                  "option": "don't understand",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) don't agree on",
+                  "option": "don't agree on",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) agree on",
+                  "option": "agree on",
                   "isCorrect": false
                 }
               ]
@@ -66,15 +66,15 @@
               ],
               "options": [
                 {
-                  "option": "a) complain about",
+                  "option": "complain about",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) dictate",
+                  "option": "dictate",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) give their opinion on",
+                  "option": "give their opinion on",
                   "isCorrect": true
                 }
               ]
@@ -93,15 +93,15 @@
               ],
               "options": [
                 {
-                  "option": "a) emphasize",
+                  "option": "emphasize",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) return to",
+                  "option": "return to",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) dismiss",
+                  "option": "dismiss",
                   "isCorrect": false
                 }
               ]
@@ -120,15 +120,15 @@
               ],
               "options": [
                 {
-                  "option": "a) Very frequently",
+                  "option": "Very frequently",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) Whenever I turn my back",
+                  "option": "Whenever I turn my back",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) From time to time",
+                  "option": "From time to time",
                   "isCorrect": false
                 }
               ]
@@ -147,15 +147,15 @@
               ],
               "options": [
                 {
-                  "option": "a) not act too quickly",
+                  "option": "not act too quickly",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) take action now",
+                  "option": "take action now",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) be efficient",
+                  "option": "be efficient",
                   "isCorrect": false
                 }
               ]
@@ -174,15 +174,15 @@
               ],
               "options": [
                 {
-                  "option": "a) continue to discuss this",
+                  "option": "continue to discuss this",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) leave the conference room now",
+                  "option": "leave the conference room now",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) proceed to our next topic",
+                  "option": "proceed to our next topic",
                   "isCorrect": true
                 }
               ]
@@ -201,15 +201,15 @@
               ],
               "options": [
                 {
-                  "option": "a) hard to count",
+                  "option": "hard to count",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) written down",
+                  "option": "written down",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) much too high",
+                  "option": "much too high",
                   "isCorrect": true
                 }
               ]
@@ -228,15 +228,15 @@
               ],
               "options": [
                 {
-                  "option": "a) saw much of the city",
+                  "option": "saw much of the city",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) had successful",
+                  "option": "had successful",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) made a lot of money",
+                  "option": "made a lot of money",
                   "isCorrect": false
                 }
               ]

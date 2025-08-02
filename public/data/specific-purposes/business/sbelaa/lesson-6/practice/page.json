@@ -33,15 +33,15 @@
               ],
               "options": [
                 {
-                  "option": "a) I'm sorry to hear that you need a new roof.",
+                  "option": "I'm sorry to hear that you need a new roof.",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) That's great. Congratulations!",
+                  "option": "That's great. Congratulations!",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) Don't worry. Maybe next year will be better.",
+                  "option": "Don't worry. Maybe next year will be better.",
                   "isCorrect": false
                 }
               ]
@@ -54,15 +54,15 @@
               ],
               "options": [
                 {
-                  "option": "a) Yes, I tend to think like everybody else.",
+                  "option": "Yes, I tend to think like everybody else.",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) Yes, I enjoy approaching new projects in a traditional way.",
+                  "option": "Yes, I enjoy approaching new projects in a traditional way.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) Yes, I'm great at coming up with new and creative ideas.",
+                  "option": "Yes, I'm great at coming up with new and creative ideas.",
                   "isCorrect": true
                 }
               ]
@@ -75,15 +75,15 @@
               ],
               "options": [
                 {
-                  "option": "a) Thank you. I appreciate the recognition.",
+                  "option": "Thank you. I appreciate the recognition.",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) Thanks, but I already have enough credit.",
+                  "option": "Thanks, but I already have enough credit.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) I think I deserve some of the credit too.",
+                  "option": "I think I deserve some of the credit too.",
                   "isCorrect": false
                 }
               ]
@@ -96,15 +96,15 @@
               ],
               "options": [
                 {
-                  "option": "a) Definitely. Their selection will be bigger and their prices may be lower.",
+                  "option": "Definitely. Their selection will be bigger and their prices may be lower.",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) Yes, our local hardware store will definitely run out of money.",
+                  "option": "Yes, our local hardware store will definitely run out of money.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) No. Everybody in town will start shopping at Ace Hardware.",
+                  "option": "No. Everybody in town will start shopping at Ace Hardware.",
                   "isCorrect": false
                 }
               ]
@@ -117,15 +117,15 @@
               ],
               "options": [
                 {
-                  "option": "a) We don't have any business right now.",
+                  "option": "We don't have any business right now.",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) We've been thinking about going into the drum business.",
+                  "option": "We've been thinking about going into the drum business.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) Great idea! I'm sure we could find some new clients there.",
+                  "option": "Great idea! I'm sure we could find some new clients there.",
                   "isCorrect": true
                 }
               ]
@@ -138,15 +138,15 @@
               ],
               "options": [
                 {
-                  "option": "a) Thanks. It was my pleasure.",
+                  "option": "Thanks. It was my pleasure.",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) Thanks. Let me turn around so you can see my back.",
+                  "option": "Thanks. Let me turn around so you can see my back.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) Sorry. I wish I could've done a better job.",
+                  "option": "Sorry. I wish I could've done a better job.",
                   "isCorrect": false
                 }
               ]
@@ -159,15 +159,15 @@
               ],
               "options": [
                 {
-                  "option": "a) We don't need any more kudos. We have enough in inventory.",
+                  "option": "We don't need any more kudos. We have enough in inventory.",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) Thank you. We are proud of our results.",
+                  "option": "Thank you. We are proud of our results.",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) We'll try our best, but we can't guarantee anything.",
+                  "option": "We'll try our best, but we can't guarantee anything.",
                   "isCorrect": false
                 }
               ]
@@ -180,15 +180,15 @@
               ],
               "options": [
                 {
-                  "option": "a) Absolutely. It's always better to use reliable old methods.",
+                  "option": "Absolutely. It's always better to use reliable old methods.",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) Yes, new ways of marketing might help increase sales.",
+                  "option": "Yes, new ways of marketing might help increase sales.",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) No, I think you should try marketing to monkeys instead.",
+                  "option": "No, I think you should try marketing to monkeys instead.",
                   "isCorrect": false
                 }
               ]

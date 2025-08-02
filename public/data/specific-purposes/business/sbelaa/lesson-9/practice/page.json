@@ -39,15 +39,15 @@
               ],
               "options": [
                 {
-                  "option": "a) meet our expectations",
+                  "option": "meet our expectations",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) do anything",
+                  "option": "do anything",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) disappoint us",
+                  "option": "disappoint us",
                   "isCorrect": false
                 }
               ]
@@ -66,15 +66,15 @@
               ],
               "options": [
                 {
-                  "option": "a) exhausted",
+                  "option": "exhausted",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) probably available",
+                  "option": "probably available",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) very busy",
+                  "option": "very busy",
                   "isCorrect": true
                 }
               ]
@@ -93,15 +93,15 @@
               ],
               "options": [
                 {
-                  "option": "a) see what I can do",
+                  "option": "see what I can do",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) look it over",
+                  "option": "look it over",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) start on it immediately",
+                  "option": "start on it immediately",
                   "isCorrect": true
                 }
               ]
@@ -120,15 +120,15 @@
               ],
               "options": [
                 {
-                  "option": "a) change the subject",
+                  "option": "change the subject",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) hide the truth from me",
+                  "option": "hide the truth from me",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) explain things to me",
+                  "option": "explain things to me",
                   "isCorrect": false
                 }
               ]
@@ -147,15 +147,15 @@
               ],
               "options": [
                 {
-                  "option": "a) do something nice for you",
+                  "option": "do something nice for you",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) explain why",
+                  "option": "explain why",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) take over your duties",
+                  "option": "take over your duties",
                   "isCorrect": false
                 }
               ]
@@ -174,15 +174,15 @@
               ],
               "options": [
                 {
-                  "option": "a) a) strategizing",
+                  "option": "strategizing",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) wasting time",
+                  "option": "wasting time",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) working so hard",
+                  "option": "working so hard",
                   "isCorrect": false
                 }
               ]
@@ -201,15 +201,15 @@
               ],
               "options": [
                 {
-                  "option": "a) a reasonable sum",
+                  "option": "a reasonable sum",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) a lot of money",
+                  "option": "a lot of money",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) not much",
+                  "option": "not much",
                   "isCorrect": false
                 }
               ]
@@ -228,15 +228,15 @@
               ],
               "options": [
                 {
-                  "option": "a) tried really hard",
+                  "option": "tried really hard",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) tried pretty hard",
+                  "option": "tried pretty hard",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) paid a lot of money",
+                  "option": "paid a lot of money",
                   "isCorrect": false
                 }
               ]

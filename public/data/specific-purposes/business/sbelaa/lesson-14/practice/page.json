@@ -28,20 +28,26 @@
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Your small company is trying to get distribution at Wal-Mart? How are you going to "
+                },
+                {
+                  "markedText": "pull that off"
+                },
+                {
+                  "text": "?"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "fail to do that",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "succeed in doing that",
+                  "isCorrect": true
+                },
+                {
+                  "option": "compete with them",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +55,26 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "2. If you need help answering phones and taking orders, I'd be happy to "
+                },
+                {
+                  "markedText":	"pitch in"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "hang up on the customers",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "help",
+                  "isCorrect": true
+                },
+                {
+                  "option": "call",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +82,53 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "3. When you're the CEO of a tobacco company, dealing with lawsuits "
+                },
+                {
+                  "markedText":	"comes with the territory"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "is a great benefit",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "is easily avoided",
+                  "isCorrect": false
+                },
+                {
+                  "option": "is part of the job",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "4. If we're going to get all of these orders shipped in time for Christmas, we're going to have to "
+                },
+                {
+                  "markedText":	"hunker down"
+                },
+                {
+                  "text":	"!"
+                }
+              ],
+              "options": [
+                {
+                  "option": "close for the holidays",
+                  "isCorrect": false
+                },
+                {
+                  "option": "work really hard",
+                  "isCorrect": true
+                },
+                {
+                  "option": "take it easy",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +136,26 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "5. During the negotiation, "
+                },
+                {
+                  "markedText":	"keep your eye on the prize"
+                },
+                {
+                  "text":	" and don't let the other side pressure you into a bad deal."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "watch the prize carefully",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "stay focused on what's important",
+                  "isCorrect": true
+                },
+                {
+                  "option": "grab everything for yourself",
                   "isCorrect": false
                 }
               ]
@@ -112,20 +163,26 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "6. You think consumers will be willing to pay $50,000 for a high-tech toilet? That's "
+                },
+                {
+                  "markedText":	"pushing the envelope"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "testing the limits of what people will pay",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "a reasonable price",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "not something to be flushed down a toilet",
                   "isCorrect": false
                 }
               ]
@@ -133,20 +190,26 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "7. You look exhausted. Why don't you take a few days off and "
+                },
+                {
+                  "markedText":	"get some R&R"
+                },
+                {
+                  "text":	"?"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "spend some time relaxing",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "take a trip by train",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "work extra hours",
                   "isCorrect": false
                 }
               ]
@@ -154,42 +217,27 @@
             {
               "question": [
                 {
-                  "text": "7. ..."
+                  "text": "8. If we want to submit the business plan by tomorrow afternoon, we're going to have to "
+                },
+                {
+                  "markedText":	"burn the midnight oil tonight"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "work until 7 p.m.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "relax",
+                  "isCorrect": false
+                },
+                {
+                  "option": "work very late",
                   "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
                 }
               ]
             }

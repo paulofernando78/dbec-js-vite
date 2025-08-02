@@ -162,7 +162,7 @@ class Exercise extends HTMLElement {
       }
 
       if (item.options) {
-        item.options.forEach((option) => {
+        item.options.forEach((option, optIdx) => {
           const optionWrapper = document.createElement("div");
           optionWrapper.style.display = "flex";
           optionWrapper.style.alignItems = "start";
@@ -223,12 +223,13 @@ class Exercise extends HTMLElement {
           optionWrapper.appendChild(dot);
 
           input.type = "radio";
-          input.name = `radio-${idx + idxOffset}`;
+          input.name = `radio-${idx + idxOffset}`; 
           input.value = option.option;
           optionWrapper.appendChild(input);
 
           const label = document.createElement("label");
-          label.textContent = option.option;
+          const optionLetter = String.fromCharCode(97 + optIdx); // 97 = 'a'
+          label.textContent = `${optionLetter}) ${option.option}`;
           optionWrapper.appendChild(label);
 
           const result = document.createElement("span");
@@ -268,9 +269,7 @@ class Exercise extends HTMLElement {
       if (item.blocks) {
         item.blocks.forEach((group, groupIndex) => {
           const fillGroupWrapper = document.createElement("div");
-          // if (groupIndex === item.blocks.length - 1 && item.blocks.length > 1) {
-          //   fillGroupWrapper.style.marginBottom = "var(--line-break)";
-          // }
+
           if (group.lineBreak) {
             fillGroupWrapper.style.marginBottom = "var(--line-break)";
           }

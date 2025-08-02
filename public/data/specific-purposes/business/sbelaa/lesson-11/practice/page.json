@@ -39,15 +39,15 @@
               ],
               "options": [
                 {
-                  "option": "a) sell our business",
+                  "option": "sell our business",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) make our business profitable again",
+                  "option": "make our business profitable again",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) cut employees",
+                  "option": "cut employees",
                   "isCorrect": false
                 }
               ]
@@ -66,15 +66,15 @@
               ],
               "options": [
                 {
-                  "option": "a) Tell me more.",
+                  "option": "Tell me more.",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) Will I be included?",
+                  "option": "Will I be included?",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) I will participate.",
+                  "option": "I will participate.",
                   "isCorrect": true
                 }
               ]
@@ -93,15 +93,15 @@
               ],
               "options": [
                 {
-                  "option": "a) motivate employees",
+                  "option": "motivate employees",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) fire employees",
+                  "option": "fire employees",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) bring in new employees",
+                  "option": "bring in new employees",
                   "isCorrect": false
                 }
               ]
@@ -120,15 +120,15 @@
               ],
               "options": [
                 {
-                  "option": "a) stop worrying",
+                  "option": "stop worrying",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) start working",
+                  "option": "start working",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) forecast our losses",
+                  "option": "forecast our losses",
                   "isCorrect": false
                 }
               ]
@@ -147,15 +147,15 @@
               ],
               "options": [
                 {
-                  "option": "a) enthusiasm for working as a group",
+                  "option": "enthusiasm for working as a group",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) work experience",
+                  "option": "work experience",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) loyalty",
+                  "option": "loyalty",
                   "isCorrect": false
                 }
               ]
@@ -174,15 +174,15 @@
               ],
               "options": [
                 {
-                  "option": "a) take a break in her career",
+                  "option": "take a break in her career",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) rely on her past successes",
+                  "option": "rely on her past successes",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) try hard for a promotion",
+                  "option": "try hard for a promotion",
                   "isCorrect": false
                 }
               ]
@@ -201,15 +201,15 @@
               ],
               "options": [
                 {
-                  "option": "a) give up",
+                  "option": "give up",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) try harder",
+                  "option": "try harder",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) find new leadership",
+                  "option": "find new leadership",
                   "isCorrect": false
                 }
               ]
@@ -228,15 +228,15 @@
               ],
               "options": [
                 {
-                  "option": "a) aware of",
+                  "option": "aware of",
                   "isCorrect": false
                 },
                 {
-                  "option": "b) in disagreement with",
+                  "option": "in disagreement with",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) in agreement with",
+                  "option": "in agreement with",
                   "isCorrect": true
                 }
               ]
