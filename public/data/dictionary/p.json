@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "pique someone's curiosity",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to make someone feel curious or interested in something",
+        "ptDefinition": "despertar a curiosidade ou o interesse de alguém por algo",
+        "examples": [
+          {
+            "enExample": "The mysterious note piqued her curiosity.",
+            "ptExample": "O bilhete misterioso despertou a curiosidade dela."
+          },
+          {
+            "enExample": "That trailer really piqued my curiosity about the movie.",
+            "ptExample": "Aquele trailer realmente instigou minha curiosidade sobre o filme."
+          }
+        ],
+        "synonyms": ["spark interest", "arouse curiosity", "intrigue"],
+        "antonyms": ["bore", "disinterest"],
+        "seeAlso": ["catch someone’s attention", "spark one’s interest"],
+        "notes": [
+          {
+            "enNote": "The verb 'pique' here is used in the sense of stimulating or provoking.",
+            "ptNote": "O verbo 'pique' nesse contexto significa provocar ou estimular algo, como o interesse."
+          }
+        ]
+      },
+      {
         "word": "put in place",
         "phonetics": "/pʊt ɪn pleɪs/",
         "partOfSpeech": "phrasal verb",

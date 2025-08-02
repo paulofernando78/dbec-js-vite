@@ -2,6 +2,61 @@
   {
     "definitions": [
       {
+        "word": "Is there any room to negotiate?",
+        "partOfSpeech": "phrase (question)",
+        "enDefinition": "a question asked to find out if there is flexibility to adjust terms or conditions",
+        "ptDefinition": "pergunta feita para saber se há flexibilidade para ajustar termos ou condições",
+        "examples": [
+          {
+            "enExample": "Is there any room to negotiate on the price?",
+            "ptExample": "Há possibilidade de negociação no preço?"
+          },
+          {
+            "enExample": "Before we sign the contract, is there any room to negotiate the deadlines?",
+            "ptExample": "Antes de assinarmos o contrato, há espaço para negociar os prazos?"
+          }
+        ],
+        "synonyms": [
+          "Can we negotiate?",
+          "Is negotiation possible?",
+          "Any flexibility?"
+        ],
+        "antonyms": ["Take it or leave it", "Non-negotiable"],
+        "seeAlso": ["negotiation", "bargaining", "compromise"],
+        "notes": [
+          {
+            "enNote": "Commonly used in business, sales, and contract discussions.",
+            "ptNote": "Usado com frequência em negócios, vendas e discussões contratuais."
+          }
+        ]
+      },
+      {
+        "word": "nitty-gritty",
+        "phonetics": "/ˈnɪti ˈɡrɪti/",
+        "partOfSpeech": "noun phrase",
+        "enDefinition": "the most important, basic, or practical details of a subject or situation",
+        "ptDefinition": "os detalhes mais importantes, básicos ou práticos de um assunto ou situação",
+        "examples": [
+          {
+            "enExample": "Let's get down to the nitty-gritty and discuss the budget.",
+            "ptExample": "Vamos direto ao ponto e discutir o orçamento."
+          },
+          {
+            "enExample": "The meeting focused on the nitty-gritty of the contract terms.",
+            "ptExample": "A reunião focou nos detalhes essenciais dos termos do contrato."
+          }
+        ],
+        "synonyms": ["essentials", "basics", "core details", "fundamentals"],
+        "antonyms": ["superficial details", "frills", "extras"],
+        "seeAlso": ["get down to business", "bottom line"],
+        "notes": [
+          {
+            "enNote": "Often used to emphasize the practical or fundamental parts of a discussion.",
+            "ptNote": "Frequentemente usada para enfatizar as partes práticas ou fundamentais de uma discussão."
+          }
+        ]
+      },
+      {
         "word": "nickel-and-dime",
         "phonetics": "/ˌnɪk.əl.ənˈdaɪm/",
         "partOfSpeech": "adjective / verb / idiom",

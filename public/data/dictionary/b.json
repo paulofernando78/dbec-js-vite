@@ -2,6 +2,58 @@
   {
     "definitions": [
       {
+        "word": "the big picture",
+        "phonetics": "/ðə bɪɡ ˈpɪkʧər/",
+        "partOfSpeech": "noun phrase",
+        "enDefinition": "the overall perspective or comprehensive view of a situation",
+        "ptDefinition": "a visão geral ou entendimento amplo de uma situação",
+        "examples": [
+          {
+            "enExample": "It's important to look at the big picture before making a decision.",
+            "ptExample": "É importante ver o panorama geral antes de tomar uma decisão."
+          },
+          {
+            "enExample": "She tends to focus on details, but he always considers the big picture.",
+            "ptExample": "Ela tende a focar nos detalhes, mas ele sempre considera a visão geral."
+          }
+        ],
+        "synonyms": ["overview", "broad view", "general perspective"],
+        "antonyms": ["details", "specifics", "narrow view"],
+        "seeAlso": ["zoom out", "long-term view"],
+        "notes": [
+          {
+            "enNote": "Used to remind people to think broadly and consider all factors.",
+            "ptNote": "Usada para lembrar as pessoas a pensar de forma ampla e considerar todos os fatores."
+          }
+        ]
+      },
+      {
+        "word": "go belly up",
+        "phonetics": "/ɡoʊ ˈbɛli ʌp/",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to fail completely, especially used when a business goes bankrupt",
+        "ptDefinition": "fracassar completamente; falir (especialmente usado para empresas)",
+        "examples": [
+          {
+            "enExample": "The company went belly up after just six months in business.",
+            "ptExample": "A empresa faliu depois de apenas seis meses de operação."
+          },
+          {
+            "enExample": "Their investment plan went belly up during the market crash.",
+            "ptExample": "O plano de investimento deles quebrou durante a crise do mercado."
+          }
+        ],
+        "synonyms": ["go bankrupt", "fail", "collapse"],
+        "antonyms": ["succeed", "thrive", "prosper"],
+        "seeAlso": ["go under", "fold", "go bust"],
+        "notes": [
+          {
+            "enNote": "This expression is informal and often used in financial or business contexts.",
+            "ptNote": "Expressão informal usada com frequência em contextos financeiros ou de negócios."
+          }
+        ]
+      },
+      {
         "word": "buy",
         "phonetics": "/baɪ/",
         "partOfSpeech": "irregular verb (past and participle: bought)",

@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "jump ship",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to leave an organization, project, or situation abruptly, especially when it starts to fail",
+        "ptDefinition": "abandonar repentinamente um trabalho, projeto ou grupo, especialmente quando há sinais de fracasso",
+        "examples": [
+          {
+            "enExample": "Several investors jumped ship when the company began to struggle.",
+            "ptExample": "Vários investidores pularam fora quando a empresa começou a ter dificuldades."
+          },
+          {
+            "enExample": "He jumped ship to work for a competitor offering a better salary.",
+            "ptExample": "Ele deixou o emprego para trabalhar em um concorrente que oferecia um salário melhor."
+          }
+        ],
+        "synonyms": ["quit", "leave abruptly", "bail out"],
+        "antonyms": ["stay loyal", "stick with", "remain committed"],
+        "seeAlso": ["bail out", "abandon ship", "walk away"],
+        "notes": [
+          {
+            "enNote": "Commonly used in business contexts, but also in any group or project setting.",
+            "ptNote": "Usado com frequência no contexto de negócios, mas também em projetos ou grupos em geral."
+          }
+        ]
+      },
+      {
         "word": "between jobs",
         "partOfSpeech": "idiom",
         "enDefinition": "temporarily unemployed and looking for work",

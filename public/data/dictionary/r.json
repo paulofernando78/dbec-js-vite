@@ -2,6 +2,57 @@
   {
     "definitions": [
       {
+        "word": "review an offer",
+        "phonetics": "/rɪˈvjuː ən ˈɒfər/",
+        "partOfSpeech": "noun phrase",
+        "enDefinition": "to carefully examine a proposal or offer before making a decision",
+        "ptDefinition": "analisar cuidadosamente uma proposta antes de tomar uma decisão",
+        "examples": [
+          {
+            "enExample": "The hiring manager will review the offer before approving it.",
+            "ptExample": "O gerente de contratação vai analisar a proposta antes de aprová-la."
+          },
+          {
+            "enExample": "Take your time to review the offer before signing the contract.",
+            "ptExample": "Tire seu tempo para analisar a proposta antes de assinar o contrato."
+          }
+        ],
+        "synonyms": ["examine", "consider", "evaluate"],
+        "antonyms": ["ignore", "reject without thought"],
+        "seeAlso": ["make an offer", "accept an offer"],
+        "notes": [
+          {
+            "enNote": "Commonly used in business and job offer contexts.",
+            "ptNote": "Usado com frequência em contextos de negócios e propostas de emprego."
+          }
+        ]
+      },
+      {
+        "word": "run one’s own show",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to manage or control your own affairs independently",
+        "ptDefinition": "gerenciar ou controlar suas próprias atividades de forma independente",
+        "examples": [
+          {
+            "enExample": "After years working for others, she decided to run her own show.",
+            "ptExample": "Depois de anos trabalhando para outros, ela decidiu tocar seu próprio negócio."
+          },
+          {
+            "enExample": "He likes to run his own show and make all the decisions himself.",
+            "ptExample": "Ele gosta de controlar tudo e tomar todas as decisões sozinho."
+          }
+        ],
+        "synonyms": ["be independent", "manage oneself", "be in charge"],
+        "antonyms": ["depend on others", "be controlled", "follow orders"],
+        "seeAlso": ["call the shots", "be your own boss"],
+        "notes": [
+          {
+            "enNote": "Often used in business or personal independence contexts.",
+            "ptNote": "Frequentemente usado em contextos de negócios ou independência pessoal."
+          }
+        ]
+      },
+      {
         "word": "read between the lines",
         "partOfSpeech": "idiom",
         "enDefinition": "to understand a hidden or implied meaning in something that is said or written",

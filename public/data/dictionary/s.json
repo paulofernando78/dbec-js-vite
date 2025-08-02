@@ -2,6 +2,238 @@
   {
     "definitions": [
       {
+        "word": "skedaddle",
+        "phonetics": "/skɪˈdæd.l̩/",
+        "partOfSpeech": "regular verb (informal)",
+        "enDefinition": "to leave or run away quickly, often to avoid trouble",
+        "ptDefinition": "sair ou fugir rapidamente, muitas vezes para evitar problemas",
+        "examples": [
+          {
+            "enExample": "The kids skedaddled as soon as they saw the teacher coming.",
+            "ptExample": "As crianças fugiram assim que viram a professora chegando."
+          },
+          {
+            "enExample": "We’d better skedaddle before the storm hits.",
+            "ptExample": "É melhor a gente dar o fora antes da tempestade chegar."
+          }
+        ],
+        "synonyms": ["run off", "flee", "bolt", "scram"],
+        "antonyms": ["stay", "linger", "remain"],
+        "seeAlso": ["make a run for it", "beat it"],
+        "notes": [
+          {
+            "enNote": "Informal and playful; often used humorously or with children.",
+            "ptNote": "Informal e com tom brincalhão; usado com humor ou ao falar com crianças."
+          }
+        ]
+      },
+      {
+        "word": "stand one’s ground",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to refuse to change your position, opinion, or decision even when others oppose you",
+        "ptDefinition": "recusar-se a mudar de posição, opinião ou decisão mesmo diante de oposição",
+        "examples": [
+          {
+            "enExample": "She stood her ground during the heated debate.",
+            "ptExample": "Ela manteve sua posição durante o debate acalorado."
+          },
+          {
+            "enExample": "Even when criticized, he stood his ground.",
+            "ptExample": "Mesmo sendo criticado, ele não cedeu."
+          }
+        ],
+        "synonyms": ["hold firm", "stand firm", "resist", "not back down"],
+        "antonyms": ["give in", "back down", "surrender"],
+        "seeAlso": ["stand firm", "stick to your guns"],
+        "notes": [
+          {
+            "enNote": "Often used to show strength or confidence in one’s beliefs.",
+            "ptNote": "Usada para expressar força ou confiança nas próprias crenças."
+          }
+        ]
+      },
+      {
+        "word": "sleep on it",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to delay making a decision until the next day so that you have more time to think",
+        "ptDefinition": "adiar uma decisão até o dia seguinte para ter mais tempo para pensar",
+        "examples": [
+          {
+            "enExample": "I’m not sure about the job offer; I’ll sleep on it tonight.",
+            "ptExample": "Não tenho certeza sobre a proposta de emprego; vou pensar melhor até amanhã."
+          },
+          {
+            "enExample": "You should sleep on it before giving an answer.",
+            "ptExample": "Você deveria dormir sobre isso antes de dar uma resposta."
+          }
+        ],
+        "synonyms": ["think it over", "consider", "reflect"],
+        "antonyms": ["decide immediately", "act hastily"],
+        "seeAlso": ["take time", "ponder"],
+        "notes": [
+          {
+            "enNote": "Often used to suggest postponing decisions to avoid impulsiveness.",
+            "ptNote": "Usado para sugerir adiar decisões para evitar impulsividade."
+          }
+        ]
+      },
+      {
+        "word": "split the difference",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to agree to compromise by dividing the difference between two amounts or positions",
+        "ptDefinition": "chegar a um acordo dividindo a diferença entre duas quantias ou posições",
+        "examples": [
+          {
+            "enExample": "They couldn’t agree on the price, so they decided to split the difference.",
+            "ptExample": "Eles não conseguiram concordar no preço, então decidiram dividir a diferença."
+          },
+          {
+            "enExample": "If you want $100 and I want $80, let’s split the difference and settle on $90.",
+            "ptExample": "Se você quer 100 dólares e eu quero 80, vamos dividir a diferença e ficar em 90."
+          }
+        ],
+        "synonyms": ["compromise", "meet halfway", "find a middle ground"],
+        "antonyms": ["hold firm", "refuse to compromise"],
+        "seeAlso": ["meet halfway", "compromise"],
+        "notes": [
+          {
+            "enNote": "Commonly used in negotiations to find a fair middle point.",
+            "ptNote": "Usada frequentemente em negociações para encontrar um ponto intermediário justo."
+          }
+        ]
+      },
+      {
+        "word": "strike it rich",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to suddenly become very wealthy, especially through luck or a profitable opportunity",
+        "ptDefinition": "ficar rico de repente, especialmente por sorte ou uma oportunidade lucrativa",
+        "examples": [
+          {
+            "enExample": "He struck it rich after his app went viral.",
+            "ptExample": "Ele ficou rico depois que seu aplicativo viralizou."
+          },
+          {
+            "enExample": "They moved to California hoping to strike it rich during the gold rush.",
+            "ptExample": "Eles se mudaram para a Califórnia na esperança de enriquecer durante a corrida do ouro."
+          }
+        ],
+        "synonyms": ["hit the jackpot", "make a fortune", "get lucky"],
+        "antonyms": ["go broke", "lose everything", "stay poor"],
+        "seeAlso": ["windfall", "rags to riches", "cash in"],
+        "notes": [
+          {
+            "enNote": "Commonly used when someone gains wealth suddenly and unexpectedly.",
+            "ptNote": "Usada com frequência para descrever quem enriquece de forma rápida e inesperada."
+          }
+        ]
+      },
+      {
+        "word": "start-up",
+        "phonetics": "/ˈstɑːrtˌʌp/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a newly established business, typically in the early stages and often focused on innovation and growth",
+        "ptDefinition": "uma empresa recém-criada, geralmente em estágio inicial e com foco em inovação e crescimento",
+        "examples": [
+          {
+            "enExample": "She founded a tech start-up that develops AI tools for education.",
+            "ptExample": "Ela fundou uma start-up de tecnologia que desenvolve ferramentas de IA para educação."
+          },
+          {
+            "enExample": "Many start-ups struggle to survive beyond their first year.",
+            "ptExample": "Muitas start-ups enfrentam dificuldades para sobreviver após o primeiro ano."
+          }
+        ],
+        "synonyms": ["new business", "young company", "emerging company"],
+        "antonyms": ["established company", "corporation", "legacy business"],
+        "seeAlso": ["entrepreneur", "venture capital", "scale-up"],
+        "notes": [
+          {
+            "enNote": "The term 'start-up' is often associated with tech companies but applies to any early-stage business.",
+            "ptNote": "O termo 'start-up' é frequentemente associado a empresas de tecnologia, mas pode se aplicar a qualquer negócio em estágio inicial."
+          }
+        ]
+      },
+      {
+        "word": "see the writing on the wall",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to recognize the signs that something bad or inevitable is going to happen",
+        "ptDefinition": "perceber sinais de que algo ruim ou inevitável está para acontecer",
+        "examples": [
+          {
+            "enExample": "When sales dropped for months, the manager saw the writing on the wall.",
+            "ptExample": "Quando as vendas caíram por meses, o gerente percebeu que o pior estava por vir."
+          },
+          {
+            "enExample": "He didn’t need to be told he was being replaced—he saw the writing on the wall.",
+            "ptExample": "Ele não precisou que dissessem que seria substituído — ele percebeu os sinais."
+          }
+        ],
+        "synonyms": ["sense danger", "predict trouble", "read the signs"],
+        "antonyms": ["be caught off guard", "be oblivious", "ignore the signs"],
+        "seeAlso": ["foresee", "expect", "brace for impact"],
+        "notes": [
+          {
+            "enNote": "This idiom comes from a biblical story in the Book of Daniel.",
+            "ptNote": "Essa expressão vem de uma história bíblica no Livro de Daniel."
+          }
+        ]
+      },
+      {
+        "word": "for a song",
+        "partOfSpeech": "idiom",
+        "enDefinition": "for a very low price; very cheaply",
+        "ptDefinition": "por um preço muito baixo; quase de graça",
+        "examples": [
+          {
+            "enExample": "He bought the car for a song because the owner was desperate to sell.",
+            "ptExample": "Ele comprou o carro por uma ninharia porque o dono estava desesperado para vender."
+          },
+          {
+            "enExample": "They rented the house for a song during the off-season.",
+            "ptExample": "Eles alugaram a casa por um preço baixíssimo fora de temporada."
+          }
+        ],
+        "synonyms": [
+          "very cheaply",
+          "for next to nothing",
+          "at a bargain price"
+        ],
+        "antonyms": ["at full price", "for a fortune", "expensively"],
+        "seeAlso": ["bargain", "steal", "dirt cheap"],
+        "notes": [
+          {
+            "enNote": "This idiom is often used to highlight how cheap something was in contrast to its usual value.",
+            "ptNote": "Usada para destacar como algo foi barato em comparação ao seu valor normal."
+          }
+        ]
+      },
+      {
+        "word": "snap up",
+        "phonetics": "/snæp ʌp/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to buy or take something quickly, especially because it is a good deal or in limited supply",
+        "ptDefinition": "comprar ou pegar algo rapidamente, especialmente por ser uma boa oportunidade ou estar em pouca quantidade",
+        "examples": [
+          {
+            "enExample": "Tickets for the concert were snapped up in minutes.",
+            "ptExample": "Os ingressos para o show foram esgotados em minutos."
+          },
+          {
+            "enExample": "She snapped up a pair of designer shoes on sale.",
+            "ptExample": "Ela aproveitou e comprou rapidamente um par de sapatos de grife na promoção."
+          }
+        ],
+        "synonyms": ["grab", "seize", "buy quickly", "pounce on"],
+        "antonyms": ["miss out on", "pass up", "ignore"],
+        "seeAlso": ["snatch up", "scoop up"],
+        "notes": [
+          {
+            "enNote": "Often used when talking about bargains, job offers, or popular items.",
+            "ptNote": "Usado frequentemente ao falar de promoções, ofertas de trabalho ou itens populares."
+          }
+        ]
+      },
+      {
         "word": "stepping stone",
         "phonetics": "/ˈstɛp.ɪŋ ˌstoʊn/",
         "partOfSpeech": "noun phrase",

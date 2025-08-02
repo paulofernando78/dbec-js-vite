@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "lose one’s shirt",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to lose a large amount of money, especially through bad investments or business deals",
+        "ptDefinition": "perder muito dinheiro, especialmente em investimentos ruins ou negócios mal sucedidos",
+        "examples": [
+          {
+            "enExample": "He lost his shirt when the stock market crashed.",
+            "ptExample": "Ele perdeu tudo quando a bolsa de valores despencou."
+          },
+          {
+            "enExample": "Many people lost their shirts during the financial crisis.",
+            "ptExample": "Muitas pessoas perderam tudo durante a crise financeira."
+          }
+        ],
+        "synonyms": ["go broke", "lose a fortune", "take a big loss"],
+        "antonyms": ["make a profit", "earn money", "gain wealth"],
+        "seeAlso": ["break even", "financial loss"],
+        "notes": [
+          {
+            "enNote": "Commonly used in financial contexts to describe severe losses.",
+            "ptNote": "Usada com frequência em contextos financeiros para descrever perdas severas."
+          }
+        ]
+      },
+      {
         "word": "let",
         "phonetics": "/let/",
         "partOfSpeech": "irregular verb (past nad participle: let)",

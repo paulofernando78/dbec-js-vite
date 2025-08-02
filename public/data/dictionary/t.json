@@ -2,6 +2,56 @@
   {
     "definitions": [
       {
+        "word": "take the ball and run with it",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to accept responsibility for something and proceed with it confidently and independently",
+        "ptDefinition": "aceitar a responsabilidade por algo e seguir adiante com confiança e autonomia",
+        "examples": [
+          {
+            "enExample": "The manager gave her the project, and she took the ball and ran with it.",
+            "ptExample": "O gerente deu a ela o projeto, e ela assumiu a responsabilidade e levou adiante."
+          },
+          {
+            "enExample": "Once you have the idea, take the ball and run with it.",
+            "ptExample": "Quando você tiver a ideia, assuma e leve adiante."
+          }
+        ],
+        "synonyms": ["take initiative", "seize the opportunity", "carry on"],
+        "antonyms": ["hold back", "hesitate", "delay"],
+        "seeAlso": ["take charge", "step up"],
+        "notes": [
+          {
+            "enNote": "Commonly used in business or teamwork to encourage proactivity.",
+            "ptNote": "Usado frequentemente em negócios ou trabalho em equipe para incentivar a proatividade."
+          }
+        ]
+      },
+      {
+        "word": "Tell me about it!",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to show strong agreement or empathy with what someone else has said",
+        "ptDefinition": "usado para mostrar forte concordância ou empatia com o que outra pessoa disse",
+        "examples": [
+          {
+            "enExample": "A: This traffic is terrible today. B: Tell me about it!",
+            "ptExample": "A: O trânsito está horrível hoje. B: Nem me fale!"
+          },
+          {
+            "enExample": "A: I'm so tired from work. B: Tell me about it!",
+            "ptExample": "A: Estou tão cansado do trabalho. B: Nem me fale!"
+          }
+        ],
+        "synonyms": ["I know!", "You can say that again!", "Exactly!"],
+        "antonyms": ["I disagree", "Not really", "No way"],
+        "seeAlso": ["You bet!", "Absolutely!"],
+        "notes": [
+          {
+            "enNote": "Often used in informal conversations to express empathy or shared experience.",
+            "ptNote": "Frequentemente usado em conversas informais para expressar empatia ou experiência compartilhada."
+          }
+        ]
+      },
+      {
         "word": "take credit for something",
         "partOfSpeech": "idiom",
         "enDefinition": "to accept praise or recognition for something, whether or not you actually deserve it",

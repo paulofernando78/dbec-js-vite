@@ -2,6 +2,56 @@
   {
     "definitions": [
       {
+        "word": "get the ball rolling",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to start an activity or process",
+        "ptDefinition": "iniciar uma atividade ou processo",
+        "examples": [
+          {
+            "enExample": "Let’s get the ball rolling on the new marketing campaign.",
+            "ptExample": "Vamos começar a nova campanha de marketing."
+          },
+          {
+            "enExample": "We need someone to get the ball rolling on the project.",
+            "ptExample": "Precisamos de alguém para dar o pontapé inicial no projeto."
+          }
+        ],
+        "synonyms": ["start", "initiate", "kick off"],
+        "antonyms": ["stop", "halt", "delay"],
+        "seeAlso": ["kick off", "set in motion"],
+        "notes": [
+          {
+            "enNote": "Commonly used to encourage starting something important or long-awaited.",
+            "ptNote": "Usado para incentivar o início de algo importante ou aguardado."
+          }
+        ]
+      },
+      {
+        "word": "get something out of one’s system",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to do or express something you’ve been wanting to, so you no longer feel the need to do it",
+        "ptDefinition": "fazer ou dizer algo que se estava com vontade para deixar de sentir a necessidade de fazê-lo",
+        "examples": [
+          {
+            "enExample": "She went on a solo trip to get the travel bug out of her system.",
+            "ptExample": "Ela fez uma viagem sozinha para matar a vontade de viajar."
+          },
+          {
+            "enExample": "Go ahead and cry if you need to get it out of your system.",
+            "ptExample": "Pode chorar se quiser, para aliviar o que está sentindo."
+          }
+        ],
+        "synonyms": ["let it out", "release emotions", "get it off your chest"],
+        "antonyms": ["bottle up", "suppress", "hold in"],
+        "seeAlso": ["get something off one’s chest", "vent", "blow off steam"],
+        "notes": [
+          {
+            "enNote": "Often used to encourage someone to act on a strong emotion or urge so they can move on.",
+            "ptNote": "Usado para incentivar alguém a agir sobre uma emoção ou vontade forte para poder seguir em frente."
+          }
+        ]
+      },
+      {
         "word": "get one’s foot in the door",
         "partOfSpeech": "idiom",
         "enDefinition": "to achieve an initial opportunity that can lead to further success",

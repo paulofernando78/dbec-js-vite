@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "out of one’s range",
+        "partOfSpeech": "idiom",
+        "enDefinition": "beyond someone’s ability, knowledge, or financial capacity",
+        "ptDefinition": "além da habilidade, conhecimento ou capacidade financeira de alguém",
+        "examples": [
+          {
+            "enExample": "That task is out of my range; I don’t have the necessary skills.",
+            "ptExample": "Essa tarefa está fora do meu alcance; não tenho as habilidades necessárias."
+          },
+          {
+            "enExample": "The house is beautiful but out of their price range.",
+            "ptExample": "A casa é linda, mas está fora da faixa de preço deles."
+          }
+        ],
+        "synonyms": ["beyond capability", "too expensive", "not affordable"],
+        "antonyms": ["within reach", "affordable", "manageable"],
+        "seeAlso": ["beyond one’s means", "out of budget"],
+        "notes": [
+          {
+            "enNote": "Can refer to skills, knowledge, or financial limits depending on context.",
+            "ptNote": "Pode se referir a habilidades, conhecimento ou limites financeiros, dependendo do contexto."
+          }
+        ]
+      },
+      {
         "word": "opportunity areas",
         "partOfSpeech": "noun phrase",
         "enDefinition": "specific domains or aspects where improvements or growth can be made",

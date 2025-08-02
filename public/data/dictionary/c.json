@@ -2,6 +2,56 @@
   {
     "definitions": [
       {
+        "word": "not all it’s cracked up to be",
+        "partOfSpeech": "idiom",
+        "enDefinition": "not as good as people say or expect",
+        "ptDefinition": "não é tão bom quanto dizem ou quanto se esperava",
+        "examples": [
+          {
+            "enExample": "The movie wasn’t all it’s cracked up to be — I found it boring.",
+            "ptExample": "O filme não era tudo isso — achei bem chato."
+          },
+          {
+            "enExample": "Living abroad is not always all it’s cracked up to be.",
+            "ptExample": "Viver no exterior nem sempre é tão bom quanto dizem."
+          }
+        ],
+        "synonyms": ["overrated", "disappointing", "not that great"],
+        "antonyms": ["lives up to the hype", "as expected", "worth the praise"],
+        "seeAlso": ["overhyped", "letdown", "fall short"],
+        "notes": [
+          {
+            "enNote": "Often used to express that expectations were too high.",
+            "ptNote": "Usada para indicar que algo foi superestimado ou decepcionante."
+          }
+        ]
+      },
+      {
+        "word": "carve out a niche",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to create or establish a unique position or specialization in a market or area",
+        "ptDefinition": "criar ou estabelecer uma posição ou especialização única em um mercado ou área",
+        "examples": [
+          {
+            "enExample": "She managed to carve out a niche for herself in the competitive tech industry.",
+            "ptExample": "Ela conseguiu se destacar em um nicho dentro da indústria tecnológica competitiva."
+          },
+          {
+            "enExample": "The company carved out a niche by focusing on eco-friendly products.",
+            "ptExample": "A empresa criou um nicho ao focar em produtos ecológicos."
+          }
+        ],
+        "synonyms": ["establish", "specialize", "find a market segment"],
+        "antonyms": ["blend in", "generalize", "follow the crowd"],
+        "seeAlso": ["find a niche", "market niche"],
+        "notes": [
+          {
+            "enNote": "Often used in business contexts to describe carving a unique space.",
+            "ptNote": "Frequentemente usado em negócios para descrever a criação de um espaço único."
+          }
+        ]
+      },
+      {
         "word": "cut to the chase",
         "partOfSpeech": "idiom",
         "enDefinition": "to get to the point without wasting time; to skip unnecessary details",

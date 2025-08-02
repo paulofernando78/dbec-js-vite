@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "have in mind",
+        "phonetics": "/hæv ɪn maɪnd/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to think about or plan something; to consider as an idea or intention",
+        "ptDefinition": "pensar ou planejar algo; considerar como uma ideia ou intenção",
+        "examples": [
+          {
+            "enExample": "I have something special in mind for your birthday.",
+            "ptExample": "Tenho algo especial pensado para o seu aniversário."
+          },
+          {
+            "enExample": "Do you have a specific restaurant in mind for dinner?",
+            "ptExample": "Você tem algum restaurante específico em mente para o jantar?"
+          }
+        ],
+        "synonyms": ["consider", "plan", "think about"],
+        "antonyms": ["ignore", "overlook"],
+        "seeAlso": ["keep in mind", "bear in mind"],
+        "notes": [
+          {
+            "enNote": "Often used when discussing intentions or plans.",
+            "ptNote": "Usado frequentemente ao falar sobre intenções ou planos."
+          }
+        ]
+      },
+      {
         "word": "hands-off",
         "partOfSpeech": "adjective",
         "enDefinition": "not actively involved; allowing others to make decisions or take control",

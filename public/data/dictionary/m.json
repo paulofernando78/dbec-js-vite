@@ -2,6 +2,57 @@
   {
     "definitions": [
       {
+        "word": "make an offer",
+        "phonetics": "/meɪk ən ˈɒfər/",
+        "partOfSpeech": "verb phrase",
+        "enDefinition": "to propose a price or terms for buying or agreeing on something; fazer uma proposta",
+        "ptDefinition": "propor um preço ou condições para comprar ou concordar com algo",
+        "examples": [
+          {
+            "enExample": "They made an offer on the house last week.",
+            "ptExample": "Eles fizeram uma proposta pela casa na semana passada."
+          },
+          {
+            "enExample": "She decided to make an offer after seeing the car.",
+            "ptExample": "Ela decidiu fazer uma proposta depois de ver o carro."
+          }
+        ],
+        "synonyms": ["propose", "bid", "submit an offer"],
+        "antonyms": ["reject", "decline", "refuse"],
+        "seeAlso": ["accept an offer", "counteroffer"],
+        "notes": [
+          {
+            "enNote": "Commonly used in buying, selling, and negotiation contexts.",
+            "ptNote": "Usado com frequência em contextos de compra, venda e negociação."
+          }
+        ]
+      },
+      {
+        "word": "make money hand over fist",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to earn a lot of money very quickly and easily",
+        "ptDefinition": "ganhar muito dinheiro de forma rápida e fácil",
+        "examples": [
+          {
+            "enExample": "Since launching the app, they've been making money hand over fist.",
+            "ptExample": "Desde que lançaram o aplicativo, eles estão ganhando dinheiro aos montes."
+          },
+          {
+            "enExample": "During the real estate boom, she made money hand over fist.",
+            "ptExample": "Durante o boom imobiliário, ela ganhou dinheiro sem parar."
+          }
+        ],
+        "synonyms": ["rake in money", "get rich quickly", "earn a fortune"],
+        "antonyms": ["lose money", "go broke", "struggle financially"],
+        "seeAlso": ["cash in", "strike it rich"],
+        "notes": [
+          {
+            "enNote": "Often used to describe sudden or large financial success.",
+            "ptNote": "Geralmente usado para descrever sucesso financeiro repentino ou em grande escala."
+          }
+        ]
+      },
+      {
         "word": "micro-manage",
         "phonetics": "/ˈmaɪ.kroʊˌmæn.ɪdʒ/",
         "partOfSpeech": "verb",

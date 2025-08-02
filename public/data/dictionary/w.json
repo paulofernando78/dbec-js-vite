@@ -2,6 +2,35 @@
   {
     "definitions": [
       {
+        "word": "weigh another offer",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to evaluate or consider a different proposal or offer before making a decision",
+        "ptDefinition": "avaliar ou considerar uma proposta diferente antes de tomar uma decisão",
+        "examples": [
+          {
+            "enExample": "Before accepting the job, she wanted to weigh another offer.",
+            "ptExample": "Antes de aceitar o emprego, ela quis avaliar outra proposta."
+          },
+          {
+            "enExample": "They’re still weighing other offers before deciding on the partnership.",
+            "ptExample": "Eles ainda estão avaliando outras propostas antes de decidir sobre a parceria."
+          }
+        ],
+        "synonyms": [
+          "consider another proposal",
+          "evaluate alternative offer",
+          "review options"
+        ],
+        "antonyms": ["accept immediately", "ignore alternatives"],
+        "seeAlso": ["consider", "evaluate", "compare offers"],
+        "notes": [
+          {
+            "enNote": "Commonly used in business and job negotiation contexts.",
+            "ptNote": "Usado com frequência em contextos de negócios e negociações de emprego."
+          }
+        ]
+      },
+      {
         "word": "one’s work has slipped",
         "partOfSpeech": "idiom",
         "enDefinition": "used to say that someone’s work quality or performance has declined",
