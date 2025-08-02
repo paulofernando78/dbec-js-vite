@@ -2,6 +2,157 @@
   {
     "definitions": [
       {
+        "word": "put in place",
+        "phonetics": "/pʊt ɪn pleɪs/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to establish or implement something such as a system, rule, or measure",
+        "ptDefinition": "estabelecer ou implementar algo, como um sistema, regra ou medida",
+        "examples": [
+          {
+            "enExample": "The new safety measures were put in place after the accident.",
+            "ptExample": "As novas medidas de segurança foram implementadas após o acidente."
+          },
+          {
+            "enExample": "She put him in his place after he interrupted her presentation.",
+            "ptExample": "Ela colocou ele no lugar dele depois que ele a interrompeu na apresentação."
+          }
+        ],
+        "synonyms": ["implement", "enforce", "establish"],
+        "antonyms": ["remove", "abolish", "revoke"],
+        "seeAlso": ["put into effect", "set up"],
+        "notes": [
+          {
+            "enNote": "Can be used literally or figuratively depending on the context.",
+            "ptNote": "Pode ser usada de forma literal ou figurada, dependendo do contexto."
+          }
+        ]
+      },
+      {
+        "word": "people person",
+        "partOfSpeech": "idiom",
+        "enDefinition": "someone who enjoys being with other people and is good at interacting with them",
+        "ptDefinition": "alguém que gosta de estar com outras pessoas e tem facilidade em se relacionar",
+        "examples": [
+          {
+            "enExample": "As a receptionist, it's important to be a people person.",
+            "ptExample": "Como recepcionista, é importante ser uma pessoa sociável."
+          },
+          {
+            "enExample": "He's a real people person — everyone in the office likes him.",
+            "ptExample": "Ele é realmente uma pessoa sociável — todo mundo no escritório gosta dele."
+          }
+        ],
+        "synonyms": ["extrovert", "social butterfly", "friendly person"],
+        "antonyms": ["introvert", "loner", "reserved person"],
+        "seeAlso": ["team player", "social skills"],
+        "notes": [
+          {
+            "enNote": "Often used to describe qualities useful in customer service, leadership, or teamwork.",
+            "ptNote": "Frequentemente usada para descrever qualidades úteis em atendimento ao cliente, liderança ou trabalho em equipe."
+          }
+        ]
+      },
+      {
+        "word": "play one’s cards right",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to act in a way that will lead to success or advantage",
+        "ptDefinition": "agir de maneira que leve ao sucesso ou vantagem",
+        "examples": [
+          {
+            "enExample": "If you play your cards right, you might get a promotion.",
+            "ptExample": "Se você agir da forma correta, pode conseguir uma promoção."
+          },
+          {
+            "enExample": "She played her cards right and got the deal done.",
+            "ptExample": "Ela soube agir estrategicamente e fechou o negócio."
+          }
+        ],
+        "synonyms": ["be strategic", "act wisely", "make the right moves"],
+        "antonyms": ["make mistakes", "act carelessly"],
+        "seeAlso": ["play it safe", "hold your cards close"],
+        "notes": [
+          {
+            "enNote": "Often used to describe careful or strategic behavior.",
+            "ptNote": "Frequentemente usado para descrever comportamento cuidadoso ou estratégico."
+          }
+        ]
+      },
+      {
+        "word": "don’t push your luck",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a warning not to take unnecessary risks or rely too much on good fortune",
+        "ptDefinition": "um aviso para não correr riscos desnecessários ou depender demais da sorte",
+        "examples": [
+          {
+            "enExample": "You've already won twice today, don't push your luck.",
+            "ptExample": "Você já ganhou duas vezes hoje, não force a sorte."
+          },
+          {
+            "enExample": "I fixed the car, but don't push your luck by driving too fast.",
+            "ptExample": "Eu consertei o carro, mas não force a sorte dirigindo rápido demais."
+          }
+        ],
+        "synonyms": ["be cautious", "don't overdo it", "play it safe"],
+        "antonyms": ["take risks", "gamble"],
+        "seeAlso": ["knock on wood", "fingers crossed"],
+        "notes": [
+          {
+            "enNote": "Commonly used to advise prudence and avoid tempting fate.",
+            "ptNote": "Comumente usado para aconselhar prudência e evitar desafiar o destino."
+          }
+        ]
+      },
+      {
+        "word": "“A” player",
+        "partOfSpeech": "noun phrase",
+        "enDefinition": "a highly skilled and top-performing individual, especially in a professional or competitive environment",
+        "ptDefinition": "uma pessoa altamente qualificada e de alto desempenho, especialmente em contextos profissionais ou competitivos",
+        "examples": [
+          {
+            "enExample": "Our company is only looking to hire “A” players.",
+            "ptExample": "Nossa empresa está buscando contratar apenas profissionais de alto desempenho."
+          },
+          {
+            "enExample": "She’s an “A” player — smart, efficient, and always delivers results.",
+            "ptExample": "Ela é uma profissional de alto nível — inteligente, eficiente e sempre entrega resultados."
+          }
+        ],
+        "synonyms": ["top performer", "high achiever", "standout"],
+        "antonyms": ["underperformer", "B player", "average worker"],
+        "seeAlso": ["rockstar employee", "go-getter"],
+        "notes": [
+          {
+            "enNote": "Often used in recruitment and team-building contexts.",
+            "ptNote": "Frequentemente usado em contextos de recrutamento e formação de equipes."
+          }
+        ]
+      },
+      {
+        "word": "pride oneself on something",
+        "partOfSpeech": "idiomatic verb phrase",
+        "enDefinition": "to feel proud about a particular quality or achievement",
+        "ptDefinition": "sentir orgulho de uma qualidade ou realização específica",
+        "examples": [
+          {
+            "enExample": "She prides herself on her ability to solve difficult problems.",
+            "ptExample": "Ela se orgulha de sua capacidade de resolver problemas difíceis."
+          },
+          {
+            "enExample": "The company prides itself on excellent customer service.",
+            "ptExample": "A empresa se orgulha de seu excelente atendimento ao cliente."
+          }
+        ],
+        "synonyms": ["take pride in", "be proud of", "boast about"],
+        "antonyms": ["be ashamed of", "discredit"],
+        "seeAlso": ["take pride in", "boast"],
+        "notes": [
+          {
+            "enNote": "Commonly used in formal and informal contexts to express pride.",
+            "ptNote": "Usado comumente em contextos formais e informais para expressar orgulho."
+          }
+        ]
+      },
+      {
         "word": "keep one's eye on the prize",
         "partOfSpeech": "idiom",
         "enDefinition": "to stay focused on achieving a positive end result, especially in the face of challenges or distractions",

@@ -2,6 +2,56 @@
   {
     "definitions": [
       {
+        "word": "keep up the good work",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to continue doing something well and with effort",
+        "ptDefinition": "continuar fazendo algo bem e com esforço",
+        "examples": [
+          {
+            "enExample": "Keep up the good work! Your progress is impressive.",
+            "ptExample": "Continue com o bom trabalho! Seu progresso é impressionante."
+          },
+          {
+            "enExample": "The manager told the team to keep up the good work during the project.",
+            "ptExample": "O gerente disse à equipe para continuar com o bom trabalho durante o projeto."
+          }
+        ],
+        "synonyms": ["continue performing well", "maintain effort"],
+        "antonyms": ["slack off", "give up"],
+        "seeAlso": ["well done", "good job"],
+        "notes": [
+          {
+            "enNote": "Often used to encourage or praise continued effort.",
+            "ptNote": "Usado frequentemente para incentivar ou elogiar o esforço contínuo."
+          }
+        ]
+      },
+      {
+        "word": "keep someone in the loop",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to keep someone informed about something",
+        "ptDefinition": "manter alguém informado sobre algo",
+        "examples": [
+          {
+            "enExample": "Please keep me in the loop about any changes to the schedule.",
+            "ptExample": "Por favor, me mantenha informado sobre quaisquer mudanças no cronograma."
+          },
+          {
+            "enExample": "We need to keep the client in the loop throughout the project.",
+            "ptExample": "Precisamos manter o cliente informado durante todo o projeto."
+          }
+        ],
+        "synonyms": ["keep informed", "update", "notify"],
+        "antonyms": ["leave out", "exclude"],
+        "seeAlso": ["bring someone up to speed", "loop someone in"],
+        "notes": [
+          {
+            "enNote": "Commonly used in business and communication contexts.",
+            "ptNote": "Comumente usada em contextos de negócios e comunicação."
+          }
+        ]
+      },
+      {
         "word": "keep one’s nose to the grindstone",
         "partOfSpeech": "idiom",
         "enDefinition": "to work hard and continuously without distraction",

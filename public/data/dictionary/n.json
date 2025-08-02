@@ -2,6 +2,57 @@
   {
     "definitions": [
       {
+        "word": "nickel-and-dime",
+        "phonetics": "/ˌnɪk.əl.ənˈdaɪm/",
+        "partOfSpeech": "adjective / verb / idiom",
+        "enDefinition": "involving very small amounts of money or trivial matters, especially in a way that is annoying or petty",
+        "ptDefinition": "envolvendo pequenas quantias de dinheiro ou questões triviais, especialmente de forma irritante ou mesquinha",
+        "examples": [
+          {
+            "enExample": "The company kept nickel-and-diming its employees with unnecessary charges.",
+            "ptExample": "A empresa continuava cobrando pequenas taxas desnecessárias dos funcionários."
+          },
+          {
+            "enExample": "I’m tired of all these nickel-and-dime expenses adding up.",
+            "ptExample": "Estou cansado de todas essas despesas pequenas se acumulando."
+          }
+        ],
+        "synonyms": ["petty", "trivial", "insignificant"],
+        "antonyms": ["major", "significant", "substantial"],
+        "seeAlso": "penny-pinching",
+        "notes": [
+          {
+            "enNote": "Can also be used as a verb meaning to treat someone unfairly by charging many small amounts.",
+            "ptNote": "Também pode ser usado como verbo, significando tratar alguém de forma injusta cobrando pequenas quantias."
+          }
+        ]
+      },
+      {
+        "word": "in a nutshell",
+        "partOfSpeech": "expression",
+        "enDefinition": "used to introduce a short summary of something",
+        "ptDefinition": "usado para introduzir um resumo breve de algo",
+        "examples": [
+          {
+            "enExample": "In a nutshell, we lost the contract because of budget issues.",
+            "ptExample": "Resumidamente, perdemos o contrato por causa de questões orçamentárias."
+          },
+          {
+            "enExample": "He explained the whole process in a nutshell.",
+            "ptExample": "Ele explicou todo o processo em poucas palavras."
+          }
+        ],
+        "synonyms": ["briefly", "in short", "to sum up"],
+        "antonyms": ["in detail", "at length"],
+        "seeAlso": ["to make a long story short", "in brief"],
+        "notes": [
+          {
+            "enNote": "Commonly used before summarizing a complex explanation.",
+            "ptNote": "Usado com frequência antes de resumir uma explicação complexa."
+          }
+        ]
+      },
+      {
         "word": "brown noser",
         "phonetics": "ˈbraʊn ˌnoʊzər",
         "partOfSpeech": "noun",

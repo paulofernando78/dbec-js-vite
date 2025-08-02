@@ -2,6 +2,126 @@
   {
     "definitions": [
       {
+        "word": "take credit for something",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to accept praise or recognition for something, whether or not you actually deserve it",
+        "ptDefinition": "aceitar elogios ou reconhecimento por algo, mesmo que você não mereça",
+        "examples": [
+          {
+            "enExample": "He took credit for the project even though others did most of the work.",
+            "ptExample": "Ele aceitou os méritos pelo projeto, embora outros tenham feito a maior parte do trabalho."
+          },
+          {
+            "enExample": "She didn’t want to take credit for the success alone.",
+            "ptExample": "Ela não quis assumir todo o crédito pelo sucesso sozinha."
+          }
+        ],
+        "synonyms": ["claim responsibility", "accept praise"],
+        "antonyms": ["deny credit", "reject praise"],
+        "seeAlso": ["give credit where it’s due", "take the blame"],
+        "notes": [
+          {
+            "enNote": "Often used when someone is recognized for achievements.",
+            "ptNote": "Usado frequentemente quando alguém é reconhecido por conquistas."
+          }
+        ]
+      },
+      {
+        "word": "be at the top of one’s game",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be performing at one's best or at the highest level",
+        "ptDefinition": "estar desempenhando no seu melhor ou no nível mais alto",
+        "examples": [
+          {
+            "enExample": "After years of training, she is now at the top of her game.",
+            "ptExample": "Depois de anos de treino, ela está no auge do seu desempenho."
+          },
+          {
+            "enExample": "To succeed in this industry, you need to be at the top of your game.",
+            "ptExample": "Para ter sucesso nessa indústria, você precisa estar no auge do seu desempenho."
+          }
+        ],
+        "synonyms": ["performing well", "at peak performance", "in top form"],
+        "antonyms": ["underperforming", "off one’s game"],
+        "seeAlso": ["at one's best", "peak performance"]
+      },
+      {
+        "word": "take someone into one’s confidence",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to tell someone your secrets or private thoughts because you trust them",
+        "ptDefinition": "compartilhar segredos ou pensamentos privados com alguém em quem você confia",
+        "examples": [
+          {
+            "enExample": "He took me into his confidence and told me about his plans.",
+            "ptExample": "Ele confiou em mim e contou sobre seus planos."
+          },
+          {
+            "enExample": "She rarely takes anyone into her confidence.",
+            "ptExample": "Ela raramente confia seus segredos a alguém."
+          }
+        ],
+        "synonyms": ["confide in", "trust with a secret"],
+        "antonyms": ["keep something to oneself", "withhold information"],
+        "seeAlso": ["confide in"],
+        "notes": [
+          {
+            "enNote": "Often used in formal or literary contexts to imply trust or secrecy.",
+            "ptNote": "Frequentemente usado em contextos formais ou literários para implicar confiança ou sigilo."
+          }
+        ]
+      },
+      {
+        "word": "take it from there",
+        "phonetics": "",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to continue a process or situation from a certain point onward",
+        "ptDefinition": "dar continuidade a algo a partir de um certo ponto",
+        "examples": [
+          {
+            "enExample": "Let me handle the first part, and you can take it from there.",
+            "ptExample": "Deixe que eu cuide da primeira parte, e você continua daí."
+          },
+          {
+            "enExample": "We’ll start the plan today and take it from there.",
+            "ptExample": "Vamos começar o plano hoje e seguir em frente a partir daí."
+          }
+        ],
+        "synonyms": ["continue", "proceed", "carry on"],
+        "antonyms": ["stop", "pause", "give up"],
+        "seeAlso": ["pick up where someone left off"],
+        "notes": [
+          {
+            "enNote": "Often used in work or project contexts to indicate progress after an initial step.",
+            "ptNote": "Frequentemente usada em contextos de trabalho ou projetos para indicar continuidade após um primeiro passo."
+          }
+        ]
+      },
+      {
+        "word": "throw in something",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to include something extra with a purchase or offer without charging for it",
+        "ptDefinition": "incluir algo extra em uma compra ou oferta sem custo adicional",
+        "examples": [
+          {
+            "enExample": "If you buy the car today, we’ll throw in free floor mats.",
+            "ptExample": "Se você comprar o carro hoje, incluiremos tapetes grátis."
+          },
+          {
+            "enExample": "The hotel threw in a free breakfast with our stay.",
+            "ptExample": "O hotel incluiu café da manhã gratuito na nossa estadia."
+          }
+        ],
+        "synonyms": ["include for free", "add as a bonus"],
+        "antonyms": [],
+        "seeAlso": ["throw in the towel", "sweeten the deal"],
+        "notes": [
+          {
+            "enNote": "Common in marketing and sales contexts.",
+            "ptNote": "Comum em contextos de vendas e marketing."
+          }
+        ]
+      },
+      {
         "word": "in tip-top shape",
         "partOfSpeech": "idiom",
         "enDefinition": "in excellent physical or mental condition",

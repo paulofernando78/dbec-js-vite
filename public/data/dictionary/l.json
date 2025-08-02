@@ -2,6 +2,56 @@
   {
     "definitions": [
       {
+        "word": "let",
+        "phonetics": "/let/",
+        "partOfSpeech": "irregular verb (past nad participle: let)",
+        "enDefinition": "to allow or permit someone to do something",
+        "ptDefinition": "permitir que alguém faça algo",
+        "examples": [
+          {
+            "enExample": "Let me help you with that.",
+            "ptExample": "Deixe-me te ajudar com isso."
+          },
+          {
+            "enExample": "Her parents let her stay out late on weekends.",
+            "ptExample": "Os pais dela deixam que ela fique fora até tarde nos fins de semana."
+          }
+        ],
+        "synonyms": ["allow", "permit", "authorize"],
+        "antonyms": ["forbid", "prohibit", "deny"],
+        "seeAlso": ["give permission"],
+        "notes": [
+          {
+            "ptNote": "‘Let’ é seguido pelo verbo no infinitivo sem ‘to’: ‘Let him go’, e não ‘Let him to go’."
+          }
+        ]
+      },
+      {
+        "word": "not lift a finger",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to not make any effort to help or do something",
+        "ptDefinition": "não fazer nenhum esforço para ajudar ou fazer algo",
+        "examples": [
+          {
+            "enExample": "He didn’t lift a finger to help me move the furniture.",
+            "ptExample": "Ele não mexeu um dedo para me ajudar a mover os móveis."
+          },
+          {
+            "enExample": "She expects others to do everything for her and never lifts a finger.",
+            "ptExample": "Ela espera que os outros façam tudo por ela e nunca move um dedo."
+          }
+        ],
+        "synonyms": ["do nothing", "make no effort", "stay idle"],
+        "antonyms": ["go out of one's way", "make an effort", "help out"],
+        "seeAlso": ["sit back", "hands-off"],
+        "notes": [
+          {
+            "enNote": "Often used to criticize someone's lack of help or effort.",
+            "ptNote": "Frequentemente usado para criticar a falta de esforço ou ajuda de alguém."
+          }
+        ]
+      },
+      {
         "word": "likely story",
         "partOfSpeech": "idiom",
         "enDefinition": "a sarcastic way to express disbelief in what someone has said.",

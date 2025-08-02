@@ -126,7 +126,7 @@ class DictionarySearch extends HTMLElement {
     // Multiple results
     const multipleResults = document.createElement("div");
     multipleResults.classList.add("dictionary-card");
-    multipleResults.style.maxHeight = "68.6vh";
+    multipleResults.style.maxHeight = "550px";
     multipleResults.style.backgroundColor = "var(--gray-3)";
     multipleResults.style.borderRadius = "var(--border-radius)";
     multipleResults.style.boxShadow = "var(--box-shadow)";

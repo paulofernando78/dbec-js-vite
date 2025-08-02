@@ -2,6 +2,35 @@
   {
     "definitions": [
       {
+        "word": "opportunity areas",
+        "partOfSpeech": "noun phrase",
+        "enDefinition": "specific domains or aspects where improvements or growth can be made",
+        "ptDefinition": "áreas específicas ou aspectos onde melhorias ou crescimento podem ser feitos",
+        "examples": [
+          {
+            "enExample": "The manager identified several opportunity areas for improving customer satisfaction.",
+            "ptExample": "O gerente identificou várias áreas de oportunidade para melhorar a satisfação do cliente."
+          },
+          {
+            "enExample": "Market research revealed new opportunity areas for product development.",
+            "ptExample": "A pesquisa de mercado revelou novas áreas de oportunidade para desenvolvimento de produtos."
+          }
+        ],
+        "synonyms": [
+          "potential areas",
+          "growth opportunities",
+          "improvement zones"
+        ],
+        "antonyms": ["threat areas", "problem areas"],
+        "seeAlso": ["business opportunities", "growth areas"],
+        "notes": [
+          {
+            "enNote": "Often used in business and strategy contexts.",
+            "ptNote": "Frequentemente usada em contextos de negócios e estratégia."
+          }
+        ]
+      },
+      {
         "word": "out for oneself",
         "partOfSpeech": "idiom",
         "enDefinition": "to act in one's own self-interest, often disregarding the needs or interests of others",

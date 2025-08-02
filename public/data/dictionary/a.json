@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "not be able to make heads or tails of",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to be unable to understand something at all",
+        "ptDefinition": "não conseguir entender algo de jeito nenhum",
+        "examples": [
+          {
+            "enExample": "I couldn’t make heads or tails of the instructions.",
+            "ptExample": "Eu não consegui entender as instruções de jeito nenhum."
+          },
+          {
+            "enExample": "She wasn’t able to make heads or tails of the confusing report.",
+            "ptExample": "Ela não conseguiu entender o relatório confuso."
+          }
+        ],
+        "synonyms": ["not understand", "be confused", "be baffled"],
+        "antonyms": ["understand clearly", "make sense of"],
+        "seeAlso": ["make heads or tails of"],
+        "notes": [
+          {
+            "enNote": "Commonly used to express total confusion or lack of comprehension.",
+            "ptNote": "Usado frequentemente para expressar confusão total ou falta de compreensão."
+          }
+        ]
+      },
+      {
         "word": "ask out",
         "phonetics": "/æsk aʊt/",
         "partOfSpeech": "phrasal verb",

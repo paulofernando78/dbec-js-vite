@@ -2,6 +2,56 @@
   {
     "definitions": [
       {
+        "word": "read between the lines",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to understand a hidden or implied meaning in something that is said or written",
+        "ptDefinition": "entender um significado oculto ou implícito em algo que foi dito ou escrito",
+        "examples": [
+          {
+            "enExample": "She didn’t say it directly, but I could read between the lines that she was upset.",
+            "ptExample": "Ela não disse diretamente, mas deu para entender nas entrelinhas que ela estava chateada."
+          },
+          {
+            "enExample": "Reading between the lines, it seems the company is planning layoffs.",
+            "ptExample": "Lendo nas entrelinhas, parece que a empresa está planejando demissões."
+          }
+        ],
+        "synonyms": ["infer", "deduce", "perceive"],
+        "antonyms": ["take literally", "misunderstand"],
+        "seeAlso": ["read the room", "pick up on"],
+        "notes": [
+          {
+            "enNote": "Often used when interpreting emotions or intentions not stated directly.",
+            "ptNote": "Usado frequentemente ao interpretar emoções ou intenções não ditas diretamente."
+          }
+        ]
+      },
+      {
+        "word": "off the record",
+        "partOfSpeech": "idiom / expression",
+        "enDefinition": "something said in confidence and not meant to be publicly shared or officially recorded",
+        "ptDefinition": "algo dito em confiança e que não deve ser compartilhado publicamente ou registrado oficialmente",
+        "examples": [
+          {
+            "enExample": "He told me off the record that he plans to resign soon.",
+            "ptExample": "Ele me disse em off que planeja se demitir em breve."
+          },
+          {
+            "enExample": "Can I say something off the record?",
+            "ptExample": "Posso dizer algo em off?"
+          }
+        ],
+        "synonyms": ["confidentially", "in confidence", "unofficially"],
+        "antonyms": ["on the record", "officially"],
+        "seeAlso": ["in confidence", "on the record"],
+        "notes": [
+          {
+            "enNote": "Often used in journalism and politics to indicate information not meant for publication.",
+            "ptNote": "Frequentemente usada no jornalismo e na política para indicar informações que não devem ser publicadas."
+          }
+        ]
+      },
+      {
         "word": "RIP",
         "phonetics": "/ˌɑːr.aɪˈpiː/",
         "partOfSpeech": "abbreviation",

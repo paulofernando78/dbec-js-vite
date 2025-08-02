@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "between jobs",
+        "partOfSpeech": "idiom",
+        "enDefinition": "temporarily unemployed and looking for work",
+        "ptDefinition": "temporariamente desempregado e procurando emprego",
+        "examples": [
+          {
+            "enExample": "He's been between jobs for a few months now but is optimistic about finding something soon.",
+            "ptExample": "Ele está desempregado há alguns meses, mas está otimista em encontrar algo em breve."
+          },
+          {
+            "enExample": "Being between jobs can be stressful, but it’s also an opportunity to rethink your career.",
+            "ptExample": "Estar entre empregos pode ser estressante, mas também é uma oportunidade para repensar a carreira."
+          }
+        ],
+        "synonyms": ["unemployed", "jobless", "out of work"],
+        "antonyms": ["employed", "working", "hired"],
+        "seeAlso": ["looking for work", "job hunting"],
+        "notes": [
+          {
+            "enNote": "Commonly used as a polite or softer way to say someone is unemployed.",
+            "ptNote": "Usado com frequência como uma forma educada ou mais suave de dizer que alguém está desempregado."
+          }
+        ]
+      },
+      {
         "word": "jump the gun",
         "partOfSpeech": "idiom",
         "enDefinition": "to do something too soon, especially without thinking carefully about it",

@@ -2,6 +2,307 @@
   {
     "definitions": [
       {
+        "word": "buy",
+        "phonetics": "/baɪ/",
+        "partOfSpeech": "irregular verb (past and participle: bought)",
+        "enDefinition": "to get something by paying money for it",
+        "ptDefinition": "adquirir algo pagando por isso; comprar",
+        "examples": [
+          {
+            "enExample": "I need to buy a new phone.",
+            "ptExample": "Eu preciso comprar um celular novo."
+          },
+          {
+            "enExample": "She bought a gift for her friend.",
+            "ptExample": "Ela comprou um presente para a amiga."
+          }
+        ],
+        "synonyms": ["purchase", "acquire", "get"],
+        "antonyms": ["sell", "return", "give away"],
+        "seeAlso": ["buy out", "buy up", "buy into"]
+      },
+      {
+        "word": "buy out",
+        "phonetics": "/baɪ aʊt/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to purchase someone's share in a business or property, usually to gain full control",
+        "ptDefinition": "comprar a parte ou participação de alguém em um negócio ou propriedade, geralmente para obter controle total",
+        "examples": [
+          {
+            "enExample": "She bought out her partner and became the sole owner of the company.",
+            "ptExample": "Ela comprou a parte do sócio e se tornou a única dona da empresa."
+          },
+          {
+            "enExample": "The larger corporation plans to buy out its smaller competitor.",
+            "ptExample": "A corporação maior planeja adquirir completamente sua concorrente menor."
+          }
+        ],
+        "synonyms": ["acquire", "purchase", "take over"],
+        "antonyms": ["sell out", "divest", "give up ownership"],
+        "seeAlso": ["take over", "buy up", "merger"],
+        "notes": [
+          {
+            "enNote": "Often used in business contexts when one party gains full ownership by purchasing the other's share.",
+            "ptNote": "Frequentemente usado em contextos de negócios quando uma parte adquire total propriedade comprando a participação da outra."
+          }
+        ]
+      },
+      {
+        "word": "built",
+        "phonetics": "/bɪlt/",
+        "partOfSpeech": "verb (past tense and past participle)",
+        "examples": [
+          {
+            "enExample": "They built this bridge in just two years.",
+            "ptExample": "Eles construíram esta ponte em apenas dois anos."
+          },
+          {
+            "enExample": "This house was built to last.",
+            "ptExample": "Esta casa foi construída para durar."
+          }
+        ],
+        "synonyms": ["constructed", "created", "assembled"],
+        "antonyms": ["demolished", "destroyed", "dismantled"],
+        "seeAlso": ["build", "rebuilt"],
+        "notes": [
+          {
+            "enNote": "‘Built’ is the regular past form of the irregular verb ‘build’.",
+            "ptNote": "‘Built’ é a forma no passado e particípio do verbo irregular ‘build’."
+          }
+        ]
+      },
+      {
+        "word": "build",
+        "phonetics": "/bɪld/",
+        "partOfSpeech": "irregular verb (past and participle: built)",
+        "enDefinition": "to construct something by putting parts or materials together",
+        "ptDefinition": "construir algo juntando partes ou materiais",
+        "examples": [
+          {
+            "enExample": "They are building a new hospital downtown.",
+            "ptExample": "Eles estão construindo um novo hospital no centro."
+          },
+          {
+            "enExample": "She built a strong reputation over the years.",
+            "ptExample": "Ela construiu uma reputação sólida ao longo dos anos."
+          }
+        ],
+        "synonyms": ["construct", "create", "assemble", "develop"],
+        "antonyms": ["destroy", "demolish", "tear down"],
+        "seeAlso": ["construct", "establish"],
+        "notes": [
+          {
+            "enNote": "Can be used both literally (build a house) and figuratively (build a career).",
+            "ptNote": "Pode ser usado de forma literal (construir uma casa) ou figurada (construir uma carreira)."
+          }
+        ]
+      },
+      {
+        "word": "build something from the ground up",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to create something completely from the beginning, often with great effort",
+        "ptDefinition": "criar algo totalmente do zero, geralmente com muito esforço",
+        "examples": [
+          {
+            "enExample": "They built the company from the ground up with no outside help.",
+            "ptExample": "Eles construíram a empresa do zero sem ajuda externa."
+          },
+          {
+            "enExample": "This house was built from the ground up after the fire.",
+            "ptExample": "Esta casa foi construída do zero depois do incêndio."
+          }
+        ],
+        "synonyms": [
+          "start from scratch",
+          "create from zero",
+          "construct completely"
+        ],
+        "antonyms": ["inherit", "modify", "remodel"],
+        "seeAlso": ["start from scratch", "lay the foundation"],
+        "notes": [
+          {
+            "enNote": "Often used for businesses, systems, or projects that are started entirely anew.",
+            "ptNote": "Frequentemente usado para empresas, sistemas ou projetos iniciados totalmente do zero."
+          }
+        ]
+      },
+      {
+        "word": "be burned out",
+        "partOfSpeech": "adjective phrase",
+        "enDefinition": "feeling extremely tired or stressed, especially due to work or prolonged effort",
+        "ptDefinition": "sentir-se extremamente cansado ou estressado, especialmente devido ao trabalho ou esforço prolongado",
+        "examples": [
+          {
+            "enExample": "After months of overtime, she felt completely burned out.",
+            "ptExample": "Depois de meses fazendo horas extras, ela se sentiu completamente exausta."
+          },
+          {
+            "enExample": "Many professionals suffer from being burned out in high-pressure jobs.",
+            "ptExample": "Muitos profissionais sofrem de esgotamento em empregos de alta pressão."
+          }
+        ],
+        "synonyms": ["exhausted", "overworked", "fatigued"],
+        "antonyms": ["energized", "refreshed", "rested"],
+        "seeAlso": ["burnout syndrome", "stress"],
+        "notes": [
+          {
+            "enNote": "Commonly used in workplace and mental health contexts.",
+            "ptNote": "Usado frequentemente em contextos de trabalho e saúde mental."
+          }
+        ]
+      },
+      {
+        "word": "break the news",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to tell someone important or surprising information, often bad news",
+        "ptDefinition": "contar a alguém uma informação importante ou surpreendente, muitas vezes uma má notícia",
+        "examples": [
+          {
+            "enExample": "She had to break the news to her parents about the accident.",
+            "ptExample": "Ela teve que contar aos pais sobre o acidente."
+          },
+          {
+            "enExample": "He didn't know how to break the news of the company's closure to the employees.",
+            "ptExample": "Ele não sabia como dar a notícia do fechamento da empresa aos funcionários."
+          }
+        ],
+        "synonyms": ["inform", "announce", "reveal"],
+        "antonyms": ["hide", "conceal", "withhold"],
+        "seeAlso": ["deliver the news", "break it to someone gently"],
+        "notes": [
+          {
+            "enNote": "Often used when the news is difficult, emotional, or unexpected.",
+            "ptNote": "Frequentemente usada quando a notícia é difícil, emocional ou inesperada."
+          }
+        ]
+      },
+      {
+        "word": "beyond the call of duty",
+        "partOfSpeech": "idiom",
+        "enDefinition": "going above and beyond what is normally required or expected",
+        "ptDefinition": "fazer mais do que o exigido ou esperado",
+        "examples": [
+          {
+            "enExample": "The firefighter went beyond the call of duty to save the children.",
+            "ptExample": "O bombeiro foi além do dever para salvar as crianças."
+          },
+          {
+            "enExample": "Her dedication was truly beyond the call of duty.",
+            "ptExample": "A dedicação dela foi realmente além do dever."
+          }
+        ],
+        "synonyms": ["go the extra mile", "exceed expectations"],
+        "antonyms": ["bare minimum", "neglect responsibility"],
+        "seeAlso": ["above and beyond"],
+        "notes": [
+          {
+            "enNote": "Often used to praise someone for exceptional effort, especially in service roles.",
+            "ptNote": "Usada para elogiar esforços excepcionais, especialmente em cargos de serviço."
+          }
+        ]
+      },
+      {
+        "word": "on a tight budget",
+        "partOfSpeech": "idiom",
+        "enDefinition": "having very little money to spend; needing to spend money carefully",
+        "ptDefinition": "ter pouco dinheiro para gastar; precisar gastar com cautela",
+        "examples": [
+          {
+            "enExample": "As a student, I’m on a tight budget, so I rarely eat out.",
+            "ptExample": "Como estudante, estou com o orçamento apertado, então raramente como fora."
+          },
+          {
+            "enExample": "They managed to plan a wedding on a tight budget.",
+            "ptExample": "Eles conseguiram planejar um casamento com um orçamento apertado."
+          }
+        ],
+        "synonyms": ["low on funds", "financially limited", "on a shoestring"],
+        "antonyms": ["flush with cash", "financially comfortable"],
+        "seeAlso": ["tighten the belt", "on a shoestring budget"],
+        "notes": [
+          {
+            "enNote": "Often used when discussing financial constraints or frugal living.",
+            "ptNote": "Frequentemente usado ao falar sobre limitações financeiras ou vida econômica."
+          }
+        ]
+      },
+      {
+        "word": "more bang for the buck",
+        "partOfSpeech": "idiom",
+        "enDefinition": "getting better value for the money spent; more return for the same investment",
+        "ptDefinition": "obter mais valor pelo dinheiro gasto; melhor custo-benefício",
+        "examples": [
+          {
+            "enExample": "We chose the second supplier because they offered more bang for the buck.",
+            "ptExample": "Escolhemos o segundo fornecedor porque oferecia melhor custo-benefício."
+          },
+          {
+            "enExample": "Streaming services are giving viewers more bang for their buck these days.",
+            "ptExample": "Os serviços de streaming estão oferecendo mais valor pelo dinheiro hoje em dia."
+          }
+        ],
+        "synonyms": ["value for money", "good deal", "cost-effective"],
+        "antonyms": ["overpriced", "poor value"],
+        "seeAlso": ["worth every penny", "get your money’s worth"],
+        "notes": [
+          {
+            "enNote": "Originally from marketing and military jargon.",
+            "ptNote": "Originou-se de jargão militar e de marketing."
+          }
+        ]
+      },
+      {
+        "word": "break one’s budget",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to cost more money than someone can afford or has planned to spend",
+        "ptDefinition": "custar mais do que alguém pode pagar ou havia planejado gastar",
+        "examples": [
+          {
+            "enExample": "Buying that designer bag would definitely break my budget.",
+            "ptExample": "Comprar aquela bolsa de grife definitivamente estouraria meu orçamento."
+          },
+          {
+            "enExample": "They wanted a big wedding, but they didn't want to break their budget.",
+            "ptExample": "Eles queriam um casamento grande, mas não queriam ultrapassar o orçamento."
+          }
+        ],
+        "synonyms": ["go over budget", "overspend", "exceed budget"],
+        "antonyms": ["stay within budget", "be economical"],
+        "seeAlso": ["on a tight budget", "cut costs"],
+        "notes": [
+          {
+            "enNote": "Often used in financial or shopping contexts to describe overspending.",
+            "ptNote": "Usado frequentemente em contextos financeiros ou de compras para descrever gastos excessivos."
+          }
+        ]
+      },
+      {
+        "word": "no-brainer",
+        "phonetics": "/ˈnoʊˌbreɪ.nɚ/",
+        "partOfSpeech": "noun (informal)",
+        "enDefinition": "something that is very obvious or requires little thought",
+        "ptDefinition": "algo muito óbvio ou que exige pouco pensamento",
+        "examples": [
+          {
+            "enExample": "Accepting the job offer was a no-brainer — great salary and location.",
+            "ptExample": "Aceitar a oferta de emprego foi uma decisão óbvia — ótimo salário e localização."
+          },
+          {
+            "enExample": "Wearing a seatbelt is a no-brainer — it keeps you safe.",
+            "ptExample": "Usar o cinto de segurança é uma decisão óbvia — ele te mantém seguro."
+          }
+        ],
+        "synonyms": ["obvious choice", "easy decision"],
+        "antonyms": ["dilemma", "tough call"],
+        "seeAlso": ["slam dunk", "walk in the park"],
+        "notes": [
+          {
+            "enNote": "Often used in casual conversation to describe easy decisions.",
+            "ptNote": "Usado frequentemente em conversas informais para descrever decisões fáceis."
+          }
+        ]
+      },
+      {
         "word": "began",
         "phonetics": "/bɪˈɡæn/",
         "partOfSpeech": "irregular verb (past of begin) ",

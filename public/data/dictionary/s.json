@@ -2,6 +2,141 @@
   {
     "definitions": [
       {
+        "word": "stepping stone",
+        "phonetics": "/ˈstɛp.ɪŋ ˌstoʊn/",
+        "partOfSpeech": "noun phrase",
+        "enDefinition": "something that helps you to make progress or move toward a goal",
+        "ptDefinition": "algo que ajuda a fazer progresso ou alcançar um objetivo maior",
+        "examples": [
+          {
+            "enExample": "This internship is a stepping stone to a full-time job.",
+            "ptExample": "Este estágio é um trampolim para um emprego em tempo integral."
+          },
+          {
+            "enExample": "Learning English was a stepping stone to studying abroad.",
+            "ptExample": "Aprender inglês foi um passo importante para estudar no exterior."
+          }
+        ],
+        "synonyms": ["launchpad", "gateway", "milestone", "bridge"],
+        "antonyms": ["obstacle", "setback", "dead end"],
+        "seeAlso": ["springboard", "milestone"],
+        "notes": [
+          {
+            "enNote": "Used metaphorically to describe progress or career advancement.",
+            "ptNote": "Usado de forma metafórica para descrever progresso ou avanço na carreira."
+          }
+        ]
+      },
+      {
+        "word": "spark one’s interest",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to cause someone to become interested or curious about something",
+        "ptDefinition": "despertar o interesse ou a curiosidade de alguém sobre algo",
+        "examples": [
+          {
+            "enExample": "The documentary sparked my interest in environmental issues.",
+            "ptExample": "O documentário despertou meu interesse por questões ambientais."
+          },
+          {
+            "enExample": "That book really sparked her interest in psychology.",
+            "ptExample": "Aquele livro realmente despertou o interesse dela por psicologia."
+          }
+        ],
+        "synonyms": [
+          "pique someone’s curiosity",
+          "ignite interest",
+          "get someone interested"
+        ],
+        "antonyms": ["bore", "turn off", "discourage"],
+        "seeAlso": ["catch one’s eye", "stimulate", "draw attention"],
+        "notes": [
+          {
+            "enNote": "Often used when something new or unexpected makes someone curious or excited.",
+            "ptNote": "Usado quando algo novo ou inesperado desperta curiosidade ou empolgação."
+          }
+        ]
+      },
+      {
+        "word": "soften the blow",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to make a bad or unpleasant situation less severe or easier to accept",
+        "ptDefinition": "tornar uma situação ruim ou desagradável menos severa ou mais fácil de aceitar",
+        "examples": [
+          {
+            "enExample": "She tried to soften the blow by explaining the reasons behind the layoffs.",
+            "ptExample": "Ela tentou amenizar o impacto explicando as razões por trás das demissões."
+          },
+          {
+            "enExample": "Giving a small gift can help soften the blow of disappointing news.",
+            "ptExample": "Dar um presente pequeno pode ajudar a amenizar a notícia decepcionante."
+          }
+        ],
+        "synonyms": ["ease the impact", "lessen the effect", "mitigate"],
+        "antonyms": ["make worse", "exacerbate", "intensify"],
+        "seeAlso": ["take it easy", "cushion the blow"],
+        "notes": [
+          {
+            "enNote": "Frequently used in contexts of delivering bad news or handling difficult situations.",
+            "ptNote": "Frequentemente usado em contextos de comunicação de más notícias ou situações difíceis."
+          }
+        ]
+      },
+      {
+        "word": "when push comes to shove",
+        "partOfSpeech": "idiom",
+        "enDefinition": "when a situation becomes critical or difficult and decisive action is needed",
+        "ptDefinition": "quando a situação fica crítica ou difícil e é necessária uma ação decisiva",
+        "examples": [
+          {
+            "enExample": "When push comes to shove, we have to make tough decisions.",
+            "ptExample": "Quando a situação aperta, temos que tomar decisões difíceis."
+          },
+          {
+            "enExample": "People say a lot of things, but when push comes to shove, actions speak louder.",
+            "ptExample": "As pessoas falam muito, mas na hora da verdade, as ações valem mais."
+          }
+        ],
+        "synonyms": [
+          "when it really matters",
+          "in the end",
+          "at the critical moment"
+        ],
+        "antonyms": ["when things are easy", "in calm times"],
+        "seeAlso": ["time of truth", "moment of reckoning"],
+        "notes": [
+          {
+            "enNote": "Used to describe moments requiring urgent or serious action.",
+            "ptNote": "Usado para descrever momentos que exigem ação urgente ou séria."
+          }
+        ]
+      },
+      {
+        "word": "stand firm",
+        "phonetics": "/stænd fɜːrm/",
+        "partOfSpeech": "phrasal verb / idiom",
+        "enDefinition": "to refuse to change your decision or opinion, even when others try to persuade you",
+        "ptDefinition": "recusar-se a mudar sua decisão ou opinião, mesmo quando os outros tentam persuadi-lo",
+        "examples": [
+          {
+            "enExample": "She stood firm on her decision to leave the company.",
+            "ptExample": "Ela manteve firme sua decisão de deixar a empresa."
+          },
+          {
+            "enExample": "Despite the criticism, he stood firm in his beliefs.",
+            "ptExample": "Apesar das críticas, ele se manteve firme em suas crenças."
+          }
+        ],
+        "synonyms": ["hold one's ground", "remain steadfast", "be resolute"],
+        "antonyms": ["give in", "back down", "yield"],
+        "seeAlso": "stick to your guns",
+        "notes": [
+          {
+            "enNote": "Often used in situations involving pressure or opposition.",
+            "ptNote": "Frequentemente usado em situações de pressão ou oposição."
+          }
+        ]
+      },
+      {
         "word": "settle down",
         "phonetics": "/ˈsetl daʊn/",
         "partOfSpeech": "phrasal verb",
@@ -794,7 +929,6 @@
       },
       {
         "word": "share the credit",
-        "phonetics": "/ʃɛr ðə ˈkrɛdɪt/",
         "partOfSpeech": "idiom",
         "enDefinition": "to divide or distribute recognition or praise for an accomplishment among multiple people",
         "ptDefinition": "dividir ou distribuir o reconhecimento ou elogio por uma conquista entre várias pessoas",
@@ -1073,17 +1207,6 @@
           {
             "enExample": "Several more birds appeared.",
             "ptExample": "Vários outros pássaros apareceram."
-          }
-        ]
-      },
-      {
-        "word": "share the credit",
-        "partOfSpeech": "idiom",
-        "enDefinition": "to acknowledge someone else's contribution; to share with somebody else recognition for a job well done",
-        "examples": [
-          {
-            "enExample": "Thank you for giving me the award for coming up with the best new product idea this year. But I really need to share the credit with my colleagues in the marketing department.",
-            "ptExample": "Obrigado por me conceder o prêmio de melhor ideia de novo produto deste ano. Mas preciso compartilhar o mérito com meus colegas do departamento de marketing."
           }
         ]
       },

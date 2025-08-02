@@ -2,6 +2,56 @@
   {
     "definitions": [
       {
+        "word": "cut to the chase",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to get to the point without wasting time; to skip unnecessary details",
+        "ptDefinition": "ir direto ao ponto sem perder tempo; pular detalhes desnecessários",
+        "examples": [
+          {
+            "enExample": "Let me cut to the chase — we need to finish this by Friday.",
+            "ptExample": "Deixa eu ir direto ao ponto — precisamos terminar isso até sexta-feira."
+          },
+          {
+            "enExample": "Stop rambling and cut to the chase!",
+            "ptExample": "Pare de enrolar e vá direto ao assunto!"
+          }
+        ],
+        "synonyms": ["get to the point", "be direct", "skip the details"],
+        "antonyms": ["beat around the bush", "ramble"],
+        "seeAlso": ["get straight to the point", "no beating around the bush"],
+        "notes": [
+          {
+            "enNote": "Often used in meetings, presentations, or conversations where time is limited.",
+            "ptNote": "Frequentemente usado em reuniões, apresentações ou conversas com tempo limitado."
+          }
+        ]
+      },
+      {
+        "word": "at no extra charge",
+        "partOfSpeech": "idiom",
+        "enDefinition": "without requiring additional payment; free of extra cost",
+        "ptDefinition": "sem custo adicional; gratuitamente",
+        "examples": [
+          {
+            "enExample": "The delivery is available at no extra charge.",
+            "ptExample": "A entrega está disponível sem custo adicional."
+          },
+          {
+            "enExample": "You can get an extra blanket at no extra charge.",
+            "ptExample": "Você pode pegar um cobertor extra sem custo adicional."
+          }
+        ],
+        "synonyms": ["for free", "at no cost", "free of charge"],
+        "antonyms": ["at additional cost", "surcharge applies"],
+        "seeAlso": ["free of charge", "throw in something"],
+        "notes": [
+          {
+            "enNote": "Often used in commercial or service contexts.",
+            "ptNote": "Frequentemente usada em contextos comerciais ou de prestação de serviços."
+          }
+        ]
+      },
+      {
         "word": "can’t afford to",
         "phonetics": "kænt əˈfɔrd tu",
         "partOfSpeech": "modal verb phrase",

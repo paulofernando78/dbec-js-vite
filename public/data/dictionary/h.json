@@ -2,6 +2,208 @@
   {
     "definitions": [
       {
+        "word": "hands-off",
+        "partOfSpeech": "adjective",
+        "enDefinition": "not actively involved; allowing others to make decisions or take control",
+        "ptDefinition": "não interferente; que permite que outros tomem decisões ou assumam o controle",
+        "examples": [
+          {
+            "enExample": "He has a hands-off approach to management.",
+            "ptExample": "Ele tem uma abordagem não interventiva na gestão."
+          },
+          {
+            "enExample": "The teacher took a hands-off role and let the students lead the discussion.",
+            "ptExample": "O professor adotou uma postura de não interferência e deixou os alunos conduzirem a discussão."
+          }
+        ],
+        "synonyms": ["non-interfering", "laissez-faire", "uninvolved"],
+        "antonyms": ["hands-on", "controlling", "involved"],
+        "seeAlso": ["hands-on", "laissez-faire"],
+        "notes": [
+          {
+            "enNote": "Commonly used in leadership and parenting styles.",
+            "ptNote": "Comumente usado para descrever estilos de liderança e educação."
+          }
+        ]
+      },
+      {
+        "word": "reduce headcount",
+        "partOfSpeech": "verb phrase",
+        "enDefinition": "to decrease the number of employees in an organization",
+        "ptDefinition": "reduzir o número de funcionários em uma empresa",
+        "examples": [
+          {
+            "enExample": "The company had to reduce headcount due to budget cuts.",
+            "ptExample": "A empresa precisou cortar o número de funcionários por causa do orçamento."
+          },
+          {
+            "enExample": "They are planning to reduce headcount by 10% next year.",
+            "ptExample": "Eles estão planejando reduzir o quadro de funcionários em 10% no próximo ano."
+          }
+        ],
+        "synonyms": ["lay off", "downsize", "cut staff"],
+        "antonyms": ["hire", "expand workforce", "increase staff"],
+        "seeAlso": ["restructuring", "staff reduction"],
+        "notes": [
+          {
+            "enNote": "Commonly used in business contexts related to layoffs or company restructuring.",
+            "ptNote": "Usado com frequência em contextos empresariais relacionados a demissões ou reestruturações."
+          }
+        ]
+      },
+      {
+        "word": "my hands are tied",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to say that you are unable to act or help because of rules, obligations, or circumstances beyond your control",
+        "ptDefinition": "usado para dizer que você não pode agir ou ajudar por causa de regras, obrigações ou circunstâncias fora do seu controle; mãos atadas",
+        "examples": [
+          {
+            "enExample": "I'd love to help you, but my hands are tied.",
+            "ptExample": "Eu gostaria muito de ajudar, mas não posso fazer nada."
+          },
+          {
+            "enExample": "She wanted to approve the request, but her hands were tied by company policy.",
+            "ptExample": "Ela queria aprovar o pedido, mas a política da empresa não permitia."
+          }
+        ],
+        "synonyms": ["powerless", "unable to act", "restricted"],
+        "antonyms": ["free to act", "unrestricted", "in control"],
+        "seeAlso": ["out of my hands", "have no say"],
+        "notes": [
+          {
+            "enNote": "Often used to express frustration with limitations imposed by authority or external factors.",
+            "ptNote": "Frequentemente usado para expressar frustração com limitações impostas por autoridades ou fatores externos."
+          }
+        ]
+      },
+      {
+        "word": "hit the ground running",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to start a task or activity with great energy and immediate effectiveness",
+        "ptDefinition": "começar uma tarefa ou atividade com grande energia e eficácia imediata",
+        "examples": [
+          {
+            "enExample": "She hit the ground running on her first day at the new job.",
+            "ptExample": "Ela começou com tudo já no primeiro dia no novo emprego."
+          },
+          {
+            "enExample": "We need someone who can hit the ground running with minimal training.",
+            "ptExample": "Precisamos de alguém que consiga começar com tudo, com o mínimo de treinamento."
+          }
+        ],
+        "synonyms": ["start strong", "get off to a fast start"],
+        "antonyms": ["start slowly", "struggle to begin"],
+        "seeAlso": ["off to a flying start"],
+        "notes": [
+          {
+            "enNote": "Common in business and work-related contexts.",
+            "ptNote": "Comum em contextos de trabalho ou negócios."
+          }
+        ]
+      },
+      {
+        "word": "have a knack for something",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to have a natural talent or ability for doing something well",
+        "ptDefinition": "ter um talento natural ou habilidade especial para fazer algo bem",
+        "examples": [
+          {
+            "enExample": "She has a knack for storytelling that captivates everyone.",
+            "ptExample": "Ela tem um talento natural para contar histórias que cativa todos."
+          },
+          {
+            "enExample": "He really has a knack for fixing things around the house.",
+            "ptExample": "Ele realmente tem jeito para consertar coisas em casa."
+          }
+        ],
+        "synonyms": ["be talented at", "have a gift for", "be good at"],
+        "antonyms": ["lack skill", "struggle with"],
+        "seeAlso": "have a talent for",
+        "notes": [
+          {
+            "enNote": "Usually refers to a skill that seems effortless or instinctive.",
+            "ptNote": "Geralmente se refere a uma habilidade que parece natural ou instintiva."
+          }
+        ]
+      },
+      {
+        "word": "not so hot",
+        "partOfSpeech": "idiom",
+        "enDefinition": "not very good; poor in quality, condition, or performance",
+        "ptDefinition": "não muito bom; de qualidade, condição ou desempenho ruins",
+        "examples": [
+          {
+            "enExample": "The movie was not so hot — I wouldn’t recommend it.",
+            "ptExample": "O filme não foi lá essas coisas — eu não recomendaria."
+          },
+          {
+            "enExample": "I’m feeling not so hot today. I might be coming down with something.",
+            "ptExample": "Não estou me sentindo muito bem hoje. Acho que estou ficando doente."
+          }
+        ],
+        "synonyms": ["so-so", "mediocre", "not great"],
+        "antonyms": ["great", "excellent", "impressive"],
+        "seeAlso": "under the weather",
+        "notes": [
+          {
+            "enNote": "Can refer to physical health or general quality.",
+            "ptNote": "Pode se referir à saúde física ou à qualidade em geral."
+          }
+        ]
+      },
+      {
+        "word": "happy medium",
+        "partOfSpeech": "noun phrase / idiom",
+        "expressionType": "idiom",
+        "enDefinition": "a compromise or a middle ground between two extremes",
+        "ptDefinition": "um meio-termo ou equilíbrio entre dois extremos",
+        "examples": [
+          {
+            "enExample": "We need to find a happy medium between working too much and not working at all.",
+            "ptExample": "Precisamos encontrar um meio-termo entre trabalhar demais e não trabalhar nada."
+          },
+          {
+            "enExample": "The designer struck a happy medium between elegance and functionality.",
+            "ptExample": "O designer encontrou um equilíbrio entre elegância e funcionalidade."
+          }
+        ],
+        "synonyms": ["middle ground", "compromise", "balance"],
+        "antonyms": ["extreme", "polarization"],
+        "seeAlso": ["middle of the road", "meet halfway"],
+        "notes": [
+          {
+            "enNote": "Often used when two opposing options are too extreme.",
+            "ptNote": "Frequentemente usado quando duas opções opostas são extremas demais."
+          }
+        ]
+      },
+      {
+        "word": "hard sell",
+        "phonetics": "/ˌhɑːrd ˈsel/",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a method of selling that is very direct and often pressure-based",
+        "ptDefinition": "uma técnica de venda muito direta e frequentemente baseada em pressão",
+        "examples": [
+          {
+            "enExample": "The salesman was really pushy — definitely a hard sell.",
+            "ptExample": "O vendedor foi muito insistente — sem dúvida, uma venda forçada."
+          },
+          {
+            "enExample": "Their advertising campaign was a hard sell and turned many customers away.",
+            "ptExample": "A campanha publicitária foi muito agressiva e afastou muitos clientes."
+          }
+        ],
+        "synonyms": ["aggressive selling", "pushy tactics"],
+        "antonyms": ["soft sell", "subtle approach"],
+        "seeAlso": ["sales pitch", "soft sell"],
+        "notes": [
+          {
+            "enNote": "Often used to describe overly forceful sales tactics.",
+            "ptNote": "Frequentemente usado para descrever táticas de venda muito insistentes."
+          }
+        ]
+      },
+      {
         "word": "hang in there",
         "partOfSpeech": "idiom",
         "enDefinition": "to persevere and not give up, even in difficult circumstances",
@@ -268,7 +470,8 @@
             "ptNote": "Comumente usado em contextos de negócios ou planejamento para enfatizar a gestão rigorosa do tempo."
           }
         ]
-      },{
+      },
+      {
         "word": "one's head on the chopping block",
         "partOfSpeech": "idiom",
         "enDefinition": "in a position where one is at risk of being criticized, blamed, or punished for something",

@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "no hard feelings",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to say that you do not feel angry or upset about something",
+        "ptDefinition": "usado para dizer que você não está zangado ou chateado com algo",
+        "examples": [
+          {
+            "enExample": "I forgot to invite you to the party, but no hard feelings, okay?",
+            "ptExample": "Eu esqueci de te convidar para a festa, mas sem mágoas, tá bom?"
+          },
+          {
+            "enExample": "It was just a misunderstanding; no hard feelings between us.",
+            "ptExample": "Foi só um mal-entendido; sem ressentimentos entre nós."
+          }
+        ],
+        "synonyms": ["no resentment", "no bitterness", "all is forgiven"],
+        "antonyms": ["resentment", "bitterness", "grudge"],
+        "seeAlso": ["let bygones be bygones", "bury the hatchet"],
+        "notes": [
+          {
+            "enNote": "Commonly used to ease tension after conflicts or mistakes.",
+            "ptNote": "Usado com frequência para aliviar tensões após conflitos ou erros."
+          }
+        ]
+      },
+      {
         "word": "not feel so hot",
         "partOfSpeech": "idiom",
         "enDefinition": "to feel unwell or sick",

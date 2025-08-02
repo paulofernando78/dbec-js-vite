@@ -2,6 +2,82 @@
   {
     "definitions": [
       {
+        "word": "micro-manage",
+        "phonetics": "/ˈmaɪ.kroʊˌmæn.ɪdʒ/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to control every small detail of someone else's work in a way that is usually unnecessary and annoying",
+        "ptDefinition": "controlar cada pequeno detalhe do trabalho de outra pessoa, geralmente de forma desnecessária e irritante",
+        "examples": [
+          {
+            "enExample": "The boss tends to micro-manage every project, which frustrates the team.",
+            "ptExample": "O chefe costuma microgerenciar todos os projetos, o que frustra a equipe."
+          },
+          {
+            "enExample": "Good leaders delegate tasks instead of micro-managing.",
+            "ptExample": "Bons líderes delegam tarefas em vez de microgerenciar."
+          }
+        ],
+        "synonyms": ["oversee excessively", "control", "hover"],
+        "antonyms": ["delegate", "trust", "empower"],
+        "seeAlso": ["hands-off", "control freak"],
+        "notes": [
+          {
+            "enNote": "Often seen as a negative leadership style.",
+            "ptNote": "Frequentemente visto como um estilo de liderança negativo."
+          }
+        ]
+      },
+      {
+        "word": "make the grade",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to succeed or meet the required standard",
+        "ptDefinition": "ter sucesso ou alcançar o padrão exigido",
+        "examples": [
+          {
+            "enExample": "She tried out for the team but didn’t make the grade.",
+            "ptExample": "Ela fez o teste para o time, mas não atingiu o nível exigido."
+          },
+          {
+            "enExample": "He made the grade as a professional musician.",
+            "ptExample": "Ele conseguiu alcançar o nível de músico profissional."
+          }
+        ],
+        "synonyms": ["succeed", "measure up", "qualify"],
+        "antonyms": ["fall short", "fail", "not measure up"],
+        "seeAlso": ["meet the standard", "pass the test"],
+        "notes": [
+          {
+            "enNote": "Commonly used in academic, professional, or competitive contexts.",
+            "ptNote": "Comumente usado em contextos acadêmicos, profissionais ou competitivos."
+          }
+        ]
+      },
+      {
+        "word": "make a splash",
+        "partOfSpeech": "idiom / verb phrase",
+        "enDefinition": "to get a lot of public attention or make a strong impression",
+        "ptDefinition": "chamar muita atenção ou causar uma forte impressão",
+        "examples": [
+          {
+            "enExample": "The young designer made a splash with her first fashion show.",
+            "ptExample": "A jovem estilista chamou atenção com seu primeiro desfile de moda."
+          },
+          {
+            "enExample": "The company made a splash when it launched its innovative product.",
+            "ptExample": "A empresa causou impacto ao lançar seu produto inovador."
+          }
+        ],
+        "synonyms": ["cause a stir", "make waves", "attract attention"],
+        "antonyms": ["go unnoticed", "fly under the radar"],
+        "seeAlso": ["make waves", "create a buzz"],
+        "notes": [
+          {
+            "enNote": "Often used when someone or something quickly becomes popular or successful.",
+            "ptNote": "Frequentemente usado quando alguém ou algo se torna popular ou bem-sucedido rapidamente."
+          }
+        ]
+      },
+      {
         "word": "my stomach (my head, my arm, etc…) is killing me",
         "partOfSpeech": "idiomatic expression",
         "enDefinition": "used to express severe pain or discomfort in a part of the body",

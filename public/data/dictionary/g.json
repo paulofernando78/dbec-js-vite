@@ -2,6 +2,132 @@
   {
     "definitions": [
       {
+        "word": "get one’s foot in the door",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to achieve an initial opportunity that can lead to further success",
+        "ptDefinition": "conseguir uma oportunidade inicial que pode levar a mais sucesso no futuro",
+        "examples": [
+          {
+            "enExample": "Internships are a great way to get your foot in the door of the industry.",
+            "ptExample": "Estágios são uma ótima maneira de conseguir uma oportunidade inicial na indústria."
+          },
+          {
+            "enExample": "He got his foot in the door by volunteering at the company.",
+            "ptExample": "Ele conseguiu uma chance inicial ao fazer trabalho voluntário na empresa."
+          }
+        ],
+        "synonyms": ["gain entry", "open doors", "secure an opportunity"],
+        "antonyms": ["be locked out", "miss the chance"],
+        "seeAlso": ["break into", "get started"],
+        "notes": [
+          {
+            "enNote": "Often used in career and business contexts to describe initial breakthroughs.",
+            "ptNote": "Usado frequentemente em contextos de carreira e negócios para descrever avanços iniciais."
+          }
+        ]
+      },
+      {
+        "word": "go-getter",
+        "phonetics": "/ˈɡoʊˌɡɛtər/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a person who is energetic, determined, and eager to succeed",
+        "ptDefinition": "uma pessoa enérgica, determinada e com vontade de ter sucesso",
+        "examples": [
+          {
+            "enExample": "She's a real go-getter and quickly climbed the corporate ladder.",
+            "ptExample": "Ela é realmente uma pessoa determinada e subiu rapidamente na hierarquia da empresa."
+          },
+          {
+            "enExample": "We need a go-getter to lead this project to success.",
+            "ptExample": "Precisamos de alguém proativo para levar esse projeto ao sucesso."
+          }
+        ],
+        "synonyms": ["high achiever", "self-starter", "ambitious person"],
+        "antonyms": ["slacker", "underachiever", "lazy person"],
+        "seeAlso": ["self-starter", "driven"],
+        "notes": [
+          {
+            "enNote": "Often used positively in business or career contexts.",
+            "ptNote": "Frequentemente usada de forma positiva em contextos profissionais ou de carreira."
+          }
+        ]
+      },
+      {
+        "word": "give someone their walking papers",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to fire someone or tell them they are no longer needed",
+        "ptDefinition": "demitir alguém ou informar que seus serviços não são mais necessários",
+        "examples": [
+          {
+            "enExample": "After the last mistake, he was given his walking papers.",
+            "ptExample": "Após o último erro, ele foi demitido."
+          },
+          {
+            "enExample": "The company gave several employees their walking papers during the reorganization.",
+            "ptExample": "A empresa demitiu vários funcionários durante a reestruturação."
+          }
+        ],
+        "synonyms": ["fire", "dismiss", "let go"],
+        "antonyms": ["hire", "employ", "promote"],
+        "seeAlso": ["give someone the sack", "lay off"],
+        "notes": [
+          {
+            "enNote": "Mainly used in informal or workplace contexts.",
+            "ptNote": "Usado principalmente em contextos informais ou profissionais."
+          }
+        ]
+      },
+      {
+        "word": "go the extra mile",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to make more effort than is expected or required",
+        "ptDefinition": "fazer mais esforço do que o esperado ou necessário",
+        "examples": [
+          {
+            "enExample": "She always goes the extra mile to help her students succeed.",
+            "ptExample": "Ela sempre se esforça além do esperado para ajudar seus alunos a terem sucesso."
+          },
+          {
+            "enExample": "The customer service team went the extra mile to resolve the issue.",
+            "ptExample": "A equipe de atendimento ao cliente fez um esforço extra para resolver o problema."
+          }
+        ],
+        "synonyms": ["go above and beyond", "make an extra effort"],
+        "antonyms": ["do the bare minimum", "cut corners"],
+        "seeAlso": ["go above and beyond"],
+        "notes": [
+          {
+            "enNote": "Used to describe dedication, especially in work or service contexts.",
+            "ptNote": "Usado para descrever dedicação, especialmente em contextos de trabalho ou atendimento."
+          }
+        ]
+      },
+      {
+        "word": "get up to speed",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to become familiar with or informed about the latest developments",
+        "ptDefinition": "ficar por dentro; se atualizar sobre os acontecimentos ou informações mais recentes",
+        "examples": [
+          {
+            "enExample": "It took me a few days to get up to speed after returning from vacation.",
+            "ptExample": "Levei alguns dias para me atualizar depois de voltar das férias."
+          },
+          {
+            "enExample": "Let's meet before the project starts so you can get up to speed.",
+            "ptExample": "Vamos nos reunir antes de o projeto começar para você ficar por dentro."
+          }
+        ],
+        "synonyms": ["catch up", "get informed", "get updated"],
+        "antonyms": ["fall behind", "be out of touch"],
+        "seeAlso": "bring up to speed",
+        "notes": [
+          {
+            "enNote": "Often used in professional or technical contexts.",
+            "ptNote": "Frequentemente usada em contextos profissionais ou técnicos."
+          }
+        ]
+      },
+      {
         "word": "there’s something going around",
         "partOfSpeech": "idiom / expression",
         "enDefinition": "an illness or problem that is spreading among people",
@@ -659,11 +785,11 @@
           {
             "enExample": "She's very good with children.",
             "ptExample": "Ela é muito boa com crianças."
-          },{
+          },
+          {
             "enExample": "He's a good friend.",
             "ptExample": "Ele é um bom amigo."
           }
-
         ]
       },
       {

@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "one’s work has slipped",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to say that someone’s work quality or performance has declined",
+        "ptDefinition": "usado para dizer que a qualidade ou o desempenho do trabalho de alguém diminuiu",
+        "examples": [
+          {
+            "enExample": "His work has slipped since he started taking on extra projects.",
+            "ptExample": "O desempenho dele piorou desde que começou a assumir projetos extras."
+          },
+          {
+            "enExample": "The manager noticed that her work had slipped over the past few months.",
+            "ptExample": "O gerente percebeu que o trabalho dela havia piorado nos últimos meses."
+          }
+        ],
+        "synonyms": ["decline in performance", "drop in quality", "slack off"],
+        "antonyms": ["improve", "excel", "perform well"],
+        "seeAlso": ["fall behind", "lose focus"],
+        "notes": [
+          {
+            "enNote": "Commonly used in workplace evaluations or feedback.",
+            "ptNote": "Usado com frequência em avaliações ou feedbacks de trabalho."
+          }
+        ]
+      },
+      {
         "word": "under the weather",
         "partOfSpeech": "idiom",
         "enDefinition": "feeling ill or unwell",

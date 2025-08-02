@@ -177,18 +177,27 @@ class DictionaryContent extends HTMLElement {
 
       this.notes.forEach((note) => {
         const item = document.createElement("li");
+        item.style.display = "inline"
         item.classList.add("margin-top");
 
+        const noteTitle = document.createElement("span");
+        noteTitle.style.fontFamily = "times-roman";
+        noteTitle.textContent = "Notes:",
+        noteTitle.style.marginRight = "var(--margin-right)";
+
         const enNote = document.createElement("p");
+        enNote.style.display = "inline"
         enNote.textContent = note.enNote;
+        enNote.style.marginRight = "var(--margin-right)";
+        item.appendChild(enNote);
 
         const ptNote = document.createElement("p");
+        ptNote.style.display = "inline"
         ptNote.style.color = "var(--gray-4)";
         ptNote.textContent = note.ptNote;
-
-        item.appendChild(enNote);
         item.appendChild(ptNote);
-        notesList.appendChild(item);
+
+        notesList.append(noteTitle, item);
       });
     }
 

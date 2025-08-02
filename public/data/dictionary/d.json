@@ -2,6 +2,132 @@
   {
     "definitions": [
       {
+        "word": "draw",
+        "phonetics": "/drɔː/",
+        "partOfSpeech": "irregular verb (past: drew / participle: drawn)",
+        "enDefinition": "to produce a picture by making lines with a pen, pencil, etc.; to pull or move something in a particular direction",
+        "ptDefinition": "produzir um desenho com lápis, caneta etc.; puxar ou mover algo em uma direção específica",
+        "examples": [
+          {
+            "enExample": "She loves to draw landscapes in her notebook.",
+            "ptExample": "Ela adora desenhar paisagens no caderno."
+          },
+          {
+            "enExample": "He drew the curtains to block the sunlight.",
+            "ptExample": "Ele puxou as cortinas para bloquear a luz do sol."
+          }
+        ],
+        "synonyms": ["sketch", "pull", "attract"],
+        "antonyms": ["erase", "push", "repel"],
+        "seeAlso": ["drawing", "draw a conclusion", "draw a blank"],
+        "notes": [
+          {
+            "enNote": "‘Draw’ has many meanings, so always consider the context.",
+            "ptNote": "‘Draw’ tem muitos significados, por isso é importante considerar o contexto."
+          }
+        ]
+      },
+      {
+        "word": "draw a blank",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to fail to get an answer or result; to be unable to remember something",
+        "ptDefinition": "não conseguir lembrar ou obter uma resposta ou resultado",
+        "examples": [
+          {
+            "enExample": "I tried to remember his name, but I completely drew a blank.",
+            "ptExample": "Tentei lembrar o nome dele, mas deu um branco total."
+          },
+          {
+            "enExample": "The police drew a blank in their search for the suspect.",
+            "ptExample": "A polícia não conseguiu nenhum resultado na busca pelo suspeito."
+          }
+        ],
+        "synonyms": ["go blank", "forget", "come up empty"],
+        "antonyms": ["remember", "recall", "retrieve"],
+        "seeAlso": ["go blank", "slip one’s mind"],
+        "notes": [
+          {
+            "enNote": "Often used when someone forgets something momentarily.",
+            "ptNote": "Frequentemente usada quando alguém esquece algo momentaneamente."
+          }
+        ]
+      },
+      {
+        "word": "down the road",
+        "partOfSpeech": "idiom",
+        "enDefinition": "at some point in the future",
+        "ptDefinition": "em algum momento no futuro",
+        "examples": [
+          {
+            "enExample": "We might move to a bigger house down the road.",
+            "ptExample": "Podemos nos mudar para uma casa maior no futuro."
+          },
+          {
+            "enExample": "Down the road, technology will continue to improve.",
+            "ptExample": "No futuro, a tecnologia continuará a melhorar."
+          }
+        ],
+        "synonyms": ["in the future", "later on", "eventually"],
+        "antonyms": ["now", "immediately"],
+        "seeAlso": ["in the long run", "some day"],
+        "notes": [
+          {
+            "enNote": "Often used in informal conversation to talk about future events.",
+            "ptNote": "Frequentemente usada em conversas informais para falar sobre eventos futuros."
+          }
+        ]
+      },
+      {
+        "word": "do a 180",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to completely change one's opinion, behavior, or position",
+        "ptDefinition": "mudar completamente de opinião, comportamento ou posição",
+        "examples": [
+          {
+            "enExample": "He did a 180 on the issue after learning more about it.",
+            "ptExample": "Ele mudou completamente de opinião sobre o assunto depois de saber mais sobre ele."
+          },
+          {
+            "enExample": "They did a 180 and decided to support the proposal.",
+            "ptExample": "Eles mudaram totalmente de posição e decidiram apoiar a proposta."
+          }
+        ],
+        "synonyms": ["change one's mind", "reverse course", "backtrack"],
+        "antonyms": ["stay the course", "stand firm", "be consistent"],
+        "seeAlso": "flip-flop",
+        "notes": [
+          {
+            "enNote": "The phrase comes from making a 180-degree turn, meaning a complete reversal.",
+            "ptNote": "A expressão vem de uma curva de 180 graus, ou seja, uma reversão completa."
+          }
+        ]
+      },
+      {
+        "word": "no can do",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to say that something is not possible or that you are unwilling or unable to do it",
+        "ptDefinition": "usado para dizer que algo não é possível ou que você não está disposto ou não pode fazer",
+        "examples": [
+          {
+            "enExample": "Sorry, no can do — I’m already booked tonight.",
+            "ptExample": "Desculpe, não dá — já tenho compromisso esta noite."
+          },
+          {
+            "enExample": "They asked me to work overtime, but I said no can do.",
+            "ptExample": "Eles pediram para eu fazer hora extra, mas eu disse que não dava."
+          }
+        ],
+        "synonyms": ["can't do it", "not possible", "no way"],
+        "antonyms": ["sure thing", "of course", "can do"],
+        "seeAlso": ["can't make it", "no way"],
+        "notes": [
+          {
+            "enNote": "Informal expression that mimics broken English; often used humorously.",
+            "ptNote": "Expressão informal que imita inglês com erro proposital; usada com tom de humor ou descontração."
+          }
+        ]
+      },
+      {
         "word": "dog-eat-dog world",
         "partOfSpeech": "idiom",
         "enDefinition": "a ruthless environment or situation where people compete aggressively and are willing to harm each other to succeed",
@@ -51,7 +177,7 @@
           }
         ]
       },
-       {
+      {
         "word": "don’t waste your breath",
         "partOfSpeech": "idiom",
         "enDefinition": "used to tell someone not to bother trying to persuade or explain something to someone else because it will have no effect",
@@ -128,7 +254,7 @@
           }
         ]
       },
-       {
+      {
         "word": "Dream on!",
         "phonetics": "",
         "partOfSpeech": "idiom",
@@ -205,7 +331,7 @@
           }
         ]
       },
-       {
+      {
         "word": "determine",
         "phonetics": "/dɪˈtɜːrmɪn/",
         "partOfSpeech": "verb",
