@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "nothing to sneeze at",
+        "phonetics": "/ˈnʌθɪŋ tə ˈsniːz æt/",
+        "partOfSpeech": "idiom",
+        "enDefinition": "something that is important, valuable, or deserves serious consideration",
+        "ptDefinition": "algo que é importante, valioso ou que merece consideração",
+        "examples": [
+          {
+            "enExample": "An extra $500 a month is nothing to sneeze at.",
+            "ptExample": "Quinhentos dólares extras por mês não é algo a se desprezar."
+          },
+          {
+            "enExample": "Her experience in marketing is nothing to sneeze at.",
+            "ptExample": "A experiência dela em marketing não é pouca coisa."
+          }
+        ],
+        "synonyms": ["significant", "noteworthy", "worth considering"],
+        "antonyms": ["trivial", "insignificant", "minor"],
+        "seeAlso": ["take seriously", "have merit"],
+        "notes": [
+          {
+            "enNote": "Used to emphasize that something should not be dismissed or underestimated.",
+            "ptNote": "Usado para enfatizar que algo não deve ser ignorado ou subestimado."
+          }
+        ]
+      },
+      {
         "word": "skedaddle",
         "phonetics": "/skɪˈdæd.l̩/",
         "partOfSpeech": "regular verb (informal)",

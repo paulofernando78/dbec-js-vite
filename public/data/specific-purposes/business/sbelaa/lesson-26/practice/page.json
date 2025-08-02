@@ -21,27 +21,60 @@
     {
       "exercises": [
         {
-          "title": "Choose the most appropriate response to the following:"
+          "title": "Choose the best substitute for the highlighted phrase or sentence:"
         },
         {
           "radioExercises": [
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Paula is a "
+                },
+                {
+                  "markedText":	"go-getter"
+                },
+                {
+                  "text":	". No wonder she was our top salesperson last month!"
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "very good at making friends",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "a reliable, kind person",
+                  "isCorrect": false
+                },
+                {
+                  "option": "very effective at her job",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. Your company just agreed to give you a company car, so "
+                },
+                {
+                  "markedText":	"don't push your luck"
+                },
+                {
+                  "text":	" by asking for a large raise now."
+                }
+              ],
+              "options": [
+                {
+                  "option": "see if you can get more good luck",
+                  "isCorrect": false
+                },
+                {
+                  "option": "see what more you can get",
+                  "isCorrect": true
+                },
+                {
+                  "option": "make your boss happy",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +82,26 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "3. When Keith didn't "
+                },
+                {
+                  "markedText":	"make the grade"
+                },
+                {
+                  "text":	" as a professional athlete, he decided to become a high school football coach instead."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "succeed",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "fail",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "get good grades",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +109,80 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "4. Kate is interested in working internationally, and she hopes to get a job in Europe "
+                },
+                {
+                  "markedText":	"down the road"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "after she retires",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "close to home",
+                  "isCorrect": false
+                },
+                {
+                  "option": "in the future",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "5. Sure, Michelle earns more money than any of us and has the biggest office, but "
+                },
+                {
+                  "markedText":	"she's earned her keep"
+                },
+                {
+                  "text":	"."
+                }
+              ],
+              "options": [
+                {
+                  "option": "she earns a lot of money",
+                  "isCorrect": false
+                },
+                {
+                  "option": "she just got lucky",
+                  "isCorrect": false
+                },
+                {
+                  "option": "she deserves it",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. "
+                },
+                {
+                  "markedText":	"I'm not sure how to break the news"
+                },
+                {
+                  "text":	", but our company is bankrupt and our offices will close down next week."
+                }
+              ],
+              "options": [
+                {
+                  "option": "I've got some wonderful news to tell you",
+                  "isCorrect": false
+                },
+                {
+                  "option": "This is difficult to discuss",
+                  "isCorrect": true
+                },
+                {
+                  "option": "I'm not sure if this is true",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +190,26 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "7. Nordstrom's department stores are famous for their customer service. They're always willing to "
+                },
+                {
+                  "markedText":	"go the extra mile"
+                },
+                {
+                  "text":	" to please their customers."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "travel long distances",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "do a lot",
+                  "isCorrect": true
+                },
+                {
+                  "option": "do nothing",
                   "isCorrect": false
                 }
               ]
@@ -112,84 +217,27 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "8. Sheryl didn't get the job offer at the Los Angeles Times. They told her they needed somebody with more journalism experience who "
+                },
+                {
+                  "markedText":	"could hit the ground running"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "would run away from the job after a short period",
+                  "isCorrect": false
+                },
+                {
+                  "option": "would tell everybody else how to do their jobs",
+                  "isCorrect": false
+                },
+                {
+                  "option": "would learn quickly how to do the job",
                   "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "6. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "7. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
                 }
               ]
             }

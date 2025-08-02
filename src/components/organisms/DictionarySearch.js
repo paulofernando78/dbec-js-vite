@@ -73,7 +73,7 @@ class DictionarySearch extends HTMLElement {
 
         // Show result or not found message
         if (matchedList.length === 0) {
-          this.showMessage(`"${word}" not found :(`);
+          this.showMessage(`"${word}" hasn’t been added yet`);
         } else {
           this.showResults(matchedList, word);
         }

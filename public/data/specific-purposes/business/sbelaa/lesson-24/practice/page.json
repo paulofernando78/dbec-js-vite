@@ -28,20 +28,26 @@
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. I'm trying to decide between a Nook and a Kindle e-reader. Which "
+                },
+                {
+                  "markedText": "gives more bang for the buck"
+                },
+                {
+                  "text": "?"
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "offers more value",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "is cheaper",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "is more durable",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +55,26 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "2. Please don't try to "
+                },
+                {
+                  "markedText": "give me the hard sell"
+                },
+                {
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "aggressively try to sell me something",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "sell me something overpriced",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "sell me something worthless",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +82,26 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "3. We rented a storage facility for 12 months, and the company threw in an extra three months "
+                },
+                {
+                  "markedText": "at no extra charge"
+                },
+                {
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "for a small fee",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "for free",
+                  "isCorrect": true
+                },
+                {
+                  "option": "at a discount",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +109,26 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "4. If we buy the copier today you'll include one year of servicing for free? "
+                },
+                {
+                  "markedText": "It's a deal!"
+                },
+                {
+                  "text": "!"
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "l agree!",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "That's a good offer!",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "I'll think about it!",
                   "isCorrect": false
                 }
               ]
@@ -112,20 +136,53 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "5. Linda tried to negotiate the salary offer with Donox, but the company "
+                },
+                {
+                  "markedText": "stood firm at"
+                },
+                {
+                  "text": " $90,000 a year."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "increased their offer to",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "decreased their offer to",
+                  "isCorrect": false
+                },
+                {
+                  "option": "refused to offer more than",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. This is "
+                },
+                {
+                  "markedText": "off the record"
+                },
+                {
+                  "text": ", but I'm not sure how much longer Mark is going to be with the company."
+                }
+              ],
+              "options": [
+                {
+                  "option": "unofficial",
+                  "isCorrect": true
+                },
+                {
+                  "option": "official",
+                  "isCorrect": false
+                },
+                {
+                  "option": "widely known",
                   "isCorrect": false
                 }
               ]
@@ -133,62 +190,53 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "7. Come into the office this Saturday? "
+                },
+                {
+                  "markedText": "No can do"
+                },
+                {
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "Maybe",
+                  "isCorrect": false
+                },
+                {
+                  "option": "No problem",
+                  "isCorrect": false
+                },
+                {
+                  "option": "I can't do that",
                   "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
                 }
               ]
             },
             {
               "question": [
                 {
-                  "text": "7. ..."
+                  "text": "8. Apple really "
+                },
+                {
+                  "markedText": "made a splash"
+                },
+                {
+                  "text": " with the introduction of the iPad."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "got lots of attention",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "spent a lot of money",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
+                  "option": "beat the competition",
                   "isCorrect": false
                 }
               ]

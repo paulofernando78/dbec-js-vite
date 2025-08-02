@@ -21,7 +21,7 @@
     {
       "exercises": [
         {
-          "title": "Choose the most appropriate response to the following:"
+          "title": "Choose the best substitute for the highlighted phrase or sentence:"
         },
         {
           "radioExercises": [
@@ -29,6 +29,12 @@
               "question": [
                 {
                   "text": "1. ..."
+                },
+                {
+                  "markedText":	""
+                },
+                {
+                  "text":	""
                 }
               ],
               "options": [
@@ -50,6 +56,12 @@
               "question": [
                 {
                   "text": "2. ..."
+                },
+                {
+                  "markedText":	""
+                },
+                {
+                  "text":	""
                 }
               ],
               "options": [
@@ -71,6 +83,12 @@
               "question": [
                 {
                   "text": "3. ..."
+                },
+                {
+                  "markedText":	""
+                },
+                {
+                  "text":	""
                 }
               ],
               "options": [
@@ -92,6 +110,12 @@
               "question": [
                 {
                   "text": "4. ..."
+                },
+                {
+                  "markedText":	""
+                },
+                {
+                  "text":	""
                 }
               ],
               "options": [
@@ -113,6 +137,12 @@
               "question": [
                 {
                   "text": "5. ..."
+                },
+                {
+                  "markedText":	""
+                },
+                {
+                  "text":	""
                 }
               ],
               "options": [
@@ -134,6 +164,12 @@
               "question": [
                 {
                   "text": "6. ..."
+                },
+                {
+                  "markedText":	""
+                },
+                {
+                  "text":	""
                 }
               ],
               "options": [
@@ -155,6 +191,12 @@
               "question": [
                 {
                   "text": "7. ..."
+                },
+                {
+                  "markedText":	""
+                },
+                {
+                  "text":	""
                 }
               ],
               "options": [
@@ -176,6 +218,12 @@
               "question": [
                 {
                   "text": "8. ..."
+                },
+                {
+                  "markedText":	""
+                },
+                {
+                  "text":	""
                 }
               ],
               "options": [
