@@ -155,6 +155,7 @@ class Exercise extends HTMLElement {
           if (q.markedText) {
             const questionMark = document.createElement("mark");
             questionMark.textContent = q.markedText;
+            questionMark.style.backgroundColor = "var(--yellow-mark)"
             question.appendChild(questionMark);
           }
         });
