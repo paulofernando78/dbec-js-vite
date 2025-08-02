@@ -28,7 +28,7 @@
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Hi, it's Karen Chen from Citigroup calling to see if you've had a chance to review our offer."
                 },
                 {
                   "markedText":	""
@@ -39,15 +39,15 @@
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "reject our offer",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "consider our offer",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "make an offer",
                   "isCorrect": false
                 }
               ]
@@ -55,7 +55,7 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "2. Hi, Karen. I still haven't made up my mind. I'm weighing another offer from another financial services company."
                 },
                 {
                   "markedText":	""
@@ -66,15 +66,15 @@
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "considering",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "rejecting",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "discussing",
                   "isCorrect": false
                 }
               ]
@@ -82,7 +82,7 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "3. Tell me the big picture on what the other company is offering."
                 },
                 {
                   "markedText":	""
@@ -93,15 +93,15 @@
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "small points",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "true story",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "overview",
                   "isCorrect": false
                 }
               ]
@@ -109,7 +109,7 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "4. 1 don't need to know the nitty-gritty of what the other company is offering."
                 },
                 {
                   "markedText":	""
@@ -120,15 +120,15 @@
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "overview",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "summary",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "details",
                   "isCorrect": false
                 }
               ]
@@ -136,7 +136,7 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "5. The salary you're requesting is out of our range."
                 },
                 {
                   "markedText":	""
@@ -147,15 +147,15 @@
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "less than we can afford",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "more than we can afford",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "about what we can afford",
                   "isCorrect": false
                 }
               ]
@@ -163,7 +163,7 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "6. If you can split the difference, we can come to an agreement."
                 },
                 {
                   "markedText":	""
@@ -174,15 +174,15 @@
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "meet halfway",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "pay me what I want",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "raise your offer a little",
                   "isCorrect": false
                 }
               ]
@@ -190,7 +190,7 @@
             {
               "question": [
                 {
-                  "text": "7. ..."
+                  "text": "7. If you stand your ground regarding the salary, we're not going to be able to reach an agreement."
                 },
                 {
                   "markedText":	""
@@ -201,15 +201,15 @@
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "give up your position",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "act totally unreasonable",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "maintain your position",
                   "isCorrect": false
                 }
               ]
@@ -217,7 +217,7 @@
             {
               "question": [
                 {
-                  "text": "8. ..."
+                  "text": "8. Tom drove a hard bargain and got the company to offer an additional $10,000."
                 },
                 {
                   "markedText":	""
@@ -228,15 +228,15 @@
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "negotiated a little",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "negotiated hard",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "negotiated fairly",
                   "isCorrect": false
                 }
               ]

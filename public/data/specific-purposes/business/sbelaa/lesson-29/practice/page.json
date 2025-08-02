@@ -28,26 +28,20 @@
             {
               "question": [
                 {
-                  "text": "1. ..."
-                },
-                {
-                  "markedText":	""
-                },
-                {
-                  "text":	""
+                  "text": "1. We purchased an entire office building in New York for a song a few years ago when the economy was bad."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "Now that building would be much more expensive.",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "Now that building would be much cheaper.",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "Now you could probably get that building at a good price.",
                   "isCorrect": false
                 }
               ]
@@ -55,26 +49,41 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
-                },
-                {
-                  "markedText":	""
-                },
-                {
-                  "text":	""
+                  "text": "2. Kim, our new finance manager, is the type of person who can take the ball and run with it."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "Great, we need somebody here who needs a lot of direction.",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "Great, we need some more good athletes in our office.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Great, we're looking for somebody with initiative.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. Jesse won $5 million last month in a lawsuit. He really struck it rich."
+                }
+              ],
+              "options": [
+                {
+                  "option": "No wonder he's decided to retire!",
+                  "isCorrect": true
+                },
+                {
+                  "option": "No wonder he's decided to go to law school!",
+                  "isCorrect": false
+                },
+                {
+                  "option": "No wonder he's decided to continue working!",
                   "isCorrect": false
                 }
               ]
@@ -82,26 +91,20 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
-                },
-                {
-                  "markedText":	""
-                },
-                {
-                  "text":	""
+                  "text": "4. We're looking to hire somebody who'll stay with our company for at least a few years. You wouldn't jump ship after just a year, would you?"
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "No, I don't even like sailing.",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "No, I always stay at jobs at least three years.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "No, I would probably quit after a year.",
                   "isCorrect": false
                 }
               ]
@@ -109,26 +112,20 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
-                },
-                {
-                  "markedText":	""
-                },
-                {
-                  "text":	""
+                  "text": "5. You might get rich investing in biotech companies, but you're just as likely to lose your shirt."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "That's good advice. I'll definitely invest heavily in them.",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "That's true. I'd better be careful about putting too much money into them.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "That's true, but I'd be willing to give away my shirt in exchange for a lot of money.",
                   "isCorrect": false
                 }
               ]
@@ -136,107 +133,62 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
-                },
-                {
-                  "markedText":	""
-                },
-                {
-                  "text":	""
+                  "text": "6. While in Russia, you should snap up some lacquer boxes. They're beautiful and inexpensive there."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "Okay, I will be sure to pack plenty of boxes.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Okay, I will be sure to sell some lacquer boxes.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Okay, I will be sure to buy some lacquer boxes.",
                   "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
                 }
               ]
             },
             {
               "question": [
                 {
-                  "text": "6. ..."
-                },
-                {
-                  "markedText":	""
-                },
-                {
-                  "text":	""
+                  "text": "7. I bought plane tickets on Econo-Airlines, and a few days later they went belly up!"
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "I'm sure you'll have a great flight.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "I'll be sure to book my next flight with Econo-Airlines.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "That's too bad. You'd better buy some new plane tickets.",
                   "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
                 }
               ]
             },
             {
               "question": [
                 {
-                  "text": "7. ..."
-                },
-                {
-                  "markedText":	""
-                },
-                {
-                  "text":	""
+                  "text": "8. Working on Wall Street for an investment bank sounds wonderful, but it's not all it's cracked up to be."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "You're right. It really is wonderful.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "You're right. The pay is good, but the work is demanding and the hours are long.",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                },
-                {
-                  "markedText":	""
-                },
-                {
-                  "text":	""
-                }
-              ],
-              "options": [
-                {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
+                  "option": "You're right. Everybody I know who works on Wall Street loves it.",
                   "isCorrect": false
                 }
               ]

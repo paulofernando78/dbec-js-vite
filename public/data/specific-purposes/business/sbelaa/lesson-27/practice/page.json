@@ -28,26 +28,53 @@
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Liz's boss has told her to "
                 },
                 {
-                  "markedText":	""
+                  "markedText": "reduce headcount"
                 },
                 {
-                  "text":	""
+                  "text": " because the company is in financial trouble."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "cut her salary",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "cut costs",
+                  "isCorrect": false
+                },
+                {
+                  "option": "lay off workers",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. Liz only has three employees: Brian, Rachel, and Pam. Brian and Rachel are doing great work, so she can't afford to "
+                },
+                {
+                  "markedText": "let them go"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "fire them",
+                  "isCorrect": true
+                },
+                {
+                  "option": "let them take a vacation",
+                  "isCorrect": false
+                },
+                {
+                  "option": "have them quit",
                   "isCorrect": false
                 }
               ]
@@ -55,26 +82,26 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "3. Pam isn't doing so well. In fact, over the past year her work has really "
                 },
                 {
-                  "markedText":	""
+                  "markedText": "slipped"
                 },
                 {
-                  "text":	""
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "gotten better",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "gotten worse",
+                  "isCorrect": true
+                },
+                {
+                  "option": "stayed the same",
                   "isCorrect": false
                 }
               ]
@@ -82,26 +109,26 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "4. It's true that Pam helped build the company "
                 },
                 {
-                  "markedText":	""
+                  "markedText": "from the ground up"
                 },
                 {
-                  "text":	""
+                  "text": " and has been a very loyal employee over the past 10 years."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "from its beginnings",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "from a failing enterprise",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "starting recently",
                   "isCorrect": false
                 }
               ]
@@ -109,26 +136,53 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "5. Unfortunately, Pam is no longer "
                 },
                 {
-                  "markedText":	""
+                  "markedText": "at the top of her game"
                 },
                 {
-                  "text":	""
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "interested in working",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "good at sports",
+                  "isCorrect": false
+                },
+                {
+                  "option": "performing well",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. Liz thinks Pam has simply worked too hard and is now "
+                },
+                {
+                  "markedText": "burned out"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "no longer effective",
+                  "isCorrect": true
+                },
+                {
+                  "option": "very effective",
+                  "isCorrect": false
+                },
+                {
+                  "option": "ready for a promotion",
                   "isCorrect": false
                 }
               ]
@@ -136,26 +190,26 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "7. Liz likes Pam, and would prefer not to fire her. But "
                 },
                 {
-                  "markedText":	""
+                  "markedText": "her hands are tied."
                 },
                 {
-                  "text":	""
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "she has another choice",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "she has no choice",
+                  "isCorrect": true
+                },
+                {
+                  "option": "she can't move her hands",
                   "isCorrect": false
                 }
               ]
@@ -163,80 +217,26 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "8. Liz hopes there will be "
                 },
                 {
-                  "markedText":	""
+                  "markedText": "no hard feelings"
                 },
                 {
-                  "text":	""
+                  "text": " after she tells Pam the bad news."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "no bitterness",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "no loss of feeling",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "7. ..."
-                },
-                {
-                  "markedText":	""
-                },
-                {
-                  "text":	""
-                }
-              ],
-              "options": [
-                {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                },
-                {
-                  "markedText":	""
-                },
-                {
-                  "text":	""
-                }
-              ],
-              "options": [
-                {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
+                  "option": "no joy",
                   "isCorrect": false
                 }
               ]

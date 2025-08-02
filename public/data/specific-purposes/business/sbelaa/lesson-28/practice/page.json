@@ -28,26 +28,80 @@
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. We received résumés from two candidates that "
                 },
                 {
-                  "markedText":	""
+                  "markedText":	"sparked our interest"
                 },
                 {
-                  "text":	""
+                  "text":	". Please call them to arrange interviews."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "will definitely be hired",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "aren't interesting",
+                  "isCorrect": false
+                },
+                {
+                  "option": "look promising",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. I'm currently "
+                },
+                {
+                  "markedText":	"between jobs"
+                },
+                {
+                  "text":	", but I'm confident I'll find something soon."
+                }
+              ],
+              "options": [
+                {
+                  "option": "on vacation",
+                  "isCorrect": false
+                },
+                {
+                  "option": "employed",
+                  "isCorrect": false
+                },
+                {
+                  "option": "unemployed",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. No wonder Carl is so good at sales. He's a real "
+                },
+                {
+                  "markedText":	"people person"
+                },
+                {
+                  "text":	"."
+                }
+              ],
+              "options": [
+                {
+                  "option": "He's good with people",
+                  "isCorrect": true
+                },
+                {
+                  "option": "He's good at his job",
+                  "isCorrect": false
+                },
+                {
+                  "option": "He doesn't like people",
                   "isCorrect": false
                 }
               ]
@@ -55,26 +109,53 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "4. Working at a small company with only four employees, Vijay is used to "
                 },
                 {
-                  "markedText":	""
+                  "markedText":	"wearing many hats"
                 },
                 {
-                  "text":	""
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "working much too hard",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "putting on a hat every morning",
+                  "isCorrect": false
+                },
+                {
+                  "option": "doing many different tasks",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "5. Working as a summer intern is a good way to "
+                },
+                {
+                  "markedText":	"get your foot in the door with a company"
+                },
+                {
+                  "text":	"."
+                }
+              ],
+              "options": [
+                {
+                  "option": "get a full-time job at a company",
+                  "isCorrect": true
+                },
+                {
+                  "option": "get promoted",
+                  "isCorrect": false
+                },
+                {
+                  "option": "make money over the summer",
                   "isCorrect": false
                 }
               ]
@@ -82,26 +163,26 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "6. Where does Wendy work? I know she told me, but "
                 },
                 {
-                  "markedText":	""
+                  "markedText":	"I'm drawing a blank"
                 },
                 {
-                  "text":	""
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "I wasn't listening",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "I can't remember",
+                  "isCorrect": true
+                },
+                {
+                  "option": "I promised not to tell anybody",
                   "isCorrect": false
                 }
               ]
@@ -109,26 +190,26 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "7. I suggest you take the sales analyst position. It's a "
                 },
                 {
-                  "markedText":	""
+                  "markedText":	"stepping stone to a better position"
                 },
                 {
-                  "text":	""
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "way to get a better job in the future",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "way to ensure you'll always be a sales analyst",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "way to guarantee you'll be the sales director next year",
                   "isCorrect": false
                 }
               ]
@@ -136,107 +217,26 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "8. Angela hardly ever sees her boss. "
                 },
                 {
-                  "markedText":	""
+                  "markedText":	"He's hands-off"
                 },
                 {
-                  "text":	""
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "He keeps his hands off her",
+                  "isCorrect": false
+                },
+                {
+                  "option": "He doesn't manage her closely",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "6. ..."
-                },
-                {
-                  "markedText":	""
-                },
-                {
-                  "text":	""
-                }
-              ],
-              "options": [
-                {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "7. ..."
-                },
-                {
-                  "markedText":	""
-                },
-                {
-                  "text":	""
-                }
-              ],
-              "options": [
-                {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                },
-                {
-                  "markedText":	""
-                },
-                {
-                  "text":	""
-                }
-              ],
-              "options": [
-                {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
+                  "option": "He has his hands in everything",
                   "isCorrect": false
                 }
               ]
