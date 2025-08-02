@@ -21,27 +21,60 @@
     {
       "exercises": [
         {
-          "title": "Choose the most appropriate response to the following:"
+          "title": "Choose the best substitute for the highlighted phrase or sentence:"
         },
         {
           "radioExercises": [
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Everybody in the office knows that Tracy is a "
+                },
+                {
+                  "markedText": "hot-head"
+                },
+                {
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "has a nice personality",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "rarely gets upset",
+                  "isCorrect": false
+                },
+                {
+                  "option": "has a bad temper",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. When Tracy's in a bad mood, it's best to just "
+                },
+                {
+                  "markedText": "steer clear of her"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "annoy her",
+                  "isCorrect": false
+                },
+                {
+                  "option": "avoid her",
+                  "isCorrect": true
+                },
+                {
+                  "option": "ask her what's wrong",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +82,26 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "3. According to Seth, Tracy is always "
+                },
+                {
+                  "markedText": "on her high horse"
+                },
+                {
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "right",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "thinking she has all the answers",
+                  "isCorrect": true
+                },
+                {
+                  "option": "nervous",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +109,26 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "4. Seth "
+                },
+                {
+                  "markedText": "has issues with"
+                },
+                {
+                  "text": " Tracy."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "doesn't get along with",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "get along with",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "bothers",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +136,53 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "5. Seth doesn't understand why Tracy's always "
+                },
+                {
+                  "markedText": "in a snit"
+                },
+                {
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "busy",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "in a good mood",
+                  "isCorrect": false
+                },
+                {
+                  "option": "in a bad mood",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. When Seth asked Tracy for help today, she said, “You know how to "
+                },
+                {
+                  "markedText": "push my buttons"
+                },
+                {
+                  "text": ". I'm sick and tired of doing your job all the time.”"
+                }
+              ],
+              "options": [
+                {
+                  "option": "ask for help",
+                  "isCorrect": false
+                },
+                {
+                  "option": "annoy me",
+                  "isCorrect": true
+                },
+                {
+                  "option": "delight me",
                   "isCorrect": false
                 }
               ]
@@ -112,20 +190,26 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "7. Seth told Yuri that Tracy gets "
+                },
+                {
+                  "markedText": "bent out of shape"
+                },
+                {
+                  "text": " whenever he asks her for help."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "pleased",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "annoyed",
+                  "isCorrect": true
+                },
+                {
+                  "option": "supportive",
                   "isCorrect": false
                 }
               ]
@@ -133,63 +217,27 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "8. Seth complained to their boss, Yuri, about how much Tracy "
+                },
+                {
+                  "markedText": "gets under his skin"
+                },
+                {
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "delights him",
+                  "isCorrect": false
+                },
+                {
+                  "option": "lies to him",
+                  "isCorrect": false
+                },
+                {
+                  "option": "bothers him",
                   "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "7. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
                 }
               ]
             }

@@ -21,27 +21,27 @@
     {
       "exercises": [
         {
-          "title": "Choose the most appropriate response to the following:"
+          "title": "Choose the best substitute for the highlighted phrase or sentence:"
         },
         {
           "radioExercises": [
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Kate said she didn't have time to help you? I'm not surprised, since she has a lot on her plate right now."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "she's very busy these days",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "she's taken too much food",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "she doesn't really like to help people",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +49,20 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "2. Instead of retiring, Joyce decided to keep working and just scale back her hours."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "increase the number of hours she works",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "retire in a few years",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "reduce the number of hours she works",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +70,20 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "3. You've been at the office every night until midnight for the past three months? Hang in there. In just a few more weeks, the busy period will probably be over."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "Quit your job.",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "Be patient.",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "Keep complaining.",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +91,20 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "4. Tanya works all day and goes to school every evening. No wonder she's wiped out."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "exhausted",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "sick",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "full of energy",
                   "isCorrect": false
                 }
               ]
@@ -112,20 +112,20 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "5. At the tax consulting firm, March and April are crunch time."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "a relaxing time",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "a slow period",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "a very busy period",
                   "isCorrect": false
                 }
               ]
@@ -133,20 +133,20 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "6. You asked me to buy you a bamboo vase on my business trip to Hanoi? I'm sorry, but it slipped my mind!"
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "you never asked me for that",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "I forgot",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "I didn't get a chance",
                   "isCorrect": false
                 }
               ]
@@ -154,20 +154,20 @@
             {
               "question": [
                 {
-                  "text": "7. ..."
+                  "text": "7. Eva is working full-time while studying for her MBA and taking care of her two small kids. I don't know how she can keep her head above water."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "No wonder she has no time to go swimming.",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "I don't know how she manages.",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "I don't know what she does with all her free time.",
                   "isCorrect": false
                 }
               ]
@@ -175,20 +175,20 @@
             {
               "question": [
                 {
-                  "text": "8. ..."
+                  "text": "8. If you want to pass the CPA exam, you'd better keep your nose to the grindstone and stop going out every night to party."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "focus on studying",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "focus on having fun",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "keep your nose out of other people's business",
                   "isCorrect": false
                 }
               ]

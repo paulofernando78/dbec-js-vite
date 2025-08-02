@@ -28,20 +28,20 @@
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. We'd better be careful what we say in the office."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "That's right. The walls have ears.",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "Likely story!",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "Right, I wasn't born yesterday.",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +49,62 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "2. Eric, we're going to have to ask you to take a 40 percent pay cut. But next year, I promise we'll triple your salary."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "Lower your voice. The walls have ears!",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "Don't get too excited. Chill out!",
+                  "isCorrect": false
+                },
+                {
+                  "option": "That's hard to believe. I wasn't born yesterday!",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. Jill is constantly flattering her boss and offering to do favors for him."
+                }
+              ],
+              "options": [
+                {
+                  "option": "Why doesn't she butter him up instead?",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Think twice before accepting favors from her.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "That's one way to climb the corporate ladder.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "4. I'm giving a presentation to our CEO in a half an hour. I'm so nervous!"
+                }
+              ],
+              "options": [
+                {
+                  "option": "Likely story.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Chill out!",
+                  "isCorrect": true
+                },
+                {
+                  "option": "You're such a yes man.",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +112,20 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "5. I spent three hours helping Rick with his financial projections, and he didn't even say thank you."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
+                  "option": "You need to look at yourself in the mirror.",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "I'm sure you'll think twice before helping him again.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "He's trying to climb the corporate ladder.",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +133,20 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "6. Maria works at least 60 hours a week at the law firm and always volunteers for extra work. She's an excellent employee."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "She'll definitely get ahead.",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
+                  "option": "Let's not talk about her behind her back.",
                   "isCorrect": false
                 },
                 {
-                  "option": "...",
+                  "option": "It's a dog-eat-dog world.",
                   "isCorrect": false
                 }
               ]
@@ -112,83 +154,41 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "7. Paul was arrested for stealing millions of dollars from his company."
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "I'm not surprised. He's a real yes man.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "That's one way to climb the corporate ladder.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "I don't know how he can look at himself in the mirror.",
                   "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
                 }
               ]
             },
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "8. You're the best boss I've ever had and definitely the smartest!"
                 }
               ],
               "options": [
                 {
-                  "option": "...",
+                  "option": "Are you just out for yourself?",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Are you trying to butter me up?",
                   "isCorrect": true
                 },
                 {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "7. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "...",
+                  "option": "Isn't it a dog-eat-dog world?",
                   "isCorrect": false
                 }
               ]
