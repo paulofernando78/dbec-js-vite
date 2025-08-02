@@ -28,20 +28,53 @@
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Len, one of the salespeople in our department isn't "
+                },
+                {
+                  "markedText": "pulling his weight"
+                },
+                {
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "exercising enough",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "doing anything",
+                  "isCorrect": false
+                },
+                {
+                  "option": "doing his share of work",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. Len's boss Jill is trying to "
+                },
+                {
+                  "markedText": "run a tight ship"
+                },
+                {
+                  "text": " and gets very upset when her employees don't perform."
+                }
+              ],
+              "options": [
+                {
+                  "option": "operate effectively",
+                  "isCorrect": true
+                },
+                {
+                  "option": "be an understanding boss",
+                  "isCorrect": false
+                },
+                {
+                  "option": "join the Marines",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +82,53 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "3. His boss Jill is "
+                },
+                {
+                  "markedText": "sick and tired of"
+                },
+                {
+                  "text": " the fact that Len shows up late every day and is constantly flirting with Tatiana, the saleswoman in the electronics department."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "delighted by",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "aware of",
+                  "isCorrect": false
+                },
+                {
+                  "option": "fed up with",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "4. Len's boss told him he wasn't performing well. She told him to "
+                },
+                {
+                  "markedText": "shape up or ship out"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "keep doing well",
+                  "isCorrect": false
+                },
+                {
+                  "option": "improve or go",
+                  "isCorrect": true
+                },
+                {
+                  "option": "get in better shape",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +136,26 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "5. "
+                },
+                {
+                  "markedText": "“What's the deal?”"
+                },
+                {
+                  "text": " Len asked when Jill yelled at him. “I thought you and I were friends”."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "What's on your mind?",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "What's going on?",
+                  "isCorrect": true
+                },
+                {
+                  "option": "What are you offering?",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +163,26 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "6. Len accused jill of turning into a "
+                },
+                {
+                  "markedText": "slave driver"
+                },
+                {
+                  "text": " after she fired him."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "demanding boss",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "fair boss",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "hard worker",
                   "isCorrect": false
                 }
               ]
@@ -112,20 +190,26 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "7. “I can no longer "
+                },
+                {
+                  "markedText": "turn a blind eye to"
+                },
+                {
+                  "text": " the fact that you're not taking this job very seriously,” Jill told him."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "be pleased with",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "ignore",
+                  "isCorrect": true
+                },
+                {
+                  "option": "be supportive of",
                   "isCorrect": false
                 }
               ]
@@ -133,63 +217,27 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "8. Len told Jill to "
+                },
+                {
+                  "markedText": "cut him some slack"
+                },
+                {
+                  "text": ", explaining that he's been under a lot of stress lately at home."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "be honest",
+                  "isCorrect": false
+                },
+                {
+                  "option": "be pleased",
+                  "isCorrect": false
+                },
+                {
+                  "option": "be forgiving",
                   "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "7. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
                 }
               ]
             }

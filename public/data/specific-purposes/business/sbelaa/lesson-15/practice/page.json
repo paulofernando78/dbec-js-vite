@@ -28,20 +28,41 @@
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Please don't try to talk me into exhibiting at your trade show this year."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "Okay, I'll sign you up.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "Okay, I'll call you tomorrow to talk about it some more.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Okay, if you're not interested, I won't ask again.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. I can't find Sam's address anywhere. Do you think you can help me track it down?"
+                }
+              ],
+              "options": [
+                {
+                  "option": "Yes, I'd be happy to track it.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Sure, I'll help you find it.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "No, but I'll help you find it.",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +70,20 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "3. We've already shelled out enough on advertising this year."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "I agree. Let's spend more.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "I know we've spent a lot, but I think we should do a couple more ads.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "I disagree. We've already spent a lot of money on advertising.",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +91,20 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "4. You think you'll be accepted to Harvard Business School? Dream on!"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "You may not agree, but I think it's a realistic goal.",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "Right, I'll just go to sleep and dream about it.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "Thanks for helping me think big.",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +112,41 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "5. I had nothing to do with the disastrous decision to hire Dan. Don’t point the finger at me!"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "I'm not pointing the finger, but I am blaming you.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "Good. I'm glad you're willing to take the blame.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Okay, I won't blame you.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. I think we've struck gold with our idea to sell content on our website instead of giving it away for free. What do you think?"
+                }
+              ],
+              "options": [
+                {
+                  "option": "I agree. It's a great idea.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "I agree. Nobody's going to be willing to pay for it.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "I agree. We should sell silver and bronze on the site too.",
                   "isCorrect": false
                 }
               ]
@@ -112,83 +154,41 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "7. You need to take responsibility for our accounting problems. Stop trying to pass the buck!"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "Okay, I won't pass it anymore. You can have it.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "I already passed the buck.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "I'm not trying to pass the buck. I admit I made a mistake.",
                   "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
                 }
               ]
             },
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "8. You finally got promoted, and now you're leaving your company and opening a health food store? I can't believe my ears!"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "Yes, I know it's a surprising move.",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "I couldn't believe my ears either.",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "7. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
+                  "option": "I know you're not surprised.",
                   "isCorrect": false
                 }
               ]

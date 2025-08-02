@@ -21,27 +21,60 @@
     {
       "exercises": [
         {
-          "title": "Choose the most appropriate response to the following:"
+          "title": "Choose the best substitute for the highlighted phrase or sentence:"
         },
         {
           "radioExercises": [
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Jake says he only hires pretty girls to work at his restaurant. He's so "
+                },
+                {
+                  "markedText":	"un-PC"
+                },
+                {
+                  "text":	"!"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "bad with computers",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "kind",
+                  "isCorrect": false
+                },
+                {
+                  "option": "offensive",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. Tiffany called in sick on Tuesday, and she showed up for work on Wednesday with a suntan. She's going to "
+                },
+                {
+                  "markedText":	"get nailed"
+                },
+                {
+                  "text":	" for lying about being sick."
+                }
+              ],
+              "options": [
+                {
+                  "option": "be awarded",
+                  "isCorrect": false
+                },
+                {
+                  "option": "get in trouble",
+                  "isCorrect": true
+                },
+                {
+                  "option": "get fired",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +82,26 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "3. Brad said that Tammy "
+                },
+                {
+                  "markedText":	"made a pass at"
+                },
+                {
+                  "text":	" him while they were on a business trip in Moscow."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "tried to initiate a sexual relationship",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "threw a football at him",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "was rude to him",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +109,26 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "4. Frank keeps taking all of the best customer accounts for himself. We hope that one of these days, "
+                },
+                {
+                  "markedText":	"he'll get his"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "he'll get his own",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "something bad will happen to him",
+                  "isCorrect": true
+                },
+                {
+                  "option": "he'll earn the accounts he's taking",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +136,26 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "5. I'm not surprised that Randy kept trying to put his arm around you during the business dinner. He's always "
+                },
+                {
+                  "text":	"on the make"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "affectionate in public",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "looking for romance",
+                  "isCorrect": true
+                },
+                {
+                  "option": "moving quickly",
                   "isCorrect": false
                 }
               ]
@@ -112,20 +163,26 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "6. Our CEO was one of the last people to hear of the accounting scandal at our company. He's so "
+                },
+                {
+                  "markedText":	"out of the loop"
+                },
+                {
+                  "text":	"!"
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "aware of what's going on",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "unaware of what's going on",
+                  "isCorrect": true
+                },
+                {
+                  "option": "curious about what's going on",
                   "isCorrect": false
                 }
               ]
@@ -133,20 +190,26 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "7. Monica loves to gossip, so you can always count on her for the l"
+                },
+                {
+                  "markedText":	"atest dirt"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "most up-to-date gossip",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "news of important current events",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "nastiest rumors",
                   "isCorrect": false
                 }
               ]
@@ -154,42 +217,27 @@
             {
               "question": [
                 {
-                  "text": "7. ..."
+                  "text": "8. Three months after he laid off thousands of employees on Christmas Eve, the CEO himself was fired. "
+                },
+                {
+                  "text":	"What goes around comes around"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "When you fire somebody, you'll probably get fired yourself soon.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "The CEO will still come around the offices.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "When people do bad things, they're usually punished in the end.",
                   "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
                 }
               ]
             }

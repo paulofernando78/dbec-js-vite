@@ -21,27 +21,60 @@
     {
       "exercises": [
         {
-          "title": "Choose the most appropriate response to the following:"
+          "title": "Choose the best substitute for the highlighted phrase or sentence:"
         },
         {
           "radioExercises": [
             {
               "question": [
                 {
-                  "text": "1. ..."
+                  "text": "1. I know we need to "
+                },
+                {
+                  "markedText": "do some belt-tightening"
+                },
+                {
+                  "text": ", but I'm not sure that laying off employees is the solution."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) increase our revenues",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) get rid of some people",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) reduce our expenses",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. Changing the packaging design at this point is "
+                },
+                {
+                  "markedText": "out of the question"
+                },
+                {
+                  "text": ". We're already in production."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) not a possibility",
+                  "isCorrect": true
+                },
+                {
+                  "option": "b) a good idea",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) probably not possible",
                   "isCorrect": false
                 }
               ]
@@ -49,20 +82,26 @@
             {
               "question": [
                 {
-                  "text": "2. ..."
+                  "text": "3. If we're serious about saving money, we should consider "
+                },
+                {
+                  "markedText": "cutting back on"
+                },
+                {
+                  "text": " our use of expensive consultants."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) eliminating",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) reducing",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) increasing",
                   "isCorrect": false
                 }
               ]
@@ -70,20 +109,26 @@
             {
               "question": [
                 {
-                  "text": "3. ..."
+                  "text": "4. You can tell me about how great Jim is "
+                },
+                {
+                  "markedText": "until you're blue in the face"
+                },
+                {
+                  "text": ". The fact is, I don't like the way he does business."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) until your face turns blue",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) all you want",
+                  "isCorrect": true
+                },
+                {
+                  "option": "c) until I change my mind",
                   "isCorrect": false
                 }
               ]
@@ -91,20 +136,26 @@
             {
               "question": [
                 {
-                  "text": "4. ..."
+                  "text": "5. Kyle and Mark are meeting at Flanagan's Bar after work to "
+                },
+                {
+                  "markedText": "bat around"
+                },
+                {
+                  "text": " some ideas about starting their own business."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) discuss",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "b) dismiss",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "c) finalize",
                   "isCorrect": false
                 }
               ]
@@ -112,20 +163,53 @@
             {
               "question": [
                 {
-                  "text": "5. ..."
+                  "text": "6. When you're the boss, demonstrating good leadership is "
+                },
+                {
+                  "markedText": "the name of the game"
+                },
+                {
+                  "text": "."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
+                  "option": "a) not important",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "b) somewhat important",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) very important",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "7. The food manufacturer's costs have gone up, but they are unable to raise the price of their products. They're "
+                },
+                {
+                  "markedText":	"caught between a rock and a hard place"
+                },
+                {
+                  "text":	"."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a) in an undesirable position",
+                  "isCorrect": true
+                },
+                {
+                  "option": "b) ready to go out of business",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) deciding between two good options",
                   "isCorrect": false
                 }
               ]
@@ -133,63 +217,27 @@
             {
               "question": [
                 {
-                  "text": "6. ..."
+                  "text": "8. Why don't you open a corporate account with UPS and ship all of your packages with them? You could "
+                },
+                {
+                  "markedText":	"save a bundle"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "a) stop carrying heavy packages",
+                  "isCorrect": false
+                },
+                {
+                  "option": "b) save a few dollars",
+                  "isCorrect": false
+                },
+                {
+                  "option": "c) save a lot of money",
                   "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "7. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "8. ..."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) ...",
-                  "isCorrect": true
-                },
-                {
-                  "option": "b) ...",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) ...",
-                  "isCorrect": false
                 }
               ]
             }

@@ -21,33 +21,27 @@
     {
       "exercises": [
         {
-          "title": "Choose the best substitute for the phrase or sentence in highlight:"
+          "title": "Choose the most appropriate response to the following:"
         },
         {
           "radioExercises": [
             {
               "question": [
                 {
-                  "text": "1. Diana woke up this morning feeling "
-                },
-                {
-                  "markedText": "under the weather."
-                },
-                {
-                  "text": "."
+                  "text": "1. ..."
                 }
               ],
               "options": [
                 {
-                  "option": "a) good",
-                  "isCorrect": false
-                },
-                {
-                  "option": "b) sick",
+                  "option": "...",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) okay",
+                  "option": "...",
+                  "isCorrect": false
+                },
+                {
+                  "option": "...",
                   "isCorrect": false
                 }
               ]
@@ -55,26 +49,20 @@
             {
               "question": [
                 {
-                  "text": "2. “My head is "
-                },
-                {
-                  "markedText": "killing me"
-                },
-                {
-                  "text": ",” Diana told her husband Boris."
+                  "text": "2. ..."
                 }
               ],
               "options": [
                 {
-                  "option": "a) really hurts",
+                  "option": "...",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) hurts a little",
+                  "option": "...",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) isn't bothering me",
+                  "option": "...",
                   "isCorrect": false
                 }
               ]
@@ -82,53 +70,20 @@
             {
               "question": [
                 {
-                  "text": "3. Boris handed Diane the phone and suggested that she "
-                },
-                {
-                  "markedText": "call in sick"
-                },
-                {
-                  "text": "."
+                  "text": "3. ..."
                 }
               ],
               "options": [
                 {
-                  "option": "a) go to work",
-                  "isCorrect": false
-                },
-                {
-                  "option": "b) work from home",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) phone the office to say she's not feeling well",
-                  "isCorrect": true
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "4. Diana is "
-                },
-                {
-                  "markedText": "up to her ears in work"
-                },
-                {
-                  "text": ", so she is not happy about having to call in sick."
-                }
-              ],
-              "options": [
-                {
-                  "option": "a) not too busy",
-                  "isCorrect": false
-                },
-                {
-                  "option": "b) very busy",
+                  "option": "...",
                   "isCorrect": true
                 },
                 {
-                  "option": "c) enjoying her job",
+                  "option": "...",
+                  "isCorrect": false
+                },
+                {
+                  "option": "...",
                   "isCorrect": false
                 }
               ]
@@ -136,26 +91,20 @@
             {
               "question": [
                 {
-                  "text": "5. Diana took the phone and called her boss. “"
-                },
-                {
-                  "markedText": "I'm not feeling so hot"
-                },
-                {
-                  "text": "”, she said."
+                  "text": "4. ..."
                 }
               ],
               "options": [
                 {
-                  "option": "a) I don't feel well",
+                  "option": "...",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) I feel okay",
+                  "option": "...",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) I have a very high temperature",
+                  "option": "...",
                   "isCorrect": false
                 }
               ]
@@ -163,26 +112,20 @@
             {
               "question": [
                 {
-                  "text": "6. Diana's boss said, “It looks like "
-                },
-                {
-                  "markedText": "there's something going around"
-                },
-                {
-                  "text": ". Three other people have also called in sick today.”"
+                  "text": "5. ..."
                 }
               ],
               "options": [
                 {
-                  "option": "a) an illness is going around the office",
+                  "option": "...",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) a lot of people are on vacation",
+                  "option": "...",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) nobody is feeling well",
+                  "option": "...",
                   "isCorrect": false
                 }
               ]
@@ -190,26 +133,20 @@
             {
               "question": [
                 {
-                  "text": "7. Diana doesn't like to complain, but the truth is she's "
-                },
-                {
-                  "markedText": "as sick as a dog"
-                },
-                {
-                  "text": "."
+                  "text": "6. ..."
                 }
               ],
               "options": [
                 {
-                  "option": "a) really ill",
+                  "option": "...",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) feeling okay",
+                  "option": "...",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) in a bad mood",
+                  "option": "...",
                   "isCorrect": false
                 }
               ]
@@ -217,27 +154,42 @@
             {
               "question": [
                 {
-                  "text": "8. Diana plans to "
-                },
-                {
-                  "markedText": "take it easy"
-                },
-                {
-                  "text": " today."
+                  "text": "7. ..."
                 }
               ],
               "options": [
                 {
-                  "option": "a) run around",
-                  "isCorrect": false
-                },
-                {
-                  "option": "b) exercise lightly",
-                  "isCorrect": false
-                },
-                {
-                  "option": "c) rest",
+                  "option": "...",
                   "isCorrect": true
+                },
+                {
+                  "option": "...",
+                  "isCorrect": false
+                },
+                {
+                  "option": "...",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "8. ..."
+                }
+              ],
+              "options": [
+                {
+                  "option": "...",
+                  "isCorrect": true
+                },
+                {
+                  "option": "...",
+                  "isCorrect": false
+                },
+                {
+                  "option": "...",
+                  "isCorrect": false
                 }
               ]
             }
