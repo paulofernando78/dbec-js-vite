@@ -79,7 +79,7 @@
             {
               "block": [
                 {
-                  "text": "Felix is a blue and yellow bird from Brazil. He lives with the Baxter family in New York. His home is a big cage. It is on the fortieth floor of a tall building. Felix likes the Baxters, and the Baxters like him, they give him food. They talk to him and show him to all their friends. But Felix isn’t happy. He wants to go home to Brazil."
+                  "text": "Felix is a blue and yellow bird from Brazil. He lives with the Baxter family in New York. His home is a big cage. It is on the fortieth floor of a tall building. Felix likes the Baxters, and the Baxters like him. They give him food. They talk to him and show him to all their friends. But Felix isn’t happy. He wants to go home to Brazil."
                 }
               ]
             }
@@ -90,7 +90,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "1 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -100,11 +100,48 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "1.1 Felix",
+                      "correctAnswer": ["lives"]
                     },
                     {
-                      "text": "..."
+                      "text": "with the Baxter family in New York."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.2 Felix",
+                      "correctAnswer": ["likes"]
+                    },
+                    {
+                      "text": "the Baxters, and the Baxters",
+                      "correctAnswer": ["like"]
+                    },
+                    {
+                      "text": "him."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.3 They",
+                      "correctAnswer": ["give"]
+                    },
+                    {
+                      "text": "him food."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.4 Felix isn’t happy because he",
+                      "correctAnswer": ["wants"]
+                    },
+                    {
+                      "text": "to go home to Brazil."
                     }
                   ]
                 }
@@ -145,7 +182,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "2 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -155,11 +192,22 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "2.1 Every night Felix",
+                      "correctAnswer": ["looks up"]
                     },
                     {
-                      "text": "..."
+                      "text": "at the sky."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2.2 He",
+                      "correctAnswer": ["remembers"]
+                    },
+                    {
+                      "text": "the big, yellow moon in Brazil."
                     }
                   ]
                 }
@@ -200,7 +248,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "3 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -210,11 +258,22 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "3.1 Felix",
+                      "correctAnswer": ["closes"]
                     },
                     {
-                      "text": "..."
+                      "text": "his eyes."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.2 He",
+                      "correctAnswer": ["puts"]
+                    },
+                    {
+                      "text": "his head under one wing."
                     }
                   ]
                 }
@@ -244,7 +303,7 @@
             {
               "block": [
                 {
-                  "text": "“One day” comes two weeks later. Mr Baxter opens Felix’s cage to give him some food. Then he hears the telephone. “Can you answer that, George?” asks Mrs Baxter, “I’m in the bath.” “OK,” says Mr Baxter. He goes to the phone, but forgets to shut Felix’s cage. Felix can see an open window. “This is it!” he thinks."
+                  "text": "“One day” comes two weeks later. Mr. Baxter opens Felix’s cage to give him some food. Then he hears the telephone. “Can you answer that, George?” asks Mrs Baxter, “I’m in the bath.” “OK,” says Mr Baxter. He goes to the phone, but forgets to shut Felix’s cage. Felix can see an open window. “This is it!” he thinks."
                 }
               ]
             }
@@ -255,7 +314,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "4 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -265,11 +324,37 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "4.1 Mr. Baxter ",
+                      "correctAnswer": ["opens"]
                     },
                     {
-                      "text": "..."
+                      "text": "Felix’s cage to give him some food."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4.2 Mr. Baxter",
+                      "correctAnswer": ["hears"]
+                    },
+                    {
+                      "text": "the telephone."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4.3 He",
+                      "correctAnswer": ["goes"]
+                    },
+                    {
+                      "text": "to the phone, but ",
+                      "correctAnswer": ["forgets"]
+                    },
+                    {
+                      "text": "to shut Felix’s cage."
                     }
                   ]
                 }
@@ -310,7 +395,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "5 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -320,11 +405,30 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "5.1 He",
+                      "correctAnswer": ["flies out"]
                     },
                     {
-                      "text": "..."
+                      "text": "of his cage and out of the window and he doesn’t go",
+                      "correctAnswer": ["back"]
+                    },
+                    {
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "5.2 He",
+                      "correctAnswer": ["looks down"]
+                    },
+                    {
+                      "text": "at the streets and buildings and",
+                      "correctAnswer": ["flies"]
+                    },
+                    {
+                      "text": "through the city."
                     }
                   ]
                 }
@@ -365,7 +469,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "6 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -375,11 +479,22 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "6.1 Felix",
+                      "correctAnswer": ["stands"]
                     },
                     {
-                      "text": "..."
+                      "text": "on the head of the Statue of Liberty."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "6.2 “Where are you from?”",
+                      "correctAnswer": ["asks"]
+                    },
+                    {
+                      "text": "a small, grey and white bird beside him."
                     }
                   ]
                 }
@@ -420,7 +535,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "7 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -430,11 +545,22 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "7.1 In the evening the sun",
+                      "correctAnswer": ["starts"]
                     },
                     {
-                      "text": "..."
+                      "text": "to go down."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "7.2 He",
+                      "correctAnswer": ["wants"]
+                    },
+                    {
+                      "text": "to fly all night."
                     }
                   ]
                 }
@@ -475,7 +601,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "8 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -485,11 +611,41 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "8.1 Two hours later it",
+                      "correctAnswer": ["starts"]
                     },
                     {
-                      "text": "..."
+                      "text": "to rain."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "8.2 He remembers",
+                      "correctAnswer": ["remembers"]
+                    },
+                    {
+                      "text": "his warm cage. “",
+                      "correctAnswer": ["Am"]
+                    },
+                    {
+                      "text": "I doing the right thing?"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "8.3 He looks down",
+                      "correctAnswer": ["looks down"]
+                    },
+                    {
+                      "text": "at the cold sea. Then he",
+                      "correctAnswer": ["sees"]
+                    },
+                    {
+                      "text": "something."
                     }
                   ]
                 }
@@ -530,7 +686,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "9 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -540,11 +696,26 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "9.1 He",
+                      "correctAnswer": ["eats"]
                     },
                     {
-                      "text": "..."
+                      "text": "twenty in five minutes, then he",
+                      "correctAnswer": ["sleeps"]
+                    },
+                    {
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "9.2 The man only",
+                      "correctAnswer": ["wants"]
+                    },
+                    {
+                      "text": "to take a photograph of him."
                     }
                   ]
                 }
@@ -585,7 +756,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "10 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -595,11 +766,22 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "10.1 Felix",
+                      "correctAnswer": ["starts"]
                     },
                     {
-                      "text": "..."
+                      "text": "to fly down to the buildings."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "10.2 Then he",
+                      "correctAnswer": ["sees"]
+                    },
+                    {
+                      "text": "a big bird with beautiful black and white feathers."
                     }
                   ]
                 }
@@ -640,7 +822,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "11 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -650,11 +832,22 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "11.1 Felix tells",
+                      "correctAnswer": ["tells"]
                     },
                     {
-                      "text": "..."
+                      "text": "his story."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "11.2 He",
+                      "correctAnswer": ["knows"]
+                    },
+                    {
+                      "text": "the jungle."
                     }
                   ]
                 }
@@ -695,7 +888,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "12 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -705,11 +898,15 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "12.1  There he",
+                      "correctAnswer": ["sees"]
                     },
                     {
-                      "text": "..."
+                      "text": "a lot of people in the street and he can",
+                      "correctAnswer": ["hear"]
+                    },
+                    {
+                      "text": "music."
                     }
                   ]
                 }
@@ -750,7 +947,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "13 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -760,11 +957,22 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "13.1 He fights",
+                      "correctAnswer": ["fights"]
                     },
                     {
-                      "text": "..."
+                      "text": "with his wings and his feet."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "13.2 Then he tells",
+                      "correctAnswer": ["tells"]
+                    },
+                    {
+                      "text": "Aca his story."
                     }
                   ]
                 }
@@ -805,7 +1013,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "14 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -815,11 +1023,22 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "14.1 Felix",
+                      "correctAnswer": ["stops"]
                     },
                     {
-                      "text": "..."
+                      "text": "to see a lot of men and machines."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "14.2 “Where’s my family?,”",
+                      "correctAnswer": ["asks"]
+                    },
+                    {
+                      "text": "Felix."
                     }
                   ]
                 }
@@ -850,6 +1069,34 @@
               "block": [
                 {
                   "text": "The two birds fly over the new road, then they stop in a tree near the village. Felix is tired and sad. “I’m sorry,” says Aca. Then Felix sees a small blue and yellow feather in the air. He looks up. There, above the trees, are four birds. “It’s them, Aca!” he says. “It’s my family!” Then he flies into the sky. The birds see him. “Felix, is it you?” they ask. “Yes,” answers Felix. “I’m home!!!”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "15 Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "15.1 Felix is",
+                      "correctAnswer": ["tired"]
+                    },
+                    {
+                      "text": "and",
+                      "correctAnswer": ["sad"]
+                    }
+                  ]
                 }
               ]
             }
