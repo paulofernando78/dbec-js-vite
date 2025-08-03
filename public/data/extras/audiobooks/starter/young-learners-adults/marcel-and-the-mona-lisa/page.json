@@ -90,7 +90,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "1 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -100,11 +100,44 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "1.1 Marcel",
+                      "correctAnswer": ["has"]
                     },
                     {
-                      "text": "..."
+                      "text": "lots of friends in Paris."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.2 What does Céline do? She",
+                      "correctAnswer": ["paints"]
+                    },
+                    {
+                      "text": "pictures and they’re very beautiful."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.3 One evening in May he",
+                      "correctAnswer": ["arrives"]
+                    },
+                    {
+                      "text": "with some pink flowers. "
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.4 What does Marcel do after he arrives at Céline's? He",
+                      "correctAnswer": ["walks"]
+                    },
+                    {
+                      "text": "inside."
                     }
                   ]
                 }
@@ -134,7 +167,7 @@
             {
               "block": [
                 {
-                  "text": "The two friends eat, drink and talk all evening. Céline shows Marcel her new paintings. They talk about their summer holiday in Los Angeles. They laugh, play jazz. records and tell lots of stories. Then at 11 o’clock Marcel puts on his coat. “It’s late,” he says. “I must go home.” Two minutes later he leaves. “Good night,” says Céline. Then she closes her front door."
+                  "text": "The two friends eat, drink and talk all evening. Céline shows Marcel her new paintings. They talk about their summer holiday in Los Angeles. They laugh, play jazz records and tell lots of stories. Then at 11 o’clock Marcel puts on his coat. “It’s late,” he says. “I must go home.” Two minutes later he leaves. “Good night,” says Céline. Then she closes her front door."
                 }
               ]
             }
@@ -145,7 +178,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "2 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -155,11 +188,52 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "2.1 What do they do all evening? The two friends",
+                      "correctAnswer": ["eat"]
                     },
                     {
-                      "text": "..."
+                      "text": ",",
+                      "correctAnswer": ["drink"]
+                    },
+                    {
+                      "text": "and",
+                      "correctAnswer": ["talk"]
+                    },
+                    {
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2.2 Céline",
+                      "correctAnswer": ["shows"]
+                    },
+                    {
+                      "text": "Marcel her new paintings. "
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2.3 Then at 11 o’clock Marcel",
+                      "correctAnswer": ["puts"]
+                    },
+                    {
+                      "text": "on his coat."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2.4 Then Céline",
+                      "correctAnswer": ["closes"]
+                    },
+                    {
+                      "text": "her front door."
                     }
                   ]
                 }
@@ -200,7 +274,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "3 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -210,11 +284,44 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "3.1 Marcel",
+                      "correctAnswer": ["walks"]
                     },
                     {
-                      "text": "..."
+                      "text": "across the floor."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.2 He",
+                      "correctAnswer": ["stops"]
+                    },
+                    {
+                      "text": "when sees a man."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.3 He",
+                      "correctAnswer": ["runs"]
+                    },
+                    {
+                      "text": "to the wall."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.4 The man is",
+                      "correctAnswer": ["stealing"]
+                    },
+                    {
+                      "text": "the Mona Lisa."
                     }
                   ]
                 }
@@ -255,7 +362,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "4 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -265,11 +372,61 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "4.1 The thief",
+                      "correctAnswer": ["smiles"]
                     },
                     {
-                      "text": "..."
+                      "text": "and picks up",
+                      "correctAnswer": ["picks up"]
+                    },
+                    {
+                      "text": "the bag."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4.2 But a second later he",
+                      "correctAnswer": ["puts"]
+                    },
+                    {
+                      "text": "it",
+                      "correctAnswer": ["down"]
+                    },
+                    {
+                      "text": "again. “Car keys,” he",
+                      "correctAnswer": ["says"]
+                    },
+                    {
+                      "text": ", and",
+                      "correctAnswer": ["begins"]
+                    },
+                    {
+                      "text": "to look in all his pockets."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4.3 Marcel",
+                      "correctAnswer": ["thinks"]
+                    },
+                    {
+                      "text": ". “It’s now or never.” He",
+                      "correctAnswer": ["runs"]
+                    },
+                    {
+                      "text": "along the wall very fast,",
+                      "correctAnswer": ["climbs up"]
+                    },
+                    {
+                      "text": "the tall, black bag, and ",
+                      "correctAnswer": ["jumps"]
+                    },
+                    {
+                      "text": " inside it."
                     }
                   ]
                 }
@@ -310,7 +467,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "5 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -320,11 +477,26 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "5.1 There is no answer, but at that moment the bag",
+                      "correctAnswer": ["starts"]
                     },
                     {
-                      "text": "..."
+                      "text": "to move."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "5.2 Marcel",
+                      "correctAnswer": ["climbs"]
+                    },
+                    {
+                      "text": "the painting and",
+                      "correctAnswer": ["looks out"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 }
@@ -354,7 +526,7 @@
             {
               "block": [
                 {
-                  "text": "Five minutes later the Louvre ’guard’ gets on a train. He sits next to a thin man in sunglasses and a white jacket. “Have you got it, Antoine?” the thin man asks. “Yes,” the guard answers. After that the train starts and there is a lot of noise. “Oh no! Now I can’t hear them,” Marcel thinks. But he can hear one or two words. “Italy”, for example, and “all those cats”."
+                  "text": "Five minutes later the Louvre ’guard’ gets on a train. He sits next to a thin man in sunglasses and a white jacket. “Have you got it, Antoine?” the thin man asks. “Yes,” the guard answers. After that, the train starts and there is a lot of noise. “Oh no! Now I can’t hear them,” Marcel thinks. But he can hear one or two words. “Italy”, for example, and “all those cats”."
                 }
               ]
             }
@@ -365,7 +537,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "6 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -375,11 +547,26 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "6.1 The guard",
+                      "correctAnswer": ["gets"]
                     },
                     {
-                      "text": "..."
+                      "text": "on a train and he",
+                      "correctAnswer": ["sits"]
+                    },
+                    {
+                      "text": "next to a thin man in sunglasses and a white jacket. "
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "6.2 After that, the train",
+                      "correctAnswer": ["starts"]
+                    },
+                    {
+                      "text": "and there is a lot of noise."
                     }
                   ]
                 }
@@ -420,7 +607,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "7 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -430,11 +617,11 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "7.1 Marcel",
+                      "correctAnswer": ["goes"]
                     },
                     {
-                      "text": "..."
+                      "text": "to sleep and has a very bad dream."
                     }
                   ]
                 }
@@ -475,7 +662,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "8 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -485,11 +672,19 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "8.1 Marcel",
+                      "correctAnswer": ["opens"]
                     },
                     {
-                      "text": "..."
+                      "text": "his eyes and",
+                      "correctAnswer": ["sees"]
+                    },
+                    {
+                      "text": "the Mona Lisa. Then he",
+                      "correctAnswer": ["remembers"]
+                    },
+                    {
+                      "text": "where he is."
                     }
                   ]
                 }
@@ -530,7 +725,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "9 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -540,11 +735,26 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "9.1 Antoine laughs",
+                      "correctAnswer": ["laughs"]
                     },
                     {
-                      "text": "..."
+                      "text": "when he",
+                      "correctAnswer": ["shows"]
+                    },
+                    {
+                      "text": "Henri a newspaper story."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "9.2 Inside the bag Marcel hears",
+                      "correctAnswer": ["hears"]
+                    },
+                    {
+                      "text": "every word."
                     }
                   ]
                 }
@@ -585,7 +795,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "10 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -595,11 +805,41 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "10.1 An old woman",
+                      "correctAnswer": ["answers"]
                     },
                     {
-                      "text": "..."
+                      "text": "the front door. “Come in,” she",
+                      "correctAnswer": ["says"]
+                    },
+                    {
+                      "text": "to the two thieves."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "10.2 She takes",
+                      "correctAnswer": ["takes"]
+                    },
+                    {
+                      "text": "them to a big, dark room."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "10.3 He",
+                      "correctAnswer": ["jumps out"]
+                    },
+                    {
+                      "text": "of the bag and",
+                      "correctAnswer": ["hides"]
+                    },
+                    {
+                      "text": "behind a chair."
                     }
                   ]
                 }
@@ -640,7 +880,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "11 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -650,11 +890,26 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "11.1 Marcel",
+                      "correctAnswer": ["remembers"]
                     },
                     {
-                      "text": "..."
+                      "text": "his dream on the train."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "11.2 Marcel thinks and",
+                      "correctAnswer": ["thinks"]
+                    },
+                    {
+                      "text": "and",
+                      "correctAnswer": ["climbs up"]
+                    },
+                    {
+                      "text": "a red curtain."
                     }
                   ]
                 }
@@ -695,7 +950,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "12 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -705,11 +960,41 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "12.1 Marcel",
+                      "correctAnswer": ["has"]
                     },
                     {
-                      "text": "..."
+                      "text": "to do something - and fast! "
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "12.2 He",
+                      "correctAnswer": ["jumps"]
+                    },
+                    {
+                      "text": "onto the bookcase and starts",
+                      "correctAnswer": ["starts"]
+                    },
+                    {
+                      "text": " to",
+                      "correctAnswer": ["push"]
+                    },
+                    {
+                      "text": "the candles over."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "12.3 Below him he",
+                      "correctAnswer": ["hears"]
+                    },
+                    {
+                      "text": "“Yee•owwwww!”"
                     }
                   ]
                 }
@@ -739,7 +1024,7 @@
             {
               "block": [
                 {
-                  "text": "“What’s all that noise?” asks Antoine. “Look! The carpet’s on fire!” says Henri. Spandini stands up. “Angelina! Quick, bring some water.” Marcel looks over the bookcase. He can see the Mona Lisa on Spandini’s desk. “OK,” he thinks. “This is it.” After that he runs down the curtain, across Spandini’s desk, picks up the Mona Lisa, and runs out of the room."
+                  "text": "“What’s all that noise?” asks Antoine. “Look! The carpet’s on fire!” says Henri. Spandini stands up. “Angelina! Quick, bring some water.” Marcel looks over the bookcase. He can see the Mona Lisa on Spandini’s desk. “OK,” he thinks. “This is it.” After that, he runs down the curtain, across Spandini’s desk, picks up the Mona Lisa, and runs out of the room."
                 }
               ]
             }
@@ -750,7 +1035,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "13 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -760,11 +1045,45 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "13.1 Spandini",
+                      "correctAnswer": ["stands up"]
                     },
                     {
-                      "text": "..."
+                      "text": ". “Angelina! Quick,",
+                      "correctAnswer": ["bring"]
+                    },
+                    {
+                      "text": "some water.”"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "13.2 Marcel",
+                      "correctAnswer": ["looks over"]
+                    },
+                    {
+                      "text": "the bookcase."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "13.3 After that, he",
+                      "correctAnswer": ["runs"]
+                    },
+                    {
+                      "text": "down the curtain, across Spandini’s desk,",
+                      "correctAnswer": ["picks up"]
+                    },
+                    {
+                      "text": "the Mona Lisa, and",
+                      "correctAnswer": ["run s out"]
+                    },
+                    {
+                      "text": "of the room."
                     }
                   ]
                 }
@@ -805,7 +1124,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "14 Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -815,11 +1134,52 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "14.1 Marcel",
+                      "correctAnswer": ["runs"]
                     },
                     {
-                      "text": "..."
+                      "text": "for a long time."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "14.2 Then, after twenty minutes, he",
+                      "correctAnswer": ["stops"]
+                    },
+                    {
+                      "text": "in a quiet street."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "14.3 The front door",
+                      "correctAnswer": ["has"]
+                    },
+                    {
+                      "text": "a letter-box. “Of course!” Marcel",
+                      "correctAnswer": ["thinks"]
+                    },
+                    {
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "14.3 He",
+                      "correctAnswer": ["stands up"]
+                    },
+                    {
+                      "text": "tall. Then he",
+                      "correctAnswer": ["pushes"]
+                    },
+                    {
+                      "text": "the Mona Lisa through the letter-box."
                     }
                   ]
                 }
@@ -850,6 +1210,44 @@
               "block": [
                 {
                   "text": "Two days later Marcel is in Paris again. At the station he sees a newspaper. It says, ’ITALIAN POLICE FIND THE MONA LISA’. Then he goes to the Louvre and tells Celine everything. ”Nine cats!“ she says. “Oh Marcel, are you all right?” “Yes, I’m fine,” Marcel answers. He goes to Céline’s window. “And the Mona Lisa’s fine, too. Look, Céline. She’s smiling.”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "15 Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "15.1 Two days later Marcel is in Paris again. At the station he",
+                      "correctAnswer": ["sees"]
+                    },
+                    {
+                      "text": "a newspaper."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "15.2 Marcel goes to the Louvre and tells",
+                      "correctAnswer": ["tells"]
+                    },
+                    {
+                      "text": "Celine everything."
+                    }
+                  ]
                 }
               ]
             }
