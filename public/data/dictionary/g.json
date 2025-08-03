@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "game changer",
+        "partOfSpeech": "idiom",
+        "enDefinition": "something that significantly changes the outcome, situation, or way something is done",
+        "ptDefinition": "algo que muda significativamente o resultado, a situação ou a forma como algo é feito",
+        "examples": [
+          {
+            "enExample": "The new technology was a real game changer for the industry.",
+            "ptExample": "A nova tecnologia foi um verdadeiro divisor de águas para o setor."
+          },
+          {
+            "enExample": "Her ideas turned out to be a game changer for the company’s success.",
+            "ptExample": "As ideias dela acabaram sendo cruciais para o sucesso da empresa."
+          }
+        ],
+        "synonyms": ["breakthrough", "revolution", "milestone"],
+        "antonyms": ["minor detail", "nonfactor", "status quo"],
+        "seeAlso": ["turning point", "paradigm shift"],
+        "notes": [
+          {
+            "enNote": "Commonly used in business, sports, and technology to describe something that changes the rules or dynamics completely.",
+            "ptNote": "Usado com frequência nos contextos de negócios, esportes e tecnologia para descrever algo que muda completamente as regras ou a dinâmica."
+          }
+        ]
+      },
+      {
         "word": "go back to the drawing board",
         "partOfSpeech": "idiom",
         "enDefinition": "to start planning something again because the previous attempt failed",

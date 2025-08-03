@@ -96,7 +96,7 @@
     {
       "exercises": [
         {
-          "title": "Fill in the blank with the correct answer."
+          "title": "1. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -106,27 +106,33 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. Sarah and Jessica are",
-                      "correctAnswer": ["excited"],
-                      "afterBlank": "because they’re going to New Zealand."
+                      "text": "1.1 Sarah and Jessica are",
+                      "correctAnswer": ["excited"]
+                    },
+                    {
+                      "text": "because they’re going to New Zealand."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. Jessica is",
-                      "correctAnswer": ["near"],
-                      "afterBlank": "the window."
+                      "text": "1.2 Jessica is",
+                      "correctAnswer": ["near"]
+                    },
+                    {
+                      "text": "the window."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. They can",
-                      "correctAnswer": ["get"],
-                      "afterBlank": "a taxi from the airport to the bus station."
+                      "text": "1.3 They can",
+                      "correctAnswer": ["get"]
+                    },
+                    {
+                      "text": "a taxi from the airport to the bus station."
                     }
                   ]
                 }
@@ -166,10 +172,10 @@
         }
       ]
     },
-     {
+    {
       "exercises": [
         {
-          "title": "Fill in the blank with the correct answer."
+          "title": "2. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -179,9 +185,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. What do the girls do when they get to the airport? They",
-                      "correctAnswer": ["look for"],
-                      "afterBlank": "a taxi."
+                      "text": "2.1 What do the girls do when they get to the airport? They",
+                      "correctAnswer": ["look for"]
+                    },
+                    {
+                      "text": "a taxi."
                     }
                   ]
                 }
@@ -222,7 +230,7 @@
     {
       "exercises": [
         {
-          "title": "Fill in the blank with the correct answer."
+          "title": "3. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -232,18 +240,22 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. What does Sarah do when she sees the phone on the taxi floor? She",
-                      "correctAnswer": ["takes"],
-                      "afterBlank": "it."
+                      "text": "3.1 What does Sarah do when she sees the phone on the taxi floor? She",
+                      "correctAnswer": ["takes"]
+                    },
+                    {
+                      "text": "it."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. Now they have to",
-                      "correctAnswer": ["find"],
-                      "afterBlank": "his address."
+                      "text": "3.2 Now they have to",
+                      "correctAnswer": ["find"]
+                    },
+                    {
+                      "text": "his address."
                     }
                   ]
                 }
@@ -286,7 +298,7 @@
     {
       "exercises": [
         {
-          "title": "Fill in the blank with the correct answer."
+          "title": "4. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -296,9 +308,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. What do the girls do at the Ninety Beach? They",
-                      "correctAnswer": ["wait"],
-                      "afterBlank": "for Michael."
+                      "text": "4.1 What do the girls do at the Ninety Beach? They",
+                      "correctAnswer": ["wait"]
+                    },
+                    {
+                      "text": "for Michael."
                     }
                   ]
                 }
@@ -341,7 +355,7 @@
     {
       "exercises": [
         {
-          "title": "Fill in the blank with the correct answer."
+          "title": "5. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -351,18 +365,19 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. Suddenly, they hear a beep. Sarah",
+                      "text": "5.1 Suddenly, they hear a beep. Sarah",
                       "correctAnswer": ["looks"]
                     },
                     {
-                      "beforeBlank": "at the mobile. “",
-                      "correctAnswer": ["There’s", "There's"],
-                      "afterBlank": ""
+                      "text": "at the mobile. “",
+                      "correctAnswer": ["There’s", "There's"]
                     },
                     {
-                      "beforeBlank": "a message for Michael,” she",
-                      "correctAnswer": ["says"],
-                      "afterBlank": "."
+                      "text": "a message for Michael,” she",
+                      "correctAnswer": ["says"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 }
@@ -405,7 +420,7 @@
     {
       "exercises": [
         {
-          "title": "Fill in the blank with the correct answer."
+          "title": "6. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -415,13 +430,15 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. What does Sarah give to Jessica? She",
+                      "text": "6.1 What does Sarah give to Jessica? She",
                       "correctAnswer": ["gives"]
                     },
                     {
-                      "beforeBlank": "her bag and she",
-                      "correctAnswer": ["goes up"],
-                      "afterBlank": "the tower."
+                      "text": "her bag and she",
+                      "correctAnswer": ["goes up"]
+                    },
+                    {
+                      "text": "the tower."
                     }
                   ]
                 }
@@ -464,7 +481,7 @@
     {
       "exercises": [
         {
-          "title": "Fill in the blank with the correct answer."
+          "title": "7. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -474,9 +491,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. At the top of the tower Sarah",
-                      "correctAnswer": ["jumps"],
-                      "afterBlank": "."
+                      "text": "7.1 At the top of the tower Sarah",
+                      "correctAnswer": ["jumps"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 }
@@ -519,7 +538,7 @@
     {
       "exercises": [
         {
-          "title": "Fill in the blank with the correct answer."
+          "title": "8. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -529,17 +548,24 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. They're unhappy because they can’t",
+                      "text": "8.1 They're unhappy because they can’t",
                       "correctAnswer": ["find"]
                     },
                     {
-                      "beforeBlank": "Michael, Sarah’s bag and they don’t",
+                      "text": "Michael, Sarah’s bag and they don’t",
                       "correctAnswer": ["have"]
                     },
                     {
-                      "beforeBlank": "money. But, they",
-                      "correctAnswer": ["have", "have got", "’ve got", "'ve got"],
-                      "afterBlank": "tickets for the Glow-worm Caves."
+                      "text": "money. But, they",
+                      "correctAnswer": [
+                        "have",
+                        "have got",
+                        "’ve got",
+                        "'ve got"
+                      ]
+                    },
+                    {
+                      "text": "tickets for the Glow-worm Caves."
                     }
                   ]
                 }
@@ -582,7 +608,7 @@
     {
       "exercises": [
         {
-          "title": "Fill in the blank with the correct answer."
+          "title": "9. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -592,9 +618,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. How do the girls get into the dark cave? They",
-                      "correctAnswer": ["go on"],
-                      "afterBlank": "a boat."
+                      "text": "9.1 How do the girls get into the dark cave? They",
+                      "correctAnswer": ["go on"]
+                    },
+                    {
+                      "text": "a boat."
                     }
                   ]
                 }
@@ -637,7 +665,7 @@
     {
       "exercises": [
         {
-          "title": "Fill in the blank with the correct answer."
+          "title": "10. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -647,9 +675,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. Where’s Michael? He’s in the",
-                      "correctAnswer": ["South"],
-                      "afterBlank": "Island."
+                      "text": "10.1 Where’s Michael? He’s in the",
+                      "correctAnswer": ["South"]
+                    },
+                    {
+                      "text": "Island."
                     }
                   ]
                 }
@@ -692,7 +722,7 @@
     {
       "exercises": [
         {
-          "title": "Fill in the blank with the correct answer."
+          "title": "11. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -702,14 +732,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. After the beep, Sarah",
-                      "correctAnswer": ["reads"],
-                      "afterBlank": "the message"
+                      "text": "11. After the beep, Sarah",
+                      "correctAnswer": ["reads"]
                     },
                     {
-                      "beforeBlank": "and they",
-                      "correctAnswer": ["take"],
-                      "afterBlank": "the phone to the police station."
+                      "text": "the phone to the police station."
                     }
                   ]
                 }
@@ -752,7 +779,7 @@
     {
       "exercises": [
         {
-          "title": "Fill in the blank with the correct answer."
+          "title": "12. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -762,9 +789,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. They can't see the whales because the tickets are",
-                      "correctAnswer": ["expensive"],
-                      "afterBlank": "."
+                      "text": "12.1 They can't see the whales because the tickets are",
+                      "correctAnswer": ["expensive"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 }
@@ -807,7 +836,7 @@
     {
       "exercises": [
         {
-          "title": "Fill in the blank with the correct answer."
+          "title": "13. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -817,9 +846,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. After Michael gets the phone back he",
-                      "correctAnswer": ["calls"],
-                      "afterBlank": "home."
+                      "text": "13.1 After Michael gets the phone back he",
+                      "correctAnswer": ["calls"]
+                    },
+                    {
+                      "text": "home."
                     }
                   ]
                 }
@@ -831,9 +862,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. Michael can",
-                      "correctAnswer": ["give"],
-                      "afterBlank": "the girls a surprise."
+                      "text": "13.2 Michael can",
+                      "correctAnswer": ["give"]
+                    },
+                    {
+                      "text": "the girls a surprise."
                     }
                   ]
                 }
@@ -876,7 +909,7 @@
     {
       "exercises": [
         {
-          "title": "Fill in the blank with the correct answer."
+          "title": "14. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -886,9 +919,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. The trip is an",
-                      "correctAnswer": ["adventure"],
-                      "afterBlank": "."
+                      "text": "14.1 The",
+                      "correctAnswer": ["trip"]
+                    },
+                    {
+                      "text": "is an adventure."
                     }
                   ]
                 }
