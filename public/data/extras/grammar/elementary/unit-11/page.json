@@ -30,10 +30,15 @@
       "text": [
         {
           "card": true,
-          "imgSrc": "/assets/images/general/people-watch-tv.avif",
-          "imgAlt": "Two people watching TV.",
-          "imgWidth": "300px",
-          "imgPosition": "left",
+          "images": [
+            {
+              "position": "left",
+              "width": "250px",
+              "number": "1",
+              "src": "/assets/images/general/people-watch-tv.avif",
+              "alt": "Two people watching TV."
+            }
+          ],
           "blocks": [
             {
               "block": [
@@ -1639,7 +1644,7 @@
             {
               "block": [
                 {
-                  "boldText": "You can use just with the simple past(just = a short time):"
+                  "boldText": "You can use just with the simple past (just = a short time)."
                 }
               ]
             }
@@ -1649,6 +1654,9 @@
           "blocks": [
             {
               "block": [
+                {
+                  "boldText": "• "
+                },
                 {
                   "text": "“Is Tom here?” “No, he "
                 },
@@ -1662,6 +1670,9 @@
             },
             {
               "block": [
+                {
+                  "boldText": "• "
+                },
                 {
                   "text": "I‘m not hungry. I "
                 },
