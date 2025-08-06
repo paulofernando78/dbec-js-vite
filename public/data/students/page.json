@@ -8,26 +8,55 @@
         "description": "Dashboard"
       },
       {
-        "icon": "students",
-        "description": "Student"
+        "icon": "student",
+        "description": "Students"
       }
     ]
   },
   "contents": [
     {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Welcome to yo dashboard."
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "",
+        "icon": "page",
+        "label": "Students",
+        "descriptions": [
+          {
+            "links": [
+              {
+                "icon": "student",
+                "link": "/students/mauricio-theodoro",
+                "label": "Álvaro Theodoro"
+              },
+              {
+                "icon": "student",
+                "link": "/students/felipe-leal",
+                "label": "Felipe Leal"
+              },
+              {
+                "icon": "student",
+                "link": "/students/gabriel-sette",
+                "label": "Gabriel-Sette"
+              },
+              {
+                "icon": "student",
+                "link": "/students/mauricio-theodoro",
+                "label": "Maurício Theodoro"
+              },
+              {
+                "icon": "student",
+                "link": "/students/rafael-bezerra",
+                "label": "Rafael Bezerra"
+              },
+              {
+                "icon": "student",
+                "link": "/students/vitor-silva",
+                "label": "Vitor Silva"
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }

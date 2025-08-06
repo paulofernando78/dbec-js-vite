@@ -1,0 +1,353 @@
+{
+  "whiteboard": {
+    "title": "Dashboard",
+    "descriptions": [
+      {
+        "icon": "student",
+        "description": "Template"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "board",
+        "label": "Board"
+      }
+    },
+    {
+      "board": {
+        "height": "250px"
+      }
+    },
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "date",
+        "label": "Schedule"
+      }
+    },
+    {
+      "dateCard": {
+        "icon": "date",
+        "label": "2025",
+        "date": [
+          {
+            "label": "January",
+            "month": [
+              {
+                "day": [
+                  {
+                    "option": "Holiday",
+                    "text": "Tue 7"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Wed 8"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Thu 9"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Fri 10"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Mon 13"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Tue 14"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Wed 15"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Thu 16"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Fri 17"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Mon 20"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Tue 21"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Wed 22"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Thu 23"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Fri 24"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Mon 27"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Tue 28"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Wed 29"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Thu 30"
+                  }
+                ]
+              },
+              {
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Thu 31"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "February",
+            "month": [
+              {
+                
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "March",
+            "month": [
+              {
+                
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "April",
+            "month": [
+              {
+                
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "May",
+            "month": [
+              {
+                
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "June",
+            "month": [
+              {
+                
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "July",
+            "month": [
+              {
+                
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "August",
+            "month": [
+              {
+                
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "September",
+            "month": [
+              {
+                
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "October",
+            "month": [
+              {
+                
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "November",
+            "month": [
+              {
+                
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "December",
+            "month": [
+              {
+                
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
