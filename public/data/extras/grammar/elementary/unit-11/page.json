@@ -1698,81 +1698,97 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. I",
+                      "text": "1. I",
                       "placeholder": "brushed",
-                      "correctAnswer": ["brushed"],
-                      "afterBlank": "my teeth three times yesterday,"
+                      "correctAnswer": ["brushed"]
+                    },
+                    {
+                      "text": "my teeth three times yesterday,"
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. It was hot in the room, so I",
-                      "correctAnswer": ["opened"],
-                      "afterBlank": "the window."
+                      "text": "2. It was hot in the room, so I",
+                      "correctAnswer": ["opened"]
+                    },
+                    {
+                      "text": "the window."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. The movie was very long. It",
+                      "text": "3. The movie was very long. It",
                       "correctAnswer": ["started"]
                     },
                     {
-                      "beforeBlank": "at 7:15 and",
-                      "correctAnswer": ["ended"],
-                      "afterBlank": "at 10:00."
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "beforeBlank": "4. When I was a child, I",
-                      "correctAnswer": ["wanted"],
-                      "afterBlank": "to be a doctor."
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "beforeBlank": "5. The accident",
-                      "correctAnswer": ["happened"],
-                      "afterBlank": "last Sunday afternoon."
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "beforeBlank": "6. The weather is nice today, but yesterday it",
-                      "correctAnswer": ["rained"],
-                      "afterBlank": "all day."
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "beforeBlank": "7. We",
-                      "correctAnswer": ["enjoyed"],
-                      "afterBlank": "our vacation last year. We"
+                      "text": "at 7:15 and",
+                      "correctAnswer": ["ended"]
                     },
                     {
-                      "correctAnswer": ["stayed"],
-                      "afterBlank": "at a very nice place."
+                      "text": "at 10:00."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "8. Anna's grandfather",
-                      "correctAnswer": ["died"],
-                      "afterBlank": "when he was 90 years old."
+                      "text": "4. When I was a child, I",
+                      "correctAnswer": ["wanted"]
+                    },
+                    {
+                      "text": "to be a doctor."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "5. The accident",
+                      "correctAnswer": ["happened"]
+                    },
+                    {
+                      "text": "last Sunday afternoon."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "6. The weather is nice today, but yesterday it",
+                      "correctAnswer": ["rained"]
+                    },
+                    {
+                      "text": "all day."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "7. We",
+                      "correctAnswer": ["enjoyed"]
+                    },
+                    {
+                      "text": "our vacation last year. We",
+                      "correctAnswer": ["stayed"]
+                    },
+                    {
+                      "text": "at a very nice place."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "8. Anna's grandfather",
+                      "correctAnswer": ["died"]
+                    },
+                    {
+                      "text": "when he was 90 years old."
                     }
                   ]
                 }
@@ -1800,62 +1816,64 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "Last Tuesday, Liz (fly)",
+                      "text": "Last Tuesday, Liz (fly)",
                       "placeholder": "flew",
                       "correctAnswer": ["flew"]
                     },
                     {
-                      "beforeBlank": "from Los Angeles to Madrid. She (get)",
+                      "text": "from Los Angeles to Madrid. She (get)",
                       "correctAnswer": ["got"]
                     },
                     {
-                      "beforeBlank": "up at 6:00 in the morning and (have)",
+                      "text": "up at 6:00 in the morning and (have)",
                       "correctAnswer": ["had"]
                     },
                     {
-                      "beforeBlank": "a cup of coffee. At 7:15 she (leave)",
+                      "text": "a cup of coffee. At 7:15 she (leave)",
                       "correctAnswer": ["left"]
                     },
                     {
-                      "beforeBlank": "home and (drive)",
+                      "text": "home and (drive)",
                       "correctAnswer": ["drove"]
                     },
                     {
-                      "beforeBlank": "to the airport. When she (get)",
+                      "text": "to the airport. When she (get)",
                       "correctAnswer": ["got"]
                     },
                     {
-                      "beforeBlank": "there, she (park)",
+                      "text": "there, she (park)",
                       "correctAnswer": ["parked"]
                     },
                     {
-                      "beforeBlank": "the car, (walk)",
+                      "text": "the car, (walk)",
                       "correctAnswer": ["walked"]
                     },
                     {
-                      "beforeBlank": "to the terminal, and (check)",
+                      "text": "to the terminal, and (check)",
                       "correctAnswer": ["checked"]
                     },
                     {
-                      "beforeBlank": "in. Then she (have)",
+                      "text": "in. Then she (have)",
                       "correctAnswer": ["had"]
                     },
                     {
-                      "beforeBlank": "breakfast at the airport café and (wait)",
+                      "text": "breakfast at the airport café and (wait)",
                       "correctAnswer": ["waited"]
                     },
                     {
-                      "beforeBlank": "for her flight. The plane (depart)",
+                      "text": "for her flight. The plane (depart)",
                       "correctAnswer": ["departed"]
                     },
                     {
-                      "beforeBlank": "on time and (arrive)",
+                      "text": "on time and (arrive)",
                       "correctAnswer": ["arrived"]
                     },
                     {
-                      "beforeBlank": "in Madrid 13 hours later. Finally, she (take)",
-                      "correctAnswer": ["took"],
-                      "afterBlank": "a taxi to the airport to her hotel downtown."
+                      "text": "in Madrid 13 hours later. Finally, she (take)",
+                      "correctAnswer": ["took"]
+                    },
+                    {
+                      "text": "a taxi to the airport to her hotel downtown."
                     }
                   ]
                 }
@@ -1874,73 +1892,89 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. James always goes to work by car. Yesterday he",
+                      "text": "1. James always goes to work by car. Yesterday he",
                       "placeholder": "went",
-                      "correctAnswer": ["went"],
-                      "afterBlank": "to work by car."
+                      "correctAnswer": ["went"]
+                    },
+                    {
+                      "text": "to work by car."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. Rachel often loses her keys. She",
-                      "correctAnswer": ["lost"],
-                      "afterBlank": "her keys last week."
+                      "text": "2. Rachel often loses her keys. She",
+                      "correctAnswer": ["lost"]
+                    },
+                    {
+                      "text": "her keys last week."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. Kate meets her friends every night. She",
-                      "correctAnswer": ["met"],
-                      "afterBlank": "her friends last night."
+                      "text": "3. Kate meets her friends every night. She",
+                      "correctAnswer": ["met"]
+                    },
+                    {
+                      "text": "her friends last night."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "4. I buy a newspaper every day. Yesterday I",
-                      "correctAnswer": ["bought"],
-                      "afterBlank": "a newspaper."
+                      "text": "4. I buy a newspaper every day. Yesterday I",
+                      "correctAnswer": ["bought"]
+                    },
+                    {
+                      "text": "a newspaper."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "5. We often go to the movies on weekends. Last Sunday we",
-                      "correctAnswer": ["went"],
-                      "afterBlank": "to the movies."
+                      "text": "5. We often go to the movies on weekends. Last Sunday we",
+                      "correctAnswer": ["went"]
+                    },
+                    {
+                      "text": "to the movies."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "6. I eat an orange every day. Yesterday I",
-                      "correctAnswer": ["ate"],
-                      "afterBlank": "an orange."
+                      "text": "6. I eat an orange every day. Yesterday I",
+                      "correctAnswer": ["ate"]
+                    },
+                    {
+                      "text": "an orange."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "7. Tom always takes a shower in the morning. This morning he",
-                      "correctAnswer": ["took"],
-                      "afterBlank": "a shower."
+                      "text": "7. Tom always takes a shower in the morning. This morning he",
+                      "correctAnswer": ["took"]
+                    },
+                    {
+                      "text": "a shower."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "8. Our friends often come to see us. They",
-                      "correctAnswer": ["came"],
-                      "afterBlank": "to see us last Friday."
+                      "text": "8. Our friends often come to see us. They",
+                      "correctAnswer": ["came"]
+                    },
+                    {
+                      "text": "to see us last Friday."
                     }
                   ]
                 }
@@ -1986,7 +2020,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. They",
+                      "text": "1. They",
                       "correctAnswer": ["just arrived."]
                     }
                   ]
@@ -1994,7 +2028,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. She",
+                      "text": "2. She",
                       "correctAnswer": [" just woke up."]
                     }
                   ]
@@ -2002,7 +2036,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. They",
+                      "text": "3. They",
                       "correctAnswer": ["just bought a new car."]
                     }
                   ]
@@ -2010,7 +2044,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "4. The race",
+                      "text": "4. The race",
                       "correctAnswer": ["just started.", "just began"]
                     }
                   ]
