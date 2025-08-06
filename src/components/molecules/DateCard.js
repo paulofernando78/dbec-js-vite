@@ -71,12 +71,13 @@ class DateCard extends HTMLElement {
           monthContainer.appendChild(dropdownWrapper);
 
           const options = [
-            { value: "Okey", label: "OK" },
-            { value: "Student canceled", label: "SC" },
-            { value: "Teacher canceled", label: "TC" },
-            { value: "Replace", label: "R" },
-            { value: "Replacement OK", label: "ROK" },
-            { value: "Holiday", label: "H" },
+            { value: "...", label: "..." },
+            { value: "OK", label: "OK" },
+            { value: "SC", label: "SC" },
+            { value: "TC", label: "TC" },
+            { value: "R", label: "R" },
+            { value: "ROK", label: "ROK" },
+            { value: "H", label: "H" },
           ];
 
           if (Array.isArray(dayItem.day)) {
@@ -97,6 +98,11 @@ class DateCard extends HTMLElement {
               p.textContent = item.text;
               dropdownWrapper.appendChild(p);
             });
+          }
+
+          if(dayItem.hr) {
+            const hr = document.createElement("hr")
+            monthContainer.appendChild(hr)
           }
         });
       });

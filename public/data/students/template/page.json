@@ -41,7 +41,7 @@
               {
                 "day": [
                   {
-                    "option": "Holiday",
+                    "option": "...",
                     "text": "Tue 7"
                   }
                 ]
@@ -68,7 +68,8 @@
                     "option": "...",
                     "text": "Fri 10"
                   }
-                ]
+                ],
+                "hr": true
               },
               {
                 "day": [
@@ -200,7 +201,43 @@
                 "day": [
                   {
                     "option": "...",
-                    "text": "..."
+                    "text": "Mon 3"
+                  }
+                ]
+              },
+              {
+                
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Tue 4"
+                  }
+                ]
+              },
+              {
+                
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Wed 5"
+                  }
+                ]
+              },
+              {
+                
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Thu 6"
+                  }
+                ]
+              },
+              {
+                
+                "day": [
+                  {
+                    "option": "...",
+                    "text": "Fri 7"
                   }
                 ]
               }
