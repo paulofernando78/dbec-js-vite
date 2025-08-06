@@ -61,12 +61,24 @@ class Contents extends HTMLElement {
     whiteboard.data = content.whiteboard;
     contentContainer.appendChild(whiteboard);
 
-    // Dictionry
-    const dictionary = document.createElement("wc-dictionary-search")
-    contentContainer.appendChild(dictionary)
+    // Dictionary
+    const dictionary = document.createElement("wc-dictionary-search");
+    contentContainer.appendChild(dictionary);
 
     // Ribbon
     content.contents.forEach((section) => {
+      if (section.dateCard) {
+        const dateCard = document.createElement("wc-date-card");
+        dateCard.data = section.dateCard;
+        contentContainer.appendChild(dateCard);
+      }
+
+      if (section.board) {
+        const board = document.createElement("wc-board");
+        board.data = section.board;
+        contentContainer.appendChild(board)
+      }
+
       if (section.ribbon) {
         const ribbon = document.createElement("wc-ribbon");
         ribbon.data = section.ribbon;
@@ -110,11 +122,11 @@ class Contents extends HTMLElement {
         contentContainer.appendChild(imageWrapper);
       }
 
-       //Iframe
-      if(section.iframe) {
+      //Iframe
+      if (section.iframe) {
         const iframe = document.createElement("wc-iframe");
         iframe.data = section.iframe;
-        contentContainer.appendChild(iframe)
+        contentContainer.appendChild(iframe);
       }
 
       // Audioplayer

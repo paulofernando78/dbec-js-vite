@@ -22,8 +22,6 @@ class Card extends HTMLElement {
         display: flex;
         align-items: center;
         gap: 4px;
-        padding: 4px 4px 4px 3px;
-        height: 30px
       }
       
     `;
@@ -38,7 +36,8 @@ class Card extends HTMLElement {
     container.classList.add("card-container");
 
     const cardLabel = document.createElement("div");
-    cardLabel.style.paddingInline = "3px";
+    cardLabel.style.height = "max-content";
+    cardLabel.style.padding = "1px 6px 2px 1px";
 
     const wcIconItem = document.createElement("wc-icon-item");
     wcIconItem.style.fontWeight = "bold";
@@ -57,7 +56,7 @@ class Card extends HTMLElement {
       // Render description text if present
       if (Array.isArray(descGroup.description)) {
         const p = document.createElement("p");
-        p.style.padding = "2px 2px 0 2px";
+        p.style.padding = "4px 2px 0 2px";
         descGroup.description.forEach((item) => {
           if (item.markedText) {
             const mark = document.createElement("mark");

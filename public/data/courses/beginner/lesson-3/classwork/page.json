@@ -18,19 +18,145 @@
   },
   "contents": [
     {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
+        "label": "Introduction"
+      }
+    },
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
+        "label": "Presentation"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/"
+      }
+    },
+    {
       "text": [
         {
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Under construction..."
+                  "boldText": "Listen to the conversation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Daniel: "
+                },
+                {
+                  "text": "Excuse me. Are you Andreas Clark?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Sheila: "
+                },
+                {
+                  "text": "No, I’m not. She’s over there."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Daniel: "
+                },
+                {
+                  "text": "Oh, I’m sorry."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Lena: "
+                },
+                {
+                  "text": "Matt? This is your book."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Matt: "
+                },
+                {
+                  "text": "Oh, thank you. You’re in my math class, right?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Lena: "
+                },
+                {
+                  "text": "Yes, I am. I’m Lena Garza."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Jack: "
+                },
+                {
+                  "text":	"Hey, Christy, this is Ben. He’s in our history class."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Christy: "
+                },
+                {
+                  "text":	"Hi Ben."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "ben: "
+                },
+                {
+                  "text":	"Hi, Christy. Nie to meet you."
                 }
               ]
             }
           ]
         }
       ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
+        "label": "Practice"
+      }
     }
   ]
 }

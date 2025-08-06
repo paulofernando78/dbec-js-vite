@@ -2,6 +2,74 @@
   {
     "definitions": [
       {
+        "word": "shingles",
+        "phonetics": "/ˈʃɪŋ.ɡəlz/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a viral infection caused by the varicella-zoster virus, characterized by a painful skin rash with blisters",
+        "ptDefinition": "uma infecção viral causada pelo vírus varicela-zóster, caracterizada por uma erupção cutânea dolorosa com bolhas",
+        "examples": [
+          {
+            "enExample": "She experienced intense shingle pain on her back and side.",
+            "ptExample": "Ela sentiu uma dor intensa de herpes zoster nas costas e na lateral do corpo."
+          },
+          {
+            "enExample": "The doctor prescribed medication to relieve the shingles pain.",
+            "ptExample": "O médico receitou medicamentos para aliviar a dor do herpes zoster."
+          }
+        ],
+        "synonyms": ["herpes zoster"],
+        "seeAlso": ["chickenpox", "nerve pain", "rash"],
+        "notes": [
+          {
+            "enNote": "Shingles is more common in older adults and can cause nerve pain that persists even after the rash disappears.",
+            "ptNote": "O herpes zoster é mais comum em adultos mais velhos e pode causar dor nos nervos que persiste mesmo após o desaparecimento da erupção."
+          }
+        ]
+      },
+      {
+        "word": "hang out one's shingle",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to start your own business, especially in a profession such as law or medicine",
+        "ptDefinition": "abrir o próprio negócio, especialmente em profissões como advocacia ou medicina",
+        "examples": [
+          {
+            "enExample": "After passing the bar exam, he hung out his shingle and opened a small law firm.",
+            "ptExample": "Depois de passar no exame da ordem, ele abriu seu próprio escritório de advocacia."
+          },
+          {
+            "enExample": "She decided to hang out her shingle as a freelance graphic designer.",
+            "ptExample": "Ela decidiu abrir seu próprio negócio como designer gráfica freelancer."
+          }
+        ],
+        "synonyms": ["start a business", "go independent", "set up shop"],
+        "seeAlso": ["shingle", "freelance", "self-employed"],
+        "notes": [
+          {
+            "enNote": "This idiom comes from the traditional practice of hanging a small sign (shingle) to announce a professional service.",
+            "ptNote": "Esse idiom vem da prática tradicional de pendurar uma placa (shingle) para anunciar um serviço profissional."
+          }
+        ]
+      },
+      {
+        "word": "shingle",
+        "phonetics": "/ˈʃɪŋ.ɡəl/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a small flat piece of building material used to cover roofs or walls; also used to refer to a small sign showing a professional practice",
+        "ptDefinition": "uma pequena peça plana de material usada para cobrir telhados ou paredes; também usada para se referir a uma placa que indica um escritório profissional",
+        "examples": [
+          {
+            "enExample": "The roof was covered with wooden shingles.",
+            "ptExample": "O telhado estava coberto com telhas de madeira."
+          },
+          {
+            "enExample": "After graduating, she hung out her shingle as a lawyer.",
+            "ptExample": "Após se formar, ela colocou sua placa como advogada."
+          }
+        ],
+        "synonyms": ["tile", "slate", "signboard"],
+        "seeAlso": ["roof", "practice", "office"]
+      },
+      {
         "word": "nothing to sneeze at",
         "phonetics": "/ˈnʌθɪŋ tə ˈsniːz æt/",
         "partOfSpeech": "idiom",
