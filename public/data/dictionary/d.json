@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "deviate",
+        "phonetics": "/ˈdiː.vi.eɪt/",
+        "partOfSpeech": "verb",
+        "enDefinition": "To do something that is different from what is expected or usual.",
+        "ptDefinition": "Fazer algo diferente do que é esperado ou usual.",
+        "examples": [
+          {
+            "enExample": "He never deviates from his strict routine.",
+            "ptExample": "Ele nunca se desvia de sua rotina rígida."
+          },
+          {
+            "enExample": "The plane had to deviate from its original course due to bad weather.",
+            "ptExample": "O avião teve que se desviar da rota original por causa do mau tempo."
+          }
+        ],
+        "synonyms": ["depart", "diverge", "veer", "stray"],
+        "antonyms": ["follow", "conform", "adhere", "stay"],
+        "seeAlso": ["diverge", "detour", "digress"],
+        "notes": [
+          {
+            "enNote": "Often used in formal or technical contexts.",
+            "ptNote": "Frequentemente usado em contextos formais ou técnicos."
+          }
+        ]
+      },
+      {
         "word": "different animal",
         "phonetics": "/ˈdɪf.ɚ.ənt ˈæn.ə.məl/",
         "partOfSpeech": "idiom",

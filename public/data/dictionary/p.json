@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "puke",
+        "phonetics": "/pjuːk/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to vomit",
+        "ptDefinition": "vomitar",
+        "examples": [
+          {
+            "enExample": "He felt so sick he had to puke in the bathroom.",
+            "ptExample": "Ele se sentiu tão mal que teve que vomitar no banheiro."
+          },
+          {
+            "enExample": "The roller coaster made me want to puke.",
+            "ptExample": "A montanha-russa me deu vontade de vomitar."
+          }
+        ],
+        "synonyms": ["vomit", "throw up", "barf", "upchuck"],
+        "antonyms": [],
+        "seeAlso": ["retch", "nausea", "queasy"],
+        "notes": [
+          {
+            "enNote": "‘Puke’ is informal and often used in casual conversation.",
+            "ptNote": "‘Puke’ é informal e geralmente usado em conversas casuais."
+          }
+        ]
+      },
+      {
         "word": "pique someone's curiosity",
         "partOfSpeech": "idiom",
         "enDefinition": "to make someone feel curious or interested in something",
