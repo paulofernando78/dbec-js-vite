@@ -13,7 +13,7 @@ class Board extends HTMLElement {
   set data(board) {
     const textArea = document.createElement("textarea");
     textArea.style.width = "100%";
-    textArea.style.height = board.height || "150px";
+    textArea.style.height = (board?.height) || "68px";
     textArea.style.borderRadius = "var(--border-radius)";
     textArea.style.padding = "var(--padding)";
 

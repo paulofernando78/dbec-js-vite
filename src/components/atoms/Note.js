@@ -9,11 +9,6 @@ class Note extends HTMLElement {
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
-    // Note
-    // const title = document.createElement("p");
-    // title.textContent = "Important notes.";
-    // title.style.marginBottom = "6px"
-
     const textArea = document.createElement("textarea");
     textArea.style.width = "100%";
     textArea.style.height = "29px";

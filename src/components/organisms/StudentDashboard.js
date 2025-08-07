@@ -38,8 +38,11 @@ class StudentDashboard extends HTMLElement {
       label: "Schedule",
     };
 
-    const importantNotes = document.createElement("wc-note");
-    importantNotes.textContent = "Important notes."
+    const importantNotes = document.createElement("p");
+    importantNotes.textContent = "Important notes.";
+
+    const notes = document.createElement("wc-note");
+    notes.textContent = "Important notes.";
 
     const dateCard = document.createElement("wc-date-card");
     dateCard.data = dashboard.dateCard;
@@ -50,6 +53,7 @@ class StudentDashboard extends HTMLElement {
       board,
       ribbonDate,
       importantNotes,
+      notes,
       dateCard
     );
   }
