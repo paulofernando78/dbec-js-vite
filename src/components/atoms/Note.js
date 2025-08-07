@@ -10,15 +10,16 @@ class Note extends HTMLElement {
     this.shadowRoot.appendChild(cssImports);
 
     // Note
-    const title = document.createElement("p");
-    title.textContent = "Important notes.";
-    title.style.marginBottom = "6px"
+    // const title = document.createElement("p");
+    // title.textContent = "Important notes.";
+    // title.style.marginBottom = "6px"
 
     const textArea = document.createElement("textarea");
     textArea.style.width = "100%";
-    textArea.style.height = "50px";
+    textArea.style.height = "29px";
     textArea.style.borderRadius = "var(--border-radius)";
     textArea.style.padding = "var(--padding)";
+    textArea.placeholder = "Class notes...";
 
     // Fetching...
     const savedText = localStorage.getItem("note-text");
@@ -30,7 +31,7 @@ class Note extends HTMLElement {
     textArea.addEventListener("input", () => {
       localStorage.setItem("note-text", textArea.value);
     });
-    this.shadowRoot.append(title, textArea);
+    this.shadowRoot.append(textArea);
   }
 }
 

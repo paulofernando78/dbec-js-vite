@@ -8,34 +8,21 @@ class DateCard extends HTMLElement {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
-
-    const css = document.createElement("style"); /*css */
-    css.textContent = `
-      .card-container {
-        border: var(--border);
-        border-radius: var(--border-radius);
-        box-shadow: var(--box-shadow);
-        overflow: hidden;
-      }
-
-      .card-label {
-        display: flex;
-        align-items: center;
-        gap: 4px;
-      }
-      
-    `;
-    this.shadowRoot.appendChild(css);
   }
 
   set data(dateCard) {
     const container = document.createElement("div");
-    container.classList.add("card-container");
+    container.style.border = "var(--border)";
+    container.style.borderRadius = "var(--border-radius)";
+    container.style.boxShadow = "var(--box-shadow)";
     container.style.marginBottom = "16px";
     container.style.overflow = "auto";
 
     const cardLabel = document.createElement("div");
-    cardLabel.style.height = "max-content";
+    cardLabel.style.display = "flex";
+    cardLabel.style.alignItems = "center";
+    cardLabel.style.gap = "4px";
+    cardLabel.style.width = "100%";
     cardLabel.style.padding = "2px 5px";
     cardLabel.style.backgroundColor = "var(--gray-3)";
     cardLabel.textContent = dateCard.label;
@@ -44,27 +31,26 @@ class DateCard extends HTMLElement {
 
     if (Array.isArray(dateCard.date)) {
       const dateContainer = document.createElement("div");
-      dateContainer.style.display = "flex";
-      dateContainer.style.width = "max-content";
+      // dateContainer.style.display = "flex";
       dateContainer.style.gap = "20px";
-      dateContainer.style.padding = "2px 4px 1px 4px";
+      dateContainer.style.padding = "var(--padding)";
       container.appendChild(dateContainer);
 
       dateCard.date.forEach((monthItem) => {
         const monthContainer = document.createElement("div");
-        monthContainer.style.width = "max-content";
 
         const monthEl = document.createElement("span");
         monthEl.style.display = "block";
         monthEl.textContent = monthItem.label;
         monthEl.style.fontWeight = "bold";
-        monthEl.style.marginBottom = "10px";
+        monthEl.style.marginBlock = "10px";
         monthContainer.appendChild(monthEl);
         dateContainer.appendChild(monthContainer);
 
         monthItem.month.forEach((dayItem) => {
           const dropdownWrapper = document.createElement("div");
-          dropdownWrapper.style.display = "flex";
+          dropdownWrapper.style.display = "grid";
+          dropdownWrapper.style.gridTemplateColumns = "50px 65px auto";
           dropdownWrapper.style.alignItems = "center";
           dropdownWrapper.style.gap = "8px";
           dropdownWrapper.style.marginBottom = "3px";
@@ -97,12 +83,15 @@ class DateCard extends HTMLElement {
               const p = document.createElement("p");
               p.textContent = item.text;
               dropdownWrapper.appendChild(p);
+
+              const notes = document.createElement("wc-note");
+              dropdownWrapper.appendChild(notes);
             });
           }
 
-          if(dayItem.hr) {
-            const hr = document.createElement("hr")
-            monthContainer.appendChild(hr)
+          if (dayItem.hr) {
+            const hr = document.createElement("hr");
+            monthContainer.appendChild(hr);
           }
         });
       });

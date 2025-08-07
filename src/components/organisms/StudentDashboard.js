@@ -11,8 +11,7 @@ class StudentDashboard extends HTMLElement {
   }
 
   set data(dashboard) {
-
-    this.classList.add("line-break")
+    this.classList.add("line-break");
 
     // const button = document.createElement("wc-button");
     // button.setAttribute("data-icon", "save");
@@ -27,6 +26,9 @@ class StudentDashboard extends HTMLElement {
       label: "Board",
     };
 
+    const boardTitle = document.createElement("p");
+    boardTitle.textContent = "Grab your English notebook.";
+
     const board = document.createElement("wc-board");
     board.data = dashboard.board;
 
@@ -37,12 +39,19 @@ class StudentDashboard extends HTMLElement {
     };
 
     const importantNotes = document.createElement("wc-note");
-    importantNotes.data = dashboard.note;
+    importantNotes.textContent = "Important notes."
 
     const dateCard = document.createElement("wc-date-card");
     dateCard.data = dashboard.dateCard;
 
-    this.shadowRoot.append(ribbonBoard, board, ribbonDate, importantNotes,  dateCard);
+    this.shadowRoot.append(
+      ribbonBoard,
+      boardTitle,
+      board,
+      ribbonDate,
+      importantNotes,
+      dateCard
+    );
   }
 }
 

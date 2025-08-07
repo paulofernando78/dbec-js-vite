@@ -11,6 +11,7 @@
   "contents": [
     {
       "studentDashboard": {
+        "id": "alvaro-theodoro",
         "board": { "height": "200px" },
         "dateCard": {
           "icon": "date",
@@ -2180,7 +2181,6 @@
             }
           ]
         }
-        
       }
     }
   ]
