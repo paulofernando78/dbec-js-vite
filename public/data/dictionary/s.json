@@ -2,6 +2,28 @@
   {
     "definitions": [
       {
+        "word": "suffragette",
+        "phonetics": "/ˌsʌ.frəˈdʒet/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A woman who campaigned for the right of women to vote, especially in the early 20th century.",
+        "ptDefinition": "Mulher que militou pelo direito de voto das mulheres, especialmente no início do século XX.",
+        "examples": [
+          {
+            "enExample": "The suffragettes played a key role in the women's rights movement.",
+            "ptExample": "As sufragistas desempenharam um papel fundamental no movimento pelos direitos das mulheres."
+          }
+        ],
+        "synonyms": "activist, feminist",
+        "antonyms": "",
+        "seeAlso": "women's suffrage, suffrage movement",
+        "notes": [
+          {
+            "enNote": "The term was originally used in a derogatory sense but was later adopted with pride by the movement.",
+            "ptNote": "O termo foi originalmente usado de forma pejorativa, mas depois foi adotado com orgulho pelo movimento."
+          }
+        ]
+      },
+      {
         "word": "shingles",
         "phonetics": "/ˈʃɪŋ.ɡəlz/",
         "partOfSpeech": "noun",

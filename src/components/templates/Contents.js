@@ -65,20 +65,15 @@ class Contents extends HTMLElement {
     const dictionary = document.createElement("wc-dictionary-search");
     contentContainer.appendChild(dictionary);
 
-    // Ribbon
+    // Student Dashboard
     content.contents.forEach((section) => {
-      if (section.dateCard) {
-        const dateCard = document.createElement("wc-date-card");
-        dateCard.data = section.dateCard;
-        contentContainer.appendChild(dateCard);
+      if (section.studentDashboard) {
+        const studentDashboard = document.createElement("wc-student-dashboard")
+        studentDashboard.data = section.studentDashboard
+        contentContainer.appendChild(studentDashboard)
       }
-
-      if (section.board) {
-        const board = document.createElement("wc-board");
-        board.data = section.board;
-        contentContainer.appendChild(board)
-      }
-
+      
+      // Ribbon
       if (section.ribbon) {
         const ribbon = document.createElement("wc-ribbon");
         ribbon.data = section.ribbon;

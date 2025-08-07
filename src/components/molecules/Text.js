@@ -56,6 +56,7 @@ class Text extends HTMLElement {
 
         wc-image {
           width: 75%;
+          height: auto;
           margin: 0 auto
         }
 
@@ -204,8 +205,8 @@ class Text extends HTMLElement {
               icon: link.icon,
               link: link.link,
               target: link.target,
-              label: link.label
-            }
+              label: link.label,
+            };
             blockElement.appendChild(wcIconItem);
           });
         }

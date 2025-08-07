@@ -1,6 +1,6 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-class Board extends HTMLElement {
+class Note extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -8,35 +8,30 @@ class Board extends HTMLElement {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
-  }
 
-  set data(board) {
-    // Board
+    // Note
     const title = document.createElement("p");
-    title.textContent = "Grab your English notebook.";
+    title.textContent = "Important notes.";
     title.style.marginBottom = "8px"
 
     const textArea = document.createElement("textarea");
     textArea.style.width = "100%";
-    textArea.style.height = board.height || "250px";
+    textArea.style.height = "50px";
     textArea.style.borderRadius = "var(--border-radius)";
     textArea.style.padding = "var(--padding)";
 
     // Fetching...
-    const savedText = localStorage.getItem("board-text");
+    const savedText = localStorage.getItem("note-text");
     if (savedText) {
       textArea.value = savedText;
     }
 
     // Salving as type
     textArea.addEventListener("input", () => {
-      localStorage.setItem("board-text", textArea.value);
+      localStorage.setItem("note-text", textArea.value);
     });
-    
- 
-
     this.shadowRoot.append(title, textArea);
   }
 }
 
-export default Board;
+export default Note;

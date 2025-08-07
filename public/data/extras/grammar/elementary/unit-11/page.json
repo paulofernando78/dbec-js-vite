@@ -33,7 +33,6 @@
           "images": [
             {
               "position": "left",
-              "width": "250px",
               "src": "/assets/images/general/people-watch-tv.avif",
               "alt": "Two people watching TV."
             }
@@ -1112,6 +1111,16 @@
                 },
                 {
                   "text": "stood"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "swim ➜ "
+                },
+                {
+                  "text": "swam"
                 }
               ]
             },

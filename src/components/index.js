@@ -2,6 +2,7 @@
 // Atoms
 import AudioPlayer from "./atoms/AudioPlayer";
 import Board from "./atoms/Board";
+import Note from "./atoms/Note";
 import Button from "./atoms/Button";
 import Iframe from "./atoms/Iframe";
 import Image from "./atoms/Image";
@@ -25,6 +26,7 @@ import NavBar from "./organisms/NavBar"
 import FourOhFour from "./organisms/404";
 import UnderConstruction from "./organisms/UnderConstruction";
 import DictionarySearch from "./organisms/DictionarySearch";
+import StudentDashboard from "./organisms/StudentDashboard";
 
 //Templates
 import Contents from "./templates/Contents";
@@ -39,6 +41,7 @@ import DataPage from "../pages/data-page";
 // Atoms
 customElements.define("wc-audio-player", AudioPlayer)
 customElements.define("wc-board", Board)
+customElements.define("wc-note", Note)
 customElements.define("wc-button", Button);
 customElements.define("wc-iframe", Iframe)
 customElements.define("wc-image", Image);
@@ -61,6 +64,7 @@ customElements.define("wc-navbar", NavBar)
 customElements.define("wc-four-oh-four", FourOhFour)
 customElements.define("wc-under-construction", UnderConstruction)
 customElements.define("wc-dictionary-search", DictionarySearch)
+customElements.define("wc-student-dashboard", StudentDashboard)
 
 
 // Templates
