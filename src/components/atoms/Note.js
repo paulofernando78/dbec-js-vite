@@ -12,7 +12,7 @@ class Note extends HTMLElement {
     // Note
     const title = document.createElement("p");
     title.textContent = "Important notes.";
-    title.style.marginBottom = "8px"
+    title.style.marginBottom = "6px"
 
     const textArea = document.createElement("textarea");
     textArea.style.width = "100%";

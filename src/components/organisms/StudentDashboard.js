@@ -14,12 +14,12 @@ class StudentDashboard extends HTMLElement {
 
     this.classList.add("line-break")
 
-    const button = document.createElement("wc-button");
-    button.style.marginLeft = "3px";
-    button.setAttribute("data-icon", "save");
-    button.addEventListener("click", () => {
-      localStorage.setItem("board-text", textArea.value);
-    });
+    // const button = document.createElement("wc-button");
+    // button.setAttribute("data-icon", "save");
+    // button.style.marginLeft = "3px";
+    // button.addEventListener("click", () => {
+    //   localStorage.setItem("board-text", textArea.value);
+    // });
 
     const ribbonBoard = document.createElement("wc-ribbon");
     ribbonBoard.data = {

@@ -4,7 +4,7 @@
     "descriptions": [
       {
         "icon": "student",
-        "description": "Felipe Leal"
+        "description": "Template"
       }
     ]
   },
@@ -22,7 +22,7 @@
                 {
                   "day": [
                     {
-                      "option": "...",
+                      "option": "H",
                       "text": "Tue 7"
                     }
                   ]
@@ -2180,6 +2180,7 @@
             }
           ]
         }
+        
       }
     }
   ]
