@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "carry out",
+        "phonetics": "/ˈkæri aʊt/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "To perform or complete a task, duty, or instruction.",
+        "ptDefinition": "Realizar ou executar uma tarefa, dever ou instrução.",
+        "examples": [
+          {
+            "enExample": "The scientists carried out several experiments.",
+            "ptExample": "Os cientistas realizaram vários experimentos."
+          },
+          {
+            "enExample": "She carried out the manager’s orders without hesitation.",
+            "ptExample": "Ela executou as ordens do gerente sem hesitação."
+          }
+        ],
+        "synonyms": ["perform, execute, implement, accomplish"],
+        "antonyms": ["abandon, neglect, ignore"],
+        "seeAlso": ["follow through, act on, go through with"],
+        "notes": [
+          {
+            "enNote": "Commonly used in formal and professional contexts.",
+            "ptNote": "Frequentemente usado em contextos formais e profissionais."
+          }
+        ]
+      },
+      {
         "word": "compare apples to oranges",
         "partOfSpeech": "idiom",
         "enDefinition": "to compare two things that are fundamentally different and should not be compared directly",
@@ -1018,25 +1044,6 @@
         ],
         "synonyms": ["bear", "take"],
         "antonyms": ["drop"]
-      },
-      {
-        "word": "carry out",
-        "phonetics": "/ˈkær·i/ ",
-        "partOfSpeech": "phrasal verb",
-        "enDefinition": "to perform or complete a job or activity; to fulfill",
-        "ptDefinition": "cumprir algo, levar algo adiante, pôr algo em prática",
-        "examples": [
-          {
-            "enExample": "The hospital is carrying out tests to find out what's wrong with the patient.",
-            "ptExample": "O hospital está realizando exames para descobrir o que há de errado com o paciente."
-          },
-          {
-            "enExample": "Don't blame me, I'm only carrying out my orders/instructions.",
-            "ptExample": "Não me culpe, estou apenas fazendo o que me foi pedido."
-          }
-        ],
-        "synonyms": ["perform", "execute", "accomplish"],
-        "antonyms": ["fail", "abandon", "halt", "ignore, miss"]
       },
       {
         "word": "cash in on",

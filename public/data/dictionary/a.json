@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "accomplish",
+        "phonetics": "/əˈkʌmplɪʃ/",
+        "partOfSpeech": "verb",
+        "enDefinition": "To succeed in doing or achieving something after trying.",
+        "ptDefinition": "Conseguir fazer ou realizar algo após se esforçar.",
+        "examples": [
+          {
+            "enExample": "He accomplished all of his goals for the year.",
+            "ptExample": "Ele realizou todas as suas metas do ano."
+          },
+          {
+            "enExample": "It’s amazing what people can accomplish when they work together.",
+            "ptExample": "É incrível o que as pessoas podem realizar quando trabalham juntas."
+          }
+        ],
+        "synonyms": "achieve, carry out, execute, complete",
+        "antonyms": "fail, give up, abandon",
+        "seeAlso": "achieve, succeed, fulfill",
+        "notes": [
+          {
+            "enNote": "Often used in goal-setting, project management, and motivational contexts.",
+            "ptNote": "Frequentemente usado em contextos de definição de metas, gestão de projetos e motivação."
+          }
+        ]
+      },
+      {
         "word": "not be able to make heads or tails of",
         "partOfSpeech": "idiom",
         "enDefinition": "to be unable to understand something at all",
