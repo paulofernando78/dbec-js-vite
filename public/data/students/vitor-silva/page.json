@@ -96,7 +96,7 @@
             },
             {
               "label": "February",
-              "monthNotes": "February",
+              "monthNotes": "",
               "month": [
                 {
                   "day": [
@@ -175,14 +175,14 @@
             },
             {
               "label": "March",
-              "monthNotes": "",
+              "monthNotes": "Replacements: Fri 14, 21, (28 I had to cancelled: moved to April Fri 11)",
               "month": [
                 {
                   "day": [
                     {
                       "status": "ROK",
                       "date": "Tue 4",
-                      "classNotes": "Carnival - Class moved to Mar Fri 14"
+                      "classNotes": "Carnival / Ceará- Class moved to Mar Fri 14"
                     }
                   ]
                 },
@@ -191,7 +191,7 @@
                     {
                       "status": "ROK",
                       "date": "Thu 6",
-                      "classNotes": "Class moved to Mar Fri 21"
+                      "classNotes": "Ceará / Class moved to Mar Fri 21"
                     }
                   ]
                 },
@@ -254,12 +254,12 @@
             },
             {
               "label": "April",
-              "monthNotes": "",
+              "monthNotes": "Credit was done on Fri 14 - We had class on Wed 18, Wed 23",
               "month": [
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Tue 1",
                       "classNotes": ""
                     }
@@ -268,7 +268,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Thu 3",
                       "classNotes": ""
                     }
@@ -286,7 +286,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Thu 10",
                       "classNotes": ""
                     }
@@ -295,7 +295,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Tue 15",
                       "classNotes": ""
                     }
@@ -304,7 +304,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Thu 17",
                       "classNotes": ""
                     }
@@ -313,7 +313,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Tue 22",
                       "classNotes": ""
                     }
@@ -322,7 +322,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Thu 24",
                       "classNotes": ""
                     }
@@ -335,15 +335,6 @@
                       "date": "Tue 29",
                       "classNotes": "Class moved to May Fri 2"
                     }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
-                      "date": "Wed 30",
-                      "classNotes": ""
-                    }
                   ],
                   "hr": true
                 }
@@ -351,7 +342,7 @@
             },
             {
               "label": "May",
-              "monthNotes": "",
+              "monthNotes": "We had class on Fri 2",
               "month": [
                 {
                   "day": [
@@ -367,7 +358,7 @@
                     {
                       "status": "ROK",
                       "date": "Tue 6",
-                      "classNotes": "USA - Class moved to Mon 19"
+                      "classNotes": "USA - Class moved to Mon 19 at 4pm"
                     }
                   ]
                 },
@@ -500,7 +491,7 @@
                     {
                       "status": "R",
                       "date": "Tue 24",
-                      "classNotes": ""
+                      "classNotes": "You had an appoitment with the dentist."
                     }
                   ]
                 },
@@ -586,7 +577,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "R",
                       "date": "Thu 24",
                       "classNotes": ""
                     }
