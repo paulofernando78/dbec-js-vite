@@ -4,7 +4,11 @@
     "descriptions": [
       {
         "icon": "student",
-        "description": "Template"
+        "description": "Student’s name"
+      },
+      {
+        "icon": "student",
+        "description": "Tue / Thu"
       }
     ]
   },
