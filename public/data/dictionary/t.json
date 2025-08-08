@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "trustworthy",
+        "phonetics": "/ˈtrʌstˌwɜː.ði/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "Able to be relied on as honest or truthful.",
+        "ptDefinition": "Digno de confiança; alguém em quem se pode confiar.",
+        "examples": [
+          {
+            "enExample": "She is a trustworthy friend who never shares secrets.",
+            "ptExample": "Ela é uma amiga confiável que nunca revela segredos."
+          },
+          {
+            "enExample": "He proved to be trustworthy with managing company funds.",
+            "ptExample": "Ele se mostrou digno de confiança ao gerenciar os fundos da empresa."
+          }
+        ],
+        "synonyms": "reliable, dependable, honest, faithful",
+        "antonyms": "untrustworthy, unreliable, dishonest",
+        "seeAlso": "reliable, loyal, honest",
+        "notes": [
+          {
+            "enNote": "Often used to describe people or systems that can be relied upon.",
+            "ptNote": "Frequentemente usado para descrever pessoas ou sistemas em que se pode confiar."
+          }
+        ]
+      },
+      {
         "word": "take the ball and run with it",
         "partOfSpeech": "idiom",
         "enDefinition": "to accept responsibility for something and proceed with it confidently and independently",
