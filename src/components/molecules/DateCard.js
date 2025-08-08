@@ -79,6 +79,8 @@ class DateCard extends HTMLElement {
           if (Array.isArray(dayItem.day)) {
             dayItem.day.forEach((item) => {
               const select = document.createElement("select");
+              // select.style.fontWeight = "bold"
+              select.style.borderRadius = "var(--border-radius)"
 
               options.forEach((opt) => {
                 const option = document.createElement("option");
@@ -93,6 +95,25 @@ class DateCard extends HTMLElement {
               const p = document.createElement("p");
               p.textContent = item.date;
               dropdownWrapper.appendChild(p);
+
+              const statusColors = {
+            OK: "var(--green-5)",
+            SC: "var(--red-4)",
+            TC: "var(--red-4)",
+            R: "var(--yellow-4)",
+            ROK: "var(--orange-4)",
+            H: "var(--violet-4)",
+            "...": "var(--gray-3)",
+          };
+
+          const applySelectColors = () => {
+            const color = statusColors[select.value];
+            select.style.backgroundColor = color;
+          };
+
+          applySelectColors(); // Apply on first load
+
+          select.addEventListener("change", applySelectColors); // Re-apply when changed
 
               const classNote = document.createElement("wc-note");
               classNote.data = {
