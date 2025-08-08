@@ -21,32 +21,36 @@
                 {
                   "day": [
                     {
-                      "option": "H",
-                      "text": "Tue 7"
+                      "status": "...",
+                      "date": "Tue 7",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 8"
+                      "status": "...",
+                      "date": "Wed 8",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 9"
+                      "status": "...",
+                      "date": "Thu 9",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 10"
+                      "status": "...",
+                      "date": "Fri 10",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -54,40 +58,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 13"
+                      "status": "...",
+                      "date": "Mon 13",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 14"
+                      "status": "...",
+                      "date": "Tue 14",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 15"
+                      "status": "...",
+                      "date": "Wed 15",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 16"
+                      "status": "...",
+                      "date": "Thu 16",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 17"
+                      "status": "...",
+                      "date": "Fri 17",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -95,40 +104,44 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 20"
+                      "status": "...",
+                      "date": "Mon 20",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 21"
+                      "status": "...",
+                      "date": "Tue 21",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 22"
+                      "status": "...",
+                      "date": "Wed 22"
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 23"
+                      "status": "...",
+                      "date": "Thu 23",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 24"
+                      "status": "...",
+                      "date": "Fri 24",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -136,40 +149,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 27"
+                      "status": "...",
+                      "date": "Mon 27",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 28"
+                      "status": "...",
+                      "date": "Tue 28",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 29"
+                      "status": "...",
+                      "date": "Wed 29",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 30"
+                      "status": "...",
+                      "date": "Thu 30",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 31"
+                      "status": "...",
+                      "date": "Fri 31",
+                      "classNotes": ""
                     }
                   ]
                 }
@@ -181,40 +199,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 3"
+                      "status": "...",
+                      "date": "Mon 3",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 4"
+                      "status": "...",
+                      "date": "Tue 4",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 5"
+                      "status": "...",
+                      "date": "Wed 5",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 6"
+                      "status": "...",
+                      "date": "Thu 6",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 7"
+                      "status": "...",
+                      "date": "Fri 7",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -222,40 +245,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 10"
+                      "status": "...",
+                      "date": "Mon 10",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 11"
+                      "status": "...",
+                      "date": "Tue 11",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 12"
+                      "status": "...",
+                      "date": "Wed 12",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 13"
+                      "status": "...",
+                      "date": "Thu 13",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 14"
+                      "status": "...",
+                      "date": "Fri 14",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -263,40 +291,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 17"
+                      "status": "...",
+                      "date": "Mon 17",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 18"
+                      "status": "...",
+                      "date": "Tue 18",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 19"
+                      "status": "...",
+                      "date": "Wed 19",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 20"
+                      "status": "...",
+                      "date": "Thu 20",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 21"
+                      "status": "...",
+                      "date": "Fri 21",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -304,40 +337,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 24"
+                      "status": "...",
+                      "date": "Mon 24",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 25"
+                      "status": "...",
+                      "date": "Tue 25",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 26"
+                      "status": "...",
+                      "date": "Wed 26",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 27"
+                      "status": "...",
+                      "date": "Thu 27",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 28"
+                      "status": "...",
+                      "date": "Fri 28",
+                      "classNotes": ""
                     }
                   ]
                 }
@@ -349,40 +387,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 3"
+                      "status": "...",
+                      "date": "Mon 3",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 4"
+                      "status": "...",
+                      "date": "Tue 4",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 5"
+                      "status": "...",
+                      "date": "Wed 5",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 6"
+                      "status": "...",
+                      "date": "Thu 6",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 7"
+                      "status": "...",
+                      "date": "Fri 7",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -390,40 +433,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 10"
+                      "status": "...",
+                      "date": "Mon 10",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 11"
+                      "status": "...",
+                      "date": "Tue 11",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 12"
+                      "status": "...",
+                      "date": "Wed 12",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 13"
+                      "status": "...",
+                      "date": "Thu 13",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 14"
+                      "status": "...",
+                      "date": "Fri 14",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -431,40 +479,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 17"
+                      "status": "...",
+                      "date": "Mon 17",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 18"
+                      "status": "...",
+                      "date": "Tue 18",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 19"
+                      "status": "...",
+                      "date": "Wed 19",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 20"
+                      "status": "...",
+                      "date": "Thu 20",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 21"
+                      "status": "...",
+                      "date": "Fri 21",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -472,40 +525,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 24"
+                      "status": "...",
+                      "date": "Mon 24",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 25"
+                      "status": "...",
+                      "date": "Tue 25",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 26"
+                      "status": "...",
+                      "date": "Wed 26",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 27"
+                      "status": "...",
+                      "date": "Thu 27",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 28"
+                      "status": "...",
+                      "date": "Fri 28",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -513,8 +571,9 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 31"
+                      "status": "...",
+                      "date": "Mon 31",
+                      "classNotes": ""
                     }
                   ]
                 }
@@ -526,32 +585,36 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 1"
+                      "status": "...",
+                      "date": "Tue 1",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 2"
+                      "status": "...",
+                      "date": "Wed 2",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 3"
+                      "status": "...",
+                      "date": "Thu 3",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 4"
+                      "status": "...",
+                      "date": "Fri 4",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -559,40 +622,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 7"
+                      "status": "...",
+                      "date": "Mon 7",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 8"
+                      "status": "...",
+                      "date": "Tue 8",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 9"
+                      "status": "...",
+                      "date": "Wed 9",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 10"
+                      "status": "...",
+                      "date": "Thu 10",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 11"
+                      "status": "...",
+                      "date": "Fri 11",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -600,40 +668,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 14"
+                      "status": "...",
+                      "date": "Mon 14",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 15"
+                      "status": "...",
+                      "date": "Tue 15",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 16"
+                      "status": "...",
+                      "date": "Wed 16",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 17"
+                      "status": "...",
+                      "date": "Thu 17",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 18"
+                      "status": "...",
+                      "date": "Fri 18",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -641,40 +714,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 21"
+                      "status": "...",
+                      "date": "Mon 21",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 22"
+                      "status": "...",
+                      "date": "Tue 22",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 23"
+                      "status": "...",
+                      "date": "Wed 23",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 24"
+                      "status": "...",
+                      "date": "Thu 24",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 25"
+                      "status": "...",
+                      "date": "Fri 25",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -682,24 +760,27 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 28"
+                      "status": "...",
+                      "date": "Mon 28",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 29"
+                      "status": "...",
+                      "date": "Tue 29",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 30"
+                      "status": "...",
+                      "date": "Wed 30",
+                      "classNotes": ""
                     }
                   ]
                 }
@@ -711,16 +792,18 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 1"
+                      "status": "...",
+                      "date": "Thu 1",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 2"
+                      "status": "...",
+                      "date": "Fri 2",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -728,40 +811,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 5"
+                      "status": "...",
+                      "date": "Mon 5",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 6"
+                      "status": "...",
+                      "date": "Tue 6",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 7"
+                      "status": "...",
+                      "date": "Wed 7",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 8"
+                      "status": "...",
+                      "date": "Thu 8",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 9"
+                      "status": "...",
+                      "date": "Fri 9",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -769,40 +857,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 12"
+                      "status": "...",
+                      "date": "Mon 12",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 13"
+                      "status": "...",
+                      "date": "Tue 13",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 14"
+                      "status": "...",
+                      "date": "Wed 14",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 15"
+                      "status": "...",
+                      "date": "Thu 15",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 16"
+                      "status": "...",
+                      "date": "Fri 16",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -810,40 +903,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 19"
+                      "status": "...",
+                      "date": "Mon 19",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 20"
+                      "status": "...",
+                      "date": "Tue 20",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 21"
+                      "status": "...",
+                      "date": "Wed 21",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 22"
+                      "status": "...",
+                      "date": "Thu 22",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 23"
+                      "status": "...",
+                      "date": "Fri 23",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -851,40 +949,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 26"
+                      "status": "...",
+                      "date": "Mon 26",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 27"
+                      "status": "...",
+                      "date": "Tue 27",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 28"
+                      "status": "...",
+                      "date": "Wed 28",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 29"
+                      "status": "...",
+                      "date": "Thu 29",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 30"
+                      "status": "...",
+                      "date": "Fri 30",
+                      "classNotes": ""
                     }
                   ]
                 }
@@ -896,40 +999,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 2"
+                      "status": "...",
+                      "date": "Mon 2",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 3"
+                      "status": "...",
+                      "date": "Tue 3",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 4"
+                      "status": "...",
+                      "date": "Wed 4",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 5"
+                      "status": "...",
+                      "date": "Thu 5",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 6"
+                      "status": "...",
+                      "date": "Fri 6",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -937,40 +1045,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 9"
+                      "status": "...",
+                      "date": "Mon 9",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 10"
+                      "status": "...",
+                      "date": "Tue 10",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 11"
+                      "status": "...",
+                      "date": "Wed 11",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 12"
+                      "status": "...",
+                      "date": "Thu 12",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 13"
+                      "status": "...",
+                      "date": "Fri 13",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -978,40 +1091,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 16"
+                      "status": "...",
+                      "date": "Mon 16",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 17"
+                      "status": "...",
+                      "date": "Tue 17",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 18"
+                      "status": "...",
+                      "date": "Wed 18",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 19"
+                      "status": "...",
+                      "date": "Thu 19",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 20"
+                      "status": "...",
+                      "date": "Fri 20",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1019,40 +1137,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 23"
+                      "status": "...",
+                      "date": "Mon 23",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 24"
+                      "status": "...",
+                      "date": "Tue 24",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 25"
+                      "status": "...",
+                      "date": "Wed 25",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 26"
+                      "status": "...",
+                      "date": "Thu 26",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 27"
+                      "status": "...",
+                      "date": "Fri 27",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1060,8 +1183,9 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 30"
+                      "status": "...",
+                      "date": "Mon 30",
+                      "classNotes": ""
                     }
                   ]
                 }
@@ -1073,32 +1197,36 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 1"
+                      "status": "...",
+                      "date": "Tue 1",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 2"
+                      "status": "...",
+                      "date": "Wed 2",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 3"
+                      "status": "...",
+                      "date": "Thu 3",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 4"
+                      "status": "...",
+                      "date": "Fri 4",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1106,40 +1234,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 7"
+                      "status": "...",
+                      "date": "Mon 7",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 8"
+                      "status": "...",
+                      "date": "Tue 8",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 9"
+                      "status": "...",
+                      "date": "Wed 9",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 10"
+                      "status": "...",
+                      "date": "Thu 10",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 11"
+                      "status": "...",
+                      "date": "Fri 11",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1147,40 +1280,44 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 14"
+                      "status": "...",
+                      "date": "Mon 14",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 15"
+                      "status": "...",
+                      "date": "Tue 15",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 16"
+                      "status": "...",
+                      "date": "Wed 16",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 17"
+                      "status": "...",
+                      "date": "Thu 17"
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 18"
+                      "status": "...",
+                      "date": "Fri 18",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1188,40 +1325,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 21"
+                      "status": "...",
+                      "date": "Mon 21",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 22"
+                      "status": "...",
+                      "date": "Tue 22",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 23"
+                      "status": "...",
+                      "date": "Wed 23",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 24"
+                      "status": "...",
+                      "date": "Thu 24",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 25"
+                      "status": "...",
+                      "date": "Fri 25",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1229,32 +1371,36 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 28"
+                      "status": "...",
+                      "date": "Mon 28",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 29"
+                      "status": "...",
+                      "date": "Tue 29",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 30"
+                      "status": "...",
+                      "date": "Wed 30",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 31"
+                      "status": "...",
+                      "date": "Thu 31",
+                      "classNotes": ""
                     }
                   ]
                 }
@@ -1266,8 +1412,9 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 1"
+                      "status": "...",
+                      "date": "Fri 1",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1275,40 +1422,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 4"
+                      "status": "...",
+                      "date": "Mon 4",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 5"
+                      "status": "...",
+                      "date": "Tue 5",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 6"
+                      "status": "...",
+                      "date": "Wed 6",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 7"
+                      "status": "...",
+                      "date": "Thu 7",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 8"
+                      "status": "...",
+                      "date": "Fri 8",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1316,40 +1468,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 11"
+                      "status": "...",
+                      "date": "Mon 11",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 12"
+                      "status": "...",
+                      "date": "Tue 12",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 13"
+                      "status": "...",
+                      "date": "Wed 13",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 14"
+                      "status": "...",
+                      "date": "Thu 14",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 15"
+                      "status": "...",
+                      "date": "Fri 15",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1357,40 +1514,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 18"
+                      "status": "...",
+                      "date": "Mon 18",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 19"
+                      "status": "...",
+                      "date": "Tue 19",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 20"
+                      "status": "...",
+                      "date": "Wed 20",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 21"
+                      "status": "...",
+                      "date": "Thu 21",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 22"
+                      "status": "...",
+                      "date": "Fri 22",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1398,40 +1560,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 25"
+                      "status": "...",
+                      "date": "Mon 25",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 26"
+                      "status": "...",
+                      "date": "Tue 26",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 27"
+                      "status": "...",
+                      "date": "Wed 27",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 28"
+                      "status": "...",
+                      "date": "Thu 28",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 29"
+                      "status": "...",
+                      "date": "Fri 29",
+                      "classNotes": ""
                     }
                   ]
                 }
@@ -1443,40 +1610,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 1"
+                      "status": "...",
+                      "date": "Mon 1",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 2"
+                      "status": "...",
+                      "date": "Tue 2",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 3"
+                      "status": "...",
+                      "date": "Wed 3",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 4"
+                      "status": "...",
+                      "date": "Thu 4",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 5"
+                      "status": "...",
+                      "date": "Fri 5",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1484,40 +1656,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 8"
+                      "status": "...",
+                      "date": "Mon 8",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 9"
+                      "status": "...",
+                      "date": "Tue 9",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 10"
+                      "status": "...",
+                      "date": "Wed 10",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 11"
+                      "status": "...",
+                      "date": "Thu 11",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 12"
+                      "status": "...",
+                      "date": "Fri 12",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1525,40 +1702,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 15"
+                      "status": "...",
+                      "date": "Mon 15",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 16"
+                      "status": "...",
+                      "date": "Tue 16",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 17"
+                      "status": "...",
+                      "date": "Wed 17",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 18"
+                      "status": "...",
+                      "date": "Thu 18",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 19"
+                      "status": "...",
+                      "date": "Fri 19",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1566,40 +1748,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 22"
+                      "status": "...",
+                      "date": "Mon 22",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 23"
+                      "status": "...",
+                      "date": "Tue 23",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 24"
+                      "status": "...",
+                      "date": "Wed 24",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 25"
+                      "status": "...",
+                      "date": "Thu 25",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 26"
+                      "status": "...",
+                      "date": "Fri 26",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1607,16 +1794,18 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 29"
+                      "status": "...",
+                      "date": "Mon 29",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 30"
+                      "status": "...",
+                      "date": "Tue 30",
+                      "classNotes": ""
                     }
                   ]
                 }
@@ -1628,24 +1817,27 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 1"
+                      "status": "...",
+                      "date": "Wed 1",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 2"
+                      "status": "...",
+                      "date": "Thu 2",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 3"
+                      "status": "...",
+                      "date": "Fri 3",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1653,40 +1845,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 6"
+                      "status": "...",
+                      "date": "Mon 6",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 7"
+                      "status": "...",
+                      "date": "Tue 7",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 8"
+                      "status": "...",
+                      "date": "Wed 8",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 9"
+                      "status": "...",
+                      "date": "Thu 9",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 10"
+                      "status": "...",
+                      "date": "Fri 10",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1694,40 +1891,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 13"
+                      "status": "...",
+                      "date": "Mon 13",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 14"
+                      "status": "...",
+                      "date": "Tue 14",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 15"
+                      "status": "...",
+                      "date": "Wed 15",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 16"
+                      "status": "...",
+                      "date": "Thu 16",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 17"
+                      "status": "...",
+                      "date": "Fri 17",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1735,40 +1937,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 20"
+                      "status": "...",
+                      "date": "Mon 20",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 21"
+                      "status": "...",
+                      "date": "Tue 21",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 22"
+                      "status": "...",
+                      "date": "Wed 22",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 23"
+                      "status": "...",
+                      "date": "Thu 23",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 24"
+                      "status": "...",
+                      "date": "Fri 24",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1776,40 +1983,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 27"
+                      "status": "...",
+                      "date": "Mon 27",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 28"
+                      "status": "...",
+                      "date": "Tue 28",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 29"
+                      "status": "...",
+                      "date": "Wed 29",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 30"
+                      "status": "...",
+                      "date": "Thu 30",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 31"
+                      "status": "...",
+                      "date": "Fri 31",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1822,40 +2034,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 3"
+                      "status": "...",
+                      "date": "Mon 3",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 4"
+                      "status": "...",
+                      "date": "Tue 4",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 5"
+                      "status": "...",
+                      "date": "Wed 5",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 6"
+                      "status": "...",
+                      "date": "Thu 6",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 7"
+                      "status": "...",
+                      "date": "Fri 7",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1863,40 +2080,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 10"
+                      "status": "...",
+                      "date": "Mon 10",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 11"
+                      "status": "...",
+                      "date": "Tue 11",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 12"
+                      "status": "...",
+                      "date": "Wed 12",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 13"
+                      "status": "...",
+                      "date": "Thu 13",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 14"
+                      "status": "...",
+                      "date": "Fri 14",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1904,40 +2126,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 17"
+                      "status": "...",
+                      "date": "Mon 17",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 18"
+                      "status": "...",
+                      "date": "Tue 18",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 19"
+                      "status": "...",
+                      "date": "Wed 19",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 20"
+                      "status": "...",
+                      "date": "Thu 20",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 21"
+                      "status": "...",
+                      "date": "Fri 21",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -1945,40 +2172,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 24"
+                      "status": "...",
+                      "date": "Mon 24",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 25"
+                      "status": "...",
+                      "date": "Tue 25",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 26"
+                      "status": "...",
+                      "date": "Wed 26",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 27"
+                      "status": "...",
+                      "date": "Thu 27",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 28"
+                      "status": "...",
+                      "date": "Fri 28",
+                      "classNotes": ""
                     }
                   ]
                 }
@@ -1990,40 +2222,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 1"
+                      "status": "...",
+                      "date": "Mon 1",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 2"
+                      "status": "...",
+                      "date": "Tue 2",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 3"
+                      "status": "...",
+                      "date": "Wed 3",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 4"
+                      "status": "...",
+                      "date": "Thu 4",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 5"
+                      "status": "...",
+                      "date": "Fri 5",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -2031,40 +2268,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 8"
+                      "status": "...",
+                      "date": "Mon 8",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 9"
+                      "status": "...",
+                      "date": "Tue 9",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 10"
+                      "status": "...",
+                      "date": "Wed 10",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 11"
+                      "status": "...",
+                      "date": "Thu 11",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 12"
+                      "status": "...",
+                      "date": "Fri 12",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -2072,40 +2314,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 15"
+                      "status": "...",
+                      "date": "Mon 15",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 16"
+                      "status": "...",
+                      "date": "Tue 16",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 17"
+                      "status": "...",
+                      "date": "Wed 17",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 18"
+                      "status": "...",
+                      "date": "Thu 18",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 19"
+                      "status": "...",
+                      "date": "Fri 19",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -2113,40 +2360,45 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 22"
+                      "status": "...",
+                      "date": "Mon 22",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 23"
+                      "status": "...",
+                      "date": "Tue 23",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 24"
+                      "status": "...",
+                      "date": "Wed 24",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Thu 25"
+                      "status": "...",
+                      "date": "Thu 25",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Fri 26"
+                      "status": "...",
+                      "date": "Fri 26",
+                      "classNotes": ""
                     }
                   ],
                   "hr": true
@@ -2154,24 +2406,26 @@
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Mon 29"
+                      "status": "...",
+                      "date": "Mon 29",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Tue 30"
+                      "status": "...",
+                      "date": "Tue 30",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "option": "...",
-                      "text": "Wed 31"
+                      "status": "...",
+                      "date": "Wed 31"
                     }
                   ]
                 }

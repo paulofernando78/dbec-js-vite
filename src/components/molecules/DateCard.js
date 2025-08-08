@@ -45,12 +45,21 @@ class DateCard extends HTMLElement {
         monthEl.style.fontWeight = "bold";
         monthEl.style.marginBlock = "10px";
         monthContainer.appendChild(monthEl);
+
+        const monthNote = document.createElement("wc-note");
+        monthNote.data = {
+          value: monthItem.monthNotes,
+          placeholder: "Month notes",
+          height: "50px",
+        };
+        monthContainer.appendChild(monthNote);
+
         dateContainer.appendChild(monthContainer);
 
         monthItem.month.forEach((dayItem) => {
           const dropdownWrapper = document.createElement("div");
           dropdownWrapper.style.display = "grid";
-          dropdownWrapper.style.gridTemplateColumns = "50px 65px auto";
+          dropdownWrapper.style.gridTemplateColumns = "60px 65px auto";
           dropdownWrapper.style.alignItems = "center";
           dropdownWrapper.style.gap = "8px";
           dropdownWrapper.style.marginBottom = "3px";
@@ -64,6 +73,7 @@ class DateCard extends HTMLElement {
             { value: "R", label: "R" },
             { value: "ROK", label: "ROK" },
             { value: "H", label: "H" },
+            { value: "-", label: "-" },
           ];
 
           if (Array.isArray(dayItem.day)) {
@@ -77,15 +87,20 @@ class DateCard extends HTMLElement {
                 select.appendChild(option);
               });
 
-              select.value = item.option || "";
+              select.value = item.status || "";
               dropdownWrapper.appendChild(select);
 
               const p = document.createElement("p");
-              p.textContent = item.text;
+              p.textContent = item.date;
               dropdownWrapper.appendChild(p);
 
-              const notes = document.createElement("wc-note");
-              dropdownWrapper.appendChild(notes);
+              const classNote = document.createElement("wc-note");
+              classNote.data = {
+                value: item.classNotes,
+                placeholder: "Class notes",
+                height: "29px",
+              };
+              dropdownWrapper.appendChild(classNote);
             });
           }
 

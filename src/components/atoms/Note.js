@@ -8,25 +8,29 @@ class Note extends HTMLElement {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
+  }
 
-    const textArea = document.createElement("textarea");
-    textArea.style.width = "100%";
-    textArea.style.height = "29px";
-    textArea.style.borderRadius = "var(--border-radius)";
-    textArea.style.padding = "var(--padding)";
-    textArea.placeholder = "Class notes...";
+  set data(note) {
+    this.textArea = document.createElement("textarea");
+    this.textArea.style.width = "100%";
+    this.textArea.style.height = note.height || "29px";
+    this.textArea.style.borderRadius = "var(--border-radius)";
+    this.textArea.style.padding = "var(--padding)";
+    this.textArea.placeholder = note.placeholder;
+    this.textArea.value = note.value || "";
 
-    // Fetching...
-    const savedText = localStorage.getItem("note-text");
-    if (savedText) {
-      textArea.value = savedText;
+    
+    this.shadowRoot.append(this.textArea);
+  }
+
+  get value() {
+    return this.textArea.value;
+  }
+
+  set value(val) {
+    if (this.textArea) {
+      this.textArea.value = val
     }
-
-    // Salving as type
-    textArea.addEventListener("input", () => {
-      localStorage.setItem("note-text", textArea.value);
-    });
-    this.shadowRoot.append(textArea);
   }
 }
 
