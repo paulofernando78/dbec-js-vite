@@ -47,9 +47,13 @@
                   "markedText": "watch"
                 },
                 {
-                  "text": " TV every evening. (simple present)"
+                  "text": " TV every evening. "
+                },
+                {
+                  "boldText":	"(simple present)"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
@@ -63,7 +67,10 @@
                   "phonetics": " /t/"
                 },
                 {
-                  "text": " TV yesterday evening. (simple past)"
+                  "text": " TV yesterday evening."
+                },
+                {
+                  "boldText":	"(simple past)"
                 }
               ],
               "lineBreak": true
@@ -94,611 +101,6 @@
       }
     },
     {
-      "grid": false,
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Let's take a look at some common regular "
-                },
-                {
-                  "markedmarkedText": "-ed"
-                },
-                {
-                  "boldText": " verbs:"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "grid": true,
-      "text": [
-        {
-          "card": true,
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "-ed sounds: "
-                },
-                {
-                  "phonetics": "/d/"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "clean"
-                },
-                {
-                  "text": " ➜ clean"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "enjoy"
-                },
-                {
-                  "text": " ➜ enjoy"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "open"
-                },
-                {
-                  "text": " ➜ open"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "play"
-                },
-                {
-                  "text": " ➜ play"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "rain"
-                },
-                {
-                  "text": " ➜ rain"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "stay"
-                },
-                {
-                  "text": " ➜ stay"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "-e:"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "arriv"
-                },
-                {
-                  "markedText": "e"
-                },
-                {
-                  "text": " ➜ arriv"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "di"
-                },
-                {
-                  "markedText": "e"
-                },
-                {
-                  "text": " ➜ di"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "liv"
-                },
-                {
-                  "markedText": "e"
-                },
-                {
-                  "text": " ➜ liv"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "c + v + c = double last consonant:"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "hap"
-                },
-                {
-                  "markedText": "pen"
-                },
-                {
-                  "text": " ➜ happen"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "p"
-                },
-                {
-                  "markedText": "lan"
-                },
-                {
-                  "text": " ➜ plann"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "-y preceeded by a consonant:"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "co"
-                },
-                {
-                  "markedText": "py"
-                },
-                {
-                  "text": " ➜ cop"
-                },
-                {
-                  "markedText": "ied"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "c"
-                },
-                {
-                  "markedText": "ry"
-                },
-                {
-                  "text": " ➜ cr"
-                },
-                {
-                  "markedText": "ied"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "stu"
-                },
-                {
-                  "markedText": "dy"
-                },
-                {
-                  "text": " ➜ stud"
-                },
-                {
-                  "markedText": "ied"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "t"
-                },
-                {
-                  "markedText": "ry"
-                },
-                {
-                  "text": " ➜ tr"
-                },
-                {
-                  "markedText": "ied"
-                },
-                {
-                  "phonetics": " /d/"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "card": true,
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "-ed sounds: "
-                },
-                {
-                  "phonetics": "/t/"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "ask"
-                },
-                {
-                  "text": " ➜ ask"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /t/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "brush"
-                },
-                {
-                  "text": " ➜ brush"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /t/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "dance"
-                },
-                {
-                  "text": " ➜ danc"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /t/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "park"
-                },
-                {
-                  "text": " ➜ park"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /t/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "talk"
-                },
-                {
-                  "text": " ➜ talk"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /t/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "walk"
-                },
-                {
-                  "text": " ➜ walk"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /t/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "work"
-                },
-                {
-                  "text": " ➜ work"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /t/"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "c + v + c = double last consonant:"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "s"
-                },
-                {
-                  "markedText": "top"
-                },
-                {
-                  "text": " ➜ stopp"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /t/"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "card": true,
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "-ed sounds: "
-                },
-                {
-                  "phonetics": "/ɪd/"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "depart"
-                },
-                {
-                  "text": " ➜ depart"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /ɪd/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "end"
-                },
-                {
-                  "text": " ➜ end"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /ɪd/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "need"
-                },
-                {
-                  "text": " ➜ need"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /ɪd/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "start"
-                },
-                {
-                  "text": " ➜ start"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /ɪd/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "wait"
-                },
-                {
-                  "text": " ➜ wait"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /ɪd/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "want"
-                },
-                {
-                  "text": " ➜ want"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": "/ɪd/"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "text": [
         {
           "card": false,
@@ -714,6 +116,82 @@
         },
         {
           "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "I usually get up early, but this morning I "
+                },
+                {
+                  "markedText": "got up"
+                },
+                {
+                  "text": " at 9:30."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "We "
+                },
+                {
+                  "markedText": "did"
+                },
+                {
+                  "text": " a lot of work yesterday."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Megan "
+                },
+                {
+                  "markedText": "went"
+                },
+                {
+                  "text": " to the movies three times last week."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "James "
+                },
+                {
+                  "markedText": "came"
+                },
+                {
+                  "text": " into the room, "
+                },
+                {
+                  "markedText": "took off"
+                },
+                {
+                  "text": " his coat, and "
+                },
+                {
+                  "markedText": "sat down"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            },
             {
               "block": [
                 {
@@ -869,10 +347,70 @@
             {
               "block": [
                 {
-                  "boldText": "Now let's take a look at some irregular verbs:"
+                  "boldText": "List of them ost common regular and irregular verbs."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "-ed regular verbs can have three sounds:"
+                },
+                {
+                  "markedmarkedText": "-ed"
+                },
+                {
+                  "phonetics": " /t/ "
+                },
+                {
+                  "text": ","
+                },
+                {
+                  "phonetics": "/d/ "
+                },
+                {
+                  "text": ","
+                },
+                {
+                  "phonetics": "/ɪd/"
                 }
               ],
               "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "arriv"
+                },
+                {
+                  "markedText": "e"
+                },
+                {
+                  "text": " ➜ arriv"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "ask"
+                },
+                {
+                  "text": " ➜ ask"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
+                }
+              ]
             },
             {
               "block": [
@@ -907,6 +445,77 @@
             {
               "block": [
                 {
+                  "text": "bring ➜ "
+                },
+                {
+                  "text": "br"
+                },
+                {
+                  "markedText": "ought"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "brush"
+                },
+                {
+                  "text": " ➜ brush"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "buy ➜ "
+                },
+                {
+                  "text": "b"
+                },
+                {
+                  "markedText": "ought"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "catch ➜ "
+                },
+                {
+                  "text": "c"
+                },
+                {
+                  "markedText": "aught"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "clean"
+                },
+                {
+                  "text": " ➜ clean"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "text": "come ➜ "
                 },
                 {
@@ -923,7 +532,87 @@
                   "text": "checked"
                 },
                 {
-                  "phonetics":	"/t/"
+                  "phonetics": "/t/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "co"
+                },
+                {
+                  "markedText": "py"
+                },
+                {
+                  "text": " ➜ cop"
+                },
+                {
+                  "markedText": "ied"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "cut ➜ "
+                },
+                {
+                  "text": "cut"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "dance"
+                },
+                {
+                  "text": " ➜ danc"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "depart"
+                },
+                {
+                  "text": " ➜ depart"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /ɪd/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "di"
+                },
+                {
+                  "markedText": "e"
+                },
+                {
+                  "text": " ➜ di"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
                 }
               ]
             },
@@ -940,10 +629,71 @@
             {
               "block": [
                 {
+                  "text": "drink ➜ "
+                },
+                {
+                  "text": "dr"
+                },
+                {
+                  "markedText": "an"
+                },
+                {
+                  "text": "k"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "draw ➜ "
+                },
+                {
+                  "text": "dr"
+                },
+                {
+                  "markedText": "ew"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "text": "eat ➜ "
                 },
                 {
                   "text": "ate"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "end"
+                },
+                {
+                  "text": " ➜ end"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /ɪd/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "enjoy"
+                },
+                {
+                  "text": " ➜ enjoy"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
                 }
               ]
             },
@@ -960,10 +710,36 @@
             {
               "block": [
                 {
+                  "text": "fight ➜ "
+                },
+                {
+                  "text": "f"
+                },
+                {
+                  "markedText": "ought"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "text": "find ➜ "
                 },
                 {
                   "text": "found"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "fly ➜ "
+                },
+                {
+                  "text": "fl"
+                },
+                {
+                  "markedText": "ew"
                 }
               ]
             },
@@ -1010,6 +786,25 @@
             {
               "block": [
                 {
+                  "text": "hap"
+                },
+                {
+                  "markedText": "pen"
+                },
+                {
+                  "text": " ➜ happen"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "text": "have ➜ "
                 },
                 {
@@ -1030,10 +825,65 @@
             {
               "block": [
                 {
+                  "text": "hurt ➜ "
+                },
+                {
+                  "text": "hurt"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "keep ➜ "
+                },
+                {
+                  "text": "k"
+                },
+                {
+                  "markedText": "ept"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "know ➜ "
+                },
+                {
+                  "text": "kn"
+                },
+                {
+                  "markedText": "ew"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "text": "leave ➜ "
                 },
                 {
                   "text": "left"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "liv"
+                },
+                {
+                  "markedText": "e"
+                },
+                {
+                  "text": " ➜ liv"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
                 }
               ]
             },
@@ -1070,6 +920,153 @@
             {
               "block": [
                 {
+                  "text": "need"
+                },
+                {
+                  "text": " ➜ need"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /ɪd/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "open"
+                },
+                {
+                  "text": " ➜ open"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "park"
+                },
+                {
+                  "text": " ➜ park"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "pay "
+                },
+                {
+                  "phonetics": "/peɪ/ "
+                },
+                {
+                  "text": "➜ "
+                },
+                {
+                  "text": "p"
+                },
+                {
+                  "markedText": "aid"
+                },
+                {
+                  "phonetics": " peɪd/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "p"
+                },
+                {
+                  "markedText": "lan"
+                },
+                {
+                  "text": " ➜ plann"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "play"
+                },
+                {
+                  "text": " ➜ play"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "put ➜ "
+                },
+                {
+                  "text": "put"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "rain"
+                },
+                {
+                  "text": " ➜ rain"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "ring ➜ "
+                },
+                {
+                  "text": "r"
+                },
+                {
+                  "markedText": "an"
+                },
+                {
+                  "text": "g"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "text": "read ➜ "
                 },
                 {
@@ -1086,121 +1083,6 @@
                   "text": "saw"
                 }
               ]
-            },
-            {
-              "block": [
-                {
-                  "text": "sell ➜ "
-                },
-                {
-                  "text": "sold"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "sit ➜ "
-                },
-                {
-                  "text": "sat"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "speak ➜ "
-                },
-                {
-                  "text": "spoke"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "stand ➜ "
-                },
-                {
-                  "text": "stood"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "swim ➜ "
-                },
-                {
-                  "text": "swam"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "take ➜ "
-                },
-                {
-                  "text": "took"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "tell ➜ "
-                },
-                {
-                  "text": "told"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "wake up ➜ "
-                },
-                {
-                  "text": "woke up"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "win ➜ "
-                },
-                {
-                  "text": "won"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "write ➜ "
-                },
-                {
-                  "text": "wrote"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "-"
-                },
-                {
-                  "markedText": "aid"
-                },
-                {
-                  "boldText": " ending:"
-                }
-              ],
-              "lineBreak": true
             },
             {
               "block": [
@@ -1227,53 +1109,23 @@
             {
               "block": [
                 {
-                  "text": "pay "
+                  "text": "seek ➜ "
                 },
                 {
-                  "phonetics": "/peɪ/ "
+                  "text": "s"
                 },
                 {
-                  "text": "➜ "
-                },
-                {
-                  "text": "p"
-                },
-                {
-                  "markedText": "aid"
-                },
-                {
-                  "phonetics": " peɪd/"
+                  "markedText": "ought"
                 }
-              ],
-              "lineBreak": true
+              ]
             },
             {
               "block": [
                 {
-                  "boldText": "-"
+                  "text": "sell ➜ "
                 },
                 {
-                  "markedText": "an-"
-                },
-                {
-                  "boldText": " ending:"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "drink ➜ "
-                },
-                {
-                  "text": "dr"
-                },
-                {
-                  "markedText": "an"
-                },
-                {
-                  "text": "k"
+                  "text": "sold"
                 }
               ]
             },
@@ -1296,44 +1148,10 @@
             {
               "block": [
                 {
-                  "text": "ring ➜ "
+                  "text": "sit ➜ "
                 },
                 {
-                  "text": "r"
-                },
-                {
-                  "markedText": "an"
-                },
-                {
-                  "text": "g"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "-"
-                },
-                {
-                  "markedText": "ept"
-                },
-                {
-                  "boldText": " ending:"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "keep ➜ "
-                },
-                {
-                  "text": "k"
-                },
-                {
-                  "markedText": "ept"
+                  "text": "sat"
                 }
               ]
             },
@@ -1353,6 +1171,96 @@
             {
               "block": [
                 {
+                  "text": "speak ➜ "
+                },
+                {
+                  "text": "spoke"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "stand ➜ "
+                },
+                {
+                  "text": "stood"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "start"
+                },
+                {
+                  "text": " ➜ start"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /ɪd/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "stay"
+                },
+                {
+                  "text": " ➜ stay"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "s"
+                },
+                {
+                  "markedText": "top"
+                },
+                {
+                  "text": " ➜ stopp"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "stu"
+                },
+                {
+                  "markedText": "dy"
+                },
+                {
+                  "text": " ➜ stud"
+                },
+                {
+                  "markedText": "ied"
+                },
+                {
+                  "phonetics": " /d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "text": "sweep ➜ "
                 },
                 {
@@ -1366,147 +1274,46 @@
             {
               "block": [
                 {
-                  "text": "weep ➜ "
+                  "text": "swim ➜ "
                 },
                 {
-                  "text": "w"
-                },
-                {
-                  "markedText": "ept"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "-"
-                },
-                {
-                  "markedText": "ew"
-                },
-                {
-                  "boldText": " ending:"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "draw ➜ "
-                },
-                {
-                  "text": "dr"
-                },
-                {
-                  "markedText": "ew"
+                  "text": "swam"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "fly ➜ "
+                  "text": "take ➜ "
                 },
                 {
-                  "text": "fl"
-                },
-                {
-                  "markedText": "ew"
+                  "text": "took"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "know ➜ "
+                  "text": "talk"
                 },
                 {
-                  "text": "kn"
+                  "text": " ➜ talk"
                 },
                 {
-                  "markedText": "ew"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "-"
+                  "markedText": "ed"
                 },
                 {
-                  "markedText": "aught / -ought"
-                },
-                {
-                  "boldText": " ending:"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "buy ➜ "
-                },
-                {
-                  "text": "b"
-                },
-                {
-                  "markedText": "ought"
+                  "phonetics": " /t/"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "bring ➜ "
+                  "text": "tell ➜ "
                 },
                 {
-                  "text": "br"
-                },
-                {
-                  "markedText": "ought"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "catch ➜ "
-                },
-                {
-                  "text": "c"
-                },
-                {
-                  "markedText": "aught"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "fight ➜ "
-                },
-                {
-                  "text": "f"
-                },
-                {
-                  "markedText": "ought"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "seek ➜ "
-                },
-                {
-                  "text": "s"
-                },
-                {
-                  "markedText": "ought"
+                  "text": "told"
                 }
               ]
             },
@@ -1521,136 +1328,121 @@
                 {
                   "markedText": "ought"
                 }
-              ],
-              "lineBreak": true
+              ]
             },
             {
               "block": [
                 {
-                  "boldText": "same:"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "cut ➜ "
+                  "text": "t"
                 },
                 {
-                  "text": "cut"
+                  "markedText": "ry"
+                },
+                {
+                  "text": " ➜ tr"
+                },
+                {
+                  "markedText": "ied"
+                },
+                {
+                  "phonetics": " /d/"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "hurt ➜ "
+                  "text": "wait"
                 },
                 {
-                  "text": "hurt"
+                  "text": " ➜ wait"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /ɪd/"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "put ➜ "
+                  "text": "wake up ➜ "
                 },
                 {
-                  "text": "put"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "card": false,
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Examples:"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "• "
-                },
-                {
-                  "text": "I usually get up early, but this morning I "
-                },
-                {
-                  "markedText": "got up"
-                },
-                {
-                  "text": " at 9:30."
+                  "text": "woke up"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "boldText": "• "
+                  "text": "walk"
                 },
                 {
-                  "text": "We "
+                  "text": " ➜ walk"
                 },
                 {
-                  "markedText": "did"
+                  "markedText": "ed"
                 },
                 {
-                  "text": " a lot of work yesterday."
+                  "phonetics": " /t/"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "boldText": "• "
+                  "text": "want"
                 },
                 {
-                  "text": "Megan "
+                  "text": " ➜ want"
                 },
                 {
-                  "markedText": "went"
+                  "markedText": "ed"
                 },
                 {
-                  "text": " to the movies three times last week."
+                  "phonetics": "/ɪd/"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "boldText": "• "
+                  "text": "weep ➜ "
                 },
                 {
-                  "text": "James "
+                  "text": "w"
                 },
                 {
-                  "markedText": "came"
+                  "markedText": "ept"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "win ➜ "
                 },
                 {
-                  "text": " into the room, "
+                  "text": "won"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "work"
                 },
                 {
-                  "markedText": "took off"
+                  "text": " ➜ work"
                 },
                 {
-                  "text": " his coat, and "
+                  "markedText": "ed"
                 },
                 {
-                  "markedText": "sat down"
-                },
-                {
-                  "text": "."
+                  "phonetics": " /t/"
                 }
               ]
             }
@@ -2053,7 +1845,7 @@
                   "block": [
                     {
                       "text": "1. They",
-                      "placeholder": "They just arrived.",
+                      "placeholder": "just arrived.",
                       "correctAnswer": ["just arrived."]
                     }
                   ]
