@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "procurement department",
+        "phonetics": "/prəˈkjʊr.mənt dɪˈpɑːrt.mənt/",
+        "partOfSpeech": "noun phrase",
+        "enDefinition": "The division within an organization responsible for acquiring goods and services.",
+        "ptDefinition": "O departamento dentro de uma organização responsável pela aquisição de bens e serviços.",
+        "examples": [
+          {
+            "enExample": "The procurement department handles all supplier negotiations.",
+            "ptExample": "O departamento de compras cuida de todas as negociações com fornecedores."
+          },
+          {
+            "enExample": "She works in the procurement department of the company.",
+            "ptExample": "Ela trabalha no departamento de compras da empresa."
+          }
+        ],
+        "synonyms": "purchasing department, buying department",
+        "antonyms": "",
+        "seeAlso": "supply chain, sourcing",
+        "notes": [
+          {
+            "enNote": "Common term in business referring to purchasing functions.",
+            "ptNote": "Termo comum em negócios que se refere às funções de compras."
+          }
+        ]
+      },
+      {
         "word": "puke",
         "phonetics": "/pjuːk/",
         "partOfSpeech": "verb",
