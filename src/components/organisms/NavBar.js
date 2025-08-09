@@ -113,15 +113,13 @@ class NavBar extends HTMLElement {
       if (item.title) {
         const title = document.createElement("li");
         title.style.fontWeight = "bold"
-        title.style.marginTop = "20px"
+        title.style.margin = "20px 0 5px 0"
         title.style.paddingLeft = "2px"
         title.textContent = item.title
         ul.appendChild(title)
       } else {
         const li = document.createElement("li")
-        if (item.variant === "song-item") {
-          li.classList.add("song-item")
-        }
+        li.classList.add("wc-icon-item")
 
         const iconItem = document.createElement("wc-icon-item");
         iconItem.setAttribute("link", item.link)

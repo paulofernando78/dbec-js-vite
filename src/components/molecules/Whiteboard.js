@@ -45,6 +45,7 @@ class Whiteboard extends HTMLElement {
     // Description
     whiteboard.descriptions?.forEach((desc) => {
       const li = document.createElement("li")
+      li.classList.add("wc-icon-item")
       ul.appendChild(li)
 
       const wcIconItem = document.createElement("wc-icon-item");

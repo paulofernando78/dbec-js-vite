@@ -10,8 +10,8 @@ class IconItem extends HTMLElement {
 
     const css = document.createElement("style");
     /*css*/
-    css.textContent = `\
-    
+    css.textContent = `
+
       :host {
         display: flex;
         align-items: center;
@@ -54,7 +54,9 @@ class IconItem extends HTMLElement {
       // anchor.classList.add("link-shifted");
       textElement = anchor;
     } else {
-      const desc = document.createElement("p");
+      const desc = document.createElement("span");
+      desc.style.position = "relative"
+      desc.style.top = "2px"
       desc.textContent = label;
       // desc.classList.add("link-shifted");
       textElement = desc;
