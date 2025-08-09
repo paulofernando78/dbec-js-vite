@@ -73,7 +73,7 @@ class DateCard extends HTMLElement {
             { value: "R", label: "R" },
             { value: "ROK", label: "ROK" },
             { value: "H", label: "H" },
-            { value: "-", label: "-" },
+            { value: "V", label: "V" },
           ];
 
           if (Array.isArray(dayItem.day)) {
@@ -101,8 +101,9 @@ class DateCard extends HTMLElement {
             SC: "var(--red-4)",
             TC: "var(--red-4)",
             R: "var(--yellow-4)",
-            ROK: "var(--orange-4)",
+            ROK: "var(--green-6)",
             H: "var(--violet-4)",
+            V: "var(--violet-4)",
             "...": "var(--gray-3)",
           };
 

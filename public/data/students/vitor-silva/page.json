@@ -4,15 +4,25 @@
     "descriptions": [
       {
         "icon": "student",
-        "description": "Student’s name"
+        "description": "Vitor Silva"
       },
       {
-        "icon": "student",
+        "icon": "date",
         "description": "Tue / Thu"
+      },
+      {
+        "icon": "time",
+        "description": "14:00 - 15:00"
       }
     ]
   },
   "contents": [
+    {
+      "board": {
+        "title": "Grab you English notebook.",
+        "height": "200px"
+      }
+    },
     {
       "studentDashboard": {
         "dateCard": {
@@ -26,7 +36,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "R",
                       "date": "Tue 7",
                       "classNotes": ""
                     }
@@ -35,7 +45,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "R",
                       "date": "Thu 9",
                       "classNotes": ""
                     }
@@ -44,7 +54,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "R",
                       "date": "Tue 14",
                       "classNotes": ""
                     }
@@ -53,7 +63,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Thu 16",
                       "classNotes": ""
                     }
@@ -62,7 +72,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Tue 21",
                       "classNotes": ""
                     }
@@ -71,7 +81,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Thu 23",
                       "classNotes": ""
                     }
@@ -80,16 +90,16 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "ROK",
                       "date": "Tue 28",
-                      "classNotes": ""
+                      "classNotes": "Class moved to Fri 29"
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Thu 30",
                       "classNotes": ""
                     }
@@ -105,16 +115,16 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "ROK",
                       "date": "Tue 4",
-                      "classNotes": ""
+                      "classNotes": "Class smoved to Wed 5"
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Thu 6",
                       "classNotes": ""
                     }
@@ -123,18 +133,18 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "ROK",
                       "date": "Tue 11",
-                      "classNotes": ""
+                      "classNotes": "Class moved to Fri 12"
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "ROK",
                       "date": "Thu 13",
-                      "classNotes": ""
+                      "classNotes": "Class of Fri 28 moved to April Fri 11"
                     }
                   ]
                 },
@@ -186,7 +196,7 @@
                     {
                       "status": "ROK",
                       "date": "Tue 4",
-                      "classNotes": "Carnival / Ceará- Class moved to Mar Fri 14"
+                      "classNotes": "Carnival / Rio- Class moved to Mar Fri 14"
                     }
                   ]
                 },
@@ -258,7 +268,7 @@
             },
             {
               "label": "April",
-              "monthNotes": "Credit was done on Fri 14 - We had class on Wed 18, Wed 23",
+              "monthNotes": "Credit was done on Fri 14",
               "month": [
                 {
                   "day": [
@@ -283,7 +293,7 @@
                     {
                       "status": "ROK",
                       "date": "Tue 8",
-                      "classNotes": "Class moved to May Mon 19"
+                      "classNotes": "Class moved to Wed 23"
                     }
                   ]
                 },
@@ -389,7 +399,7 @@
                     {
                       "status": "ROK",
                       "date": "Thu 15",
-                      "classNotes": "Class moved to July Fri 11"
+                      "classNotes": "Class moved to Jun Fri 27"
                     }
                   ]
                 },
@@ -407,7 +417,7 @@
                     {
                       "status": "ROK",
                       "date": "Thu 22",
-                      "classNotes": "Class moved to July Wed 23"
+                      "classNotes": "Class moved to July Fri 11"
                     }
                   ]
                 },
@@ -439,18 +449,18 @@
                 {
                   "day": [
                     {
-                      "status": "R",
+                      "status": "ROK",
                       "date": "Tue 3",
-                      "classNotes": ""
+                      "classNotes": "Class moved to July Wed 16"
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "status": "R",
+                      "status": "ROK",
                       "date": "Thu 5",
-                      "classNotes": ""
+                      "classNotes": "lass moved to July Wed 23"
                     }
                   ]
                 },
@@ -484,7 +494,7 @@
                 {
                   "day": [
                     {
-                      "status": "H",
+                      "status": "R",
                       "date": "Thu 19",
                       "classNotes": "Corpus Christi"
                     }
@@ -610,31 +620,22 @@
             },
             {
               "label": "August",
-              "monthNotes": "",
+              "monthNotes": "11 classes to be replaced. Every Tue, Wed, and Thu.",
               "month": [
-                {
-                  "day": [
-                    {
-                      "status": "R",
-                      "date": "Tue 5",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
-                      "date": "Thu 7",
-                      "classNotes": ""
-                    }
-                  ]
-                },
                 {
                   "day": [
                     {
                       "status": "...",
                       "date": "Tue 12",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 13",
                       "classNotes": ""
                     }
                   ]
@@ -661,6 +662,15 @@
                   "day": [
                     {
                       "status": "...",
+                      "date": "Wed 20",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
                       "date": "Thu 21",
                       "classNotes": ""
                     }
@@ -679,11 +689,38 @@
                   "day": [
                     {
                       "status": "...",
+                      "date": "Wed 27",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
                       "date": "Thu 28",
                       "classNotes": ""
                     }
                   ],
                   "hr": true
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri ?",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri ?",
+                      "classNotes": ""
+                    }
+                  ]
                 }
               ]
             },
@@ -1013,7 +1050,6 @@
             }
           ]
         }
-        
       }
     }
   ]

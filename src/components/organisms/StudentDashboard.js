@@ -20,18 +20,6 @@ class StudentDashboard extends HTMLElement {
     //   localStorage.setItem("board-text", textArea.value);
     // });
 
-    const ribbonBoard = document.createElement("wc-ribbon");
-    ribbonBoard.data = {
-      icon: "board",
-      label: "Board",
-    };
-
-    const boardTitle = document.createElement("p");
-    boardTitle.textContent = "Grab your English notebook.";
-
-    const board = document.createElement("wc-board");
-    board.data = dashboard.board;
-
     const ribbonDate = document.createElement("wc-ribbon");
     ribbonDate.data = {
       icon: "date",
@@ -42,9 +30,7 @@ class StudentDashboard extends HTMLElement {
     dateCard.data = dashboard.dateCard;
 
     this.shadowRoot.append(
-      ribbonBoard,
-      boardTitle,
-      board,
+
       ribbonDate,
       dateCard
     );

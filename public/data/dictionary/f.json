@@ -2,6 +2,36 @@
   {
     "definitions": [
       {
+        "word": "flabbergasted",
+        "phonetics": "/ˈflæb.ə.ɡɑː.stɪd/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "Extremely surprised or shocked.",
+        "ptDefinition": "Extremamente surpreso ou chocado.",
+        "examples": [
+          {
+            "enExample": "I was flabbergasted when I heard the news.",
+            "ptExample": "Fiquei pasmo quando ouvi a notícia."
+          },
+          {
+            "enExample": "She looked flabbergasted by the unexpected results.",
+            "ptExample": "Ela parecia chocada com os resultados inesperados."
+          },
+          {
+            "enExample": "We were just flabbergasted when we saw how much the repair cost.",
+            "ptExample": "Ficamos boquiabertos quando vimos quanto custava o conserto."
+          }
+        ],
+        "synonyms": "astonished, amazed, stunned, shocked",
+        "antonyms": "unimpressed, indifferent, unsurprised",
+        "seeAlso": "dumbfounded, speechless, astounded",
+        "notes": [
+          {
+            "enNote": "This word is informal and emphasizes a strong emotional reaction of surprise.",
+            "ptNote": "Palavra informal que enfatiza uma reação emocional forte de surpresa."
+          }
+        ]
+      },
+      {
         "word": "no hard feelings",
         "partOfSpeech": "idiom",
         "enDefinition": "used to say that you do not feel angry or upset about something",

@@ -18,6 +18,12 @@
   },
   "contents": [
     {
+      "board": {
+        "title": "Grab you English notebook.",
+        "height": "200px"
+      }
+    },
+    {
       "studentDashboard": {
         "dateCard": {
           "icon": "date",

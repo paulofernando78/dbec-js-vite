@@ -4,11 +4,26 @@
     "descriptions": [
       {
         "icon": "student",
-        "description": "Template"
+        "description": "Student’s name"
+      },
+      {
+        "icon": "date",
+        "description": "Mondays / Wednesdays"
+      },
+      {
+        "icon": "time",
+        "description": "00:00 - 00:00"
       }
     ]
   },
   "contents": [
+    {
+      "board": {
+        "id": "template",
+        "title": "Grab you English notebook.",
+        "height": "200px"
+      }
+    },
     {
       "studentDashboard": {
         "dateCard": {

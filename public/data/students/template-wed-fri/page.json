@@ -18,11 +18,503 @@
   },
   "contents": [
     {
+      "board": {
+        "title": "Grab you English notebook.",
+        "height": "200px"
+      }
+    },
+    {
       "studentDashboard": {
         "dateCard": {
           "icon": "date",
           "label": "2025",
           "date": [
+            
+            {
+              "label": "January",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 8",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 10",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 15",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 17",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 22"
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 24",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 29",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 31",
+                      "classNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "February",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 5",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 7",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 12",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 14",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 19",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 21",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 26",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 28",
+                      "classNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "March",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 5",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 7",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 12",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 14",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 19",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 21",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 26",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 28",
+                      "classNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "April",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 2",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 4",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 9",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 11",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 16",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 18",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 23",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 25",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 30",
+                      "classNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "May",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 2",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 7",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 9",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 14",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 16",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 21",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 23",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 28",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 30",
+                      "classNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "June",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 4",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 6",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 11",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 13",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 18",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 20",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Wed 25",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 27",
+                      "classNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
             {
               "label": "July",
               "month": [
@@ -35,7 +527,6 @@
                     }
                   ]
                 },
-
                 {
                   "day": [
                     {

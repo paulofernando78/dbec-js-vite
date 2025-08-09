@@ -917,6 +917,19 @@
             {
               "block": [
                 {
+                  "text": "check ➜ "
+                },
+                {
+                  "text": "checked"
+                },
+                {
+                  "phonetics":	"/t/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "text": "do ➜ "
                 },
                 {
@@ -2040,6 +2053,7 @@
                   "block": [
                     {
                       "text": "1. They",
+                      "placeholder": "They just arrived.",
                       "correctAnswer": ["just arrived."]
                     }
                   ]

@@ -4,15 +4,15 @@
     "descriptions": [
       {
         "icon": "student",
-        "description": "Álvaro Theodoro"
+        "description": "Student’s name"
       },
       {
         "icon": "date",
-        "description": "Tuesdays / Fridays"
+        "description": "Fridays"
       },
       {
         "icon": "time",
-        "description": "15:00 - 16:00"
+        "description": "00:00 - 00:00"
       }
     ]
   },
@@ -30,21 +30,138 @@
           "label": "2025",
           "date": [
             {
-              "label": "July",
+              "label": "January",
               "month": [
                 {
                   "day": [
                     {
-                      "status": "OK",
-                      "date": "Tue 1",
-                      "classNotes": "Class at 10:00"
+                      "status": "...",
+                      "date": "Fri 10",
+                      "classNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "status": "SC",
+                      "status": "...",
+                      "date": "Fri 17",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 24",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 31",
+                      "classNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "February",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 7",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 14",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 21",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 28",
+                      "classNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "March",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 7",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 14",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 21",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 28",
+                      "classNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "April",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
                       "date": "Fri 4",
                       "classNotes": ""
                     }
@@ -53,26 +170,8 @@
                 {
                   "day": [
                     {
-                      "status": "V",
-                      "date": "Tue 8",
-                      "classNotes": "Trip to Jalapão"
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "V",
+                      "status": "...",
                       "date": "Fri 11",
-                      "classNotes": "Trip to Jalapão"
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "V",
-                      "date": "Tue 15",
                       "classNotes": ""
                     }
                   ]
@@ -80,7 +179,7 @@
                 {
                   "day": [
                     {
-                      "status": "V",
+                      "status": "...",
                       "date": "Fri 18",
                       "classNotes": ""
                     }
@@ -89,26 +188,143 @@
                 {
                   "day": [
                     {
-                      "status": "V",
-                      "date": "Tue 22",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "V",
+                      "status": "...",
                       "date": "Fri 25",
                       "classNotes": ""
                     }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "May",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 2",
+                      "classNotes": ""
+                    }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "status": "V",
-                      "date": "Tue 29",
+                      "status": "...",
+                      "date": "Fri 9",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 16",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 23",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 30",
+                      "classNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "June",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 6",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 13",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 20",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 27",
+                      "classNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "July",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 4",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 11",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 18",
+                      "classNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Fri 25",
                       "classNotes": ""
                     }
                   ],
@@ -122,7 +338,7 @@
                 {
                   "day": [
                     {
-                      "status": "V",
+                      "status": "...",
                       "date": "Fri 1",
                       "classNotes": ""
                     }
@@ -131,26 +347,8 @@
                 {
                   "day": [
                     {
-                      "status": "SC",
-                      "date": "Tue 5",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "OK",
-                      "date": "Fri 8",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
                       "status": "...",
-                      "date": "Tue 12",
+                      "date": "Fri 8",
                       "classNotes": ""
                     }
                   ]
@@ -168,25 +366,7 @@
                   "day": [
                     {
                       "status": "...",
-                      "date": "Tue 19",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
                       "date": "Fri 22",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
-                      "date": "Tue 26",
                       "classNotes": ""
                     }
                   ]
@@ -210,25 +390,7 @@
                   "day": [
                     {
                       "status": "...",
-                      "date": "Tue 2",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
                       "date": "Fri 5",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
-                      "date": "Tue 9",
                       "classNotes": ""
                     }
                   ]
@@ -246,15 +408,6 @@
                   "day": [
                     {
                       "status": "...",
-                      "date": "Tue 16",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
                       "date": "Fri 19",
                       "classNotes": ""
                     }
@@ -264,25 +417,7 @@
                   "day": [
                     {
                       "status": "...",
-                      "date": "Tue 23",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
                       "date": "Fri 26",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
-                      "date": "Tue 30",
                       "classNotes": ""
                     }
                   ],
@@ -306,25 +441,7 @@
                   "day": [
                     {
                       "status": "...",
-                      "date": "Tue 7",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
                       "date": "Fri 10",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
-                      "date": "Tue 14",
                       "classNotes": ""
                     }
                   ]
@@ -342,25 +459,7 @@
                   "day": [
                     {
                       "status": "...",
-                      "date": "Tue 21",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
                       "date": "Fri 24",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
-                      "date": "Tue 28",
                       "classNotes": ""
                     }
                   ]
@@ -384,25 +483,7 @@
                   "day": [
                     {
                       "status": "...",
-                      "date": "Tue 4",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
                       "date": "Fri 7",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
-                      "date": "Tue 11",
                       "classNotes": ""
                     }
                   ]
@@ -420,25 +501,7 @@
                   "day": [
                     {
                       "status": "...",
-                      "date": "Tue 18",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
                       "date": "Fri 21",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
-                      "date": "Tue 25",
                       "classNotes": ""
                     }
                   ]
@@ -450,8 +513,7 @@
                       "date": "Fri 28",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 }
               ]
             },
@@ -462,25 +524,7 @@
                   "day": [
                     {
                       "status": "...",
-                      "date": "Tue 2",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
                       "date": "Fri 5",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
-                      "date": "Tue 9",
                       "classNotes": ""
                     }
                   ]
@@ -498,25 +542,7 @@
                   "day": [
                     {
                       "status": "...",
-                      "date": "Tue 16",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
                       "date": "Fri 19",
-                      "classNotes": ""
-                    }
-                  ]
-                },
-                {
-                  "day": [
-                    {
-                      "status": "...",
-                      "date": "Tue 23",
                       "classNotes": ""
                     }
                   ]
