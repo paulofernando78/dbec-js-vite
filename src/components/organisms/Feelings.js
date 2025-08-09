@@ -24,7 +24,7 @@ import {
   GifIDK,
 } from "@images/image-imports";
 
-class Dashboard extends HTMLElement {
+class Feelings extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -62,13 +62,6 @@ class Dashboard extends HTMLElement {
       }
     `;
     this.shadowRoot.appendChild(css);
-
-    // Whiteboard
-    const whiteboard = document.createElement("wc-whiteboard");
-    whiteboard.data = {
-      title: "Dashboard",
-    };
-    this.shadowRoot.appendChild(whiteboard);
 
     const container = document.createElement("div");
     container.classList.add("line-break");
@@ -195,30 +188,7 @@ class Dashboard extends HTMLElement {
       emojiName.textContent = emoji.word;
       gifCard.appendChild(emojiName);
     });
-
-    const notes = document.createElement("p");
-    notes.textContent = "Grab your English notebook.";
-    container.appendChild(notes);
-
-    // Board
-    const board = document.createElement("textarea");
-    board.style.width = "100%";
-    board.style.height = "300px";
-    board.style.borderRadius = "var(--border-radius)";
-    
-    // Fetch saved value when loading
-    const savedText = localStorage.getItem("dashboard-board");
-    if (savedText) {
-      board.value = savedText
-    }
-    
-    container.appendChild(board);
-
-    // Save in localStorage after every typing
-    board.addEventListener("input", () => {
-      localStorage.setItem("dashboard-board", board.value)
-    })
   }
 }
 
-export default Dashboard;
+export default Feelings;

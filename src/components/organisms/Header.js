@@ -16,13 +16,6 @@ class Header extends HTMLElement {
         align-items: center;
       }
 
-      // span {
-      //   display: inline-block;
-      //   font-family: "Anton", sans-serif;
-      //   font-size: 1.25rem;
-      //   text-align: center;
-      // }
-
       .left-button {
         position: relative;
         top: 2px;
@@ -33,7 +26,7 @@ class Header extends HTMLElement {
         position: relative;
         top: 2px;
         right: 2px;
-        margin-left: 4px
+        margin-left: 9px
       }
 
       @media (min-width: 778px) {
@@ -44,21 +37,37 @@ class Header extends HTMLElement {
     `;
     this.shadowRoot.appendChild(css);
 
-    const template = document.createElement("template"); /*html*/
-    template.innerHTML = `
-      <header>
-        <div>
-        <wc-button data-icon="menu" class="left-button" id="menu-button"></wc-button>
-        </div>
-        <div>
-          <wc-button data-icon="darkMode" class="right-button"></wc-button>
-          <wc-button data-icon="login" class="right-button"></wc-button>
-          <wc-button data-icon="logout" class="right-button"></wc-button>
-        </div>
-      </header>
-    `;
+    const header = document.createElement("header");
 
-    this.shadowRoot.appendChild(template.content.cloneNode(true));
+    // --- Left div ---
+    const leftDiv = document.createElement("div");
+    const menuButton = document.createElement("wc-button");
+    menuButton.setAttribute("data-icon", "menu");
+    menuButton.classList.add("left-button");
+    menuButton.id = "menu-button";
+    leftDiv.appendChild(menuButton);
+
+    // --- Righ div ---
+    const rightDiv = document.createElement("div");
+
+    const darkModeBtn = document.createElement("wc-button");
+    darkModeBtn.setAttribute("data-icon", "darkMode");
+    darkModeBtn.classList.add("right-button");
+
+    const loginBtn = document.createElement("wc-button");
+    loginBtn.setAttribute("data-icon", "login");
+    loginBtn.classList.add("right-button");
+    // loginBtn.style.display = "none";
+    
+    const logoutBtn = document.createElement("wc-button");
+    logoutBtn.setAttribute("data-icon", "logout");
+    logoutBtn.classList.add("right-button");
+
+    rightDiv.append(darkModeBtn, loginBtn, logoutBtn);
+
+    header.append(leftDiv, rightDiv);
+
+    this.shadowRoot.appendChild(header);
   }
 
   updateLoginVisibility = () => {
@@ -101,9 +110,8 @@ class Header extends HTMLElement {
     }
 
     const login = this.shadowRoot.querySelector("[data-icon=login]");
-    if (login) {
+    
       login.addEventListener("click", () => {
-        console.log(login);
         const navigateEvent = new CustomEvent("navigate", {
           detail: "/dashboard",
         });
@@ -113,12 +121,11 @@ class Header extends HTMLElement {
       if (login && window.location.pathname !== "/") {
         login.style.display = "none";
       }
-    }
+    
 
     const logout = this.shadowRoot.querySelector("[data-icon=logout]");
     if (logout) {
       logout.addEventListener("click", () => {
-        console.log(logout);
         window.location.href = "/";
       });
     }

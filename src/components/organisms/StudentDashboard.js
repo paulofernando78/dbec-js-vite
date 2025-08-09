@@ -13,12 +13,16 @@ class StudentDashboard extends HTMLElement {
   set data(dashboard) {
     this.classList.add("line-break");
 
-    // const button = document.createElement("wc-button");
-    // button.setAttribute("data-icon", "save");
-    // button.style.marginLeft = "3px";
-    // button.addEventListener("click", () => {
-    //   localStorage.setItem("board-text", textArea.value);
-    // });
+    const feelings = document.createElement("wc-feelings");
+
+    const boardTitle = document.createElement("wc-ribbon");
+    boardTitle.data = {
+      icon: "board",
+      label: "Board",
+    };
+
+    const board = document.createElement("wc-board")
+    board.data = dashboard.board
 
     const ribbonDate = document.createElement("wc-ribbon");
     ribbonDate.data = {
@@ -26,14 +30,11 @@ class StudentDashboard extends HTMLElement {
       label: "Schedule",
     };
 
+
     const dateCard = document.createElement("wc-date-card");
     dateCard.data = dashboard.dateCard;
 
-    this.shadowRoot.append(
-
-      ribbonDate,
-      dateCard
-    );
+    this.shadowRoot.append(feelings, boardTitle, board,  ribbonDate, dateCard);
   }
 }
 

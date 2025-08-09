@@ -18,13 +18,12 @@
   },
   "contents": [
     {
-      "board": {
-        "title": "Grab your English notebook.",
-        "height": "200px"
-      }
-    },
-    {
       "studentDashboard": {
+        "board": {
+          "id": "7ff85e08-ce17-4f32-8de9-dc71b123ceca",
+          "title": "Grab your English notebook.",
+          "height": "200px"
+        },
         "dateCard": {
           "icon": "date",
           "label": "2025",

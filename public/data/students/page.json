@@ -1,12 +1,7 @@
 {
   "whiteboard": {
-    "title": "Extras",
-    "subtitle": "Vocabulary",
+    "title": "Dashboard",
     "descriptions": [
-      {
-        "icon": "dashboard",
-        "description": "Dashboard"
-      },
       {
         "icon": "student",
         "description": "Students"
@@ -25,7 +20,7 @@
             "links": [
               {
                 "icon": "student",
-                "link": "/students/mauricio-theodoro",
+                "link": "/students/alvaro-theodoro",
                 "label": "Álvaro Theodoro"
               },
               {

@@ -18,20 +18,19 @@
   },
   "contents": [
     {
-      "board": {
-        "id": "template",
-        "title": "Grab your English notebook.",
-        "height": "200px"
-      }
-    },
-    {
       "studentDashboard": {
+        "board": {
+          "id": "",
+          "title": "Grab your English notebook.",
+          "height": "200px"
+        },
         "dateCard": {
           "icon": "date",
           "label": "2025",
           "date": [
             {
               "label": "January",
+              "monthNotes": "test",
               "month": [
                 {
                   "day": [
@@ -67,8 +66,7 @@
                       "date": "Fri 10",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -113,8 +111,7 @@
                       "date": "Fri 17",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -158,8 +155,7 @@
                       "date": "Fri 24",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -204,12 +200,14 @@
                       "date": "Fri 31",
                       "classNotes": ""
                     }
-                  ]
+                  ],
+                  "hr": true
                 }
               ]
             },
             {
               "label": "February",
+              "monthNotes": "",
               "month": [
                 {
                   "day": [
@@ -254,8 +252,7 @@
                       "date": "Fri 7",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -300,8 +297,7 @@
                       "date": "Fri 14",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -346,8 +342,7 @@
                       "date": "Fri 21",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -392,12 +387,14 @@
                       "date": "Fri 28",
                       "classNotes": ""
                     }
-                  ]
+                  ],
+                  "hr": true
                 }
               ]
             },
             {
               "label": "March",
+              "monthNotes": "",
               "month": [
                 {
                   "day": [
@@ -442,8 +439,7 @@
                       "date": "Fri 7",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -488,8 +484,7 @@
                       "date": "Fri 14",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -534,8 +529,7 @@
                       "date": "Fri 21",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -580,8 +574,7 @@
                       "date": "Fri 28",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -590,12 +583,14 @@
                       "date": "Mon 31",
                       "classNotes": ""
                     }
-                  ]
+                  ],
+                  "hr": true
                 }
               ]
             },
             {
               "label": "April",
+              "monthNotes": "",
               "month": [
                 {
                   "day": [
@@ -631,8 +626,7 @@
                       "date": "Fri 4",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -677,8 +671,7 @@
                       "date": "Fri 11",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -723,8 +716,7 @@
                       "date": "Fri 18",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -769,8 +761,7 @@
                       "date": "Fri 25",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -797,12 +788,14 @@
                       "date": "Wed 30",
                       "classNotes": ""
                     }
-                  ]
+                  ],
+                  "hr": true
                 }
               ]
             },
             {
               "label": "May",
+              "monthNotes": "",
               "month": [
                 {
                   "day": [
@@ -820,8 +813,7 @@
                       "date": "Fri 2",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -866,8 +858,7 @@
                       "date": "Fri 9",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -912,8 +903,7 @@
                       "date": "Fri 16",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -958,8 +948,7 @@
                       "date": "Fri 23",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1004,12 +993,14 @@
                       "date": "Fri 30",
                       "classNotes": ""
                     }
-                  ]
+                  ],
+                  "hr": true
                 }
               ]
             },
             {
               "label": "June",
+              "monthNotes": "",
               "month": [
                 {
                   "day": [
@@ -1054,8 +1045,7 @@
                       "date": "Fri 6",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1100,8 +1090,7 @@
                       "date": "Fri 13",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1146,8 +1135,7 @@
                       "date": "Fri 20",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1192,8 +1180,7 @@
                       "date": "Fri 27",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1202,12 +1189,14 @@
                       "date": "Mon 30",
                       "classNotes": ""
                     }
-                  ]
+                  ],
+                  "hr": true
                 }
               ]
             },
             {
               "label": "July",
+              "monthNotes": "",
               "month": [
                 {
                   "day": [
@@ -1243,8 +1232,7 @@
                       "date": "Fri 4",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1289,8 +1277,7 @@
                       "date": "Fri 11",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1334,8 +1321,7 @@
                       "date": "Fri 18",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1380,8 +1366,7 @@
                       "date": "Fri 25",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1417,12 +1402,14 @@
                       "date": "Thu 31",
                       "classNotes": ""
                     }
-                  ]
+                  ],
+                  "hr": true
                 }
               ]
             },
             {
               "label": "August",
+              "monthNotes": "",
               "month": [
                 {
                   "day": [
@@ -1431,8 +1418,7 @@
                       "date": "Fri 1",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1477,8 +1463,7 @@
                       "date": "Fri 8",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1523,8 +1508,7 @@
                       "date": "Fri 15",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1569,8 +1553,7 @@
                       "date": "Fri 22",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1615,12 +1598,14 @@
                       "date": "Fri 29",
                       "classNotes": ""
                     }
-                  ]
+                  ],
+                  "hr": true
                 }
               ]
             },
             {
               "label": "September",
+              "monthNotes": "",
               "month": [
                 {
                   "day": [
@@ -1665,8 +1650,7 @@
                       "date": "Fri 5",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1711,8 +1695,7 @@
                       "date": "Fri 12",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1757,8 +1740,7 @@
                       "date": "Fri 19",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1803,8 +1785,7 @@
                       "date": "Fri 26",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1822,12 +1803,14 @@
                       "date": "Tue 30",
                       "classNotes": ""
                     }
-                  ]
+                  ],
+                  "hr": true
                 }
               ]
             },
             {
               "label": "October",
+              "monthNotes": "",
               "month": [
                 {
                   "day": [
@@ -1854,8 +1837,7 @@
                       "date": "Fri 3",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1900,8 +1882,7 @@
                       "date": "Fri 10",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1946,8 +1927,7 @@
                       "date": "Fri 17",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -1992,8 +1972,7 @@
                       "date": "Fri 24",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -2045,6 +2024,7 @@
             },
             {
               "label": "November",
+              "monthNotes": "",
               "month": [
                 {
                   "day": [
@@ -2089,8 +2069,7 @@
                       "date": "Fri 7",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -2135,8 +2114,7 @@
                       "date": "Fri 14",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -2181,8 +2159,7 @@
                       "date": "Fri 21",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -2227,12 +2204,14 @@
                       "date": "Fri 28",
                       "classNotes": ""
                     }
-                  ]
+                  ],
+                  "hr": true
                 }
               ]
             },
             {
               "label": "December",
+              "monthNotes": "",
               "month": [
                 {
                   "day": [
@@ -2277,8 +2256,7 @@
                       "date": "Fri 5",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -2323,8 +2301,7 @@
                       "date": "Fri 12",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -2369,8 +2346,7 @@
                       "date": "Fri 19",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -2415,8 +2391,7 @@
                       "date": "Fri 26",
                       "classNotes": ""
                     }
-                  ],
-                  "hr": true
+                  ]
                 },
                 {
                   "day": [
@@ -2448,7 +2423,6 @@
             }
           ]
         }
-        
       }
     }
   ]

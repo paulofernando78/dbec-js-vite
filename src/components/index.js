@@ -33,7 +33,7 @@ import Contents from "./templates/Contents";
 import DictionaryContent from "./templates/DictionaryContent";
 
 // Pages
-import Dashboard from "./organisms/dashboard";
+import Feelings from "./organisms/Feelings";
 import DataPage from "../pages/data-page";
 
 // ******************************
@@ -72,5 +72,5 @@ customElements.define("wc-contents", Contents)
 customElements.define("wc-dictionary-content", DictionaryContent)
 
 // Pages
-customElements.define("wc-dashboard", Dashboard);
+customElements.define("wc-feelings", Feelings);
 customElements.define("wc-data-page", DataPage)

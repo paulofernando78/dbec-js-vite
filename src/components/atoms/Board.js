@@ -14,21 +14,16 @@ class Board extends HTMLElement {
     const boardId = board.id;
     this.dataset.boardId = boardId
 
-    const ribbonBoard = document.createElement("wc-ribbon");
-    ribbonBoard.data = {
-      icon: "board",
-      label: "Board",
-    };
-
     const boardTitle = document.createElement("p");
     boardTitle.textContent = board.title;
-    boardTitle.style.marginBlock = "var(--line-break)";
 
     const textArea = document.createElement("textarea");
     textArea.style.width = "100%";
     textArea.style.height = board?.height || "68px";
     textArea.style.borderRadius = "var(--border-radius)";
     textArea.style.padding = "var(--padding)";
+    boardTitle.style.marginBottom = "var(--line-break)";
+
 
     // Fetching...
     const savedText = localStorage.getItem(`board-text-${boardId}`);
@@ -43,7 +38,7 @@ class Board extends HTMLElement {
       localStorage.setItem(`board-text-${boardId}`, textArea.value);
     });
 
-    this.shadowRoot.append(ribbonBoard, boardTitle, textArea);
+    this.shadowRoot.append(boardTitle, textArea);
   }
 }
 
