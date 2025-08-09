@@ -87,7 +87,7 @@
                   "text": "Don't try to give me "
                 },
                 {
-                  "text": "the hard sell"
+                  "markedText": "the hard sell"
                 },
                 {
                   "text": ". Nine hundred bucks would "
@@ -159,7 +159,7 @@
                   "text": "Sorry, "
                 },
                 {
-                  "markedText": "no can do."
+                  "markedText": "no can do"
                 },
                 {
                   "text": "."
@@ -253,7 +253,7 @@
                   "text": "Please don't try to "
                 },
                 {
-                  "text": "nickel-and-dime"
+                  "markedText": "nickel-and-dime"
                 },
                 {
                   "text": " me. I'm "
