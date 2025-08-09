@@ -17,9 +17,9 @@
             "ptExample": "É incrível o que as pessoas podem realizar quando trabalham juntas."
           }
         ],
-        "synonyms": "achieve, carry out, execute, complete",
-        "antonyms": "fail, give up, abandon",
-        "seeAlso": "achieve, succeed, fulfill",
+        "synonyms": ["achieve, carry out, execute, complete"],
+        "antonyms": ["fail, give up, abandon"],
+        "seeAlso": ["achieve, succeed, fulfill"],
         "notes": [
           {
             "enNote": "Often used in goal-setting, project management, and motivational contexts.",

@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "deal",
+        "phonetics": "/diːl/",
+        "partOfSpeech": "noun / verb",
+        "enDefinition": "As a noun: an agreement or arrangement, especially in business or negotiation. As a verb: to distribute or manage.",
+        "ptDefinition": "Como substantivo: um acordo ou arranjo, especialmente em negócios ou negociações. Como verbo: distribuir ou administrar.",
+        "examples": [
+          {
+            "enExample": "They closed a deal to sell the company.",
+            "ptExample": "Eles fecharam um acordo para vender a empresa."
+          },
+          {
+            "enExample": "He deals cards at the poker table.",
+            "ptExample": "Ele distribui as cartas na mesa de pôquer."
+          }
+        ],
+        "synonyms": ["agreement, contract, transaction, distribute, manage"],
+        "antonyms": ["disagreement, refusal, withhold"],
+        "seeAlso": ["bargain, negotiate, trade"],
+        "notes": [
+          {
+            "enNote": "Commonly used both as a noun and a verb with different meanings.",
+            "ptNote": "Comumente usado como substantivo e verbo com significados diferentes."
+          }
+        ]
+      },
+      {
         "word": "deviate",
         "phonetics": "/ˈdiː.vi.eɪt/",
         "partOfSpeech": "verb",

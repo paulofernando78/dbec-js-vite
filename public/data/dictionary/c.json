@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "common ground",
+        "phonetics": "/ˈkɒmən ɡraʊnd/",
+        "partOfSpeech": "noun phrase",
+        "enDefinition": "Shared interests, beliefs, or opinions between people or groups.",
+        "ptDefinition": "Interesses, crenças ou opiniões compartilhadas entre pessoas ou grupos.",
+        "examples": [
+          {
+            "enExample": "They finally found some common ground during the negotiations.",
+            "ptExample": "Eles finalmente encontraram um terreno comum durante as negociações."
+          },
+          {
+            "enExample": "Despite their differences, the two parties have some common ground.",
+            "ptExample": "Apesar das diferenças, as duas partes têm algum terreno comum."
+          }
+        ],
+        "synonyms": ["shared interests, mutual understanding, agreement"],
+        "antonyms": ["disagreement, conflict, divergence"],
+        "seeAlso": ["compromise, consensus, negotiation"],
+        "notes": [
+          {
+            "enNote": "Often used in discussions or negotiations to indicate mutual understanding.",
+            "ptNote": "Frequentemente usado em discussões ou negociações para indicar entendimento mútuo."
+          }
+        ]
+      },
+      {
         "word": "complimentary drink",
         "phonetics": "/ˌkɒmplɪˈmɛntəri drɪŋk/",
         "partOfSpeech": "noun phrase",
@@ -17,35 +43,10 @@
             "ptExample": "O restaurante oferece uma bebida gratuita com cada refeição."
           }
         ],
-        "synonyms": "free drink, courtesy drink, gratis beverage",
-        "antonyms": "",
-        "seeAlso": "refreshment, beverage, promotion",
         "notes": [
           {
             "enNote": "Commonly used in hospitality and service industries.",
             "ptNote": "Usado comumente nas indústrias de hospitalidade e serviços."
-          }
-        ]
-      },
-      {
-        "word": "complimentary drink",
-        "phonetics": "",
-        "partOfSpeech": "",
-        "enDefinition": "",
-        "ptDefinition": "",
-        "examples": [
-          {
-            "enExample": "",
-            "ptExample": ""
-          }
-        ],
-        "synonyms": "",
-        "antonyms": "",
-        "seeAlso": "",
-        "notes": [
-          {
-            "enNote": "",
-            "ptNote": ""
           }
         ]
       },
