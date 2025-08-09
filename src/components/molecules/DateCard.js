@@ -43,7 +43,7 @@ class DateCard extends HTMLElement {
         monthEl.style.display = "block";
         monthEl.textContent = monthItem.label;
         monthEl.style.fontWeight = "bold";
-        monthEl.style.marginBlock = "10px";
+        monthEl.style.marginBottom = "10px";
         monthContainer.appendChild(monthEl);
 
         const monthNote = document.createElement("wc-note");
@@ -62,7 +62,7 @@ class DateCard extends HTMLElement {
           dropdownWrapper.style.gridTemplateColumns = "60px 65px auto";
           dropdownWrapper.style.alignItems = "center";
           dropdownWrapper.style.gap = "8px";
-          dropdownWrapper.style.marginBottom = "3px";
+          dropdownWrapper.style.marginTop = "3px";
           monthContainer.appendChild(dropdownWrapper);
 
           const options = [
