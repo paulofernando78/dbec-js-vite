@@ -10,21 +10,30 @@ class IconItem extends HTMLElement {
 
     const css = document.createElement("style");
     /*css*/
-    css.textContent = `
+    css.textContent = `\
+    
+      :host {
+        display: flex;
+        align-items: center;
+        gap: 5px
+      }
+
+      :host(:not(:first-child)) {
+      margin-bottom: 5px
+      }
+
       .link-shifted {
         position: relative;
         top: 4.5px
       }
     `;
 
+    
     this.shadowRoot.append(cssImports, css);
+
   }
 
   set data({ icon, link, target, label }) {
-    const li = document.createElement("li");
-    li.style.display = "flex";
-    li.style.alignItems = "center";
-    li.style.gap = "5px";
 
     const svgSpan = document.createElement("span");
 
@@ -51,8 +60,7 @@ class IconItem extends HTMLElement {
       textElement = desc;
     }
 
-    li.append(svgSpan, textElement);
-    this.shadowRoot.append(li);
+    this.shadowRoot.append(svgSpan, textElement);
   }
 }
 

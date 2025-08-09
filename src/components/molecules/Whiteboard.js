@@ -39,15 +39,21 @@ class Whiteboard extends HTMLElement {
     title.style.fontSize = "1.8rem"
     container.appendChild(title);
 
+    const ul = document.createElement("ul")
+    container.appendChild(ul)
+
     // Description
     whiteboard.descriptions?.forEach((desc) => {
+      const li = document.createElement("li")
+      ul.appendChild(li)
+
       const wcIconItem = document.createElement("wc-icon-item");
       wcIconItem.data = {
         icon: desc.icon,
         label: desc.description
       };
 
-      container.appendChild(wcIconItem)
+      li.appendChild(wcIconItem)
     });
 
     this.shadowRoot.appendChild(container);
