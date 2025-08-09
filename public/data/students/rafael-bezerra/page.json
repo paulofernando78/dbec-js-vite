@@ -4,7 +4,15 @@
     "descriptions": [
       {
         "icon": "student",
-        "description": "Template"
+        "description": "Rafael Bezerra"
+      },
+      {
+        "icon": "date",
+        "description": "Friday"
+      },
+      {
+        "icon": "time",
+        "description": "22:00 - 23:00"
       }
     ]
   },
