@@ -2,6 +2,54 @@
   {
     "definitions": [
       {
+        "word": "complimentary drink",
+        "phonetics": "/ˌkɒmplɪˈmɛntəri drɪŋk/",
+        "partOfSpeech": "noun phrase",
+        "enDefinition": "A free drink offered to customers, often as a courtesy or promotion.",
+        "ptDefinition": "Bebida gratuita oferecida aos clientes, geralmente como cortesia ou promoção.",
+        "examples": [
+          {
+            "enExample": "Guests received a complimentary drink upon arrival at the hotel.",
+            "ptExample": "Os hóspedes receberam uma bebida gratuita ao chegar no hotel."
+          },
+          {
+            "enExample": "The restaurant offers a complimentary drink with every meal.",
+            "ptExample": "O restaurante oferece uma bebida gratuita com cada refeição."
+          }
+        ],
+        "synonyms": "free drink, courtesy drink, gratis beverage",
+        "antonyms": "",
+        "seeAlso": "refreshment, beverage, promotion",
+        "notes": [
+          {
+            "enNote": "Commonly used in hospitality and service industries.",
+            "ptNote": "Usado comumente nas indústrias de hospitalidade e serviços."
+          }
+        ]
+      },
+      {
+        "word": "complimentary drink",
+        "phonetics": "",
+        "partOfSpeech": "",
+        "enDefinition": "",
+        "ptDefinition": "",
+        "examples": [
+          {
+            "enExample": "",
+            "ptExample": ""
+          }
+        ],
+        "synonyms": "",
+        "antonyms": "",
+        "seeAlso": "",
+        "notes": [
+          {
+            "enNote": "",
+            "ptNote": ""
+          }
+        ]
+      },
+      {
         "word": "carry out",
         "phonetics": "/ˈkæri aʊt/",
         "partOfSpeech": "phrasal verb",
