@@ -50,7 +50,7 @@
                   "text": " TV every evening. "
                 },
                 {
-                  "boldText":	"(simple present)"
+                  "boldText": "(simple present)"
                 }
               ],
               "lineBreak": true
@@ -70,7 +70,7 @@
                   "text": " TV yesterday evening."
                 },
                 {
-                  "boldText":	"(simple past)"
+                  "boldText": "(simple past)"
                 }
               ],
               "lineBreak": true
@@ -108,7 +108,7 @@
             {
               "block": [
                 {
-                  "boldText": "Examples:"
+                  "boldText": "More examples:"
                 }
               ]
             }
@@ -138,13 +138,19 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "We "
+                  "text": "Tony "
                 },
                 {
-                  "markedText": "did"
+                  "markedText": "work"
                 },
                 {
-                  "text": " a lot of work yesterday."
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
+                },
+                {
+                  "text": " in a bank from 2005 to 2011."
                 }
               ]
             },
@@ -154,13 +160,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "Megan "
+                  "text": "We "
                 },
                 {
-                  "markedText": "went"
+                  "markedText": "did"
                 },
                 {
-                  "text": " to the movies three times last week."
+                  "text": " a lot of work yesterday."
                 }
               ]
             },
@@ -198,50 +204,6 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "I brush my teeth every morning. This morning I "
-                },
-                {
-                  "markedText": "brush"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /t/"
-                },
-                {
-                  "text": " my teeth."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText": "• "
-                },
-                {
-                  "text": "Tony "
-                },
-                {
-                  "markedText": "work"
-                },
-                {
-                  "markedText": "ed"
-                },
-                {
-                  "phonetics": " /t/"
-                },
-                {
-                  "text": " in a bank from 2005 to 2011."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText": "• "
-                },
-                {
                   "text": "Yesterday it "
                 },
                 {
@@ -267,6 +229,44 @@
                 },
                 {
                   "text": " at lunchtime."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Megan "
+                },
+                {
+                  "markedText": "went"
+                },
+                {
+                  "text": " to the movies three times last week."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "I brush my teeth every morning. This morning I "
+                },
+                {
+                  "markedText": "brush"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": " /t/"
+                },
+                {
+                  "text": " my teeth."
                 }
               ]
             },
@@ -347,7 +347,7 @@
             {
               "block": [
                 {
-                  "boldText": "List of them ost common regular and irregular verbs."
+                  "boldText": "List of some common regular and irregular verbs."
                 }
               ]
             },
@@ -448,10 +448,7 @@
                   "text": "bring ➜ "
                 },
                 {
-                  "text": "br"
-                },
-                {
-                  "markedText": "ought"
+                  "text": "brought"
                 }
               ]
             },
@@ -477,10 +474,7 @@
                   "text": "buy ➜ "
                 },
                 {
-                  "text": "b"
-                },
-                {
-                  "markedText": "ought"
+                  "text": "bought"
                 }
               ]
             },
@@ -490,10 +484,7 @@
                   "text": "catch ➜ "
                 },
                 {
-                  "text": "c"
-                },
-                {
-                  "markedText": "aught"
+                  "text": "caught"
                 }
               ]
             },
@@ -529,7 +520,7 @@
                   "text": "check ➜ "
                 },
                 {
-                  "text": "checked"
+                  "text": "checked "
                 },
                 {
                   "phonetics": "/t/"
@@ -632,13 +623,7 @@
                   "text": "drink ➜ "
                 },
                 {
-                  "text": "dr"
-                },
-                {
-                  "markedText": "an"
-                },
-                {
-                  "text": "k"
+                  "text": "drank"
                 }
               ]
             },
@@ -648,10 +633,7 @@
                   "text": "draw ➜ "
                 },
                 {
-                  "text": "dr"
-                },
-                {
-                  "markedText": "ew"
+                  "text": "drew"
                 }
               ]
             },
@@ -713,10 +695,7 @@
                   "text": "fight ➜ "
                 },
                 {
-                  "text": "f"
-                },
-                {
-                  "markedText": "ought"
+                  "text": "fought"
                 }
               ]
             },
@@ -736,10 +715,7 @@
                   "text": "fly ➜ "
                 },
                 {
-                  "text": "fl"
-                },
-                {
-                  "markedText": "ew"
+                  "text": "flew"
                 }
               ]
             },
@@ -838,10 +814,7 @@
                   "text": "keep ➜ "
                 },
                 {
-                  "text": "k"
-                },
-                {
-                  "markedText": "ept"
+                  "text": "kept"
                 }
               ]
             },
@@ -851,10 +824,7 @@
                   "text": "know ➜ "
                 },
                 {
-                  "text": "kn"
-                },
-                {
-                  "markedText": "ew"
+                  "text": "knew"
                 }
               ]
             },
@@ -1054,13 +1024,7 @@
                   "text": "ring ➜ "
                 },
                 {
-                  "text": "r"
-                },
-                {
-                  "markedText": "an"
-                },
-                {
-                  "text": "g"
+                  "text": "rang"
                 }
               ]
             },
@@ -1096,10 +1060,7 @@
                   "text": "➜ "
                 },
                 {
-                  "text": "s"
-                },
-                {
-                  "markedText": "aid"
+                  "text": "said"
                 },
                 {
                   "phonetics": " /sed/"
@@ -1112,10 +1073,7 @@
                   "text": "seek ➜ "
                 },
                 {
-                  "text": "s"
-                },
-                {
-                  "markedText": "ought"
+                  "text": "sought"
                 }
               ]
             },
@@ -1135,13 +1093,10 @@
                   "text": "sing ➜ "
                 },
                 {
-                  "text": "s"
+                  "text": "sang"
                 },
                 {
-                  "markedText": "an"
-                },
-                {
-                  "text": "g"
+                  "markedText": ""
                 }
               ]
             },
@@ -1161,10 +1116,7 @@
                   "text": "sleep ➜ "
                 },
                 {
-                  "text": "sl"
-                },
-                {
-                  "markedText": "ept"
+                  "text": "slept"
                 }
               ]
             },
@@ -1264,10 +1216,7 @@
                   "text": "sweep ➜ "
                 },
                 {
-                  "text": "sw"
-                },
-                {
-                  "markedText": "ept"
+                  "text": "swept"
                 }
               ]
             },
@@ -1323,10 +1272,7 @@
                   "text": "think ➜ "
                 },
                 {
-                  "text": "th"
-                },
-                {
-                  "markedText": "ought"
+                  "text": "thought"
                 }
               ]
             },
@@ -1404,19 +1350,6 @@
                 },
                 {
                   "phonetics": "/ɪd/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "weep ➜ "
-                },
-                {
-                  "text": "w"
-                },
-                {
-                  "markedText": "ept"
                 }
               ]
             },
