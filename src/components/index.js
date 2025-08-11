@@ -60,7 +60,7 @@ customElements.define("wc-whiteboard", Whiteboard);
 customElements.define("wc-footer", Footer);
 customElements.define("wc-header", Header);
 customElements.define("wc-layout", Layout)
-customElements.define("wc-navbar", NavBar)
+customElements.define("wc-nav-bar", NavBar)
 customElements.define("wc-four-oh-four", FourOhFour)
 customElements.define("wc-under-construction", UnderConstruction)
 customElements.define("wc-dictionary-search", DictionarySearch)

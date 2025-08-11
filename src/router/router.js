@@ -15,7 +15,7 @@ const Router = {
   nav: (route, addToHistory = true) => {
     console.log(route);
     Router.scrollPositions = Router.scrollPositions || {};
-    Router.scrollPositions[window.location.pathname] = window.scrollY
+    Router.scrollPositions[window.location.pathname] = window.scrollY;
     if (addToHistory) {
       history.pushState({ route }, null, route);
     }
@@ -43,7 +43,11 @@ const Router = {
     content.innerHTML = "";
 
     const routes = {
-      "/dashboard": () => document.createElement("wc-dashboard"),
+      "/dashboard": () => {
+        const p = document.createElement("p");
+        p.textContent = "Check your Dashboard. 😊";
+        return p;
+      },
     };
 
     const routeHandler = routes[path];

@@ -4,10 +4,7 @@ class Layout extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-    this.render();
-  }
 
-  render() {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
@@ -47,22 +44,30 @@ class Layout extends HTMLElement {
           display: block;
         }
       }
-      `;
-
-    const template = document.createElement("template"); /*html*/
-    template.innerHTML = `
-      <div class="layout">
-        <wc-header class="grid-span"></wc-header>
-        <aside>
-          <wc-navbar></wc-navbar>
-        </aside>
-        <div id="app"></div>
-        <wc-footer class="grid-span"></wc-footer>
-      </div>
     `;
-
     this.shadowRoot.appendChild(style);
-    this.shadowRoot.appendChild(template.content.cloneNode(true));
+
+    const layout = document.createElement("div");
+    layout.classList.add("layout");
+
+    const header = document.createElement("wc-header");
+    header.classList.add("grid-span");
+    layout.appendChild(header);
+
+    const aside = document.createElement("aside");
+    const navBar = document.createElement("wc-nav-bar");
+    aside.appendChild(navBar);
+    layout.appendChild(aside);
+
+    const app = document.createElement("div");
+    app.id = "app";
+    layout.appendChild(app);
+
+    const footer = document.createElement("wc-footer");
+    footer.classList.add("grid-span");
+    layout.appendChild(footer);
+
+    this.shadowRoot.appendChild(layout);
   }
 }
 
