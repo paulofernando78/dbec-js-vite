@@ -345,7 +345,6 @@
           ]
         },
         {
-          "card": false,
           "blocks": [
             {
               "block": [
@@ -638,7 +637,7 @@
                   "markedText": "’re not"
                 },
                 {
-                  "text": " / you "
+                  "text": " / we "
                 },
                 {
                   "markedText": "aren't"
@@ -682,7 +681,7 @@
                   "markedText": "are not"
                 },
                 {
-                  "text": " (you"
+                  "text": " (they"
                 },
                 {
                   "markedText": "’re not"
@@ -695,6 +694,17 @@
                 },
                 {
                   "text": ")"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Examples"
                 }
               ]
             }
