@@ -1451,8 +1451,8 @@
                       "text": "1. A:"
                     },
                     {
-                      "placeholder": "How old",
-                      "correctAnswer": ["How old"]
+                      "placeholder": "How are",
+                      "correctAnswer": ["How are"]
                     },
                     {
                       "text": "your children?"
@@ -1462,7 +1462,7 @@
                 {
                   "block": [
                     {
-                      "text": "B: Five, six, and ten."
+                      "text": "B: They're pretty good."
                     }
                   ],
                   "lineBreak": true
