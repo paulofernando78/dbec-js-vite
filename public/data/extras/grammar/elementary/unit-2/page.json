@@ -1158,7 +1158,7 @@
             {
               "block": [
                 {
-                  "boldText":	"• "
+                  "boldText": "• "
                 },
                 {
                   "text": "4. Why is it good?"
@@ -1168,8 +1168,9 @@
             {
               "block": [
                 {
-                  "boldText":	"• "
-                },{
+                  "boldText": "• "
+                },
+                {
                   "text": "5. Why is it bad?"
                 }
               ]
@@ -1177,8 +1178,9 @@
             {
               "block": [
                 {
-                  "boldText":	"• "
-                },{
+                  "boldText": "• "
+                },
+                {
                   "text": "7. Why are they bad?"
                 }
               ]
@@ -1364,9 +1366,7 @@
                     {
                       "text": "1. (is / home / your mother)",
                       "placeholder": "Is your mother home?",
-                      "correctAnswer": [
-                        "Is your mother home?"
-                      ]
+                      "correctAnswer": ["Is your mother home?"]
                     }
                   ]
                 },
@@ -1413,7 +1413,7 @@
                 {
                   "block": [
                     {
-                      "text": "7. (is / near here / the train station)",
+                      "text": "7. (is / near here / the subway)",
                       "correctAnswer": ["Is the subway near here?"]
                     }
                   ]
@@ -1439,7 +1439,7 @@
           ]
         },
         {
-          "title": "2.3 Complete the questions. Use What... / Who... / Where... / How... ."
+          "title": "2.3 Complete the questions. Use What... / Who... / Where... / How... + verb be."
         },
         {
           "fillExercises": [
@@ -1547,7 +1547,7 @@
                   "block": [
                     {
                       "text": "6. A:",
-                      "correctAnswer": ["How is", "How’s", "How's"]
+                      "correctAnswer": ["Who is", "Who’s", "Who's"]
                     },
                     {
                       "text": "the man in this photo? B: That’s my dad."
@@ -1603,7 +1603,7 @@
                 {
                   "block": [
                     {
-                      "text": "1. (name)",
+                      "text": "1. (name?)",
                       "placeholder": "What’s your name?",
                       "correctAnswer": [
                         "What’s your name?",
@@ -1617,8 +1617,10 @@
                   "block": [
                     {
                       "text": "2. (Australian?)",
-                      "correctAnswer": ["Are you Australian?"],
-                      "afterBlank": "No, I’m Canadian."
+                      "correctAnswer": ["Are you Australian?"]
+                    },
+                    {
+                      "text": "No, I’m Canadian."
                     }
                   ]
                 },
@@ -1626,8 +1628,10 @@
                   "block": [
                     {
                       "text": "3. how old?",
-                      "correctAnswer": ["How old are you?"],
-                      "afterBlank": "I’m 30."
+                      "correctAnswer": ["How old are you?"]
+                    },
+                    {
+                      "text": "I’m 30."
                     }
                   ]
                 },
@@ -1635,8 +1639,10 @@
                   "block": [
                     {
                       "text": "4. (a teacher?)",
-                      "correctAnswer": ["Are you a teacher?"],
-                      "afterBlank": "No, I’m a lawyer."
+                      "correctAnswer": ["Are you a teacher?"]
+                    },
+                    {
+                      "text": "No, I’m a lawyer."
                     }
                   ]
                 },
@@ -1644,8 +1650,10 @@
                   "block": [
                     {
                       "text": "5. (married?)",
-                      "correctAnswer": ["Are you married?"],
-                      "afterBlank": "Yes, I am."
+                      "correctAnswer": ["Are you married?"]
+                    },
+                    {
+                      "text": "Yes, I am."
                     }
                   ]
                 },
@@ -1653,8 +1661,10 @@
                   "block": [
                     {
                       "text": "6. (wife a lawyer?)",
-                      "correctAnswer": ["Is your wife a laywer?"],
-                      "afterBlank": "No, she’s a teacher."
+                      "correctAnswer": ["Is your wife a laywer?"]
+                    },
+                    {
+                      "text": "No, she’s a teacher."
                     }
                   ]
                 },
@@ -1662,8 +1672,10 @@
                   "block": [
                     {
                       "text": "7. (from?)",
-                      "correctAnswer": ["Where’s she from?"],
-                      "afterBlank": "She’s from Mexico."
+                      "correctAnswer": ["Where’s she from?"]
+                    },
+                    {
+                      "text": "She’s from Mexico."
                     }
                   ]
                 },
@@ -1671,8 +1683,10 @@
                   "block": [
                     {
                       "text": "8. (her name?)",
-                      "correctAnswer": ["What’s her name?", "What's her name?"],
-                      "afterBlank": "Ana."
+                      "correctAnswer": ["What’s her name?", "What's her name?"]
+                    },
+                    {
+                      "text": "Ana."
                     }
                   ]
                 },
@@ -1680,8 +1694,10 @@
                   "block": [
                     {
                       "text": "9. (How old?)",
-                      "correctAnswer": ["How old is you?"],
-                      "afterBlank": "She’s 27."
+                      "correctAnswer": ["How old is you?"]
+                    },
+                    {
+                      "text": "She’s 27."
                     }
                   ]
                 }
