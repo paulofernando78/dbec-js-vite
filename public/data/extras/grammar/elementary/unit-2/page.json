@@ -1451,8 +1451,8 @@
                       "text": "1. A:"
                     },
                     {
-                      "placeholder": "How are",
-                      "correctAnswer": ["How are"]
+                      "placeholder": "How old",
+                      "correctAnswer": ["How old"]
                     },
                     {
                       "text": "your children?"
