@@ -829,7 +829,7 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "1. Who are you to know what a queen would or wouldn’t not want?"
+                  "text": "1. Who are you to know what a queen would or wouldn’t want?"
                 }
               ]
             },
@@ -1198,8 +1198,7 @@
     {
       "exercises": [
         {
-          "title": "2.1 Find the right answers for the questions. Use the letters below.",
-          "description": "Description"
+          "title": "2.1 Find the right answers for the questions. Use the letters below."
         },
         {
           "texts": [
@@ -1364,10 +1363,9 @@
                   "block": [
                     {
                       "text": "1. (is / home / your mother)",
-                      "placeholder": "How’s your mother?",
+                      "placeholder": "Is your mother home?",
                       "correctAnswer": [
-                        "How’s your mother?",
-                        "How's your mother?"
+                        "Is your mother home?"
                       ]
                     }
                   ]
