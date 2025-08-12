@@ -1602,7 +1602,7 @@
                 {
                   "block": [
                     {
-                      "text": "1. (name?)",
+                      "text": "1. Woman: (name?)",
                       "placeholder": "What’s your name?",
                       "correctAnswer": [
                         "What is your name?",
@@ -1611,95 +1611,95 @@
                       ]
                     },
                     {
-                      "text": "Eric."
+                      "text": "Man: Eric."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "2. (Australian?)",
+                      "text": "2. Woman: (Australian?)",
                       "correctAnswer": ["Are you Australian?"]
                     },
                     {
-                      "text": "No, I’m Canadian."
+                      "text": "Man: No, I’m Canadian."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "3. (how old?)",
+                      "text": "3. Woman: (how old?)",
                       "correctAnswer": ["How old are you?"]
                     },
                     {
-                      "text": "I’m 30."
+                      "text": "Man: I’m 30."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "4. (a teacher?)",
+                      "text": "4. Woman: (a teacher?)",
                       "correctAnswer": ["Are you a teacher?"]
                     },
                     {
-                      "text": "No, I’m a lawyer."
+                      "text": "Man: No, I’m a lawyer."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "5. (married?)",
+                      "text": "5. Woman: (married?)",
                       "correctAnswer": ["Are you married?"]
                     },
                     {
-                      "text": "Yes, I am."
+                      "text": "Man: Yes, I am."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "6. (your wife a lawyer?)",
+                      "text": "6. Woman: (your wife a lawyer?)",
                       "correctAnswer": ["Is your wife a laywer?"]
                     },
                     {
-                      "text": "No, she’s a teacher."
+                      "text": "Man: No, she’s a teacher."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "7. (from?)",
+                      "text": "7. Woman: (from?)",
                       "correctAnswer": ["Where’s she from?"]
                     },
                     {
-                      "text": "She’s from Mexico."
+                      "text": "Man: She’s from Mexico."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "8. (her name?)",
-                      "correctAnswer": ["What’s her name?", "What's her name?"]
+                      "text": "8. Woman: (her name?)",
+                      "correctAnswer": ["What is her name?", "What’s her name?", "What's her name?"]
                     },
                     {
-                      "text": "Ana."
+                      "text": "Man: Ana."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "9. (How old?)",
-                      "correctAnswer": ["How old is you?"]
+                      "text": "9. Woman: (How old?)",
+                      "correctAnswer": ["How old is she?"]
                     },
                     {
-                      "text": "She’s 27."
+                      "text": "Man: She’s 27."
                     }
                   ]
                 }

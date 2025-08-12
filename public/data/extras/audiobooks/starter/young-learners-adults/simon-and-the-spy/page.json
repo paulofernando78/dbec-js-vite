@@ -1,6 +1,6 @@
 {
   "whiteboard": {
-    "title": "Extras",,
+    "title": "Extras",
     "descriptions": [
       {
         "icon": "audiobooks",
@@ -79,25 +79,25 @@
             {
               "block": [
                 {
-                "text": "Simon Simple is at the station. He is going on a train. There are policemen at the station. There are policemen on the trains. They are all working very hard. “Why are the police here?” Simon asks a man. “Look,” the man says. Simon looks at the man’s newspaper. “Do you know this man?” he reads. He’s a spy! Fin"
+                  "text": "Simon Simple is at the station. He is going on a train. There are policemen at the station. There are policemen on the trains. They are all working very hard. “Why are the police here?” Simon asks a man. “Look,” the man says. Simon looks at the man’s newspaper. “Do you know this man?” he reads. He’s a spy! Fin"
                 },
                 {
-                  "underlinedText":	"d hi"
+                  "underlinedText": "d hi"
                 },
                 {
-                  "text":	"m! Sto"
+                  "text": "m! Sto"
                 },
                 {
-                  "underlinedText":	"p hi"
+                  "underlinedText": "p hi"
                 },
                 {
-                  "text":	"m! Ca"
+                  "text": "m! Ca"
                 },
                 {
-                  "underlinedText":	"tch hi"
+                  "underlinedText": "tch hi"
                 },
                 {
-                  "text":	"m!"
+                  "text": "m!"
                 }
               ]
             }

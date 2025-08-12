@@ -1,6 +1,6 @@
 {
   "whiteboard": {
-    "title": "Extras",,
+    "title": "Extras",
     "descriptions": [
       {
         "icon": "songs",
@@ -17,7 +17,11 @@
         "descriptions": [
           {
             "links": [
-              { "icon": "artist", "link": "/extras/songs/abba", "label": "ABBA" }
+              {
+                "icon": "artist",
+                "link": "/extras/songs/abba",
+                "label": "ABBA"
+              }
             ]
           }
         ]
