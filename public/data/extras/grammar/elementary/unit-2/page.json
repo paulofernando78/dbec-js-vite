@@ -1608,8 +1608,10 @@
                       "correctAnswer": [
                         "What’s your name?",
                         "What's your name?"
-                      ],
-                      "afterBlank": "Eric."
+                      ]
+                    },
+                    {
+                      "text": "Eric."
                     }
                   ]
                 },
