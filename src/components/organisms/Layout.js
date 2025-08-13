@@ -36,11 +36,11 @@ class Layout extends HTMLElement {
           flex-direction: column
         }
 
-        wc-navbar {
+        wc-nav-bar {
           display: none;
         }
 
-        wc-navbar.open {
+        wc-nav-bar.open {
           display: block;
         }
       }

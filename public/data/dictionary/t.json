@@ -2,6 +2,62 @@
   {
     "definitions": [
       {
+        "word": "try out",
+        "phonetics": "/traɪ aʊt/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "To test or use something to see if it works, is suitable, or effective.",
+        "ptDefinition": "Testar ou experimentar algo para ver se funciona, é adequado ou eficaz.",
+        "examples": [
+          {
+            "enExample": "I want to try out this new jacket before buying it.",
+            "ptExample": "Quero experimentar esta jaqueta antes de comprá-la."
+          },
+          {
+            "enExample": "The team is trying out a new strategy for the match.",
+            "ptExample": "O time está testando uma nova estratégia para a partida."
+          },
+          {
+            "enExample": "She tried out for the school play and got the main role.",
+            "ptExample": "Ela fez teste para a peça da escola e conseguiu o papel principal."
+          }
+        ],
+        "synonyms": ["test", "experiment", "evaluate", "assess"],
+        "antonyms": ["ignore", "neglect"],
+        "seeAlso": ["try", "experiment", "test"],
+        "notes": [
+          {
+            "enNote": "Used for testing clothes, equipment, strategies, or skills. Not commonly used for tasting food; use 'try' instead.",
+            "ptNote": "Usado para testar roupas, equipamentos, estratégias ou habilidades. Não é usado normalmente para experimentar comida; use 'try'."
+          }
+        ]
+      },
+      {
+        "word": "try",
+        "phonetics": "/traɪ/",
+        "partOfSpeech": "verb",
+        "enDefinition": "To make an attempt or effort to do something.",
+        "ptDefinition": "Fazer uma tentativa ou esforço para fazer algo; tentar; experimentar (comida)",
+        "examples": [
+          {
+            "enExample": "I will try to finish my homework before dinner.",
+            "ptExample": "Vou tentar terminar meu dever de casa antes do jantar."
+          },
+          {
+            "enExample": "She tried opening the door, but it was locked.",
+            "ptExample": "Ela tentou abrir a porta, mas estava trancada."
+          }
+        ],
+        "synonyms": ["attempt", "endeavor", "strive", "seek"],
+        "antonyms": ["give up", "quit", "abandon"],
+        "seeAlso": ["attempt", "experiment", "practice"],
+        "notes": [
+          {
+            "enNote": "Can also refer to tasting or testing something (e.g., 'try the cake').",
+            "ptNote": "Também pode se referir a provar ou testar algo (ex.: 'experimente o bolo')."
+          }
+        ]
+      },
+      {
         "word": "trustworthy",
         "phonetics": "/ˈtrʌstˌwɜː.ði/",
         "partOfSpeech": "adjective",

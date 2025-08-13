@@ -16,7 +16,7 @@
       },
       {
         "icon": "time",
-        "description": "00:00"
+        "description": "16:49"
       },
       {
         "icon": "flag",
@@ -79,34 +79,42 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Bath is a very old city in England. It has a beautiful Abbey. A lot of people visit the city every year. And in the summer there are always a lot of tourists in the streets."
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "1.1 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
+            },
             {
-              "card": false,
-              "blocks": [
+              "block": [
                 {
-                  "block": [
-                    {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
-                    },
-                    {
-                      "text": "..."
-                    }
-                  ]
+                  "text": "Pete and Carla are students in Bath. They like the city. Pete likes looking at the beautiful old buildings. Carla likes walking in the little streets. She often finds pretty little shops there and goes into them. Or she sits with Pete in a café and watches the tourists."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "It’s a Saturday in summer and a hot afternoon. There are a lot of tourists in the city today. People from many countries are going into the Abbey."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Let’s find a quiet street, away from the tourists, Carla says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘OK,’ Pete says. He likes being with Carla."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "They Walk ‘away ‘onthe Abbey."
                 }
               ]
             }
@@ -117,7 +125,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 2 • "
+        "label": "Paragraph 2"
       }
     },
     {
@@ -134,34 +142,56 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "After some time, they are in a little street behind the Abbey."
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "1.1 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
+            },
             {
-              "card": false,
-              "blocks": [
+              "block": [
                 {
-                  "block": [
-                    {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
-                    },
-                    {
-                      "text": "..."
-                    }
-                  ]
+                  "text": "‘This is pretty’, Carla says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "There are only two or three tourists in this street. The shops have small windows. Some houses have pretty little gardens."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "It’s quiet here, but Pete and Carla can hear music."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Look,’ Pete says. ‘That man is playing a flute. Let‘s go and listen.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "They walk across the street and watch the man. Four or five people are listening."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Why is he playing here?’ Carla asks. ‘There aren’t many tourists in this street.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘No,’ Pete says. ‘And there are only three or four coins in his hat.’"
                 }
               ]
             }
@@ -172,7 +202,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 3 • "
+        "label": "Paragraph 3"
       }
     },
     {
@@ -189,34 +219,77 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Pete and Carla listen to the flute player. The tune is Greensleeves."
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "1.1 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
+            },
             {
-              "card": false,
-              "blocks": [
+              "block": [
                 {
-                  "block": [
-                    {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
-                    },
-                    {
-                      "text": "..."
-                    }
-                  ]
+                  "text": "‘I know that tune!’ Carla says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "And she puts a coin in the man's hat. Pete takes her hand."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Let’s go, Carla, he says to her. ‘Let’s see the shops in the next street.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘OK,’ Carla says. They walk away."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The flute player watches them but his tune, Greensleeves, doesn’t stop."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘He isn’t a very good Aute player, Pete says. ‘But it’s a good tune.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘There were only four coins in his hat,’ Carla says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘That’s because he isn’t very good, Pete says. ‘And he’s playing in the wrong street."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The tourists are near the Abbey."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "They walk to the next street."
                 }
               ]
             }
@@ -227,7 +300,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 4 • "
+        "label": "Paragraph 4"
       }
     },
     {
@@ -244,34 +317,84 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "They find a little shop there. There are some old coins and stamps in the shop window. They come from many countries."
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "1.1 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
+            },
             {
-              "card": false,
-              "blocks": [
+              "block": [
                 {
-                  "block": [
-                    {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
-                    },
-                    {
-                      "text": "..."
-                    }
-                  ]
+                  "text": "‘Let’s go in here,’ Carla says. ‘It’s an interesting little shop.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘OK,’ Pete says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The shop is small. Pete and Carla go in, and an old man watches them. He is the shopkeeper."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Good afternoon,’ he says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Good afternoon,’ Carla says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Hi,’ Pete says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘What can I do for you?’ the shopkeeper says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Can we look at the stamps?’ Pete asks."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The shopkeeper looks at them. ‘OK,’ he says. ‘Do you collect stamps?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                    "text": "No, but I’m going to start collecting them; Pete says. ‘They’re interesting.'"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Yes, they are,’ the shopkeeper says."
                 }
               ]
             }
@@ -282,7 +405,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 5 • "
+        "label": "Paragraph 5"
       }
     },
     {
@@ -299,34 +422,70 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Pete looks at some stamps from Canada and some stamps from South America."
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "1.1 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
+            },
             {
-              "card": false,
-              "blocks": [
+              "block": [
                 {
-                  "block": [
-                    {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
-                    },
-                    {
-                      "text": "..."
-                    }
-                  ]
+                  "text": "‘These are beautiful stamps,’ he says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The shopkeeper stands near Pete and watches him."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘He isn’t happy,’ Carla thinks. ‘Why? We aren't going to steal his stamps.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "She looks at some coins."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Are these coins very old?’ Carla asks the old man."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘They're 300 years old, says the shopkeeper. ‘They’re very valuable. Every coin in my shop is valuable.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "A girl is working in the shop, too. She looks at Carla."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Carla smiles, but the girl doesn't smile at her."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘She isn't very friendly,’ Carla thinks."
                 }
               ]
             }
@@ -337,7 +496,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 6 • "
+        "label": "Paragraph 6"
       }
     },
     {
@@ -354,34 +513,49 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Suddenly they hear a telephone in the room behind the shop. The shopkeeper doesn’t answer it for a minute. Then he looks at the girl and she looks at him. They don’t speak, but Carla understands. The shopkeeper doesn’t speak, but he is saying to the girl, ‘Watch these students.’"
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "1.1 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
+            },
             {
-              "card": false,
-              "blocks": [
+              "block": [
                 {
-                  "block": [
-                    {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
-                    },
-                    {
-                      "text": "..."
-                    }
-                  ]
+                  "text": "‘Excuse me,’ he says to Carla and Pete. And he goes into the back room."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Pete is looking at the stamps. ‘Come and see these, Carla,’ he says. ‘They’re from South America. I want to start collecting them.'"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "But Carla doesn't like the people in this shop. They aren’t very friendly, and she wants to look at the city."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘They're very expensive,’ she says. ‘Let’s go, Pete.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The girl watches them, and then she smiles."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘She’s happy because we’re going, Carla thinks. ‘But why?’"
                 }
               ]
             }
@@ -392,7 +566,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 7 • "
+        "label": "Paragraph 7"
       }
     },
     {
@@ -409,34 +583,84 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Pete and Carla go back into the big streets with the tourists. Carla is happy now because they are not in the shop"
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "1.1 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
+            },
             {
-              "card": false,
-              "blocks": [
+              "block": [
                 {
-                  "block": [
-                    {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
-                    },
-                    {
-                      "text": "..."
-                    }
-                  ]
+                  "text": "But the sun is hot and Pete wants a drink. ‘Let’s go to a café near the Abbey, he says. He wanted the stamps from South America, but he doesn't say this."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "There are tables outside the café. Pete and Carla sit down. There are a lot of people in the café."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Can we go into the Abbey next?’ Carla asks. ‘He wants the stamps from South America,’ she thinks."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘But they're very expensive.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘I want a drink first,’ Pete says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘OK,’ Carla says, and she smiles at him."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Pete smiles at her, too."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "After a minute or two they hear, ‘Hey! There you are!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Pete and Carla look up. It’s the old man from the shop"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘What does he want?’ Pete says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘I don't know,’ Carla says. ‘But he's angry. What's wrong?’"
                 }
               ]
             }
@@ -447,7 +671,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 8 • "
+        "label": "Paragraph 8"
       }
     },
     {
@@ -464,34 +688,70 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "The shopkeeper comes to the café. He is very angry."
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "1.1 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
+            },
             {
-              "card": false,
-              "blocks": [
+              "block": [
                 {
-                  "block": [
-                    {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
-                    },
-                    {
-                      "text": "..."
-                    }
-                  ]
+                  "text": "‘Where are my coins?’ he says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Your coins?’ Carla says. ‘I don’t understand.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘They're missing!’ the shopkeeper says. ‘Did you steal them?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Carla and Pete are surprised. The people at the tables near them are surprised, too. They watch the two friends and the old man."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Steal your coins? No!’ Catla says. Her face is hot and red. ‘We didn’t steal any coins or stamps!’ Pete says. ‘What are you saying?’ He is angry now."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘You've got my coins!’ the shopkeeper says. ‘The coins are missing, and this isn’t the first time. Some coins were missing last week. Some students had them, too, I think."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Did you see the students with the coins?’ Pete says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The old man doesn’t answer."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "A policeman walks down the street to the café. He watches Carla and Pete and the shopkeeper. Then he says, ‘What's wrong?’"
                 }
               ]
             }
@@ -502,7 +762,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 9 • "
+        "label": "Paragraph 9"
       }
     },
     {
@@ -519,34 +779,42 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "‘These two students came into my shop,’ the shopkeeper says. ‘I went to the back room and answered the telephone. Then I went back into the shop. Some valuable coins were missing, and the two students were not in the shop.’"
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "1.1 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
+            },
             {
-              "card": false,
-              "blocks": [
+              "block": [
                 {
-                  "block": [
-                    {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
-                    },
-                    {
-                      "text": "..."
-                    }
-                  ]
+                  "text": "The policeman looks at Pete and Carla. ‘What do you say?’ he asks."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Yes, we went into the shop,’ Carla says. ‘We wanted to look at the stamps.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘But we didn't steal them,’ Pete says. ‘And we didn’t take the coins.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Were there many people in the shop?’ the policeman asks."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘No,’ the hopkeeper says. ‘Only these two students, and Tracy. Tracy works in my shop. She doesn't steal coins.’"
                 }
               ]
             }
@@ -557,7 +825,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 10 • "
+        "label": "Paragraph 10"
       }
     },
     {
@@ -574,34 +842,42 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "‘How do you know?’ asks the policeman."
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "1.1 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
+            },
             {
-              "card": false,
-              "blocks": [
+              "block": [
                 {
-                  "block": [
-                    {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
-                    },
-                    {
-                      "text": "..."
-                    }
-                  ]
+                  "text": "‘I looked in her bag and pockets today,’ the shopkeeper says. ‘And I looked in them last week?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘You can look in my bag,’ Carla says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘And you can look in my pockets,’ Pete says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The shopkeeper is surprised. ‘Can I?’ he says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Please look ... please look now,’ Carla says. ‘We didn't steal any coins.’ She gives him her bag."
                 }
               ]
             }
@@ -612,7 +888,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 11 • "
+        "label": "Paragraph 11"
       }
     },
     {
@@ -629,34 +905,42 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "The shopkeeper looks in Carla's bag and in their pockets. The people at the tables near them watch him. ‘Is he going to find the coins?’ they think. But he finds no coins or stamps."
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "1.1 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
+            },
             {
-              "card": false,
-              "blocks": [
+              "block": [
                 {
-                  "block": [
-                    {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
-                    },
-                    {
-                      "text": "..."
-                    }
-                  ]
+                  "text": "'‘We didn't steal the coins,’ Pete says. ‘And now you know that.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘I - I'm sorry,’ the shopkeeper says. ‘I was wrong. But I don't understand it. Where are the coins?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Then the old man goes back to his shop."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘He isn't very happy,’ Pete says to the policeman."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Coins are very small,’ the policeman says. ‘Perhaps they're in the shop, but he can't see them.’"
                 }
               ]
             }
@@ -667,7 +951,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 12 • "
+        "label": "Paragraph 12"
       }
     },
     {
@@ -684,34 +968,63 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "Some young people start to play music. A girl plays a flute."
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "1.1 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
+            },
             {
-              "card": false,
-              "blocks": [
+              "block": [
                 {
-                  "block": [
-                    {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
-                    },
-                    {
-                      "text": "..."
-                    }
-                  ]
+                  "text": "‘We didn't steal any coins,’ Carla says to the policeman."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘I know,’ the policeman says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Carla listens to the music. It is Greensleeves."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Where did I hear that?’ she thinks. And then she remembers the flute player near the coin and stamp shop. ‘He played that tune,’ she remembers."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Pete is watching her face. ‘What is it?’ he asks her. ‘What's wrong?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘I know now!' she says. ‘The missing coins - I know the answer!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Do you?’ Pete says. ‘What is it?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Come with me!’ she says to Pete and the policeman. ‘We're going to find the man with the flute!’"
                 }
               ]
             }
@@ -722,7 +1035,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 13 • "
+        "label": "Paragraph 13"
       }
     },
     {
@@ -739,34 +1052,84 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "‘Which man?’ the policeman says."
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "1.1 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
+            },
             {
-              "card": false,
-              "blocks": [
+              "block": [
                 {
-                  "block": [
-                    {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
-                    },
-                    {
-                      "text": "..."
-                    }
-                  ]
+                  "text": "‘He plays in the street near the old man’s shop,’ Pete says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Then Carla, Pete and the policeman run to the stamp and coin shop."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Hey, you!’ Carla says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The flute player is going to walk away, but the policeman stops him."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘Wait!’ the policeman says. ‘We want to speak to you.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The man wants to run now. ‘I - I’m going home,’ he says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘No, wait,’ the policeman says. He looks at Carla."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘You have the coins,’ Carla says to the flute player."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘No!’ the man says. He starts to run away, but the policeman stops him again."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘How did he do it?’ Pete asks Carla."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘It was the girl in the shop,’ Carla says. ‘We looked at some stamps. Remember? And the shopkeeper was on the telephone in the room at the back.’"
                 }
               ]
             }
@@ -777,7 +1140,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 14 • "
+        "label": "Paragraph 14"
       }
     },
     {
@@ -794,34 +1157,56 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "‘But how did the flute player get the coins?’ the policeman asks."
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "1.1 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
+            },
             {
-              "card": false,
-              "blocks": [
+              "block": [
                 {
-                  "block": [
-                    {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
-                    },
-                    {
-                      "text": "..."
-                    }
-                  ]
+                  "text": "‘Yes,’ Pete says. ‘I don't understand’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘He was outside the window,’ Carla says. ‘The girl went to the window with the coins!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘But there were people in the street,’ Pete says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                "text": "‘Yes, perhaps people watched her,’ Carla says, ‘but the coins went into the flute player’s hat! The coins were valuable, but the people in the street didn't know that.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "‘The girl and the flute player were very clever!’ Pete says. ‘But now they're coming with me to the police station,’ the policeman says."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "He takes the coins from the flute player."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "After some time, a police car arrives. It takes the girl and the flute player to the police station."
                 }
               ]
             }
@@ -832,7 +1217,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 15 • "
+        "label": "Paragraph 15"
       }
     },
     {
@@ -849,7 +1234,21 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "‘Thank you,’ the shopkeeper says to Carla. ‘The coins are valuable. I want to say “thank you”. What can I give you?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Carla smiles. ‘Give Pete the stamps from South America,’ she says. ’Then he can start his stamp-collecting today!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Pete gives her a big smile. ‘Thanks, Carla,’ he says. ‘I love you!’"
                 }
               ]
             }

@@ -85,7 +85,7 @@ class Header extends HTMLElement {
       menuBtn.addEventListener("click", () => {
         const layout = document.querySelector("wc-layout");
         if (layout) {
-          const navBar = layout.shadowRoot.querySelector("wc-navbar");
+          const navBar = layout.shadowRoot.querySelector("wc-nav-bar");
           if (navBar) {
             navBar.classList.toggle("open");
           }
