@@ -1674,7 +1674,7 @@
                   "block": [
                     {
                       "text": "7. Woman: (from?)",
-                      "correctAnswer": ["Where’s she from?"]
+                      "correctAnswer": ["Where is she from?", "Where’s she from?", "Where's she from?"]
                     },
                     {
                       "text": "Man: She’s from Mexico."
