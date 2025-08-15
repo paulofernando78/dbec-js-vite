@@ -21,14 +21,13 @@
       "studentDashboard": {
         "board": {
           "id": "",
-          "title": "Grab your English notebook.",
+          "title": "Notes.",
           "height": "200px"
         },
         "dateCard": {
           "icon": "date",
           "label": "2025",
           "date": [
-            
             {
               "label": "January",
               "month": [
@@ -1001,7 +1000,6 @@
             }
           ]
         }
-        
       }
     }
   ]

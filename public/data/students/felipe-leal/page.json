@@ -21,7 +21,7 @@
       "studentDashboard": {
         "board": {
           "id": "7ff85e08-ce17-4f32-8de9-dc71b123ceca",
-          "title": "Grab your English notebook.",
+          "title": "Notes.",
           "height": "200px"
         },
         "dateCard": {
@@ -239,7 +239,6 @@
             }
           ]
         }
-        
       }
     }
   ]

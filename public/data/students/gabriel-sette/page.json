@@ -21,7 +21,7 @@
       "studentDashboard": {
         "board": {
           "id": "",
-          "title": "Grab your English notebook.",
+          "title": "Notes.",
           "height": "200px"
         },
         "dateCard": {
@@ -61,9 +61,9 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "ROK",
                       "date": "Wed 13",
-                      "classNotes": ""
+                      "classNotes": "Class moved to Fri 15"
                     }
                   ]
                 },
@@ -437,7 +437,6 @@
             }
           ]
         }
-        
       }
     }
   ]
