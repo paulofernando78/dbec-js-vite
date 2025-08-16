@@ -255,34 +255,6 @@
               ]
             }
           ]
-        },
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "xxx: "
-                },
-                {
-                  "text": "... "
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "xxx: "
-                },
-                {
-                  "text": "... "
-                }
-              ]
-            }
-          ]
         }
       ]
     }
