@@ -3,23 +3,27 @@
     "definitions": [
       {
         "word": "brush up",
-        "phonetics": "",
-        "partOfSpeech": "",
-        "enDefinition": "",
-        "ptDefinition": "",
+        "phonetics": "/brʌʃ ʌp/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "To improve your knowledge or skill in something you have learned before but partly forgotten.",
+        "ptDefinition": "Revisar ou aprimorar um conhecimento ou habilidade que já foi aprendida, mas parcialmente esquecida.",
         "examples": [
           {
-            "enExample": "",
-            "ptExample": ""
+            "enExample": "I need to brush up on my Spanish before the trip to Mexico.",
+            "ptExample": "Preciso revisar meu espanhol antes da viagem ao México."
+          },
+          {
+            "enExample": "She took a course to brush up her computer skills.",
+            "ptExample": "Ela fez um curso para aprimorar suas habilidades em informática."
           }
         ],
-        "synonyms": "",
-        "antonyms": "",
-        "seeAlso": "",
+        "synonyms": ["refresh", "revise", "improve", "polish up"],
+        "antonyms": ["forget", "neglect"],
+        "seeAlso": ["brush up on", "review"],
         "notes": [
           {
-            "enNote": "",
-            "ptNote": ""
+            "enNote": "Often used with 'on' to indicate the specific subject, e.g., 'brush up on math'.",
+            "ptNote": "Frequentemente usado com 'on' para indicar o assunto específico, ex.: 'brush up on math' (revisar matemática)."
           }
         ]
       },
