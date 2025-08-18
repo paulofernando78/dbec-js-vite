@@ -16,7 +16,7 @@
       },
       {
         "icon": "time",
-        "description": "00:00"
+        "description": "1:08:40"
       },
       {
         "icon": "flag",
@@ -56,7 +56,7 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/starter/elementary/young-learners-adults/robin-hood/audio.mp3"
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/audio.mp3"
       }
     },
     {
@@ -423,6 +423,11 @@
       ]
     },
     {
+      "iframe": {
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1173.6381217219312!2d-1.0901158429624118!3d53.96236205629493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487931ae9b368abd%3A0x9ce83ffecd20fb22!2sSt%20Mary's%20Abbey!5e0!3m2!1sen!2sbr!4v1755553220837!5m2!1sen!2sbr"
+      }
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 3 • "
@@ -435,21 +440,113 @@
             {
               "block": [
                 {
-                  "boldText": ""
+                  "boldText": "At St, Mary's Abbey"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "At 10 o’clock the next morning, Robin Fitzooth and Lady Marian stood in front of the abbot in St Mary’s Abbey. Lady Marian was some years younger than Robin, and very lovely. She wore a white dress, and her long hair was the colour of the forest trees in autumn."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ""
+                  "textIndent": true,
+                  "text": "The abbot began to speak."
+                }
+              ]
+            },
+            {
+              "block": [
+                {"textIndent": true,
+                  "text": "“Robin of Locksley,” he began “do you...”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {"textIndent": true,
+                  "text": "“Stop!” somebody called from the back of the church. Robin turned. It was the Sheriff of Nottingham. Behind the sheriff were twenty men with bows and arrows."
+                }
+              ]
+            },
+            {
+              "block": [
+                {"textIndent": true,
+                  "text": "“My Lord Abbot,” called the sheriff loudly. “This man has to come with me. He is the robber, Robin Hood!” Then he turned to his men.“Why are you waiting?” he asked. “Take him!”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {"textIndent": true,
+                  "text": "“Yes, I am Robin Hood,” answered Robin, “but you will not take me. Look carefully round the church, Sheriff. Do you not see my men?”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {"textIndent": true,
+                  "text": "The sheriff looked and saw thirty or more tall, strong men."
+                }
+              ]
+            },
+            {
+              "block": [
+                {"textIndent": true,
+                  "text": "The abbot was angry and afraid. “What are you doing?” he shouted. “Will you fight in a church ?”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {"textIndent": true,
+                  "text": "“This man has to come with me,” said the sheriff again. “Give me your sword, Robin Hood, and come quietly. The good abbot does not want you to fight!”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {"textIndent": true,
+                  "text": "Robin walked slowly to the sheriff."
+                }
+              ]
+            },
+            {
+              "block": [
+                {"textIndent": true,
+                  "text": "“Here you are, my Lord,” he said - and hit the sheriff hard on the head with the top of his sword. The sheriff fell back."
+                }
+              ]
+            },
+            {
+              "block": [
+                {"textIndent": true,
+                  "text": "“Outside! Everybody outside!” shouted Robin."
+                }
+              ]
+            },
+            {
+              "block": [
+                {"textIndent": true,
+                  "text": "His men pushed the sheriff’s men back through the church door. A great fight began outside the abbey."
+                }
+              ]
+            },
+            {
+              "block": [
+                {"textIndent": true,
+                  "text": "Robin spoke quickly to Marian."
+                }
+              ]
+            },
+            {
+              "block": [
+                {"textIndent": true,
+                  "text": "“We can fight and win today,” he said. “But now the sheriff knows my name, and I cannot go back to Locksley House. Wait for me, my love. King Richard will come back to England - he will hear about the greedy sheriff and his friends. But now I will be Robin Hood of Sherwood Forest and not Robin of Locksley. I will never hurt a woman, a child or a poor man. But rich and greedy men will be afraid to walk near my forest home!”"
                 }
               ]
             }
@@ -470,21 +567,14 @@
             {
               "block": [
                 {
-                  "boldText": ""
+                  "boldText": "The King’s Deer"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": ""
+                  "text": "..."
                 }
               ]
             }
@@ -512,21 +602,14 @@
             {
               "block": [
                 {
-                  "boldText": ""
+                  "boldText": "Robin Hood Meets Little John"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": ""
+                  "text": "..."
                 }
               ]
             }
@@ -554,21 +637,14 @@
             {
               "block": [
                 {
-                  "boldText": ""
+                  "boldText": "Robin Hood Helps Sir Richard of Lee"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": ""
+                  "text": "..."
                 }
               ]
             }
@@ -588,22 +664,22 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-7.avif",
-              "alt": "Paragraph 7 image"
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-7.avif",
+              "alt": "Chapter 7 image"
             }
           ],
           "blocks": [
             {
               "block": [
                 {
-                  "text": ""
+                  "boldText": "Sir Richard pays the Abbot"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "..."
                 }
               ]
             }
@@ -631,14 +707,14 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "boldText": "Lady Marian and the Sheriff of Nottingham"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "..."
                 }
               ]
             }
@@ -658,7 +734,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-9.avif",
+              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-9.avif",
               "alt": "Paragraph 9 image"
             }
           ],
@@ -666,14 +742,14 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "boldText": "The Sheriff’s Visit"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "..."
                 }
               ]
             }
@@ -693,22 +769,22 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-10.avif",
-              "alt": "Paragraph 10 image"
+              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-10.avif",
+              "alt": "Chapter 10 image"
             }
           ],
           "blocks": [
             {
               "block": [
                 {
-                  "text": ""
+                  "boldText": "Marian Goes to the Sherwood Forest"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "..."
                 }
               ]
             }
@@ -728,22 +804,22 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-11.avif",
-              "alt": "Paragraph 11 image"
+              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-11.avif",
+              "alt": "Chapter 11 image"
             }
           ],
           "blocks": [
             {
               "block": [
                 {
-                  "text": ""
+                  "boldText": "Robin Hood and Friar Tuck"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "..."
                 }
               ]
             }
@@ -763,22 +839,22 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-12.avif",
-              "alt": "Paragraph 12 image"
+              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-12.avif",
+              "alt": "Chapter 12 image"
             }
           ],
           "blocks": [
             {
               "block": [
                 {
-                  "text": ""
+                  "boldText": "The Two Churchmen abd the Bags of Gold"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "..."
                 }
               ]
             }
@@ -798,7 +874,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-13.avif",
+              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-13.avif",
               "alt": "Paragraph 13 image"
             }
           ],
@@ -806,14 +882,14 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "boldText": "Sir Richard of Lee Comes Back to the Forest"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "..."
                 }
               ]
             }
@@ -833,7 +909,7 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-14.avif",
+              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-14.avif",
               "alt": "Paragraph 14 image"
             }
           ],
@@ -841,14 +917,49 @@
             {
               "block": [
                 {
-                  "text": ""
+                  "boldText": "Robin Hood and the Gold Arrow"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ""
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 15 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-15.avif",
+              "alt": "Chapter 15 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "The Tall Friar"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
                 }
               ]
             }
@@ -868,78 +979,22 @@
           "images": [
             {
               "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-15.avif",
-              "alt": "Paragraph 16 image"
+              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-16.avif",
+              "alt": "Chapter 16 image"
             }
           ],
           "blocks": [
             {
               "block": [
                 {
-                  "text": ""
+                  "boldText": "The Last Adventure"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "text": [
-        {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-16.avif",
-              "alt": "Paragraph 16 image"
-            }
-          ],
-          "blocks": [
-            {
-              "block": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "16 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
-            {
-              "card": false,
-              "blocks": [
-                {
-                  "block": [
-                    {
-                      "text": "16.1 ...",
-                      "correctAnswer": ["..."]
-                    },
-                    {
-                      "text": "..."
-                    }
-                  ]
+                  "text": "..."
                 }
               ]
             }
