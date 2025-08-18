@@ -1,0 +1,951 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "descriptions": [
+      {
+        "icon": "audiobooks",
+        "description": "Audiobooks"
+      },
+      {
+        "icon": "pages",
+        "description": "Elementary (A2)"
+      },
+      {
+        "icon": "book",
+        "description": "Robin Hood"
+      },
+      {
+        "icon": "time",
+        "description": "00:00"
+      },
+      {
+        "icon": "flag",
+        "description": "British English"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Summary"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "left",
+              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/cover.avif",
+              "alt": "Cover image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "The story of Robin Hood is very famous. Robin Hood robbed rich people and gave the money to poor people. He loved adventure, and he was the best fighter in England. The greedy Sheriff of Nottingham hated Robin, and the beautiful Lady Marian loved him. His most famous adventures are in this book."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/extras/audiobooks/starter/elementary/young-learners-adults/robin-hood/audio.mp3"
+      }
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 1"
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Robin Fitzooth is Born in Sherwood Forest"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "The Robin Hood stories are very famous. Most people know that Robin lived in Saxon and Norman times. He robbed rich people and gave the money to poor people. But not everybody knows that he came from a rich family. And not many people know that Robin Hood was half-Saxon and half-Norman."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "The story begins with Robin Hood’s Saxon grandfather, Sir* George Gamwell. Gamwell lived near a Norman lord*. This lord wanted to take Gamwell’s house and his lands. The two men fought, and the Norman lord killed Gamwell’s two sons. Gamwell’s wife also died."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "But Sir George also had a young daughter, Joanna."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "“I have no sons,” Gamwell said to Joanna. “So I will teach you to fight with a sword, and with a bow and arrow.”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Five years later, Joanna was nineteen years old and very beautiful. One day, a young man visited Sir George. His name was William Fitzooth, and he was a Norman."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "“Sir George,” he began, “I love your daughter. I hope that she loves me. I would like to marry her. I have money and land..”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "But Sir George was very angry."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "“Never!” he answered. “My daughter will never marry you. Get off my land. Do not come here again or I will kill you!”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Joanna loved this young man. So she tried to talk to her father, but he didn’t want to listen."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "*Sir, Lord, Lady: Important men had the words Sir or Lord before their names; important women had the word Lady."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "“Go to your room!” he shouted. “I do not want to hear that man's name again.”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "That night, William came back to Sir George’s home. He stood under Joanna’s window and called to her. Joanna took some clothes and came quietly out of the house."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "William took her hand. “Will you come with me and marry me?” he asked. “We cannot live in my home because your father’s men will look for you there. So we will live in the green forest.”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "“I am sorry for my father,” Joanna said sadly, “but I love you. I know you are a good man. I will marry you.”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "In the morning, Sir George woke late. He called to his men, “Where is my daughter? I want to speak to her.”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "But Joanna was nowhere in the house."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Sir George was very angry, then very sad."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "“I have no family now,” he thought."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "One fine day in April, a year later, a man came to the house."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "“Your daughter sent me here,” he said. “She wants you to come and see her.”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Sir George followed the man to the middle of Sherwood Forest. There, in the spring sunshine, he saw his daughter. He also saw a baby boy in her arms. Joanna looked up at her father and smiled."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "“This is Robin, your grandson,” she said."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "She gave the baby to her father. Sir George wanted to be angry, but he was very happy with his grandson in his arms."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "“Robin? Is that your name?” he said. “Well, little Robin, I wanted to kill your father but that is not possible now. Please, daughter, come with your husband and live near me. Let’s forget the past.”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "“We will come and live near you, father,” said Joanna. “But I will often bring my son to the forest. I will teach him to find his way in the forest in the day and at night. He will learn to make arrows for his bow, and to catch forest animals. He will make a ire and cook the meat. The forest will always be his second home.”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 2 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "The Sheriff of Nottingham Finds Robin Hood"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "Robin's grandfather died, then his mother and father. After twenty-five years, Robin was lord of Gamwell and Locksley, and lived in his father’s home, Locksley House."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The village people liked Robin Fitzooth."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "“He is a good man,” they said. “No man, woman or child is hungry on Robin of Locksley's lands.”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Not all lords were so kind. The worst person was the greedy Sheriff of Nottingham. The sheriff took everything from the villagers, and often these poor people were very hungry. Robin listened carefully to the stories about the sheriff. He sent food and clothes to the poorest families."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "At about this time, people began to tell stories about a robber. They called him Robin Hood."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "“The sheriff is a hard man,” they said. “He and his rich friends take everything from us. But now brave Robin Hood and his men rob rich people and give their money to poor villagers!”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "In those days, the Great North Road went through Sherwood Forest. Robin Hood’s men often stopped rich men in the forest, and took their money. Sometimes Prince John’s men also used the road. So Robin Hood robbed him too."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "“The forest is on your land,” said Prince John to the sheriff. “Why don’t you catch and kill this robber?”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "“It is not so easy,” answered the sheriff. “The village people don’t want to tell me much. They say only that the robbers live in or near Sherwood Forest. But they know more than they say. I have a plan to learn more about this man Robin Hood.”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "“What is your plan?” asked the prince."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "“It is this,” answered the sheriff. “Robin of Locksley lives near Sherwood Forest. Tonight there is going to be a great party at Locksley House. I know that Fitzooth will invite the village people on his land. So I will send one of my men. He can wear village clothes and ask questions about ‘good’ Robin Hood, ‘the people’s friend’. When I know more about this Robin, I can catch him.”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "That evening, there were a lot of people at Locksley House. There was food and drink for the villagers, and there was dancing and singing. Everybody was very happy. And Robin was the happiest person there, because he and the lovely Lady Marian Fitzwalter planned to marry the next day."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The sheriff’s man turned to a villager next to him."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "“I often hear the name Robin Hood,” he said. “Who is he? Does he live near here ?”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The man laughed. “Don’t you know, friend? Robin Fitzooth is Robin Hood!”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The sheriff’s man quickly left Locksley House and went to his lord."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "“This is better than I hoped,” said the sheriff. “Tomorrow, Robin Fitzooth will marry Lady Marian at St Mary’s Abbey. But my men will stop him and bring him to me. Prince John will kill him and give me Fitzooth’s money and lands. Lady Marian’s family is also rich. She will not marry Robin, so perhaps I will marry her. Yes, tomorrow will be a great day for me!”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 3 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 4 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 5 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-5.avif",
+              "alt": "Paragraph 5 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 6 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-6.avif",
+              "alt": "Paragraph 6 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 7 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-7.avif",
+              "alt": "Paragraph 7 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 8 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-8.avif",
+              "alt": "Paragraph 8 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 9 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-9.avif",
+              "alt": "Paragraph 9 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 10 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-10.avif",
+              "alt": "Paragraph 10 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 11 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-11.avif",
+              "alt": "Paragraph 11 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 12 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-12.avif",
+              "alt": "Paragraph 12 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 13 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-13.avif",
+              "alt": "Paragraph 13 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 14 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-14.avif",
+              "alt": "Paragraph 14 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 16 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-15.avif",
+              "alt": "Paragraph 16 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-16.avif",
+              "alt": "Paragraph 16 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "16 Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "16.1 ...",
+                      "correctAnswer": ["..."]
+                    },
+                    {
+                      "text": "..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

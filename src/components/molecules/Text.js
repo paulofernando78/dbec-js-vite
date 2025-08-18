@@ -130,6 +130,10 @@ class Text extends HTMLElement {
       const blockElement = document.createElement("p");
 
       item.block.forEach((subItem) => {
+        if (subItem.textIndent) {
+          blockElement.style.textIndent = "1rem"
+        }
+        
         if (subItem.boldText) {
           const boldText = document.createElement("b");
           boldText.textContent = subItem.boldText;

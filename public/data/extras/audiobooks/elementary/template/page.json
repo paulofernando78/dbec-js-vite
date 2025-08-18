@@ -1,0 +1,640 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "descriptions": [
+      {
+        "icon": "audiobooks",
+        "description": "Audiobooks"
+      },
+      {
+        "icon": "pages",
+        "description": "Elementary (A2)"
+      },
+      {
+        "icon": "book",
+        "description": "..."
+      },
+      {
+        "icon": "time",
+        "description": "00:00"
+      },
+      {
+        "icon": "flag",
+        "description": "..."
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Summary"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "left",
+              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/.../cover.avif",
+              "alt": "Cover image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/extras/audiobooks/starter/elementary/young-learners-adults/robin-hood/audio.mp3"
+      }
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 1"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-1.avif",
+              "alt": "Chapter 1 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 2 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-2.avif",
+              "alt": "Chapter 2 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 3 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-3.avif",
+              "alt": "Chapter 3 image"
+            }
+          ],
+          
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 4 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-4.avif",
+              "alt": "Chapter 4 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 5 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-5.avif",
+              "alt": "Chapter 5 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 6 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-6.avif",
+              "alt": "Chapter 6 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 7 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-7.avif",
+              "alt": "Chapter 7 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 8 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-8.avif",
+              "alt": "Chapter 8 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 9 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-9.avif",
+              "alt": "Chapter 9 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 10 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-10.avif",
+              "alt": "Chapter 10 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 11 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-11.avif",
+              "alt": "Chapter 11 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 12 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-12.avif",
+              "alt": "Chapter 12 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 13 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-13.avif",
+              "alt": "Chapter 13 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 14 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-14.avif",
+              "alt": "Chapter 14 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 15 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-15.avif",
+              "alt": "Chapter 15 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 16 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-16.avif",
+              "alt": "Chapter 16 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
