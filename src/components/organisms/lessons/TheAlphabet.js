@@ -47,7 +47,7 @@ class TheAlphabet extends HTMLElement {
     this.shadowRoot.appendChild(css);
 
     const title = document.createElement("span");
-    title.textContent = "The Alphabet";
+    title.textContent = "The Alphabet (click on the letter to hear the sound).";
     title.classList.add("title")
     this.shadowRoot.appendChild(title);
 
@@ -90,7 +90,7 @@ class TheAlphabet extends HTMLElement {
         number: "6",
         letter: "F",
         phonetics: "/ef/",
-        audio: "/assets/audio/alphabet/ef.mp3"
+        audio: "/assets/audio/alphabet/f.mp3"
       },
       {
         number: "7",
