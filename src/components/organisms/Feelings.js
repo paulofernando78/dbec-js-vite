@@ -187,6 +187,8 @@ class Feelings extends HTMLElement {
       // emojiName.classList.add("emoji-name")
       emojiName.textContent = emoji.word;
       gifCard.appendChild(emojiName);
+
+      gifCard
     });
   }
 }
