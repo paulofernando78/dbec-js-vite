@@ -243,7 +243,7 @@ class TheAlphabet extends HTMLElement {
     });
 
     const vowels = document.createElement("span");
-    vowels.textContent = "Spell them: E, I, A, I, E, A, E, I, A, I";
+    vowels.textContent = "Spell the vowels: E, I, A, I, E, A, E, I, A, I";
     this.shadowRoot.appendChild(vowels);
   }
 }
