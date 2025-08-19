@@ -1,4 +1,4 @@
-import "./components/index";
+import "./components/component-imports";
 
 let header = document.querySelector("wc-header");
 

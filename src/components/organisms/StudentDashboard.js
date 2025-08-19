@@ -21,6 +21,8 @@ class StudentDashboard extends HTMLElement {
       label: "Board",
     };
 
+    const theAlphabet = document.createElement("wc-the-alphabet")
+
     const board = document.createElement("wc-board")
     board.data = dashboard.board
 
@@ -34,7 +36,7 @@ class StudentDashboard extends HTMLElement {
     const dateCard = document.createElement("wc-date-card");
     dateCard.data = dashboard.dateCard;
 
-    this.shadowRoot.append(feelings, boardTitle, board,  ribbonDate, dateCard);
+    this.shadowRoot.append(feelings, boardTitle, theAlphabet, board, ribbonDate, dateCard);
   }
 }
 
