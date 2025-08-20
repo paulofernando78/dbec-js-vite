@@ -2,6 +2,84 @@
   {
     "definitions": [
       {
+        "word": "manage",
+        "phonetics": "/ˈmænɪdʒ/",
+        "partOfSpeech": "verb",
+        "enDefinition": "To be in charge of or control something; to succeed in doing something, especially something difficult.",
+        "ptDefinition": "Estar no comando ou controlar algo; conseguir fazer algo, especialmente algo difícil.",
+        "examples": [
+          {
+            "enExample": "She manages a team of ten people at the company.",
+            "ptExample": "Ela gerencia uma equipe de dez pessoas na empresa."
+          },
+          {
+            "enExample": "He managed to finish the project on time despite the challenges.",
+            "ptExample": "Ele conseguiu terminar o projeto no prazo apesar dos desafios."
+          }
+        ],
+        "synonyms": "administer, handle, supervise, succeed",
+        "antonyms": "fail, mismanage, neglect",
+        "seeAlso": "management, manager",
+        "notes": [
+          {
+            "enNote": "‘Manage’ can mean both controlling or directing (e.g., managing a company) and succeeding in doing something difficult (e.g., managing to finish on time).",
+            "ptNote": "‘Manage’ pode significar tanto controlar ou dirigir (ex.: gerenciar uma empresa) quanto conseguir fazer algo difícil (ex.: conseguir terminar a tempo)."
+          }
+        ]
+      },
+      {
+        "word": "manager",
+        "phonetics": "/ˈmænɪdʒər/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A person responsible for controlling or organizing part of a company, business, or team.",
+        "ptDefinition": "Pessoa responsável por controlar ou organizar parte de uma empresa, negócio ou equipe.",
+        "examples": [
+          {
+            "enExample": "She works as a project manager in a technology company.",
+            "ptExample": "Ela trabalha como gerente de projetos em uma empresa de tecnologia."
+          },
+          {
+            "enExample": "The team’s manager motivated everyone to reach the sales target.",
+            "ptExample": "O gerente da equipe motivou todos a alcançar a meta de vendas."
+          }
+        ],
+        "synonyms": "administrator, director, supervisor, leader",
+        "antonyms": "employee, worker, subordinate",
+        "seeAlso": "manage, management",
+        "notes": [
+          {
+            "enNote": "‘Manager’ is a common business term. It can refer to different roles, such as project manager, general manager, or team manager.",
+            "ptNote": "‘Manager’ é um termo comum em negócios. Pode se referir a diferentes cargos, como gerente de projetos, gerente geral ou gerente de equipe."
+          }
+        ]
+      },
+      {
+        "word": "management",
+        "phonetics": "/ˈmænɪdʒmənt/",
+        "partOfSpeech": "noun",
+        "enDefinition": "The act or process of organizing, controlling, or supervising people or resources; the group of people who run a company or organization.",
+        "ptDefinition": "O ato ou processo de organizar, controlar ou supervisionar pessoas ou recursos; também pode se referir ao grupo de pessoas que dirige uma empresa ou organização.",
+        "examples": [
+          {
+            "enExample": "Good time management is essential for productivity.",
+            "ptExample": "Uma boa gestão do tempo é essencial para a produtividade."
+          },
+          {
+            "enExample": "The management decided to invest in new technology.",
+            "ptExample": "A administração decidiu investir em nova tecnologia."
+          }
+        ],
+        "synonyms": "administration, supervision, organization, leadership",
+        "antonyms": "mismanagement, disorganization",
+        "seeAlso": "manage, manager",
+        "notes": [
+          {
+            "enNote": "‘Management’ can refer to both the process of managing and the people in charge of an organization.",
+            "ptNote": "‘Management’ pode se referir tanto ao processo de gerenciar quanto às pessoas responsáveis por uma organização."
+          }
+        ]
+      },
+      {
         "word": "miss",
         "phonetics": "/mɪs/",
         "partOfSpeech": "regular verb (past: missed / participle: missed)",

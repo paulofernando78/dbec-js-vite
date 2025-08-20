@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "fast",
+        "phonetics": "/fæst/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "Moving quickly or able to move quickly; taking a short time.",
+        "ptDefinition": "Que se move rapidamente ou é capaz de se mover rapidamente; que acontece em pouco tempo.",
+        "examples": [
+          {
+            "enExample": "She is a fast runner and always wins the races.",
+            "ptExample": "Ela é uma corredora rápida e sempre vence as corridas."
+          },
+          {
+            "enExample": "This computer is really fast compared to my old one.",
+            "ptExample": "Este computador é realmente rápido em comparação com o meu antigo."
+          }
+        ],
+        "synonyms": "quick, speedy, rapid, swift",
+        "antonyms": "slow, sluggish",
+        "seeAlso": "quick, rapid",
+        "notes": [
+          {
+            "enNote": "‘Fast’ as an adjective is unrelated to the meaning of ‘fast’ as a noun/verb for ‘jejum’. It usually describes speed or efficiency.",
+            "ptNote": "‘Fast’ como adjetivo não tem relação com o substantivo/verbo ‘fast’ (jejum). Normalmente descreve velocidade ou eficiência."
+          }
+        ]
+      },
+      {
         "word": "fasting",
         "phonetics": "/ˈfæstɪŋ/",
         "partOfSpeech": "noun",
