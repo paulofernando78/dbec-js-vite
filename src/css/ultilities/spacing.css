@@ -1,8 +1,9 @@
 :root {
   --padding: 5px;
   --line-break: 1rem;
-  --margin-top: 1rem;
+  --margin-top: 16px;
   --margin-right: 5px;
+  --margin-bottom: 16px;
   --margin-left: 5px;
 }
 

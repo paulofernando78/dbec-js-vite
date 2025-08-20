@@ -12,6 +12,7 @@ class Ribbon extends HTMLElement {
     const css = document.createElement("style"); /*css */
     css.textContent = `
       div {
+        padding: 3.5px;
         display: flex;
         align-items: center;
         gap: 6px;
@@ -26,8 +27,6 @@ class Ribbon extends HTMLElement {
 
   set data(ribbon) {
     const container = document.createElement("div");
-    container.style.padding = "2px 6px 2px 2px";
-
     this.shadowRoot.append(container);
 
     container.style.backgroundColor = ribbon.bgColor || "#000";

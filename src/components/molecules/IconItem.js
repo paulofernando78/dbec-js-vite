@@ -55,8 +55,6 @@ class IconItem extends HTMLElement {
       textElement = anchor;
     } else {
       const desc = document.createElement("span");
-      desc.style.position = "relative"
-      desc.style.top = "2px"
       desc.textContent = label;
       // desc.classList.add("link-shifted");
       textElement = desc;

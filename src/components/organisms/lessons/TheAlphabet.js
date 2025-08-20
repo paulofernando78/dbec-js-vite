@@ -1,21 +1,25 @@
+import cssImportsPath from "/src/css/imports.css?inline";
+
 class TheAlphabet extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    const cssImports = document.createElement("link");
-    cssImports.rel = "stylesheet";
-    cssImports.href = "/src/css/imports.css";
+    const cssImports = document.createElement("style");
+    cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
 
     /*css*/
     const css = document.createElement("style");
     css.textContent = `
-    
-      .title {
-        font-weight: bold;
+      .ribbon {
         display: block;
-        margin-top: 16px
+        margin-bottom: var(--margin-bottom)
+      }
+
+      .title {
+        display: block;
+        margin-bottom: var(--margin-bottom)
       }
     
       .letter-container {
@@ -48,15 +52,15 @@ class TheAlphabet extends HTMLElement {
     this.shadowRoot.appendChild(css);
 
     const ribbon = document.createElement("wc-ribbon");
-    // ribbon.classList.add("ribbon")
+    ribbon.classList.add("ribbon")
     ribbon.data = {
       icon: "board",
-      label: "The Alphabet"
-    }
+      label: "The Alphabet",
+    };
     this.shadowRoot.appendChild(ribbon);
 
     const title = document.createElement("span");
-    title.textContent = "Click on the letter to hear the sound).";
+    title.textContent = "Click on / Tap the letter to hear the sound.";
     title.classList.add("title");
     this.shadowRoot.appendChild(title);
 
