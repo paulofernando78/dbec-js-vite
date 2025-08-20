@@ -2,6 +2,28 @@
   {
     "definitions": [
       {
+        "word": "greedy",
+        "phonetics": "/ˈɡriːdi/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "Having or showing a selfish desire for wealth, possessions, or more than one needs or deserves.",
+        "ptDefinition": "Ter ou demonstrar um desejo egoísta por riqueza, posses ou mais do que se necessita ou merece.",
+        "examples": [
+          {
+            "enExample": "The greedy businessman exploited his employees for profit.",
+            "ptExample": "O empresário ganancioso explorou seus funcionários para obter lucro."
+          }
+        ],
+        "synonyms": "avaricious, grasping, covetous, acquisitive, eager, rapacious, selfish, desirous",
+        "antonyms": "generous, altruistic",
+        "seeAlso": "selfish, covetous, rapacious",
+        "notes": [
+          {
+            "enNote": "The word 'greedy' emphasizes an excessive desire for more than is needed or deserved.",
+            "ptNote": "A palavra 'ganancioso' enfatiza um desejo excessivo por mais do que se precisa ou merece."
+          }
+        ]
+      },
+      {
         "word": "game changer",
         "partOfSpeech": "idiom",
         "enDefinition": "something that significantly changes the outcome, situation, or way something is done",

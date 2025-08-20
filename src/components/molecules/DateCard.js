@@ -94,7 +94,7 @@ class DateCard extends HTMLElement {
     const reference = [
       {
         status: "OK",
-        color: "var(--green-6)"
+        color: "var(--green-5)"
       },
       {
         status: "SC (Student Canceled)",
@@ -106,7 +106,7 @@ class DateCard extends HTMLElement {
       },
       {
         status: "R (Replace)",
-        color: "var(--yellow-4)"
+        color: "var(--blue-4)"
       },
       {
         status: "ROK (Replacement OK)",
@@ -205,7 +205,7 @@ class DateCard extends HTMLElement {
                 OK: "var(--green-5)",
                 SC: "var(--red-4)",
                 TC: "var(--red-4)",
-                R: "var(--yellow-4)",
+                R: "var(--blue-4)",
                 ROK: "var(--green-6)",
                 H: "var(--violet-4)",
                 V: "var(--violet-5)",

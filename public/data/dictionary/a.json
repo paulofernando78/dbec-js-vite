@@ -2,6 +2,28 @@
   {
     "definitions": [
       {
+        "word": "abbot",
+        "phonetics": "/ˈæbət/",
+        "partOfSpeech": "noun",
+        "enDefinition": "The head of a monastery for men, responsible for overseeing the monks and managing the community.",
+        "ptDefinition": "O superior de um mosteiro masculino, responsável por supervisionar os monges e administrar a comunidade.",
+        "examples": [
+          {
+            "enExample": "The abbot of the monastery led the morning prayers.",
+            "ptExample": "O abade do mosteiro conduziu as orações matinais."
+          }
+        ],
+        "synonyms": "prior, monk, father, superior",
+        "antonyms": "layman, secular person",
+        "seeAlso": "monastery, monk, prior",
+        "notes": [
+          {
+            "enNote": "The word 'abbot' comes from the Aramaic 'abba', meaning 'father'.",
+            "ptNote": "A palavra 'abade' vem do aramaico 'abba', que significa 'pai'."
+          }
+        ]
+      },
+      {
         "word": "accomplish",
         "phonetics": "/əˈkʌmplɪʃ/",
         "partOfSpeech": "verb",
