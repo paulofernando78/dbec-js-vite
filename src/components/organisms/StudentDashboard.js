@@ -15,13 +15,13 @@ class StudentDashboard extends HTMLElement {
 
     const feelings = document.createElement("wc-feelings");
 
+    const theAlphabet = document.createElement("wc-the-alphabet")
+
     const boardTitle = document.createElement("wc-ribbon");
     boardTitle.data = {
       icon: "board",
       label: "Board",
     };
-
-    const theAlphabet = document.createElement("wc-the-alphabet")
 
     const board = document.createElement("wc-board")
     board.data = dashboard.board
@@ -36,7 +36,7 @@ class StudentDashboard extends HTMLElement {
     const dateCard = document.createElement("wc-date-card");
     dateCard.data = dashboard.dateCard;
 
-    this.shadowRoot.append(feelings, boardTitle, theAlphabet, board, ribbonDate, dateCard);
+    this.shadowRoot.append(feelings, theAlphabet, boardTitle, board, ribbonDate, dateCard);
   }
 }
 

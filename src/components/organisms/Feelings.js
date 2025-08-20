@@ -50,7 +50,8 @@ class Feelings extends HTMLElement {
         align-items: center;
         width: 100%;
         height: max-content;
-        padding-bottom: 5px
+        padding-bottom: 5px;
+        cursor: pointer
       }
 
       .emoji-img {
@@ -67,20 +68,21 @@ class Feelings extends HTMLElement {
     container.classList.add("line-break");
     this.shadowRoot.appendChild(container);
 
-    const texts = [
-      {
-        item: "Welcome to the Daily Basis English Course. Here you'll find a lot of interesting materials. Use it wisely.",
-      },
-      {
-        item: "How are you feeling today? I'm... / I'm feeling...",
-      },
-    ];
+    const welcomeAudio = document.createElement("wc-audio-player");
+    welcomeAudio.data = { src: "/assets/audio/welcome.mp3" };
+    container.appendChild(welcomeAudio);
 
-    texts.forEach((text) => {
-      const welcome = document.createElement("p");
-      welcome.textContent = text.item;
-      container.appendChild(welcome);
-    });
+    const welcome = document.createElement("p");
+    welcome.textContent = "Welcome to the Daily Basis English Course. Here you'll find a lot of interesting materials. Use it wisely.";
+    container.appendChild(welcome);
+
+    const feelingAudio = document.createElement("wc-audio-player");
+    feelingAudio.data = { src: "/assets/audio/how-you-feeling.mp3" };
+    container.appendChild(feelingAudio);
+
+    const howYouFeeling = document.createElement("p");
+    howYouFeeling.textContent = "How are you feeling today? I'm feeling pretty good. Thanks for asking.";
+    container.appendChild(howYouFeeling);
 
     const gifsContainer = document.createElement("div");
     gifsContainer.classList.add("gifs-container");
@@ -90,86 +92,107 @@ class Feelings extends HTMLElement {
       {
         img: GifGood,
         word: "good",
+        audio: "/assets/audio/dictionary/good.mp3",
       },
       {
         img: GifHappy,
         word: "happy",
+        audio: "/assets/audio/dictionary/happy.mp3",
       },
       {
         img: GifSad,
         word: "sad",
+        audio: "/assets/audio/dictionary/sad.mp3",
       },
       {
         img: GifAngry,
         word: "angry",
+        audio: "/assets/audio/dictionary/angry.mp3",
       },
       {
         img: GifAnnoyed,
         word: "annoyed",
+        audio: "/assets/audio/dictionary/annoyed.mp3",
       },
       {
         img: GifCalm,
         word: "calm",
+        audio: "/assets/audio/dictionary/calm.mp3",
       },
       {
         img: GifCrazy,
         word: "crazy",
+        audio: "/assets/audio/dictionary/crazy.mp3",
       },
       {
         img: GifTired,
         word: "tired",
+        audio: "/assets/audio/dictionary/tired.mp3",
       },
       {
         img: GifAnxious,
         word: "anxious",
+        audio: "/assets/audio/dictionary/anxious.mp3",
       },
       {
         img: GifBored,
         word: "bored",
+        audio: "/assets/audio/dictionary/bored.mp3",
       },
       {
         img: GifSilly,
         word: "silly",
+        audio: "/assets/audio/dictionary/silly.mp3",
       },
       {
         img: GifScared,
         word: "scared",
+        audio: "/assets/audio/dictionary/scared.mp3",
       },
       {
         img: GifThoughtful,
         word: "thoughtful",
+        audio: "/assets/audio/dictionary/thoughtful.mp3",
       },
       {
         img: GifFrustrated,
         word: "frustrated",
+        audio: "/assets/audio/dictionary/frustrated.mp3",
       },
       {
         img: GifDisappointed,
         word: "disappointed",
+        audio: "/assets/audio/dictionary/disappointed-2.mp3",
       },
       {
         img: GifEmbarrassed,
         word: "embarrassed",
+        audio: "/assets/audio/dictionary/embarrassed.mp3",
       },
       {
         img: GifSleepy,
         word: "sleepy",
+        audio: "/assets/audio/dictionary/sleepy.mp3",
       },
       {
         img: GifPeaceful,
         word: "peaceful",
+        audio: "/assets/audio/dictionary/peaceful.mp3",
       },
       {
         img: GifSick,
         word: "sick",
+        audio: "/assets/audio/dictionary/sick.mp3",
       },
       {
         img: GifThankful,
         word: "thankful",
+        audio: "/assets/audio/dictionary/thankful.mp3",
       },
       {
         img: GifIDK,
         word: "I don't know",
+        audio: "/assets/audio/dictionary/i-dont-know.mp3",
       },
     ];
 
@@ -188,7 +211,10 @@ class Feelings extends HTMLElement {
       emojiName.textContent = emoji.word;
       gifCard.appendChild(emojiName);
 
-      gifCard
+      gifCard.addEventListener("click", () => {
+        const audio = new Audio(emoji.audio);
+        audio.play();
+      });
     });
   }
 }
