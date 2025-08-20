@@ -2,6 +2,58 @@
   {
     "definitions": [
       {
+        "word": "noisy",
+        "phonetics": "/ˈnɔɪ.zi/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "Making a lot of loud or unpleasant sounds; full of noise.",
+        "ptDefinition": "Que faz muito barulho; cheio de ruído.",
+        "examples": [
+          {
+            "enExample": "The children were very noisy during the party.",
+            "ptExample": "As crianças estavam muito barulhentas durante a festa."
+          },
+          {
+            "enExample": "We moved to the countryside to get away from the noisy city.",
+            "ptExample": "Nós nos mudamos para o interior para fugir da cidade barulhenta."
+          }
+        ],
+        "synonyms": "loud, boisterous, rowdy, clamorous",
+        "antonyms": "quiet, silent, peaceful, calm",
+        "seeAlso": "noise, noiseless, noisily",
+        "notes": [
+          {
+            "enNote": "Often used to describe places, people, or activities that produce a lot of sound.",
+            "ptNote": "Frequentemente usado para descrever lugares, pessoas ou atividades que produzem muito som."
+          }
+        ]
+      },
+      {
+        "word": "noise",
+        "phonetics": "/nɔɪz/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A sound, especially one that is loud, unpleasant, or causes disturbance.",
+        "ptDefinition": "Som, especialmente quando é alto, desagradável ou causa incômodo.",
+        "examples": [
+          {
+            "enExample": "The noise from the construction site kept me awake all night.",
+            "ptExample": "O barulho da obra me manteve acordado a noite toda."
+          },
+          {
+            "enExample": "I can't concentrate with so much noise around me.",
+            "ptExample": "Não consigo me concentrar com tanto barulho ao meu redor."
+          }
+        ],
+        "synonyms": "sound, din, racket, uproar",
+        "antonyms": "silence, quiet, hush",
+        "seeAlso": "noisy, noiseless",
+        "notes": [
+          {
+            "enNote": "In technical contexts, 'noise' can also mean random or unwanted signals that interfere with communication or data.",
+            "ptNote": "Em contextos técnicos, 'noise' também pode significar sinais aleatórios ou indesejados que interferem na comunicação ou nos dados."
+          }
+        ]
+      },
+      {
         "word": "Is there any room to negotiate?",
         "partOfSpeech": "phrase (question)",
         "enDefinition": "a question asked to find out if there is flexibility to adjust terms or conditions",
