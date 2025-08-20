@@ -11,10 +11,11 @@ class TheAlphabet extends HTMLElement {
     /*css*/
     const css = document.createElement("style");
     css.textContent = `
-			.title {
+    
+      .title {
         font-weight: bold;
         display: block;
-        margin-bottom: 16px
+        margin-top: 16px
       }
     
       .letter-container {
@@ -34,7 +35,6 @@ class TheAlphabet extends HTMLElement {
         border-radius: var(--border-radius);
         // box-shadow: var(--box-shadow);
         text-align: center
-
       }
 
       .number {
@@ -47,8 +47,16 @@ class TheAlphabet extends HTMLElement {
 		`;
     this.shadowRoot.appendChild(css);
 
+    const ribbon = document.createElement("wc-ribbon");
+    // ribbon.classList.add("ribbon")
+    ribbon.data = {
+      icon: "board",
+      label: "The Alphabet"
+    }
+    this.shadowRoot.appendChild(ribbon);
+
     const title = document.createElement("span");
-    title.textContent = "The Alphabet (click on the letter to hear the sound).";
+    title.textContent = "Click on the letter to hear the sound).";
     title.classList.add("title");
     this.shadowRoot.appendChild(title);
 

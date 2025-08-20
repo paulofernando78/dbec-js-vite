@@ -84,6 +84,10 @@ class Feelings extends HTMLElement {
     howYouFeeling.textContent = "How are you feeling today? I'm feeling pretty good. Thanks for asking.";
     container.appendChild(howYouFeeling);
 
+    const emoji = document.createElement("p");
+    emoji.textContent = "Click on the emoji to hear the sound.";
+    container.appendChild(emoji);
+
     const gifsContainer = document.createElement("div");
     gifsContainer.classList.add("gifs-container");
     container.appendChild(gifsContainer);

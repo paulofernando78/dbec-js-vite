@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "crave",
+        "phonetics": "/kreɪv/",
+        "partOfSpeech": "verb",
+        "enDefinition": "To have an intense desire or longing for something, often related to food, experiences, or emotions.",
+        "ptDefinition": "Ter um desejo intenso ou uma vontade forte de algo, geralmente relacionado a comida, experiências ou emoções.",
+        "examples": [
+          {
+            "enExample": "After the long hike, she craved a cold glass of water.",
+            "ptExample": "Depois da longa caminhada, ela desejava intensamente um copo de água gelada."
+          },
+          {
+            "enExample": "Many people crave attention and recognition.",
+            "ptExample": "Muitas pessoas anseiam por atenção e reconhecimento."
+          }
+        ],
+        "synonyms": ["desire", "long for", "yearn for", "hunger for", "want"],
+        "antonyms": ["dislike", "reject", "avoid"],
+        "seeAlso": ["desire", "yearn", "lust"],
+        "notes": [
+          {
+            "enNote": "Commonly used in contexts involving strong emotions or physical needs, such as craving food, affection, or excitement.",
+            "ptNote": "Comumente usado em contextos que envolvem fortes emoções ou necessidades físicas, como desejar comida, afeto ou emoção."
+          }
+        ]
+      },
+      {
         "word": "common ground",
         "phonetics": "/ˈkɒmən ɡraʊnd/",
         "partOfSpeech": "noun phrase",
