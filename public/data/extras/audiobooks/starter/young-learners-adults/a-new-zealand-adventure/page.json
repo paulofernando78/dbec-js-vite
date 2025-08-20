@@ -80,7 +80,7 @@
             {
               "block": [
                 {
-                  "text": "Sarah and Jessica are going to New Zealand for a holiday. They are very excited. Jessica is near the window! Look! There's Auckland. “We’re here!” “But we’re late,” Sarah answers. “When’s our bus?” “At one o’clock, “Jessica says. “We can get a taxi from the airport to the bus station.”"
+                  "text": "Sarah and Jessica are going to New Zealand for a holiday. They are very excited. Jessica is near the window! Look!, she says. There's Auckland. “We’re here!” “But we’re late,” Sarah answers. “When’s our bus?” “At one o’clock, “Jessica says. “We can get a taxi from the airport to the bus station.”"
                 }
               ]
             }
@@ -287,7 +287,7 @@
             {
               "block": [
                 {
-                  "text": "The girls wait at Ninety Mile Beach. They eat and watch the buses. The buses aren’t driving on a road—they are driving on the long beach. “Look for Michael!” Jessica says. But Sarah is looking at the sea. Suddlenly Jessica sees him. “He’s on that bus!” she says. She waves. Michael waves to her, but the bus doesn’(t) stop."
+                  "text": "The girls wait at Ninety Mile Beach. They eat and watch the buses. The buses aren’t driving on a road—they are driving on the long beach. “Look for Michael!” Jessica says. But Sarah is looking at the sea. Suddenly Jessica sees him. “He’s on that bus!” she says. She waves. Michael waves to her, but the bus doesn’(t) stop."
                 }
               ]
             }
@@ -496,6 +496,17 @@
                     },
                     {
                       "text": "."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "7.2 Jessica",
+                      "correctAnswer": ["runs"]
+                    },
+                    {
+                      "text": "after Michael."
                     }
                   ]
                 }
