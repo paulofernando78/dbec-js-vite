@@ -81,7 +81,7 @@ class Feelings extends HTMLElement {
     container.appendChild(feelingAudio);
 
     const howYouFeeling = document.createElement("p");
-    howYouFeeling.textContent = "How are you feeling today? I'm feeling pretty good. Thanks for asking.";
+    howYouFeeling.textContent = "Hey, how are you feeling today? I'm feeling pretty good. Thanks for asking.";
     container.appendChild(howYouFeeling);
 
     const emoji = document.createElement("p");
