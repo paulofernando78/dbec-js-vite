@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "fasting",
+        "phonetics": "/ˈfæstɪŋ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "The act or practice of abstaining from food, especially for religious or health reasons.",
+        "ptDefinition": "O ato ou prática de abster-se de alimentos, especialmente por razões religiosas ou de saúde.",
+        "examples": [
+          {
+            "enExample": "Intermittent fasting has become popular for weight management.",
+            "ptExample": "O jejum intermitente se tornou popular para o controle de peso."
+          },
+          {
+            "enExample": "Fasting is an important part of many religious traditions.",
+            "ptExample": "O jejum é uma parte importante de muitas tradições religiosas."
+          }
+        ],
+        "synonyms": "abstinence, fast",
+        "antonyms": "feasting, eating",
+        "seeAlso": "intermittent fasting, Ramadan",
+        "notes": [
+          {
+            "enNote": "‘Fasting’ is often used in medical and nutritional contexts, as well as in religious practices.",
+            "ptNote": "‘Fasting’ é frequentemente usado em contextos médicos e nutricionais, além de práticas religiosas."
+          }
+        ]
+      },
+      {
         "word": "fast",
         "phonetics": "/fæst/",
         "partOfSpeech": "noun / verb",
