@@ -13,9 +13,9 @@ class Note extends HTMLElement {
   set data(note) {
     this.textArea = document.createElement("textarea");
     this.textArea.style.width = "100%";
-    this.textArea.style.height = note.height || "29px";
     this.textArea.style.borderRadius = "var(--border-radius)";
     this.textArea.style.padding = "var(--padding)";
+    this.textArea.style.height = note.height || "29px";
     this.textArea.placeholder = note.placeholder;
     this.textArea.value = note.value || "";
 

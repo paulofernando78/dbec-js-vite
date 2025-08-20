@@ -13,9 +13,6 @@ class Ribbon extends HTMLElement {
     css.textContent = `
       div {
         padding: 3.5px;
-        display: flex;
-        align-items: center;
-        gap: 6px;
         border: var(--border);
         border-radius: 5px;
         font-weight: bold;

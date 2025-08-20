@@ -12,21 +12,10 @@ class TheAlphabet extends HTMLElement {
     /*css*/
     const css = document.createElement("style");
     css.textContent = `
-      .ribbon {
-        display: block;
-        margin-bottom: var(--margin-bottom)
-      }
-
-      .title {
-        display: block;
-        margin-bottom: var(--margin-bottom)
-      }
-    
       .letter-container {
         display: flex;
         flex-wrap: wrap;
         gap: 8px;
-        margin-bottom: 16px
       }
 
       .letter-wrapper {
@@ -35,9 +24,8 @@ class TheAlphabet extends HTMLElement {
         display: flex;
         flex-direction: column;
         gap: 5px;
-        border: 1px solid var(--gray-3); 
+        border: var(--border); 
         border-radius: var(--border-radius);
-        // box-shadow: var(--box-shadow);
         text-align: center
       }
 
@@ -48,11 +36,26 @@ class TheAlphabet extends HTMLElement {
       .letter {
         font-weight: bold
       }
+
+      .tip-container {
+        padding: var(--padding);
+        border: var(--border);
+        border-radius: var(--border-radius);
+        width: max-content
+      }
+
+      .bullet {
+        font-weight: bold;
+      }
 		`;
     this.shadowRoot.appendChild(css);
 
+    const container = document.createElement("div");
+    container.classList.add("line-break");
+    this.shadowRoot.appendChild(container);
+
     const ribbon = document.createElement("wc-ribbon");
-    ribbon.classList.add("ribbon")
+    ribbon.classList.add("ribbon");
     ribbon.data = {
       icon: "board",
       label: "The Alphabet",
@@ -254,9 +257,39 @@ class TheAlphabet extends HTMLElement {
       letterWrapper.appendChild(phonetics);
     });
 
-    const vowels = document.createElement("span");
-    vowels.textContent = "Spell the vowels: E, I, A, I, E, A, E, I, A, I";
-    this.shadowRoot.appendChild(vowels);
+    const tips = [
+      {
+        tip: "Spell the vowels: E, I, A, I, E, A, E, I, A, I",
+      },
+      {
+        tip: "“Z” in British is pronounced /zed/",
+      },
+      {
+        tip: "“U” has the same sound as in “you”",
+      },
+      {
+        tip: "“T” has the same sound as in “tea”",
+      },
+    ];
+
+    const tipContainer = document.createElement("div");
+    tipContainer.classList.add("tip-container");
+
+    tips.forEach((item) => {
+      const tip = document.createElement("p");
+      
+      const bullet = document.createElement("span");
+      bullet.textContent = "• ";
+      bullet.classList.add("bullet")
+      tip.appendChild(bullet)
+
+      const text = document.createTextNode(item.tip)
+      tip.appendChild(text)
+
+      tipContainer.appendChild(tip);
+    });
+
+    container.append(ribbon, title, letterContainer, tipContainer);
   }
 }
 
