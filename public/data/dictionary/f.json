@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "fast",
+        "phonetics": "/fæst/",
+        "partOfSpeech": "noun / verb",
+        "enDefinition": "A period of not eating food, especially for religious or health reasons. As a verb, it means to abstain from food for a certain period of time.",
+        "ptDefinition": "Período em que não se come, especialmente por razões religiosas ou de saúde. Como verbo, significa abster-se de comer por um determinado período de tempo.",
+        "examples": [
+          {
+            "enExample": "During Ramadan, Muslims observe a daily fast from sunrise to sunset.",
+            "ptExample": "Durante o Ramadã, os muçulmanos observam um jejum diário do nascer ao pôr do sol."
+          },
+          {
+            "enExample": "He decided to fast for 24 hours as part of a health cleanse.",
+            "ptExample": "Ele decidiu fazer um jejum de 24 horas como parte de uma limpeza de saúde."
+          }
+        ],
+        "synonyms": "abstinence, self-denial",
+        "antonyms": "feast, eating",
+        "seeAlso": "intermittent fasting, hunger strike",
+        "notes": [
+          {
+            "enNote": "‘Fast’ can be both a noun and a verb. It is often used in religious, spiritual, or health-related contexts.",
+            "ptNote": "‘Fast’ pode ser tanto substantivo quanto verbo. É frequentemente usado em contextos religiosos, espirituais ou relacionados à saúde."
+          }
+        ]
+      },
+      {
         "word": "flabbergasted",
         "phonetics": "/ˈflæb.ə.ɡɑː.stɪd/",
         "partOfSpeech": "adjective",
