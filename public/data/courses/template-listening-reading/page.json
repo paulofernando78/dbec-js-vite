@@ -1,0 +1,134 @@
+{
+  "whiteboard": {
+    "title": "Courses",
+    "descriptions": [
+      { "icon": "book", "description": "Template" },
+      { "icon": "page", "description": "Listening / Reading" },
+      {
+        "icon": "classwork",
+        "description": "..."
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
+        "label": "Introduction"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": ""
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "images": [
+        {
+          "width": "50%",
+          "src": "",
+          "alt": "..."
+        }
+      ]
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": ""
+      }
+    },
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
+        "label": "Gist Task"
+      }
+    },
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
+        "label": "Detailed Task"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "image": [
+            {
+              "width": "50%",
+              "position": "",
+              "src": "",
+              "alt": "..."
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                },
+                {
+                  "phonetics": ""
+                },
+                {
+                  "partOfSpeech": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "markedText": ""
+                },
+                {
+                  "ptBoldText": ""
+                },
+                {
+                  "ptText": ""
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "",
+                      "link": "",
+                      "label": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
+        "label": "Productive Task"
+      }
+    }
+  ]
+}

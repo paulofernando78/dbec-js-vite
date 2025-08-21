@@ -1,0 +1,114 @@
+{
+  "whiteboard": {
+    "title": "Courses",
+    "descriptions": [
+      { "icon": "book", "description": "Template" },
+      { "icon": "page", "description": "Grammar / Vocabulário" },
+      {
+        "icon": "classwork",
+        "description": "..."
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
+        "label": "Introduction"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": ""
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "images": [
+        {
+          "width": "50%",
+          "src": "",
+          "alt": "..."
+        }
+      ]
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": ""
+      }
+    },
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
+        "label": "Presentation"
+      }
+    },
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
+        "label": "Practice"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "image": [
+            {
+              "width": "50%",
+              "position": "",
+              "src": "",
+              "alt": "..."
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "gap-fill, matching repetition, drilling"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "gap-fill, matching repetition, drilling"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
+        "label": "Production"
+      }
+    }
+  ]
+}

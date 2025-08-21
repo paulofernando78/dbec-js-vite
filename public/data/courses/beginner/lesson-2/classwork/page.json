@@ -20,6 +20,27 @@
       }
     },
     {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/courses/beginner/lesson-2/ElevenLabs_2025-08-21T17_49_13_Rachel_pre_sp77_s50_sb75_se0_b_m2.mp3"
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Look at the picture. A man and a woman are shaking hands. Now listen to the dialogue."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "images": [
         {
           "width": "50%",
@@ -29,13 +50,81 @@
       ]
     },
     {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/courses/beginner/lesson-2/IC5_L0_Unit 01 Pg 002 Ex 01 Conversation Pt A (mp3cut.net).mp3"
+      }
+    },
+    {
       "text": [
         {
+          "card": false,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Under construction..."
+                  "boldText": "Listen and Practice."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Joshua: "
+                },
+                {
+                  "text":	"Hello. My name is Joshua Brown."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Isabella: "
+                },
+                {
+                  "text":	"Hi. My name is Isabella Martins."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Joshua: "
+                },
+                {
+                  "text":	"It’s nice to meet you, Isabella."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Isabella: "
+                },
+                {
+                  "text":	"Nice to mett you, too."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Joshua: "
+                },
+                {
+                  "text":	"I’m sorry. What's your last name again?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Isabella: "
+                },
+                {
+                  "text":	"It’s Martins."
                 }
               ]
             }
