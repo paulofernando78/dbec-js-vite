@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "starch",
+        "phonetics": "/stɑːrtʃ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A white, tasteless, solid carbohydrate found in foods like potatoes, rice, and wheat, used as an energy source or for thickening liquids.",
+        "ptDefinition": "Um carboidrato branco e insípido encontrado em alimentos como batatas, arroz e trigo, usado como fonte de energia ou para engrossar líquidos.",
+        "examples": [
+          {
+            "enExample": "Rice and potatoes are rich sources of starch.",
+            "ptExample": "Arroz e batatas são fontes ricas de amido."
+          },
+          {
+            "enExample": "Cornstarch is often used to thicken sauces.",
+            "ptExample": "O amido de milho é frequentemente usado para engrossar molhos."
+          }
+        ],
+        "synonyms": "carbohydrate, glucose polymer",
+        "antonyms": "protein, fat",
+        "seeAlso": "starchy, carbohydrate",
+        "notes": [
+          {
+            "enNote": "‘Starch’ can also refer to a substance used in laundry to stiffen fabrics.",
+            "ptNote": "‘Amido’ também pode se referir a uma substância usada na lavanderia para endurecer tecidos."
+          }
+        ]
+      },
+      {
         "word": "suffragette",
         "phonetics": "/ˌsʌ.frəˈdʒet/",
         "partOfSpeech": "noun",

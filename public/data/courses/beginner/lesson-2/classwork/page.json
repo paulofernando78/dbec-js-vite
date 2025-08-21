@@ -12,6 +12,23 @@
   },
   "contents": [
     {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
+        "label": "Introduction"
+      }
+    },
+    {
+      "images": [
+        {
+          "width": "50%",
+          "src": "/assets/images/general/man-woman-shaking-hands.avif",
+          "alt": "A man and a woman shaking hands"
+        }
+      ]
+    },
+    {
       "text": [
         {
           "blocks": [
