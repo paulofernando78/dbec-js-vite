@@ -16,6 +16,56 @@
         "bgColor": "black",
         "textColor": "white",
         "icon": "snippet",
+        "label": "Warm-Up"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "image": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/general/",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                },
+                {
+                  "phonetics": ""
+                },
+                {
+                  "partOfSpeech": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "markedText": ""
+                },
+                {
+                  "ptBoldText": ""
+                },
+                {
+                  "ptText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
         "label": "Introduction"
       }
     },
@@ -65,6 +115,183 @@
     },
     {
       "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "Meaning"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "image": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/general/",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                },
+                {
+                  "phonetics": ""
+                },
+                {
+                  "partOfSpeech": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "markedText": ""
+                },
+                {
+                  "ptBoldText": ""
+                },
+                {
+                  "ptText": ""
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "",
+                      "link": "",
+                      "label": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "Pronunciation"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "image": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/general/",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                },
+                {
+                  "phonetics": ""
+                },
+                {
+                  "partOfSpeech": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "markedText": ""
+                },
+                {
+                  "ptBoldText": ""
+                },
+                {
+                  "ptText": ""
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "",
+                      "link": "",
+                      "label": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "Form"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "image": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/general/",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                },
+                {
+                  "phonetics": ""
+                },
+                {
+                  "partOfSpeech": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "markedText": ""
+                },
+                {
+                  "ptBoldText": ""
+                },
+                {
+                  "ptText": ""
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "",
+                      "link": "",
+                      "label": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
         "bgColor": "black",
         "textColor": "white",
         "icon": "snippet",
@@ -87,7 +314,7 @@
             {
               "block": [
                 {
-                  "text": "gap-fill, matching repetition, drilling"
+                  "text": "Controlled Practice"
                 }
               ]
             },

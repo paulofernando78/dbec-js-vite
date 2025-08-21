@@ -90,8 +90,12 @@ class NavBar extends HTMLElement {
       {
         icon: "songs",
         link: "/extras/songs",
-        label: "Songs",
-        variant: "song-svg",
+        label: "Songs"
+      },
+      {
+        icon: "mouse",
+        link: "/extras/games",
+        label: "Games"
       },
       { title: "SPECIFIC PURPOSES" },
       {
