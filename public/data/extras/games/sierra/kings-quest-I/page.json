@@ -51,6 +51,7 @@
     {
       "text": [
         {
+          "card": true,
           "blocks": [
             {
               "block": [
@@ -63,7 +64,7 @@
             {
               "block": [
                 {
-                  "boldText":	"1.1 "
+                  "boldText": "1.1 "
                 },
                 {
                   "text": "Start in the throne room of Castle Daventry."
@@ -73,7 +74,7 @@
             {
               "block": [
                 {
-                  "boldText":	"1.2 "
+                  "boldText": "1.2 "
                 },
                 {
                   "text": "King Edward’s charge: Recover the kingdom’s three lost treasures:"
@@ -83,10 +84,10 @@
             {
               "block": [
                 {
-                  "boldText":	"1.2.1 "
+                  "textIndent": true,
+                  "boldText": "1.2.1 "
                 },
                 {
-                  "textIndent": true,
                   "text": "Magic Mirror"
                 }
               ]
@@ -94,10 +95,10 @@
             {
               "block": [
                 {
-                  "boldText":	"1.2.3 "
+                  "textIndent": true,
+                  "boldText": "1.2.3 "
                 },
                 {
-                  "textIndent": true,
                   "text": "Magic Shield"
                 }
               ]
@@ -105,10 +106,10 @@
             {
               "block": [
                 {
-                  "boldText":	"1.2.4 "
+                  "textIndent": true,
+                  "boldText": "1.2.4 "
                 },
                 {
-                  "textIndent": true,
                   "text": "Magic Chest"
                 }
               ]
@@ -116,7 +117,7 @@
             {
               "block": [
                 {
-                  "boldText":	"1.3 "
+                  "boldText": "1.3 "
                 },
                 {
                   "text": "Step outside the castle; the land opens for exploration."
@@ -126,14 +127,18 @@
             {
               "block": [
                 {
-                  "boldText":	"1.4 "
+                  "boldText": "1.4 "
                 },
                 {
                   "text": "Save your progress frequently to avoid instant death from wolves, ogres, or the sorcerer at night."
                 }
-              ],
-              "lineBreak": true
-            },
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
             {
               "block": [
                 {
@@ -145,7 +150,7 @@
             {
               "block": [
                 {
-                  "boldText":	"2.1 "
+                  "boldText": "2.1 "
                 },
                 {
                   "text": "Explore the countryside and find the meadow."
@@ -154,8 +159,8 @@
             },
             {
               "block": [
-               {
-                  "boldText":	"2.2 "
+                {
+                  "boldText": "2.2 "
                 },
                 {
                   "text": "Take a carrot from the carrot patch."
@@ -165,7 +170,7 @@
             {
               "block": [
                 {
-                  "boldText":	"2.3 "
+                  "boldText": "2.3 "
                 },
                 {
                   "text": "Find the goat pen nearby:"
@@ -175,10 +180,10 @@
             {
               "block": [
                 {
-                  "boldText":	"2.3.2 "
+                  "textIndent": true,
+                  "boldText": "2.3.2 "
                 },
                 {
-                  "textIndent": true,
                   "text": "Open the gate"
                 }
               ]
@@ -186,18 +191,18 @@
             {
               "block": [
                 {
-                  "boldText":	"2.3.3 "
+                  "textIndent": true,
+                  "boldText": "2.3.3 "
                 },
                 {
-                  "textIndent": true,
-                  "text": "2.3.3 Feed the carrot to the goat → goat will now follow you."
+                  "text": "2.3.3 Feed the carrot to the goat ➜ goat will now follow you."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "boldText":	"2.4 "
+                  "boldText": "2.4 "
                 },
                 {
                   "text": "Lead the goat to the troll’s bridge:"
@@ -207,7 +212,7 @@
             {
               "block": [
                 {
-                  "boldText":	"2.5 "
+                  "boldText": "2.5 "
                 },
                 {
                   "text": "The troll normally blocks the bridge and demands payment."
@@ -217,10 +222,10 @@
             {
               "block": [
                 {
-                  "boldText":	"2.5.2 "
+                  "textIndent": true,
+                  "boldText": "2.5.2 "
                 },
                 {
-                  "textIndent": true,
                   "text": "The troll normally blocks the bridge and demands payment."
                 }
               ]
@@ -228,10 +233,10 @@
             {
               "block": [
                 {
-                  "boldText":	"2.5.3 "
+                  "textIndent": true,
+                  "boldText": "2.5.3 "
                 },
                 {
-                  "textIndent": true,
                   "text": "With the goat, it charges and knocks the troll into the river, clearing the bridge permanently."
                 }
               ]
@@ -239,7 +244,7 @@
             {
               "block": [
                 {
-                  "boldText":	"2.6 "
+                  "boldText": "2.6 "
                 },
                 {
                   "text": "Look for a large rock near the mountainside:"
@@ -249,26 +254,30 @@
             {
               "block": [
                 {
-                  "boldText":	"2.6.2 "
+                  "textIndent": true,
+                  "boldText": "2.6.2 "
                 },
                 {
-                  "textIndent": true,
-                  "text": "Push the rock → reveals a hidden cave entrance."
+                  "text": "Push the rock ➜ reveals a hidden cave entrance."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "boldText":	"2.6.3 "
+                  "textIndent": true,
+                  "boldText": "2.6.3 "
                 },
                 {
-                  "textIndent": true,
                   "text": "Enter the cave and retrieve the Magic Shield."
                 }
-              ],
-              "lineBreak": true
-            },
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
             {
               "block": [
                 {
@@ -280,7 +289,7 @@
             {
               "block": [
                 {
-                  "boldText":	"3.1 "
+                  "boldText": "3.1 "
                 },
                 {
                   "text": "Approach the witch’s gingerbread house when she is away."
@@ -290,7 +299,7 @@
             {
               "block": [
                 {
-                  "boldText":	"3.2 "
+                  "boldText": "3.2 "
                 },
                 {
                   "text": "Inside the house:"
@@ -300,32 +309,32 @@
             {
               "block": [
                 {
-                  "boldText":	"3.2.1 "
+                  "textIndent": true,
+                  "boldText": "3.2.1 "
                 },
                 {
-                  "textIndent": true,
-                  "text": "Open the cupboard → find a piece of cheese"
+                  "text": "Open the cupboard ➜ find a piece of cheese"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "boldText":	"3.2.2 "
+                  "boldText": "3.2.2 "
                 },
                 {
                   "textIndent": true,
-                  "text": "Open the drawer → find a note"
+                  "text": "Open the drawer ➜ find a note"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "boldText":	"3.2.3 "
+                  "textIndent": true,
+                  "boldText": "3.2.3 "
                 },
                 {
-                  "textIndent": true,
                   "text": "Upstairs:"
                 }
               ]
@@ -333,29 +342,29 @@
             {
               "block": [
                 {
-                  "boldText":	"3.2.3.1 "
+                  "doubleTextIndent": true,
+                  "boldText": "3.2.3.1 "
                 },
                 {
-                  "textIndentDouble": true,
-                  "text": "Open the chest → find jewels"
+                  "text": "Open the chest ➜ find jewels"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "boldText":	"3.2.3.2 "
+                  "doubleTextIndent": true,
+                  "boldText": "3.2.3.2 "
                 },
                 {
-                  "textIndentDouble": true,
-                  "text": "Open the drawer → find a carving knife"
+                  "text": "Open the drawer ➜ find a carving knife"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "boldText":	"3.3 "
+                  "boldText": "3.3 "
                 },
                 {
                   "text": "Avoid being caught by the witch, or she will turn you to stone."
@@ -365,7 +374,7 @@
             {
               "block": [
                 {
-                  "boldText":	"3.4 "
+                  "boldText": "3.4 "
                 },
                 {
                   "text": "To remove the witch permanently:"
@@ -376,6 +385,9 @@
               "block": [
                 {
                   "textIndent": true,
+                  "boldText": "3.4.1 "
+                },
+                {
                   "text": "Wait outside until she appears"
                 }
               ]
@@ -384,6 +396,9 @@
               "block": [
                 {
                   "textIndent": true,
+                  "boldText": "3.4.2 "
+                },
+                {
                   "text": "Lure her inside"
                 }
               ]
@@ -392,6 +407,9 @@
               "block": [
                 {
                   "textIndent": true,
+                  "boldText": "3.4.3 "
+                },
+                {
                   "text": "Push her into the oven"
                 }
               ]
@@ -399,14 +417,18 @@
             {
               "block": [
                 {
-                  "boldText":	"3.5 "
+                  "boldText": "3.5 "
                 },
                 {
-                  "text": "Go upstairs into her bedroom, open the closet → recover the Magic Mirror"
+                  "text": "Go upstairs into her bedroom, open the closet ➜ recover the Magic Mirror"
                 }
-              ],
-              "lineBreak": true
-            },
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
             {
               "block": [
                 {
@@ -418,30 +440,20 @@
             {
               "block": [
                 {
-                  "text": "• Head north to the giant’s house."
+                  "boldText": "4.1 "
+                },
+                {
+                  "text": "Head north to the giant’s house."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "• Prepare by collecting items:"
-                }
-              ]
-            },
-            {
-              "block": [
+                  "boldText": "4.2 "
+                },
                 {
-                  "textIndent": true,
-                  "text": "• Pick up pebbles near the river"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "• Find and use the sling"
+                  "text": "Prepare by collecting items:"
                 }
               ]
             },
@@ -449,7 +461,10 @@
               "block": [
                 {
                   "textIndent": true,
-                  "text": "• At the well, tie the rope to the bucket, climb down, and swim through the passage → optional treasure for points"
+                  "boldText": "4.2.1 "
+                },
+                {
+                  "text": "Pick up pebbles near the river"
                 }
               ]
             },
@@ -457,22 +472,10 @@
               "block": [
                 {
                   "textIndent": true,
-                  "text": "• Fill the bucket with water before leaving"
-                }
-              ]
-            },
-            {
-              "block": [
+                  "boldText": "4.2.2 "
+                },
                 {
-                  "text": "• Deal with the giant:"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "• Wait for him to fall asleep"
+                  "text": "Find and use the sling"
                 }
               ]
             },
@@ -480,7 +483,10 @@
               "block": [
                 {
                   "textIndent": true,
-                  "text": "• OR throw water from the bucket in his face → stun him"
+                  "boldText": "4.2.3 "
+                },
+                {
+                  "text": "At the well, tie the rope to the bucket, climb down, and swim through the passage ➜ optional treasure for points"
                 }
               ]
             },
@@ -488,18 +494,71 @@
               "block": [
                 {
                   "textIndent": true,
-                  "text": "• OR use sling and pebbles to defeat him"
+                  "boldText": "4.2.4 "
+                },
+                {
+                  "text": "Fill the bucket with water before leaving"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "• Enter the giant’s house, open the chest → claim the Magic Chest (provides endless gold)"
+                  "boldText": "4.3 "
+                },
+                {
+                  "text": "Deal with the giant:"
                 }
-              ],
-              "lineBreak": true
+              ]
             },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "boldText": "4.3.1 "
+                },
+                {
+                  "text": "Wait for him to fall asleep"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "boldText": "4.3.2 "
+                },
+                {
+                  "text": "OR throw water from the bucket in his face ➜ stun him"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "boldText": "4.3.3 "
+                },
+                {
+                  "text": "OR use sling and pebbles to defeat him"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "4.4 "
+                },
+                {
+                  "text": "Enter the giant’s house, open the chest ➜ claim the Magic Chest (provides endless gold)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
             {
               "block": [
                 {
@@ -511,7 +570,10 @@
             {
               "block": [
                 {
-                  "text": "• Return to King Edward’s castle with all three treasures:"
+                  "boldText": "5.1 "
+                },
+                {
+                  "text": "Return to King Edward’s castle with all three treasures:"
                 }
               ]
             },
@@ -519,7 +581,10 @@
               "block": [
                 {
                   "textIndent": true,
-                  "text": "• Magic Mirror"
+                  "boldText": "• "
+                },
+                {
+                  "text": "Magic Mirror"
                 }
               ]
             },
@@ -527,7 +592,10 @@
               "block": [
                 {
                   "textIndent": true,
-                  "text": "• Magic Shield"
+                  "boldText": "• "
+                },
+                {
+                  "text": "Magic Shield"
                 }
               ]
             },
@@ -535,21 +603,27 @@
               "block": [
                 {
                   "textIndent": true,
-                  "text": "• Magic Chest"
+                  "boldText": "• "
+                },
+                {
+                  "text": "Magic Chest"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "• Enter the throne room; King Edward dies peacefully, and Sir Graham is crowned the new ruler of Daventry."
+                  "boldText": "5.2 "
+                },
+                {
+                  "text": "Enter the throne room; King Edward dies peacefully, and Sir Graham is crowned the new ruler of Daventry."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "• Quest complete!"
+                  "text": "Quest complete!"
                 }
               ]
             }
