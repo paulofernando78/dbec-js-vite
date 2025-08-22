@@ -1,0 +1,90 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "descriptions": [
+      {
+        "icon": "mouse",
+        "description": "Games"
+      },
+      {
+        "icon": "page",
+        "description": "(1984) King’s Quest I: Quest for the Crown"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "grid": false,
+      "text": [
+        {
+          "images": [
+            {
+              "width": "80%",
+              "position": "top",
+              "src": "/assets/images/extras/games/sierra/kings-quest-I.jpg",
+              "alt": "King’s Quest I box"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Become Sir Graham, bravest of knights. Locate and return to King Edward the lost treasures of the Kingdom of Daventry, so that you may inherit the throne. Be prepared. The journey will surely prove long and treacherous. You may choose among many paths open to you. The more elever and resourceful you prove yourself, the greater your reward."
+                }
+              ],
+              "lineBreak": true,
+              "hr": true
+            },
+            {
+              "block": [
+                {
+                  "text": "You begin in the throne room of Castle Daventry. King Edward charges you, Sir Graham, with recovering the kingdom’s three lost treasures: the Magic Mirror, the Magic Shield, and the Magic Chest. Once you step outside, the land opens for exploration. Save frequently, because wolves, ogres, and especially the sorcerer at night can end your adventure instantly."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "Start by exploring the countryside. In the meadow, you’ll find a carrot patch. Take a carrot, and then search for the goat pen nearby. Open the gate and feed the carrot to the goat; now the goat will follow you. Lead the goat to the troll’s bridge. Normally the troll blocks the way and demands payment, but with the goat at your side, it will charge and knock the troll into the river. Now the bridge is safe forever."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "Once across, look for a large rock near the mountainside. Push the rock, and you’ll reveal the hidden entrance to a cave. Enter the cave, and inside you’ll discover one of Daventry’s lost treasures: the Magic Shield."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "The second treasure is the Magic Mirror, found in the witch’s gingerbread house in the forest. Approach the house when the witch is away. Inside, search carefully: open the cupboard to find a piece of cheese, open the drawer to find a note, and upstairs, open the chest for some jewels and the drawer for a carving knife. If the witch catches you, she will turn you to stone, so be cautious. To get rid of her permanently, wait outside her house until she appears, lure her into following you inside, and push her into the oven. Once she is gone, go upstairs into her bedroom, open the closet, and you’ll recover the Magic Mirror."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "For the Magic Chest, you must deal with the giant who lives in the house north of the kingdom. First, prepare by collecting useful items: near the river, pick up some pebbles and use the sling you find to arm yourself. At the well, tie the rope to the bucket, climb down, and swim through the passage to discover extra treasure for points. Fill the bucket with water before leaving. When you reach the giant’s house, you can deal with him in several ways. If you wait long enough, he may fall asleep. Alternatively, throw the water from the bucket in his face to stun him, or use the sling and pebbles to defeat him. Once he is out of the way, enter the house, open the chest, and claim the third treasure: the Magic Chest, which provides endless gold."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "With all three treasures secured — the Magic Mirror, the Magic Shield, and the Magic Chest — return to King Edward’s castle. Enter the throne room. The king, satisfied that you have restored Daventry’s treasures, dies peacefully, and Sir Graham is crowned the new ruler of Daventry. Your quest is complete."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

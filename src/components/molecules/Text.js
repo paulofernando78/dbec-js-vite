@@ -220,6 +220,11 @@ class Text extends HTMLElement {
         blockElement.style.marginBottom = "var(--line-break)";
       }
 
+      if (item.hr) {
+        const hr = document.createElement("hr")
+        blockElement.appendChild(hr);
+      }
+
       textWrapper.appendChild(blockElement);
     });
 
