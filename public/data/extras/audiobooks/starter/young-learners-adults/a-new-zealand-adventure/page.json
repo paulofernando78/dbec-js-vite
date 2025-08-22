@@ -935,11 +935,11 @@
                 {
                   "block": [
                     {
-                      "text": "14.1 The",
-                      "correctAnswer": ["trip"]
+                      "text": "14.1 Michael asks, “Do you like the”",
+                      "correctAnswer": ["whales"]
                     },
                     {
-                      "text": "is an adventure."
+                      "text": "?"
                     }
                   ]
                 }
