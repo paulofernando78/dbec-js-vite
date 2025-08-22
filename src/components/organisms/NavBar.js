@@ -93,7 +93,7 @@ class NavBar extends HTMLElement {
         label: "Songs"
       },
       {
-        icon: "mouse",
+        icon: "joystick",
         link: "/extras/games",
         label: "Games"
       },

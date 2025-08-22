@@ -747,7 +747,12 @@
                       "correctAnswer": ["reads"]
                     },
                     {
-                      "text": "the phone to the police station."
+                      "text": "the phone and",
+                      "correctAnswer": ["takes"]
+                    },
+                    {
+                      "text": "it to the police station."
+                      
                     }
                   ]
                 }

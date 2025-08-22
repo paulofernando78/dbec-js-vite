@@ -133,6 +133,10 @@ class Text extends HTMLElement {
         if (subItem.textIndent) {
           blockElement.style.textIndent = "1rem"
         }
+
+        if (subItem.textIndentDouble) {
+          blockElement.style.textIndentDouble = "2rem"
+        }
         
         if (subItem.boldText) {
           const boldText = document.createElement("b");
