@@ -72,7 +72,7 @@ class Contents extends HTMLElement {
         board.data = section.board;
         contentContainer.appendChild(board);
       }
-      
+
       // Student Dashboard
       if (section.studentDashboard) {
         const studentDashboard = document.createElement("wc-student-dashboard");
@@ -158,6 +158,12 @@ class Contents extends HTMLElement {
         const exercise = document.createElement("wc-exercise");
         exercise.data = section.exercises;
         contentContainer.appendChild(exercise);
+      }
+
+      if (section.gameSrc) {
+        const game = document.createElement("wc-game-emulator");
+        game.data = { gameSrc: section.gameSrc };
+        contentContainer.appendChild(game);
       }
 
       // Hr tag

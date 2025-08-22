@@ -34,8 +34,19 @@
               ],
               "lineBreak": true,
               "hr": true
-            },
-            {
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gameSrc": "/data/extras/games/sierra/kings-quest-I/kq-I.zip"
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+              {
               "block": [
                 {
                   "text": "You begin in the throne room of Castle Daventry. King Edward charges you, Sir Graham, with recovering the kingdom’s three lost treasures: the Magic Mirror, the Magic Shield, and the Magic Chest. Once you step outside, the land opens for exploration. Save frequently, because wolves, ogres, and especially the sorcerer at night can end your adventure instantly."
