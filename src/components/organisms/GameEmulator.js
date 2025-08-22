@@ -4,42 +4,29 @@ class GameEmulator extends HTMLElement {
     this.attachShadow({ mode: "open" });
     this.emulatorInstance = null;
 
+    // Canvas para js-dos
+    this.canvas = document.createElement("canvas");
+    this.shadowRoot.appendChild(this.canvas);
+
+    // Estilo do canvas
     const css = document.createElement("style");
     /*css*/
     css.textContent = `
-      div {
-        border: var(--border)
+      canvas {
+        border: var(--border, 1px solid #000);
+        width: 100%;
+        height: 100%;
+        display: block;
       }
     `;
     this.shadowRoot.appendChild(css);
-
-    this.container = document.createElement("div");
-    this.shadowRoot.appendChild(this.container);
   }
 
-   // Setter para receber o objeto de dados
+  // Setter para receber dados
   set data(gameData) {
-    this._gameData = gameData;
-    if (gameData && gameData.gameSrc) {
-      this.loadJSDOS(gameData.gameSrc)
+    
     }
   }
 
-  // Função para inicializar o JS-DOS
-  async loadJSDOS(gameSrc) {
-    const script = document.createElement("script");
-    script.src = "https://js-dos.com/6.22/current/js-dos.js";
-    await new Promise((resolve, reject) => {
-      script.onload = resolve;
-      script.onerror = reject;
-      document.head.appendChild(script)
-    })
-
-    this.emulatorInstance = await Dos(this.container, {
-      wdosboxUrl: "https://js-dos.com/6.22/current/wdosbox.js",
-      autoload: gameSrc
-    })
-  }
-}
-
-export default GameEmulator
+// Registra o componente
+export default GameEmulator;

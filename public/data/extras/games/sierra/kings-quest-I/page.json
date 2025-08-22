@@ -46,10 +46,10 @@
       "text": [
         {
           "blocks": [
-              {
+            {
               "block": [
                 {
-                  "text": "You begin in the throne room of Castle Daventry. King Edward charges you, Sir Graham, with recovering the kingdom’s three lost treasures: the Magic Mirror, the Magic Shield, and the Magic Chest. Once you step outside, the land opens for exploration. Save frequently, because wolves, ogres, and especially the sorcerer at night can end your adventure instantly."
+                  "boldText": "Stage 1: Beginning the Quest"
                 }
               ],
               "lineBreak": true
@@ -57,7 +57,52 @@
             {
               "block": [
                 {
-                  "text": "Start by exploring the countryside. In the meadow, you’ll find a carrot patch. Take a carrot, and then search for the goat pen nearby. Open the gate and feed the carrot to the goat; now the goat will follow you. Lead the goat to the troll’s bridge. Normally the troll blocks the way and demands payment, but with the goat at your side, it will charge and knock the troll into the river. Now the bridge is safe forever."
+                  "text": "• Start in the throne room of Castle Daventry."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• King Edward’s charge: Recover the kingdom’s three lost treasures:"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Magic Mirror"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Magic Shield"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Magic Chest"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• Step outside the castle; the land opens for exploration."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• Save your progress frequently to avoid instant death from wolves, ogres, or the sorcerer at night."
                 }
               ],
               "lineBreak": true
@@ -65,7 +110,7 @@
             {
               "block": [
                 {
-                  "text": "Once across, look for a large rock near the mountainside. Push the rock, and you’ll reveal the hidden entrance to a cave. Enter the cave, and inside you’ll discover one of Daventry’s lost treasures: the Magic Shield."
+                  "boldText": "Stage 2: Recovering the Magic Shield"
                 }
               ],
               "lineBreak": true
@@ -73,7 +118,90 @@
             {
               "block": [
                 {
-                  "text": "The second treasure is the Magic Mirror, found in the witch’s gingerbread house in the forest. Approach the house when the witch is away. Inside, search carefully: open the cupboard to find a piece of cheese, open the drawer to find a note, and upstairs, open the chest for some jewels and the drawer for a carving knife. If the witch catches you, she will turn you to stone, so be cautious. To get rid of her permanently, wait outside her house until she appears, lure her into following you inside, and push her into the oven. Once she is gone, go upstairs into her bedroom, open the closet, and you’ll recover the Magic Mirror."
+                  "text": "• Explore the countryside and find the meadow."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• Take a carrot from the carrot patch."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• Find the goat pen nearby:"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Open the gate"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Feed the carrot to the goat → goat will now follow you."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• Lead the goat to the troll’s bridge:"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• The troll normally blocks the bridge and demands payment."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• The troll normally blocks the bridge and demands payment."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• With the goat, it charges and knocks the troll into the river, clearing the bridge permanently."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• Look for a large rock near the mountainside:"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Push the rock → reveals a hidden cave entrance."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Enter the cave and retrieve the Magic Shield."
                 }
               ],
               "lineBreak": true
@@ -81,7 +209,7 @@
             {
               "block": [
                 {
-                  "text": "For the Magic Chest, you must deal with the giant who lives in the house north of the kingdom. First, prepare by collecting useful items: near the river, pick up some pebbles and use the sling you find to arm yourself. At the well, tie the rope to the bucket, climb down, and swim through the passage to discover extra treasure for points. Fill the bucket with water before leaving. When you reach the giant’s house, you can deal with him in several ways. If you wait long enough, he may fall asleep. Alternatively, throw the water from the bucket in his face to stun him, or use the sling and pebbles to defeat him. Once he is out of the way, enter the house, open the chest, and claim the third treasure: the Magic Chest, which provides endless gold."
+                  "boldText": "Stage 3: Recovering the Magic Mirror"
                 }
               ],
               "lineBreak": true
@@ -89,7 +217,246 @@
             {
               "block": [
                 {
-                  "text": "With all three treasures secured — the Magic Mirror, the Magic Shield, and the Magic Chest — return to King Edward’s castle. Enter the throne room. The king, satisfied that you have restored Daventry’s treasures, dies peacefully, and Sir Graham is crowned the new ruler of Daventry. Your quest is complete."
+                  "text": "• Approach the witch’s gingerbread house when she is away."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• Inside the house:"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Open the cupboard → find a piece of cheese"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Open the drawer → find a note"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Upstairs:"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Open the chest → find jewels"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Open the drawer → find a carving knife"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• Avoid being caught by the witch, or she will turn you to stone."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• To remove the witch permanently:"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Wait outside until she appears"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Lure her inside"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Push her into the oven"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• Go upstairs into her bedroom, open the closet → recover the Magic Mirror"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Stage 4: Recovering the Magic Chest"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "• Head north to the giant’s house."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• Prepare by collecting items:"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Pick up pebbles near the river"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Find and use the sling"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• At the well, tie the rope to the bucket, climb down, and swim through the passage → optional treasure for points"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Fill the bucket with water before leaving"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• Deal with the giant:"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Wait for him to fall asleep"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• OR throw water from the bucket in his face → stun him"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• OR use sling and pebbles to defeat him"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• Enter the giant’s house, open the chest → claim the Magic Chest (provides endless gold)"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Stage 5: Completing the Quest"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "• Return to King Edward’s castle with all three treasures:"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Magic Mirror"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Magic Shield"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "• Magic Chest"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• Enter the throne room; King Edward dies peacefully, and Sir Graham is crowned the new ruler of Daventry."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "• Quest complete!"
                 }
               ]
             }

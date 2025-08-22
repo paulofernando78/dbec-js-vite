@@ -160,6 +160,7 @@ class Contents extends HTMLElement {
         contentContainer.appendChild(exercise);
       }
 
+      // Game Emulator
       if (section.gameSrc) {
         const game = document.createElement("wc-game-emulator");
         game.data = { gameSrc: section.gameSrc };
