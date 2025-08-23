@@ -1,6 +1,4 @@
 // Apenas importa para executar o UMD no bundle
-import "js-dos/dist/js-dos.js";
-
 class GameEmulator extends HTMLElement {
   constructor() {
     super();
@@ -29,23 +27,9 @@ class GameEmulator extends HTMLElement {
       }
     `;
     this.shadowRoot.appendChild(css);
-
-    // Permite foco no canvas
-    this.canvas.tabIndex = 0;
   }
 
-  set data(gameData) {
-    if (!window.Dos) {
-      console.error("Dos não carregado!");
-      return;
-    }
-
-    // Inicializa o emulador com o ZIP
-    this.emulatorInstance = window.Dos(this.canvas, {
-      wdosboxUrl: "https://v8.js-dos.com/current/wdosbox.js",
-      gameUrl: gameData.gameSrc // caminho do ZIP
-    });
-  }
+  set data(gameData) {}
 }
 
 export default GameEmulator;
