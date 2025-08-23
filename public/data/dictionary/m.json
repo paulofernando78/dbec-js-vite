@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "moat",
+        "phonetics": "/moʊt/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A deep, wide ditch surrounding a castle, fort, or town, typically filled with water, to provide defense against attack.",
+        "ptDefinition": "Um fosso profundo e largo ao redor de um castelo, fortaleza ou cidade, geralmente cheio de água, para servir como defesa contra ataques.",
+        "examples": [
+          {
+            "enExample": "The medieval castle was protected by a wide moat filled with water.",
+            "ptExample": "O castelo medieval era protegido por um largo fosso cheio de água."
+          },
+          {
+            "enExample": "Enemies found it difficult to cross the moat and attack the fortress.",
+            "ptExample": "Os inimigos encontraram dificuldade para atravessar o fosso e atacar a fortaleza."
+          }
+        ],
+        "synonyms": "ditch, trench, water-filled trench",
+        "antonyms": "open ground, plain",
+        "seeAlso": "castle, fortress, drawbridge",
+        "notes": [
+          {
+            "enNote": "Moats were commonly used in medieval Europe for castle defense and could be dry or filled with water.",
+            "ptNote": "Os fossos eram comumente usados na Europa medieval para defesa de castelos e podiam ser secos ou cheios de água."
+          }
+        ]
+      },
+      {
         "word": "manage",
         "phonetics": "/ˈmænɪdʒ/",
         "partOfSpeech": "verb",

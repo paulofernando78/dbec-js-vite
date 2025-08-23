@@ -9,13 +9,12 @@ const Router = {
 
     Router.locationHandler();
 
-    window.addEventListener("popstate", Router.locationHandler);
+    window.addEventListener("popstate", () => {
+      Router.locationHandler();
+    });
   },
 
   nav: (route, addToHistory = true) => {
-    console.log(route);
-    Router.scrollPositions = Router.scrollPositions || {};
-    Router.scrollPositions[window.location.pathname] = window.scrollY;
     if (addToHistory) {
       history.pushState({ route }, null, route);
     }
@@ -33,9 +32,9 @@ const Router = {
       document.body.appendChild(layout);
     }
 
-    // wc-layout ot its shadowRoot not available yet
+    // wc-layout or its shadowRoot not available yet
     if (!layout || !layout.shadowRoot) {
-      console.warn("wc-layout ot its shadowRoot not available yet");
+      console.warn("wc-layout or its shadowRoot not available yet");
       return;
     }
 
@@ -59,13 +58,17 @@ const Router = {
       const genericPageMatch = path.match(/^\/(.+)$/);
       if (genericPageMatch) {
         const [, basePath] = genericPageMatch;
+
         const node = document.createElement("wc-data-page");
         node.setAttribute("path", basePath);
         node.setAttribute("page", "true");
         content.appendChild(node);
+
+        node.addEventListener("page-ready", () => {
+          console.log("page-ready fired for:", window.location.pathname);
+        });
         return;
       }
-
       content.innerHTML = `<wc-four-oh-four></wc-four-oh-four>`;
     }
   },

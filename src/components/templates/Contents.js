@@ -18,11 +18,15 @@ class Contents extends HTMLElement {
         z-index: 2
       }
 
-      wc-audio-player.sticky, wc-video-player.sticky {
+      wc-audio-player.sticky, wc-video-player.sticky, wc-iframe.sticky {
         position: sticky;
         top: 58px;
         z-index: 1
       }
+
+      // wc-iframe {
+      //   margin: 0 auto
+      // }
 
       .image-wrapper {
         display: flex;
@@ -127,6 +131,10 @@ class Contents extends HTMLElement {
       //Iframe
       if (section.iframe) {
         const iframe = document.createElement("wc-iframe");
+
+        if (section.iframe.sticky) {
+          iframe.classList.add("sticky");
+        }
         iframe.data = section.iframe;
         contentContainer.appendChild(iframe);
       }
@@ -161,11 +169,11 @@ class Contents extends HTMLElement {
       }
 
       // Game Emulator
-      if (section.gameSrc) {
-        const game = document.createElement("wc-game-emulator");
-        game.data = { gameSrc: section.gameSrc };
-        contentContainer.appendChild(game);
-      }
+      // if (section.gameSrc) {
+      //   const game = document.createElement("wc-game-emulator");
+      //   game.data = { gameSrc: section.gameSrc };
+      //   contentContainer.appendChild(game);
+      // }
 
       // Hr tag
       if (section.hr) {

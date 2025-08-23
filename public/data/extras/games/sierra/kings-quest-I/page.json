@@ -38,12 +38,15 @@
       ]
     },
     {
-      "gameSrc": "/data/extras/games/sierra/kings-quest-I/kq-I.zip"
+      "iframe": {
+        "sticky": true,
+        "src": "https://archive.org/embed/msdos_Kings_Quest_I_-_Quest_for_the_Crown_1987",
+        "width": "80%",
+        "height": "482px"
+      }
     },
     {
       "ribbon": {
-        "bgColor": "",
-        "textColor": "",
         "icon": "map",
         "label": "Game’s Walkthrough"
       }
