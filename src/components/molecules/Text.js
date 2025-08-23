@@ -1,5 +1,5 @@
 import cssImportsPath from "/src/css/imports.css?inline";
-import { play, stop } from "/src/assets/images/svg-imports.js";
+import { play, stop, pause } from "/src/assets/images/svg-imports.js";
 
 class Text extends HTMLElement {
   constructor() {
@@ -166,9 +166,21 @@ class Text extends HTMLElement {
           const playIcon = document.createElement("span");
           playIcon.innerHTML = play;
           playIcon.classList.add("play-icon");
+
+          const audio = new Audio(subItem.audioSrc);
+
           playIcon.addEventListener("click", () => {
-            const audio = new Audio(subItem.audioSrc);
-            audio.play();
+            if (audio.paused) {
+              audio.play();
+              playIcon.innerHTML = stop;
+            } else {
+              audio.pause();
+              playIcon.innerHTML = play;
+            }
+          });
+
+          audio.addEventListener("ended", () => {
+            playIcon.innerHTML = play;
           });
 
           if (blockElement.style.textIndent === "1rem") {
@@ -176,7 +188,7 @@ class Text extends HTMLElement {
           } else if (blockElement.style.textIndent === "2rem") {
             playIcon.style.marginLeft = "-2rem";
           }
-          
+
           blockElement.appendChild(playIcon);
         }
 
