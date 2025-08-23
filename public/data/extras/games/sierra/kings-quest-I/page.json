@@ -27,6 +27,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/games/sierra/kings-quest-I/intro.mp3"
+              },
               "block": [
                 {
                   "boldText": "Become Sir Graham, bravest of knights. Locate and return to King Edward the lost treasures of the Kingdom of Daventry, so that you may inherit the throne. Be prepared. The journey will surely prove long and treacherous. You may choose among many paths open to you. The more elever and resourceful you prove yourself, the greater your reward."

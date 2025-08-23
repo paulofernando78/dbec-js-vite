@@ -1,5 +1,5 @@
 import cssImportsPath from "/src/css/imports.css?inline";
-import { play, stop } from "/src/assets/images/svg-imports.js"
+import { play, stop } from "/src/assets/images/svg-imports.js";
 
 class Text extends HTMLElement {
   constructor() {
@@ -48,6 +48,10 @@ class Text extends HTMLElement {
 
       .video-wrapper wc-video-player {
         width: 100%
+      }
+
+      .audio-wrapper {
+        margin-bottom: 10px
       }
 
       .play-icon {
@@ -136,16 +140,26 @@ class Text extends HTMLElement {
     const textWrapper = document.createElement("div");
 
     block.blocks.forEach((item) => {
+      if (item.audioPlayer) {
+        const wrapper = document.createElement("div");
+        wrapper.classList.add("audio-wrapper");
+
+        const audioPlayer = document.createElement("wc-audio-player");
+        audioPlayer.data = { src: item.audioPlayer.src };
+
+        wrapper.appendChild(audioPlayer);
+        textWrapper.appendChild(wrapper);
+      }
+
       const blockElement = document.createElement("p");
 
       item.block.forEach((subItem) => {
-
         if (subItem.textIndent) {
-          blockElement.style.textIndent = "1rem"
+          blockElement.style.textIndent = "1rem";
         }
 
         if (subItem.doubleTextIndent) {
-          blockElement.style.textIndent = "2rem"
+          blockElement.style.textIndent = "2rem";
         }
 
         if (subItem.audio) {
@@ -154,12 +168,11 @@ class Text extends HTMLElement {
           playIcon.classList.add("play-icon");
           playIcon.addEventListener("click", () => {
             const audio = new Audio(subItem.audioSrc);
-            audio.play()
-          })
-          blockElement.appendChild(playIcon)
-
+            audio.play();
+          });
+          blockElement.appendChild(playIcon);
         }
-        
+
         if (subItem.boldText) {
           const boldText = document.createElement("b");
           boldText.textContent = subItem.boldText;
@@ -247,7 +260,7 @@ class Text extends HTMLElement {
       }
 
       if (item.hr) {
-        const hr = document.createElement("hr")
+        const hr = document.createElement("hr");
         blockElement.appendChild(hr);
       }
 
