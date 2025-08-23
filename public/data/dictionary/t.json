@@ -2,6 +2,23 @@
   {
     "definitions": [
       {
+        "word": "troll",
+        "phonetics": "/trəʊl/ (UK), /troʊl/ (US)",
+        "partOfSpeech": "noun",
+        "enDefinition": "In folklore, a giant or dwarf-like creature that lives in caves or mountains and is often unfriendly or dangerous.",
+        "ptDefinition": "Em contos populares, uma criatura gigante ou semelhante a um anão que vive em cavernas ou montanhas e costuma ser hostil ou perigosa.",
+        "examples": [
+          {
+            "enExample": "In the fairy tale, the troll lived under the bridge and scared anyone who tried to cross.",
+            "ptExample": "No conto de fadas, o troll vivia debaixo da ponte e assustava qualquer um que tentasse atravessar."
+          },
+          {
+            "enExample": "The children imagined a troll guarding the entrance to the cave.",
+            "ptExample": "As crianças imaginaram um troll guardando a entrada da caverna."
+          }
+        ]
+      },
+      {
         "word": "try out",
         "phonetics": "/traɪ aʊt/",
         "partOfSpeech": "phrasal verb",

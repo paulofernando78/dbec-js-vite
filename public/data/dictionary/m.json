@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "meadow",
+        "phonetics": "/ˈmed.oʊ/ (US), /ˈmed.əʊ/ (UK)",
+        "partOfSpeech": "noun",
+        "enDefinition": "A field of grass, often with wild flowers, used for hay or for animals to feed on.",
+        "ptDefinition": "Um campo de grama, muitas vezes com flores silvestres, usado para feno ou para os animais se alimentarem; campo, prado",
+        "examples": [
+          {
+            "enExample": "We walked through the meadow filled with daisies and butterflies.",
+            "ptExample": "Caminhamos pelo campo cheio de margaridas e borboletas."
+          },
+          {
+            "enExample": "The cows were grazing peacefully in the meadow.",
+            "ptExample": "As vacas estavam pastando tranquilamente no campo."
+          }
+        ],
+        "synonyms": "field, pasture, grassland",
+        "antonyms": "desert, wasteland",
+        "seeAlso": "pasture, prairie",
+        "notes": [
+          {
+            "enNote": "Common in rural landscapes and often associated with idyllic or peaceful scenery in literature.",
+            "ptNote": "Comum em paisagens rurais e frequentemente associado a cenários idílicos ou pacíficos na literatura."
+          }
+        ]
+      },
+      {
         "word": "moat",
         "phonetics": "/moʊt/",
         "partOfSpeech": "noun",

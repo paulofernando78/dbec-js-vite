@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "nymph",
+        "phonetics": "/nɪmf/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A minor female nature deity or spirit in Greek and Roman mythology, often associated with a particular location or landform such as forests, rivers, or mountains.",
+        "ptDefinition": "Uma deusa ou espírito feminino menor da natureza na mitologia grega e romana, frequentemente associada a um local específico como florestas, rios ou montanhas.",
+        "examples": [
+          {
+            "enExample": "The nymph of the forest was said to protect all the animals living there.",
+            "ptExample": "Dizia-se que a ninfa da floresta protegia todos os animais que ali viviam."
+          },
+          {
+            "enExample": "In Greek myths, nymphs often guided heroes through enchanted places.",
+            "ptExample": "Nos mitos gregos, as ninfas frequentemente guiavam heróis por lugares encantados."
+          }
+        ],
+        "synonyms": "spirit, dryad, fairy",
+        "antonyms": "giant, ogre",
+        "seeAlso": "dryad, satyr, fairy",
+        "notes": [
+          {
+            "enNote": "Nymphs are typically depicted as beautiful maidens and are connected to natural elements, unlike fairies which are more whimsical.",
+            "ptNote": "As ninfas geralmente são retratadas como belas jovens e estão conectadas a elementos naturais, diferentemente das fadas, que são mais fantásticas e encantadoras."
+          }
+        ]
+      },
+      {
         "word": "noisy",
         "phonetics": "/ˈnɔɪ.zi/",
         "partOfSpeech": "adjective",

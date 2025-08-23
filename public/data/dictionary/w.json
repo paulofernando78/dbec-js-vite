@@ -2,6 +2,26 @@
   {
     "definitions": [
       {
+        "word": "witch",
+        "phonetics": "/wɪtʃ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A woman thought to have magic powers, often depicted in folklore as evil or mysterious.",
+        "ptDefinition": "Uma mulher considerada capaz de fazer magia, frequentemente retratada no folclore como má ou misteriosa.",
+        "examples": [
+          {
+            "enExample": "The witch cast a spell on the villagers in the old tale.",
+            "ptExample": "A bruxa lançou um feitiço nos aldeões no velho conto."
+          },
+          {
+            "enExample": "Stories about witches and their magic have been told for centuries.",
+            "ptExample": "Histórias sobre bruxas e sua magia vêm sendo contadas há séculos."
+          }
+        ],
+        "synonyms": "sorceress, enchantress, hag",
+        "antonyms": "priestess, fairy",
+        "seeAlso": "sorcerer, wizard"
+      },
+      {
         "word": "weigh another offer",
         "partOfSpeech": "idiom",
         "enDefinition": "to evaluate or consider a different proposal or offer before making a decision",

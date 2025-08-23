@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "fairy",
+        "phonetics": "/ˈfeə.ri/ (UK), /ˈfer.i/ (US)",
+        "partOfSpeech": "noun",
+        "enDefinition": "A small imaginary being with magical powers, often depicted with wings, in folklore and children's stories.",
+        "ptDefinition": "Um ser imaginário pequeno com poderes mágicos, frequentemente retratado com asas, no folclore e histórias infantis.",
+        "examples": [
+          {
+            "enExample": "The fairy sprinkled magic dust over the sleeping princess.",
+            "ptExample": "A fada polvilhou pó mágico sobre a princesa adormecida."
+          },
+          {
+            "enExample": "Children love stories about fairies living in enchanted forests.",
+            "ptExample": "As crianças adoram histórias sobre fadas vivendo em florestas encantadas."
+          }
+        ],
+        "synonyms": "sprite, elf, pixie",
+        "antonyms": "giant, ogre",
+        "seeAlso": "pixie, nymph",
+        "notes": [
+          {
+            "enNote": "In modern contexts, 'fairy' can also refer to a delicate or whimsical person, or be used in expressions like 'fairy tale'.",
+            "ptNote": "Em contextos modernos, 'fada' também pode se referir a uma pessoa delicada ou encantadora, ou ser usada em expressões como 'conto de fadas'."
+          }
+        ]
+      },
+      {
         "word": "fast",
         "phonetics": "/fæst/",
         "partOfSpeech": "adjective",
