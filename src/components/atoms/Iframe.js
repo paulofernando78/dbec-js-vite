@@ -9,12 +9,17 @@ class Iframe extends HTMLElement {
       :host {
         display: flex;
         align-items: center;
-        justify-content: center
+        justify-content: center;
+      }
+      
+      iframe {
+        border-radius: var(--border-radius) 
       }
 
       @media (max-width: 600px) {
         iframe {
-          width: 100%
+          width: 100%!important;
+          height: 300px!important
         }
       }
   `;
@@ -28,11 +33,8 @@ class Iframe extends HTMLElement {
     this.shadowRoot.appendChild(cssImports);
 
     const iframe = document.createElement("iframe");
-    iframe.style.width = item.width || "100%";
+    iframe.style.width = item.width;
     iframe.style.height = item.height || "400px";
-    iframe.style.border = "1px solid lightgray";
-    iframe.style.borderRadius = "var(--border-radius)";
-    iframe.style.boxShadow = "var(--box-shadow)";
     iframe.setAttribute("frameborder", "0");
     iframe.setAttribute(
       "allow",
