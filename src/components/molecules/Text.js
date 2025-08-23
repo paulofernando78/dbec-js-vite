@@ -170,6 +170,13 @@ class Text extends HTMLElement {
             const audio = new Audio(subItem.audioSrc);
             audio.play();
           });
+
+          if (blockElement.style.textIndent === "1rem") {
+            playIcon.style.marginLeft = "-1rem";
+          } else if (blockElement.style.textIndent === "2rem") {
+            playIcon.style.marginLeft = "-2rem";
+          }
+          
           blockElement.appendChild(playIcon);
         }
 
