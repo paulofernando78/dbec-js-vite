@@ -1,4 +1,5 @@
 import cssImportsPath from "/src/css/imports.css?inline";
+import { play, stop } from "/src/assets/images/svg-imports.js"
 
 class Text extends HTMLElement {
   constructor() {
@@ -47,6 +48,14 @@ class Text extends HTMLElement {
 
       .video-wrapper wc-video-player {
         width: 100%
+      }
+
+      .play-icon {
+        display: inline-block;
+        cursor: pointer;
+        position: relative;
+        bottom: 1px;
+        right: 2px
       }
 
       @media (max-width:     480px) {
@@ -137,6 +146,18 @@ class Text extends HTMLElement {
 
         if (subItem.doubleTextIndent) {
           blockElement.style.textIndent = "2rem"
+        }
+
+        if (subItem.audio) {
+          const playIcon = document.createElement("span");
+          playIcon.innerHTML = play;
+          playIcon.classList.add("play-icon");
+          playIcon.addEventListener("click", () => {
+            const audio = new Audio(subItem.audioSrc);
+            audio.play()
+          })
+          blockElement.appendChild(playIcon)
+
         }
         
         if (subItem.boldText) {

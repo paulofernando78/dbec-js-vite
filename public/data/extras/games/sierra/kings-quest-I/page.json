@@ -59,6 +59,10 @@
             {
               "block": [
                 {
+                  "audio": true,
+                  "audioSrc": "/assets/audio/extras/games/sierra/kings-quest-I/stage-1.mp3"
+                },
+                {
                   "boldText": "Stage 1: Beginning the Quest"
                 }
               ],
@@ -70,6 +74,10 @@
                   "boldText": "1.1 "
                 },
                 {
+                  "audio": true,
+                  "audioSrc": "/assets/audio/extras/games/sierra/kings-quest-I/1-1.mp3"
+                },
+                {
                   "text": "Start in the throne room of Castle Daventry."
                 }
               ]
@@ -78,6 +86,10 @@
               "block": [
                 {
                   "boldText": "1.2 "
+                },
+                {
+                  "audio": true,
+                  "audioSrc": "/assets/audio/extras/games/sierra/kings-quest-I/1-2.mp3"
                 },
                 {
                   "text": "King Edward’s charge: Recover the kingdom’s three lost treasures:"
@@ -123,6 +135,10 @@
                   "boldText": "1.3 "
                 },
                 {
+                  "audio": true,
+                  "audioSrc": "/assets/audio/extras/games/sierra/kings-quest-I/1-3.mp3"
+                },
+                {
                   "text": "Step outside the castle; the land opens for exploration."
                 }
               ]
@@ -131,6 +147,10 @@
               "block": [
                 {
                   "boldText": "1.4 "
+                },
+                {
+                  "audio": true,
+                  "audioSrc": "/assets/audio/extras/games/sierra/kings-quest-I/1-4.mp3"
                 },
                 {
                   "text": "Save your progress frequently to avoid instant death from wolves, ogres, or the sorcerer at night."
