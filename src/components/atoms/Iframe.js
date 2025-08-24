@@ -12,13 +12,21 @@ class Iframe extends HTMLElement {
         justify-content: center;
       }
       
+      .background {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: black;
+        border-radius: var(--border-radius);
+      }
+
       iframe {
-        border-radius: var(--border-radius) 
+        border-radius: var(--border-radius);
       }
 
       @media (max-width: 600px) {
         iframe {
-          width: 100%!important;
           height: 300px!important
         }
       }
@@ -32,6 +40,9 @@ class Iframe extends HTMLElement {
     cssImports.href = "/src/css/imports.css";
     this.shadowRoot.appendChild(cssImports);
 
+    const background = document.createElement("div")
+    background.classList.add("background")
+
     const iframe = document.createElement("iframe");
     iframe.style.width = item.width;
     iframe.style.height = item.height || "400px";
@@ -41,8 +52,9 @@ class Iframe extends HTMLElement {
       "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     );
     iframe.src = item.src;
+    background.appendChild(iframe)
 
-    this.shadowRoot.append(iframe, cssImports);
+    this.shadowRoot.append(cssImports, background);
   }
 }
 

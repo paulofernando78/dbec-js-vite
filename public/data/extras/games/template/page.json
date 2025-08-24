@@ -1,0 +1,186 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "descriptions": [
+      {
+        "icon": "joystick",
+        "description": "Games"
+      },
+      {
+        "icon": "page",
+        "description": "(1984) King’s Quest I: Quest for the Crown"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "grid": false,
+      "text": [
+        {
+          "images": [
+            {
+              "width": "80%",
+              "position": "top",
+              "src": "/assets/images/extras/games/sierra/....jpg",
+              "alt": "King’s Quest I box"
+            }
+          ],
+          "blocks": [
+            {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/games/sierra/.../intro.mp3"
+              },
+              "block": [
+                {
+                  "boldText": "Become Sir Graham, bravest of knights. Locate and return to King Edward the lost treasures of the Kingdom of Daventry, so that you may inherit the throne. Be prepared. The journey will surely prove long and treacherous. You may choose among many paths open to you. The more elever and resourceful you prove yourself, the greater your reward."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "iframe": {
+        "sticky": true,
+        "src": "https://archive.org/embed/msdos_Kings_Quest_I_-_Quest_for_the_Crown_1987",
+        "width": "80%",
+        "height": "482px"
+      }
+    },
+    {
+      "ribbon": {
+        "icon": "map",
+        "label": "Game’s Walkthrough"
+      }
+    },
+    {
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audio": true,
+                  "audioSrc": "/assets/audio/extras/games/sierra/.../.mp3"
+                },
+                {
+                  "boldText": "Stage 1: ..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "1.1 "
+                },
+                {
+                  "audio": true,
+                  "audioSrc": "/assets/audio/extras/games/sierra/.../.mp3"
+                },
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audio": true,
+                  "audioSrc": "/assets/audio/extras/games/sierra/.../.mp3"
+                },
+                {
+                  "boldText": "Stage 2: ..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "2.1 "
+                },
+                {
+                  "audio": true,
+                  "audioSrc": "/assets/audio/extras/games/sierra/.../.mp3"
+                },
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audio": true,
+                  "audioSrc": "/assets/audio/extras/games/sierra/.../..mp3"
+                },
+                {
+                  "boldText": "Stage 3: ..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "3.1 "
+                },
+                {
+                  "audio": true,
+                  "audioSrc": "/assets/audio/extras/games/sierra/.../..mp3"
+                },
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audio": true,
+                  "audioSrc": "/assets/audio/extras/games/sierra/.../..mp3"
+                },
+                {
+                  "boldText": "Stage 4: ..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "4.1 "
+                },
+                {
+                  "audio": true,
+                  "audioSrc": "/assets/audio/extras/games/sierra/.../.mp3"
+                },
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

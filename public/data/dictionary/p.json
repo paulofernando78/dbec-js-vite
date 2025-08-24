@@ -2,6 +2,26 @@
   {
     "definitions": [
       {
+        "word": "pluck",
+        "phonetics": "/plʌk/",
+        "partOfSpeech": "verb",
+        "enDefinition": "To take hold of something and quickly remove it; to pull or pick off.",
+        "ptDefinition": "Pegar algo e remover rapidamente; arrancar ou puxar.",
+        "examples": [
+          {
+            "enExample": "She plucked a flower from the garden.",
+            "ptExample": "Ela arrancou uma flor do jardim."
+          },
+          {
+            "enExample": "He plucked the strings of the guitar.",
+            "ptExample": "Ele dedilhou as cordas do violão."
+          }
+        ],
+        "synonyms": "pull, pick, remove",
+        "antonyms": "insert, place",
+        "seeAlso": "pluck up (courage), plucking"
+      },
+      {
         "word": "procurement department",
         "phonetics": "/prəˈkjʊr.mənt dɪˈpɑːrt.mənt/",
         "partOfSpeech": "noun phrase",
