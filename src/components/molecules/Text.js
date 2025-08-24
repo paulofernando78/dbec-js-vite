@@ -1,5 +1,6 @@
 import cssImportsPath from "/src/css/imports.css?inline";
-import { play, stop, pause } from "/src/assets/images/svg-imports.js";
+import { play, stop } from "/src/assets/images/svg-imports.js";
+import * as icons from "/src/assets/images/svg-imports.js";
 
 class Text extends HTMLElement {
   constructor() {
@@ -62,6 +63,12 @@ class Text extends HTMLElement {
         right: 2px
       }
 
+      .icon {
+        margin-inline: 4px;
+        position: relative;
+        bottom: 1.8px
+      }
+
       @media (max-width:     480px) {
         .img-top, .img-right, .img-bottom, .img-left {
           grid-template-columns: 1fr;
@@ -102,6 +109,14 @@ class Text extends HTMLElement {
   }
 
   render(block) {
+    if (block.card) {
+      this.container.style.border = "var(--border)";
+      this.container.style.borderRadius = "var(--border-radius)";
+      this.container.style.boxShadow = "var(--box-shadow)";
+      this.container.style.padding = "var(--padding)";
+      this.container.style.backgroundColor = "var(--yellow-1)";
+    }
+
     const hasImage = Array.isArray(block.images) && block.images.length > 0;
 
     let imageWrapper;
@@ -190,6 +205,13 @@ class Text extends HTMLElement {
           }
 
           blockElement.appendChild(playIcon);
+        }
+
+        if (subItem.icon) {
+          const span = document.createElement("span");
+          span.classList.add("icon");
+          span.innerHTML = icons[subItem.icon];
+          blockElement.appendChild(span);
         }
 
         if (subItem.boldText) {
@@ -317,13 +339,6 @@ class Text extends HTMLElement {
     } else {
       if (hasVideo) this.container.appendChild(videoWrapper);
       this.container.appendChild(textWrapper);
-    }
-
-    if (block.card) {
-      this.container.style.border = "var(--border)";
-      this.container.style.borderRadius = "var(--border-radius)";
-      this.container.style.boxShadow = "var(--box-shadow)";
-      this.container.style.padding = "var(--padding)";
     }
   }
 }

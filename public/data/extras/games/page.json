@@ -10,6 +10,24 @@
   },
   "contents": [
     {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "icon": "warning"
+                },
+                {
+                  "boldText": "To be played on the computer."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "pages",

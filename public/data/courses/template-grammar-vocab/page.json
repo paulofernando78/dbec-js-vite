@@ -20,14 +20,27 @@
       }
     },
     {
+      "audioPlayer": {
+        "sticky": false,
+        "src": ""
+      }
+    },
+    {
       "grid": false,
       "text": [
         {
-          "image": [
+          "card": false,
+          "images": [
             {
-              "width": "",
+              "width": "200px",
               "position": "",
-              "src": "/assets/images/general/",
+              "src": "/assets/images/general/cat-1.jpg",
+              "alt": ""
+            },
+            {
+              "width": "200px",
+              "position": "",
+              "src": "/assets/images/general/cat-2.jpg",
               "alt": ""
             }
           ],
@@ -35,7 +48,38 @@
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "boldText": "Text"
+                },
+                {
+                  "phonetics": ""
+                },
+                {
+                  "partOfSpeech": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "markedText": ""
+                },
+                {
+                  "ptBoldText": ""
+                },
+                {
+                  "ptText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "cardColor": "var(--yellow-5)",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "CCQ kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk!"
                 },
                 {
                   "phonetics": ""
@@ -76,6 +120,85 @@
       }
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "images": [
+            {
+              "width": "200px",
+              "position": "",
+              "src": "/assets/images/general/cat-1.jpg",
+              "alt": ""
+            },
+            {
+              "width": "200px",
+              "position": "",
+              "src": "/assets/images/general/cat-2.jpg",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                },
+                {
+                  "phonetics": ""
+                },
+                {
+                  "partOfSpeech": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "markedText": ""
+                },
+                {
+                  "ptBoldText": ""
+                },
+                {
+                  "ptText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "ICQ!"
+                },
+                {
+                  "phonetics": ""
+                },
+                {
+                  "partOfSpeech": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "markedText": ""
+                },
+                {
+                  "ptBoldText": ""
+                },
+                {
+                  "ptText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "text": [
         {
           "blocks": [
@@ -89,21 +212,6 @@
           ]
         }
       ]
-    },
-    {
-      "images": [
-        {
-          "width": "50%",
-          "src": "",
-          "alt": "..."
-        }
-      ]
-    },
-    {
-      "audioPlayer": {
-        "sticky": false,
-        "src": ""
-      }
     },
     {
       "ribbon": {
