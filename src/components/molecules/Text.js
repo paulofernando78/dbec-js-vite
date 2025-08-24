@@ -113,7 +113,7 @@ class Text extends HTMLElement {
       this.container.style.border = "var(--border)";
       this.container.style.borderRadius = "var(--border-radius)";
       this.container.style.boxShadow = "var(--box-shadow)";
-      this.container.style.padding = "var(--padding)";
+      this.container.style.padding = "3px 5px 2px 5px";
       this.container.style.backgroundColor = "var(--yellow-1)";
     }
 

@@ -91,9 +91,14 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
+
               "block": [
                 {
-                  "boldText": "Top boldText"
+                  "boldText": "Top boldText "
                 },
                 {
                   "phonetics": "phonetics "
@@ -113,8 +118,7 @@
                 {
                   "ptText": "ptText"
                 }
-              ],
-              "lineBreak": true
+              ]
             }
           ]
         },
@@ -476,7 +480,7 @@
                       "text": "teste"
                     }
                   ]
-                } 
+                }
               ]
             },
             {
@@ -500,7 +504,7 @@
                       "text": "teste"
                     }
                   ]
-                } 
+                }
               ]
             }
           ]

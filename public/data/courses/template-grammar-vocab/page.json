@@ -34,14 +34,14 @@
             {
               "width": "200px",
               "position": "",
-              "src": "/assets/images/general/cat-1.jpg",
-              "alt": ""
+              "src": "/assets/images/general/",
+              "alt": "Insert image"
             },
             {
               "width": "200px",
               "position": "",
-              "src": "/assets/images/general/cat-2.jpg",
-              "alt": ""
+              "src": "/assets/images/general/",
+              "alt": "Insert image"
             }
           ],
           "blocks": [
@@ -79,7 +79,7 @@
             {
               "block": [
                 {
-                  "boldText": "CCQ kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk kkkkk!"
+                  "boldText": "CCQ"
                 },
                 {
                   "phonetics": ""
@@ -128,21 +128,21 @@
             {
               "width": "200px",
               "position": "",
-              "src": "/assets/images/general/cat-1.jpg",
-              "alt": ""
+              "src": "/assets/images/general/",
+              "alt": "Insert image"
             },
             {
               "width": "200px",
               "position": "",
-              "src": "/assets/images/general/cat-2.jpg",
-              "alt": ""
+              "src": "/assets/images/general/",
+              "alt": "Insert image"
             }
           ],
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "boldText": "Text"
                 },
                 {
                   "phonetics": ""
@@ -172,7 +172,7 @@
             {
               "block": [
                 {
-                  "boldText": "ICQ!"
+                  "boldText": "CCQ!"
                 },
                 {
                   "phonetics": ""
@@ -233,12 +233,12 @@
       "grid": false,
       "text": [
         {
-          "image": [
+          "images": [
             {
               "width": "",
               "position": "",
               "src": "/assets/images/general/",
-              "alt": ""
+              "alt": "Insert image"
             }
           ],
           "blocks": [
@@ -292,12 +292,12 @@
       "grid": false,
       "text": [
         {
-          "image": [
+          "images": [
             {
               "width": "",
               "position": "",
               "src": "/assets/images/general/",
-              "alt": ""
+              "alt": "Insert image"
             }
           ],
           "blocks": [
@@ -351,12 +351,12 @@
       "grid": false,
       "text": [
         {
-          "image": [
+          "images": [
             {
               "width": "",
               "position": "",
               "src": "/assets/images/general/",
-              "alt": ""
+              "alt": "Insert image"
             }
           ],
           "blocks": [

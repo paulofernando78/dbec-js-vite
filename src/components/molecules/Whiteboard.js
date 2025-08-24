@@ -15,7 +15,7 @@ class Whiteboard extends HTMLElement {
     css.textContent = `
       .container {
         color: black;
-        padding: var(--padding);
+        padding-left: 5px;
         border: 8px solid gray;
         border-radius: 5px;
         box-shadow: var(--box-shadow);
