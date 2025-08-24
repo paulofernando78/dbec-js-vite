@@ -383,7 +383,7 @@
               "block": [
                 { "boldText": "5.2 " },
                 { "audio": true, "audioSrc": "/assets/audio/extras/games/sierra/kings-quest-I/5-2.mp3" },
-                { "text": "Go down three screens, then left one screen to the lake edge. (In the remake, get pebbles here)." }
+                { "text": "Go down three screens, then left one screen to the lake edge, and get pebbles here." }
               ]
             },
             {
@@ -416,7 +416,7 @@
               "block": [
                 { "boldText": "6.2 " },
                 { "audio": true, "audioSrc": "/assets/audio/extras/games/sierra/kings-quest-I/6-2.mp3" },
-                { "text": "Give the empty bowl and say FILL (original) or say FILL and give stew (remake)." }
+                { "text": "Give the empty bowl and write ”fill”." }
               ]
             },
             {
@@ -449,7 +449,7 @@
               "block": [
                 { "boldText": "7.2 " },
                 { "audio": true, "audioSrc": "/assets/audio/extras/games/sierra/kings-quest-I/7-2.mp3" },
-                { "text": "Enter only if the witch is absent (check/leave/return as needed)." }
+                { "text": "Enter only if the witch is absent (check / leave / return as needed)." }
               ]
             },
             {
@@ -588,7 +588,7 @@
               "block": [
                 { "boldText": "11.3 " },
                 { "audio": true, "audioSrc": "/assets/audio/extras/games/sierra/kings-quest-I/11-3.mp3" },
-                { "text": "SAVE GAME, climb the beanstalk to reach the Land of the Clouds." }
+                { "text": "Save game and climb the beanstalk to reach the Land of the Clouds." }
               ]
             }
           ]
@@ -614,7 +614,7 @@
               "block": [
                 { "boldText": "12.2 " },
                 { "audio": true, "audioSrc": "/assets/audio/extras/games/sierra/kings-quest-I/12-2.mp3" },
-                { "text": "Use shield (original) or magic ring (remake) to wait until the giant sleeps." }
+                { "text": "Use sling to knock the giant down." }
               ]
             },
             {
