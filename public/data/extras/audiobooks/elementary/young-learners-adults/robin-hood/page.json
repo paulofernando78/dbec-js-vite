@@ -462,91 +462,101 @@
             },
             {
               "block": [
-                {"textIndent": true,
+                {
+                  "textIndent": true,
                   "text": "“Robin of Locksley,” he began “do you...”"
                 }
               ]
             },
             {
               "block": [
-                {"textIndent": true,
+                {
+                  "textIndent": true,
                   "text": "“Stop!” somebody called from the back of the church. Robin turned. It was the Sheriff of Nottingham. Behind the sheriff were twenty men with bows and arrows."
                 }
               ]
             },
             {
               "block": [
-                {"textIndent": true,
+                {
+                  "textIndent": true,
                   "text": "“My Lord Abbot,” called the sheriff loudly. “This man has to come with me. He is the robber, Robin Hood!” Then he turned to his men.“Why are you waiting?” he asked. “Take him!”"
                 }
               ]
             },
             {
               "block": [
-                {"textIndent": true,
+                {
+                  "textIndent": true,
                   "text": "“Yes, I am Robin Hood,” answered Robin, “but you will not take me. Look carefully round the church, Sheriff. Do you not see my men?”"
                 }
               ]
             },
             {
               "block": [
-                {"textIndent": true,
+                {
+                  "textIndent": true,
                   "text": "The sheriff looked and saw thirty or more tall, strong men."
                 }
               ]
             },
             {
               "block": [
-                {"textIndent": true,
+                {
+                  "textIndent": true,
                   "text": "The abbot was angry and afraid. “What are you doing?” he shouted. “Will you fight in a church ?”"
                 }
               ]
             },
             {
               "block": [
-                {"textIndent": true,
+                {
+                  "textIndent": true,
                   "text": "“This man has to come with me,” said the sheriff again. “Give me your sword, Robin Hood, and come quietly. The good abbot does not want you to fight!”"
                 }
               ]
             },
             {
               "block": [
-                {"textIndent": true,
+                {
+                  "textIndent": true,
                   "text": "Robin walked slowly to the sheriff."
                 }
               ]
             },
             {
               "block": [
-                {"textIndent": true,
+                {
+                  "textIndent": true,
                   "text": "“Here you are, my Lord,” he said - and hit the sheriff hard on the head with the top of his sword. The sheriff fell back."
                 }
               ]
             },
             {
               "block": [
-                {"textIndent": true,
+                {
+                  "textIndent": true,
                   "text": "“Outside! Everybody outside!” shouted Robin."
                 }
               ]
             },
             {
               "block": [
-                {"textIndent": true,
+                {
+                  "textIndent": true,
                   "text": "His men pushed the sheriff’s men back through the church door. A great fight began outside the abbey."
                 }
               ]
             },
             {
               "block": [
-                {"textIndent": true,
-                  "text": "Robin spoke quickly to Marian."
-                }
+                { "textIndent": true, "text": "Robin spoke quickly to Marian." }
               ]
             },
             {
               "block": [
-                {"textIndent": true,
+                {
+                  "textIndent": true,
                   "text": "“We can fight and win today,” he said. “But now the sheriff knows my name, and I cannot go back to Locksley House. Wait for me, my love. King Richard will come back to England - he will hear about the greedy sheriff and his friends. But now I will be Robin Hood of Sherwood Forest and not Robin of Locksley. I will never hurt a woman, a child or a poor man. But rich and greedy men will be afraid to walk near my forest home!”"
                 }
               ]
@@ -568,14 +578,291 @@
             {
               "block": [
                 {
+                  "play": ""
+                },
+                {
                   "boldText": "The King’s Deer"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "After the fight in the abbey, the Sheriff of Nottingham asked Prince John for Robin Fitzooth's lands. The prince sold them to him for a lot of money in gold. The greedy sheriff, of course, wanted to get the money back again as fast as possible. So his poor villagers had to pay the sheriff more money than before. The villagers on Robin's land also had to pay. Their new lord, the sheriff, was a very hard man."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "One of these villages was Farnsfield. It was very close to Sherwood, and the villagers often went into the forest. There they caught small animals and birds for their dinner. On their first visit to Farnsfield, the sheriff and his men took money and food. They also found an old man in the forest, with a dead deer on his back."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "That evening, the sheriff called all the villagers. Then his men brought out the old man and the dead deer."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Listen well!’ said the sheriff loudly. ‘You know that the deer in the forest are the king's deer. The king and his lords can catch and kill them — you cannot. This evening, I will help you to remember that!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The sheriff looked at the villagers and smiled. Nobody spoke. Then he turned to the old man."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘What is your name, old man ?’ asked the sheriff, coldly."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I ... I ... I am Much the forester, My Lord,’ answered the man, very afraid"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Well, Much the forester,’ said the sheriff. ‘You killed a king's deer. How much are you going to pay me for it?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘My Lord, you know that I cannot give you anything!’ said poor Much. ‘You ... you took our money ... and our food. I found the deer, but it was dead. I didn't kill it!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I am not interested in your stories, old man,’ said the sheriff. ‘You cannot pay me any money? Very well, then you will have to pay with your life!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "He turned to one of his men. ‘Kill this robber,’ he said, ‘and pull down his home! This will be a lesson for the villagers of Farnsfield!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The sheriff's man took out his sword, and pulled back Much's head. The villagers could not help the old forester because they were afraid. But Much called out, ‘No! Kill me, but please do not pull down my house! It is my son's home, too, and he did not hurt you. He did not take the deer. Wait, please ...!’ Much turned his eyes to the forest. ‘Oh, Robin Hood,’ he thought, ‘where are you now ? Only you can help me.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘So you have a son ?’ said the sheriff's man. ‘Well, he can stay in your house when we pull it down!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "He laughed loudly, but the sheriff looked more carefully at the forester."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Wait!’ he called. ‘I think this man knows something! Old man, why are you looking into the forest? Do you think that Robin Hood will help you? Do you know something about him? Tell me, and perhaps I will not kill you!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I can take you to Robin Hood!’ said Much quickly. ‘I can take you to his home in the forest. It is this way! Follow me!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The sheriff's man took his hands away, and Much began to move slowly to the forest. Then he suddenly ran as fast as he could."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Catch him!’ shouted the sheriff."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Much was nearly inside the forest now, but the sheriff's fighters quickly took out their bows. Three arrows hit him, and Much fell to the ground. His open eyes looked up at the sky."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I said “catch him”, not “kill him”,’ said the sheriff angrily. ‘Now the man is dead, he cannot tell us anything.’ He looked at the villagers again. ‘Perhaps one of you can tell me the way through the forest to the robber's home ? I will pay you well!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "But nobody told the sheriff about Robin Hood."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The sheriff was now very angry."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘There is nothing more for us here,’ he said to his men. ‘Pull down the forester's house, and we will go.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "He turned one last time to the villagers. ‘The next man with a deer will die too - but not as quickly. Remember that!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Later in the evening, the villagers carried Much into the centre of the village. The forester's young son stood outside his father's house. There was nothing there now."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘We are very sorry,’ the villagers said to the boy. ‘We could not do anything. Do not be too sad — your father died bravely!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Then a small man with a bow and arrows on his back walked quietly into the village."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘It is Will Scarlet, Robin Hood's man!’ said the villagers."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Will Scarlet put down his bow, and put his hand on the boy's head."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Robin knows that the sheriff was here,’ he said. ‘He sent me to help, but I am too late! Who was this man ? Was he your father?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Yes, he was my father,’ answered the young boy sadly. ‘Now I have no family - and no home!’ He turned to Will Scarlet. ‘Oh, please,’ he cried, ‘take me with you! My father taught me a lot about the forest. You can teach me to be a fighter too! I want to be Robin Hood's man. I want to fight the sheriff - and Prince John too.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘You are very young,’ said Will. ‘When you are older, perhaps...’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I am not young, I am fourteen,’ said the boy. ‘I am small, but I am strong. I learn quickly. I have nothing here. Please take me with you.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "nd so Will Scarlet took young Much to Robin Hood."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "That year, many young men came to the forest. They all had stories about the sheriff and his men. Robin and Will Scarlet taught them to use a sword and a bow and arrow. But Much, the forester's son, was always one of the best and bravest of Robin's men."
                 }
               ]
             }
@@ -610,6 +897,7 @@
             {
               "block": [
                 {
+                  "textIndent": true,
                   "text": "..."
                 }
               ]
@@ -645,6 +933,7 @@
             {
               "block": [
                 {
+                  "textIndent": true,
                   "text": "..."
                 }
               ]
@@ -680,6 +969,7 @@
             {
               "block": [
                 {
+                  "textIndent": true,
                   "text": "..."
                 }
               ]
@@ -715,6 +1005,7 @@
             {
               "block": [
                 {
+                  "textIndent": true,
                   "text": "..."
                 }
               ]
@@ -750,6 +1041,7 @@
             {
               "block": [
                 {
+                  "textIndent": true,
                   "text": "..."
                 }
               ]
@@ -785,6 +1077,7 @@
             {
               "block": [
                 {
+                  "textIndent": true,
                   "text": "..."
                 }
               ]
@@ -820,6 +1113,7 @@
             {
               "block": [
                 {
+                  "textIndent": true,
                   "text": "..."
                 }
               ]
@@ -855,6 +1149,7 @@
             {
               "block": [
                 {
+                  "textIndent": true,
                   "text": "..."
                 }
               ]
@@ -890,6 +1185,7 @@
             {
               "block": [
                 {
+                  "textIndent": true,
                   "text": "..."
                 }
               ]
@@ -925,6 +1221,7 @@
             {
               "block": [
                 {
+                  "textIndent": true,
                   "text": "..."
                 }
               ]
@@ -960,6 +1257,7 @@
             {
               "block": [
                 {
+                  "textIndent": true,
                   "text": "..."
                 }
               ]
@@ -995,6 +1293,7 @@
             {
               "block": [
                 {
+                  "textIndent": true,
                   "text": "..."
                 }
               ]
