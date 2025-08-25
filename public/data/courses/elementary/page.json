@@ -82,11 +82,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-2//flipped-classroom",
-                "label": "Flipped Classroom • Where are you from? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-2/classwork",
                 "label": "Classwork • Where are you from? (Cycle 1)"
@@ -115,11 +110,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-3/flipped-classroom",
-                "label": "Flipped Classroom • Where are you from? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-3/classwork",
@@ -150,11 +140,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-4/flipped-classroom",
-                "label": "Flipped Classroom • What do you do? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-4/classwork",
                 "label": "Classwork • What do you do? (Cycle 1)"
@@ -183,11 +168,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-5/flipped-classroom",
-                "label": "Flipped Classroom • What do you do? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-5/classwork",
@@ -248,11 +228,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-7/flipped-classroom",
-                "label": "Flipped Classroom • How much are these? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-7/classwork",
                 "label": "Classwork • How much are these? (Cycle 1)"
@@ -281,11 +256,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-8/flipped-classroom",
-                "label": "Flipped Classroom • How much are these? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-8/classwork",
@@ -316,11 +286,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-9/flipped-classroom",
-                "label": "Flipped Classroom • Do you play the guitar? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-9/classwork",
                 "label": "Classwork • Do you play the guitar? (Cycle 1)"
@@ -349,11 +314,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-10/flipped-classroom",
-                "label": "Flipped Classroom • Do you play the guitar? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-10/classwork",
@@ -414,11 +374,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-12/flipped-classroom",
-                "label": "Flipped Classroom • What's an interesting family? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-12/classwork",
                 "label": "Classwork • What's an interesting family? (Cycle 1)"
@@ -447,11 +402,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-13/flipped-classroom",
-                "label": "Flipped Classroom • What's an interesting family? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-13/classwork",
@@ -482,11 +432,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-14/flipped-classroom",
-                "label": "Flipped Classroom • How often do you run? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-14/classwork",
                 "label": "Classwork • How often do you run? (Cycle 1)"
@@ -515,11 +460,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-15/flipped-classroom",
-                "label": "Flipped Classroom • How often do you run? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-15/classwork",
@@ -580,11 +520,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-17/flipped-classroom",
-                "label": "Flipped Classroom • We went dancing! (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-17/classwork",
                 "label": "Classwork • We went dancing! (Cycle 1)"
@@ -613,11 +548,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-18/flipped-classroom",
-                "label": "Flipped Classroom • We went dancing! (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-18/classwork",
@@ -648,11 +578,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-19/flipped-classroom",
-                "label": "Flipped Classroom • How's the neighborhood? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-19/classwork",
                 "label": "Classwork • How's the neighborhood? (Cycle 1)"
@@ -681,11 +606,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-20/flipped-classroom",
-                "label": "Flipped Classroom • How's the neighborhood? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-20/classwork",
@@ -776,11 +696,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-23/flipped-classroom",
-                "label": "Flipped Classroom • What does she look like? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-23/classwork",
                 "label": "Classwork • What does she look like? (Cycle 1)"
@@ -809,11 +724,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-24/flipped-classroom",
-                "label": "Flipped Classroom • What does she look like? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-24/classwork",
@@ -844,11 +754,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-25/flipped-classroom",
-                "label": "Flipped Classroom • Have you ever been there? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-25/classwork",
                 "label": "Classwork • Have you ever been there? (Cycle 1)"
@@ -877,11 +782,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-26/flipped-classroom",
-                "label": "Flipped Classroom • Have you ever been there? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-26/classwork",
@@ -942,11 +842,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-28/flipped-classroom",
-                "label": "Flipped Classroom • It's a really nice city. (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-28/classwork",
                 "label": "Classwork • It's a really nice city. (Cycle 1)"
@@ -975,11 +870,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-29/flipped-classroom",
-                "label": "Flipped Classroom • It's a really nice city. (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-29/classwork",
@@ -1010,11 +900,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-31/flipped-classroom",
-                "label": "Flipped Classroom • It's important to get rest (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-31/classwork",
                 "label": "Classwork • It's important to get rest (Cycle 1)"
@@ -1043,11 +928,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-31/flipped-classroom",
-                "label": "Flipped Classroom • It's important to get rest (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-31/classwork",
@@ -1109,11 +989,6 @@
             "links": [
               {
                 "icon": "book",
-                "link": "/courses/elementary/lesson-33/flipped-classroom",
-                "label": "Flipped Classroom • What would you like? (Cycle 1)"
-              },
-              {
-                "icon": "book",
                 "link": "/courses/elementary/lesson-33/classwork",
                 "label": "Classwork • What would you like? (Cycle 1)"
               },
@@ -1141,11 +1016,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-34/flipped-classroom",
-                "label": "Flipped Classroom • What would you like? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-34/classwork",
@@ -1176,11 +1046,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-35/flipped-classroom",
-                "label": "Flipped Classroom • It's the coldest city! (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-35/classwork",
                 "label": "Classwork • It's the coldest city! (Cycle 1)"
@@ -1209,11 +1074,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-36/flipped-classroom",
-                "label": "Flipped Classroom • It's the coldest city! (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-36/classwork",
@@ -1274,11 +1134,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-38/flipped-classroom",
-                "label": "Flipped Classroom • What are you doing later? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-38/classwork",
                 "label": "Classwork • What are you doing later? (Cycle 1)"
@@ -1307,11 +1162,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-39/flipped-classroom",
-                "label": "Flipped Classroom • What are you doing later? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-39/classwork",
@@ -1342,11 +1192,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-40/flipped-classroom",
-                "label": "Flipped Classroom • How have you changed? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-40/classwork",
                 "label": "Classwork • How have you changed? (Cycle 1)"
@@ -1375,11 +1220,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/elementary/lesson-41/flipped-classroom",
-                "label": "Flipped Classroom • How have you changed? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/elementary/lesson-41/classwork",

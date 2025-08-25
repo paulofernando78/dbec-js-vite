@@ -92,11 +92,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-2/flipped-classroom",
-                "label": "Flipped Classroom • That's my kind of friend! (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-2/classwork",
                 "label": "Classwork • That's my kind of friend! (Cycle 1)"
@@ -125,11 +120,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-3/flipped-classroom",
-                "label": "Flipped Classroom • That's my kind of friend! (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-3/classwork",
@@ -160,11 +150,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-4/flipped-classroom",
-                "label": "Flipped Classroom • Working 9 to 5 (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-4/classwork",
                 "label": "Classwork • Working 9 to 5 (Cycle 1)"
@@ -193,11 +178,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-5/flipped-classroom",
-                "label": "Flipped Classroom • Working 9 to 5 (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-5/classwork",
@@ -258,11 +238,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-7/flipped-classroom",
-                "label": "Flipped Classroom • Lend a hand (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-7/classwork",
                 "label": "Classwork • Lend a hand (Cycle 1)"
@@ -291,11 +266,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-8/flipped-classroom",
-                "label": "Flipped Classroom • Lend a hand (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-8/classwork",
@@ -326,11 +296,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-9/flipped-classroom",
-                "label": "Flipped Classroom • What happened? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-9/classwork",
                 "label": "Classwork • What happened? (Cycle 1)"
@@ -359,11 +324,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-10/flipped-classroom",
-                "label": "Flipped Classroom • What happened? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-10/classwork",
@@ -424,11 +384,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-12/flipped-classroom",
-                "label": "Flipped Classroom • Expanding your horizons (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-12/classwork",
                 "label": "Classwork • Expanding your horizons (Cycle 1)"
@@ -457,11 +412,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-13/flipped-classroom",
-                "label": "Flipped Classroom • Expanding your horizons (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-13/classwork",
@@ -492,11 +442,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-14/flipped-classroom",
-                "label": "Flipped Classroom • That needs fixing (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-14/classwork",
                 "label": "Classwork • That needs fixing (Cycle 1)"
@@ -525,11 +470,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-15/flipped-classroom",
-                "label": "Flipped Classroom • That needs fixing (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-15/classwork",
@@ -590,11 +530,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-17/flipped-classroom",
-                "label": "Flipped Classroom • What can we do? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-17/classwork",
                 "label": "Classwork • What can we do? (Cycle 1)"
@@ -623,11 +558,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-18/flipped-classroom",
-                "label": "Flipped Classroom • What can we do? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-18/classwork",
@@ -658,11 +588,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-19/flipped-classroom",
-                "label": "Flipped Classroom • Never stop learning (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-19/classwork",
                 "label": "Classwork • Never stop learning (Cycle 1)"
@@ -691,11 +616,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-20/flipped-classroom",
-                "label": "Flipped Classroom • Never stop learning (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-20/classwork",
@@ -786,11 +706,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-23/flipped-classroom",
-                "label": "Flipped Classroom • Getting things done? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-23/classwork",
                 "label": "Classwork • Getting things done? (Cycle 1)"
@@ -819,11 +734,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-24/flipped-classroom",
-                "label": "Flipped Classroom • Getting things done? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-24/classwork",
@@ -854,11 +764,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-25/flipped-classroom",
-                "label": "Flipped Classroom • A matter of time (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-25/classwork",
                 "label": "Classwork • A matter of time (Cycle 1)"
@@ -887,11 +792,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-26/flipped-classroom",
-                "label": "Flipped Classroom • A matter of time (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-26/classwork",
@@ -952,11 +852,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-28/flipped-classroom",
-                "label": "Flipped Classroom • Rites of passage (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-28/classwork",
                 "label": "Classwork • Rites of passage (Cycle 1)"
@@ -985,11 +880,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-29/flipped-classroom",
-                "label": "Flipped Classroom • Rites of passage (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-29/classwork",
@@ -1020,11 +910,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-31/flipped-classroom",
-                "label": "Flipped Classroom • Keys to success (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-31/classwork",
                 "label": "Classwork • Keys to success (Cycle 1)"
@@ -1053,11 +938,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-31/flipped-classroom",
-                "label": "Flipped Classroom • Keys to success (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-31/classwork",
@@ -1118,11 +998,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-33/flipped-classroom",
-                "label": "Flipped Classroom • What might have been (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-33/classwork",
                 "label": "Classwork • What might have been (Cycle 1)"
@@ -1151,11 +1026,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-34/flipped-classroom",
-                "label": "Flipped Classroom • What might have been (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-34/classwork",
@@ -1186,11 +1056,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-35/flipped-classroom",
-                "label": "Flipped Classroom • Creative carrers (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-35/classwork",
                 "label": "Classwork • Creative carrers (Cycle 1)"
@@ -1219,11 +1084,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-36/flipped-classroom",
-                "label": "Flipped Classroom • Creative carrers (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-36/classwork",
@@ -1284,11 +1144,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-38/flipped-classroom",
-                "label": "Flipped Classroom • A law must be passed! (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-38/classwork",
                 "label": "Classwork • A law must be passed! (Cycle 1)"
@@ -1317,11 +1172,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-39/flipped-classroom",
-                "label": "Flipped Classroom • A law must be passed! (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-39/classwork",
@@ -1352,11 +1202,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-40/flipped-classroom",
-                "label": "Flipped Classroom • Reaching your goals (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-40/classwork",
                 "label": "Classwork • Reaching your goals (Cycle 1)"
@@ -1385,11 +1230,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/intermediate/lesson-41/flipped-classroom",
-                "label": "Flipped Classroom • Reaching your goals (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/intermediate/lesson-41/classwork",

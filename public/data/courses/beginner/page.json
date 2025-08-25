@@ -864,20 +864,20 @@
               {
                 "text": "By the end of this lesson, students will be able to discuss evening, weekend, and birthday plans using statements and yes / no questions with be going to."
               }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "classwork",
+                "link": "/courses/beginner/lesson-28/classwork",
+                "label": "Classwork • I'm going to have a party. (Cycle 1)"
+              },
+              {
+                "icon": "homework",
+                "link": "/courses/beginner/lesson-28/homework",
+                "label": "Homework • I'm going to have a party. (Cycle 1)"
+              }
             ]
-          }
-        ],
-        "addHr": true,
-        "links": [
-          {
-            "icon": "classwork",
-            "link": "/courses/beginner/lesson-28/classwork",
-            "label": "Classwork • I'm going to have a party. (Cycle 1)"
-          },
-          {
-            "icon": "homework",
-            "link": "/courses/beginner/lesson-28/homework",
-            "label": "Homework • I'm going to have a party. (Cycle 1)"
           }
         ]
       }
