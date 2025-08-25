@@ -384,7 +384,7 @@
             {
               "block": [
                 {
-                  "text": "He flies out of his cage and out of the window. The air under his wings is very cold. Behind him, he hears, ”Hey! Felix!” but he doesn’t go back. He looks down at the streets and buildings and flies through the city. A girl in a cafe with her mother sees him. “Look!” she says. Her mother does not hear. She is reading her newspaper."
+                  "text": "He flies out of his cage and out of the window. The air under his wings is very cold. Behind him, he hears, ”Hey! Felix!” but he doesn’t go back. He looks down at the streets and buildings and flies through the city. A girl in a café with her mother sees him. “Look!” she says. Her mother does not hear. She is reading her newspaper."
                 }
               ]
             }
@@ -409,11 +409,11 @@
                       "correctAnswer": ["flies out"]
                     },
                     {
-                      "text": "of his cage and out of the window and he doesn’t go",
-                      "correctAnswer": ["back"]
+                      "text": "of his cage and out of the window and he doesn’t",
+                      "correctAnswer": ["go"]
                     },
                     {
-                      "text": "."
+                      "text": "back."
                     }
                   ]
                 },
