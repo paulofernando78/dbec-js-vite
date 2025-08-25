@@ -95,7 +95,6 @@
                 "sticky": false,
                 "src": "/assets/audio/"
               },
-
               "block": [
                 {
                   "boldText": "Top boldText "
@@ -243,7 +242,7 @@
           "videoPlayer": [
             {
               "position": "top",
-              "src": "https://www.youtube.com/embed/f14IuqWLdwg?=rel=0"
+              "src": "https://www.youtube.com/embed/Iv4F-YV0TxY?rel=0"
             }
           ],
           "blocks": [
@@ -445,7 +444,7 @@
     {
       "videoPlayer": {
         "sticky": false,
-        "src": "https://www.youtube.com/embed/f14IuqWLdwg?=rel=0"
+        "src": "https://www.youtube.com/embed/Iv4F-YV0TxY?rel=0"
       }
     },
     {

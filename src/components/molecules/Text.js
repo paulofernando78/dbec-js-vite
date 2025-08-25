@@ -114,7 +114,8 @@ class Text extends HTMLElement {
       this.container.style.borderRadius = "var(--border-radius)";
       this.container.style.boxShadow = "var(--box-shadow)";
       this.container.style.padding = "3px 5px 2px 5px";
-      this.container.style.backgroundColor = "var(--yellow-1)";
+      if (block.cardColor)
+      this.container.style.backgroundColor = block.cardColor;
     }
 
     const hasImage = Array.isArray(block.images) && block.images.length > 0;

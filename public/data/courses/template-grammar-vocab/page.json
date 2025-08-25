@@ -20,9 +20,47 @@
       }
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Text"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "images": [
+        {
+          "width": "",
+          "src": "/assets/images/general/",
+          "alt": "Insert image"
+        }
+      ]
+    },
+    {
       "audioPlayer": {
         "sticky": false,
         "src": ""
+      }
+    },
+    {
+      "videoPlayer": {
+        "sticky": false,
+        "src": "https://www.youtube.com/embed/Iv4F-YV0TxY?rel=0"
       }
     },
     {
@@ -30,43 +68,19 @@
       "text": [
         {
           "card": false,
-          "images": [
-            {
-              "width": "200px",
-              "position": "",
-              "src": "/assets/images/general/",
-              "alt": "Insert image"
-            },
-            {
-              "width": "200px",
-              "position": "",
-              "src": "/assets/images/general/",
-              "alt": "Insert image"
-            }
-          ],
           "blocks": [
             {
               "block": [
                 {
                   "boldText": "Text"
-                },
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
                 {
-                  "phonetics": ""
-                },
-                {
-                  "partOfSpeech": ""
-                },
-                {
-                  "text": ""
-                },
-                {
-                  "markedText": ""
-                },
-                {
-                  "ptBoldText": ""
-                },
-                {
-                  "ptText": ""
+                  "text": "Text"
                 }
               ]
             }
@@ -74,12 +88,12 @@
         },
         {
           "card": true,
-          "cardColor": "var(--yellow-5)",
+          "cardColor": "var(--yellow-1)",
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "CCQ"
+                  "boldText": "CCQ!"
                 },
                 {
                   "phonetics": ""
@@ -130,12 +144,6 @@
               "position": "",
               "src": "/assets/images/general/",
               "alt": "Insert image"
-            },
-            {
-              "width": "200px",
-              "position": "",
-              "src": "/assets/images/general/",
-              "alt": "Insert image"
             }
           ],
           "blocks": [
@@ -168,6 +176,7 @@
         },
         {
           "card": true,
+          "cardColor": "var(--yellow-1)",
           "blocks": [
             {
               "block": [
@@ -191,21 +200,6 @@
                 },
                 {
                   "ptText": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
                 }
               ]
             }
@@ -273,6 +267,37 @@
                       "label": ""
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "cardColor": "var(--yellow-1)",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "CCQ!"
+                },
+                {
+                  "phonetics": ""
+                },
+                {
+                  "partOfSpeech": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "markedText": ""
+                },
+                {
+                  "ptBoldText": ""
+                },
+                {
+                  "ptText": ""
                 }
               ]
             }
@@ -395,6 +420,37 @@
               ]
             }
           ]
+        },
+        {
+          "card": true,
+          "cardColor": "var(--yellow-1)",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "CCQ!"
+                },
+                {
+                  "phonetics": ""
+                },
+                {
+                  "partOfSpeech": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "markedText": ""
+                },
+                {
+                  "ptBoldText": ""
+                },
+                {
+                  "ptText": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -407,29 +463,425 @@
       }
     },
     {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "Low-Controlled Written Practice"
+      }
+    },
+    {
       "grid": false,
       "text": [
         {
-          "image": [
+          "images": [
             {
-              "width": "50%",
+              "width": "",
               "position": "",
               "src": "",
-              "alt": "..."
+              "alt": "Insert image"
             }
           ],
           "blocks": [
             {
               "block": [
                 {
-                  "text": "Controlled Practice"
+                  "boldText": "Text"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "cardColor": "var(--red-1)",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "ICQ!"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText":	"• "
+                },
+                {
+                  "text":	"..."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "gap-fill, matching repetition, drilling"
+                  "boldText":	"• "
+                },
+                {
+                  "text":	"..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText":	"• "
+                },
+                {
+                  "text":	"..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "Choose the correct answer.",
+          "description": "Description"
+        },
+        {
+          "images": [
+            {
+              "width": "200px",
+              "number": "1",
+              "src": "",
+              "alt": "..."
+            },
+            {
+              "width": "200px",
+              "number": "2",
+              "src": "",
+              "alt": "..."
+            },
+            {
+              "width": "200px",
+              "number": "3",
+              "src": "",
+              "alt": "..."
+            }
+          ]
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "boldText": "1. ...",
+                  "text": "... ",
+                  "markedText": "..."
+                }
+              ],
+              "options": [
+                { "option": "a) ...", "isCorrect": true },
+                { "option": "b) ...", "isCorrect": false },
+                { "option": "c) ...", "isCorrect": false }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fill in the blank with the correct answer.",
+          "description": "Description"
+        },
+        {
+          "images": [
+            {
+              "width": "200px",
+              "number": "1",
+              "src": "",
+              "alt": "..."
+            },
+            {
+              "width": "200px",
+              "number": "2",
+              "src": "",
+              "alt": "..."
+            },
+            {
+              "width": "200px",
+              "number": "3",
+              "src": "",
+              "alt": "..."
+            }
+          ]
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "...",
+                      "correctAnswer": ["..."],
+                      "afterBlank": "..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "High-Controlled Written Practice"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "",
+              "alt": "Insert image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Text"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "cardColor": "var(--red-1)",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "ICQ!"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText":	"• "
+                },
+                {
+                  "text":	"..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText":	"• "
+                },
+                {
+                  "text":	"..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText":	"• "
+                },
+                {
+                  "text":	"..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "Low-Controlled Oral Practice"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "",
+              "alt": "Insert image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Text"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "cardColor": "var(--red-1)",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "ICQ!"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText":	"• "
+                },
+                {
+                  "text":	"..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText":	"• "
+                },
+                {
+                  "text":	"..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText":	"• "
+                },
+                {
+                  "text":	"..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "High-Controlled Oral Practice"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "",
+              "alt": "Insert image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Text"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "cardColor": "var(--red-1)",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "ICQ!"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText":	"• "
+                },
+                {
+                  "text":	"..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText":	"• "
+                },
+                {
+                  "text":	"..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText":	"• "
+                },
+                {
+                  "text":	"..."
                 }
               ]
             }
@@ -444,6 +896,82 @@
         "icon": "snippet",
         "label": "Production"
       }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "",
+              "alt": "Insert image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Text"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "cardColor": "var(--red-1)",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "ICQ!"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText":	"• "
+                },
+                {
+                  "text":	"..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText":	"• "
+                },
+                {
+                  "text":	"..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText":	"• "
+                },
+                {
+                  "text":	"..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

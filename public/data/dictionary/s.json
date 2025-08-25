@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "sketchy",
+        "phonetics": "/ˈskɛtʃi/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "Not complete, detailed, or clear; suspicious or questionable.",
+        "ptDefinition": "Incompleto, superficial ou pouco claro; suspeito ou questionável.",
+        "examples": [
+          {
+            "enExample": "The report was sketchy and lacked important details.",
+            "ptExample": "O relatório era superficial e carecia de detalhes importantes."
+          },
+          {
+            "enExample": "That part of town feels sketchy at night.",
+            "ptExample": "Aquela parte da cidade parece suspeita à noite."
+          }
+        ],
+        "synonyms": "incomplete, suspicious, dubious, unreliable",
+        "antonyms": "thorough, detailed, trustworthy",
+        "seeAlso": "shady, questionable",
+        "notes": [
+          {
+            "enNote": "In informal contexts, 'sketchy' can describe both things that are vague or incomplete and situations or people that seem unsafe or suspicious.",
+            "ptNote": "Em contextos informais, 'sketchy' pode descrever coisas vagas ou incompletas, assim como situações ou pessoas que parecem perigosas ou suspeitas."
+          }
+        ]
+      },
+      {
         "word": "starch",
         "phonetics": "/stɑːrtʃ/",
         "partOfSpeech": "noun",
