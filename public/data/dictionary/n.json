@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "numb",
+        "phonetics": "/nʌm/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "Deprived of the power of sensation or feeling; unable to think, feel, or react normally.",
+        "ptDefinition": "Privado da capacidade de sentir; sem sensibilidade física ou emocional; incapaz de reagir normalmente.",
+        "examples": [
+          {
+            "enExample": "After sitting in the cold for hours, her fingers were completely numb.",
+            "ptExample": "Depois de ficar sentada no frio por horas, seus dedos estavam completamente dormentes."
+          },
+          {
+            "enExample": "He was numb with shock when he heard the bad news.",
+            "ptExample": "Ele ficou entorpecido de choque quando ouviu a má notícia."
+          }
+        ],
+        "synonyms": "insensitive, frozen, unfeeling, dazed, paralyzed",
+        "antonyms": "sensitive, responsive, aware, alert",
+        "seeAlso": "paralyzed, anesthetized",
+        "notes": [
+          {
+            "enNote": "Can describe both physical loss of sensation (like in limbs) and emotional detachment.",
+            "ptNote": "Pode descrever tanto a perda física de sensibilidade (como em membros) quanto um distanciamento emocional."
+          }
+        ]
+      },
+      {
         "word": "nymph",
         "phonetics": "/nɪmf/",
         "partOfSpeech": "noun",
