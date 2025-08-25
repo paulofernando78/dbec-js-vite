@@ -53,20 +53,25 @@ class DateCard extends HTMLElement {
 
       }
 
-      .dropdown-wrapper {
-        display: grid;
-        grid-template-columns: 60px 65px auto;
-        align-items: center;
-        gap: 8px;
+      .day-card {
+        // display: grid;
+        // grid-template-columns: 60px 65px auto;
+        // align-items: center;
+        // gap: 8px;
+        border: var(--border);
+        border-radius: var(--border-radius);
+        padding: 5px 5px 1px 5px;
         margin-top: 3px
+      }
+
+      .status-day-wrapper {
+        display: flex;
+        gap: 8px;
+        margin-bottom: 4.5px
       }
 
       select {
         border-radius: var(--border-radius)
-      }
-
-      .class-note {
-        height: 29px
       }
     `;
 
@@ -168,9 +173,10 @@ class DateCard extends HTMLElement {
         dateContainer.appendChild(monthContainer);
 
         monthItem.month.forEach((dayItem) => {
-          const dropdownWrapper = document.createElement("div");
-          dropdownWrapper.classList.add("dropdown-wrapper");
-          monthContainer.appendChild(dropdownWrapper);
+
+          const dayCard = document.createElement("div");
+          dayCard.classList.add("day-card");
+          monthContainer.appendChild(dayCard);
 
           const options = [
             { value: "...", label: "..." },
@@ -185,6 +191,11 @@ class DateCard extends HTMLElement {
 
           if (Array.isArray(dayItem.day)) {
             dayItem.day.forEach((item) => {
+
+              const statusDayWrapper = document.createElement("div");
+              statusDayWrapper.classList.add("status-day-wrapper")
+              dayCard.appendChild(statusDayWrapper);
+
               const select = document.createElement("select");
 
               options.forEach((opt) => {
@@ -195,11 +206,11 @@ class DateCard extends HTMLElement {
               });
 
               select.value = item.status || "";
-              dropdownWrapper.appendChild(select);
+              dayCard.appendChild(select);
 
-              const p = document.createElement("p");
-              p.textContent = item.date;
-              dropdownWrapper.appendChild(p);
+              const day = document.createElement("p");
+              day.textContent = item.date;
+              dayCard.appendChild(day);
 
               const statusColors = {
                 OK: "var(--green-5)",
@@ -221,13 +232,24 @@ class DateCard extends HTMLElement {
 
               select.addEventListener("change", applySelectColors); // Re-apply when changed
 
+              statusDayWrapper.append(select, day)
+              dayCard.appendChild(statusDayWrapper)
+
               const classNote = document.createElement("wc-note");
-              classNote.classList.add("class-note");
+              classNote.classList.add("notes");
               classNote.data = {
                 value: item.classNotes,
                 placeholder: "Class notes",
               };
-              dropdownWrapper.appendChild(classNote);
+              
+              const homeworkNote = document.createElement("wc-note");
+              homeworkNote.classList.add("notes");
+              homeworkNote.data = {
+                value: item.homeWorkNotes,
+                placeholder: "Homework notes",
+              };
+
+              dayCard.append(classNote, homeworkNote);
             });
           }
 

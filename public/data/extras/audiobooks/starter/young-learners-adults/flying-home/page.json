@@ -480,17 +480,17 @@
                   "block": [
                     {
                       "text": "6.1 Felix",
-                      "correctAnswer": ["stands"]
+                      "correctAnswer": ["stands on"]
                     },
                     {
-                      "text": "on the head of the Statue of Liberty."
+                      "text": "the head of the Statue of Liberty."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "6.2 “Where are you from?”",
+                      "text": "6.2 “Where are you from?,”",
                       "correctAnswer": ["asks"]
                     },
                     {
