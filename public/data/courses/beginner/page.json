@@ -85,11 +85,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-2/flipped-classroom",
-                "label": "Flipped Classroom • What's your name? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-2/classwork",
                 "label": "Classwork • What's your name? (Cycle 1)"
@@ -118,11 +113,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-3/flipped-classroom",
-                "label": "Flipped Classroom • What's your name? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-3/classwork",
@@ -158,11 +148,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-4/flipped-classroom",
-                "label": "Flipped Classroom • Where are my keys? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-4/classwork",
                 "label": "Classwork • Where are my keys? (Cycle 1)"
@@ -191,11 +176,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-5/flipped-classroom",
-                "label": "Flipped Classroom • Where are my keys? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-5/classwork",
@@ -256,11 +236,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-7/flipped-classroom",
-                "label": "Flipped Classroom • Where are you from? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-7/classwork",
                 "label": "Classwork • Where are you from? (Cycle 1)"
@@ -289,11 +264,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-8/flipped-classroom",
-                "label": "Flipped Classroom • Where are you from? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-8/classwork",
@@ -324,11 +294,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-9/flipped-classroom",
-                "label": "Flipped Classroom • Is this your coat? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-9/classwork",
                 "label": "Classwork • Is this your coat? (Cycle 1)"
@@ -357,11 +322,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-10/flipped-classroom",
-                "label": "Flipped Classroom • Is this your coat? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-10/classwork",
@@ -422,11 +382,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-12/flipped-classroom",
-                "label": "Flipped Classroom • What time is it? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-12/classwork",
                 "label": "Classwork • What time is it? (Cycle 1)"
@@ -455,11 +410,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-13/flipped-classroom",
-                "label": "Flipped Classroom • What time is it? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-13/classwork",
@@ -490,11 +440,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-14/flipped-classroom",
-                "label": "Flipped Classroom • I ride my bike to school. (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-14/classwork",
                 "label": "Classwork • I ride my bike to school. (Cycle 1)"
@@ -523,11 +468,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-15/flipped-classroom",
-                "label": "Flipped Classroom • I ride my bike to school. (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-15/classwork",
@@ -602,11 +542,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-17/flipped-classroom",
-                "label": "Flipped Classroom • Does it have a view? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-17/classwork",
                 "label": "Classwork • Does it have a view? (Cycle 1)"
@@ -635,11 +570,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-18/flipped-classroom",
-                "label": "Flipped Classroom • Does it have a view? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-18/classwork",
@@ -670,11 +600,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-19/flipped-classroom",
-                "label": "Flipped Classroom • Where do you work? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-19/classwork",
                 "label": "Classwork • Where do you work? (Cycle 1)"
@@ -703,11 +628,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-20/flipped-classroom",
-                "label": "Flipped Classroom • Where do you work? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-20/classwork",
@@ -802,11 +722,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-23/flipped-classroom",
-                "label": "Flipped Classroom • I always eat breakfast. (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-23/classwork",
                 "label": "Classwork • I always eat breakfast. (Cycle 1)"
@@ -835,11 +750,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-24/flipped-classroom",
-                "label": "Flipped Classroom • I always eat breakfast. (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-24/classwork",
@@ -870,11 +780,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-25/flipped-classroom",
-                "label": "Flipped Classroom • What sports do you like? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-25/classwork",
                 "label": "Classwork • What sports do you like? (Cycle 1)"
@@ -903,11 +808,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-26/flipped-classroom",
-                "label": "Flipped Classroom • What sports do you like? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-26/classwork",
@@ -970,11 +870,6 @@
         "addHr": true,
         "links": [
           {
-            "icon": "eye",
-            "link": "/courses/beginner/lesson-28/flipped-classroom",
-            "label": "Flipped Classroom • I'm going to have a party. (Cycle 1)"
-          },
-          {
             "icon": "classwork",
             "link": "/courses/beginner/lesson-28/classwork",
             "label": "Classwork • I'm going to have a party. (Cycle 1)"
@@ -1001,11 +896,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-29/flipped-classroom",
-                "label": "Flipped Classroom • I'm going to have a party. (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-29/classwork",
@@ -1036,11 +926,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-30/flipped-classroom",
-                "label": "Flipped Classroom • How do you feel? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-30/classwork",
                 "label": "Classwork • How do you feel? (Cycle 1)"
@@ -1069,11 +954,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-31/flipped-classroom",
-                "label": "Flipped Classroom • How do you feel? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-31/classwork",
@@ -1134,11 +1014,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-33/flipped-classroom",
-                "label": "Flipped Classroom • How do I get there? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-33/classwork",
                 "label": "Classwork • How do I get there? (Cycle 1)"
@@ -1167,11 +1042,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-34/flipped-classroom",
-                "label": "Flipped Classroom • How do I get there? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-34/classwork",
@@ -1202,11 +1072,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-35/flipped-classroom",
-                "label": "Flipped Classroom • I had a good time. (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-35/classwork",
                 "label": "Classwork • I had a good time. (Cycle 1)"
@@ -1235,11 +1100,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-36/flipped-classroom",
-                "label": "Flipped Classroom • I had a good time. (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-36/classwork",
@@ -1300,11 +1160,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-38/flipped-classroom",
-                "label": "Flipped Classroom • Where were you born? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-38/classwork",
                 "label": "Classwork • Where were you born? (Cycle 1)"
@@ -1333,11 +1188,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-39/flipped-classroom",
-                "label": "Flipped Classroom • Where were you born? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-39/classwork",
@@ -1368,11 +1218,6 @@
             "addHr": true,
             "links": [
               {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-40/flipped-classroom",
-                "label": "Flipped Classroom • Can I take a message? (Cycle 1)"
-              },
-              {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-40/classwork",
                 "label": "Classwork • Can I take a message? (Cycle 1)"
@@ -1401,11 +1246,6 @@
             ],
             "addHr": true,
             "links": [
-              {
-                "icon": "eye",
-                "link": "/courses/beginner/lesson-41/flipped-classroom",
-                "label": "Flipped Classroom • Can I take a message? (Cycle 2)"
-              },
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-41/classwork",

@@ -31,6 +31,9 @@
   },
   "contents": [
     {
+      "components": "wc-the-alphabet"
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Image"

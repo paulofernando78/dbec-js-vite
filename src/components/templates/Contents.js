@@ -168,6 +168,11 @@ class Contents extends HTMLElement {
         contentContainer.appendChild(exercise);
       }
 
+      if (section.components) {
+        const element = document.createElement(section.components);
+        contentContainer.appendChild(element);
+      }
+
       // Game Emulator
       // if (section.gameSrc) {
       //   const game = document.createElement("wc-game-emulator");
