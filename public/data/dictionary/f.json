@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "feather",
+        "phonetics": "/ˈfeð.ər/",
+        "partOfSpeech": "noun",
+        "enDefinition": "One of the light, soft structures that cover a bird's body, consisting of a central shaft with fine hair-like parts on each side.",
+        "ptDefinition": "Uma das estruturas leves e macias que cobrem o corpo de uma ave, consistindo em um eixo central com partes finas semelhantes a pelos em cada lado; pena",
+        "examples": [
+          {
+            "enExample": "The bird lost a feather while flying.",
+            "ptExample": "O pássaro perdeu uma pena enquanto voava."
+          },
+          {
+            "enExample": "She wore a hat decorated with colorful feathers.",
+            "ptExample": "Ela usava um chapéu decorado com penas coloridas."
+          }
+        ],
+        "synonyms": "plume, quill",
+        "antonyms": "—",
+        "seeAlso": "feathery, feathered",
+        "notes": [
+          {
+            "enNote": "Feathers are not only for flight but also for insulation and display in birds.",
+            "ptNote": "As penas não servem apenas para voar, mas também para isolamento térmico e exibição nas aves."
+          }
+        ]
+      },
+      {
         "word": "fairy",
         "phonetics": "/ˈfeə.ri/ (UK), /ˈfer.i/ (US)",
         "partOfSpeech": "noun",
