@@ -2,6 +2,50 @@
   {
     "definitions": [
       {
+        "word": "nail file",
+        "phonetics": "/ˈneɪl faɪl/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A small tool used to shape, smooth, or shorten fingernails or toenails.",
+        "ptDefinition": "Uma pequena ferramenta usada para lixar, dar forma ou encurtar as unhas das mãos ou dos pés.",
+        "examples": [
+          {
+            "enExample": "She used a nail file to smooth the edges of her nails.",
+            "ptExample": "Ela usou uma lixa de unha para alisar as bordas das unhas."
+          }
+        ],
+        "synonyms": "emery board",
+        "antonyms": "",
+        "seeAlso": "nail clippers, manicure",
+        "notes": [
+          {
+            "enNote": "Often made of metal, glass, or cardboard with a rough surface; 'emery board' refers to a cardboard type.",
+            "ptNote": "Geralmente feita de metal, vidro ou papelão com superfície áspera; 'emery board' se refere ao tipo de papelão."
+          }
+        ]
+      },
+      {
+        "word": "nail polish",
+        "phonetics": "/ˈneɪl ˌpɒlɪʃ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A colored or clear liquid applied to fingernails or toenails to decorate or protect them.",
+        "ptDefinition": "Um líquido colorido ou transparente aplicado nas unhas das mãos ou dos pés para decorá-las ou protegê-las.",
+        "examples": [
+          {
+            "enExample": "She painted her nails with red nail polish.",
+            "ptExample": "Ela pintou as unhas com esmalte vermelho."
+          }
+        ],
+        "synonyms": "nail varnish (UK)",
+        "antonyms": "",
+        "seeAlso": "manicure, pedicure",
+        "notes": [
+          {
+            "enNote": "Commonly used in beauty and cosmetic contexts; 'nail varnish' is the more frequent term in British English.",
+            "ptNote": "Mais usado em contextos de beleza e cosmética; em inglês britânico, usa-se mais 'nail varnish'."
+          }
+        ]
+      },
+      {
         "word": "numb",
         "phonetics": "/nʌm/",
         "partOfSpeech": "adjective",

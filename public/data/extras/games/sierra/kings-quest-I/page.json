@@ -376,14 +376,14 @@
               "block": [
                 { "boldText": "5.1 " },
                 { "audio": true, "audioSrc": "/assets/audio/extras/games/sierra/kings-quest-I/5-1.mp3" },
-                { "text": "Go left one screen to the walnut tree and pick walnuts until you get a golden walnut." }
+                { "text": "Go left one screen to the walnut tree and pick walnut from the ground, then open it." }
               ]
             },
             {
               "block": [
                 { "boldText": "5.2 " },
                 { "audio": true, "audioSrc": "/assets/audio/extras/games/sierra/kings-quest-I/5-2.mp3" },
-                { "text": "Go down three screens, then left one screen to the lake edge, and get pebbles here." }
+                { "text": "Go up and right   to the lake edge, and get pebbles here." }
               ]
             },
             {
