@@ -2,6 +2,62 @@
   {
     "definitions": [
       {
+        "word": "worthwhile",
+        "phonetics": "/ˌwɜːrθˈwaɪl/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "Worth the time, money, or effort spent; rewarding or valuable.",
+        "ptDefinition": "Que vale o tempo, o dinheiro ou o esforço despendido; gratificante ou valioso.",
+        "examples": [
+          {
+            "enExample": "It’s worthwhile to learn a new language.",
+            "ptExample": "Vale a pena aprender um novo idioma."
+          },
+          {
+            "enExample": "They found the experience worthwhile despite the difficulties.",
+            "ptExample": "Eles acharam a experiência válida apesar das dificuldades."
+          }
+        ],
+        "synonyms": "valuable, rewarding, beneficial, profitable",
+        "antonyms": "worthless, pointless, futile",
+        "seeAlso": "while, worthwhile investment",
+        "notes": [
+          {
+            "enNote": "‘Worthwhile’ is often used before ‘to’ + verb or after ‘be’. It emphasizes that something deserves the time or effort invested.",
+            "ptNote": "‘Worthwhile’ é frequentemente usado antes de ‘to’ + verbo ou após ‘be’. Enfatiza que algo merece o tempo ou esforço investido."
+          }
+        ]
+      },
+      {
+        "word": "while",
+        "phonetics": "/waɪl/",
+        "partOfSpeech": "conjunction, noun, verb",
+        "enDefinition": "As a conjunction: during the time that; although; whereas. As a noun: a short time. As a verb (rare/archaic): to spend time in a leisurely way.",
+        "ptDefinition": "Como conjunção: durante o tempo em que; embora; ao passo que. Como substantivo: um curto período de tempo. Como verbo (raro/arcaico): passar o tempo de forma agradável.",
+        "examples": [
+          {
+            "enExample": "She was reading while he cooked dinner.",
+            "ptExample": "Ela estava lendo enquanto ele preparava o jantar."
+          },
+          {
+            "enExample": "It’s been a while since we last met.",
+            "ptExample": "Faz um tempo desde a última vez que nos encontramos."
+          },
+          {
+            "enExample": "He whiled away the afternoon by listening to music.",
+            "ptExample": "Ele passou a tarde ouvindo música."
+          }
+        ],
+        "synonyms": "during, although, whereas, time, moment",
+        "antonyms": "—",
+        "seeAlso": "meanwhile, worthwhile, awhile",
+        "notes": [
+          {
+            "enNote": "‘While’ as a conjunction is very common in both spoken and written English. The noun form usually appears with 'a' (e.g., 'a while').",
+            "ptNote": "‘While’ como conjunção é muito comum no inglês falado e escrito. A forma substantiva geralmente aparece com o artigo 'a' (ex.: 'a while')."
+          }
+        ]
+      },
+      {
         "word": "witch",
         "phonetics": "/wɪtʃ/",
         "partOfSpeech": "noun",

@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "awhile",
+        "phonetics": "/əˈwaɪl/",
+        "partOfSpeech": "adverb",
+        "enDefinition": "For a short time.",
+        "ptDefinition": "Por um curto período de tempo.",
+        "examples": [
+          {
+            "enExample": "Stay awhile and listen.",
+            "ptExample": "Fique um pouco e ouça."
+          },
+          {
+            "enExample": "He rested awhile before continuing his journey.",
+            "ptExample": "Ele descansou um pouco antes de continuar sua jornada."
+          }
+        ],
+        "synonyms": "for a short time, briefly",
+        "antonyms": "—",
+        "seeAlso": "a while, meanwhile",
+        "notes": [
+          {
+            "enNote": "‘Awhile’ is an adverb meaning ‘for a short time’. Do not confuse it with ‘a while’ (noun phrase), which usually follows a preposition (e.g., ‘for a while’).",
+            "ptNote": "‘Awhile’ é um advérbio que significa ‘por um curto tempo’. Não confundir com ‘a while’ (locução nominal), que geralmente vem após uma preposição (ex.: ‘for a while’)."
+          }
+        ]
+      },
+      {
         "word": "abbot",
         "phonetics": "/ˈæbət/",
         "partOfSpeech": "noun",

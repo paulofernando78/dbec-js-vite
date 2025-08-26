@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+  "word": "meanwhile",
+  "phonetics": "/ˈmiːn.waɪl/",
+  "partOfSpeech": "adverb, noun",
+  "enDefinition": "As an adverb: at the same time; in the time between two events. As a noun: the period of time between two events.",
+  "ptDefinition": "Como advérbio: ao mesmo tempo; durante o intervalo entre dois eventos. Como substantivo: o período de tempo entre dois eventos.",
+  "examples": [
+    {
+      "enExample": "She was preparing dinner; meanwhile, he set the table.",
+      "ptExample": "Ela estava preparando o jantar; enquanto isso, ele arrumou a mesa."
+    },
+    {
+      "enExample": "The new system is being installed. In the meanwhile, we are using the old one.",
+      "ptExample": "O novo sistema está sendo instalado. Enquanto isso, estamos usando o antigo."
+    }
+  ],
+  "synonyms": "at the same time, in the meantime",
+  "antonyms": "—",
+  "seeAlso": "while, meantime",
+  "notes": [
+    {
+      "enNote": "‘Meanwhile’ is often interchangeable with ‘in the meantime’, though ‘meanwhile’ is slightly more formal in writing.",
+      "ptNote": "‘Meanwhile’ muitas vezes é intercambiável com ‘in the meantime’, embora ‘meanwhile’ seja um pouco mais formal na escrita."
+    }
+  ]
+},
+      {
         "word": "meadow",
         "phonetics": "/ˈmed.oʊ/ (US), /ˈmed.əʊ/ (UK)",
         "partOfSpeech": "noun",
