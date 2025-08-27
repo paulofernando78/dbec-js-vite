@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "grasp",
+        "phonetics": "/ɡræsp/",
+        "partOfSpeech": "verb / noun",
+        "enDefinition": "Verb: to take and hold something firmly with your hands; to understand something fully. Noun: a firm hold or understanding.",
+        "ptDefinition": "Verbo: segurar algo firmemente com as mãos; compreender completamente algo. Substantivo: um aperto firme ou compreensão.",
+        "examples": [
+          {
+            "enExample": "She grasped the rope tightly to avoid falling.",
+            "ptExample": "Ela segurou a corda firmemente para não cair."
+          },
+          {
+            "enExample": "He finally grasped the concept after hours of explanation.",
+            "ptExample": "Ele finalmente compreendeu o conceito após horas de explicação."
+          }
+        ],
+        "synonyms": "seize, grip, understand, comprehend",
+        "antonyms": "release, let go, misunderstand",
+        "seeAlso": "hold, clutch, comprehend",
+        "notes": [
+          {
+            "enNote": "Can be used both physically (holding something) and mentally (understanding something).",
+            "ptNote": "Pode ser usado tanto fisicamente (segurar algo) quanto mentalmente (compreender algo)."
+          }
+        ]
+      },
+      {
         "word": "greedy",
         "phonetics": "/ˈɡriːdi/",
         "partOfSpeech": "adjective",

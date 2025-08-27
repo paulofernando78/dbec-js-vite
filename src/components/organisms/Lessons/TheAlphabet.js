@@ -11,9 +11,11 @@ class TheAlphabet extends HTMLElement {
 
     /*css*/
     const css = document.createElement("style");
-    css.textContent = `
-      .letter-container {
+    css.textContent = ` 
+    
+    .letter-container {
         display: flex;
+        justify-content: center;
         flex-wrap: wrap;
         gap: 8px;
       }

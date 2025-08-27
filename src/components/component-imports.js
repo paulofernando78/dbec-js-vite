@@ -25,8 +25,11 @@ import Header from "./organisms/Header";
 import Layout from "./organisms/Layout";
 import NavBar from "./organisms/NavBar";
 import StudentDashboard from "./organisms/StudentDashboard";
-import TheAlphabet from "./organisms/Lessons/TheAlphabet";
 import UnderConstruction from "./organisms/UnderConstruction";
+
+// Lessons
+import TheAlphabet from "./organisms/Lessons/TheAlphabet";
+import PresentPerfect from "./organisms/Lessons/PresentPerfect";
 
 //Templates
 import Contents from "./templates/Contents";
@@ -65,8 +68,11 @@ customElements.define("wc-header", Header);
 customElements.define("wc-layout", Layout);
 customElements.define("wc-nav-bar", NavBar);
 customElements.define("wc-student-dashboard", StudentDashboard);
-customElements.define("wc-the-alphabet", TheAlphabet);
 customElements.define("wc-under-construction", UnderConstruction);
+
+// Lessons
+customElements.define("wc-the-alphabet", TheAlphabet);
+customElements.define("wc-present-perfect", PresentPerfect);
 
 // Templates
 customElements.define("wc-contents", Contents);

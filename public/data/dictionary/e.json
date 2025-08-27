@@ -2,6 +2,40 @@
   {
     "definitions": [
       {
+        "word": "earthly",
+        "phonetics": "/ˈɜːrθli/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "Relating to the world or human life on Earth; worldly rather than spiritual.",
+        "ptDefinition": "Relativo ao mundo ou à vida humana na Terra; mundano, em contraste com espiritual.",
+        "examples": [
+          {
+            "enExample": "He had no earthly idea what she was talking about.",
+            "ptExample": "Ele não tinha a menor ideia do que ela estava falando."
+          },
+          {
+            "enExample": "Earthly pleasures can be enjoyable but fleeting.",
+            "ptExample": "Os prazeres terrenos podem ser agradáveis, mas passageiros."
+          },
+          {
+            "enExample": "She gave up all earthly possessions to live a simple life.",
+            "ptExample": "Ela renunciou a todas as posses terrenas para viver uma vida simples."
+          },
+          {
+            "enExample": "There is no earthly reason to be so angry over this.",
+            "ptExample": "Não há a menor razão para ficar tão bravo com isso."
+          }
+        ],
+        "synonyms": "worldly, terrestrial, mundane",
+        "antonyms": "spiritual, heavenly, otherworldly",
+        "seeAlso": "mortal, temporal",
+        "notes": [
+          {
+            "enNote": "Often used in expressions like 'no earthly reason' or 'no earthly way' to emphasize impossibility.",
+            "ptNote": "Freqüentemente usado em expressões como 'no earthly reason' ou 'no earthly way' para enfatizar impossibilidade."
+          }
+        ]
+      },
+      {
         "word": "up to one’s ears in work",
         "partOfSpeech": "idiom",
         "enDefinition": "to be extremely busy with work",

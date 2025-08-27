@@ -18,13 +18,92 @@
   },
   "contents": [
     {
-      "text": [
+      "component": "wc-present-perfect"
+    },
+    {
+      "exercises": [
         {
-          "blocks": [
+          "title": "Choose the correct answer.",
+          "description": "Description"
+        },
+        {
+          "images": [
             {
-              "block": [
+              "width": "200px",
+              "number": "1",
+              "src": "",
+              "alt": "..."
+            },
+            {
+              "width": "200px",
+              "number": "2",
+              "src": "",
+              "alt": "..."
+            },
+            {
+              "width": "200px",
+              "number": "3",
+              "src": "",
+              "alt": "..."
+            }
+          ]
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
                 {
-                  "boldText": "Under construction..."
+                  "boldText": "1. ...",
+                  "text": "... ",
+                  "markedText": "..."
+                }
+              ],
+              "options": [
+                { "option": "a) ...", "isCorrect": true },
+                { "option": "b) ...", "isCorrect": false },
+                { "option": "c) ...", "isCorrect": false }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fill in the blank with the correct answer.",
+          "description": "Description"
+        },
+        {
+          "images": [
+            {
+              "width": "200px",
+              "number": "1",
+              "src": "",
+              "alt": "..."
+            },
+            {
+              "width": "200px",
+              "number": "2",
+              "src": "",
+              "alt": "..."
+            },
+            {
+              "width": "200px",
+              "number": "3",
+              "src": "",
+              "alt": "..."
+            }
+          ]
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "beforeBlank": "...",
+                      "correctAnswer": ["..."],
+                      "afterBlank": "..."
+                    }
+                  ]
                 }
               ]
             }

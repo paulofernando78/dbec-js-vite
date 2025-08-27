@@ -2,6 +2,141 @@
   {
     "definitions": [
       {
+        "word": "patch",
+        "phonetics": "/pætʃ/",
+        "partOfSpeech": "noun / verb",
+        "enDefinition": "Noun: a small piece of material used to mend or cover a hole; a small area that is different from the surrounding area. Verb: to mend or cover a hole with a piece of material.",
+        "ptDefinition": "Substantivo: um pequeno pedaço de material usado para remendar ou cobrir um buraco; uma pequena área diferente do entorno. Verbo: remendar ou cobrir um buraco com um pedaço de material.",
+        "examples": [
+          {
+            "enExample": "She sewed a patch onto her torn jeans.",
+            "ptExample": "Ela costurou um remendo na sua calça jeans rasgada."
+          },
+          {
+            "enExample": "The garden had a patch of colorful flowers.",
+            "ptExample": "O jardim tinha um canteiro de flores coloridas."
+          },
+          {
+            "enExample": "He patched the hole in the roof before the rain came.",
+            "ptExample": "Ele remendou o buraco no telhado antes da chuva chegar."
+          },
+          {
+            "enExample": "The software company released a patch to fix the security bug.",
+            "ptExample": "A empresa de software lançou uma atualização para corrigir o bug de segurança."
+          }
+        ],
+        "synonyms": "mend, repair, fix, piece, area",
+        "antonyms": "tear, damage, break",
+        "seeAlso": "mend, fix, repair",
+        "notes": [
+          {
+            "enNote": "Can refer to physical material, areas of land, or software updates.",
+            "ptNote": "Pode se referir a material físico, áreas de terra ou atualizações de software."
+          }
+        ]
+      },
+      {
+        "word": "wander",
+        "phonetics": "/ˈwɑːndər/",
+        "partOfSpeech": "verb",
+        "enDefinition": "To walk or move in a leisurely, aimless, or irregular way; to stray from a path or topic.",
+        "ptDefinition": "Andar ou se mover de forma descontraída, sem rumo ou irregular; desviar-se de um caminho ou assunto.",
+        "examples": [
+          {
+            "enExample": "He wandered through the streets of the old city, taking in the sights.",
+            "ptExample": "Ele vagou pelas ruas da cidade velha, apreciando as paisagens."
+          },
+          {
+            "enExample": "Her thoughts began to wander during the long meeting.",
+            "ptExample": "Seus pensamentos começaram a divagar durante a longa reunião."
+          },
+          {
+            "enExample": "The child wandered away from the playground.",
+            "ptExample": "A criança se afastou do parquinho."
+          },
+          {
+            "enExample": "Sometimes I like to wander in the forest to clear my mind.",
+            "ptExample": "Às vezes gosto de passear pela floresta para clarear a mente."
+          }
+        ],
+        "synonyms": "roam, drift, meander, stray",
+        "antonyms": "stay, remain, focus",
+        "seeAlso": "roam, drift, meander",
+        "notes": [
+          {
+            "enNote": "Can refer to physical movement or mental distraction.",
+            "ptNote": "Pode se referir a movimento físico ou distração mental."
+          }
+        ]
+      },
+      {
+        "word": "walkthrough",
+        "phonetics": "/ˈwɔːkˌθruː/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A detailed explanation or demonstration of how to do something, often presented step by step. It can also refer to a rehearsal or practice run of an activity.",
+        "ptDefinition": "Uma explicação ou demonstração detalhada de como fazer algo, geralmente apresentada passo a passo. Também pode se referir a um ensaio ou simulação de uma atividade.",
+        "examples": [
+          {
+            "enExample": "The software includes a walkthrough to help new users get started.",
+            "ptExample": "O software inclui um guia passo a passo para ajudar novos usuários a começarem."
+          },
+          {
+            "enExample": "The team did a walkthrough of the presentation before the big meeting.",
+            "ptExample": "A equipe fez um ensaio da apresentação antes da grande reunião."
+          },
+          {
+            "enExample": "I watched a game walkthrough on YouTube to figure out how to beat the final boss.",
+            "ptExample": "Assisti a um walkthrough do jogo no YouTube para descobrir como derrotar o chefe final."
+          }
+        ],
+        "synonyms": "guide, tutorial, rehearsal, run-through, demonstration",
+        "seeAlso": "walk somebody through, tutorial, run-through, demo",
+        "notes": [
+          {
+            "enNote": "Common in video games, where 'walkthroughs' explain how to complete levels or challenges.",
+            "ptNote": "Muito comum em videogames, onde 'walkthroughs' explicam como completar fases ou desafios."
+          },
+          {
+            "enNote": "Also used in business or training to mean a practice session or detailed review.",
+            "ptNote": "Também usado em negócios ou treinamentos para se referir a um ensaio ou revisão detalhada."
+          }
+        ]
+      },
+      {
+        "word": "walk somebody through",
+        "phonetics": "/wɔːk ˈsʌmbədi θruː/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "To carefully explain something to someone step by step so that they understand how to do it.",
+        "ptDefinition": "Explicar algo cuidadosamente para alguém, passo a passo, para que a pessoa entenda como fazer.",
+        "examples": [
+          {
+            "enExample": "The teacher walked us through the process of writing an essay.",
+            "ptExample": "A professora nos explicou passo a passo o processo de escrever uma redação."
+          },
+          {
+            "enExample": "Can you walk me through how to install this software?",
+            "ptExample": "Você pode me explicar passo a passo como instalar este software?"
+          },
+          {
+            "enExample": "He walked her through the contract before she signed it.",
+            "ptExample": "Ele a orientou passo a passo sobre o contrato antes que ela o assinasse."
+          }
+        ],
+        "synonyms": "guide, explain, demonstrate, instruct",
+        "antonyms": "confuse, mislead",
+        "seeAlso": "talk someone through, show someone the ropes, go over",
+        "notes": [
+          {
+            "enNote": "Often used in teaching, training, or technical contexts where clarity is important.",
+            "ptNote": "Frequentemente usado em contextos de ensino, treinamento ou técnicos, onde a clareza é importante."
+          },
+          {
+            "enNote": "Can also be used figuratively, for guiding someone through a difficult situation.",
+            "ptNote": "Também pode ser usado de forma figurada, para orientar alguém em uma situação difícil."
+          }
+        ]
+      },
+      {
         "word": "worthwhile",
         "phonetics": "/ˌwɜːrθˈwaɪl/",
         "partOfSpeech": "adjective",

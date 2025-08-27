@@ -11,4 +11,5 @@
 @import "/src/css/ultilities/spacing.css";
 @import "/src/css/ultilities/text.css";
 
-@import "/src/css/presentation.css"
+@import "/src/css/presentation.css";
+@import "/src/css/components.css"

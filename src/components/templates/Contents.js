@@ -168,8 +168,8 @@ class Contents extends HTMLElement {
         contentContainer.appendChild(exercise);
       }
 
-      if (section.components) {
-        const element = document.createElement(section.components);
+      if (section.component) {
+        const element = document.createElement(section.component);
         contentContainer.appendChild(element);
       }
 

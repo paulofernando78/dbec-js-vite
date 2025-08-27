@@ -61,7 +61,7 @@ class DateCard extends HTMLElement {
         border: var(--border);
         border-radius: var(--border-radius);
         padding: 5px 5px 1px 5px;
-        margin-top: 3px
+        margin-top: 5px
       }
 
       .status-day-wrapper {
@@ -79,8 +79,8 @@ class DateCard extends HTMLElement {
   }
 
   set data(dateCard) {
-    const container = document.createElement("div")
-    container.classList.add("line-break")
+    const container = document.createElement("div");
+    container.classList.add("line-break");
     this.shadowRoot.appendChild(container);
 
     const ribbon = document.createElement("wc-ribbon");
@@ -92,56 +92,56 @@ class DateCard extends HTMLElement {
     container.appendChild(ribbon);
 
     const referenceTitle = document.createElement("span");
-    referenceTitle.classList.add("reference-title")
-    referenceTitle.textContent = "Reference"
+    referenceTitle.classList.add("reference-title");
+    referenceTitle.textContent = "Reference";
     container.appendChild(referenceTitle);
 
     const reference = [
       {
         status: "OK",
-        color: "var(--green-5)"
+        color: "var(--green-5)",
       },
       {
         status: "SC (Student Canceled)",
-        color: "var(--red-4)"
+        color: "var(--red-4)",
       },
       {
         status: "TC (Teacher Canceled)",
-        color: "var(--red-4)"
+        color: "var(--red-4)",
       },
       {
         status: "R (Replace)",
-        color: "var(--blue-4)"
+        color: "var(--blue-4)",
       },
       {
         status: "ROK (Replacement OK)",
-        color: "var(--green-6)"
+        color: "var(--green-6)",
       },
       {
         status: "H (Holiday)",
-        color: "var(--violet-4)"
+        color: "var(--violet-4)",
       },
       {
         status: "V (Vacation)",
-        color: "var(--violet-5)"
+        color: "var(--violet-5)",
       },
     ];
 
     const referenceContainer = document.createElement("div");
-    referenceContainer.classList.add("reference-container")
-    container.appendChild(referenceContainer)
+    referenceContainer.classList.add("reference-container");
+    container.appendChild(referenceContainer);
 
     reference.forEach((item) => {
       const Reference = document.createElement("div");
       Reference.classList.add("reference");
       Reference.textContent = item.status;
-      Reference.style.backgroundColor = item.color
+      Reference.style.backgroundColor = item.color;
       referenceContainer.appendChild(Reference);
-    })
+    });
 
     const yearContainer = document.createElement("div");
     yearContainer.classList.add("year-container");
-    container.appendChild(yearContainer)
+    container.appendChild(yearContainer);
 
     const cardLabel = document.createElement("div");
     cardLabel.classList.add("card-label");
@@ -155,7 +155,7 @@ class DateCard extends HTMLElement {
 
       dateCard.date.forEach((monthItem) => {
         const monthContainer = document.createElement("div");
-        monthContainer.classList.add("month-container")
+        monthContainer.classList.add("month-container");
 
         const monthTitle = document.createElement("span");
         monthTitle.classList.add("month-title");
@@ -173,7 +173,6 @@ class DateCard extends HTMLElement {
         dateContainer.appendChild(monthContainer);
 
         monthItem.month.forEach((dayItem) => {
-
           const dayCard = document.createElement("div");
           dayCard.classList.add("day-card");
           monthContainer.appendChild(dayCard);
@@ -191,9 +190,8 @@ class DateCard extends HTMLElement {
 
           if (Array.isArray(dayItem.day)) {
             dayItem.day.forEach((item) => {
-
               const statusDayWrapper = document.createElement("div");
-              statusDayWrapper.classList.add("status-day-wrapper")
+              statusDayWrapper.classList.add("status-day-wrapper");
               dayCard.appendChild(statusDayWrapper);
 
               const select = document.createElement("select");
@@ -232,8 +230,8 @@ class DateCard extends HTMLElement {
 
               select.addEventListener("change", applySelectColors); // Re-apply when changed
 
-              statusDayWrapper.append(select, day)
-              dayCard.appendChild(statusDayWrapper)
+              statusDayWrapper.append(select, day);
+              dayCard.appendChild(statusDayWrapper);
 
               const classNote = document.createElement("wc-note");
               classNote.classList.add("notes");
@@ -241,7 +239,7 @@ class DateCard extends HTMLElement {
                 value: item.classNotes,
                 placeholder: "Class notes",
               };
-              
+
               const homeworkNote = document.createElement("wc-note");
               homeworkNote.classList.add("notes");
               homeworkNote.data = {

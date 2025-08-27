@@ -2,6 +2,35 @@
   {
     "definitions": [
       {
+        "word": "pebble",
+        "phonetics": "/ˈpɛb.əl/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A small, smooth stone, usually found on beaches or in rivers.",
+        "ptDefinition": "Uma pedra pequena e lisa, geralmente encontrada em praias ou rios.",
+        "examples": [
+          {
+            "enExample": "The children collected colorful pebbles from the riverbank.",
+            "ptExample": "As crianças recolheram pedras coloridas na margem do rio."
+          },
+          {
+            "enExample": "He skipped a pebble across the lake.",
+            "ptExample": "Ele lançou uma pedra sobre o lago, fazendo-a quicar na água."
+          },
+          {
+            "enExample": "The path was covered with small pebbles.",
+            "ptExample": "O caminho estava coberto de pequenas pedras."
+          }
+        ],
+        "synonyms": "stone, rock, gravel",
+        "seeAlso": "gravel, cobblestone, stone",
+        "notes": [
+          {
+            "enNote": "Pebbles are generally smaller than cobblestones and larger than sand grains.",
+            "ptNote": "As pedras pequenas (pebbles) são geralmente menores que paralelepípedos e maiores que grãos de areia."
+          }
+        ]
+      },
+      {
         "word": "pluck",
         "phonetics": "/plʌk/",
         "partOfSpeech": "verb",

@@ -2,6 +2,74 @@
   {
     "definitions": [
       {
+        "word": "candidly",
+        "phonetics": "/ˈkændɪdli/",
+        "partOfSpeech": "adverb",
+        "enDefinition": "In an honest, straightforward, and open manner; frankly.",
+        "ptDefinition": "De maneira honesta, direta e aberta; francamente.",
+        "examples": [
+          {
+            "enExample": "She spoke candidly about the challenges she faced.",
+            "ptExample": "Ela falou francamente sobre os desafios que enfrentou."
+          },
+          {
+            "enExample": "He candidly admitted his mistakes during the meeting.",
+            "ptExample": "Ele admitiu sinceramente seus erros durante a reunião."
+          },
+          {
+            "enExample": "Candidly, I don’t think this plan will work.",
+            "ptExample": "Francamente, não acho que este plano vá funcionar."
+          },
+          {
+            "enExample": "They discussed the matter candidly without holding anything back.",
+            "ptExample": "Eles discutiram o assunto de maneira aberta, sem esconder nada."
+          }
+        ],
+        "synonyms": "frankly, openly, honestly, straightforwardly",
+        "antonyms": "dishonestly, guardedly, evasively",
+        "seeAlso": "candid, frank, honest",
+        "notes": [
+          {
+            "enNote": "Used to describe speaking in a frank or open manner, often in situations requiring honesty.",
+            "ptNote": "Usado para descrever falar de maneira franca ou aberta, frequentemente em situações que exigem honestidade."
+          }
+        ]
+      },
+      {
+        "word": "candid",
+        "phonetics": "/ˈkændɪd/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "Truthful and straightforward; frank; (especially of a photograph) taken informally without the subject knowing.",
+        "ptDefinition": "Honesto e direto; franco; (especialmente sobre fotografia) tirada de forma informal, sem que a pessoa saiba.",
+        "examples": [
+          {
+            "enExample": "She was candid about her mistakes during the interview.",
+            "ptExample": "Ela foi franca sobre seus erros durante a entrevista."
+          },
+          {
+            "enExample": "The photographer captured a candid moment of the children playing.",
+            "ptExample": "O fotógrafo capturou um momento espontâneo das crianças brincando."
+          },
+          {
+            "enExample": "He gave a candid assessment of the situation.",
+            "ptExample": "Ele deu uma avaliação sincera da situação."
+          },
+          {
+            "enExample": "I appreciate your candid feedback on my proposal.",
+            "ptExample": "Agradeço seu feedback sincero sobre minha proposta."
+          }
+        ],
+        "synonyms": "frank, honest, open, sincere, informal",
+        "antonyms": "deceptive, dishonest, guarded, insincere",
+        "seeAlso": "honest, straightforward, spontaneous",
+        "notes": [
+          {
+            "enNote": "Often used to describe both honesty in speech and natural, unposed photographs.",
+            "ptNote": "Frequentemente usado para descrever tanto honestidade ao falar quanto fotografias naturais, espontâneas."
+          }
+        ]
+      },
+      {
         "word": "crave",
         "phonetics": "/kreɪv/",
         "partOfSpeech": "verb",

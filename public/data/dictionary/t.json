@@ -2,6 +2,38 @@
   {
     "definitions": [
       {
+        "word": "token",
+        "phonetics": "/ˈtoʊ.kən/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A symbol, sign, gift; a physical object or digital unit that stands for a value, right, or proof.",
+        "ptDefinition": "Um símbolo, sinal, lembrança; pode ser um item físico ou unidade digital que indica valor, direito ou prova.",
+        "examples": [
+          {
+            "enExample": "She gave me a small gift as a token of her appreciation.",
+            "ptExample": "Ela me deu um pequeno presente como um símbolo de sua gratidão."
+          },
+          {
+            "enExample": "You need a subway token to ride the train.",
+            "ptExample": "Você precisa de uma ficha do metrô para pegar o trem."
+          },
+          {
+            "enExample": "In blockchain, a token can represent digital assets or access rights.",
+            "ptExample": "No blockchain, um token pode representar ativos digitais ou direitos de acesso."
+          }
+        ],
+        "synonyms": "symbol, emblem, sign, souvenir, coin",
+        "notes": [
+          {
+            "enNote": "Can refer to both physical objects (like a subway token) and abstract concepts (like a token of love or respect).",
+            "ptNote": "Pode se referir tanto a objetos físicos (como uma ficha de metrô) quanto a conceitos abstratos (como um símbolo de amor ou respeito)."
+          },
+          {
+            "enNote": "In technology, especially in blockchain and computing, 'token' often has a specialized meaning.",
+            "ptNote": "Na tecnologia, especialmente em blockchain e computação, 'token' frequentemente tem um significado especializado."
+          }
+        ]
+      },
+      {
         "word": "troll",
         "phonetics": "/trəʊl/ (UK), /troʊl/ (US)",
         "partOfSpeech": "noun",
