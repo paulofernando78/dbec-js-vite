@@ -298,6 +298,16 @@
             {
               "block": [
                 {
+                  "text": "break ➜ broke ➜ "
+                },
+                {
+                  "boldText": "broken"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "text": "clean ➜ clean ➜ "
                 },
                 {
@@ -330,6 +340,22 @@
             {
               "block": [
                 {
+                  "text": "decide ➜ decided ➜ "
+                },
+                {
+                  "boldText": "decid"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": "/ɪd/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "text": "fall ➜ fell ➜ "
                 },
                 {
@@ -356,6 +382,16 @@
             {
               "block": [
                 {
+                  "text": "forget ➜ forgot ➜"
+                },
+                {
+                  "boldText": "forgot"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "text": "go ➜ went ➜ "
                 },
                 {
@@ -376,10 +412,36 @@
             {
               "block": [
                 {
+                  "text": "invite ➜ invited ➜"
+                },
+                {
+                  "boldText": "invit"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": "/ɪd/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "text": "lose ➜ lost ➜ "
                 },
                 {
                   "boldText": "lost"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "see ➜ saw ➜"
+                },
+                {
+                  "boldText": "seen"
                 }
               ]
             },
@@ -396,6 +458,26 @@
                 },
                 {
                   "phonetics": "/t/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "take ➜ took ➜"
+                },
+                {
+                  "boldText": "taken"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "tell ➜ told ➜"
+                },
+                {
+                  "boldText": "told"
                 }
               ]
             }
@@ -744,7 +826,7 @@
                   "block": [
                     {
                       "text": "4.",
-                      "correctAnswer": ["It has stop raining.", "It’s stop raining.", "It's stop raining."]
+                      "correctAnswer": ["It has stopped raining.", "It’s stopped raining.", "It's stopped raining."]
                     }
                   ]
                 }
@@ -927,7 +1009,7 @@
                       "correctAnswer": ["have lost", "’ve lost", "'ve lost"]
                     },
                     {
-                      "text": "keys. I don’t know where they are."
+                      "text": "my keys. I don’t know where they are."
                     }
                   ]
                 }
