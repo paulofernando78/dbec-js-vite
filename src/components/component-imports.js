@@ -29,7 +29,6 @@ import UnderConstruction from "./organisms/UnderConstruction";
 
 // Lessons
 import TheAlphabet from "./organisms/Lessons/TheAlphabet";
-import PresentPerfect from "./organisms/Lessons/PresentPerfect";
 
 //Templates
 import Contents from "./templates/Contents";
@@ -72,7 +71,6 @@ customElements.define("wc-under-construction", UnderConstruction);
 
 // Lessons
 customElements.define("wc-the-alphabet", TheAlphabet);
-customElements.define("wc-present-perfect", PresentPerfect);
 
 // Templates
 customElements.define("wc-contents", Contents);

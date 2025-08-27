@@ -115,7 +115,7 @@ class Text extends HTMLElement {
       this.container.style.boxShadow = "var(--box-shadow)";
       this.container.style.padding = "3px 5px 2px 5px";
       if (block.cardColor)
-      this.container.style.backgroundColor = block.cardColor;
+        this.container.style.backgroundColor = block.cardColor;
     }
 
     const hasImage = Array.isArray(block.images) && block.images.length > 0;
@@ -267,6 +267,12 @@ class Text extends HTMLElement {
           underline.textContent = subItem.boldUnderlinedText;
           bold.appendChild(underline);
           blockElement.appendChild(bold);
+        }
+
+        if (subItem.italicText) {
+          const italic = document.createElement("i");
+          italic.textContent = subItem.italicText;
+          blockElement.appendChild(italic);
         }
 
         if (subItem.markedText) {

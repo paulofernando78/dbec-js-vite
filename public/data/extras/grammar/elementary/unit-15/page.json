@@ -18,77 +18,529 @@
   },
   "contents": [
     {
-      "component": "wc-present-perfect"
+      "ribbon": {
+        "icon": "snippet",
+        "label": "A"
+      }
     },
     {
-      "exercises": [
+      "images": [
         {
-          "title": "Choose the correct answer.",
-          "description": "Description"
-        },
+          "width": "",
+          "src": "/assets/images/extras/grammar/elementary/unit-15/a.png",
+          "alt": "Examples of Present Perfect"
+        }
+      ]
+    },
+    {
+      "text": [
         {
-          "images": [
+          "blocks": [
             {
-              "width": "200px",
-              "number": "1",
-              "src": "",
-              "alt": "..."
-            },
-            {
-              "width": "200px",
-              "number": "2",
-              "src": "",
-              "alt": "..."
-            },
-            {
-              "width": "200px",
-              "number": "3",
-              "src": "",
-              "alt": "..."
+              "block": [
+                {
+                  "boldText": "have / has cleaned, gone "
+                },
+                {
+                  "text": "etc. is the present perfect("
+                },
+                {
+                  "boldText": "have"
+                },
+                {
+                  "text": " + past participle)"
+                }
+              ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "B"
+      }
+    },
+    {
+      "grid": true,
+      "text": [
         {
-          "radioExercises": [
+          "card": true,
+          "blocks": [
             {
-              "question": [
+              "block": [
                 {
-                  "boldText": "1. ...",
-                  "text": "... ",
-                  "markedText": "..."
+                  "boldText": "Present"
                 }
               ],
-              "options": [
-                { "option": "a) ...", "isCorrect": true },
-                { "option": "b) ...", "isCorrect": false },
-                { "option": "c) ...", "isCorrect": false }
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "I have..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "you have..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "he has..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "she has..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "it has..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "we have..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "you have..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "they have..."
+                }
               ]
             }
           ]
         },
         {
-          "title": "Fill in the blank with the correct answer.",
-          "description": "Description"
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Negative"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "I have not / haven’t..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "you have not / haven’t..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "he has not / hasn’t..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "she has not / hasn’t..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "it has not / hasn’t..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "we have not / haven’t"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "you have not / haven’t..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "they have not / haven’t..."
+                }
+              ]
+            }
+          ]
         },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Interrogative"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "have I...?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "have you...?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "has he ...?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "has she...?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "has it...?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "have we...?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "have you...?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "have they...?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "clean ➜ clean ➜"
+                },
+                {
+                  "boldText": "clean"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": "/d/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "C"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "We use the present perfect for an action in the past with a result now:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "I"
+                },
+                {
+                  "markedText": "’ve lost"
+                },
+                {
+                  "text": " my passport. (I can’t find my passport "
+                },
+                {
+                  "italicText": "now"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "“Where’s Rebecca?” “She"
+                },
+                {
+                  "markedText": "’s gone"
+                },
+                {
+                  "text": " to bed.” (she’s in bed "
+                },
+                {
+                  "italicText": "now"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "We’"
+                },
+                {
+                  "markedText": "ve bought"
+                },
+                {
+                  "text": " a new car. (we have a new car "
+                },
+                {
+                  "italicText": "now"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "It’s Rachel’s birthday tomorrow and I "
+                },
+                {
+                  "markedText": "haven’t bought"
+                },
+                {
+                  "text": " her a present. (I don’t have a present for her "
+                },
+                {
+                  "italicText": "now"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "“Bob is away on Holiday.” “Oh, where "
+                },
+                {
+                  "markedText": "has"
+                },
+                {
+                  "text": " he "
+                },
+                {
+                  "markedText": "gone"
+                },
+                {
+                  "text": "?” (where is he "
+                },
+                {
+                  "italicText": "now"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Can I take this newspaper? "
+                },
+                {
+                  "markedText": "Have"
+                },
+                {
+                  "text": " you "
+                },
+                {
+                  "markedText": "finished "
+                },
+                {
+                  "text": "with it? (do you need it "
+                },
+                {
+                  "italicText": "now?"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "color",
+        "icon": "homework",
+        "label": "Exercises"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Look at the pictures. What has happened? Choose from the list below."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "go to bed"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "close the door"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "clean his shoes"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "fall down"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "stop raining"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "have a shower"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
         {
           "images": [
             {
-              "width": "200px",
+              "width": "350px",
               "number": "1",
-              "src": "",
-              "alt": "..."
-            },
-            {
-              "width": "200px",
-              "number": "2",
-              "src": "",
-              "alt": "..."
-            },
-            {
-              "width": "200px",
-              "number": "3",
-              "src": "",
-              "alt": "..."
+              "src": "/assets/images/extras/grammar/elementary/unit-15/15.1.avif",
+              "alt": "Picture of clean and dirty shoes."
             }
           ]
         },
@@ -99,9 +551,441 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "...",
-                      "correctAnswer": ["..."],
-                      "afterBlank": "..."
+                      "text": "1.",
+                      "correctAnswer": [
+                        "He has cleaned his shoes.",
+                        "He’s cleaned his shoes.",
+                        "He's cleaned his shoes."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "images": [
+            {
+              "width": "300px",
+              "number": "2",
+              "src": "/assets/images/extras/grammar/elementary/unit-15/15.2.avif",
+              "alt": "A picture of A woman closed a door."
+            }
+          ]
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "2.",
+                      "correctAnswer": [
+                        "She has closed the door.",
+                        "She’s closed the door.",
+                        "She's closed the door."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "images": [
+            {
+              "width": "350px",
+              "number": "3",
+              "src": "/assets/images/extras/grammar/elementary/unit-15/15.3.avif",
+              "alt": "A picture of elderly people going to bed."
+            }
+          ]
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "3.",
+                      "correctAnswer": ["They have gone to bed.", "they’ve gone to bed.", "They've gone to bed."]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "images": [
+            {
+              "width": "350px",
+              "number": "4",
+              "src": "/assets/images/extras/grammar/elementary/unit-15/15.4.avif",
+              "alt": "A picture of a man holding an umbrella and a woman in day light."
+            }
+          ]
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "4.",
+                      "correctAnswer": ["It has stop raining.", "It’s stop raining.", "It's stop raining."]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "images": [
+            {
+              "width": "350px",
+              "number": "5",
+              "src": "/assets/images/extras/grammar/elementary/unit-15/15.5.avif",
+              "alt": "A picture of a man taking a shower."
+            }
+          ]
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "5.",
+                      "correctAnswer": ["He has had a shower.", "He’s had a shower.", "He's had a shower."]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "images": [
+            {
+              "width": "350px",
+              "number": "6",
+              "src": "/assets/images/extras/grammar/elementary/unit-15/15.6.avif",
+              "alt": "A picture of a frame on the floor."
+            }
+          ]
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "6.",
+                      "correctAnswer": ["The picture has fallen down.", "The picture’s fallen down.", "The picture's fallen down."]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "15.2. Complete the sentences with a verb from the box."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "break"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "buy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "1. I",
+                      "correctAnswer": ["have lost", "’ve lost", "'ve lost"]
+                    },
+                    {
+                      "text": "keys. I don’t know where they are."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "2. I",
+                      "correctAnswer": [
+                        "have bought",
+                        "’ve bought",
+                        "'ve bought"
+                      ]
+                    },
+                    {
+                      "text": "some new shoes. Do you want to see them?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "3. “Where’s Helen?” “She’s not here. She",
+                      "correctAnswer": ["has gone", "’s gone", "'s gone"]
+                    },
+                    {
+                      "text": "out.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "4. I’m looking for Paula.",
+                      "correctAnswer": ["Have"]
+                    },
+                    {
+                      "text": "you",
+                      "correctAnswer": ["seen"]
+                    },
+                    {
+                      "text": "her?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "5. Look! Somebody",
+                      "correctAnswer": ["has broken", "’s broken", "'s broken"]
+                    },
+                    {
+                      "text": "that window."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "6. “Does Lisa know that you’re going away?” “Yes, I”",
+                      "correctAnswer": ["have told", "’ve told", "'ve told"]
+                    },
+                    {
+                      "text": "her."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "7. I can’t find my umbrella. Somebody",
+                      "correctAnswer": ["has taken", "‘s taken", "'s taken"]
+                    },
+                    {
+                      "text": "it."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "8. “Where are my glasses?” “I don’t know. I”",
+                      "correctAnswer": [
+                        "have not seen",
+                        "haven’t seen",
+                        "have't seen"
+                      ]
+                    },
+                    {
+                      "text": "them."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "9. I’m looking for Sarah. Where",
+                      "correctAnswer": ["has"]
+                    },
+                    {
+                      "text": "she",
+                      "correctAnswer": ["gone"]
+                    },
+                    {
+                      "text": "?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "10. I know that woman, but I",
+                      "correctAnswer": [
+                        "have forgotten",
+                        "’ve forgotten",
+                        "'ve forgotten"
+                      ]
+                    },
+                    {
+                      "text": "her name."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "11. Sue is having a party tonight. She",
+                      "correctAnswer": [
+                        "has invited",
+                        "’s invited",
+                        "'s invited"
+                      ]
+                    },
+                    {
+                      "text": "a lot of people."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "12. What are you going to do?",
+                      "correctAnswer": ["Have"]
+                    },
+                    {
+                      "text": "you",
+                      "correctAnswer": ["decided"]
+                    },
+                    {
+                      "text": "?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "13. A: Does Ben know about the meeting tomorrow?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "B: I don’t think so. I",
+                      "correctAnswer": [
+                        "have not told",
+                        "have’t told",
+                        "'haven't told"
+                      ]
+                    },
+                    {
+                      "text": "him."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "14. I",
+                      "correctAnswer": [
+                        "have finished",
+                        "’ve finished",
+                        "'ve finished"
+                      ]
+                    },
+                    {
+                      "text": "with this magazine. Do you want it?"
                     }
                   ]
                 }
