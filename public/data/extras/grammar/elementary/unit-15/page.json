@@ -281,6 +281,13 @@
             {
               "block": [
                 {
+                  "boldText": "Listen to some common verbs:"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "text": "buy ➜ bought ➜ "
                 },
                 {
@@ -579,7 +586,7 @@
             {
               "block": [
                 {
-                  "boldText": "Look at the pictures. What has happened? Choose from the list below."
+                  "boldText": "Look at the pictures. What has happened? Choose the verbs from the list below."
                 }
               ],
               "lineBreak": true
@@ -622,7 +629,7 @@
             {
               "block": [
                 {
-                  "text": "have a shower"
+                  "text": "take a shower"
                 }
               ]
             }
@@ -650,6 +657,7 @@
                   "block": [
                     {
                       "text": "1.",
+                      "placeholder": "He has cleaned his shoes.",
                       "correctAnswer": [
                         "He has cleaned his shoes.",
                         "He’s cleaned his shoes.",
@@ -762,7 +770,7 @@
                   "block": [
                     {
                       "text": "5.",
-                      "correctAnswer": ["He has had a shower.", "He’s had a shower.", "He's had a shower."]
+                      "correctAnswer": ["He has taken a shower.", "He’s had a shower.", "He's had a shower."]
                     }
                   ]
                 }
