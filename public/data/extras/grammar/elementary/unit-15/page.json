@@ -281,7 +281,17 @@
             {
               "block": [
                 {
-                  "text": "clean ➜ clean ➜"
+                  "text": "buy ➜ bought ➜ "
+                },
+                {
+                  "boldText": "bought"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "clean ➜ clean ➜ "
                 },
                 {
                   "boldText": "clean"
@@ -291,6 +301,94 @@
                 },
                 {
                   "phonetics": "/d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "close ➜ closed ➜ "
+                },
+                {
+                  "boldText": "clos"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": "/d/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "fall ➜ fell ➜ "
+                },
+                {
+                  "boldText": "fallen"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "finish ➜ finished ➜"
+                },
+                {
+                  "boldText": "finish"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": "/t/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "go ➜ went ➜ "
+                },
+                {
+                  "boldText": "gone"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "have ➜ had ➜"
+                },
+                {
+                  "boldText": "had"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "lose ➜ lost ➜ "
+                },
+                {
+                  "boldText": "lost"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "stop ➜ stopped ➜"
+                },
+                {
+                  "boldText": "stopp"
+                },
+                {
+                  "markedText": "ed"
+                },
+                {
+                  "phonetics": "/t/"
                 }
               ]
             }
@@ -707,7 +805,7 @@
             {
               "block": [
                 {
-                  "text": "15.2. Complete the sentences with a verb from the box."
+                  "boldText": "15.2. Complete the sentences with a verb from the list below."
                 }
               ],
               "lineBreak": true
@@ -722,7 +820,85 @@
             {
               "block": [
                 {
+                  "text": "invite"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "text": "buy"
+                }
+              ]
+            }
+            ,
+            {
+              "block": [
+                {
+                  "text": "lose"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "decide"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "see"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "finish"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "not / see"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "forget"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "take"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "go 2x"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "tell"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "not / tell"
                 }
               ]
             }
