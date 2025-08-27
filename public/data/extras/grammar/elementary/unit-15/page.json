@@ -366,7 +366,7 @@
             {
               "block": [
                 {
-                  "text": "finish ➜ finished ➜"
+                  "text": "finish ➜ finished ➜ "
                 },
                 {
                   "boldText": "finish"
@@ -382,7 +382,7 @@
             {
               "block": [
                 {
-                  "text": "forget ➜ forgot ➜"
+                  "text": "forget ➜ forgot ➜ "
                 },
                 {
                   "boldText": "forgot"
@@ -402,7 +402,7 @@
             {
               "block": [
                 {
-                  "text": "have ➜ had ➜"
+                  "text": "have ➜ had ➜ "
                 },
                 {
                   "boldText": "had"
@@ -412,7 +412,7 @@
             {
               "block": [
                 {
-                  "text": "invite ➜ invited ➜"
+                  "text": "invite ➜ invited ➜ "
                 },
                 {
                   "boldText": "invit"
@@ -438,7 +438,7 @@
             {
               "block": [
                 {
-                  "text": "see ➜ saw ➜"
+                  "text": "see ➜ saw ➜ "
                 },
                 {
                   "boldText": "seen"
@@ -448,7 +448,7 @@
             {
               "block": [
                 {
-                  "text": "stop ➜ stopped ➜"
+                  "text": "stop ➜ stopped ➜ "
                 },
                 {
                   "boldText": "stopp"
@@ -464,7 +464,7 @@
             {
               "block": [
                 {
-                  "text": "take ➜ took ➜"
+                  "text": "take ➜ took ➜ "
                 },
                 {
                   "boldText": "taken"
@@ -474,7 +474,7 @@
             {
               "block": [
                 {
-                  "text": "tell ➜ told ➜"
+                  "text": "tell ➜ told ➜ "
                 },
                 {
                   "boldText": "told"
@@ -1122,7 +1122,7 @@
                       "correctAnswer": [
                         "have not seen",
                         "haven’t seen",
-                        "have't seen"
+                        "haven't seen"
                       ]
                     },
                     {
