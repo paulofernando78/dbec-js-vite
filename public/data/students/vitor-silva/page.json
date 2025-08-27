@@ -577,10 +577,10 @@
                 {
                   "day": [
                     {
-                      "status": "R",
+                      "status": "ROK",
                       "date": "Thu 17",
                       "classNotes": "Class moved to Wed Aug 27",
-                      "homeWorkNotes": ""
+                      "homeWorkNotes": "We've finished Flying Home"
                     }
                   ]
                 },
@@ -599,7 +599,7 @@
                     {
                       "status": "R",
                       "date": "Thu 24",
-                      "classNotes": "",
+                      "classNotes": "Class moved to Thu Aug 28",
                       "homeWorkNotes": ""
                     }
                   ]
@@ -619,7 +619,7 @@
                     {
                       "status": "R",
                       "date": "Thu 31",
-                      "classNotes": "",
+                      "classNotes": "Class moved to Fri 29",
                       "homeWorkNotes": ""
                     }
                   ],
