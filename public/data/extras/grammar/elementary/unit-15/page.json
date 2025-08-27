@@ -283,7 +283,7 @@
                 {
                   "boldText": "Listen to some common verbs:"
                 }
-              ]
+              ], "lineBreak": true
             },
             {
               "block": [
@@ -308,13 +308,13 @@
             {
               "block": [
                 {
-                  "text": "clean ➜ clean ➜ "
+                  "text": "clean ➜ cleaned ➜ "
                 },
                 {
                   "boldText": "clean"
                 },
                 {
-                  "markedText": "ed"
+                  "markedText": "ed "
                 },
                 {
                   "phonetics": "/d/"
@@ -330,7 +330,7 @@
                   "boldText": "clos"
                 },
                 {
-                  "markedText": "ed"
+                  "markedText": "ed "
                 },
                 {
                   "phonetics": "/d/"
@@ -346,7 +346,7 @@
                   "boldText": "decid"
                 },
                 {
-                  "markedText": "ed"
+                  "markedText": "ed "
                 },
                 {
                   "phonetics": "/ɪd/"
@@ -372,7 +372,7 @@
                   "boldText": "finish"
                 },
                 {
-                  "markedText": "ed"
+                  "markedText": "ed "
                 },
                 {
                   "phonetics": "/t/"
@@ -385,7 +385,7 @@
                   "text": "forget ➜ forgot ➜ "
                 },
                 {
-                  "boldText": "forgot"
+                  "boldText": "forgotten"
                 }
               ]
             },
@@ -418,7 +418,7 @@
                   "boldText": "invit"
                 },
                 {
-                  "markedText": "ed"
+                  "markedText": "ed "
                 },
                 {
                   "phonetics": "/ɪd/"
@@ -454,7 +454,7 @@
                   "boldText": "stopp"
                 },
                 {
-                  "markedText": "ed"
+                  "markedText": "ed "
                 },
                 {
                   "phonetics": "/t/"
@@ -1118,7 +1118,7 @@
                 {
                   "block": [
                     {
-                      "text": "8. “Where are my glasses?” “I don’t know. I”",
+                      "text": "8. A: “Where are my glasses?” B: “I don’t know. I”",
                       "correctAnswer": [
                         "have not seen",
                         "haven’t seen",
@@ -1228,7 +1228,7 @@
                       "correctAnswer": [
                         "have not told",
                         "have’t told",
-                        "'haven't told"
+                        "haven't told"
                       ]
                     },
                     {
