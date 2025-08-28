@@ -24,11 +24,79 @@
       }
     },
     {
-      "images": [
+      "flex": true,
+      "text": [
         {
-          "width": "",
-          "src": "/assets/images/extras/grammar/elementary/unit-15/a.png",
-          "alt": "Examples of Present Perfect"
+          "images": [
+            {
+              "src": "/assets/images/extras/grammar/elementary/unit-15/a-1.avif",
+              "alt": "A man showing dirty shoes."
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/a-1.mp3"
+                },
+                {
+                  "text": "His shoes are dirty."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "images": [
+            {
+              "src": "/assets/images/extras/grammar/elementary/unit-15/a-2.avif",
+              "alt": "A man cleaning his shoes."
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/a-2.mp3"
+                },
+                {
+                  "text": "He is cleaning his shoes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "images": [
+            {
+              "src": "/assets/images/extras/grammar/elementary/unit-15/a-3.avif",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/a-3.mp3"
+                },
+                {
+                  "text": "He "
+                },
+                {
+                  "markedText": "has cleaned"
+                },
+                {
+                  "text": " his shoes. (his shoes are cleaned "
+                },
+                {
+                  "italicText": "now"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -39,10 +107,13 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/a.mp3"
+                },
+                {
                   "boldText": "have / has cleaned, gone "
                 },
                 {
-                  "text": "etc. is the present perfect("
+                  "text": "etc. is the present perfect ("
                 },
                 {
                   "boldText": "have"
@@ -63,7 +134,6 @@
       }
     },
     {
-      "grid": true,
       "text": [
         {
           "card": true,
@@ -275,6 +345,196 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "C"
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c.mp3"
+                },
+                {
+                  "boldText": "We use the present perfect for an action in the past with a result now:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-1.mp3"
+                },
+                {
+                  "text": "I"
+                },
+                {
+                  "markedText": "’ve lost"
+                },
+                {
+                  "text": " my passport. (I can’t find my passport "
+                },
+                {
+                  "italicText": "now"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-2.mp3"
+                },
+                {
+                  "text": "A: “Where’s Rebecca?” B: “She"
+                },
+                {
+                  "markedText": "’s gone"
+                },
+                {
+                  "text": " to bed.” (she’s in bed "
+                },
+                {
+                  "italicText": "now"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-3.mp3"
+                },
+                {
+                  "text": "We’"
+                },
+                {
+                  "markedText": "ve bought"
+                },
+                {
+                  "text": " a new car. (we have a new car "
+                },
+                {
+                  "italicText": "now"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-4.mp3"
+                },
+                {
+                  "text": "It’s Rachel’s birthday tomorrow and I "
+                },
+                {
+                  "markedText": "haven’t bought"
+                },
+                {
+                  "text": " her a present. (I don’t have a present for her "
+                },
+                {
+                  "italicText": "now"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-5.mp3"
+                },
+                {
+                  "text": "A: “Bob is away on Holiday.” B: “Oh, where "
+                },
+                {
+                  "markedText": "has"
+                },
+                {
+                  "text": " he "
+                },
+                {
+                  "markedText": "gone"
+                },
+                {
+                  "text": "?” (where is he "
+                },
+                {
+                  "italicText": "now"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-6.mp3"
+                },
+                {
+                  "text": "Can I take this newspaper? "
+                },
+                {
+                  "markedText": "Have"
+                },
+                {
+                  "text": " you "
+                },
+                {
+                  "markedText": "finished "
+                },
+                {
+                  "text": "with it? (do you need it "
+                },
+                {
+                  "italicText": "now?"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hr":	true
+    },
+    {
       "text": [
         {
           "blocks": [
@@ -286,7 +546,8 @@
                 {
                   "boldText": "Listen to some common verbs:"
                 }
-              ], "lineBreak": true
+              ],
+              "lineBreak": true
             },
             {
               "block": [
@@ -538,194 +799,6 @@
     },
     {
       "ribbon": {
-        "icon": "snippet",
-        "label": "C"
-      }
-    },
-    {
-      "grid": false,
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c.mp3"
-                },
-                {
-                  "boldText": "We use the present perfect for an action in the past with a result now:"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "• "
-                },
-                {
-                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-1.mp3"
-                },
-                {
-                  "text": "I"
-                },
-                {
-                  "markedText": "’ve lost"
-                },
-                {
-                  "text": " my passport. (I can’t find my passport "
-                },
-                {
-                  "italicText": "now"
-                },
-                {
-                  "text": ")"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText": "• "
-                },
-                {
-                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-2.mp3"
-                },
-                {
-                  "text": "A: “Where’s Rebecca?” B: “She"
-                },
-                {
-                  "markedText": "’s gone"
-                },
-                {
-                  "text": " to bed.” (she’s in bed "
-                },
-                {
-                  "italicText": "now"
-                },
-                {
-                  "text": ")"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText": "• "
-                },
-                {
-                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-3.mp3"
-                },
-                {
-                  "text": "We’"
-                },
-                {
-                  "markedText": "ve bought"
-                },
-                {
-                  "text": " a new car. (we have a new car "
-                },
-                {
-                  "italicText": "now"
-                },
-                {
-                  "text": ")"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText": "• "
-                },
-                {
-                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-4.mp3"
-                },
-                {
-                  "text": "It’s Rachel’s birthday tomorrow and I "
-                },
-                {
-                  "markedText": "haven’t bought"
-                },
-                {
-                  "text": " her a present. (I don’t have a present for her "
-                },
-                {
-                  "italicText": "now"
-                },
-                {
-                  "text": ")"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText": "• "
-                },
-                {
-                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-5.mp3"
-                },
-                {
-                  "text": "A: “Bob is away on Holiday.” B: “Oh, where "
-                },
-                {
-                  "markedText": "has"
-                },
-                {
-                  "text": " he "
-                },
-                {
-                  "markedText": "gone"
-                },
-                {
-                  "text": "?” (where is he "
-                },
-                {
-                  "italicText": "now"
-                },
-                {
-                  "text": ")"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText": "• "
-                },
-                {
-                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-6.mp3"
-                },
-                {
-                  "text": "Can I take this newspaper? "
-                },
-                {
-                  "markedText": "Have"
-                },
-                {
-                  "text": " you "
-                },
-                {
-                  "markedText": "finished "
-                },
-                {
-                  "text": "with it? (do you need it "
-                },
-                {
-                  "italicText": "now?"
-                },
-                {
-                  "text": ")"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
         "bgColor": "var(--gray-3)",
         "textColor": "color",
         "icon": "homework",
@@ -740,7 +813,7 @@
             {
               "block": [
                 {
-                  "boldText":	"15.1 "
+                  "boldText": "15.1 "
                 },
                 {
                   "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/exercises-15-1.mp3"
@@ -878,7 +951,11 @@
                   "block": [
                     {
                       "text": "3.",
-                      "correctAnswer": ["They have gone to bed.", "they’ve gone to bed.", "They've gone to bed."]
+                      "correctAnswer": [
+                        "They have gone to bed.",
+                        "they’ve gone to bed.",
+                        "They've gone to bed."
+                      ]
                     }
                   ]
                 }
@@ -904,7 +981,11 @@
                   "block": [
                     {
                       "text": "4.",
-                      "correctAnswer": ["It has stopped raining.", "It’s stopped raining.", "It's stopped raining."]
+                      "correctAnswer": [
+                        "It has stopped raining.",
+                        "It’s stopped raining.",
+                        "It's stopped raining."
+                      ]
                     }
                   ]
                 }
@@ -930,7 +1011,11 @@
                   "block": [
                     {
                       "text": "5.",
-                      "correctAnswer": ["He has taken a shower.", "He’s had a shower.", "He's had a shower."]
+                      "correctAnswer": [
+                        "He has taken a shower.",
+                        "He’s had a shower.",
+                        "He's had a shower."
+                      ]
                     }
                   ]
                 }
@@ -956,7 +1041,11 @@
                   "block": [
                     {
                       "text": "6.",
-                      "correctAnswer": ["The picture has fallen down.", "The picture’s fallen down.", "The picture's fallen down."]
+                      "correctAnswer": [
+                        "The picture has fallen down.",
+                        "The picture’s fallen down.",
+                        "The picture's fallen down."
+                      ]
                     }
                   ]
                 }
@@ -973,7 +1062,7 @@
             {
               "block": [
                 {
-                  "boldText":	"15.2 "
+                  "boldText": "15.2 "
                 },
                 {
                   "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/exercises-15-2.mp3"
@@ -1004,8 +1093,7 @@
                   "text": "buy"
                 }
               ]
-            }
-            ,
+            },
             {
               "block": [
                 {

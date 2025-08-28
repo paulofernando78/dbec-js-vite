@@ -35,11 +35,14 @@ class Contents extends HTMLElement {
         gap: 6px
       }
 
-      .text-grid {
+      .text-container {
         display: grid;
         grid-template-columns: repeat(auto-fit, 250px);
+        gap: 6px;
         justify-content: center;
-        gap: 6px
+        border: var(--border);
+        border-radius: var(--border-radius);
+        padding: 5px
       }
 
       @media () {
@@ -101,8 +104,8 @@ class Contents extends HTMLElement {
       // Text
       if (section.text) {
         const wrapper = document.createElement("div");
-        if (section.grid) {
-          wrapper.classList.add("text-grid");
+        if (section.flex) {
+          wrapper.classList.add("text-container");
         }
 
         section.text.forEach((t) => {

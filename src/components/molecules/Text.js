@@ -39,9 +39,9 @@ class Text extends HTMLElement {
       }
 
       .image-wrapper, .video-wrapper {
-        justify-self: center;
         width: 100%;
         display: flex;
+        justify-self: center;
         justify-content: center;
         flex-wrap: wrap;
         gap: 6px
@@ -69,7 +69,7 @@ class Text extends HTMLElement {
         bottom: 1.8px
       }
 
-      @media (max-width:     480px) {
+      @media (max-width: 480px) {
         .img-top, .img-right, .img-bottom, .img-left {
           grid-template-columns: 1fr;
         }
@@ -128,6 +128,7 @@ class Text extends HTMLElement {
         const imageElement = document.createElement("wc-image");
         imageElement.data = {
           width: img.width || "100%",
+          height: img.height || "auto",
           number: img.number || "",
           src: img.src || "",
           alt: img.alt || "",
