@@ -1255,6 +1255,7 @@
                   "block": [
                     {
                       "text": "1. I",
+                      "placeholder": "I’ve lost",
                       "correctAnswer": ["have lost", "’ve lost", "'ve lost"]
                     },
                     {
@@ -1337,7 +1338,7 @@
                 {
                   "block": [
                     {
-                      "text": "6. “Does Lisa know that you’re going away?” “Yes, I”",
+                      "text": "6. A: “Does Lisa know that you’re going away?” B: “Yes, I”",
                       "correctAnswer": ["have told", "’ve told", "'ve told"]
                     },
                     {
@@ -1462,7 +1463,7 @@
                 {
                   "block": [
                     {
-                      "text": "13. A: Does Ben know about the meeting tomorrow?"
+                      "text": "13. A: “Does Ben know about the meeting tomorrow?”"
                     }
                   ]
                 }
@@ -1473,7 +1474,7 @@
                 {
                   "block": [
                     {
-                      "text": "B: I don’t think so. I",
+                      "text": "B: “I don’t think so. I",
                       "correctAnswer": [
                         "have not told",
                         "haven’t told",
@@ -1481,7 +1482,7 @@
                       ]
                     },
                     {
-                      "text": "him."
+                      "text": "him.”"
                     }
                   ]
                 }
