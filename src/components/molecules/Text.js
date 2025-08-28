@@ -178,12 +178,10 @@ class Text extends HTMLElement {
           blockElement.style.textIndent = "2rem";
         }
 
-        if (subItem.audio) {
+        if (subItem.audioSrc) {
           const playIcon = document.createElement("span");
-          playIcon.innerHTML = play;
+          playIcon.innerHTML = play; // icon from svg-imports
           playIcon.classList.add("play-icon");
-
-          const audio = new Audio(subItem.audioSrc);
 
           playIcon.addEventListener("click", () => {
             if (audio.paused) {
@@ -194,6 +192,8 @@ class Text extends HTMLElement {
               playIcon.innerHTML = play;
             }
           });
+
+          const audio = new Audio(subItem.audioSrc);
 
           audio.addEventListener("ended", () => {
             playIcon.innerHTML = play;

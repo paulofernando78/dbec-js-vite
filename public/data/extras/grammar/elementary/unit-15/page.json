@@ -281,12 +281,18 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/b.mp3"
+                },
+                {
                   "boldText": "Listen to some common verbs:"
                 }
               ], "lineBreak": true
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/buy-bought-bought.mp3"
+                },
                 {
                   "text": "buy ➜ bought ➜ "
                 },
@@ -298,6 +304,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/break-broke-broken.mp3"
+                },
+                {
                   "text": "break ➜ broke ➜ "
                 },
                 {
@@ -307,6 +316,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/clean-cleaned-cleaned.mp3"
+                },
                 {
                   "text": "clean ➜ cleaned ➜ "
                 },
@@ -324,6 +336,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/close-closed-closed.mp3"
+                },
+                {
                   "text": "close ➜ closed ➜ "
                 },
                 {
@@ -339,6 +354,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/decide-decided-decided.mp3"
+                },
                 {
                   "text": "decide ➜ decided ➜ "
                 },
@@ -356,6 +374,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/fall-fell-fallen.mp3"
+                },
+                {
                   "text": "fall ➜ fell ➜ "
                 },
                 {
@@ -365,6 +386,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/finish-finished-finished.mp3"
+                },
                 {
                   "text": "finish ➜ finished ➜ "
                 },
@@ -382,6 +406,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/forget-forgot-forgotten.mp3"
+                },
+                {
                   "text": "forget ➜ forgot ➜ "
                 },
                 {
@@ -391,6 +418,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/go-went-gone.mp3"
+                },
                 {
                   "text": "go ➜ went ➜ "
                 },
@@ -402,6 +432,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/have-had-had.mp3"
+                },
+                {
                   "text": "have ➜ had ➜ "
                 },
                 {
@@ -411,6 +444,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/invite-invited-invited.mp3"
+                },
                 {
                   "text": "invite ➜ invited ➜ "
                 },
@@ -428,6 +464,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/lose-lost-lost.mp3"
+                },
+                {
                   "text": "lose ➜ lost ➜ "
                 },
                 {
@@ -438,6 +477,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/see-saw-seen.mp3"
+                },
+                {
                   "text": "see ➜ saw ➜ "
                 },
                 {
@@ -447,6 +489,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/stop-stopped-stopped.mp3"
+                },
                 {
                   "text": "stop ➜ stopped ➜ "
                 },
@@ -464,6 +509,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/take-took-taken.mp3"
+                },
+                {
                   "text": "take ➜ took ➜ "
                 },
                 {
@@ -473,6 +521,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/tell-told-told.mp3"
+                },
                 {
                   "text": "tell ➜ told ➜ "
                 },
@@ -499,6 +550,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c.mp3"
+                },
+                {
                   "boldText": "We use the present perfect for an action in the past with a result now:"
                 }
               ],
@@ -508,6 +562,9 @@
               "block": [
                 {
                   "boldText": "• "
+                },
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-1.mp3"
                 },
                 {
                   "text": "I"
@@ -532,7 +589,10 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "“Where’s Rebecca?” “She"
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-2.mp3"
+                },
+                {
+                  "text": "A: “Where’s Rebecca?” B: “She"
                 },
                 {
                   "markedText": "’s gone"
@@ -552,6 +612,9 @@
               "block": [
                 {
                   "boldText": "• "
+                },
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-3.mp3"
                 },
                 {
                   "text": "We’"
@@ -576,6 +639,9 @@
                   "boldText": "• "
                 },
                 {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-4.mp3"
+                },
+                {
                   "text": "It’s Rachel’s birthday tomorrow and I "
                 },
                 {
@@ -598,7 +664,10 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "“Bob is away on Holiday.” “Oh, where "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-5.mp3"
+                },
+                {
+                  "text": "A: “Bob is away on Holiday.” B: “Oh, where "
                 },
                 {
                   "markedText": "has"
@@ -624,6 +693,9 @@
               "block": [
                 {
                   "boldText": "• "
+                },
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/c-6.mp3"
                 },
                 {
                   "text": "Can I take this newspaper? "
@@ -667,6 +739,12 @@
           "blocks": [
             {
               "block": [
+                {
+                  "boldText":	"15.1 "
+                },
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/exercises-15-1.mp3"
+                },
                 {
                   "boldText": "Look at the pictures. What has happened? Choose the verbs from the list below."
                 }
@@ -895,7 +973,13 @@
             {
               "block": [
                 {
-                  "boldText": "15.2. Complete the sentences with a verb from the list below."
+                  "boldText":	"15.2 "
+                },
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/exercises-15-2.mp3"
+                },
+                {
+                  "boldText": "Complete the sentences with a verb from the list below."
                 }
               ],
               "lineBreak": true
@@ -974,7 +1058,7 @@
             {
               "block": [
                 {
-                  "text": "go 2x"
+                  "text": "2x go"
                 }
               ]
             },
