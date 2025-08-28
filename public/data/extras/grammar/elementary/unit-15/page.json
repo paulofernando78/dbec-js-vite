@@ -101,6 +101,83 @@
       ]
     },
     {
+      "flex": true,
+      "text": [
+        {
+          "images": [
+            {
+              "src": "/assets/images/extras/grammar/elementary/unit-15/a-4.avif",
+              "alt": "Two people sitting on a sofa."
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/a-4.mp3"
+                },
+                {
+                  "text": "They are at home."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "images": [
+            {
+              "src": "/assets/images/extras/grammar/elementary/unit-15/a-5.avif",
+              "alt": "Two people going out."
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/a-5.mp3"
+                },
+                {
+                  "text": "They are going out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "images": [
+            {
+              "src": "/assets/images/extras/grammar/elementary/unit-15/a-6.avif",
+              "alt": "An empty sofa."
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-15/a-6.mp3"
+                },
+                {
+                  "text": "They "
+                },
+                {
+                  "markedText": "have gone"
+                },
+                {
+                  "text": " out (they are not at home "
+                },
+                {
+                  "italicText": "now"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "text": [
         {
           "blocks": [
@@ -532,7 +609,7 @@
       ]
     },
     {
-      "hr":	true
+      "hr": true
     },
     {
       "text": [
