@@ -37,7 +37,7 @@ class Contents extends HTMLElement {
 
       .text-container {
         display: grid;
-        grid-template-columns: repeat(auto-fit, 250px);
+        grid-template-columns: repeat(auto-fit, 256px);
         gap: 6px;
         justify-content: center;
         border: var(--border);
