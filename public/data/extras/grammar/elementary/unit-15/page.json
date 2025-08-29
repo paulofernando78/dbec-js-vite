@@ -1256,7 +1256,7 @@
                     {
                       "text": "1. I",
                       "placeholder": "I’ve lost",
-                      "correctAnswer": ["have lost", "’ve lost", "'ve lost"]
+                      "correctAnswer": ["have lost", "’ve lost", "I've lost"]
                     },
                     {
                       "text": "my keys. I don’t know where they are."
@@ -1273,8 +1273,8 @@
                       "text": "2. I",
                       "correctAnswer": [
                         "have bought",
-                        "’ve bought",
-                        "'ve bought"
+                        "I’ve bought",
+                        "I've bought"
                       ]
                     },
                     {
