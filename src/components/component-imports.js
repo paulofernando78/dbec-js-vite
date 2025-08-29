@@ -28,6 +28,8 @@ import StudentDashboard from "./organisms/StudentDashboard";
 import UnderConstruction from "./organisms/UnderConstruction";
 
 // Lessons
+import CommonQuestions from "./organisms/CommonQuestions";
+import PresentPerfect from "./organisms/Lessons/PresentTense/PresentPerfect";
 import TheAlphabet from "./organisms/Lessons/TheAlphabet";
 
 //Templates
@@ -70,6 +72,8 @@ customElements.define("wc-student-dashboard", StudentDashboard);
 customElements.define("wc-under-construction", UnderConstruction);
 
 // Lessons
+customElements.define("wc-common-questions", CommonQuestions);
+customElements.define("wc-present-perfect", PresentPerfect);
 customElements.define("wc-the-alphabet", TheAlphabet);
 
 // Templates

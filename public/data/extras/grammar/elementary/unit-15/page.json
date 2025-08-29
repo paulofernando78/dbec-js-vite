@@ -205,6 +205,9 @@
       ]
     },
     {
+      "component": "wc-present-perfect"
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "B"

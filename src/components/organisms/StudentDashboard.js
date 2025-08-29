@@ -17,13 +17,15 @@ class StudentDashboard extends HTMLElement {
 
     const theAlphabet = document.createElement("wc-the-alphabet")
 
+    const commonQuestions = document.createElement("wc-common-questions")
+
     const board = document.createElement("wc-board")
     board.data = dashboard.board
 
     const dateCard = document.createElement("wc-date-card");
     dateCard.data = dashboard.dateCard;
 
-    this.shadowRoot.append(feelings, theAlphabet, board, dateCard);
+    this.shadowRoot.append(feelings, theAlphabet, commonQuestions, board, dateCard);
   }
 }
 

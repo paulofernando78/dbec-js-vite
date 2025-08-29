@@ -40,6 +40,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/a-1.mp3"
+                },
+                {
                   "text": "They "
                 },
                 {
@@ -56,6 +59,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/a-2.mp3"
+                },
                 {
                   "text": "They "
                 },
@@ -107,7 +113,10 @@
             {
               "block": [
                 {
-                  "boldText": "More examples:"
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/b.mp3"
+                },
+                {
+                  "boldText": "Listen to more examples."
                 }
               ]
             }
@@ -117,6 +126,9 @@
           "blocks": [
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/b-1.mp3"
+                },
                 {
                   "boldText": "• "
                 },
@@ -133,6 +145,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/b-2.mp3"
+                },
                 {
                   "boldText": "• "
                 },
@@ -156,6 +171,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/b-3.mp3"
+                },
+                {
                   "boldText": "• "
                 },
                 {
@@ -171,6 +189,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/b-4.mp3"
+                },
                 {
                   "boldText": "• "
                 },
@@ -199,6 +220,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/b-5.mp3"
+                },
                 {
                   "boldText": "• "
                 },
@@ -234,6 +258,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/b-6.mp3"
+                },
+                {
                   "boldText": "• "
                 },
                 {
@@ -249,6 +276,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/b-7.mp3"
+                },
                 {
                   "boldText": "• "
                 },
@@ -271,6 +301,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/b-8.mp3"
+                },
                 {
                   "boldText": "• "
                 },
@@ -346,12 +379,11 @@
             {
               "block": [
                 {
-                  "boldText": "List of some common regular and irregular verbs."
-                }
-              ]
-            },
-            {
-              "block": [
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/c.mp3"
+                },
+                {
+                  "boldText": "Listen to some common regular and irregular verbs. "
+                },
                 {
                   "boldText": "-ed regular verbs can have three sounds:"
                 },
@@ -379,6 +411,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/arrive-arrived.mp3"
+                },
+                {
                   "text": "arriv"
                 },
                 {
@@ -398,6 +433,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/ask-asked.mp3"
+                },
+                {
                   "text": "ask"
                 },
                 {
@@ -414,6 +452,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/begin-began.mp3"
+                },
+                {
                   "text": "begin ➜ "
                 },
                 {
@@ -423,6 +464,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/break-broke.mp3"
+                },
                 {
                   "text": "break ➜ "
                 },
@@ -434,6 +478,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/build-built.mp3"
+                },
+                {
                   "text": "build ➜ "
                 },
                 {
@@ -444,6 +491,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/bring-brought.mp3"
+                },
+                {
                   "text": "bring ➜ "
                 },
                 {
@@ -453,6 +503,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/brush-brushed.mp3"
+                },
                 {
                   "text": "brush"
                 },
@@ -470,6 +523,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/buy-bought.mp3"
+                },
+                {
                   "text": "buy ➜ "
                 },
                 {
@@ -480,6 +536,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/catch-caught.mp3"
+                },
+                {
                   "text": "catch ➜ "
                 },
                 {
@@ -489,6 +548,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/clean-cleaned.mp3"
+                },
                 {
                   "text": "clean"
                 },
@@ -506,6 +568,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/come-came.mp3"
+                },
+                {
                   "text": "come ➜ "
                 },
                 {
@@ -515,6 +580,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/check-checked.mp3"
+                },
                 {
                   "text": "check ➜ "
                 },
@@ -528,6 +596,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/copy-copied.mp3"
+                },
                 {
                   "text": "co"
                 },
@@ -548,6 +619,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/cut-cut.mp3"
+                },
+                {
                   "text": "cut ➜ "
                 },
                 {
@@ -557,6 +631,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/dance-danced.mp3"
+                },
                 {
                   "text": "dance"
                 },
@@ -574,6 +651,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/depart-departed.mp3"
+                },
+                {
                   "text": "depart"
                 },
                 {
@@ -589,6 +669,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/die-died.mp3"
+                },
                 {
                   "text": "di"
                 },
@@ -609,6 +692,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/do-did.mp3"
+                },
+                {
                   "text": "do ➜ "
                 },
                 {
@@ -618,6 +704,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/drink-drank.mp3"
+                },
                 {
                   "text": "drink ➜ "
                 },
@@ -629,6 +718,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/draw-drew.mp3"
+                },
+                {
                   "text": "draw ➜ "
                 },
                 {
@@ -639,6 +731,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/eat-ate.mp3"
+                },
+                {
                   "text": "eat ➜ "
                 },
                 {
@@ -648,6 +743,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/end-ended.mp3"
+                },
                 {
                   "text": "end"
                 },
@@ -665,6 +763,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/enjoy-enjoyed.mp3"
+                },
+                {
                   "text": "enjoy"
                 },
                 {
@@ -681,6 +782,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/fall-fell.mp3"
+                },
+                {
                   "text": "fall ➜ "
                 },
                 {
@@ -690,6 +794,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/fight-fought.mp3"
+                },
                 {
                   "text": "fight ➜ "
                 },
@@ -701,6 +808,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/find-found.mp3"
+                },
+                {
                   "text": "find ➜ "
                 },
                 {
@@ -710,6 +820,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/fly-flew.mp3"
+                },
                 {
                   "text": "fly ➜ "
                 },
@@ -721,6 +834,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/forget-forgot.mp3"
+                },
+                {
                   "text": "forget ➜ "
                 },
                 {
@@ -730,6 +846,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/get-got.mp3"
+                },
                 {
                   "text": "get ➜ "
                 },
@@ -741,6 +860,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/give-gave.mp3"
+                },
+                {
                   "text": "give ➜ "
                 },
                 {
@@ -751,6 +873,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/go-went.mp3"
+                },
+                {
                   "text": "go ➜ "
                 },
                 {
@@ -760,6 +885,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/happen-happened.mp3"
+                },
                 {
                   "text": "hap"
                 },
@@ -780,6 +908,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/have-had.mp3"
+                },
+                {
                   "text": "have ➜ "
                 },
                 {
@@ -789,6 +920,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/hear-heard.mp3"
+                },
                 {
                   "text": "hear ➜ "
                 },
@@ -800,6 +934,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/hurt-hurt.mp3"
+                },
+                {
                   "text": "hurt ➜ "
                 },
                 {
@@ -809,6 +946,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/keep-kept.mp3"
+                },
                 {
                   "text": "keep ➜ "
                 },
@@ -820,6 +960,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/know-knew.mp3"
+                },
+                {
                   "text": "know ➜ "
                 },
                 {
@@ -830,6 +973,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/leave-left.mp3"
+                },
+                {
                   "text": "leave ➜ "
                 },
                 {
@@ -839,6 +985,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/live-lived.mp3"
+                },
                 {
                   "text": "liv"
                 },
@@ -859,6 +1008,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/lose-lost.mp3"
+                },
+                {
                   "text": "lose ➜ "
                 },
                 {
@@ -868,6 +1020,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/make-made.mp3"
+                },
                 {
                   "text": "make ➜ "
                 },
@@ -879,6 +1034,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/meet-met.mp3"
+                },
+                {
                   "text": "meet ➜ "
                 },
                 {
@@ -888,6 +1046,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/need-needed.mp3"
+                },
                 {
                   "text": "need"
                 },
@@ -905,6 +1066,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/open-opened.mp3"
+                },
+                {
                   "text": "open"
                 },
                 {
@@ -921,6 +1085,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/park-parked.mp3"
+                },
+                {
                   "text": "park"
                 },
                 {
@@ -936,6 +1103,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/pay-paid.mp3"
+                },
                 {
                   "text": "pay "
                 },
@@ -959,6 +1129,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/plan-planned.mp3"
+                },
+                {
                   "text": "p"
                 },
                 {
@@ -978,6 +1151,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/play-played.mp3"
+                },
+                {
                   "text": "play"
                 },
                 {
@@ -994,6 +1170,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/put-put.mp3"
+                },
+                {
                   "text": "put ➜ "
                 },
                 {
@@ -1003,6 +1182,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/rain-rained.mp3"
+                },
                 {
                   "text": "rain"
                 },
@@ -1020,6 +1202,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/ring-rang.mp3"
+                },
+                {
                   "text": "ring ➜ "
                 },
                 {
@@ -1029,6 +1214,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/read-read.mp3"
+                },
                 {
                   "text": "read ➜ "
                 },
@@ -1040,6 +1228,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/see-saw.mp3"
+                },
+                {
                   "text": "see ➜ "
                 },
                 {
@@ -1049,6 +1240,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/say-said.mp3"
+                },
                 {
                   "text": "say "
                 },
@@ -1069,6 +1263,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/seek-sought.mp3"
+                },
+                {
                   "text": "seek ➜ "
                 },
                 {
@@ -1079,6 +1276,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/sell-sold.mp3"
+                },
+                {
                   "text": "sell ➜ "
                 },
                 {
@@ -1088,6 +1288,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/sing-sang.mp3"
+                },
                 {
                   "text": "sing ➜ "
                 },
@@ -1102,6 +1305,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/sit-sat.mp3"
+                },
+                {
                   "text": "sit ➜ "
                 },
                 {
@@ -1111,6 +1317,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/sleep-slept.mp3"
+                },
                 {
                   "text": "sleep ➜ "
                 },
@@ -1122,6 +1331,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/speak-spoke.mp3"
+                },
+                {
                   "text": "speak ➜ "
                 },
                 {
@@ -1132,6 +1344,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/stand-stood.mp3"
+                },
+                {
                   "text": "stand ➜ "
                 },
                 {
@@ -1141,6 +1356,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/start-started.mp3"
+                },
                 {
                   "text": "start"
                 },
@@ -1158,6 +1376,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/stay-stayed.mp3"
+                },
+                {
                   "text": "stay"
                 },
                 {
@@ -1173,6 +1394,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/stop-stopped.mp3"
+                },
                 {
                   "text": "s"
                 },
@@ -1193,6 +1417,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/study-studied.mp3"
+                },
+                {
                   "text": "stu"
                 },
                 {
@@ -1212,6 +1439,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/sweep-swept.mp3"
+                },
+                {
                   "text": "sweep ➜ "
                 },
                 {
@@ -1221,6 +1451,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/swim-swam.mp3"
+                },
                 {
                   "text": "swim ➜ "
                 },
@@ -1232,6 +1465,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/take-took.mp3"
+                },
+                {
                   "text": "take ➜ "
                 },
                 {
@@ -1241,6 +1477,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/talk-talked.mp3"
+                },
                 {
                   "text": "talk"
                 },
@@ -1258,6 +1497,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/tell-told.mp3"
+                },
+                {
                   "text": "tell ➜ "
                 },
                 {
@@ -1268,6 +1510,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/think-thought.mp3"
+                },
+                {
                   "text": "think ➜ "
                 },
                 {
@@ -1277,6 +1522,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/try-tried.mp3"
+                },
                 {
                   "text": "t"
                 },
@@ -1297,6 +1545,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/wait-waited.mp3"
+                },
+                {
                   "text": "wait"
                 },
                 {
@@ -1313,6 +1564,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/wakeup-wokeup.mp3"
+                },
+                {
                   "text": "wake up ➜ "
                 },
                 {
@@ -1322,6 +1576,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/walk-walked.mp3"
+                },
                 {
                   "text": "walk"
                 },
@@ -1339,6 +1596,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/want-wanted.mp3"
+                },
+                {
                   "text": "want"
                 },
                 {
@@ -1355,6 +1615,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/win-won.mp3"
+                },
+                {
                   "text": "win ➜ "
                 },
                 {
@@ -1364,6 +1627,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/work-worked.mp3"
+                },
                 {
                   "text": "work"
                 },
@@ -1389,6 +1655,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/.mp3"
+                },
+                {
                   "boldText": "You can use just with the simple past (just = a short time)."
                 }
               ]
@@ -1399,6 +1668,9 @@
           "blocks": [
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/.mp3"
+                },
                 {
                   "boldText": "• "
                 },
@@ -1415,6 +1687,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/.mp3"
+                },
                 {
                   "boldText": "• "
                 },

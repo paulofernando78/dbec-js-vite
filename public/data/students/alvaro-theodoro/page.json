@@ -194,10 +194,10 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Fri 29",
-                      "classNotes": "",
-                      "homeWorkNotes": ""
+                      "classNotes": "Reviewed topics for the exam next next",
+                      "homeWorkNotes": "Review everything"
                     }
                   ],
                   "hr": true
