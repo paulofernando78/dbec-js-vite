@@ -19,7 +19,7 @@
 body {
   background-color: var(--background-color);
   color: var(--text-color);
-  max-width: 1100px;
+  max-width: 1049px;
   margin: 0 auto;
   font-family: "Montserrat", sans-serif;
   font-display: swap;
