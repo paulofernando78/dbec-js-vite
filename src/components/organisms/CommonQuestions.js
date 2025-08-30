@@ -12,7 +12,9 @@ class CommonQuestions extends HTMLElement {
     const css = document.createElement("style");
     /*css*/
     css.textContent = `
-      
+      .phrases-container {
+        margin-top: var(--margin-top)
+      }
     `;
     this.shadowRoot.appendChild(css);
 
@@ -37,15 +39,19 @@ class CommonQuestions extends HTMLElement {
 
     const ribbon = document.createElement("wc-ribbon");
     ribbon.data = {
-      icon: "board",
+      icon: "snippet",
       label: "Common questions and answers",
     };
     this.shadowRoot.appendChild(ribbon);
 
+    const phrasesContainer = document.createElement("div");
+    phrasesContainer.classList.add("phrases-container")
+    this.shadowRoot.appendChild(phrasesContainer);
+    
     phrases.forEach((phrase) => {
       const p = document.createElement("p");
       p.textContent = phrase.phrase;
-      this.shadowRoot.appendChild(p);
+      phrasesContainer.appendChild(p);
     });
   }
 }
