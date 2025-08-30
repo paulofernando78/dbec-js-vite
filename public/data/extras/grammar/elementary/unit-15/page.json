@@ -1258,7 +1258,7 @@
                   "block": [
                     {
                       "text": "1. I",
-                      "placeholder": "I’ve lost",
+                      "placeholder": "’ve lost",
                       "correctAnswer": ["have lost", "’ve lost", "I've lost"]
                     },
                     {
@@ -1276,8 +1276,8 @@
                       "text": "2. I",
                       "correctAnswer": [
                         "have bought",
-                        "I’ve bought",
-                        "I've bought"
+                        "’ve bought",
+                        "'ve bought"
                       ]
                     },
                     {
@@ -1341,11 +1341,11 @@
                 {
                   "block": [
                     {
-                      "text": "6. A: “Does Lisa know that you’re going away?” B: “Yes, I”",
+                      "text": "6. A: “Does Lisa know that you’re going away?” B: “Yes, I",
                       "correctAnswer": ["have told", "’ve told", "'ve told"]
                     },
                     {
-                      "text": "her."
+                      "text": "her.”"
                     }
                   ]
                 }
@@ -1371,7 +1371,7 @@
                 {
                   "block": [
                     {
-                      "text": "8. A: “Where are my glasses?” B: “I don’t know. I”",
+                      "text": "8. A: “Where are my glasses?” B: “I don’t know. I",
                       "correctAnswer": [
                         "have not seen",
                         "haven’t seen",
@@ -1379,7 +1379,7 @@
                       ]
                     },
                     {
-                      "text": "them."
+                      "text": "them.”"
                     }
                   ]
                 }
@@ -1412,8 +1412,8 @@
                       "text": "10. I know that woman, but I",
                       "correctAnswer": [
                         "have forgotten",
-                        "I’ve forgotten",
-                        "I've forgotten"
+                        "’ve forgotten",
+                        "'ve forgotten"
                       ]
                     },
                     {
