@@ -19,8 +19,8 @@
   "contents": [
     {
       "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
+        "bgColor": "black",
+        "textColor": "white",
         "icon": "snippet",
         "label": "A"
       }
@@ -99,8 +99,8 @@
     },
     {
       "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
+        "bgColor": "black",
+        "textColor": "white",
         "icon": "snippet",
         "label": "B"
       }
@@ -366,8 +366,8 @@
     },
     {
       "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
+        "bgColor": "black",
+        "textColor": "white",
         "icon": "snippet",
         "label": "C"
       }
@@ -1655,7 +1655,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/.mp3"
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/c-1.mp3"
                 },
                 {
                   "boldText": "You can use just with the simple past (just = a short time)."
@@ -1669,7 +1669,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/.mp3"
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/c-2.mp3"
                 },
                 {
                   "boldText": "• "
@@ -1688,7 +1688,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/.mp3"
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-11/c-3.mp3"
                 },
                 {
                   "boldText": "• "
