@@ -24,6 +24,12 @@ class Contents extends HTMLElement {
         z-index: 1
       }
 
+       wc-iframe.bottom-position {
+        position: relative;
+        bottom: 0;
+        z-index: 1
+      }
+
       // wc-iframe {
       //   margin: 0 auto
       // }
@@ -137,6 +143,9 @@ class Contents extends HTMLElement {
 
         if (section.iframe.sticky) {
           iframe.classList.add("sticky");
+        }
+        if (section.iframe.bottomSticky) {
+          iframe.classList.add("bottom-sticky");
         }
         iframe.data = section.iframe;
         contentContainer.appendChild(iframe);

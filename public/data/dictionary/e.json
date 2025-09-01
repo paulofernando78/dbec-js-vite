@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "earn one’s keep",
+        "phonetics": "/ɝːrn wʌnz kiːp/",
+        "partOfSpeech": "idiom",
+        "enDefinition": "To do work or provide a service in return for food, accommodation, or the benefits one receives; to justify one’s position or usefulness.",
+        "ptDefinition": "Trabalhar ou prestar um serviço em troca de comida, hospedagem ou dos benefícios recebidos; justificar a própria posição ou utilidade.",
+        "examples": [
+          {
+            "enExample": "He helped out on the farm to earn his keep.",
+            "ptExample": "Ele ajudava na fazenda para ganhar o sustento."
+          },
+          {
+            "enExample": "In this company, you have to earn your keep by showing real results.",
+            "ptExample": "Nesta empresa, você precisa justificar sua presença mostrando resultados reais."
+          }
+        ],
+        "synonyms": ["pull one’s weight", "contribute", "justify one’s role"],
+        "antonyms": ["be a burden", "freeload"],
+        "seeAlso": ["pull one’s weight", "pay one’s way"],
+        "notes": [
+          {
+            "enNote": "Often used both literally (working for food/shelter) and figuratively (justifying one’s role or usefulness).",
+            "ptNote": "Pode ser usado de forma literal (trabalhar em troca de comida/abrigo) ou figurada (justificar o próprio papel ou utilidade)."
+          }
+        ]
+      },
+      {
         "word": "earthly",
         "phonetics": "/ˈɜːrθli/",
         "partOfSpeech": "adjective",

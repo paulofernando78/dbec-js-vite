@@ -96,7 +96,13 @@
                   "markedText": "earned your keep"
                 },
                 {
-                  "text": ". You're great at motivating your employees, and you're always willing to go the extra mile."
+                  "text": ". You're great at motivating your employees, and you're always willing to "
+                },
+                {
+                  "markedText":	"go the extra mile"
+                },
+                {
+                  "text":	"."
                 }
               ]
             }
@@ -170,13 +176,7 @@
                   "boldText": "Kurt: "
                 },
                 {
-                  "text": "Yes, he'll be "
-                },
-                {
-                  "markedText": "leaving us"
-                },
-                {
-                  "text": ". I'll be "
+                  "text": "Yes, he'll be leaving us. I'll be "
                 },
                 {
                   "markedText": "breaking the news"

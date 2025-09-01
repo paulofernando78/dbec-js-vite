@@ -42,7 +42,7 @@
     },
     {
       "iframe": {
-        "sticky": true,
+        "bottomPosition": true,
         "src": "https://archive.org/embed/msdos_Kings_Quest_I_-_Quest_for_the_Crown_1987",
         "width": "50%",
         "height": "auto"

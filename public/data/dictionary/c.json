@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "corner office",
+        "phonetics": "/ˈkɔːrnɚ ˈɔːfɪs/",
+        "partOfSpeech": "noun (idiom)",
+        "enDefinition": "An office located in the corner of a building, often larger and with windows on two sides. Figuratively, it refers to a high-ranking executive position, usually occupied by senior management or CEOs.",
+        "ptDefinition": "Um escritório localizado no canto de um prédio, geralmente maior e com janelas em dois lados. Figurativamente, refere-se a um cargo executivo de alto nível, normalmente ocupado por diretores ou CEOs.",
+        "examples": [
+          {
+            "enExample": "After years of hard work, she finally earned the corner office.",
+            "ptExample": "Após anos de trabalho duro, ela finalmente conquistou o escritório de canto."
+          },
+          {
+            "enExample": "The corner office is often seen as a symbol of power and success in corporate culture.",
+            "ptExample": "O escritório de canto é frequentemente visto como um símbolo de poder e sucesso na cultura corporativa."
+          }
+        ],
+        "synonyms": ["executive office", "CEO office", "top office"],
+        "antonyms": ["cubicle", "shared office"],
+        "seeAlso": ["boardroom", "headquarters"],
+        "notes": [
+          {
+            "enNote": "The phrase is often symbolic, representing authority, prestige, and career achievement.",
+            "ptNote": "A expressão é muitas vezes simbólica, representando autoridade, prestígio e realização profissional."
+          }
+        ]
+      },
+      {
         "word": "candidly",
         "phonetics": "/ˈkændɪdli/",
         "partOfSpeech": "adverb",
