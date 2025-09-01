@@ -42,18 +42,18 @@
             {
               "block": [
                 {
-                  "text": "I"
+                  "audioSrc": "/assets/audio/dictionary/listen.mp3"
                 },
                 {
-                  "markedText": "’m"
-                },
-                {
-                  "text": " 22."
+                  "boldText": "Listen."
                 }
-              ]
+              ], "lineBreak": true
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-1/a-1.mp3"
+                },
                 {
                   "text": "My name "
                 },
@@ -67,6 +67,26 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-1/a-2.mp3"
+                },
+                {
+                  "text": "I"
+                },
+                {
+                  "markedText": "’m"
+                },
+                {
+                  "text": " 22."
+                }
+              ]
+            },
+
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-1/a-3.mp3"
+                },
                 {
                   "text": "I"
                 },
@@ -87,6 +107,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-1/a-4.mp3"
+                },
+                {
                   "text": "I"
                 },
                 {
@@ -99,6 +122,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-1/a-5.mp3"
+                },
                 {
                   "text": "My father "
                 },
@@ -119,6 +145,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-1/a-6.mp3"
+                },
+                {
                   "text": "My favorite color is blue."
                 }
               ]
@@ -126,18 +155,24 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-1/a-7.mp3"
+                },
+                {
                   "text": "My favorite sports "
                 },
                 {
                   "markedText": "are"
                 },
                 {
-                  "text": " football and swimming."
+                  "text": " tennis and swimming."
                 }
               ]
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-1/a-8.mp3"
+                },
                 {
                   "text": "I"
                 },
@@ -151,6 +186,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-1/a-9.mp3"
+                },
                 {
                   "text": "I"
                 },
@@ -182,6 +220,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/affirmative.mp3"
+                },
+                {
                   "boldText": "AFFIRMATIVE"
                 }
               ]
@@ -192,6 +233,9 @@
           "blocks": [
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/lessons/verb-to-be/i-am-im.mp3"
+                },
                 {
                   "text": "I "
                 },
@@ -212,6 +256,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/lessons/verb-to-be/you-are-youre.mp3"
+                },
+                {
                   "text": "you "
                 },
                 {
@@ -230,6 +277,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/lessons/verb-to-be/he-is-hes.mp3"
+                },
                 {
                   "text": "he "
                 },
@@ -250,6 +300,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/lessons/verb-to-be/she-is-shes.mp3"
+                },
+                {
                   "text": "she "
                 },
                 {
@@ -268,6 +321,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/lessons/verb-to-be/it-is-its.mp3"
+                },
                 {
                   "text": "it "
                 },
@@ -288,6 +344,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/lessons/verb-to-be/we-are-were.mp3"
+                },
+                {
                   "text": "we "
                 },
                 {
@@ -307,6 +366,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/lessons/verb-to-be/you-are-youre.mp3"
+                },
+                {
                   "text": "you "
                 },
                 {
@@ -325,6 +387,9 @@
             },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/lessons/verb-to-be/they-are-theyre.mp3"
+                },
                 {
                   "text": "they "
                 },
@@ -349,7 +414,10 @@
             {
               "block": [
                 {
-                  "boldText": "Examples"
+                  "audioSrc": "/assets/audio/general/listen-to-the-examples.mp3"
+                },
+                {
+                  "boldText": "Listen to the examples."
                 }
               ]
             }

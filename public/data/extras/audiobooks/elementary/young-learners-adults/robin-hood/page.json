@@ -54,9 +54,34 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Full audio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "audioPlayer": {
         "sticky": true,
         "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/audio.mp3"
+      }
+    },
+    {
+      "hr":	true
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-1.mp3"
       }
     },
     {
@@ -282,9 +307,15 @@
       ]
     },
     {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-2.mp3"
+      }
+    },
+    {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 2 • "
+        "label": "Chapter 2"
       }
     },
     {
@@ -428,9 +459,15 @@
       }
     },
     {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-3.mp3"
+      }
+    },
+    {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 3 • "
+        "label": "Chapter 3"
       }
     },
     {
@@ -566,9 +603,15 @@
       ]
     },
     {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-4.mp3"
+      }
+    },
+    {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 4 • "
+        "label": "Chapter 4"
       }
     },
     {
@@ -871,9 +914,15 @@
       ]
     },
     {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-5.mp3"
+      }
+    },
+    {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 5 • "
+        "label": "Chapter 5"
       }
     },
     {
@@ -898,7 +947,223 @@
               "block": [
                 {
                   "textIndent": true,
-                  "text": "..."
+                  "text": "Our drink is strong, our food is good Come in and drink with, Robin Hood. When Robin Hood is not at home Come in and drink with Little John. (An old drinking song)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "In the first weeks and months after the fight in the abbey, Robin and his men worked very hard. They cut down young trees and built homes in the centre of the forest. They made arrows from wood and caught forest deer for their food. They bought bread and milk from the villagers."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Sometimes Robin liked to leave his men, and look for adventure. One fine autumn morning, he and his friend Will Scarlet woke early."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘It is a beautiful day,’ said Robin. ‘I think I will go for a walk to the river. Will you come with me?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I. want to make some new arrows for my bow,’ answered Will. ‘But I will meet you at lunch time near the bridge.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "So Robin left Will and walked quickly through the forest to the river and the little bridge. Robin stood in the middle of the bridge, and looked up at the trees."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘The autumn colours are beautiful,’ he thought. Then he looked down at the water. ‘I will catch a fish for our lunch,’ he thought. ‘Will and I can make a fire. I have some bread, and there is fruit on the trees. We will eat very well. Ah, this is a wonderful life!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Suddenly somebody behind him said, ‘Well, little man! Are you going to stand there all day? Get out of my way!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Robin turned. The speaker was a big man, nearly two metres tall. ‘Now this will be an interesting adventure,’ he thought. ‘That man is very strong. Can I fight him - and win ?’ He did not move from the bridge."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I arrived here first,’ he called to the big man, ‘so you will have to wait. I think I am going to do some fishing. Then, perhaps, I will get out of your way’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The big man moved onto the bridge."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I will not wait!’ he said. ‘And you are not going to fish, you are going to fight!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "They fought there, in the middle of the bridge. Robin couldn't win. He knew that after a minute or two. The man wasn't very fast but he was very strong. So Robin quickly thought of a plan."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "He looked over the top of the big man's head, and shouted, ‘Look, the sheriff's men!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The big man turned and looked. Robin quickly kicked the man's legs as hard as he could. The big man was very angry — but he didn't fall. He kicked Robin, and Robin fell off the bridge into the water."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The big man laughed."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I won the fight,’ he said. ‘Come, I will help you.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "He looked over the bridge into the water. But Robin was not there."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Where are you?’ called the man. ‘Are you all right?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Robin suddenly came up from the water. He was a long way from the bridge."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Perhaps you won the fight,’ laughed Robin, ‘but you did not catch me!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "He began to climb onto dry ground. Then Will Scarlet arrived."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘What happened, Robin?’ he called. ‘Did this man throw you in the water? He will have to fight me now!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘No! No!' laughed Robin. ‘Let's be friends. So what is your name, friend? And what are you doing in my forest?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Your forest?’ answered the big man. ‘It is not your forest! I came here to find brave Robin Hood. But first, I think, I will throw you in the river again!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Friend,' said Robin, ‘you found Robin Hood, and threw him in the water. Please, don't do it again!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘What! Are you really Robin Hood?’ asked the man. ‘I am very happy about that. My name is John Little and I want to be one of your men.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Robin laughed. ‘ “Little” is a good name for you, because you are very small - only the size of a small tree! We will always call you our “little” John. Come to our forest home, Little John!’"
                 }
               ]
             }
