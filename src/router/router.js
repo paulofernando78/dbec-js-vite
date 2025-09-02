@@ -1,6 +1,10 @@
+import { inject } from "@vercel/analytics";
+
 const Router = {
   init: () => {
     console.log("Router running");
+
+    inject();
 
     document.addEventListener("navigate", (e) => {
       const url = e.detail;
@@ -21,6 +25,12 @@ const Router = {
     Router.locationHandler();
   },
 
+  trackPageview: (path = window.location.pathname) => {
+    if (window.__VERCEL_ANALYTICS?.track) {
+      window.__VERCEL_ANALYTICS.track('pageview', { path });
+    }
+  },
+
   locationHandler: () => {
     const path = window.location.pathname;
 
@@ -32,7 +42,6 @@ const Router = {
       document.body.appendChild(layout);
     }
 
-    // wc-layout or its shadowRoot not available yet
     if (!layout || !layout.shadowRoot) {
       console.warn("wc-layout or its shadowRoot not available yet");
       return;
@@ -67,10 +76,13 @@ const Router = {
         node.addEventListener("page-ready", () => {
           console.log("page-ready fired for:", window.location.pathname);
         });
-        return;
+      } else {
+        content.innerHTML = `<wc-four-oh-four></wc-four-oh-four>`;
       }
-      content.innerHTML = `<wc-four-oh-four></wc-four-oh-four>`;
     }
+
+    // dispara pageview automaticamente sempre que a página muda
+    Router.trackPageview(path);
   },
 };
 

@@ -17,7 +17,7 @@ class Audio extends HTMLElement {
         display: inline-block;
         cursor: pointer;
         position: relative;
-        bottom: 1px;
+        bottom: 2px;
         right: 2px
       }
     `;
