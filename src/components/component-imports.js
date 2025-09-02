@@ -1,4 +1,5 @@
 // Atoms
+import Audio from "./atoms/Audio";
 import AudioPlayer from "./atoms/AudioPlayer";
 import Note from "./atoms/Note";
 import Button from "./atoms/Button";
@@ -43,6 +44,7 @@ import DataPage from "../pages/data-page";
 // ******************************
 
 // Atoms
+customElements.define("wc-audio", Audio);
 customElements.define("wc-audio-player", AudioPlayer);
 customElements.define("wc-note", Note);
 customElements.define("wc-button", Button);

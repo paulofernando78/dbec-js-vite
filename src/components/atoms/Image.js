@@ -30,12 +30,12 @@ class Image extends HTMLElement {
     }
 
     figcaption {
-  font-size: 0.85rem;
-  font-style: italic;
-  text-align: center;
-  margin-top: 6px;
-  color: var(--caption-color, #555);
-}
+      font-size: 0.85rem;
+      font-style: italic;
+      text-align: center;
+      margin-top: 6px;
+      color: #555
+    }
 
     .number {
       position: absolute;

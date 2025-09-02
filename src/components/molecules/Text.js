@@ -1,5 +1,4 @@
 import cssImportsPath from "/src/css/imports.css?inline";
-import { play, stop } from "/src/assets/images/svg-imports.js";
 import * as icons from "/src/assets/images/svg-imports.js";
 
 class Text extends HTMLElement {
@@ -53,14 +52,6 @@ class Text extends HTMLElement {
 
       .audio-wrapper {
         margin-bottom: 10px
-      }
-
-      .play-icon {
-        display: inline-block;
-        cursor: pointer;
-        position: relative;
-        bottom: 1px;
-        right: 2px
       }
 
       .icon {
@@ -180,25 +171,10 @@ class Text extends HTMLElement {
         }
 
         if (subItem.audioSrc) {
-          const playIcon = document.createElement("span");
-          playIcon.innerHTML = play; // icon from svg-imports
-          playIcon.classList.add("play-icon");
-
-          playIcon.addEventListener("click", () => {
-            if (audio.paused) {
-              audio.play();
-              playIcon.innerHTML = stop;
-            } else {
-              audio.pause();
-              playIcon.innerHTML = play;
-            }
-          });
-
-          const audio = new Audio(subItem.audioSrc);
-
-          audio.addEventListener("ended", () => {
-            playIcon.innerHTML = play;
-          });
+          const playIcon = document.createElement("wc-audio");
+          playIcon.data = {
+            audioSrc: subItem.audioSrc
+          }
 
           if (blockElement.style.textIndent === "1rem") {
             playIcon.style.marginLeft = "-1rem";
