@@ -210,9 +210,9 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Tue 2",
-                      "classNotes": "",
+                      "classNotes": "Test Review",
                       "homeWorkNotes": ""
                     }
                   ]

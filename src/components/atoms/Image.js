@@ -13,9 +13,42 @@ class Image extends HTMLElement {
 
     const css = document.createElement("style"); /*css*/
     css.textContent = `
-     img {
-        height: auto;
-      }
+    .wrapper {
+      position: relative;
+      display: inline-block;
+    } 
+    
+    img {
+      position: relative;
+      height: auto;
+    }
+
+    .wrapper img {
+      margin: 0 auto;
+      border: var(--img-border);
+      border-radius: var(--border-radius);
+    }
+
+    figcaption {
+  font-size: 0.85rem;
+  font-style: italic;
+  text-align: center;
+  margin-top: 6px;
+  color: var(--caption-color, #555);
+}
+
+    .number {
+      position: absolute;
+      border: 1px solid black;
+      background: white;
+      font-family: courier;
+      font-size: .75rem;
+      border-radius: 4px;
+      padding: 2px 5px;
+      top: 8px;
+      left: 8px;
+      color: black;
+    }
 
       @media (max-width: 500px) {
         img {
@@ -27,33 +60,25 @@ class Image extends HTMLElement {
     this.shadowRoot.appendChild(css);
 
     const wrapper = document.createElement("div");
-    wrapper.style.position = "relative";
-    wrapper.style.display = "inline-block";
+    wrapper.classList.add("wrapper");
 
     const image = document.createElement("img");
-    image.style.position = "relative";
     if (img.width) {
       image.style.setProperty("width", img.width);
     }
-    image.style.margin = "0 auto";
-    image.style.border = "var(--img-border)";
-    image.style.borderRadius = "var(--border-radius)";
     image.src = img.src;
     image.alt = img.alt || "";
     wrapper.appendChild(image);
 
+    if (img.caption) {
+      const caption = document.createElement("figcaption");
+      caption.textContent = img.caption;
+      wrapper.appendChild(caption);
+    }
+
     if (img.number) {
       const number = document.createElement("span");
-      number.style.position = "absolute";
-      number.style.border = "1px solid black";
-      number.style.background = "white";
-      number.style.fontFamily = "courier";
-      number.style.fontSize = ".75rem";
-      number.style.borderRadius = "4px";
-      number.style.padding = "2px 5px";
-      number.style.top = "8px";
-      number.style.left = "8px";
-      number.style.color = "black";
+      number.classList.add("number");
       number.textContent = img.number;
       wrapper.appendChild(number);
     }

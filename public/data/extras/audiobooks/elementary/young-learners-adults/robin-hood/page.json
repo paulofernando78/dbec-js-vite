@@ -63,7 +63,6 @@
       }
     },
     {
-      "grid": false,
       "text": [
         {
           "blocks": [
@@ -1152,7 +1151,25 @@
                   "text": "He began to climb onto dry ground. Then Will Scarlet arrived."
                 }
               ]
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "images": [
+        {
+          "width": "80%",
+          "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-5.avif",
+          "caption": "They fought there, in the middle of the bridge.",
+          "alt": "A picture of Robin Hood fighting on a bridge."
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
             {
               "block": [
                 {
@@ -1220,13 +1237,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-6.avif",
-              "alt": "Paragraph 6 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -1447,13 +1457,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-7.avif",
-              "alt": "Chapter 7 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -1602,13 +1605,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-8.avif",
-              "alt": "Paragraph 8 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -1649,7 +1645,25 @@
                   "text": "The sheriff stood up and called loudly to his men, ‘That's him! That's Robin Hood! Take him!’"
                 }
               ]
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "images": [
+        {
+          "width": "80%",
+          "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-8.avif",
+          "caption": "Then Little John put five more bags on the table.",
+          "alt": "A picture of John Little and a Priest."
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
             {
               "block": [
                 {
@@ -1701,13 +1715,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-9.avif",
-              "alt": "Paragraph 9 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -1880,13 +1887,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-10.avif",
-              "alt": "Chapter 10 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -2059,13 +2059,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-11.avif",
-              "alt": "Chapter 11 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -2090,12 +2083,30 @@
                   "text": "‘Another friar lives at my uncle's home,’ she told Robin, ‘but he is a weak man. He doesn't want to marry us because he is afraid. And the sheriff will find me at my uncle's house. Oh, where is Friar Tuck? Only he can help us.’"
                 }
               ]
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "images": [
+        {
+          "width": "80%",
+          "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-11.avif",
+          "caption": "‘Robin!’ said Marian, and threw back her hood.",
+          "alt": "A picture of Marian."
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
             {
               "block": [
                 {
                   "textIndent": true,
-                  "text": "hen one day, about a month after the fight between Marian and Robin, Will Scarlet told them an interesting story."
+                  "text": "Then one day, about a month after the fight between Marian and Robin, Will Scarlet told them an interesting story."
                 }
               ]
             },
@@ -2288,6 +2299,16 @@
       ]
     },
     {
+      "images": [
+        {
+          "width": "80%",
+          "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-11-2.avif",
+          "caption": "The Friar look at Robin's sword anf then walked into the water.",
+          "alt": "A picture of Robin bring taken out of the water by the friar."
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 12"
@@ -2302,13 +2323,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-12.avif",
-              "alt": "Chapter 12 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -2545,13 +2559,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-13.avif",
-              "alt": "Paragraph 13 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -2636,13 +2643,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-14.avif",
-              "alt": "Paragraph 14 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -2835,7 +2835,25 @@
                   "text": "With Will and Marian's help, he put Little John on his back and ran to the forest road. Suddenly a man arrived on a white horse. It was Richard of Lee."
                 }
               ]
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "images": [
+        {
+          "width": "80%",
+          "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-14.avif",
+          "caption": "‘That man is Robin Hood,’ thought the Sheriff",
+          "alt": "A picture of Robin Hood practing bow and arrow."
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
             {
               "block": [
                 {
@@ -2879,13 +2897,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-15.avif",
-              "alt": "Chapter 15 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -3038,7 +3049,25 @@
                   "text": "‘This is my story,’ said the friar. ‘I left England with King Richard. Now the king is in England again, and I came too."
                 }
               ]
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "images": [
+        {
+          "width": "80%",
+          "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-15.avif",
+          "caption": "‘What is your story, friend? Why do you want to meet me?’",
+          "alt": "Robin hood in his camp."
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
             {
               "block": [
                 {
@@ -3122,13 +3151,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-16.avif",
-              "alt": "Chapter 16 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -3241,7 +3263,24 @@
                   "text": "Robin woke up. There was nobody in the room. He was very weak and couldn't move from the bed. Then he heard a friend. ‘I am coming, Robin!’ called Little John. ‘Where are you ?’"
                 }
               ]
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "images": [
+        {
+          "width": "80%",
+          "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-16.avif",
+          "alt": "A picture of Robin Hood in bed bleeding."
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
             {
               "block": [
                 {
