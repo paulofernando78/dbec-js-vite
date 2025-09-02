@@ -32,8 +32,13 @@ class Exercise extends HTMLElement {
 
   set data(exercises) {
     exercises.forEach((section, idx) => {
+
       if (section.title) {
-        this._renderTitleDescription(section.title, section.description);
+        this._renderTitleDescription(
+          section.title,
+          section.description,
+          section.audioSrc
+        );
       }
 
       if (section.texts) {
@@ -64,14 +69,24 @@ class Exercise extends HTMLElement {
     this.renderButtons();
   }
 
-  // Title / Description
-  _renderTitleDescription(title, description) {
+  // Title / Description + Audio
+  _renderTitleDescription(title, description, audioSrc) {
     const titleWrapper = document.createElement("div");
 
     if (title) {
       const titleElement = document.createElement("p");
-      titleElement.textContent = title;
       titleElement.style.fontWeight = "bold";
+
+      if (audioSrc) {
+        const audio = document.createElement("wc-audio");
+        audio.data = {
+          audioSrc,
+        };
+        titleElement.appendChild(audio);
+      }
+
+      titleElement.appendChild(document.createTextNode(title));
+
       titleWrapper.appendChild(titleElement);
     }
 
@@ -155,7 +170,7 @@ class Exercise extends HTMLElement {
           if (q.markedText) {
             const questionMark = document.createElement("mark");
             questionMark.textContent = q.markedText;
-            questionMark.style.backgroundColor = "var(--yellow-mark)"
+            questionMark.style.backgroundColor = "var(--yellow-mark)";
             question.appendChild(questionMark);
           }
         });
@@ -224,7 +239,7 @@ class Exercise extends HTMLElement {
           optionWrapper.appendChild(dot);
 
           input.type = "radio";
-          input.name = `radio-${idx + idxOffset}`; 
+          input.name = `radio-${idx + idxOffset}`;
           input.value = option.option;
           optionWrapper.appendChild(input);
 
