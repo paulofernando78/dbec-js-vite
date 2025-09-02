@@ -45,6 +45,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/summary.mp3"
+                },
+                {
                   "text": "The story of Robin Hood is very famous. Robin Hood robbed rich people and gave the money to poor people. He loved adventure, and he was the best fighter in England. The greedy Sheriff of Nottingham hated Robin, and the beautiful Lady Marian loved him. His most famous adventures are in this book."
                 }
               ]
@@ -54,6 +57,12 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Introduction"
+      }
+    },
+    {
       "grid": false,
       "text": [
         {
@@ -61,7 +70,43 @@
             {
               "block": [
                 {
-                  "boldText": "Full audio"
+                  "italicText": "Lord Gamwell followed the man to the middle of Sherwood Forest. There, in the spring sunshine, he saw his daughter. He also saw a baby boy in her arms. Joanna looked up at her father and smiled. 'This is Robin, your grandson,' she said."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "Robin Hood was born in the forest, and the forest was his home for much of his life. His story is hundreds of years old. At that time, in England, many Saxon people lived in small villages on the lands of important Norman lords (from Normandy, now in France). Other people lived on church lands. Life was hard for these villagers because they had to give money and food to their lord and to the church."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "So village people loved to hear stories about Robin Hood. Robin Hood was clever, strong and brave. He loved adventure, and he was the best fighter in England. He took money from rich people and gave it to the poor villagers."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The most famous Robin Hood stories are in this book. They are about beautiful Lady Marian, the greedy Sheriff of Nottingham, good King Richard, and his bad brother, Prince John."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Many countries have stories about brave and clever adventurers. But is Robin Hood only a story? Perhaps Robin really did live, and perhaps not. There was a King Richard; he was king from 1189 to 1199. He left England and fought in Jerusalem. When he was away, Prince John was the most important man in England. Then, when Richard died, John was the next king."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "The stories say that Robin Hood lived with his men in Sherwood Forest, near the town of Nottingham. Sherwood Forest and Nottingham are about two hundred kilometres north of London. Many people there say that Robin Hood really lived in the forest."
                 }
               ]
             }
@@ -70,24 +115,27 @@
       ]
     },
     {
-      "audioPlayer": {
-        "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/audio.mp3"
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Full Audio"
       }
-    },
-    {
-      "hr":	true
     },
     {
       "audioPlayer": {
         "sticky": false,
-        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-1.mp3"
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/audio.mp3"
       }
     },
     {
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 1"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-1.mp3"
       }
     },
     {
@@ -113,7 +161,7 @@
             {
               "block": [
                 {
-                  "text": "The story begins with Robin Hood’s Saxon grandfather, Sir* George Gamwell. Gamwell lived near a Norman lord*. This lord wanted to take Gamwell’s house and his lands. The two men fought, and the Norman lord killed Gamwell’s two sons. Gamwell’s wife also died."
+                  "text": "The story begins with Robin Hood’s Saxon grandfather, Sir George Gamwell. Gamwell lived near a Norman lord. This lord wanted to take Gamwell’s house and his lands. The two men fought, and the Norman lord killed Gamwell’s two sons. Gamwell’s wife also died."
                 }
               ]
             },
@@ -171,17 +219,7 @@
                   "textIndent": true,
                   "text": "Joanna loved this young man. So she tried to talk to her father, but he didn’t want to listen."
                 }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "*Sir, Lord, Lady: Important men had the words Sir or Lord before their names; important women had the word Lady."
-                }
-              ],
-              "lineBreak": true
+              ]
             },
             {
               "block": [
@@ -219,15 +257,7 @@
               "block": [
                 {
                   "textIndent": true,
-                  "text": "In the morning, Sir George woke late. He called to his men, “Where is my daughter? I want to speak to her.”"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "But Joanna was nowhere in the house."
+                  "text": "In the morning, Sir George woke late. He called to his men, “Where is my daughter? I want to speak to her, but Joanna was nowhere in the house..”"
                 }
               ]
             },
@@ -307,15 +337,15 @@
       ]
     },
     {
-      "audioPlayer": {
-        "sticky": false,
-        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-2.mp3"
-      }
-    },
-    {
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 2"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-2.mp3"
       }
     },
     {
@@ -459,15 +489,15 @@
       }
     },
     {
-      "audioPlayer": {
-        "sticky": false,
-        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-3.mp3"
-      }
-    },
-    {
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 3"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-3.mp3"
       }
     },
     {
@@ -603,15 +633,15 @@
       ]
     },
     {
-      "audioPlayer": {
-        "sticky": false,
-        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-4.mp3"
-      }
-    },
-    {
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 4"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-4.mp3"
       }
     },
     {
@@ -914,12 +944,6 @@
       ]
     },
     {
-      "audioPlayer": {
-        "sticky": false,
-        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-5.mp3"
-      }
-    },
-    {
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 5"
@@ -928,28 +952,38 @@
     {
       "text": [
         {
-          "images": [
+          "blocks": [
             {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../paragraph-5.avif",
-              "alt": "Paragraph 5 image"
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-5-our-drink.mp3"
+                },
+                {
+                  "italicText": "Our drink is strong, our food is good Come in and drink with, Robin Hood. When Robin Hood is not at home Come in and drink with Little John. (An old drinking song)"
+                }
+              ]
             }
-          ],
+          ]
+        }
+      ]
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-5.mp3"
+      }
+    },
+    {
+      "text": [
+        {
           "blocks": [
             {
               "block": [
                 {
                   "boldText": "Robin Hood Meets Little John"
                 }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "Our drink is strong, our food is good Come in and drink with, Robin Hood. When Robin Hood is not at home Come in and drink with Little John. (An old drinking song)"
-                }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
@@ -1174,7 +1208,13 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 6 • "
+        "label": "Chapter 6"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-6.mp3"
       }
     },
     {
@@ -1193,13 +1233,198 @@
                 {
                   "boldText": "Robin Hood Helps Sir Richard of Lee"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Autumn went and winter came. One cold but sunny day in January, a man came slowly over the Great North Road on an old horse. The snow on the forest trees shone in the winter sunshine. But the man did not look at the forest. He looked only at the road in front of him."
+                }
               ]
             },
             {
               "block": [
                 {
                   "textIndent": true,
-                  "text": "..."
+                  "text": "‘It is a beautiful morning,’ he heard suddenly. ‘Why are you so sad ?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Will Scarlet came out of the forest and stood in the middle of the road. The man looked up."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Who are you ?’ he asked."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘My name is Will Scarlet,’ said Will, ‘and I am Robin Hood'sman. Are you afraid ?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘No, I am not afraid,’ said the man. ‘I know that Robin Hood helps poor people. But he cannot help me.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Will Scarlet laughed."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Perhaps we can help you, and perhaps we can't. Robin Hood and his men love dangerous adventures. Come and eat with us! Tell us your problems!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "So Will Scarlet took the man to Robin Hood. First, they gave him food and drink. He was very hungry."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘You eat well in your forest home,’ said the man. ‘You eat as well as the King - perhaps better! Thank you for this good food.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Then he stood up."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Wait,’ said Robin. ‘Can't you pay us something for your dinner? With a little gold I can help many poor families.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The man did not answer for some time."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Then he said, ‘I have gold in my bags - six hundred pounds! But I cannot give it to you. I am going to St Mary's Abbey. This money is for the abbot.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘That is a lot of money,’ said Will, ‘and the church has too much gold.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘That is my problem,’ said the man. ‘The abbot wants more -five hundred pounds more — and I cannot pay him this year. Perhaps he will wait another year, but I think not. I think that he will ask for my lands - and my home too.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Yes,’ said Robin, ‘the abbot is a greedy man. Tell us your name, friend, and tell us your story too. Perhaps we can help.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "So the man told his story. His name was Richard of Lee, and his son killed a man in a fight. The man died, and the Sheriff of Nottingham's men took the boy away."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Ah, the sheriff,’ said Robin. ‘Another greedy man! Did he ask for money ?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘You know him well,’ answered Richard of Lee. ‘He said, “Pay me one thousand pounds or your son will die!” I am not a rich man, but the Abbot of St Mary's paid the money for me. This happened last year. Now I have to pay the abbot. He wants one thousand, one hundred pounds - and I can only give him six hundred.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Robin laughed. ‘I can give you the money. But first, let's try something ... perhaps the good abbot is not a bad man. Tell him that you do not have the money. Ask him to help you. Ask him to wait another year!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Then Robin turned to his men."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Who will go with this man and listen to the abbot's answer?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I will go with him,’ said Little John. ‘I am ready for an adventure!’"
                 }
               ]
             }
@@ -1210,7 +1435,13 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 7 • "
+        "label": "Chapter 7"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-7.mp3"
       }
     },
     {
@@ -1229,13 +1460,126 @@
                 {
                   "boldText": "Sir Richard pays the Abbot"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "At twelve o'clock the next day, the Abbot of St Mary's was in his great dining room. On the table there were bags of gold. He went to the window and looked out."
+                }
               ]
             },
             {
               "block": [
                 {
                   "textIndent": true,
-                  "text": "..."
+                  "text": "‘Sir Richard of Lee is here at the right time, I see,’ he thought. ‘But his clothes are poor, and his horse is old. Good! I think my friend, the sheriff, is right. Sir Richard cannot pay my one thousand, one hundred pounds. So this evening, I will be Lord of his house and his lands!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "A few minutes later, Sir Richard and Little John came into the room."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Well,’ said the abbot, 'you are here at the right time. Do you have my money ?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘My Lord Abbot,’ Sir Richard began, ‘you are a church man. I hope you will be kind. Next year ...’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Stop!’ shouted the abbot. ‘Do not ask for more time! I want my money now Pay me the one thousand, one hundred pounds, or your house and lands will be mine this evening!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Sir Richard then put six bags of gold on the abbot's table. ‘Here are six hundred pounds, My Lord,’ he said quietly. ‘There is one hundred in each bag. It is a lot of money for me. Next year I hope ...’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Not next year, or next month, or next week!’ shouted the abbot again. ‘I want all my money today! Do you have my gold -yes or no?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Then Little John put five more bags on the table."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Here you are, My Lord,’ he said. ‘Five hundred more pounds. This good man and his family will sleep in their home tonight.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The abbot looked at the money, then he looked at Little John. The abbot's face was very red. He opened his mouth and then closed it again. What could he say?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Later, in the forest, Little John told the story to Robin Hood and the other men."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘The abbot's face was wonderful,’ said Little John. ‘He was angry, but he had to take the money’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "They laughed for a long time, but then Robin said,"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘This was a fine adventure. But the abbot will tell the sheriff, and the sheriff will also be angry. They are dangerous men. Sir Richard has to be careful.’"
                 }
               ]
             }
@@ -1246,7 +1590,13 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 8 • "
+        "label": "Chapter 8"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-8.mp3"
       }
     },
     {
@@ -1265,13 +1615,70 @@
                 {
                   "boldText": "Lady Marian and the Sheriff of Nottingham"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Every year in summer, Marian's father had a great party. Lords and ladies and the people from the villages came. They ate and drank. This year, the Sheriff of Nottingham came too, with fifty of his men. He watched Marian carefully."
+                }
               ]
             },
             {
               "block": [
                 {
                   "textIndent": true,
-                  "text": "..."
+                  "text": "‘She is very beautiful,’ he thought, ‘and Robin Hood loves her. I know he will come today. Then my men can catch him.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The music started and people began to dance. A man went to Marian and spoke to her. She smiled and gave him her hand."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The sheriff stood up and called loudly to his men, ‘That's him! That's Robin Hood! Take him!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The sheriff's men took out their swords and moved through the dancers. Suddenly ten of the dancers ran for their swords too. They were, of course, Robin's men, and a great fight began. Robin's men were better fighters than the sheriff's. Marian wanted to fight too, but her father stopped her."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Marian, what are you doing? Put down that sword! I am sorry about Robin — no other man will marry you. You are only interested in fighting!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The sheriff heard Marian's father and smiled."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Lady Marian is really very lovely,’ he thought. ‘Her father wants to find another husband for her? Good. I will marry her, then she will help me find Robin Hood.’"
                 }
               ]
             }
@@ -1282,7 +1689,13 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 9 • "
+        "label": "Chapter 9"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-9.mp3"
       }
     },
     {
@@ -1301,13 +1714,150 @@
                 {
                   "boldText": "The Sheriff’s Visit"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The next day, the sheriff arrived at Lord Fitzwalter's house with twenty horsemen. Lord Fitzwalter watched them through a window. He was not happy."
+                }
               ]
             },
             {
               "block": [
                 {
                   "textIndent": true,
-                  "text": "..."
+                  "text": "‘He wants to talk about yesterday's fight,’ he said to his daughter, ‘and you nearly fought too! Please go to your room. I will speak to him.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I do not want to speak to the sheriff, father,’ said Marian, ‘but I will listen behind the door!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Marian left the room, and a minute later, the sheriff walked in."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘My Lord Sheriff,’ began Lord Fitzwalter, ‘I am sorry about the fight yesterday, but your men…’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘No, no, I do not want to talk about that,’ said the sheriff. He put his hand on Lord Fitzwalter's arm and smiled. ‘I want to speak to you about your daughter, the Lady Marian.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Ah, Marian,’ said Lord Fitzwalter unhappily. ‘Marian is a good girl but she does not always listen to me. Perhaps one day a husband will...’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Ah yes!’ said the sheriff and smiled. ‘Well, I am looking for a wife, and I would like to marry your daughter. I like a strong woman - and Marian is also very beautiful. I will be a good husband. I have lands, money - and important friends.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘My Lord, what can I say?’ said Marian's father. He was now very unhappy. Marian wanted to marry Robin and no other man - he knew that. ‘You are very kind. I will talk to Marian but...’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I will come back tomorrow,’ said the sheriff. ‘Remember -Prince John is my very good friend. He can be your friend too. Think carefully!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "That evening, Marian and her father talked for a long time about Robin, the sheriff and Prince John."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Marian, why don't you marry the sheriff?’ said her father. ‘He is rich and important, and he is a friend of Prince John. I am afraid of the prince. Please marry the sheriff, and forget Robin Fitzooth.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Marian took her father's hand. ‘Father, I am sorry to bring you so many problems. I will not marry the sheriff, but he will be angry with me, not you. Listen. Tomorrow I will leave the house very early and stay with my uncle. The sheriff will come late in the morning. Tell your men to look for me. Look in every room. Be very angry. Then the sheriff will think that you know nothing!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘You are right, Marian,’ said her father. ‘You will have to marry the sheriff or leave here. Go then to my brother's house. But who will go with you?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Good Friar Tuck is staying here tonight,’ answered Marian. ‘He will help me.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘That fat churchman ?’ said her father. ‘He is a strange friar. He fights too well for a churchman. People say that the Abbot of St Mary's hates him. The friar had to leave the abbey.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Friar Tuck does not like the abbot because the abbot takes a lot of money from the villagers,’ answered Marian. ‘Friar Tuck says that the church has to help poor people.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Mm,’ said her father.! ‘The abbot does live very well. He is a greedy man. Friar Tuck is greedy too - he eats more than ten men! But he is a brave man and very strong. Yes, take Friar Tuck with you.’"
                 }
               ]
             }
@@ -1318,7 +1868,13 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 10 • "
+        "label": "Chapter 10"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-10.mp3"
       }
     },
     {
@@ -1337,13 +1893,150 @@
                 {
                   "boldText": "Marian Goes to the Sherwood Forest"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Very early next morning, Marian put on boy's clothes and a boy's hat and woke up Friar Tuck. The friar took his staff and Marian took her bow and arrows. Then they left the house and walked on the Great North Road through the forest."
+                }
               ]
             },
             {
               "block": [
                 {
                   "textIndent": true,
-                  "text": "..."
+                  "text": "After some hours, the friar suddenly left the road and sat down under a tree."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Please let's stop, My Lady,’ he said. ‘We had no breakfast and I am very hungry!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Marian laughed."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I am sorry, Friar Tuck,’ she said, ‘You are right, we will eat now. Stay here. I will take your staff and my bow and arrow, and catch some animals. ‘We can cook them here in the forest.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Marian left the friar and moved quietly between the forest trees. She saw a deer. Very quietly, she took out an arrow and put it to her bow. ‘Stop there, boy!’ said a man behind her. The man spoke very loudly. The deer jumped at the noise and ran away into the trees. Marian was very angry. She turned to the speaker but he wore a big hood. She couldn't see his face."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Well, boy,’ said the man. ‘Don't you know that you cannot eat the king's deer? The Sheriff of Nottingham killed two men last week because they caught a deer.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I am not afraid of the sheriff,’ said Marian, ‘or of you. Leave now - or fight!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Fight with you?’ the man laughed. ‘But you are only a boy! Well, you have a staff and I have one too. I will fight with you -with one hand!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Marian fought well. She was strong and quick. With only one hand, the man could not win. She hit him again and again on his head and across his back."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Stop, stop!’ he laughed. ‘You are young, but you are a good fighter.’ He threw back his hood. ‘I am Robin Hood. Will you come with me, and be one of my men?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Robin!’ said Marian, and threw back her hood too. Her lovely red hair fell down her back."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Marian!’ answered Robin. ‘What are you doing here, in the forest? Is nobody with you ?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I am with a friend, Friar Tuck,’ said Marian, ‘and he is very hungry! The deer was for him. But I think that he will be happy to eat at Robin Hood's table.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "She and Robin went back to the road and looked for Friar Tuck. They called his name but there was no answer."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Poor man!’ said Marian. ‘Perhaps he is looking for me. Perhaps he thinks that the sheriff's men caught me!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Then she told Robin about her father and the sheriff."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I cannot go home now, Robin,’ she said. ‘I want to be with you here, in Sherwood Forest. Friar Tuck will marry us. Let's find him. Perhaps he will want to live with us.’"
                 }
               ]
             }
@@ -1354,7 +2047,13 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 11 • "
+        "label": "Chapter 11"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-11.mp3"
       }
     },
     {
@@ -1373,13 +2072,214 @@
                 {
                   "boldText": "Robin Hood and Friar Tuck"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "They did not find Friar Tuck that day, so Marian stayed with her uncle. She came each day to the forest."
+                }
               ]
             },
             {
               "block": [
                 {
                   "textIndent": true,
-                  "text": "..."
+                  "text": "‘Another friar lives at my uncle's home,’ she told Robin, ‘but he is a weak man. He doesn't want to marry us because he is afraid. And the sheriff will find me at my uncle's house. Oh, where is Friar Tuck? Only he can help us.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "hen one day, about a month after the fight between Marian and Robin, Will Scarlet told them an interesting story."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘People in the village of River Dale are talking about a fat friar,’ he said. ‘They say he came to the village last month. Now he lives near the river. For one penny, he will take people across the river in his boat. When poor people cannot pay, he carries them across on his back! People say he loves good food and a good fight. He is a very strange friar, I think.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘And I think that man is Friar Tuck,’ laughed Marian. ‘Robin, please go to River Dale and bring him back with you.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Robin and Will Scarlet walked with Marian to her uncle's house and then went back through the forest to the village of River Dale."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Wait here, Will,’ said Robin. ‘Marian says the friar is a strong man and very brave. I'd like to try him!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Robin then walked to the river and looked across it. He saw the friar's little house, and his boat."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Good friar,’ he called, ‘where are you ? Will you take me in your boat? I have some money and I can pay you well.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Friar Tuck came out of the house and got into the boat. He came quickly across the river."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Show me your money first,’ said the friar. ‘Then you can get in.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "He jumped from the boat to dry ground and held out his hand. Robin gave him a penny and walked to the boat. But he didn't get in. He pushed the boat and it moved slowly away, down the river."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘You stupid man! What are you doing?’ shouted Friar Tuck."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Robin took out his sword."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Now we have no boat, friar,’ he said. ‘Carry me across the river on your back and perhaps I will not kill you!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The friar said nothing. He looked at Robin's sword and then walked into the water. Robin climbed onto his back and they went slowly to the middle of the river. Then the friar suddenly stopped, stood up, and threw Robin into the water."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Friar Tuck could swim more quickly than Robin. He got out of the river and called."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Come here, friend, and fight with me. I do not have a sword because I am a churchman. And I can kill a man with my two hands!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Then Will Scarlet came out of the forest with ten of Robin's men."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Robin, are you hurt ?’ he called. Robin climbed out of the river."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘What are you going to do now, friar?’ said Robin. ‘Will you fight us ?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Friar Tuck did not answer him. He called loudly, ‘Hunter! Biter! Here, my boys!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Two great dogs came out of the forest."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘My two dogs and I are ready to fight you!’ said Friar Tuck. ‘But tell me first, are you Robin Hood?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I am,’ said Robin. ‘Lady Marian sent me. She is right - you are a good fighter! Will you come and live in the forest? Will you be our friar?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The next day, Friar Tuck married Robin and Marian in the little church of River Dale. Then he left his house by the river. Now he was one of Robin's men."
                 }
               ]
             }
@@ -1390,7 +2290,13 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 12 • "
+        "label": "Chapter 12"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-12.mp3"
       }
     },
     {
@@ -1409,13 +2315,214 @@
                 {
                   "boldText": "The Two Churchmen abd the Bags of Gold"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Another winter came and went. There was not much snow on the ground and people could again use the Great North Road."
+                }
               ]
             },
             {
               "block": [
                 {
                   "textIndent": true,
-                  "text": "..."
+                  "text": "‘One day, Sir Richard of Lee will pay us the abbot's money,’ said Robin to Little John and Will Scarlet. ‘But perhaps we can get the money back from the church first.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘A good plan, Robin,’ answered Little John. ‘I will find a rich churchman and invite him to a forest dinner. Then he can pay us five hundred pounds. That is not too expensive for our best forest deer, our whitest bread and our finest wine!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The next evening, Little John went to the road and waited at the robbers' usual place behind a tree. He didn't have to wait long. Two churchmen on beautiful white horses were on the road. The two men wore expensive clothes. They were afraid, and they often looked into the forest."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Little John came out of the forest and moved to the middle of the road."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Good evening, brothers,’ he called. ‘Are you going to St Mary's Abbey?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "They stopped their horses and the younger churchman answered, ‘Yes, we are going to visit the abbot. Are we near the abbey? We don't want to be on this road at night. People say robbers live in the forests near here!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I am the abbot's man,’ said Little John. ‘I can show you a quick way to the abbey. Follow me!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "So the two men followed Little John into the forest. After a few minutes they saw smoke and then a fire. Robin's men were there. ‘Where are we?’ cried the churchmen. ‘Who are these men? This is not the abbey!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Good evening, brothers!’ said Robin. ‘Don't be afraid, we will not hurt you. We hope you will stay for dinner!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The two churchmen were very unhappy but they could not leave. So they got down from their horses and sat at Robin's table. Robin's men brought them meat, wine and bread. The food was very good, but the churchmen couldn't eat. They were too afraid."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Not hungry ?’ asked Robin. ‘Please eat more because we will ask you to pay something for your dinner. With a little church gold, we can help the abbot's villagers. On the abbot's land there are many poor families.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The men's faces were very white. ‘We are only poor churchmen,’ they answered, ‘and we have no money. Please don't kill us!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Little John went to the churchmen's horses and looked in their bags. Then he called to Robin Hood."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘They are right, Robin. There is no money in their bags.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘We told you that,’ said one of the men. ‘Please — it is very late and we want to get to the abbey. My Lord Abbot is waiting for us.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Wait!’ answered Robin. ‘You are wearing some fine clothes. You can pay for your dinner with those. Take them off!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘What ? Here, in the forest?’ asked the men. ‘The night is very cold!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Take them off,’ Robin repeated, ‘or do you want me to help you?’ He took out his sword. The two men slowly took off all their clothes."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The robbers looked at the churchmen and began to laugh... Under their clothes, each man had five large money bags."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Look at that,’ said Little John. ‘What do we have here? Aha! There is gold in these bags! One hundred pounds in each bag.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘We will take this gold,’ said Robin Hood. ‘It is not yours because you didn't have any money. Perhaps somebody put the gold there! Go now and tell the good abbot. Robin Hood found one thousand pounds!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The two men began to put on their clothes again."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘No, no,’ said Robin. ‘You can give us your clothes too - and your horses. You can wear our old clothes, and walk to the abbey.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The two men ran away and Robin Hood's men laughed for a long time."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I would like to see the abbot's face tomorrow!’ said Little John. ‘This is more money than we gave him. He will not be a happy man.’"
                 }
               ]
             }
@@ -1426,7 +2533,13 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 13 • "
+        "label": "Chapter 13"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-13.mp3"
       }
     },
     {
@@ -1445,13 +2558,62 @@
                 {
                   "boldText": "Sir Richard of Lee Comes Back to the Forest"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The next day, Sir Richard arrived."
+                }
               ]
             },
             {
               "block": [
                 {
                   "textIndent": true,
-                  "text": "..."
+                  "text": "‘Robin, my good friend,’ he said, ‘I have your money, and I am also bringing one hundred arrows for you and your men. My wife and her friends made them.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘You are a good man,’ Robin answered. ‘We are very happy about the arrows, but I will not take your gold. The abbot took that money last year - and yesterday the church gave it back to me!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "He told Sir Richard about the two churchmen and the bags of gold under their clothes."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Now,’ said Robin, ‘I would like to give you and your lady something. I would like to give your wife this beautiful white horse. And for you, I have some fine clothes!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The two churchmen arrived at the abbey later the next day and also told their story. The abbot was very angry."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Robin Hood is laughing now,’ he said, ‘but one day, the sheriff or I will kill him for this.’"
                 }
               ]
             }
@@ -1462,7 +2624,13 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 14 • "
+        "label": "Chapter 14"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-14.mp3"
       }
     },
     {
@@ -1481,13 +2649,214 @@
                 {
                   "boldText": "Robin Hood and the Gold Arrow"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Every day, the sheriff's men brought new stories about Robin Hood. Prince John heard the stories too."
+                }
               ]
             },
             {
               "block": [
                 {
                   "textIndent": true,
-                  "text": "..."
+                  "text": "‘This man Robin Hood only has fifty men,’ he said to the sheriff. ‘You have five hundred men but you cannot catch him. People are laughing at you! What are you going to do?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I have another plan, My Lord,’ said the sheriff. ‘I will have a contest with bows and arrows. The winner will get a gold arrow. I know that Robin Hood will come. Everybody says that he is the best bowman in England. He will win the contest and take the gold arrow. Then I will take him.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Robin and his men heard about the contest. The sheriff was right — they wanted to go."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘You will have to stay at home, Robin,’ laughed Little John. ‘We want to win, and we are better than the sheriff's men. But you are a better bowman than all of us!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Be careful, Robin,’ said Marian. ‘The sheriff is a dangerous man. He knows that you will go. He only wants to find you and kill you!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I know that,’ said Robin. ‘This is a fine adventure. I will win the contest, but the sheriff won't catch me ...’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Then I will come too,’ said Marian. ‘I will wear boy's clothes again, and my boy's hat. The sheriff will not know me, and I will play in the contest. Perhaps I will win the gold arrow, not you!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "On the day of the contest, many people came. Some people played and other people watched. One hundred of the sheriff's men were there too."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘The winner of this contest will be Robin Hood,’ the sheriff told his men. ‘He will come to take the gold arrow from me — then you can take him. But do not kill him. Prince John wants to meet him first!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "he contest began. One man was the best."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘That man is Robin Hood,’ thought the Sheriff. ‘People say he is clever. But we will catch him easily. That big man with him is Little John and the fat man is Friar Tuck. We will take them too. But who is the boy? He is very good with a bow and arrow too.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The contest finished and Robin Hood was the winner. He went to the sheriff and smiled."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘The arrow is mine, I think,’ he said. The sheriff smiled coldly and gave him the gold arrow. Then Robin turned away."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Take him now!’ shouted the sheriff to his men."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "But twenty of Robin's men took off their hoods and moved behind Robin. A great swordfight began. Robin's men and the sheriff's fought for a long time. Marian fought too this time, and she fought well. Many of the sheriff's men died that day. The sheriff was very angry."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Where are Prince John's men?’ he shouted. ‘They are late, and Robin Hood is winning!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Then Prince John arrived with fifty men on horses."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘They are too many,’ called Robin to his men, ‘and they are on horses. Get back to the forest! Marian, come!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Then Will Scarlet called out, 'Robin, Marian! They hurt Little John!'"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Don't wait for me,’ said Little John. ‘It is my leg. I cannot walk. Go! Go!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Never!’ said Robin."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "With Will and Marian's help, he put Little John on his back and ran to the forest road. Suddenly a man arrived on a white horse. It was Richard of Lee."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Quick, Robin, put Little John on the horse and follow me. The sheriff and his men will not look for you in my home!’ So, Sir Richard helped his friends Robin, Marian, Little John and Will Scarlet. They stayed at Sir Richard's house that night. Robin told Sir Richard and his wife about the contest and about other adventures in the forest."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘You have many adventures, My Lady,’ said Sir Richard's wife toMarian, ‘but you live dangerously. You cannot go home or visit your father. How will these adventures end? When will you leave the forest ?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘One day, King Richard will come home,’ answered Marian. ‘Then life will be better for poor people and Robin and I will go home.’"
                 }
               ]
             }
@@ -1498,7 +2867,13 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 15 • "
+        "label": "Chapter 15"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-15.mp3"
       }
     },
     {
@@ -1517,13 +2892,214 @@
                 {
                   "boldText": "The Tall Friar"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "People loved King Richard because he was a brave man and a good king. But his brother, Prince John, only wanted to be king and to be rich. People hated him."
+                }
               ]
             },
             {
               "block": [
                 {
                   "textIndent": true,
-                  "text": "..."
+                  "text": "When King Richard was in England, the prince and other important Norman lords had to listen to their king. They could not take land and money from weaker men. But Richard fought in Jerusalem for many years. When the king was away, Prince John and his friends were greedy and unkind."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Then, one day, the prince got a letter from the Sheriff of Nottingham. ‘My Lord Prince,’ wrote the sheriff, ‘the people are saying that your brother Richard is here in the North. They say he is going from town to town and asking questions about me - and about you. We will have to be very careful…’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘So,’ thought the prince, ‘Richard is in England again. Why isn't he dead? And why didn't he come here to London? What stories about me is he listening to? I think I too will go to Nottingham and visit my friend the sheriff. Perhaps he can tell me more.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "So the prince took the Great North Road to the sheriff's house. A hundred strong men went with him. They took the road through Sherwood Forest, and there they met a churchman. The man was very tall and strong and he wore a great hood over his face."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Well, friar,’ said the prince, ‘you are a brave man. Is nobody with you? Aren't you afraid? Don't you know that the robber, Robin Hood, lives in Sherwood Forest?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘People say that Robin Hood does not hurt poor men,’ said the friar."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘People say stupid things,’ answered the prince angrily. ‘They say that my brother Richard is in England. But I say that he is dead! I will be king then. Now move out of my way!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The tall man moved out of the way of the horses. He looked back at Prince John and his men for some minutes. Then he left the road and walked quickly into the forest. The tall man walked for a long time. Evening came. Then he heard something up in the trees:"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Good evening, brother. Why are you walking in the forest? Is nobody with you? Are you not afraid?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The tall man laughed."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Another person asked me that question. I am not afraid. I am looking for Robin Hood.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Will Scarlet jumped down lightly from the tree."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Then I will take you to him,’ he said."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "When they arrived in the middle of the forest, Robin's men were there. There was good food on the tables again."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Robin!’ called Will. ‘This good friar wants to meet you.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘We want to meet him too,’ said Robin. ‘We will eat with rich men, but we ask them to pay for their dinner. Poor people pay us with their stories. What is your story, friend? Why do you want to meet me?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘This is my story,’ said the friar. ‘I left England with King Richard. Now the king is in England again, and I came too."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "People everywhere tell me stories about Robin Hood, so I wanted to meet you.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Oh, Robin,’ said Marian, ‘this is wonderful. The king is here in England! Let's go and find him. We can tell him everything about the sheriff and Prince John…’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I love no man in the world more than the king,’ said Robin. ‘But what will he think? His brother is a greedy man. I can tell him that. But Prince John will say I am a robber. I think, for now, that I will stay quiet.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The tall churchman stood up."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘You are wrong, Robin,’ he said. Then he called loudly, ‘To me! To me!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Suddenly fifty strong men came out of the dark night and stood behind him."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘What is this?’ said Robin. ‘Are you Prince John's man? Are the prince and his men here ? Are they really so brave ?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Perhaps my brother is not a brave man. But I am Richard, your king, and I wanted to meet the famous Robin Hood. I hear many good stories about you, Robin. And other people also tell me bad stories about my brother. I know that John gave your lands to the sheriff. But from today, you will be Robin of Locksley again, and the king's friend.’"
                 }
               ]
             }
@@ -1534,7 +3110,13 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 16 • "
+        "label": "Chapter 16"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-16.mp3"
       }
     },
     {
@@ -1553,13 +3135,175 @@
                 {
                   "boldText": "The Last Adventure"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "After his visit to Sherwood Forest, King Richard went back to London. Robin and his men left the forest. Will Scarlet went to London with the king, but Little John stayed with Robin and Marian at Locksley House."
+                }
               ]
             },
             {
               "block": [
                 {
                   "textIndent": true,
-                  "text": "..."
+                  "text": "One day, two years later, Robin visited his old friend, Friar Tuck. They talked for a long time about their adventures."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I eat too well now, Robin,’ said the friar. ‘I am too fat and I cannot fight. People say that King Richard is ill. I hope that he will live for a long time. I hope that John will never be king. I wouldn't like to sleep on a hard bed in the forest again!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "On the way home, Robin walked slowly and thought about Friar Tuck's words. Then he heard the noise of horses' feet on the road, and looked up. It was the sheriff and his men"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Robin Fitzooth,’ called the sheriff, ‘I have here a letter from the king. It says that you will come with me!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘From King Richard?’ asked Robin. ‘Why does the king send you? He knows that we are not friends!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The sheriff came nearer, but not too near. He was very afraid of Robin."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Not King Richard,’ he answered. ‘Richard is dead! I am talking about King John. Take him, men!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Robin pulled out his sword and began to fight. At the same time he moved slowly away from the road to the forest. There were too many men - he couldn't win. He had cuts on his right arm, and the arm hurt very badly."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "When he got to the forest, he ran. He could find his way through forest very well, and the sheriff's men lost him."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Robin went through the forest to St Mary's Abbey. In front of the abbey, he fell to the ground. There, the abbot's men found him."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘It is Robin Hood!’ said the abbot. ‘I would like to kill him, but this is a church. Take him to one of the bedrooms. You, man, go to the sheriff. Tell him that Robin Hood is at the abbey.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Robin woke up. There was nobody in the room. He was very weak and couldn't move from the bed. Then he heard a friend. ‘I am coming, Robin!’ called Little John. ‘Where are you ?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Here! I am here!’ said Robin weakly."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Little John broke open the door."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Robin spoke very slowly."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Little John, help me one last time. Carry me to the window. Good. Now give me your bow.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Little John helped Robin to put an arrow in the bow. They pulled. The arrow flew a long way, into the forest."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Take me to that place and put me in the ground there,’ said Robin."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "There is a place in the forest near the abbey. There you can find these words:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "italicText": "Under this stone is Robin Hood. Remember Robin and his men — No braver man will come again."
                 }
               ]
             }
