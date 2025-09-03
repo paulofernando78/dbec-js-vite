@@ -132,6 +132,21 @@
       }
     },
     {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Listen to the story and follow along, then answer the questions."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "audioPlayer": {
         "sticky": false,
         "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-1.mp3"
