@@ -1219,46 +1219,6 @@
               ]
             }
           ]
-        },
-        {
-          "card": true,
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Questions"
-                }
-              ], "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "1. Who did Will Scarlet meet on the road?"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "2. Why was Sir Richard of Lee worried?"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "3. Who paid the £1000 to save Richard’s son?"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "4. Who went with Sir Richard to talk to the abbot?"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -1479,6 +1439,47 @@
               ]
             }
           ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter 6 • Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "1. Who did Will Scarlet meet on the road?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2. Why was Sir Richard of Lee worried?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3. Who paid the £1000 to save Richard’s son?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4. Who went with Sir Richard to talk to the abbot?"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1627,6 +1628,54 @@
               ]
             }
           ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter 7 • Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "1. How much money did Sir Richard owe to the Abbot?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2. Why did the Abbot believe Sir Richard could not pay?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3. How much money did Sir Richard first give to the Abbot?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4. Who helped Sir Richard pay the rest of the money, and how?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "5. Why did Robin Hood say Sir Richard must be careful after this adventure?"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1733,6 +1782,54 @@
                 {
                   "textIndent": true,
                   "text": "‘Lady Marian is really very lovely,’ he thought. ‘Her father wants to find another husband for her? Good. I will marry her, then she will help me find Robin Hood.’"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter 8 • Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "1. ..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2. ..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3. ..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4. ..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "5. ..."
                 }
               ]
             }
