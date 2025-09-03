@@ -264,7 +264,7 @@ class TheAlphabet extends HTMLElement {
       letterWrapper.appendChild(phonetics);
 
       const letterAudio = document.createElement("wc-audio");
-      letterAudio.classList.add("letter-audio")
+      letterAudio.classList.add("letter-audio");
       letterAudio.data = { audioSrc: item.audio };
       letterWrapper.appendChild(letterAudio);
     });
@@ -274,14 +274,17 @@ class TheAlphabet extends HTMLElement {
         tip: "Spell the vowels: E, I, A, I, E, A, E, I, A, I",
       },
       {
-        tip: "“Z” in British is pronounced /zed/",
+        audioSrc: "/assets/audio/alphabet/t-tea.mp3",
+        tip: "“T” has the same sound as in “tea”",
       },
       {
+        audioSrc: "/assets/audio/alphabet/u-you.mp3",
         tip: "“U” has the same sound as in “you”",
       },
       {
-        tip: "“T” has the same sound as in “tea”",
-      },
+        audioSrc: "/assets/audio/alphabet/zed.mp3",
+        tip: "“Z” in British is pronounced “zed”",
+      }
     ];
 
     const tipContainer = document.createElement("div");
@@ -289,14 +292,20 @@ class TheAlphabet extends HTMLElement {
 
     tips.forEach((item) => {
       const tip = document.createElement("p");
-      
+
+      if (item.audioSrc) {
+        const tipAudio = document.createElement("wc-audio");
+        tipAudio.data = { audioSrc: item.audioSrc };
+        tip.appendChild(tipAudio);
+      }
+
       const bullet = document.createElement("span");
       bullet.textContent = "• ";
-      bullet.classList.add("bullet")
-      tip.appendChild(bullet)
+      bullet.classList.add("bullet");
+      tip.appendChild(bullet);
 
-      const text = document.createTextNode(item.tip)
-      tip.appendChild(text)
+      const text = document.createTextNode(item.tip);
+      tip.appendChild(text);
 
       tipContainer.appendChild(tip);
     });
