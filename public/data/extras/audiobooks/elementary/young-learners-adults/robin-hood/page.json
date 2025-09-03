@@ -1219,6 +1219,46 @@
               ]
             }
           ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Questions"
+                }
+              ], "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "1. Who did Will Scarlet meet on the road?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2. Why was Sir Richard of Lee worried?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3. Who paid the £1000 to save Richard’s son?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4. Who went with Sir Richard to talk to the abbot?"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
