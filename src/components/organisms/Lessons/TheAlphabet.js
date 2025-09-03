@@ -70,7 +70,7 @@ class TheAlphabet extends HTMLElement {
     this.shadowRoot.appendChild(ribbon);
 
     const title = document.createElement("span");
-    title.textContent = "Click on / Tap the letter to hear the sound.";
+    title.textContent = "Listen to the alphabet.";
     title.classList.add("title");
     this.shadowRoot.appendChild(title);
 

@@ -92,20 +92,20 @@ class Feelings extends HTMLElement {
     feelingAudio.data = { audioSrc: "/assets/audio/how-you-feeling.mp3" };
     howYouFeeling.appendChild(feelingAudio);
     const howYouFeelingText = document.createTextNode(
-      "Hey, how are you feeling today? I'm feeling pretty good. Thanks for asking."
+      "Hey, how are you feeling today? I'm feeling... How about you?"
     );
     howYouFeeling.appendChild(howYouFeelingText);
 
     // Emoji Text
-    const emoji = document.createElement("p");
-    container.appendChild(emoji);
-    const emojiTextAudio = document.createElement("wc-audio");
-    emojiTextAudio.data = { audioSrc: "/assets/audio/emoji-text.mp3" };
-    emoji.appendChild(emojiTextAudio);
-    const emojiText = document.createTextNode(
-      "Click on or Tap the emoji to hear the sound."
-    );
-    emoji.appendChild(emojiText);
+    // const emoji = document.createElement("p");
+    // container.appendChild(emoji);
+    // const emojiTextAudio = document.createElement("wc-audio");
+    // emojiTextAudio.data = { audioSrc: "/assets/audio/emoji-text.mp3" };
+    // emoji.appendChild(emojiTextAudio);
+    // const emojiText = document.createTextNode(
+    //   "Listen to some common feelings."
+    // );
+    // emoji.appendChild(emojiText);
 
     // Emojis
     const gifsContainer = document.createElement("div");
