@@ -243,10 +243,10 @@ class TheAlphabet extends HTMLElement {
       letterWrapper.style.cursor = "pointer";
       letterContainer.appendChild(letterWrapper);
 
-      letterWrapper.addEventListener("click", () => {
-        const audio = new Audio(item.audio);
-        audio.play();
-      });
+      // letterWrapper.addEventListener("click", () => {
+      //   const audio = new Audio(item.audio);
+      //   audio.play();
+      // });
 
       const number = document.createElement("span");
       number.textContent = item.number;
