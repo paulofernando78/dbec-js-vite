@@ -133,7 +133,7 @@
     },
     {
       "audioPlayer": {
-        "sticky": true,
+        "sticky": false,
         "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-1.mp3"
       }
     },
