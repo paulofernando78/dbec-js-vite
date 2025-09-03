@@ -39,6 +39,11 @@ class TheAlphabet extends HTMLElement {
         font-weight: bold
       }
 
+      .letter-audio {
+        position: relative;
+        left: 2px
+      }
+
       .tip-container {
         padding: var(--padding);
         border: var(--border);
@@ -257,6 +262,11 @@ class TheAlphabet extends HTMLElement {
       phonetics.textContent = item.phonetics;
       phonetics.classList.add("phonetics");
       letterWrapper.appendChild(phonetics);
+
+      const letterAudio = document.createElement("wc-audio");
+      letterAudio.classList.add("letter-audio")
+      letterAudio.data = { audioSrc: item.audio };
+      letterWrapper.appendChild(letterAudio);
     });
 
     const tips = [

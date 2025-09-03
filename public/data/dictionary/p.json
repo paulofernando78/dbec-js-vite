@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "peel",
+        "phonetics": "/piːl/",
+        "partOfSpeech": "verb, noun",
+        "enDefinition": "Verb: to remove the outer covering or skin of a fruit, vegetable, or other object. Noun: the outer covering or skin of certain fruits or vegetables.",
+        "ptDefinition": "Verbo: remover a casca ou pele de uma fruta, vegetal ou outro objeto. Substantivo: a casca ou pele de certas frutas ou vegetais.",
+        "examples": [
+          {
+            "enExample": "Can you peel the potatoes for dinner?",
+            "ptExample": "Você pode descascar as batatas para o jantar?"
+          },
+          {
+            "enExample": "Orange peel is often used in cakes.",
+            "ptExample": "A casca de laranja é frequentemente usada em bolos."
+          }
+        ],
+        "synonyms": "strip, skin, flay",
+        "antonyms": "cover, coat",
+        "seeAlso": "peeler, peeling",
+        "notes": [
+          {
+            "enNote": "Commonly used for fruits and vegetables, but also metaphorically (e.g., 'peel away layers of an onion').",
+            "ptNote": "Usado comumente para frutas e vegetais, mas também de forma metafórica (ex.: 'retirar camadas como de uma cebola')."
+          }
+        ]
+      },
+      {
         "word": "pebble",
         "phonetics": "/ˈpɛb.əl/",
         "partOfSpeech": "noun",

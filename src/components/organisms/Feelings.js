@@ -58,6 +58,12 @@ class Feelings extends HTMLElement {
         width: 60px
       }
 
+      .emoji-audio {
+        margin-top: 8px;
+        position: relative;
+        left: 2px
+      }
+
       textarea {
         padding: var(--padding)
       }
@@ -68,26 +74,40 @@ class Feelings extends HTMLElement {
     container.classList.add("line-break");
     this.shadowRoot.appendChild(container);
 
-    const welcomeAudio = document.createElement("wc-audio-player");
-    welcomeAudio.data = { src: "/assets/audio/welcome.mp3" };
-    container.appendChild(welcomeAudio);
-
+    // Welcome
     const welcome = document.createElement("p");
-    welcome.textContent = "Welcome to the Daily Basis English Course. Here you'll find a lot of interesting materials. Use it wisely.";
+    const welcomeAudio = document.createElement("wc-audio");
+    welcomeAudio.data = { audioSrc: "/assets/audio/welcome.mp3" };
+    welcome.appendChild(welcomeAudio);
+    const welcomeText = document.createTextNode(
+      "Welcome to the Daily Basis English Course. Here you'll find a lot of interesting materials. Use it wisely."
+    );
+    welcome.appendChild(welcomeText);
     container.appendChild(welcome);
 
-    const feelingAudio = document.createElement("wc-audio-player");
-    feelingAudio.data = { src: "/assets/audio/how-you-feeling.mp3" };
-    container.appendChild(feelingAudio);
-
+    // How you feeling
     const howYouFeeling = document.createElement("p");
-    howYouFeeling.textContent = "Hey, how are you feeling today? I'm feeling pretty good. Thanks for asking.";
     container.appendChild(howYouFeeling);
+    const feelingAudio = document.createElement("wc-audio");
+    feelingAudio.data = { audioSrc: "/assets/audio/how-you-feeling.mp3" };
+    howYouFeeling.appendChild(feelingAudio);
+    const howYouFeelingText = document.createTextNode(
+      "Hey, how are you feeling today? I'm feeling pretty good. Thanks for asking."
+    );
+    howYouFeeling.appendChild(howYouFeelingText);
 
+    // Emoji Text
     const emoji = document.createElement("p");
-    emoji.textContent = "Click on / Tap the emoji to hear the sound.";
     container.appendChild(emoji);
+    const emojiTextAudio = document.createElement("wc-audio");
+    emojiTextAudio.data = { audioSrc: "/assets/audio/emoji-text.mp3" };
+    emoji.appendChild(emojiTextAudio);
+    const emojiText = document.createTextNode(
+      "Click on or Tap the emoji to hear the sound."
+    );
+    emoji.appendChild(emojiText);
 
+    // Emojis
     const gifsContainer = document.createElement("div");
     gifsContainer.classList.add("gifs-container");
     container.appendChild(gifsContainer);
@@ -215,10 +235,10 @@ class Feelings extends HTMLElement {
       emojiName.textContent = emoji.word;
       gifCard.appendChild(emojiName);
 
-      gifCard.addEventListener("click", () => {
-        const audio = new Audio(emoji.audio);
-        audio.play();
-      });
+      const emojiAudio = document.createElement("wc-audio");
+      emojiAudio.classList.add("emoji-audio")
+      emojiAudio.data = { audioSrc: emoji.audio };
+      gifCard.appendChild(emojiAudio);
     });
   }
 }
