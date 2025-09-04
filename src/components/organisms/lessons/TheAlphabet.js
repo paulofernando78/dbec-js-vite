@@ -271,7 +271,7 @@ class TheAlphabet extends HTMLElement {
     const tips = [
       {
         audioSrc: "/assets/audio/alphabet/practice-vowels.mp3",
-        tip: "Practice these vowels: E, I, A, I, E, A, E, I, A, I, E, I, A",
+        tip: "Practice these vowels: E, I, A, I, E, A, E, I, A, E, I, E, I, A",
       },
       {
         audioSrc: "/assets/audio/alphabet/t-tea.mp3",
