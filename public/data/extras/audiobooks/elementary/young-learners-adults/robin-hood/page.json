@@ -27,6 +27,40 @@
   "contents": [
     {
       "ribbon": {
+        "icon": "discussion",
+        "label": "Before Reading"
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Have you ever heard about Robin Hood before?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Why was he famous?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
         "icon": "snippet",
         "label": "Summary"
       }
@@ -60,6 +94,12 @@
       "ribbon": {
         "icon": "snippet",
         "label": "Introduction"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/introduction.mp3"
       }
     },
     {
@@ -106,6 +146,98 @@
               "block": [
                 {
                   "text": "The stories say that Robin Hood lived with his men in Sherwood Forest, near the town of Nottingham. Sherwood Forest and Nottingham are about two hundred kilometres north of London. Many people there say that Robin Hood really lived in the forest."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "vocabulary",
+        "label": "Vocabulary"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "abbey"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "abbot"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "arrow"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "bow"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "deer"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "forest"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "king"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "land"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "prince"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "sheriff"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "sword"
                 }
               ]
             }
@@ -2068,35 +2200,42 @@
             {
               "block": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Why did Marian’s father hold a party, and who attended it?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "2. ..."
+                  "text": "2. Why did the Sheriff of Nottingham expect Robin Hood to come to the party?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "3. ..."
+                  "text": "3. What happened when Marian danced with a man during the music?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "4. ..."
+                  "text": "4. How did Robin’s men surprise the sheriff’s soldiers?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "5. ..."
+                  "text": "5. Why did Marian want to fight, and what did her father say to her?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "6. What plan did the Sheriff make after hearing Marian’s father speak?"
                 }
               ]
             }
@@ -2288,35 +2427,42 @@
             {
               "block": [
                 {
-                  "text": "1. ..."
+                  "text": "1. Why did the Sheriff come to Lord Fitzwalter’s house the day after the party?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "2. ..."
+                  "text": "2. What did the Sheriff tell Lord Fitzwalter he wanted from him?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "3. ..."
+                  "text": "3. Why was Lord Fitzwalter unhappy about the Sheriff’s proposal?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "4. ..."
+                  "text": "4. What plan did Marian make to avoid marrying the Sheriff?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "5. ..."
+                  "text": "5. Who agreed to help Marian escape, and why did he dislike the abbot?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "6. What did Lord Fitzwalter finally agree Marian should do?"
                 }
               ]
             }
@@ -2494,13 +2640,13 @@
             }
           ]
         },
-                {
+        {
           "card": true,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Chapter 10 • Questions"
+                  "boldText": "Chapter 11 • Questions"
                 }
               ],
               "lineBreak": true
@@ -2508,35 +2654,56 @@
             {
               "block": [
                 {
-                  "text": "1. ..."
+                  "text": "1. How did Marian disguise herself when she left the house with Friar Tuck?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "2. ..."
+                  "text": "2. Why did Friar Tuck stop on the road and what did Marian do for him?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "3. ..."
+                  "text": "3. What happened when Marian tried to shoot the deer in the forest?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "4. ..."
+                  "text": "4. Why did the hooded man say it was dangerous to hunt the king’s deer?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "5. ..."
+                  "text": "5. How did Marian prove her strength in the fight with the stranger?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "6. Who was the hooded man, and how did Marian reveal her own identity?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "7. Why did Marian say she could not return home?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "8. What did she plan to do with Robin Hood and Friar Tuck in Sherwood Forest?"
                 }
               ]
             }
@@ -2809,6 +2976,72 @@
       ]
     },
     {
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter 11 • Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "1. Why did Marian stay with her uncle, and why was Friar Tuck important to her plan?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2. What did Will Scarlet tell Robin and Marian about the strange friar in River Dale?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3. How did Robin first try to get across the river, and how did Friar Tuck respond?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4. What happened during the river encounter between Robin and Friar Tuck?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "5. How did Friar Tuck demonstrate his strength and bravery?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "6. How did Robin and Friar Tuck finally agree to work together?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "7. What significant event took place the next day at the little church of River Dale?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 12"
@@ -3041,6 +3274,68 @@
               ]
             }
           ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter 12 • Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "1. What plan did Robin Hood and Little John make to get money from the churchmen?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2. How did Little John trick the two churchmen into following him into the forest?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3. How did Robin Hood treat the churchmen when they arrived at the forest dinner?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4. Why were the churchmen afraid during the dinner?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "5. How did Robin and his men discover that the churchmen had hidden gold?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "6. What did Robin Hood do with the churchmen’s clothes, horses, and money?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "7. Why did Robin Hood say they would tell the abbot about the gold?"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -3121,6 +3416,40 @@
                 {
                   "textIndent": true,
                   "text": "‘Robin Hood is laughing now,’ he said, ‘but one day, the sheriff or I will kill him for this.’"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter 13 • Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "1. Why did Sir Richard of Lee come to the forest, and what did he bring for Robin Hood and his men?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2. Why did Robin Hood refuse to take the gold from Sir Richard?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3. How did the abbot react when the two churchmen told their story?"
                 }
               ]
             }
@@ -3379,6 +3708,54 @@
               ]
             }
           ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter 14 • Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "1. What plan did the Sheriff of Nottingham make to capture Robin Hood using the archery contest?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2. How did Robin Hood, his men, and Marian prepare for and participate in the contest?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3. What happened during the fight after Robin Hood won the gold arrow?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4. How did Sir Richard of Lee help Robin Hood and his friends after the contest?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "5. What did Marian say about the future and King Richard at the end of the chapter?"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -3633,6 +4010,54 @@
               ]
             }
           ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter 15 • Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "1. Why was Prince John concerned about King Richard being in England?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2. Who did Prince John and his men meet in Sherwood Forest, and what was unusual about him?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3. How did the tall friar introduce himself to Robin Hood, and what news did he bring?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4. What was Robin Hood’s reaction to learning that King Richard was back in England?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "5. How did King Richard reveal himself, and what did he say about Robin Hood?"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -3760,7 +4185,7 @@
               "block": [
                 {
                   "textIndent": true,
-                  "text": "Robin woke up. There was nobody in the room. He was very weak and couldn't move from the bed. Then he heard a friend. ‘I am coming, Robin!’ called Little John. ‘Where are you ?’"
+                  "text": "Robin woke up. There was nobody in the room. He was very weak and couldn't move from the bed. Then he heard a friend. ‘I am coming, Robin!’ called Little John. ‘Where are you?’"
                 }
               ]
             }
@@ -3843,6 +4268,54 @@
                 {
                   "textIndent": true,
                   "italicText": "Under this stone is Robin Hood. Remember Robin and his men — No braver man will come again."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter 16 • Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "1. Where did Robin and his men go after King Richard returned to London?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2. Who came to arrest Robin, and under whose orders?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3. How did Robin escape from the sheriff’s men in the forest?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4. Where did Robin find safety after his escape, and who helped him?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "5. What were Robin Hood’s final wishes, and how is he remembered?"
                 }
               ]
             }
