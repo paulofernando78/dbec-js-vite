@@ -47,12 +47,17 @@ class CommonQuestions extends HTMLElement {
         audioSrc: "/assets/audio/common-phrases/can-i-drink.mp3",
         phrase: "Can I drink / get some water?",
       },
+      ,
+      {
+        audioSrc: "/assets/audio/common-phrases/brb.mp3",
+        phrase: "Be right back. (BRB)",
+      },
     ];
 
     const ribbon = document.createElement("wc-ribbon");
     ribbon.data = {
       icon: "snippet",
-      label: "Common questions and answers",
+      label: "Common sentences",
     };
     this.shadowRoot.appendChild(ribbon);
 
