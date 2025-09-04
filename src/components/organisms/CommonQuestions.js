@@ -20,20 +20,32 @@ class CommonQuestions extends HTMLElement {
 
     const phrases = [
       {
-        audio: "",
-        phrase: "How do you say “...” in English?",
+        audioSrc: "/assets/audio/common-phrases/i-have-a-question.mp3",
+        phrase: "I have a question.",
       },
       {
-        audio: "",
-        phrase: "How do you pronounce “...”?",
+        audioSrc: "/assets/audio/common-phrases/can-i-ask-you-a-question.mp3",
+        phrase: "Can I ask you a question?",
       },
       {
-        audio: "",
-        phrase: "How do you spell “...”?",
+        audioSrc: "/assets/audio/common-phrases/how-do-you-say.mp3",
+        phrase: "A: How do you say “livro” in English? B: Book.",
       },
       {
-        audio: "",
-        phrase: "I didn’t undertand. Can you repeat it, please?",
+        audioSrc: "/assets/audio/common-phrases/how-do-you-spell.mp3",
+        phrase: "A: How do you spell it? B: B-O-O-K. (B-double O-K)",
+      },
+      {
+        audioSrc: "/assets/audio/common-phrases/i-didnt-understand.mp3",
+        phrase: "I didn’t (quite) undertand. Can you say / pronounce / repeat it, please?",
+      },
+      {
+        audioSrc: "/assets/audio/common-phrases/can-i-go.mp3",
+        phrase: "Can I go to the bathroom?",
+      },
+      {
+        audioSrc: "/assets/audio/common-phrases/can-i-drink.mp3",
+        phrase: "Can I drink / get some water?",
       },
     ];
 
@@ -50,7 +62,14 @@ class CommonQuestions extends HTMLElement {
     
     phrases.forEach((phrase) => {
       const p = document.createElement("p");
-      p.textContent = phrase.phrase;
+       
+      const phraseAudio = document.createElement("wc-audio");
+      phraseAudio.data = {
+        audioSrc: phrase.audioSrc
+      }
+      p.appendChild(phraseAudio);
+
+      p.appendChild(document.createTextNode(phrase.phrase));
       phrasesContainer.appendChild(p);
     });
   }

@@ -18,7 +18,8 @@ class Audio extends HTMLElement {
         cursor: pointer;
         position: relative;
         bottom: 2px;
-        right: 2px
+        right: 2px;
+        cursor: pointer
       }
     `;
     this.shadowRoot.appendChild(css);
