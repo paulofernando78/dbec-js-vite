@@ -51,7 +51,6 @@ class Feelings extends HTMLElement {
         width: 100%;
         height: max-content;
         padding-bottom: 5px;
-        cursor: pointer
       }
 
       .emoji-img {

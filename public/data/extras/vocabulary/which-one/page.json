@@ -1,0 +1,39 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Vocabulary",
+    "descriptions": [
+      {
+        "icon": "vocabulary",
+        "description": "Vocabulary"
+      },
+      {
+        "icon": "page",
+        "description": "Which one?"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "snippet",
+                      "link": "/extras/vocabulary/which-one/raise-rise",
+                      "label": "raise vs. rise"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

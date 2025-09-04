@@ -240,7 +240,6 @@ class TheAlphabet extends HTMLElement {
     alphabet.forEach((item) => {
       const letterWrapper = document.createElement("div");
       letterWrapper.classList.add("letter-wrapper");
-      letterWrapper.style.cursor = "pointer";
       letterContainer.appendChild(letterWrapper);
 
       // letterWrapper.addEventListener("click", () => {

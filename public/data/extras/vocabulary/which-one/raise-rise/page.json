@@ -1,0 +1,423 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Vocabulary",
+    "descriptions": [
+      {
+        "icon": "vocabulary",
+        "description": "Vocabulary"
+      },
+      {
+        "icon": "page",
+        "description": "Which one?"
+      },
+      {
+        "icon": "snippet",
+        "description": "raise vs. rise"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "Raise "
+                },
+                {
+                  "markedText": "must have an object"
+                },
+                {
+                  "text": " as it is a "
+                },
+                {
+                  "markedText": "transitive verb"
+                },
+                {
+                  "text": ". It is a regular verb; its three forms are raise, raised, raised."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Examples"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Raise "
+                },
+                {
+                  "underlinedText":	"your hand"
+                },
+                {
+                  "text":	" if you know the answer. "
+                },
+                {
+                  "ptText": "Levante a mão se você souber a resposta."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Our favourite restaurant has raised its prices again. It’s getting very expensive."
+                },
+                {
+                  "ptText": "Nosso restaurante favorito aumentou os preços novamente. Está ficando muito caro."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "She raised her voice to get everyone’s attention. "
+                },
+                {
+                  "ptText": "Ela levantou a voz para chamar a atenção de todos."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "They raised the flag during the ceremony. "
+                },
+                {
+                  "ptText": "Eles hastearam a bandeira durante a cerimônia."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "The teacher raised an important question in class. "
+                },
+                {
+                  "ptText": "O professor levantou uma questão importante na aula."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "The company raised money for charity. "
+                },
+                {
+                  "ptText": "O professor levantou uma questão importante na aula."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "He raised his eyebrows in surprise. "
+                },
+                {
+                  "ptText": "Ele levantou as sobrancelhas em surpresa."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "The coach raised the team’s confidence before the match. "
+                },
+                {
+                  "ptText": "O treinador aumentou a confiança do time antes da partida."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "The workers raised a wall around the house. "
+                },
+                {
+                  "ptText": "Os trabalhadores ergueram um muro ao redor da casa."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "She raised the baby alone. "
+                },
+                {
+                  "ptText": "Ela criou o bebê sozinha."
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "Rise "
+                },
+                {
+                  "markedText":	"does not take an object"
+                },
+                {
+                  "text":	", as it is an "
+                },
+                {
+                  "markedText":	"intransitive verb"
+                },
+                {
+                  "text":	". It is an irregular verb; its three forms are rise, rose, risen."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Examples"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "The sun rose at 5.30 this morning. "
+                },
+                {
+                  "ptText": "O sol nasceu às 5h30 desta manhã."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Rents have risen sharply in this part of town. "
+                },
+                {
+                  "ptText": "Os aluguéis aumentaram muito nesta parte da cidade."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Prices are rising everywhere. "
+                },
+                {
+                  "ptText": "Os preços estão subindo em todos os lugares."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "She rose from her chair to greet the guests. "
+                },
+                {
+                  "ptText": "Ela se levantou da cadeira para cumprimentar os convidados."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Smoke was rising from the chimney. "
+                },
+                {
+                  "ptText": " A fumaça estava saindo (subindo) da chaminé."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "His fame rose quickly after the movie. "
+                },
+                {
+                  "ptText": "Sua fama cresceu rapidamente após o filme."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "The crowd rose and started to applaud. "
+                },
+                {
+                  "ptText": "A plateia se levantou e começou a aplaudir."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Tensions have risen between the two countries. "
+                },
+                {
+                  "ptText": "As tensões aumentaram entre os dois países."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "A storm is rising in the distance. "
+                },
+                {
+                  "ptText": "Uma tempestade está surgindo ao longe."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "He rose early to go jogging. "
+                },
+                {
+                  "ptText": "Ele se levantou cedo para correr."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
