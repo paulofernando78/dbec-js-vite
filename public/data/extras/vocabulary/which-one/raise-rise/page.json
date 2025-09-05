@@ -78,6 +78,25 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/we-need-to-raise.mp3"
+                },
+                {
+                  "text": "We need to raise "
+                },
+                {
+                  "underlinedText":	"the flag"
+                },
+                {
+                  "text":	" before the event begins. "
+                },
+                {
+                  "ptText": "Precisamos hastear a bandeira antes que o evento comece."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/our-favorite-restaurant.mp3"
                 },
                 {
@@ -90,10 +109,23 @@
                   "underlinedText":	"its prices"
                 },
                 {
-                  "text":	" again. It’s getting very expensive."
+                  "text":	" again. It’s getting very expensive. "
                 },
                 {
                   "ptText": "Nosso restaurante favorito aumentou os preços novamente. Está ficando muito caro."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/the-government-plans-to-raise.mp3"
+                },
+                {
+                  "text": "The government plans to raise taxes next year. "
+                },
+                {
+                  "ptText": "O governo planeja aumentar os impostos no próximo ano."
                 }
               ]
             },
@@ -115,7 +147,7 @@
                   "text":	" to get everyone’s attention."
                 },
                 {
-                  "ptText": "Ela levantou a voz para chamar a atenção de todos."
+                  "ptText": " Ela levantou a voz para chamar a atenção de todos."
                 }
               ]
             },
@@ -134,7 +166,7 @@
                   "underlinedText":	"the flag"
                 },
                 {
-                  "text":	" during the ceremony."
+                  "text":	" during the ceremony. "
                 },
                 {
                   "ptText": "Eles hastearam a bandeira durante a cerimônia."
@@ -155,7 +187,7 @@
                   "underlinedText":	"an important question"
                 },
                 {
-                  "text":	" in class."
+                  "text":	" in class. "
                 },
                 {
                   "ptText": "O professor levantou uma questão importante na aula."
@@ -177,7 +209,7 @@
                   "underlinedText":	"money"
                 },
                 {
-                  "text":	" for charity."
+                  "text":	" for charity. "
                 },
                 {
                   "ptText": "A empresa arrecadou dinheiro para a caridade."
@@ -199,7 +231,7 @@
                   "underlinedText":	"his eyebrows"
                 },
                 {
-                  "text":	" in surprise."
+                  "text":	" in surprise. "
                 },
                 {
                   "ptText": "Ele levantou as sobrancelhas em surpresa."
@@ -224,7 +256,7 @@
                   "text":	" before the match."
                 },
                 {
-                  "ptText": "O treinador aumentou a confiança do time antes da partida."
+                  "ptText": " O treinador aumentou a confiança do time antes da partida."
                 }
               ]
             },
@@ -265,7 +297,7 @@
                   "underlinedText":	"the baby"
                 },
                 {
-                  "text":	" alone."
+                  "text":	" alone. "
                 },
                 {
                   "ptText": "Ela criou o bebê sozinha."
@@ -324,6 +356,19 @@
                 }
               ]
             },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/the-river-levels-rise.mp3"
+                },
+                {
+                  "text": "The river levels rise after heavy rainfall. "
+                },
+                {
+                  "ptText": "O nível dos rios sobe após chuvas fortes."
+                }
+              ]
+            },
             { 
               "block": [
                 {
@@ -337,6 +382,22 @@
                 },
                 {
                   "ptText": "Os aluguéis aumentaram muito nesta parte da cidade."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/....mp3"
+                },
+                {
+                  "text": "Airplanes rise into the sky shortly after takeoff. "
+                },
+                {
+                  "ptText": "Os aviões sobem para o céu logo após a decolagem."
+                },
+                {
+                  "ptText": "..."
                 }
               ]
             },
