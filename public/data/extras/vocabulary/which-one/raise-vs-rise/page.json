@@ -19,6 +19,12 @@
   },
   "contents": [
     {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Raise"
+      }
+    },
+    {
       "text": [
         {
           "blocks": [
@@ -84,10 +90,10 @@
                   "text": "We need to raise "
                 },
                 {
-                  "underlinedText":	"the flag"
+                  "underlinedText": "the flag"
                 },
                 {
-                  "text":	" before the event begins. "
+                  "text": " before the event begins. "
                 },
                 {
                   "ptText": "Precisamos hastear a bandeira antes que o evento comece."
@@ -106,10 +112,10 @@
                   "text": "Our favourite restaurant has raised  "
                 },
                 {
-                  "underlinedText":	"its prices"
+                  "underlinedText": "its prices"
                 },
                 {
-                  "text":	" again. It’s getting very expensive. "
+                  "text": " again. It’s getting very expensive. "
                 },
                 {
                   "ptText": "Nosso restaurante favorito aumentou os preços novamente. Está ficando muito caro."
@@ -141,10 +147,10 @@
                   "text": "She raised "
                 },
                 {
-                  "underlinedText":	"her voice"
+                  "underlinedText": "her voice"
                 },
                 {
-                  "text":	" to get everyone’s attention."
+                  "text": " to get everyone’s attention."
                 },
                 {
                   "ptText": " Ela levantou a voz para chamar a atenção de todos."
@@ -163,10 +169,10 @@
                   "text": "They raised "
                 },
                 {
-                  "underlinedText":	"the flag"
+                  "underlinedText": "the flag"
                 },
                 {
-                  "text":	" during the ceremony. "
+                  "text": " during the ceremony. "
                 },
                 {
                   "ptText": "Eles hastearam a bandeira durante a cerimônia."
@@ -183,11 +189,12 @@
                 },
                 {
                   "text": "The teacher raised "
-                },{
-                  "underlinedText":	"an important question"
                 },
                 {
-                  "text":	" in class. "
+                  "underlinedText": "an important question"
+                },
+                {
+                  "text": " in class. "
                 },
                 {
                   "ptText": "O professor levantou uma questão importante na aula."
@@ -206,10 +213,10 @@
                   "text": "The company raised "
                 },
                 {
-                  "underlinedText":	"money"
+                  "underlinedText": "money"
                 },
                 {
-                  "text":	" for charity. "
+                  "text": " for charity. "
                 },
                 {
                   "ptText": "A empresa arrecadou dinheiro para a caridade."
@@ -228,10 +235,10 @@
                   "text": "He raised "
                 },
                 {
-                  "underlinedText":	"his eyebrows"
+                  "underlinedText": "his eyebrows"
                 },
                 {
-                  "text":	" in surprise. "
+                  "text": " in surprise. "
                 },
                 {
                   "ptText": "Ele levantou as sobrancelhas em surpresa."
@@ -250,10 +257,10 @@
                   "text": "The coach raised "
                 },
                 {
-                  "underlinedText":	"the team’s confidence"
+                  "underlinedText": "the team’s confidence"
                 },
                 {
-                  "text":	" before the match."
+                  "text": " before the match."
                 },
                 {
                   "ptText": " O treinador aumentou a confiança do time antes da partida."
@@ -272,10 +279,10 @@
                   "text": "The workers raised "
                 },
                 {
-                  "underlinedText":	"a wall"
+                  "underlinedText": "a wall"
                 },
                 {
-                  "text":	" around the house. "
+                  "text": " around the house. "
                 },
                 {
                   "ptText": "Os trabalhadores ergueram um muro ao redor da casa."
@@ -294,19 +301,28 @@
                   "text": "She raised "
                 },
                 {
-                  "underlinedText":	"the baby"
+                  "underlinedText": "the baby"
                 },
                 {
-                  "text":	" alone. "
+                  "text": " alone. "
                 },
                 {
                   "ptText": "Ela criou o bebê sozinha."
                 }
-              ],
-              "hr": true
+              ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Rise"
+      }
+    },
+    {
+      "text": [
         {
           "blocks": [
             {
@@ -369,7 +385,7 @@
                 }
               ]
             },
-            { 
+            {
               "block": [
                 {
                   "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/rents-have-risen.mp3"

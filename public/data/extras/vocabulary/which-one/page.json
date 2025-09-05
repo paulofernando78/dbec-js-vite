@@ -24,7 +24,16 @@
                   "links": [
                     {
                       "icon": "snippet",
-                      "link": "/extras/vocabulary/which-one/raise-rise",
+                      "link": "/extras/vocabulary/which-one/to-not-vs-not-to",
+                      "label": "to not vs. not to"
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "snippet",
+                      "link": "/extras/vocabulary/which-one/raise-vs-rise",
                       "label": "raise vs. rise"
                     }
                   ]
