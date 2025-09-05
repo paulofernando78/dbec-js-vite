@@ -2,6 +2,66 @@
   {
     "definitions": [
       {
+        "word": "rise",
+        "phonetics": "/raɪz/",
+        "partOfSpeech": "verb (past: rose / participle: risen)",
+        "enDefinition": "to move upward; to increase in level, amount, or strength; to get up from lying, sitting, or kneeling; to begin or appear.",
+        "ptDefinition": "subir; aumentar em nível, quantidade ou intensidade; levantar-se deitado, sentado ou ajoelhado; surgir ou aparecer.",
+        "examples": [
+          {
+            "enExample": "The sun rises at six o’clock in the morning.",
+            "ptExample": "O sol nasce às seis horas da manhã."
+          },
+          {
+            "enExample": "Prices are rising rapidly this year.",
+            "ptExample": "Os preços estão subindo rapidamente este ano."
+          },
+          {
+            "enExample": "He rose early to go jogging.",
+            "ptExample": "Ele se levantou cedo para correr."
+          }
+        ],
+        "synonyms": "ascend, increase, climb, emerge",
+        "antonyms": "fall, decrease, sink",
+        "seeAlso": "raise",
+        "notes": [
+          {
+            "enNote": "Unlike 'raise', 'rise' does not take an object.",
+            "ptNote": "Diferente de 'raise', 'rise' não exige objeto."
+          }
+        ]
+      },
+      {
+        "word": "raise",
+        "phonetics": "/reɪz/",
+        "partOfSpeech": "verb (past: raise / participle: raised)",
+        "enDefinition": "to lift something to a higher position; to increase something; to collect or bring together; to cause to grow or take care of someone or something.",
+        "ptDefinition": "levantar algo; aumentar algo; arrecadar ou reunir; criar ou cuidar de alguém ou algo.",
+        "examples": [
+          {
+            "enExample": "Please raise your hand if you have a question.",
+            "ptExample": "Por favor, levante a mão se tiver uma pergunta."
+          },
+          {
+            "enExample": "The company raised money for charity.",
+            "ptExample": "A empresa arrecadou dinheiro para a caridade."
+          },
+          {
+            "enExample": "They raised their children in a small town.",
+            "ptExample": "Eles criaram seus filhos em uma cidade pequena."
+          }
+        ],
+        "synonyms": "lift, increase, collect, rear",
+        "antonyms": "lower, reduce",
+        "seeAlso": "rise",
+        "notes": [
+          {
+            "enNote": "Unlike 'rise', 'raise' always takes an object.",
+            "ptNote": "Diferente de 'rise', 'raise' sempre exige um objeto."
+          }
+        ]
+      },
+      {
         "word": "review an offer",
         "phonetics": "/rɪˈvjuː ən ˈɒfər/",
         "partOfSpeech": "noun phrase",

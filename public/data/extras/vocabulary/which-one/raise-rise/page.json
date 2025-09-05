@@ -25,7 +25,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/extras/vocabulary/which-one/raise-rise/raise.mp3"
                 },
                 {
                   "boldText": "Raise "
@@ -56,7 +56,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/raise-your-hands.mp3"
                 },
                 {
                   "boldText": "• "
@@ -65,10 +65,10 @@
                   "text": "Raise "
                 },
                 {
-                  "underlinedText":	"your hand"
+                  "underlinedText": "your hand"
                 },
                 {
-                  "text":	" if you know the answer. "
+                  "text": " if you know the answer. "
                 },
                 {
                   "ptText": "Levante a mão se você souber a resposta."
@@ -78,13 +78,13 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/our-favorite-restaurant.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "Our favourite restaurant has raised its prices again. It’s getting very expensive."
+                  "text": "Our favourite restaurant has raised its prices again. It’s getting very expensive. "
                 },
                 {
                   "ptText": "Nosso restaurante favorito aumentou os preços novamente. Está ficando muito caro."
@@ -94,7 +94,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/she-raised.mp3"
                 },
                 {
                   "boldText": "• "
@@ -110,7 +110,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/they-raised-the-salary.mp3"
                 },
                 {
                   "boldText": "• "
@@ -126,7 +126,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/the-teacher-raised.mp3"
                 },
                 {
                   "boldText": "• "
@@ -142,7 +142,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/the-company-raised.mp3"
                 },
                 {
                   "boldText": "• "
@@ -151,14 +151,14 @@
                   "text": "The company raised money for charity. "
                 },
                 {
-                  "ptText": "O professor levantou uma questão importante na aula."
+                  "ptText": "A empresa arrecadou dinheiro para a caridade."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/he-raised-his.mp3"
                 },
                 {
                   "boldText": "• "
@@ -174,7 +174,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/the-coach-raised.mp3"
                 },
                 {
                   "boldText": "• "
@@ -190,7 +190,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/the-workers-raised.mp3"
                 },
                 {
                   "boldText": "• "
@@ -206,7 +206,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/she-raised-the-baby.mp3"
                 },
                 {
                   "boldText": "• "
@@ -217,32 +217,32 @@
                 {
                   "ptText": "Ela criou o bebê sozinha."
                 }
-              ]
+              ],
+              "hr": true
             }
           ]
         },
-
         {
           "blocks": [
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/rise.mp3"
                 },
                 {
                   "boldText": "Rise "
                 },
                 {
-                  "markedText":	"does not take an object"
+                  "markedText": "does not take an object"
                 },
                 {
-                  "text":	", as it is an "
+                  "text": ", as it is an "
                 },
                 {
-                  "markedText":	"intransitive verb"
+                  "markedText": "intransitive verb"
                 },
                 {
-                  "text":	". It is an irregular verb; its three forms are rise, rose, risen."
+                  "text": ". It is an irregular verb; its three forms are rise, rose, risen."
                 }
               ],
               "lineBreak": true
@@ -258,7 +258,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/the-sun-rose.mp3"
                 },
                 {
                   "boldText": "• "
@@ -271,10 +271,10 @@
                 }
               ]
             },
-            {
+            { 
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/rents-have-risen.mp3"
                 },
                 {
                   "boldText": "• "
@@ -290,7 +290,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/prices-are-rising.mp3"
                 },
                 {
                   "boldText": "• "
@@ -306,7 +306,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/she-rose-from.mp3"
                 },
                 {
                   "boldText": "• "
@@ -322,7 +322,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/smoke-were-rising.mp3"
                 },
                 {
                   "boldText": "• "
@@ -338,7 +338,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/his-fame-rose.mp3"
                 },
                 {
                   "boldText": "• "
@@ -354,7 +354,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/the-crowd-rose.mp3"
                 },
                 {
                   "boldText": "• "
@@ -370,7 +370,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/tensions-have-risen.mp3"
                 },
                 {
                   "boldText": "• "
@@ -386,7 +386,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/the-storm-is-rising.mp3"
                 },
                 {
                   "boldText": "• "
@@ -402,16 +402,16 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/leave-the-dough.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "He rose early to go jogging. "
+                  "text": "Leave the dough somewhere warm to rise. "
                 },
                 {
-                  "ptText": "Ele se levantou cedo para correr."
+                  "ptText": "Deixe a massa em algum lugar quente para crescer."
                 }
               ]
             }
