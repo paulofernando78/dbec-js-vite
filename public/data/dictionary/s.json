@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "silver platter",
+        "phonetics": "/ˈsɪlvɚ ˈplætɚ/",
+        "partOfSpeech": "idiom",
+        "enDefinition": "Something that is easily given to someone without them having to make any effort.",
+        "ptDefinition": "Algo que é dado facilmente a alguém, sem que precise fazer esforço.",
+        "examples": [
+          {
+            "enExample": "He expected success to be handed to him on a silver platter.",
+            "ptExample": "Ele esperava que o sucesso lhe fosse entregue de bandeja."
+          },
+          {
+            "enExample": "Opportunities don’t usually come on a silver platter—you have to work for them.",
+            "ptExample": "As oportunidades geralmente não vêm de bandeja — você precisa trabalhar por elas."
+          }
+        ],
+        "synonyms": "on a plate, effortlessly, without effort",
+        "antonyms": "hard-earned, struggled for",
+        "notes": [
+          {
+            "enNote": "It conveys the idea of privilege or undeserved ease.",
+            "ptNote": "Transmite a ideia de privilégio ou facilidade não merecida."
+          }
+        ]
+      },
+      {
         "word": "sketchy",
         "phonetics": "/ˈskɛtʃi/",
         "partOfSpeech": "adjective",

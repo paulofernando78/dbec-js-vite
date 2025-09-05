@@ -254,12 +254,14 @@ class Text extends HTMLElement {
 
         if (subItem.markedText) {
           const mark = document.createElement("mark");
+          mark.style.backgroundColor = "var(--yellow-mark)";
           mark.textContent = subItem.markedText;
           blockElement.appendChild(mark);
         }
 
         if (subItem.markedUnderlinedText) {
           const mark = document.createElement("mark");
+          mark.style.backgroundColor = "var(--yellow-mark)";
           const underline = document.createElement("u");
           underline.textContent = subItem.markedUnderlinedText;
           mark.appendChild(underline);
