@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "one’s work has slipped",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to describe a situation where the quality or quantity of someone's work has declined, often due to distraction, stress, or other issues",
+        "ptDefinition": "usado para descrever quando a qualidade ou quantidade do trabalho de alguém diminuiu, geralmente por distração, estresse ou outros motivos",
+        "examples": [
+          {
+        "enExample": "Since the pandemic started, many people feel their work has slipped.",
+        "ptExample": "Desde que a pandemia começou, muitas pessoas sentem que seu trabalho piorou."
+          },
+          {
+        "enExample": "Her manager noticed that her work had slipped after she took on extra responsibilities.",
+        "ptExample": "O gerente percebeu que o trabalho dela piorou depois que ela assumiu mais responsabilidades."
+          }
+        ],
+        "synonyms": ["decline in performance", "fall behind", "drop in quality"],
+        "antonyms": ["improve", "excel", "maintain standards"],
+        "seeAlso": ["slip one's mind", "fall short", "underperform"],
+        "notes": [
+          {
+        "enNote": "Often used in professional contexts to discuss a decrease in productivity or attention to detail.",
+        "ptNote": "Frequentemente usado em contextos profissionais para falar sobre queda de produtividade ou atenção aos detalhes."
+          }
+        ]
+      },
+      {
         "word": "silver platter",
         "phonetics": "/ˈsɪlvɚ ˈplætɚ/",
         "partOfSpeech": "idiom",
