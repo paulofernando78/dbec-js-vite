@@ -103,6 +103,9 @@
                   "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/we-need-to-raise.mp3"
                 },
                 {
+                  "boldText": "• "
+                },
+                {
                   "text": "We need to raise "
                 },
                 {
@@ -400,6 +403,9 @@
                   "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/the-river-levels-rise.mp3"
                 },
                 {
+                  "boldText": "• "
+                },
+                {
                   "text": "The river levels rise after heavy rainfall. "
                 },
                 {
@@ -427,6 +433,9 @@
               "block": [
                 {
                   "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/airplanes-rise.mp3"
+                },
+                {
+                  "boldText": "• "
                 },
                 {
                   "text": "Airplanes rise into the sky shortly after takeoff. "
