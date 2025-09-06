@@ -122,7 +122,13 @@
                   "boldText": "Dan: "
                 },
                 {
-                  "text": "I'm not good at reading between the lines. Please just "
+                  "text": "I'm not good at "
+                },
+                {
+                  "markedText":	"reading between the lines"
+                },
+                {
+                  "text":	". Please just"
                 },
                 {
                   "markedText": "cut to the chase"
