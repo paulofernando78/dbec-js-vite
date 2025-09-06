@@ -46,8 +46,24 @@
                   "markedText": "transitive verb"
                 },
                 {
-                  "text": ". It is a regular verb; its three forms are raise, raised, raised."
+                  "text": ". It is a regular verb; its three forms are raise, "
+                },
+                {
+                  "text":	"raised "
+                },
+                {
+                  "phonetics":	"/d/"
+                },
+                {
+                  "text":	", "
+                },
+                {
+                  "text":	"raised "
+                },
+                {
+                  "phonetics":	"/d/"
                 }
+
               ],
               "lineBreak": true
             },
