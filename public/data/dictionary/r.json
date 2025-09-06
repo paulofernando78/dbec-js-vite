@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "ramble",
+        "phonetics": "/ˈræm.bəl/",
+        "partOfSpeech": "verb / noun",
+        "enDefinition": "to talk or write in a confused or aimless way, often going off topic; to walk for pleasure, especially in the countryside without a fixed route",
+        "ptDefinition": "falar ou escrever de forma confusa ou sem foco, frequentemente desviando do assunto; caminhar por prazer, especialmente no campo, sem rota definida",
+        "examples": [
+          {
+        "enExample": "He tends to ramble when he's nervous, making it hard to follow his point.",
+        "ptExample": "Ele tende a divagar quando está nervoso, tornando difícil entender seu ponto."
+          },
+          {
+        "enExample": "We spent the afternoon rambling through the hills.",
+        "ptExample": "Passamos a tarde caminhando sem rumo pelas colinas."
+          }
+        ],
+        "synonyms": ["wander", "drift", "meander", "digress"],
+        "antonyms": ["focus", "concentrate", "stick to the point"],
+        "seeAlso": ["digress", "meander", "stray"],
+        "notes": [
+          {
+        "enNote": "As a verb, 'ramble' can refer to both speech and walking; context determines the meaning.",
+        "ptNote": "Como verbo, 'ramble' pode se referir tanto à fala quanto à caminhada; o contexto determina o significado."
+          }
+        ]
+      },
+      {
         "word": "rise",
         "phonetics": "/raɪz/",
         "partOfSpeech": "verb (past: rose / participle: risen)",
