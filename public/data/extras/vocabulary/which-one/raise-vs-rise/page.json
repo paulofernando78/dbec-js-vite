@@ -144,7 +144,13 @@
                   "audioSrc": "/assets/audio/extras/vocabulary/which-one/raise-rise/the-government-plans-to-raise.mp3"
                 },
                 {
-                  "text": "The government plans to raise taxes next year. "
+                  "text": "The government plans to raise "
+                },
+                {
+                  "underlinedText":	"taxes"
+                },
+                {
+                  "text":	" next year. "
                 },
                 {
                   "ptText": "O governo planeja aumentar os impostos no próximo ano."
