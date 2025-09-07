@@ -1,0 +1,39 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Vocabulary",
+    "descriptions": [
+      {
+        "icon": "vocabulary",
+        "description": "Vocabulary"
+      },
+      {
+        "icon": "page",
+        "description": "How to say?"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "snippet",
+                      "link": "/extras/vocabulary/how-to-say/reconhecer-firma",
+                      "label": "Reconhecer firma"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

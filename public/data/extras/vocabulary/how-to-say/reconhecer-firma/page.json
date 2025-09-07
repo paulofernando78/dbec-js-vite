@@ -1,0 +1,160 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Vocabulary",
+    "descriptions": [
+      {
+        "icon": "vocabulary",
+        "description": "Vocabulary"
+      },
+      {
+        "icon": "page",
+        "description": "How to say?"
+      },
+      {
+        "icon": "snippet",
+        "description": "Reconhecer firma"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "grid": false,
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "We can say:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/how-to-say/reconhecer-firma/notorize.mp3"
+                },
+                {
+                  "text": "to notarize; have the signature notorized"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Examples"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/how-to-say/reconhecer-firma/we-had-to-have.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "We had to have the signature notarized. "
+                },
+                {
+                  "ptText":	"Nós tivemos de reconhecer a firma."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/how-to-say/reconhecer-firma/in-lieu-of-that.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "In lieu of that, I have to get documents notarized. "
+                },
+                {
+                  "ptText":	"Em vez disso, eu tenho de autenticar os documentos."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/how-to-say/reconhecer-firma/several-states-require.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Several states require a notarized copy of the birth certificate. "
+                },
+                {
+                  "ptText":	"Vários estados exigem uma cópia autenticada da certidão de nascimento."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/how-to-say/reconhecer-firma/finally-the-lease.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Finally, the lease will have to be notarised locally. "
+                },
+                {
+                  "ptText":	"Por fim, o contrato de locação terá de ser reconhecido localmente."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/how-to-say/reconhecer-firma/the-inventory-must.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "The inven"
+                },
+                {
+                  "underlinedText":	"to"
+                },
+                {
+                  "text":	"ry must be signed by you and your signature notarized. "
+                },
+                {
+                  "ptText":	"O inventário deve estar assinado por você e sua assinatura reconhecida em cartório."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/how-to-say/reconhecer-firma/the-signature-may.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "The signature may be notarized at Public Notaries and Consular Representations in Brazil to be officially accepted. "
+                },
+                {
+                  "ptText":	"A assinatura pode ser reconhecida em Cartórios ou Representações Consulares no Brasil para ser aceito oficialmente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

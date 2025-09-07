@@ -19,8 +19,8 @@
             "links": [
               {
                 "icon": "page",
-                "link": "/extras/vocabulary/morphology",
-                "label": "Morphology"
+                "link": "/extras/vocabulary/english-influence",
+                "label": "English influence"
               }
             ]
           },
@@ -37,8 +37,17 @@
             "links": [
               {
                 "icon": "page",
-                "link": "/extras/vocabulary/english-influence",
-                "label": "English influence"
+                "link": "/extras/vocabulary/how-to-say",
+                "label": "How to say?"
+              }
+            ]
+          },
+          {
+            "links": [
+              {
+                "icon": "page",
+                "link": "/extras/vocabulary/morphology",
+                "label": "Morphology"
               }
             ]
           },

@@ -1,0 +1,69 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Vocabulary",
+    "descriptions": [
+      {
+        "icon": "vocabulary",
+        "description": "Vocabulary"
+      },
+      {
+        "icon": "page",
+        "description": ""
+      }
+    ]
+  },
+  "contents": [
+    {
+      "grid": false,
+      "text": [
+        {
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/general/",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": ""
+                },
+                {
+                  "phonetics": ""
+                },
+                {
+                  "partOfSpeech": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "markedText": ""
+                },
+                {
+                  "ptBoldText": ""
+                },
+                {
+                  "ptText": ""
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "",
+                      "link": "",
+                      "label": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
