@@ -37,7 +37,23 @@
                   "audioSrc": "/assets/audio/extras/vocabulary/how-to-say/reconhecer-firma/notorize.mp3"
                 },
                 {
-                  "text": "to notarize; have the signature notorized"
+                  "text": "to notarize; have the signature notorized "
+                },
+                {
+                  "ptText":	"autenticar, notarizar, legalizar."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/how-to-say/reconhecer-firma/public-notary.mp3"
+                },
+                {
+                  "text": "public notary "
+                },
+                {
+                  "ptText": "cartório"
                 }
               ],
               "lineBreak": true
