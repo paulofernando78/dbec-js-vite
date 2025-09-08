@@ -27,7 +27,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/homo/homograph.mp3"
                 },
                 {
                   "text": "A "
@@ -119,10 +119,10 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "He plays bass guitar."
+                  "text": "He plays bass guitar. "
                 },
                 {
-                  "ptText":	"Ele toca baixo (instrumento)."
+                  "ptText": "Ele toca baixo (instrumento)."
                 }
               ]
             },
@@ -135,19 +135,23 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "This is served with a striped bass fillet."
+                  "text": "This is served with a striped bass fillet. "
                 },
                 {
-                  "ptText":	"Isto é servido com um filé de robalo listrado."
+                  "ptText": "Isto é servido com um filé de robalo listrado."
                 }
               ]
             }
           ]
         },
         {
+          "card": true,
           "blocks": [
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/lead.mp3"
+                },
                 {
                   "boldText": "lead "
                 },
@@ -161,13 +165,12 @@
                   "ptText": "liderar, conduzir, levar"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/lead2.mp3"
+                },
                 {
                   "boldText": "lead "
                 },
@@ -183,14 +186,59 @@
                 {
                   "ptText": "chumbo"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Examples "
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/he-plays-bass-guitar.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
               ]
             }
           ]
         },
         {
+          "card": true,
           "blocks": [
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/wind.mp3"
+                },
                 {
                   "boldText": "wind "
                 },
@@ -204,13 +252,12 @@
                   "ptText": "vento"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/wind2.mp3"
+                },
                 {
                   "boldText": "wind "
                 },
@@ -222,6 +269,39 @@
                 },
                 {
                   "ptText": "enrolar, girar"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/he-plays-bass-guitar.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
                 }
               ]
             }
@@ -243,6 +323,9 @@
           "blocks": [
             {
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/homo/homophone.mp3"
+                },
                 {
                   "text": "A "
                 },
@@ -275,6 +358,7 @@
           ]
         },
         {
+          "card": true,
           "blocks": [
             {
               "block": [
@@ -291,11 +375,7 @@
                   "ptText": "flor"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
               "block": [
                 {
@@ -310,11 +390,45 @@
                 {
                   "ptText": "farinha"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
               ]
             }
           ]
         },
         {
+          "card": true,
           "blocks": [
             {
               "block": [
@@ -331,11 +445,7 @@
                   "ptText": "avião, aerovane"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
               "block": [
                 {
@@ -350,11 +460,45 @@
                 {
                   "ptText": "plano"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
               ]
             }
           ]
         },
         {
+          "card": true,
           "blocks": [
             {
               "block": [
@@ -371,11 +515,7 @@
                   "ptText": "rezar, orar"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
               "block": [
                 {
@@ -390,11 +530,45 @@
                 {
                   "ptText": "presa (animal / comida)"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
               ]
             }
           ]
         },
         {
+          "card": true,
           "blocks": [
             {
               "block": [
@@ -411,11 +585,7 @@
                   "ptText": "eles, elas, são / estão (pessoas ou coisas)"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
               "block": [
                 {
@@ -431,11 +601,7 @@
                   "ptText": "deles, delas"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
               "block": [
                 {
@@ -450,11 +616,45 @@
                 {
                   "ptText": "aí, lá"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
               ]
             }
           ]
         },
         {
+          "card": true,
           "blocks": [
             {
               "block": [
@@ -471,11 +671,7 @@
                   "ptText": "usado como marcador de infinitivo"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
               "block": [
                 {
@@ -491,11 +687,7 @@
                   "ptText": "número dois (2)"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
               "block": [
                 {
@@ -509,6 +701,39 @@
                 },
                 {
                   "ptText": "muito (algo), também"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
                 }
               ]
             }
