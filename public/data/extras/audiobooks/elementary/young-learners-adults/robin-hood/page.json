@@ -1998,7 +1998,25 @@
                   "text": "The abbot looked at the money, then he looked at Little John. The abbot's face was very red. He opened his mouth and then closed it again. What could he say?"
                 }
               ]
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "images": [
+        {
+          "width": "80%",
+          "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-8.avif",
+          "caption": "Then Little John put five more bags on the table.",
+          "alt": "A picture of John Little and a Priest."
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
             {
               "block": [
                 {
@@ -2140,16 +2158,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "images": [
-        {
-          "width": "80%",
-          "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/chapter-8.avif",
-          "caption": "Then Little John put five more bags on the table.",
-          "alt": "A picture of John Little and a Priest."
         }
       ]
     },
@@ -2651,7 +2659,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter 11 • Questions"
+                  "boldText": "Chapter 10 • Questions"
                 }
               ],
               "lineBreak": true

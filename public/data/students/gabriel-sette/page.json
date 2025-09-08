@@ -117,7 +117,7 @@
                       "status": "OK",
                       "date": "Mon 1",
                       "classNotes": "Robin Hood Chapter 5",
-                      "homeWorkNotes": ""
+                      "homeWorkNotes": "Robin Hood Chapter 6-7"
                     }
                   ]
                 },
@@ -126,17 +126,17 @@
                     {
                       "status": "OK",
                       "date": "Wed 3",
-                      "classNotes": "",
-                      "homeWorkNotes": "Robin Hood Chapter 6"
+                      "classNotes": "Robin Hood Chapter 6-7",
+                      "homeWorkNotes": "Robin Hood Chapter 8"
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Mon 8",
-                      "classNotes": "",
+                      "classNotes": "Robin Hood Chapter 8",
                       "homeWorkNotes": ""
                     }
                   ]
