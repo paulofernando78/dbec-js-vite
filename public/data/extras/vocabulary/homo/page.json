@@ -200,32 +200,32 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/he-plays-bass-guitar.mp3"
+                  "audioSrc": "/assets/audio/dictionary/she-leads-the.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "... "
+                  "text": "She leads the team to victory. "
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "Ela lidera o time para a vitória."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/the-pencil-contains.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "... "
+                  "text": "The pencil contains lead. "
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "O lápis contém chumbo."
                 }
               ]
             }
@@ -276,32 +276,32 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/he-plays-bass-guitar.mp3"
+                  "audioSrc": "/assets/audio/dictionary/he-winds-the.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "... "
+                  "text": "The wind is strong today. "
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "O vento está forte hoje."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/the-wind-is.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "... "
+                  "text": "He winds the clock every morning. "
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "Ele dá corda no relógio todas as manhãs."
                 }
               ]
             }
@@ -363,6 +363,16 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/flower-flour.mp3"
+                },
+                {
+                  "boldText": "flower / flour"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
                   "boldText": "flower "
                 },
                 {
@@ -396,32 +406,32 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/she-picked-a-flower.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "... "
+                  "text": "She picked a flower from the garden. "
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "Ela pegou uma flor do jardim."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/add-flour-to.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "... "
+                  "text": "Add flour to the mixture. "
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "Adicione farinha à mistura."
                 }
               ]
             }
@@ -430,6 +440,16 @@
         {
           "card": true,
           "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/plane-plain.mp3"
+                },
+                {
+                  "boldText": "plane / plain"
+                }
+              ]
+            },
             {
               "block": [
                 {
@@ -466,32 +486,32 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/the-plane-is-flying.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "... "
+                  "text": "The plane is flying above the clouds. "
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "O avião está voando acima das nuvens."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/the-plain-is-flat.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "... "
+                  "text": "The plain is flat and wide. "
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "A planície é plana e ampla."
                 }
               ]
             }
@@ -500,6 +520,16 @@
         {
           "card": true,
           "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/pray-prey.mp3"
+                },
+                {
+                  "boldText": "pray / prey"
+                }
+              ]
+            },
             {
               "block": [
                 {
@@ -536,32 +566,32 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/the-lion-hunts-prey.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "... "
+                  "text": "The lion hunts its prey. "
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "O leão caça sua presa."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/they-pray-every-night.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "... "
+                  "text": "They pray every night. "
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "Eles rezam todas as noites."
                 }
               ]
             }
@@ -570,6 +600,16 @@
         {
           "card": true,
           "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/theyre-their-there.mp3"
+                },
+                {
+                  "boldText": "they’re / their / there"
+                }
+              ]
+            },
             {
               "block": [
                 {
@@ -622,32 +662,48 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/theyre-happy.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "... "
+                  "text": "They’re happy to help. "
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "Eles estão felizes em ajudar."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/their-house-is.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "... "
+                  "text": "Their house is big."
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "A casa deles é grande. "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/there-is-a-cat.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "There is a cat on the roof. "
+                },
+                {
+                  "ptText": "Há um gato no telhado."
                 }
               ]
             }
@@ -656,6 +712,16 @@
         {
           "card": true,
           "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/to-two-too.mp3"
+                },
+                {
+                  "boldText": "to / two / too"
+                }
+              ]
+            },
             {
               "block": [
                 {
@@ -708,32 +774,48 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/i-want-to-go.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "... "
+                  "text": "I want to go to the park. "
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "Eu quero ir ao parque."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/i-have-two.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "... "
+                  "text": "I have two cats."
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "Eu tenho dois gatos. "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/it-is-too.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "It is too hot today."
+                },
+                {
+                  "ptText": "Está muito quente hoje. "
                 }
               ]
             }
@@ -756,59 +838,210 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/vocabulary/homo/homonym.mp3"
+                },
+                {
                   "text": "A "
                 },
                 {
-                  "boldText": "homonyns "
+                  "boldText": "homonym"
                 },
                 {
-                  "text": "..."
+                  "text": " is a word that has the "
+                },
+                {
+                  "markedText": "same spelling and sound"
+                },
+                {
+                  "text": " as another word but has a "
+                },
+                {
+                  "markedText": "different meaning"
+                },
+                {
+                  "text": ". Homonyms are both homographs and homophones. "
+                },
+                {
+                  "markedText": "–nym"
+                },
+                {
+                  "text": " means name:"
                 }
               ]
             }
           ]
         },
         {
+          "card": true,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "... "
+                  "audioSrc": "/assets/audio/dictionary/bark.mp3"
                 },
                 {
-                  "phonetics": "... "
+                  "boldText": "bark"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "bark "
                 },
                 {
-                  "partOfSpeech": "... "
+                  "phonetics": "/bɑːrk/ "
                 },
                 {
-                  "text": "... "
+                  "partOfSpeech": "noun "
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "casca (de árvore)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "bark "
+                },
+                {
+                  "phonetics": "/bɑːrk/ "
+                },
+                {
+                  "partOfSpeech": "verb "
+                },
+                {
+                  "ptText": "latir"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Examples "
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/the-dog-barks.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "The dog barks loudly. "
+                },
+                {
+                  "ptText": "O cachorro late alto."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/the-tree-has-thick-bark.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "The tree has thick bark. "
+                },
+                {
+                  "ptText": "A árvore tem casca grossa."
                 }
               ]
             }
           ]
         },
         {
+          "card": true,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "... "
+                  "audioSrc": "/assets/audio/dictionary/bat.mp3"
                 },
                 {
-                  "phonetics": "... "
+                  "boldText": "bat"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "bat "
                 },
                 {
-                  "partOfSpeech": "... "
+                  "phonetics": "/bæt/ "
                 },
                 {
-                  "text": "... "
+                  "partOfSpeech": "noun "
                 },
                 {
-                  "ptText": "..."
+                  "ptText": "morcego"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "bat "
+                },
+                {
+                  "phonetics": "/bæt/ "
+                },
+                {
+                  "partOfSpeech": "noun "
+                },
+                {
+                  "ptText": "taco (de beisebol)"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Examples "
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/the-bat-flew.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "The bat flew out of the cave. "
+                },
+                {
+                  "ptText": "O morcego voou para fora da caverna."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/he-swung-the-bat.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "He swung the bat at the ball. "
+                },
+                {
+                  "ptText": "Ele balançou o taco na bola."
                 }
               ]
             }
