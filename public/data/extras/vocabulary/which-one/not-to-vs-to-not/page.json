@@ -1,0 +1,269 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Vocabulary",
+    "descriptions": [
+      {
+        "icon": "vocabulary",
+        "description": "Vocabulary"
+      },
+      {
+        "icon": "page",
+        "description": "Which one?"
+      },
+      {
+        "icon": "snippet",
+        "description": "not to vs. to not"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "not to"
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "text": "Use 'not to' before the verb when expressing a negative intention or instruction."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Examples"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                },
+                {
+                  "text": "He told us "
+                },
+                {
+                  "markedText": "not to open"
+                },
+                {
+                  "text": " the door."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                },
+                {
+                  "text": "Kelly hoped "
+                },
+                {
+                  "markedText": "not to need"
+                },
+                {
+                  "text": " new shoes before the fall."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                },
+                {
+                  "text": "Kelly hoped she wouldn’t need new shoes before the fall. (more natural)"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                },
+                {
+                  "text": "They decided "
+                },
+                {
+                  "markedText": "not to stay"
+                },
+                {
+                  "text": " at the hotel."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                },
+                {
+                  "text": "He wanted "
+                },
+                {
+                  "markedText": "never to go"
+                },
+                {
+                  "text": " into that house again."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                },
+                {
+                  "text": "She was able "
+                },
+                {
+                  "markedText": "to wait patiently"
+                },
+                {
+                  "text": " outside for the store to open."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "to not"
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Use 'to not' before the verb for emphasis or to highlight the negative action, though it is less formal. This is okay in speech and informal writing."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Examples"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                },
+                {
+                  "text": "They decided "
+                },
+                {
+                  "markedText": "to not stay"
+                },
+                {
+                  "text": " another night."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                },
+                {
+                  "text": "It can be difficult"
+                },
+                {
+                  "markedText": " to not go"
+                },
+                {
+                  "text": " back for a second piece of cake."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                },
+                {
+                  "text": "Jack hoped "
+                },
+                {
+                  "markedText": "to not need"
+                },
+                {
+                  "text": " another surgery."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                },
+                {
+                  "text": "He wanted "
+                },
+                {
+                  "markedText": "never to have"
+                },
+                {
+                  "text": " to see them again."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                },
+                {
+                  "text": "He didn’t want to have to see them again. (more natural)"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                },
+                {
+                  "text": "He wasn't able "
+                },
+                {
+                  "markedText": "to patiently sit"
+                },
+                {
+                  "text": " in the busy traffic without complaining."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
