@@ -45,16 +45,16 @@
                   "text": " as another word but has a "
                 },
                 {
-                  "markedText": "different sound"
+                  "markedText": "different pronunciation"
                 },
                 {
-                  "text": " and a different meaning. "
+                  "text": " and a different meaning. The suffix "
                 },
                 {
                   "markedText": "–graph"
                 },
                 {
-                  "text": " means drawn or written:"
+                  "text": " comes from Greek and means “written,” showing that the words are the same in writing."
                 }
               ]
             }
@@ -129,7 +129,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/this-is-served-with-a-bass-fillet.mp3"
+                  "audioSrc": "/assets/audio/dictionary/this-is-served-with-a-striped-bass-fillet.mp3"
                 },
                 {
                   "boldText": "• "
@@ -140,6 +140,106 @@
                 {
                   "ptText": "Isto é servido com um filé de robalo listrado."
                 }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/bow-1.mp3"
+                },
+                {
+                  "boldText": "bow "
+                },
+                {
+                  "phonetics": "/baʊ/ "
+                },
+                {
+                  "partOfSpeech": "verb "
+                },
+                {
+                  "ptText": "curvar-se, inclinar-se"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/bow-2.mp3"
+                },
+                {
+                  "boldText": "bow "
+                },
+                {
+                  "phonetics": "/boʊ/ "
+                },
+                {
+                  "partOfSpeech": "noun "
+                },
+                {
+                  "ptText": "arco (instrumento ou arma); laço"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Examples "
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/she-bowed-to-the-audience.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "She bowed to the audience. "
+                },
+                {
+                  "ptText": "Ela se curvou para a plateia."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/he-played-the-violin-with-a-bow.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "He played the violin with a bow. "
+                },
+                {
+                  "ptText": "Ele tocou violino com um arco."
+                }
+              ]
+            },
+            {
+              "block": [
+              {
+                "audioSrc": "/assets/audio/dictionary/he-shot-the-target-with-a-bow-and-arrow.mp3"
+              },
+              {
+                "boldText": "• "
+              },
+              {
+                "text": "He shot the target with a bow and arrow. "
+              },
+              {
+                "ptText": "Ele acertou o alvo com arco e flecha."
+              }
               ]
             }
           ]
@@ -200,7 +300,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/she-leads-the.mp3"
+                  "audioSrc": "/assets/audio/dictionary/she-leads-the-team-to-victory.mp3"
                 },
                 {
                   "boldText": "• "
@@ -216,7 +316,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/the-pencil-contains.mp3"
+                  "audioSrc": "/assets/audio/dictionary/the-pencil-contains-lead.mp3"
                 },
                 {
                   "boldText": "• "
@@ -276,7 +376,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/he-winds-the.mp3"
+                  "audioSrc": "/assets/audio/dictionary/the-wind-is-strong-today.mp3"
                 },
                 {
                   "boldText": "• "
@@ -292,7 +392,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/the-wind-is.mp3"
+                  "audioSrc": "/assets/audio/dictionary/he-winds-the-clock-every-morning.mp3"
                 },
                 {
                   "boldText": "• "
@@ -336,7 +436,7 @@
                   "text": " is a word that has the "
                 },
                 {
-                  "markedText": "same sound"
+                  "markedText": "same pronunciation"
                 },
                 {
                   "text": " as another word but has a "
@@ -345,13 +445,13 @@
                   "markedText": "different meaning"
                 },
                 {
-                  "text": ". Homophones may or may not have the same spelling. "
+                  "text": ". Homophones may or may not have the same spelling. The suffix "
                 },
                 {
                   "markedText": "–phone"
                 },
                 {
-                  "text": " means sound or voice:"
+                  "text": " comes from Greek and means “sound” or “voice.”"
                 }
               ]
             }
@@ -406,7 +506,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/she-picked-a-flower.mp3"
+                  "audioSrc": "/assets/audio/dictionary/she-picked-a-flower-from-the-garden.mp3"
                 },
                 {
                   "boldText": "• "
@@ -422,7 +522,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/add-flour-to.mp3"
+                  "audioSrc": "/assets/audio/dictionary/add-flour-to-the-mixture.mp3"
                 },
                 {
                   "boldText": "• "
@@ -486,7 +586,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/the-plane-is-flying.mp3"
+                  "audioSrc": "/assets/audio/dictionary/the-plane-is-flying-above-the-clouds.mp3"
                 },
                 {
                   "boldText": "• "
@@ -502,7 +602,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/the-plain-is-flat.mp3"
+                  "audioSrc": "/assets/audio/dictionary/the-plain-is-flat-and-wide.mp3"
                 },
                 {
                   "boldText": "• "
@@ -566,7 +666,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/the-lion-hunts-prey.mp3"
+                  "audioSrc": "/assets/audio/dictionary/the-lion-hunts-its-prey.mp3"
                 },
                 {
                   "boldText": "• "
@@ -603,7 +703,87 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/theyre-their-there.mp3"
+                  "audioSrc": "/assets/audio/dictionary/right-write.mp3"
+                },
+                {
+                  "boldText": "right / write"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "right "
+                },
+                {
+                  "phonetics": "/raɪt/ "
+                },
+                {
+                  "partOfSpeech": "adjective, noun, adverb "
+                },
+                {
+                  "ptText": "certo, direito; direito (legal); à direita"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "write "
+                },
+                {
+                  "phonetics": "/raɪt/ "
+                },
+                {
+                  "partOfSpeech": "verb "
+                },
+                {
+                  "ptText": "escrever"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/you-are-right-about-the-answer.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "You are right about the answer. "
+                },
+                {
+                  "ptText": "Você está certo sobre a resposta."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/please-write-your-name-here.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Please write your name here. "
+                },
+                {
+                  "ptText": "Por favor, escreva seu nome aqui."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/.mp3"
                 },
                 {
                   "boldText": "they’re / their / there"
@@ -662,7 +842,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/theyre-happy.mp3"
+                  "audioSrc": "/assets/audio/dictionary/they-are-happy-to-help.mp3"
                 },
                 {
                   "boldText": "• "
@@ -678,13 +858,13 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/their-house-is.mp3"
+                  "audioSrc": "/assets/audio/dictionary/their-house-is-big.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "Their house is big."
+                  "text": "Their house is big. "
                 },
                 {
                   "ptText": "A casa deles é grande. "
@@ -694,7 +874,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/there-is-a-cat.mp3"
+                  "audioSrc": "/assets/audio/dictionary/there-is-a-cat-on-the-roof.mp3"
                 },
                 {
                   "boldText": "• "
@@ -774,7 +954,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/i-want-to-go.mp3"
+                  "audioSrc": "/assets/audio/dictionary/i-want-to-go-to-the-park-1.mp3"
                 },
                 {
                   "boldText": "• "
@@ -790,13 +970,13 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/i-have-two.mp3"
+                  "audioSrc": "/assets/audio/dictionary/i-have-two-cats.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "I have two cats."
+                  "text": "I have two cats. "
                 },
                 {
                   "ptText": "Eu tenho dois gatos. "
@@ -806,13 +986,13 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/it-is-too.mp3"
+                  "audioSrc": "/assets/audio/dictionary/it-is-too-hot-today.mp3"
                 },
                 {
                   "boldText": "• "
                 },
                 {
-                  "text": "It is too hot today."
+                  "text": "It is too hot today. "
                 },
                 {
                   "ptText": "Está muito quente hoje. "
@@ -850,7 +1030,7 @@
                   "text": " is a word that has the "
                 },
                 {
-                  "markedText": "same spelling and sound"
+                  "markedText": "same spelling and pronunciation"
                 },
                 {
                   "text": " as another word but has a "
@@ -859,13 +1039,13 @@
                   "markedText": "different meaning"
                 },
                 {
-                  "text": ". Homonyms are both homographs and homophones. "
+                  "text": ". Homonyms are both homographs and homophones. The suffix "
                 },
                 {
                   "markedText": "–nym"
                 },
                 {
-                  "text": " means name:"
+                  "text": " comes from Greek and means “name.”"
                 }
               ]
             }
@@ -928,7 +1108,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/the-dog-barks.mp3"
+                  "audioSrc": "/assets/audio/dictionary/the-dog-barks-loudly.mp3"
                 },
                 {
                   "boldText": "• "
@@ -1016,7 +1196,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/the-bat-flew.mp3"
+                  "audioSrc": "/assets/audio/dictionary/the-bat-flew-out-of-the-cave.mp3"
                 },
                 {
                   "boldText": "• "
@@ -1032,7 +1212,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/he-swung-the-bat.mp3"
+                  "audioSrc": "/assets/audio/dictionary/he-swung-the-bat-at-the-ball.mp3"
                 },
                 {
                   "boldText": "• "
