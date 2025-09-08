@@ -542,6 +542,86 @@
           "blocks": [
             {
               "block": [
+          {
+            "audioSrc": "/assets/audio/dictionary/one-won.mp3"
+          },
+          {
+            "boldText": "one / won"
+          }
+              ]
+            },
+            {
+              "block": [
+          {
+            "boldText": "one "
+          },
+          {
+            "phonetics": "/wʌn/ "
+          },
+          {
+            "partOfSpeech": "number "
+          },
+          {
+            "ptText": "um (número 1)"
+          }
+              ]
+            },
+            {
+              "block": [
+          {
+            "boldText": "won "
+          },
+          {
+            "phonetics": "/wʌn/ "
+          },
+          {
+            "partOfSpeech": "verb (past tense of win) "
+          },
+          {
+            "ptText": "ganhou, venceu"
+          }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+          {
+            "audioSrc": "/assets/audio/dictionary/i-have-one-brother.mp3"
+          },
+          {
+            "boldText": "• "
+          },
+          {
+            "text": "I have one brother. "
+          },
+          {
+            "ptText": "Eu tenho um irmão."
+          }
+              ]
+            },
+            {
+              "block": [
+          {
+            "audioSrc": "/assets/audio/dictionary/she-won-the-game.mp3"
+          },
+          {
+            "boldText": "• "
+          },
+          {
+            "text": "She won the game. "
+          },
+          {
+            "ptText": "Ela venceu o jogo."
+          }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
                 {
                   "audioSrc": "/assets/audio/dictionary/plane-plain.mp3"
                 },
