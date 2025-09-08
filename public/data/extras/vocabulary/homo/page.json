@@ -4,6 +4,10 @@
     "subtitle": "Vocabulary",
     "descriptions": [
       {
+        "icon": "vocabulary",
+        "description": "Vocabulary"
+      },
+      {
         "icon": "pages",
         "description": "Homographs vs. homophones vs. homonyns"
       }
@@ -12,8 +16,6 @@
   "contents": [
     {
       "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
         "icon": "snippet",
         "label": "Homographs"
       }
@@ -23,130 +25,205 @@
         {
           "blocks": [
             {
-              "text": "A "
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "text": "A "
+                },
+                {
+                  "boldText": "homograph"
+                },
+                {
+                  "text": " is a word that has the "
+                },
+                {
+                  "markedText": "same spelling"
+                },
+                {
+                  "text": " as another word but has a "
+                },
+                {
+                  "markedText": "different sound"
+                },
+                {
+                  "text": " and a different meaning. "
+                },
+                {
+                  "markedText": "–graph"
+                },
+                {
+                  "text": " means drawn or written:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/bass.mp3"
+                },
+                {
+                  "boldText": "bass "
+                },
+                {
+                  "phonetics": "/beɪs/ "
+                },
+                {
+                  "partOfSpeech": "noun "
+                },
+                {
+                  "ptText": "intrumento baixo; tom grave"
+                }
+              ]
             },
             {
-              "boldText": "homograph"
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/bass(fish).mp3"
+                },
+                {
+                  "boldText": "bass "
+                },
+                {
+                  "phonetics": "/bæs/ "
+                },
+                {
+                  "partOfSpeech": "noun "
+                },
+                {
+                  "ptText": "robalo (peixe)"
+                }
+              ],
+              "lineBreak": true
             },
             {
-              "text": " is a word that has the "
+              "block": [
+                {
+                  "boldText": "Examples "
+                }
+              ],
+              "lineBreak": true
             },
             {
-              "markedText": "same spelling"
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/he-plays-bass-guitar.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "He plays bass guitar."
+                },
+                {
+                  "ptText":	"Ele toca baixo (instrumento)."
+                }
+              ]
             },
             {
-              "text": " as another word but has a "
-            },
-            {
-              "markedText": "different sound"
-            },
-            {
-              "text": " and a different meaning. "
-            },
-            {
-              "markedText": "–graph"
-            },
-            {
-              "text": " means drawn or written:"
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/this-is-served-with-a-bass-fillet.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "This is served with a striped bass fillet."
+                },
+                {
+                  "ptText":	"Isto é servido com um filé de robalo listrado."
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "bass "
-            },
-            {
-              "phonetics": "/beɪs/ "
-            },
-            {
-              "partOfSpeech": "noun "
-            },
-            {
-              "ptText": "intrumento baixo; tom grave"
+              "block": [
+                {
+                  "boldText": "lead "
+                },
+                {
+                  "phonetics": "/liːd/ "
+                },
+                {
+                  "partOfSpeech": "verb "
+                },
+                {
+                  "ptText": "liderar, conduzir, levar"
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "bass "
-            },
-            {
-              "phonetics": "/bæs/ "
-            },
-            {
-              "partOfSpeech": "noun "
-            },
-            {
-              "ptText": "robalo (peixe)"
+              "block": [
+                {
+                  "boldText": "lead "
+                },
+                {
+                  "phonetics": "/led/ "
+                },
+                {
+                  "partOfSpeech": "noun "
+                },
+                {
+                  "text": "chemical element "
+                },
+                {
+                  "ptText": "chumbo"
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "lead "
-            },
-            {
-              "phonetics": "/liːd/ "
-            },
-            {
-              "partOfSpeech": "verb "
-            },
-            {
-              "ptText": "liderar, conduzir, levar"
+              "block": [
+                {
+                  "boldText": "wind "
+                },
+                {
+                  "phonetics": "/wɪnd/ "
+                },
+                {
+                  "partOfSpeech": "noun "
+                },
+                {
+                  "ptText": "vento"
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "lead "
-            },
-            {
-              "phonetics": "/led/ "
-            },
-            {
-              "partOfSpeech": "noun "
-            },
-            {
-              "text": "chemical element "
-            },
-            {
-              "ptText": "chumbo"
-            }
-          ]
-        },
-        {
-          "blocks": [
-            {
-              "boldText": "wind "
-            },
-            {
-              "phonetics": "/wɪnd/ "
-            },
-            {
-              "partOfSpeech": "noun "
-            },
-            {
-              "ptText": "vento"
-            }
-          ]
-        },
-        {
-          "blocks": [
-            {
-              "boldText": "wind "
-            },
-            {
-              "phonetics": "/waɪnd/ "
-            },
-            {
-              "partOfSpeech": "verb "
-            },
-            {
-              "ptText": "enrolar, girar"
+              "block": [
+                {
+                  "boldText": "wind "
+                },
+                {
+                  "phonetics": "/waɪnd/ "
+                },
+                {
+                  "partOfSpeech": "verb "
+                },
+                {
+                  "ptText": "enrolar, girar"
+                }
+              ]
             }
           ]
         }
@@ -165,223 +242,275 @@
         {
           "blocks": [
             {
-              "text": "A "
-            },
-            {
-              "boldText": "homophone"
-            },
-            {
-              "text": " is a word that has the "
-            },
-            {
-              "markedText": "same sound"
-            },
-            {
-              "text": " as another word but has a "
-            },
-            {
-              "markedText": "different meaning"
-            },
-            {
-              "text": ". Homophones may or may not have the same spelling. "
-            },
-            {
-              "markedText": "–phone"
-            },
-            {
-              "text": " means sound or voice:"
+              "block": [
+                {
+                  "text": "A "
+                },
+                {
+                  "boldText": "homophone"
+                },
+                {
+                  "text": " is a word that has the "
+                },
+                {
+                  "markedText": "same sound"
+                },
+                {
+                  "text": " as another word but has a "
+                },
+                {
+                  "markedText": "different meaning"
+                },
+                {
+                  "text": ". Homophones may or may not have the same spelling. "
+                },
+                {
+                  "markedText": "–phone"
+                },
+                {
+                  "text": " means sound or voice:"
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "flower "
-            },
-            {
-              "phonetics": "/ˈflaʊ.ɚ/ "
-            },
-            {
-              "partOfSpeech": "noun "
-            },
-            {
-              "ptText": "flor"
+              "block": [
+                {
+                  "boldText": "flower "
+                },
+                {
+                  "phonetics": "/ˈflaʊ.ɚ/ "
+                },
+                {
+                  "partOfSpeech": "noun "
+                },
+                {
+                  "ptText": "flor"
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "flour "
-            },
-            {
-              "phonetics": "/ˈflaʊ.ɚ/ "
-            },
-            {
-              "partOfSpeech": "noun "
-            },
-            {
-              "ptText": "farinha"
+              "block": [
+                {
+                  "boldText": "flour "
+                },
+                {
+                  "phonetics": "/ˈflaʊ.ɚ/ "
+                },
+                {
+                  "partOfSpeech": "noun "
+                },
+                {
+                  "ptText": "farinha"
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "plane "
-            },
-            {
-              "phonetics": "/pleɪn/ "
-            },
-            {
-              "partOfSpeech": "noun "
-            },
-            {
-              "ptText": "avião, aerovane"
+              "block": [
+                {
+                  "boldText": "plane "
+                },
+                {
+                  "phonetics": "/pleɪn/ "
+                },
+                {
+                  "partOfSpeech": "noun "
+                },
+                {
+                  "ptText": "avião, aerovane"
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "plain "
-            },
-            {
-              "phonetics": "/pleɪn/ "
-            },
-            {
-              "partOfSpeech": "adjective "
-            },
-            {
-              "ptText": "plano"
+              "block": [
+                {
+                  "boldText": "plain "
+                },
+                {
+                  "phonetics": "/pleɪn/ "
+                },
+                {
+                  "partOfSpeech": "adjective "
+                },
+                {
+                  "ptText": "plano"
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "pray "
-            },
-            {
-              "phonetics": "/preɪ/ "
-            },
-            {
-              "partOfSpeech": "verb "
-            },
-            {
-              "ptText": "rezar, orar"
+              "block": [
+                {
+                  "boldText": "pray "
+                },
+                {
+                  "phonetics": "/preɪ/ "
+                },
+                {
+                  "partOfSpeech": "verb "
+                },
+                {
+                  "ptText": "rezar, orar"
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "prey "
-            },
-            {
-              "phonetics": "/preɪ/ "
-            },
-            {
-              "partOfSpeech": "noun "
-            },
-            {
-              "ptText": "presa (animal / comida)"
+              "block": [
+                {
+                  "boldText": "prey "
+                },
+                {
+                  "phonetics": "/preɪ/ "
+                },
+                {
+                  "partOfSpeech": "noun "
+                },
+                {
+                  "ptText": "presa (animal / comida)"
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "they’re "
-            },
-            {
-              "phonetics": "/ðer/ "
-            },
-            {
-              "partOfSpeech": "short form of they are "
-            },
-            {
-              "ptText": "eles, elas, são / estão (pessoas ou coisas)"
+              "block": [
+                {
+                  "boldText": "they’re "
+                },
+                {
+                  "phonetics": "/ðer/ "
+                },
+                {
+                  "partOfSpeech": "short form of they are "
+                },
+                {
+                  "ptText": "eles, elas, são / estão (pessoas ou coisas)"
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "their "
-            },
-            {
-              "phonetics": "/ðer/ "
-            },
-            {
-              "partOfSpeech": "determiner "
-            },
-            {
-              "ptText": "deles, delas"
+              "block": [
+                {
+                  "boldText": "their "
+                },
+                {
+                  "phonetics": "/ðer/ "
+                },
+                {
+                  "partOfSpeech": "determiner "
+                },
+                {
+                  "ptText": "deles, delas"
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "there "
-            },
-            {
-              "phonetics": "/ðer/ "
-            },
-            {
-              "partOfSpeech": "adverb "
-            },
-            {
-              "ptText": "aí, lá"
+              "block": [
+                {
+                  "boldText": "there "
+                },
+                {
+                  "phonetics": "/ðer/ "
+                },
+                {
+                  "partOfSpeech": "adverb "
+                },
+                {
+                  "ptText": "aí, lá"
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "to "
-            },
-            {
-              "phonetics": "/tuː/ /tə/ "
-            },
-            {
-              "partOfSpeech": "preposition "
-            },
-            {
-              "ptText": "usado como marcador de infinitivo"
+              "block": [
+                {
+                  "boldText": "to "
+                },
+                {
+                  "phonetics": "/tuː/ /tə/ "
+                },
+                {
+                  "partOfSpeech": "preposition "
+                },
+                {
+                  "ptText": "usado como marcador de infinitivo"
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "two "
-            },
-            {
-              "phonetics": "/tuː/ "
-            },
-            {
-              "partOfSpeech": "number "
-            },
-            {
-              "ptText": "número dois (2)"
+              "block": [
+                {
+                  "boldText": "two "
+                },
+                {
+                  "phonetics": "/tuː/ "
+                },
+                {
+                  "partOfSpeech": "number "
+                },
+                {
+                  "ptText": "número dois (2)"
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "too "
-            },
-            {
-              "phonetics": "/tuː/ "
-            },
-            {
-              "partOfSpeech": "adverb "
-            },
-            {
-              "ptText": "muito (algo), também"
+              "block": [
+                {
+                  "boldText": "too "
+                },
+                {
+                  "phonetics": "/tuː/ "
+                },
+                {
+                  "partOfSpeech": "adverb "
+                },
+                {
+                  "ptText": "muito (algo), também"
+                }
+              ]
             }
           ]
         }
@@ -400,51 +529,63 @@
         {
           "blocks": [
             {
-              "text": "A "
-            },
-            {
-              "boldText": "homonyns "
-            },
-            {
-              "text": "..."
+              "block": [
+                {
+                  "text": "A "
+                },
+                {
+                  "boldText": "homonyns "
+                },
+                {
+                  "text": "..."
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "... "
-            },
-            {
-              "phonetics": "... "
-            },
-            {
-              "partOfSpeech": "... "
-            },
-            {
-              "text": "... "
-            },
-            {
-              "ptText": "..."
+              "block": [
+                {
+                  "boldText": "... "
+                },
+                {
+                  "phonetics": "... "
+                },
+                {
+                  "partOfSpeech": "... "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
+              ]
             }
           ]
         },
         {
           "blocks": [
             {
-              "boldText": "... "
-            },
-            {
-              "phonetics": "... "
-            },
-            {
-              "partOfSpeech": "... "
-            },
-            {
-              "text": "... "
-            },
-            {
-              "ptText": "..."
+              "block": [
+                {
+                  "boldText": "... "
+                },
+                {
+                  "phonetics": "... "
+                },
+                {
+                  "partOfSpeech": "... "
+                },
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
+              ]
             }
           ]
         }
