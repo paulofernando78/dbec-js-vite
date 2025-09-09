@@ -31,7 +31,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/extras/vocabulary/to-not-vs-not-to/not-to.mp3"
                 },
                 {
                   "text": "Use 'not to' before the verb when expressing a negative intention or instruction."
@@ -50,7 +50,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/he-told-us-not-to-open-the-door.mp3"
                 },
                 {
                   "text": "He told us "
@@ -67,7 +67,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/kelly-hoped-not-to-need-new-shoes-before-the-fall.mp3"
                 },
                 {
                   "text": "Kelly hoped "
@@ -83,7 +83,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/kelly-hoped-she-wouldnt-need-new-shoes-before-the-fall..mp3"
                 },
                 {
                   "text": "Kelly hoped she wouldn’t need new shoes before the fall. (more natural)"
@@ -94,7 +94,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/they-decided-not-to-stay-at-the-hotel.mp3"
                 },
                 {
                   "text": "They decided "
@@ -110,7 +110,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/he-wanted-never-to-go-into-that-house-again.mp3"
                 },
                 {
                   "text": "He wanted "
@@ -120,22 +120,6 @@
                 },
                 {
                   "text": " into that house again."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
-                },
-                {
-                  "text": "She was able "
-                },
-                {
-                  "markedText": "to wait patiently"
-                },
-                {
-                  "text": " outside for the store to open."
                 }
               ]
             }
@@ -156,6 +140,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/vocabulary/to-not-vs-not-to/to-not.mp3"
+                },
+                {
                   "text": "Use 'to not' before the verb for emphasis or to highlight the negative action, though it is less formal. This is okay in speech and informal writing."
                 }
               ],
@@ -172,7 +159,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/they-decided-not-to-stay-at-the-hotel.mp3"
                 },
                 {
                   "text": "They decided "
@@ -188,7 +175,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/it-can-be-difficult-to-not-go-back-for-a-second-piece-of-cake.mp3"
                 },
                 {
                   "text": "It can be difficult"
@@ -204,7 +191,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/jack-hoped-to-not-need-another-surgery.mp3"
                 },
                 {
                   "text": "Jack hoped "
@@ -221,7 +208,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/he-wanted-never-to-have-to-see-them-again.mp3"
                 },
                 {
                   "text": "He wanted "
@@ -237,27 +224,10 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
+                  "audioSrc": "/assets/audio/dictionary/he-didnt-want-to-have-to-see-them-again.mp3"
                 },
                 {
                   "text": "He didn’t want to have to see them again. (more natural)"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "audioSrc": "/assets/audio/extras/vocabulary/which-one/to-not-vs-not-to/.mp3"
-                },
-                {
-                  "text": "He wasn't able "
-                },
-                {
-                  "markedText": "to patiently sit"
-                },
-                {
-                  "text": " in the busy traffic without complaining."
                 }
               ]
             }
