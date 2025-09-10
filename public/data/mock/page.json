@@ -34,6 +34,11 @@
       "components": "wc-the-alphabet"
     },
     {
+      "hangman": {
+        "word": "test"
+      }
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Image"

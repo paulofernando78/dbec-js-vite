@@ -192,6 +192,12 @@ class Contents extends HTMLElement {
       //   contentContainer.appendChild(game);
       // }
 
+      if (section.hangman) {
+        const hang = document.createElement("wc-hangman");
+        hang.data = section.hangman
+        contentContainer.appendChild(hang);
+      }
+
       // Hr tag
       if (section.hr) {
         const hr = document.createElement("hr");

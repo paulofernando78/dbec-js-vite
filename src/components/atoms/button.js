@@ -1,4 +1,17 @@
-import { login, logout, menu, darkMode, lightMode, search, check, visibility, visibilityOff, reset, close, save } from "@images/svg-imports";
+import {
+  login,
+  logout,
+  menu,
+  darkMode,
+  lightMode,
+  search,
+  check,
+  visibility,
+  visibilityOff,
+  reset,
+  close,
+  save,
+} from "@images/svg-imports";
 
 const svgIcons = {
   login: login,
@@ -11,17 +24,15 @@ const svgIcons = {
   visibility: visibility,
   visibilityOff: visibilityOff,
   reset: reset,
-  close: close, save: save
+  close: close,
+  save: save,
 };
 
 class Button extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-    this.build();
-  }
 
-  build() {
     const css = document.createElement("style"); /*css*/
     css.textContent = `
       button {
@@ -56,11 +67,16 @@ class Button extends HTMLElement {
 
   connectedCallback() {
     const icon = this.getAttribute("data-icon");
+    const label = this.getAttribute("data-label");
+    const font = this.getAttribute("data-font")
+    this.button.textContent = label;
+    this.button.style.fontFamily = font
 
-    if (!svgIcons[icon]) {
-      throw new error(`Unknown icon: ${icon}`);
+    if (icon && svgIcons[icon]) {
+      this.button.innerHTML = svgIcons[icon];
+    } else if (label) {
+      this.button.textContent = label;
     }
-    this.button.innerHTML = svgIcons[icon];
 
     // blur
     this.button.addEventListener("blur", () => {
