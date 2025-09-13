@@ -36,8 +36,9 @@
     {
       "hangman": [
         {
-          "word": "javascript",
-          "imageSrc": "/assets/general"
+          "hint": "Test",
+          "imageSrc": "/assets/general",
+          "word": "apple"
         },
         {
           "word": ""
