@@ -4,9 +4,7 @@ class Image extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-  }
 
-  set data(img) {
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
     this.shadowRoot.appendChild(cssImports);
@@ -58,7 +56,9 @@ class Image extends HTMLElement {
   }
     `;
     this.shadowRoot.appendChild(css);
+  }
 
+  set data(img) {
     const wrapper = document.createElement("div");
     wrapper.classList.add("wrapper");
 

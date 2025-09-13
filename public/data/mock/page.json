@@ -34,16 +34,14 @@
       "components": "wc-the-alphabet"
     },
     {
-      "hangman": [
+      "hangman": 
         {
           "hint": "Test",
-          "imageSrc": "/assets/general",
+          "imageSrc": "/assets/images/general/cat-1.jpg",
+          "alt": "Alt",
           "word": "apple"
-        },
-        {
-          "word": ""
         }
-      ]
+  
     },
     {
       "ribbon": {

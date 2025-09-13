@@ -31,12 +31,26 @@ class Hangman extends HTMLElement {
         2px 2px 2px black
       }
 
+      .image-letters-wrapper {
+        display: grid;
+        grid-template-columns: auto auto 
+      }
+
+      // .image-letters-wrapper > * {
+      //   flex: 0 0 48%
+      // }
+
+      wc-image {
+        margin: 0 auto
+      }
+
       .letter-container {
         display: flex;
         flex-wrap: wrap;
-        justify-content: center
+        justify-content: center;
+        align-content: flex-start;
       }
-
+      
       .letter {
         padding: var(--padding);
       }
@@ -46,6 +60,17 @@ class Hangman extends HTMLElement {
         margin: 40px;
         font-family: "Slackey";
         font-size: 1.3rem;
+      }
+
+      @media (width <= 500px) {
+        .image-letters-wrapper {
+          display: grid;
+          grid-template-columns: 1fr
+        }
+
+        .letter-container {
+          margin-top: 40px
+        }
       }
     `;
     this.shadowRoot.appendChild(css);
@@ -60,9 +85,17 @@ class Hangman extends HTMLElement {
     title.textContent = "Guess Word!";
     container.appendChild(title);
 
+    const imageLettersWrapper = document.createElement("div");
+    imageLettersWrapper.classList.add("image-letters-wrapper");
+    container.appendChild(imageLettersWrapper);
+
+    const image = document.createElement("wc-image");
+    this.imageElement = image;
+    imageLettersWrapper.appendChild(image);
+
     const letterContainer = document.createElement("div");
     letterContainer.classList.add("letter-container");
-    container.appendChild(letterContainer);
+    imageLettersWrapper.appendChild(letterContainer);
 
     // Cria um array com as letras de A a Z para os botões
     const letters = Array.from({ length: 26 }, (_, i) => {
@@ -133,7 +166,7 @@ class Hangman extends HTMLElement {
 
     if (this.errors >= this.maxAttempts) {
       alert("Not this time. Try again.");
-      disabledAllLetters();
+      this.disabledAllLetters();
     }
 
     if (!this.guessed.includes("_")) {
@@ -148,13 +181,18 @@ class Hangman extends HTMLElement {
     });
   }
 
-  set data(value) {
-    // Extrai as palavras válidas do array de objetos recebidos
-    this.words = value.map((item) => item.word).filter(Boolean);
-    if (!this.words.length) return;
+  set data(item) {
+    if (!item || !item.word) return;
 
-    // Define a palavra atual em maiúsculas
-    this.currentWord = this.words[0].toUpperCase();
+    if (item.imageSrc && this.imageElement) {
+      this.imageElement.data = {
+        src: item.imageSrc,
+        width: item.width,
+        alt: item.alt || "Hangman image",
+      };
+    }
+
+    this.currentWord = item.word.toUpperCase();
 
     this.maxAttempts = Math.min(Math.max(this.currentWord.length * 2, 6), 15);
     this.errors = 0;
