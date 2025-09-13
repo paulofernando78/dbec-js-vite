@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "wear many hats",
+        "phonetics": "/wɛr ˈmɛni hæts/",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to have many different roles or responsibilities, especially within a job or organization",
+        "ptDefinition": "ter muitas funções ou responsabilidades diferentes, especialmente em um trabalho ou organização",
+        "examples": [
+          {
+        "enExample": "In a small company, employees often have to wear many hats.",
+        "ptExample": "Em uma empresa pequena, os funcionários frequentemente precisam desempenhar várias funções."
+          },
+          {
+        "enExample": "As a parent, she wears many hats: chef, teacher, nurse, and more.",
+        "ptExample": "Como mãe, ela exerce muitos papéis: cozinheira, professora, enfermeira e outros."
+          }
+        ],
+        "synonyms": ["multitask", "juggle roles", "be versatile"],
+        "antonyms": ["specialize", "focus on one role"],
+        "seeAlso": ["jack of all trades", "multitasking", "versatile"],
+        "notes": [
+          {
+        "enNote": "This idiom is commonly used in workplaces or situations where people must handle a variety of tasks.",
+        "ptNote": "Este idiom é comumente usado em ambientes de trabalho ou situações em que as pessoas precisam lidar com várias tarefas."
+          }
+        ]
+      },
+      {
         "word": "wolf in sheep’s clothing",
         "phonetics": "/wʊlf ɪn ʃiːps ˈkloʊðɪŋ/",
         "partOfSpeech": "idiom",
