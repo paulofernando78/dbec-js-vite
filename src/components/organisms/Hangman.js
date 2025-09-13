@@ -12,19 +12,23 @@ class Hangman extends HTMLElement {
     const css = document.createElement("style");
     /*css*/
     css.textContent = `
-    .container {
+      .container {
         display: flex;
         flex-direction: column;
         align-items: center;
       }  
     
-    .title {
+      .title {
         display: block;
         margin-bottom: var(--margin-bottom);
         font-family: "Slackey";
         font-size: 2rem;
         text-align: center;
-        margin: 30px
+        margin: 30px;
+        color: black;
+        text-shadow:
+        2px 2px 2px white,
+        2px 2px 2px black
       }
 
       .letter-container {
