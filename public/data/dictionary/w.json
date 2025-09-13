@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "wolf in sheep’s clothing",
+        "phonetics": "/wʊlf ɪn ʃiːps ˈkloʊðɪŋ/",
+        "partOfSpeech": "idiom",
+        "enDefinition": "someone who hides malicious intent under a harmless or innocent appearance; a person who pretends to be kind or trustworthy but is actually dangerous or deceitful",
+        "ptDefinition": "alguém que esconde intenções maliciosas sob uma aparência inocente ou inofensiva; pessoa que finge ser gentil ou confiável, mas na verdade é perigosa ou enganadora",
+        "examples": [
+          {
+        "enExample": "He seemed friendly, but turned out to be a wolf in sheep’s clothing.",
+        "ptExample": "Ele parecia amigável, mas acabou sendo um lobo em pele de cordeiro."
+          },
+          {
+        "enExample": "Beware of wolves in sheep’s clothing when making business deals.",
+        "ptExample": "Cuidado com lobos em pele de cordeiro ao fazer negócios."
+          }
+        ],
+        "synonyms": ["deceiver", "impostor", "pretender", "fraud"],
+        "antonyms": ["honest person", "straightforward", "genuine"],
+        "seeAlso": ["snake in the grass", "double-faced", "two-faced"],
+        "notes": [
+          {
+        "enNote": "This idiom comes from an ancient fable and is often used to warn against people who are not what they seem.",
+        "ptNote": "Este idiom vem de uma fábula antiga e é frequentemente usado para alertar contra pessoas que não são o que parecem."
+          }
+        ]
+      },
+      {
         "word": "patch",
         "phonetics": "/pætʃ/",
         "partOfSpeech": "noun / verb",

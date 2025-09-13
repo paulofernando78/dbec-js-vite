@@ -2,6 +2,58 @@
   {
     "definitions": [
       {
+        "word": "prince",
+        "phonetics": "/prɪns/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a male member of a royal family, especially the son of a king or queen; sometimes used for a ruler of a small state or territory",
+        "ptDefinition": "um membro masculino da família real, especialmente o filho de um rei ou rainha; às vezes usado para o governante de um pequeno estado ou território",
+        "examples": [
+          {
+        "enExample": "The prince will inherit the throne after the king.",
+        "ptExample": "O príncipe herdará o trono após o rei."
+          },
+          {
+        "enExample": "She married a prince from a distant country.",
+        "ptExample": "Ela se casou com um príncipe de um país distante."
+          }
+        ],
+        "synonyms": ["royal", "heir", "nobleman"],
+        "antonyms": ["commoner", "subject"],
+        "seeAlso": ["princess", "king", "queen", "duke"],
+        "notes": [
+          {
+        "enNote": "The title 'prince' is used in various cultures and may have different meanings depending on the country.",
+        "ptNote": "O título 'príncipe' é usado em várias culturas e pode ter significados diferentes dependendo do país."
+          }
+        ]
+      },
+      {
+        "word": "perhaps",
+        "phonetics": "/pɚˈhæps/",
+        "partOfSpeech": "adverb",
+        "enDefinition": "used to express uncertainty or possibility; maybe",
+        "ptDefinition": "usado para expressar incerteza ou possibilidade; talvez",
+        "examples": [
+          {
+        "enExample": "Perhaps we should try a different approach.",
+        "ptExample": "Talvez devêssemos tentar uma abordagem diferente."
+          },
+          {
+        "enExample": "She will come to the party, perhaps.",
+        "ptExample": "Ela talvez venha à festa."
+          }
+        ],
+        "synonyms": ["maybe", "possibly", "conceivably"],
+        "antonyms": ["certainly", "definitely"],
+        "seeAlso": ["maybe", "possibly", "might"],
+        "notes": [
+          {
+        "enNote": "‘Perhaps’ is more formal than ‘maybe’ and often used in written or polite speech.",
+        "ptNote": "‘Perhaps’ é mais formal que ‘maybe’ e frequentemente usado em linguagem escrita ou educada."
+          }
+        ]
+      },
+      {
         "word": "peel",
         "phonetics": "/piːl/",
         "partOfSpeech": "verb, noun",

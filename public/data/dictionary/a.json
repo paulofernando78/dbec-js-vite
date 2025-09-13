@@ -2,6 +2,150 @@
   {
     "definitions": [
       {
+        "word": "bulk",
+        "phonetics": "/bʌlk/",
+        "partOfSpeech": "noun",
+        "enDefinition": "The mass or size of something large; the majority or greater part of something.",
+        "ptDefinition": "Volume ou tamanho de algo grande; a maior parte ou maioria de algo.",
+        "examples": [
+          {
+        "enExample": "The bulk of the shipment arrived on time.",
+        "ptExample": "A maior parte da remessa chegou no prazo."
+          },
+          {
+        "enExample": "Buying in bulk is usually cheaper.",
+        "ptExample": "Comprar em grande quantidade geralmente é mais barato."
+          }
+        ],
+        "synonyms": ["majority", "mass", "volume", "main part"],
+        "antonyms": ["minority", "small portion"],
+        "seeAlso": ["mass", "majority", "wholesale"],
+        "notes": [
+          {
+        "enNote": "Often used in contexts involving large quantities or sizes, such as bulk buying or bulk materials.",
+        "ptNote": "Frequentemente usado em contextos envolvendo grandes quantidades ou tamanhos, como compra em grande quantidade ou materiais a granel."
+          }
+        ]
+      },
+      {
+        "word": "bow",
+        "phonetics": "/boʊ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A weapon for shooting arrows, or a decorative knot made with ribbon.",
+        "ptDefinition": "Arma usada para atirar flechas, ou um laço decorativo feito com fita.",
+        "examples": [
+          {
+            "enExample": "Robin Hood drew his bow and shot an arrow.",
+            "ptExample": "Robin Hood puxou seu arco e atirou uma flecha."
+          },
+          {
+            "enExample": "She tied her hair with a red bow.",
+            "ptExample": "Ela prendeu o cabelo com um laço vermelho."
+          }
+        ],
+        "synonyms": "weapon, ribbon, knot",
+        "seeAlso": "arrow, ribbon"
+      },
+      {
+        "word": "bow",
+        "phonetics": "/baʊ/",
+        "partOfSpeech": "verb, noun",
+        "enDefinition": "To bend the upper part of the body forward as a sign of respect, greeting, or thanks.",
+        "ptDefinition": "Inclinar a parte superior do corpo para frente como sinal de respeito, cumprimento ou agradecimento.",
+        "examples": [
+          {
+            "enExample": "The actors took a bow after the play.",
+            "ptExample": "Os atores fizeram uma reverência após a peça."
+          },
+          {
+            "enExample": "She bowed politely before leaving the room.",
+            "ptExample": "Ela se curvou educadamente antes de sair da sala."
+          }
+        ],
+        "synonyms": "reverence, salute",
+        "seeAlso": "respect, greet",
+        "notes": [
+          {
+            "enNote": "Bowing is especially common in Japan and Korea as a form of greeting and respect.",
+            "ptNote": "Curvar-se é especialmente comum no Japão e na Coreia como forma de cumprimento e respeito."
+          }
+        ]
+      },
+      {
+        "word": "arrow",
+        "phonetics": "/ˈær.oʊ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A thin, straight stick with a pointed end and feathers at the other, shot from a bow as a weapon or for sport.",
+        "ptDefinition": "Uma haste fina e reta com uma ponta afiada e penas na outra extremidade, lançada por um arco como arma ou para esporte.",
+        "examples": [
+          {
+            "enExample": "The archer released the arrow and hit the target.",
+            "ptExample": "O arqueiro lançou a flecha e acertou o alvo."
+          },
+          {
+            "enExample": "She found an old arrow in the forest.",
+            "ptExample": "Ela encontrou uma flecha antiga na floresta."
+          }
+        ],
+        "synonyms": ["dart", "shaft", "projectile"],
+        "antonyms": [],
+        "seeAlso": ["bow", "archery", "quiver"],
+        "notes": [
+          {
+            "enNote": "Arrows have been used for hunting and warfare since ancient times.",
+            "ptNote": "Flechas são usadas para caça e guerra desde os tempos antigos."
+          }
+        ]
+      },
+      {
+        "word": "abbot",
+        "phonetics": "/ˈæbət/",
+        "partOfSpeech": "noun",
+        "enDefinition": "The head of a monastery for men, responsible for overseeing the monks and managing the community.",
+        "ptDefinition": "O superior de um mosteiro masculino, responsável por supervisionar os monges e administrar a comunidade.",
+        "examples": [
+          {
+            "enExample": "The abbot of the monastery led the morning prayers.",
+            "ptExample": "O abade do mosteiro conduziu as orações matinais."
+          }
+        ],
+        "synonyms": "prior, monk, father, superior",
+        "antonyms": "layman, secular person",
+        "seeAlso": "monastery, monk, prior",
+        "notes": [
+          {
+            "enNote": "The word 'abbot' comes from the Aramaic 'abba', meaning 'father'.",
+            "ptNote": "A palavra 'abade' vem do aramaico 'abba', que significa 'pai'."
+          }
+        ]
+      },
+      {
+        "word": "abbey",
+        "phonetics": "/ˈæb.i/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A building or complex where monks or nuns live, work, and worship, typically under the leadership of an abbot or abbess.",
+        "ptDefinition": "Um edifício ou complexo onde monges ou freiras vivem, trabalham e praticam cultos, geralmente sob a liderança de um abade ou abadessa.",
+        "examples": [
+          {
+            "enExample": "The ancient abbey attracts thousands of visitors every year.",
+            "ptExample": "A antiga abadia atrai milhares de visitantes todos os anos."
+          },
+          {
+            "enExample": "She decided to visit the abbey during her trip to England.",
+            "ptExample": "Ela decidiu visitar a abadia durante sua viagem à Inglaterra."
+          }
+        ],
+        "synonyms": ["monastery", "convent", "priory"],
+        "antonyms": ["secular building", "private residence"],
+        "seeAlso": ["abbot", "monastery", "convent"],
+        "notes": [
+          {
+            "enNote": "Abbeys are often historic sites and may serve as tourist attractions or places of worship.",
+            "ptNote": "Abadias geralmente são locais históricos e podem servir como atrações turísticas ou locais de culto."
+          }
+        ]
+      },
+      {
         "word": "awhile",
         "phonetics": "/əˈwaɪl/",
         "partOfSpeech": "adverb",

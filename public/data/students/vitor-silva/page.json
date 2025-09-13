@@ -753,7 +753,7 @@
                     {
                       "status": "R",
                       "date": "Tue 2",
-                      "classNotes": "Class moved to Fri Sept 5",
+                      "classNotes": "Class moved to Fri 12",
                       "homeWorkNotes": ""
                     }
                   ]
@@ -761,7 +761,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "R",
                       "date": "Thu 4",
                       "classNotes": "",
                       "homeWorkNotes": ""
@@ -771,7 +771,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "R",
                       "date": "Tue 9",
                       "classNotes": "",
                       "homeWorkNotes": ""
@@ -781,9 +781,9 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Thu 11",
-                      "classNotes": "",
+                      "classNotes": "Marcel and the Mona Lisa Chapters 1-7",
                       "homeWorkNotes": ""
                     }
                   ]

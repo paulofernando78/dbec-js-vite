@@ -34,9 +34,15 @@
       "components": "wc-the-alphabet"
     },
     {
-      "hangman": {
-        "word": "test"
-      }
+      "hangman": [
+        {
+          "word": "javascript",
+          "imageSrc": "/assets/general"
+        },
+        {
+          "word": ""
+        }
+      ]
     },
     {
       "ribbon": {

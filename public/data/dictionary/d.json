@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "deer",
+        "phonetics": "/dɪr/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a graceful, hoofed, grazing animal with antlers, commonly found in forests and grasslands",
+        "ptDefinition": "animal herbívoro de casco, geralmente encontrado em florestas e campos, conhecido por seus chifres (galhadas)",
+        "examples": [
+          {
+        "enExample": "A deer crossed the road in front of our car.",
+        "ptExample": "Um cervo atravessou a estrada na frente do nosso carro."
+          },
+          {
+        "enExample": "Male deer are called stags or bucks and usually have antlers.",
+        "ptExample": "Os cervos machos são chamados de veados e geralmente têm galhadas."
+          }
+        ],
+        "synonyms": ["stag", "buck", "doe (female)", "fawn (young)"],
+        "antonyms": [],
+        "seeAlso": ["elk", "moose", "antelope"],
+        "notes": [
+          {
+        "enNote": "The word 'deer' is both singular and plural (one deer, many deer).",
+        "ptNote": "A palavra 'deer' é usada tanto no singular quanto no plural em inglês."
+          }
+        ]
+      },
+      {
         "word": "deal",
         "phonetics": "/diːl/",
         "partOfSpeech": "noun / verb",

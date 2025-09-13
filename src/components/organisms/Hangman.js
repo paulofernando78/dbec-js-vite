@@ -12,7 +12,13 @@ class Hangman extends HTMLElement {
     const css = document.createElement("style");
     /*css*/
     css.textContent = `
-      .title {
+    .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }  
+    
+    .title {
         display: block;
         margin-bottom: var(--margin-bottom);
         font-family: "Slackey";
@@ -30,10 +36,18 @@ class Hangman extends HTMLElement {
       .letter {
         padding: var(--padding);
       }
+
+      .answer {
+        display: block;
+        margin: 20px;
+        font-family: "Slackey";
+        font-size: 1.5rem;
+      }
     `;
     this.shadowRoot.appendChild(css);
 
     const container = document.createElement("div");
+    container.classList.add("container");
     container.classList.add("card");
     this.shadowRoot.appendChild(container);
 
@@ -46,20 +60,33 @@ class Hangman extends HTMLElement {
     letterContainer.classList.add("letter-container");
     container.appendChild(letterContainer);
 
-    const letters = Array.from({ length: 26 }, (_, i) =>
-      String.fromCharCode(65 + i)
-    );
+    const letters = Array.from({ length: 26 }, (_, i) => {
+      return String.fromCharCode(65 + i);
+    });
 
     letters.forEach((ch) => {
       const letter = document.createElement("wc-button");
       letter.classList.add("letter");
       letter.setAttribute("data-label", ch);
-      letter.setAttribute("data-font", "Slackey")
+      letter.setAttribute("data-font", "Slackey");
       letterContainer.appendChild(letter);
     });
 
     const answer = document.createElement("span");
-    this.shadowRoot.appendChild(answer);
+    answer.classList.add("answer");
+    container.appendChild(answer);
+    this.answer = answer;
+  }
+
+  set data(value) {
+    this.words = value.map((item) => item.word).filter(Boolean);
+    if (!this.words.length) return;
+
+    this.currentWord = this.words[0].toUpperCase();
+
+    this.guessed = Array(this.currentWord.length).fill("_");
+
+    this.answer.textContent = this.guessed.join(" ");
   }
 }
 

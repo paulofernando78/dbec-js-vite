@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "king",
+        "phonetics": "/kɪŋ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a male ruler of a country, especially one who inherits the position by birth",
+        "ptDefinition": "um governante masculino de um país, especialmente aquele que herda a posição por nascimento",
+        "examples": [
+          {
+        "enExample": "The king addressed his subjects from the palace balcony.",
+        "ptExample": "O rei falou aos seus súditos da varanda do palácio."
+          },
+          {
+        "enExample": "He was crowned king after his father's death.",
+        "ptExample": "Ele foi coroado rei após a morte de seu pai."
+          }
+        ],
+        "synonyms": ["monarch", "sovereign", "ruler"],
+        "antonyms": ["queen", "subject", "commoner"],
+        "seeAlso": ["queen", "monarchy", "emperor"],
+        "notes": [
+          {
+        "enNote": "In chess, the king is the most important piece but the weakest in terms of movement.",
+        "ptNote": "No xadrez, o rei é a peça mais importante, mas a mais fraca em termos de movimento."
+          }
+        ]
+      },
+      {
         "word": "know",
         "phonetics": "/noʊ/",
         "partOfSpeech": "irregular verb (past: knew / participle: known)",

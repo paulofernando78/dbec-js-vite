@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "gush",
+        "phonetics": "/ɡʌʃ/",
+        "partOfSpeech": "verb / noun",
+        "enDefinition": "Verb: to flow out suddenly and in large amounts; to express feelings or praise in an enthusiastic or excessive way. Noun: a sudden, rapid flow or outpouring.",
+        "ptDefinition": "Verbo: jorrar ou fluir repentinamente em grande quantidade; expressar sentimentos ou elogios de forma entusiasmada ou exagerada. Substantivo: um fluxo ou jorro repentino.",
+        "examples": [
+          {
+        "enExample": "Water gushed from the broken pipe, flooding the basement.",
+        "ptExample": "A água jorrou do cano quebrado, inundando o porão."
+          },
+          {
+        "enExample": "She gushed about her new job to everyone she met.",
+        "ptExample": "Ela falou entusiasmada sobre o novo emprego para todos que encontrava."
+          }
+        ],
+        "synonyms": "spurt, stream, pour, rave, enthuse",
+        "antonyms": "dribble, trickle, restrain, understate",
+        "seeAlso": "burst, overflow, effuse",
+        "notes": [
+          {
+        "enNote": "Often used for liquids or for people expressing strong emotions or praise.",
+        "ptNote": "Frequentemente usado para líquidos ou para pessoas que expressam emoções ou elogios intensos."
+          }
+        ]
+      },
+      {
         "word": "grasp",
         "phonetics": "/ɡræsp/",
         "partOfSpeech": "verb / noun",

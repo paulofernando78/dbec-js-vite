@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "land",
+        "phonetics": "/lænd/",
+        "partOfSpeech": "noun, verb",
+        "enDefinition": "noun: the solid part of the earth's surface; verb: to arrive on the ground, especially after moving through air or water",
+        "ptDefinition": "substantivo: a parte sólida da superfície da Terra; verbo: chegar ao solo, especialmente após se mover pelo ar ou pela água",
+        "examples": [
+          {
+        "enExample": "The plane will land in Paris at 8 a.m.",
+        "ptExample": "O avião vai aterrissar em Paris às 8h."
+          },
+          {
+        "enExample": "They bought a piece of land to build their house.",
+        "ptExample": "Eles compraram um terreno para construir a casa."
+          }
+        ],
+        "synonyms": ["ground", "soil", "earth", "touch down", "arrive"],
+        "antonyms": ["sea", "water", "take off", "depart"],
+        "seeAlso": ["terrain", "territory", "property", "touch down"],
+        "notes": [
+          {
+        "enNote": "As a verb, 'land' is often used in aviation and travel. As a noun, it refers to physical ground or property.",
+        "ptNote": "Como verbo, 'land' é frequentemente usado em aviação e viagens. Como substantivo, refere-se ao solo físico ou propriedade."
+          }
+        ]
+      },
+      {
         "word": "lose one’s shirt",
         "partOfSpeech": "idiom",
         "enDefinition": "to lose a large amount of money, especially through bad investments or business deals",

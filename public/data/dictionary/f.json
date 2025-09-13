@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "forest",
+        "phonetics": "/ˈfɔːr.ɪst/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A large area covered chiefly with trees and undergrowth.",
+        "ptDefinition": "Uma grande área coberta principalmente por árvores e vegetação rasteira; floresta.",
+        "examples": [
+          {
+        "enExample": "The forest is home to many wild animals.",
+        "ptExample": "A floresta é o lar de muitos animais selvagens."
+          },
+          {
+        "enExample": "They went hiking in the forest last weekend.",
+        "ptExample": "Eles fizeram uma caminhada na floresta no último fim de semana."
+          }
+        ],
+        "synonyms": "woods, woodland, jungle",
+        "antonyms": "desert, plain",
+        "seeAlso": "rainforest, woodland",
+        "notes": [
+          {
+        "enNote": "Forests play a crucial role in maintaining ecological balance and providing resources.",
+        "ptNote": "As florestas desempenham um papel crucial na manutenção do equilíbrio ecológico e fornecimento de recursos."
+          }
+        ]
+      },
+      {
         "word": "feather",
         "phonetics": "/ˈfeð.ɚ/",
         "partOfSpeech": "noun",

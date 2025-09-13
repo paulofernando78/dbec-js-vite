@@ -376,7 +376,7 @@
                       "correctAnswer": ["smiles"]
                     },
                     {
-                      "text": "and picks up",
+                      "text": "and",
                       "correctAnswer": ["picks up"]
                     },
                     {
@@ -403,7 +403,11 @@
                       "correctAnswer": ["begins"]
                     },
                     {
-                      "text": "to look in all his pockets."
+                      "text": "to",
+                      "correctAnswer": ["look in"]
+                    },
+                    {
+                      "text": "in all his pockets."
                     }
                   ]
                 },
@@ -481,7 +485,11 @@
                       "correctAnswer": ["starts"]
                     },
                     {
-                      "text": "to move."
+                      "text": "to",
+                      "correctAnswer": ["move"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },

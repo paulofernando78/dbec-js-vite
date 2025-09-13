@@ -2,27 +2,109 @@
   {
     "definitions": [
       {
+        "word": "sword",
+        "phonetics": "/sɔːrd/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a weapon with a long metal blade and a handle, used for cutting or thrusting; historically used in combat or as a symbol of power",
+        "ptDefinition": "arma com uma lâmina longa de metal e um cabo, usada para cortar ou perfurar; historicamente usada em combate ou como símbolo de poder",
+        "examples": [
+          {
+        "enExample": "The knight drew his sword and prepared for battle.",
+        "ptExample": "O cavaleiro sacou sua espada e se preparou para a batalha."
+          },
+          {
+        "enExample": "The sword is often seen as a symbol of bravery.",
+        "ptExample": "A espada é frequentemente vista como símbolo de bravura."
+          }
+        ],
+        "synonyms": ["blade", "saber", "cutlass", "rapier"],
+        "antonyms": ["shield", "armor"],
+        "seeAlso": ["dagger", "knife", "weapon"],
+        "notes": [
+          {
+        "enNote": "Swords have been used throughout history in warfare, ceremonies, and as symbols of honor.",
+        "ptNote": "Espadas foram usadas ao longo da história em guerras, cerimônias e como símbolos de honra."
+          }
+        ]
+      },
+      {
+        "word": "staff",
+        "phonetics": "/stæf/",
+        "partOfSpeech": "noun",
+        "enDefinition": "1) A long stick or rod carried for support, walking, or as a symbol of authority. 2) A group of people employed by an organization, company, or person.",
+        "ptDefinition": "1) Cajado, bastão usado para apoio, caminhada ou como símbolo de autoridade. 2) Equipe de trabalho, conjunto de funcionários de uma organização, empresa ou pessoa.",
+        "examples": [
+          {
+            "enExample": "The friar walked with a heavy wooden staff.",
+            "ptExample": "O frade andava com um pesado cajado de madeira."
+          },
+          {
+            "enExample": "The hospital staff worked late to help all the patients.",
+            "ptExample": "A equipe do hospital trabalhou até tarde para ajudar todos os pacientes."
+          }
+        ],
+        "synonyms": "1) stick, rod; 2) employees, team, crew",
+        "antonyms": "employers (for sense 2)",
+        "seeAlso": "crew, employees, stick, rod",
+        "notes": [
+          {
+            "enNote": "Staff can mean either a physical object (a stick or rod) or a group of workers in an organization. Context makes the meaning clear.",
+            "ptNote": "Staff pode significar tanto um objeto físico (cajado ou bastão) quanto um grupo de trabalhadores de uma organização. O contexto indica o sentido correto."
+          }
+        ]
+      },
+      {
+        "word": "sheriff",
+        "phonetics": "/ˈʃer.ɪf/",
+        "partOfSpeech": "noun",
+        "enDefinition": "an elected or appointed official in charge of enforcing the law in a county or region, especially in the United States; often responsible for policing rural areas, managing the county jail, and serving legal documents",
+        "ptDefinition": "oficial eleito ou nomeado responsável pela aplicação da lei em um condado ou região, especialmente nos Estados Unidos; geralmente responsável pela polícia em áreas rurais, administração da cadeia do condado e entrega de documentos legais",
+        "examples": [
+          {
+            "enExample": "The sheriff investigated the robbery at the local store.",
+            "ptExample": "O xerife investigou o roubo na loja local."
+          },
+          {
+            "enExample": "She was elected sheriff of the county last year.",
+            "ptExample": "Ela foi eleita xerife do condado no ano passado."
+          }
+        ],
+        "synonyms": ["law enforcement officer", "marshal", "constable"],
+        "antonyms": ["civilian", "outlaw"],
+        "seeAlso": ["deputy", "police", "marshal"],
+        "notes": [
+          {
+            "enNote": "The role and powers of a sheriff vary by country and region; in the US, sheriffs are often elected and have broad law enforcement duties.",
+            "ptNote": "O papel e os poderes de um xerife variam conforme o país e a região; nos EUA, xerifes geralmente são eleitos e têm funções amplas de aplicação da lei."
+          }
+        ]
+      },
+      {
         "word": "one’s work has slipped",
         "partOfSpeech": "idiom",
         "enDefinition": "used to describe a situation where the quality or quantity of someone's work has declined, often due to distraction, stress, or other issues",
         "ptDefinition": "usado para descrever quando a qualidade ou quantidade do trabalho de alguém diminuiu, geralmente por distração, estresse ou outros motivos",
         "examples": [
           {
-        "enExample": "Since the pandemic started, many people feel their work has slipped.",
-        "ptExample": "Desde que a pandemia começou, muitas pessoas sentem que seu trabalho piorou."
+            "enExample": "Since the pandemic started, many people feel their work has slipped.",
+            "ptExample": "Desde que a pandemia começou, muitas pessoas sentem que seu trabalho piorou."
           },
           {
-        "enExample": "Her manager noticed that her work had slipped after she took on extra responsibilities.",
-        "ptExample": "O gerente percebeu que o trabalho dela piorou depois que ela assumiu mais responsabilidades."
+            "enExample": "Her manager noticed that her work had slipped after she took on extra responsibilities.",
+            "ptExample": "O gerente percebeu que o trabalho dela piorou depois que ela assumiu mais responsabilidades."
           }
         ],
-        "synonyms": ["decline in performance", "fall behind", "drop in quality"],
+        "synonyms": [
+          "decline in performance",
+          "fall behind",
+          "drop in quality"
+        ],
         "antonyms": ["improve", "excel", "maintain standards"],
         "seeAlso": ["slip one's mind", "fall short", "underperform"],
         "notes": [
           {
-        "enNote": "Often used in professional contexts to discuss a decrease in productivity or attention to detail.",
-        "ptNote": "Frequentemente usado em contextos profissionais para falar sobre queda de produtividade ou atenção aos detalhes."
+            "enNote": "Often used in professional contexts to discuss a decrease in productivity or attention to detail.",
+            "ptNote": "Frequentemente usado em contextos profissionais para falar sobre queda de produtividade ou atenção aos detalhes."
           }
         ]
       },
