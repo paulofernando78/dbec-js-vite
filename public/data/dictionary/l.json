@@ -2,6 +2,36 @@
   {
     "definitions": [
       {
+        "word": "let go",
+        "phonetics": "/let ɡoʊ/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to release or stop holding something; to stop thinking about or worrying over something; to dismiss someone from a job",
+        "ptDefinition": "soltar ou deixar de segurar algo; parar de pensar ou se preocupar com algo; demitir alguém de um emprego",
+        "examples": [
+          {
+        "enExample": "She let go of the rope and fell into the water.",
+        "ptExample": "Ela soltou a corda e caiu na água."
+          },
+          {
+        "enExample": "You need to let go of your anger to move on.",
+        "ptExample": "Você precisa deixar de lado sua raiva para seguir em frente."
+          },
+          {
+        "enExample": "The company had to let go several employees due to budget cuts.",
+        "ptExample": "A empresa teve que demitir vários funcionários devido a cortes no orçamento."
+          }
+        ],
+        "synonyms": ["release", "free", "dismiss", "give up", "move on"],
+        "antonyms": ["hold on", "retain", "keep", "cling to"],
+        "seeAlso": ["move on", "set free", "dismiss"],
+        "notes": [
+          {
+        "enNote": "Can be used literally (physically releasing something) or figuratively (emotionally or professionally).",
+        "ptNote": "Pode ser usado de forma literal (soltar fisicamente algo) ou figurada (emocionalmente ou profissionalmente)."
+          }
+        ]
+      },
+      {
         "word": "land",
         "phonetics": "/lænd/",
         "partOfSpeech": "noun, verb",
