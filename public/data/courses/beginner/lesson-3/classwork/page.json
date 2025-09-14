@@ -22,6 +22,38 @@
         "bgColor": "black",
         "textColor": "white",
         "icon": "snippet",
+        "label": "Warm-Up"
+      }
+    },
+    {
+      "hangman": [
+        {
+          "imageSrc": "/assets/images/general/names.avif",
+          "alt": "",
+          "word": "names"
+        },
+        {
+          "imageSrc": "/assets/images/general/nicknames.avif",
+          "alt": "",
+          "word": "nicknames"
+        },
+        {
+          "imageSrc": "/assets/images/general/nicknames.avif",
+          "alt": "",
+          "word": "alphabet"
+        },
+        {
+          "imageSrc": "/assets/images/general/nicknames.avif",
+          "alt": "",
+          "word": "titles"
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
         "label": "Introduction"
       }
     },

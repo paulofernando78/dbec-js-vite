@@ -31,6 +31,13 @@ class Hangman extends HTMLElement {
         2px 2px 2px black
       }
 
+      .attempt-words {
+        display: block;
+        font-family: "Slackey";
+        font-size: 1rem;
+        text-align: center;
+      }
+
       .image-letters-wrapper {
         display: grid;
         grid-template-columns: auto auto 
@@ -60,7 +67,7 @@ class Hangman extends HTMLElement {
       }
 
       .attempts {
-        width: 30px;
+        width: 25px;
       }
 
       .word-display {
@@ -95,6 +102,12 @@ class Hangman extends HTMLElement {
     title.textContent = "Guess Word!";
     container.appendChild(title);
 
+    const attemptWords = document.createElement("span");
+    attemptWords.classList.add("attempt-words");
+    attemptWords.textContent = "";
+    container.appendChild(attemptWords);
+    this.attemptWords = attemptWords
+
     const imageLettersWrapper = document.createElement("div");
     imageLettersWrapper.classList.add("image-letters-wrapper");
     container.appendChild(imageLettersWrapper);
@@ -102,9 +115,6 @@ class Hangman extends HTMLElement {
     const image = document.createElement("wc-image");
     this.imageElement = image;
     imageLettersWrapper.appendChild(image);
-
-    const hint = document.createElement("p");
-    this.shadowRoot.appendChild(hint);
 
     this.letterContainer = document.createElement("div");
     this.letterContainer.classList.add("letter-container");
@@ -259,6 +269,10 @@ class Hangman extends HTMLElement {
       const btn = letter.shadowRoot.querySelector("button");
       btn.disabled = false;
     });
+
+    if (this.attemptWords) {
+      this.attemptWords.textContent = `Words: ${this.currentWordIndex + 1} / ${this.wordsArray.length}`;
+    }
   }
 
   set data(items) {
