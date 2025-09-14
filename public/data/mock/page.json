@@ -36,9 +36,9 @@
     {
       "hangman": 
         {
-          "hint": "Test",
           "imageSrc": "/assets/images/general/cat-1.jpg",
           "alt": "Alt",
+          "hint": "It's an animal.",
           "word": "apple"
         }
   

@@ -16,15 +16,15 @@ class Hangman extends HTMLElement {
         display: flex;
         flex-direction: column;
         align-items: center;
+        gap: 30px
       }  
     
       .title {
         display: block;
-        margin-bottom: var(--margin-bottom);
         font-family: "Slackey";
         font-size: 2rem;
         text-align: center;
-        margin: 30px;
+        margin-top: 23px;
         color: black;
         text-shadow:
         2px 2px 2px white,
@@ -35,10 +35,6 @@ class Hangman extends HTMLElement {
         display: grid;
         grid-template-columns: auto auto 
       }
-
-      // .image-letters-wrapper > * {
-      //   flex: 0 0 48%
-      // }
 
       wc-image {
         margin: 0 auto
@@ -55,12 +51,24 @@ class Hangman extends HTMLElement {
         padding: var(--padding);
       }
 
+      .attempts-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 4px;
+        margin-inline: 50px
+      }
+
+      .attempts {
+        width: 30px;
+      }
+
       .word-display {
         display: block;
-        margin: 40px;
         font-family: "Slackey";
         font-size: 1.3rem;
       }
+
 
       @media (width <= 500px) {
         .image-letters-wrapper {
@@ -93,6 +101,9 @@ class Hangman extends HTMLElement {
     this.imageElement = image;
     imageLettersWrapper.appendChild(image);
 
+    const hint = document.createElement("p");
+    this.shadowRoot.appendChild(hint);
+
     const letterContainer = document.createElement("div");
     letterContainer.classList.add("letter-container");
     imageLettersWrapper.appendChild(letterContainer);
@@ -119,6 +130,11 @@ class Hangman extends HTMLElement {
       letterContainer.appendChild(letter);
     });
 
+    const attempts = document.createElement("div");
+    attempts.classList.add("attempts-container");
+    container.appendChild(attempts);
+    this.attemptsElement = attempts;
+
     const wordDisplay = document.createElement("span");
     wordDisplay.classList.add("word-display");
     container.appendChild(wordDisplay);
@@ -129,6 +145,7 @@ class Hangman extends HTMLElement {
     reset.addEventListener("click", () => {
       // Reset erros
       this.errors = 0;
+      this.renderAttempts();
 
       // Reset as letras adivinhadas
       this.guessed = Array(this.currentWord.length).fill("_");
@@ -137,12 +154,28 @@ class Hangman extends HTMLElement {
       this.wordDisplay.textContent = this.guessed.join(" ");
 
       // Habilita novamente todos os buttons de letras
-      const letters = this.shadowRoot.querySelectorAll("wc-button");
+      const letters = this.shadowRoot.querySelectorAll("wc-button.letter");
       letters.forEach((letter) => {
         letter.shadowRoot.querySelector("button").disabled = false;
       });
     });
     container.appendChild(reset);
+  }
+
+  renderAttempts() {
+    if (!this.attemptsElement) return;
+
+    this.attemptsElement.innerHTML = "";
+
+    for (let i = 0; i < this.maxAttempts; i++) {
+      const heart = document.createElement("img");
+      heart.classList.add("attempts")
+      heart.src =
+        i < this.maxAttempts - this.errors
+          ? "/assets/images/general/pixel-heart-red.avif"
+          : "/assets/images/general/pixel-heart-white.avif";
+      this.attemptsElement.appendChild(heart);
+    }
   }
 
   // Método chamado quando o usuário tenta adivinhar uma letra
@@ -159,6 +192,7 @@ class Hangman extends HTMLElement {
 
     if (!correct) {
       this.errors++;
+      this.renderAttempts();
     }
 
     // Atualiza a exibição da palavra com as letras adivinhadas e underscores
@@ -193,9 +227,9 @@ class Hangman extends HTMLElement {
     }
 
     this.currentWord = item.word.toUpperCase();
-
-    this.maxAttempts = Math.min(Math.max(this.currentWord.length * 2, 6), 15);
+    this.maxAttempts = Math.min(Math.max(this.currentWord.length * 2, 4), 15);
     this.errors = 0;
+    this.renderAttempts();
 
     // Inicializa o array de letras adivinhadas com underscores
     this.guessed = Array(this.currentWord.length).fill("_");
