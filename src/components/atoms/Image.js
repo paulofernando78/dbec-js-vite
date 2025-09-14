@@ -4,6 +4,15 @@ class Image extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
+  }
+
+  set data(img) {
+    if (!img) {
+      this.shadowRoot.innerHTML = "";
+      return;
+    }
+
+    this.shadowRoot.innerHTML = "";
 
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
@@ -56,9 +65,7 @@ class Image extends HTMLElement {
   }
     `;
     this.shadowRoot.appendChild(css);
-  }
 
-  set data(img) {
     const wrapper = document.createElement("div");
     wrapper.classList.add("wrapper");
 
@@ -66,6 +73,7 @@ class Image extends HTMLElement {
     if (img.width) {
       image.style.setProperty("width", img.width);
     }
+
     image.src = img.src;
     image.alt = img.alt || "";
     wrapper.appendChild(image);

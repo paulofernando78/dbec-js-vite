@@ -34,14 +34,26 @@
       "components": "wc-the-alphabet"
     },
     {
-      "hangman": 
+      "hangman": [
         {
           "imageSrc": "/assets/images/general/cat-1.jpg",
-          "alt": "Alt",
+          "alt": "A picture of a cat.",
           "hint": "It's an animal.",
+          "word": "cat"
+        },
+        {
+          "imageSrc": "/assets/images/general/apple.avif",
+          "alt": "A picture of an apple.",
+          "hint": "It's fruit",
           "word": "apple"
+        },
+        {
+          "imageSrc": "/assets/images/general/nose.avif",
+          "alt": "A picture of a nose.",
+          "hint": "Part of the face.",
+          "word": "nose"
         }
-  
+      ]
     },
     {
       "ribbon": {

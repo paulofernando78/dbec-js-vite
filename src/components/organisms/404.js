@@ -1,5 +1,3 @@
-import { sorry } from "../../assets/images/image-imports";
-
 class FourOhFour extends HTMLElement {
   constructor() {
     super();
@@ -30,7 +28,7 @@ class FourOhFour extends HTMLElement {
     template.innerHTML = `
       <div>
         <h1>Oops! Page not found!</h1>
-        <img src=${sorry} alt="An avatar saying sorry."/>
+        <img src="/" alt="An avatar saying sorry."/>
       </div>
     `;
     this.shadowRoot.appendChild(template.content.cloneNode(true))

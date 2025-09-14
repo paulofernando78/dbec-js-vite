@@ -83,9 +83,11 @@ class Hangman extends HTMLElement {
     `;
     this.shadowRoot.appendChild(css);
 
+    this.wordsArray = [];
+    this.currentWordIndex = 0;
+
     const container = document.createElement("div");
-    container.classList.add("container");
-    container.classList.add("card");
+    container.classList.add("container", "card");
     this.shadowRoot.appendChild(container);
 
     const title = document.createElement("span");
@@ -104,30 +106,33 @@ class Hangman extends HTMLElement {
     const hint = document.createElement("p");
     this.shadowRoot.appendChild(hint);
 
-    const letterContainer = document.createElement("div");
-    letterContainer.classList.add("letter-container");
-    imageLettersWrapper.appendChild(letterContainer);
+    this.letterContainer = document.createElement("div");
+    this.letterContainer.classList.add("letter-container");
+    imageLettersWrapper.appendChild(this.letterContainer);
 
-    // Cria um array com as letras de A a Z para os botões
-    const letters = Array.from({ length: 26 }, (_, i) => {
-      return String.fromCharCode(65 + i);
-    });
+    const letters = Array.from({ length: 26 }, (_, i) =>
+      String.fromCharCode(65 + i)
+    );
 
-    // Para cada letra, cria um botão personalizado 'wc-button' com eventos de clique
     letters.forEach((ch) => {
       const letter = document.createElement("wc-button");
       letter.classList.add("letter");
       letter.setAttribute("data-label", ch);
       letter.setAttribute("data-font", "Slackey");
 
-      // Quando o botão for clicado, chama o método handleGuess passando a letra
       letter.addEventListener("click", () => {
-        this.handleGuess(ch);
         const btn = letter.shadowRoot.querySelector("button");
-        btn.disabled = true;
+
+        // Só desabilita o botão se a palavra ainda não estiver completa
+        if (this.guessed.includes("_")) {
+          btn.disabled = true;
+        }
+
+        // Atualiza o estado das letras e possivelmente muda de palavra
+        this.handleGuess(ch);
       });
 
-      letterContainer.appendChild(letter);
+      this.letterContainer.appendChild(letter);
     });
 
     const attempts = document.createElement("div");
@@ -169,7 +174,7 @@ class Hangman extends HTMLElement {
 
     for (let i = 0; i < this.maxAttempts; i++) {
       const heart = document.createElement("img");
-      heart.classList.add("attempts")
+      heart.classList.add("attempts");
       heart.src =
         i < this.maxAttempts - this.errors
           ? "/assets/images/general/pixel-heart-red.avif"
@@ -178,7 +183,6 @@ class Hangman extends HTMLElement {
     }
   }
 
-  // Método chamado quando o usuário tenta adivinhar uma letra
   handleGuess(ch) {
     let correct = false;
 
@@ -198,30 +202,45 @@ class Hangman extends HTMLElement {
     // Atualiza a exibição da palavra com as letras adivinhadas e underscores
     this.wordDisplay.textContent = this.guessed.join(" ");
 
-    if (this.errors >= this.maxAttempts) {
-      alert("Not this time. Try again.");
-      this.disabledAllLetters();
+    if (!this.guessed.includes("_")) {
+      alert("Congrats"); // mantém o alert original
+      this.currentWordIndex++;
+
+      if (this.currentWordIndex < this.wordsArray.length) {
+        // Carrega a próxima palavra normalmente
+        this.loadWord(this.wordsArray[this.currentWordIndex]);
+      } else {
+        // Não há mais palavras → desabilita todos os botões
+        this.disabledAllLetters();
+
+        // Pode mostrar mensagem final, opcional
+        alert("You completed all words!");
+      }
     }
 
-    if (!this.guessed.includes("_")) {
-      alert("Congrats");
+    if (this.errors >= this.maxAttempts) {
+      alert("Not this time. Try again."); // mantém o alert original
+      this.disabledAllLetters();
     }
   }
 
   disabledAllLetters() {
-    const letters = this.shadowRoot.querySelectorAll("wc-button");
+    const letters = this.shadowRoot.querySelectorAll("wc-button.letter");
     letters.forEach((letter) => {
       letter.shadowRoot.querySelector("button").disabled = true;
     });
   }
 
-  set data(item) {
-    if (!item || !item.word) return;
+  loadWord(item) {
+    if (!item) return;
+
+    if (this.imageElement) {
+      this.imageElement.data = null;
+    }
 
     if (item.imageSrc && this.imageElement) {
       this.imageElement.data = {
         src: item.imageSrc,
-        width: item.width,
         alt: item.alt || "Hangman image",
       };
     }
@@ -231,11 +250,26 @@ class Hangman extends HTMLElement {
     this.errors = 0;
     this.renderAttempts();
 
-    // Inicializa o array de letras adivinhadas com underscores
     this.guessed = Array(this.currentWord.length).fill("_");
 
-    // Exibe a palavra inicial com underscores
     this.wordDisplay.textContent = this.guessed.join(" ");
+
+    const lettersBtns = this.shadowRoot.querySelectorAll("wc-button.letter");
+    lettersBtns.forEach((letter) => {
+      const btn = letter.shadowRoot.querySelector("button");
+      btn.disabled = false;
+    });
+  }
+
+  set data(items) {
+    if (!items || !items.length) return;
+
+    // Embaralha as palavras
+    this.wordsArray = [...items].sort(() => Math.random() - 0.5);
+    this.currentWordIndex = 0;
+
+    // Carrega a primeira palavra do array embaralhado
+    this.loadWord(this.wordsArray[this.currentWordIndex]);
   }
 }
 
