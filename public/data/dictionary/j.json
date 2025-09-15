@@ -16,6 +16,13 @@
             "ptExample": "Ela teve que enfrentar muita dificuldade só para marcar uma consulta."
           }
         ],
+        "images": [
+          {
+            "width": "100%",
+            "src": "/assets/images/general/jump-through-hoops.avif",
+            "alt": "A picture of an employee jumping through the hoops."
+          }
+        ],
         "synonyms": ["go through red tape", "struggle", "make an effort"],
         "antonyms": ["have it easy", "breeze through"],
         "seeAlso": ["red tape", "hurdles"],

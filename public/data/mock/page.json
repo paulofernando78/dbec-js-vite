@@ -36,14 +36,19 @@
     {
       "hangman": [
         {
-          "imageSrc": "/assets/images/general/jair-popcorn.png",
-          "alt": "...",
-          "word": "popcorn"
+          "imageSrc": "/assets/images/general/apple.avif",
+          "alt": "a picture of an apple",
+          "word": "apple"
         },
         {
-          "imageSrc": "/assets/images/general/jair-ice-cream.png",
-          "alt": "...",
-          "word": "ice cream"
+          "imageSrc": "/assets/images/general/cat-1.avif",
+          "alt": "a picture of a cat",
+          "word": "cat"
+        },
+        {
+          "imageSrc": "/assets/images/general/sports-car.avif",
+          "alt": "A picture of a sports car.",
+          "word": "sports car"
         }
       ]
     },
@@ -58,19 +63,19 @@
         {
           "width": "200px",
           "number": "1",
-          "src": "/assets/images/general/cat-1.jpg",
+          "src": "/assets/images/general/cat-1.avif",
           "alt": "..."
         },
         {
           "width": "200px",
           "number": "2",
-          "src": "/assets/images/general/cat-2.jpg",
+          "src": "/assets/images/general/cat-2.avif",
           "alt": "..."
         },
         {
           "width": "200px",
           "number": "3",
-          "src": "/assets/images/general/cat-3.jpg",
+          "src": "/assets/images/general/cat-3.avif",
           "alt": "..."
         }
       ]
@@ -90,19 +95,19 @@
             {
               "width": "250px",
               "number": "1",
-              "src": "/assets/images/general/cat-1.jpg",
+              "src": "/assets/images/general/cat-1.avif",
               "alt": "..."
             },
             {
               "width": "250px",
               "number": "2",
-              "src": "/assets/images/general/cat-2.jpg",
+              "src": "/assets/images/general/cat-2.avif",
               "alt": "..."
             },
             {
               "width": "250px",
               "number": "3",
-              "src": "/assets/images/general/cat-3.jpg",
+              "src": "/assets/images/general/cat-3.avif",
               "alt": "..."
             }
           ],
@@ -144,7 +149,7 @@
             {
               "position": "right",
               "width": "200px",
-              "src": "/assets/images/general/cat-2.jpg",
+              "src": "/assets/images/general/cat-2.avif",
               "alt": "..."
             }
           ],
@@ -183,7 +188,7 @@
             {
               "position": "left",
               "width": "200px",
-              "src": "/assets/images/general/cat-3.jpg",
+              "src": "/assets/images/general/cat-3.avif",
               "alt": "..."
             }
           ],
@@ -222,7 +227,7 @@
             {
               "width": "200px",
               "position": "bottom",
-              "src": "/assets/images/general/cat-4.jpg",
+              "src": "/assets/images/general/cat-4.avif",
               "alt": "..."
             }
           ],
@@ -530,19 +535,19 @@
             {
               "width": "200px",
               "number": "1",
-              "src": "/assets/images/general/cat-1.jpg",
+              "src": "/assets/images/general/cat-1.avif",
               "alt": "..."
             },
             {
               "width": "200px",
               "number": "2",
-              "src": "/assets/images/general/cat-2.jpg",
+              "src": "/assets/images/general/cat-2.avif",
               "alt": "..."
             },
             {
               "width": "200px",
               "number": "3",
-              "src": "/assets/images/general/cat-3.jpg",
+              "src": "/assets/images/general/cat-3.avif",
               "alt": "..."
             }
           ]
@@ -606,19 +611,19 @@
             {
               "width": "200px",
               "number": "1",
-              "src": "/assets/images/general/cat-1.jpg",
+              "src": "/assets/images/general/cat-1.avif",
               "alt": "..."
             },
             {
               "width": "200px",
               "number": "2",
-              "src": "/assets/images/general/cat-2.jpg",
+              "src": "/assets/images/general/cat-2.avif",
               "alt": "..."
             },
             {
               "width": "200px",
               "number": "3",
-              "src": "/assets/images/general/cat-3.jpg",
+              "src": "/assets/images/general/cat-3.avif",
               "alt": "..."
             }
           ]

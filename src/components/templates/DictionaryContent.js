@@ -6,33 +6,15 @@ class DictionaryContent extends HTMLElement {
     this.attachShadow({ mode: "open" });
   }
 
-  setData({
-    word,
-    phonetics,
-    partOfSpeech,
-    enDefinition,
-    ptDefinition,
-    examples,
-    videoPlayer,
-    synonyms,
-    antonyms,
-    notes,
-  }) {
-    this.word = word.replace(/[’']/g, "’");
-    this.phonetics = phonetics;
-    this.partOfSpeech = partOfSpeech;
-    this.enDefinition = enDefinition;
-    this.ptDefinition = ptDefinition;
-    this.examples = examples;
-    this.videoPlayer = videoPlayer;
-    this.synonyms = synonyms;
-    this.antonyms = antonyms;
-    this.notes = notes;
+  setData(data) {
+    // copia todas as propriedades de data para this
+    Object.assign(this, data);
 
-    this.render();
-  }
+    // tratamento especial para word
+    if (this.word) {
+      this.word = this.word.replace(/[’']/g, "’");
+    }
 
-  render() {
     this.shadowRoot.innerHTML = "";
 
     const cssImports = document.createElement("style");
@@ -72,8 +54,8 @@ class DictionaryContent extends HTMLElement {
     this.shadowRoot.append(cssImports, css);
 
     const dictionaryCard = document.createElement("div");
-    dictionaryCard.classList.add("dictionary-card")
-    dictionaryCard.classList.add("line-break")
+    dictionaryCard.classList.add("dictionary-card");
+    dictionaryCard.classList.add("line-break");
 
     const wordWrapper = document.createElement("div");
     dictionaryCard.appendChild(wordWrapper);
@@ -81,7 +63,7 @@ class DictionaryContent extends HTMLElement {
     // word
     const word = document.createElement("span");
     word.textContent = this.word.replace(/'/g, "’");
-    word.classList.add("word")
+    word.classList.add("word");
     wordWrapper.appendChild(word);
 
     // phonetics
@@ -109,7 +91,7 @@ class DictionaryContent extends HTMLElement {
 
     // ptDefinition
     const ptDef = document.createElement("p");
-    ptDef.classList.add("pt-defitinion")
+    ptDef.classList.add("pt-defitinion");
     ptDef.textContent = this.ptDefinition;
     wordWrapper.appendChild(ptDef);
 
@@ -128,12 +110,12 @@ class DictionaryContent extends HTMLElement {
         const bullet = document.createElement("b");
         bullet.textContent = "• ";
 
-        const text = document.createTextNode(example.enExample)
+        const text = document.createTextNode(example.enExample);
 
-        enExample.appendChild(bullet)
-        enExample.appendChild(text)
+        enExample.appendChild(bullet);
+        enExample.appendChild(text);
 
-        item.appendChild(enExample)
+        item.appendChild(enExample);
       }
 
       // ptExample
@@ -148,8 +130,17 @@ class DictionaryContent extends HTMLElement {
       exampleList.appendChild(item);
     });
 
-    // VideoPlayer
+    // Images
 
+    if (Array.isArray(this.images) && this.images.length > 0) {
+      this.images.forEach((img) => {
+        const image = document.createElement("wc-image");
+        image.data = img;
+        dictionaryCard.appendChild(image);
+      });
+    }
+
+    // VideoPlayer
     let videoPlayer;
 
     if (this.videoPlayer) {
@@ -157,6 +148,9 @@ class DictionaryContent extends HTMLElement {
       videoPlayer.data = this.videoPlayer;
     }
     if (videoPlayer) dictionaryCard.appendChild(videoPlayer);
+
+    const thesaurus = document.createElement("div");
+    dictionaryCard.appendChild(thesaurus);
 
     if (Array.isArray(this.synonyms) && this.synonyms.length > 0) {
       const synonymsWrapper = document.createElement("div");
@@ -173,6 +167,7 @@ class DictionaryContent extends HTMLElement {
       const synonyms = document.createElement("span");
       synonyms.textContent = this.synonyms.join(", ");
       synonymsWrapper.appendChild(synonyms);
+      thesaurus.appendChild(synonymsWrapper)
     }
 
     if (Array.isArray(this.antonyms) && this.antonyms.length > 0) {
@@ -188,6 +183,7 @@ class DictionaryContent extends HTMLElement {
       const antonyms = document.createElement("span");
       antonyms.textContent = this.antonyms.join(", ");
       antonymsWrapper.appendChild(antonyms);
+      thesaurus.appendChild(antonymsWrapper)
     }
 
     if (Array.isArray(this.notes) && this.notes.length > 0) {
@@ -196,22 +192,22 @@ class DictionaryContent extends HTMLElement {
 
       this.notes.forEach((note) => {
         const item = document.createElement("li");
-        item.style.display = "inline"
+        item.style.display = "inline";
         item.classList.add("margin-top");
 
         const noteTitle = document.createElement("span");
         noteTitle.style.fontFamily = "times-roman";
-        noteTitle.textContent = "Notes:",
-        noteTitle.style.marginRight = "var(--margin-right)";
+        (noteTitle.textContent = "Notes:"),
+          (noteTitle.style.marginRight = "var(--margin-right)");
 
         const enNote = document.createElement("p");
-        enNote.style.display = "inline"
+        enNote.style.display = "inline";
         enNote.textContent = note.enNote;
         enNote.style.marginRight = "var(--margin-right)";
         item.appendChild(enNote);
 
         const ptNote = document.createElement("p");
-        ptNote.style.display = "inline"
+        ptNote.style.display = "inline";
         ptNote.style.color = "var(--gray-4)";
         ptNote.textContent = note.ptNote;
         item.appendChild(ptNote);

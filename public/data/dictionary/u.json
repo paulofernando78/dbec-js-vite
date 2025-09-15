@@ -55,6 +55,13 @@
             "ptExample": "Depois que você tiver alguns projetos bem-sucedidos sob sua responsabilidade, se sentirá mais confiante."
           }
         ],
+        "images": [
+          {
+            "width": "100%",
+            "src": "/assets/images/general/jump-through-hoops.avif",
+            "alt": "A picture of an employee jumping through the hoops."
+          }
+        ],
         "videoPlayer": {
           "sticky": false,
           "src": "https://www.youtube.com/embed/c9POdfpqURQ?rel=0"
