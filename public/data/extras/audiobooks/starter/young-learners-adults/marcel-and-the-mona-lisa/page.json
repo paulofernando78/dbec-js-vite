@@ -61,6 +61,26 @@
     },
     {
       "ribbon": {
+        "icon": "vocabulary",
+        "label": "Vocabulary"
+      }
+    },
+    {
+      "hangman": [
+        {
+          "imageSrc": "/assets/images/general/museum.avif",
+          "alt": "",
+          "word": "museum"
+        },
+        {
+          "imageSrc": "/assets/images/general/painting.avif",
+          "alt": "",
+          "word": "painting"
+        }
+      ]
+    },
+    {
+      "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 1"
       }
