@@ -47,6 +47,12 @@ class Hangman extends HTMLElement {
         margin: 0 auto
       }
 
+      .letters-wrapper {
+        display: flex;
+        flex-direction: column;
+        gap: 30px
+      }
+
       .letter-container {
         display: flex;
         flex-wrap: wrap;
@@ -74,6 +80,7 @@ class Hangman extends HTMLElement {
         display: block;
         font-family: "Slackey";
         font-size: 1.3rem;
+        text-align: center;
         letter-spacing: 8px
       }
 
@@ -126,23 +133,23 @@ class Hangman extends HTMLElement {
     title.textContent = "Guess Word!";
     container.appendChild(title);
 
-    const attemptWords = document.createElement("span");
-    attemptWords.classList.add("attempt-words");
-    attemptWords.textContent = "";
-    container.appendChild(attemptWords);
-    this.attemptWords = attemptWords;
-
-    const imageLettersWrapper = document.createElement("div");
-    imageLettersWrapper.classList.add("image-letters-wrapper");
-    container.appendChild(imageLettersWrapper);
+    // Grid 2fr
+    const Wrapper = document.createElement("div");
+    Wrapper.classList.add("image-letters-wrapper");
+    container.appendChild(Wrapper);
 
     const image = document.createElement("wc-image");
+    Wrapper.appendChild(image);
     this.imageElement = image;
-    imageLettersWrapper.appendChild(image);
+
+    // Lado direito.. lettersWrapper
+    const lettersWrapper = document.createElement("div");
+    lettersWrapper.classList.add("letters-wrapper")
+    Wrapper.appendChild(lettersWrapper);
 
     this.letterContainer = document.createElement("div");
     this.letterContainer.classList.add("letter-container");
-    imageLettersWrapper.appendChild(this.letterContainer);
+    lettersWrapper.appendChild(this.letterContainer);
 
     const letters = Array.from({ length: 26 }, (_, i) =>
       String.fromCharCode(65 + i)
@@ -169,32 +176,41 @@ class Hangman extends HTMLElement {
       this.letterContainer.appendChild(letter);
     });
 
+    // Current / Max
+    const attemptWords = document.createElement("span");
+    attemptWords.classList.add("attempt-words");
+    attemptWords.textContent = "";
+    lettersWrapper.appendChild(attemptWords);
+    this.attemptWords = attemptWords;
+
+    // Hearts
     const attempts = document.createElement("div");
     attempts.classList.add("attempts-container");
-    container.appendChild(attempts);
+    lettersWrapper.appendChild(attempts);
     this.attemptsElement = attempts;
 
+    // "_"
     const wordDisplay = document.createElement("span");
     wordDisplay.classList.add("word-display");
-    container.appendChild(wordDisplay);
+    lettersWrapper.appendChild(wordDisplay);
     this.wordDisplay = wordDisplay;
 
     const congrats = document.createElement("span");
     congrats.classList.add("messages", "congrats");
     congrats.textContent = "Congrats!";
-    container.appendChild(congrats);
+    lettersWrapper.appendChild(congrats);
     this.congratsMsg = congrats;
 
     const notThisTime = document.createElement("span");
     notThisTime.classList.add("messages", "error");
     notThisTime.textContent = "Not this time. Try again!";
-    container.appendChild(notThisTime);
+    lettersWrapper.appendChild(notThisTime);
     this.notThisTimeMsg = notThisTime;
 
     const wordsCompleted = document.createElement("span");
     wordsCompleted.classList.add("messages", "complete");
     wordsCompleted.textContent = "You've completed all words!";
-    container.appendChild(wordsCompleted);
+    lettersWrapper.appendChild(wordsCompleted);
     this.wordsCompletedMsg = wordsCompleted;
 
     const reset = document.createElement("wc-button");
@@ -233,7 +249,7 @@ class Hangman extends HTMLElement {
   showMessage(messageElement, duration = 3000) {
     this.hideAllMessages();
     messageElement.classList.add("show");
-    
+
     if (duration > 0) {
       setTimeout(() => {
         messageElement.classList.remove("show");
@@ -272,7 +288,7 @@ class Hangman extends HTMLElement {
       } else {
         // Não há mais palavras → desabilita todos os botões
         this.disabledAllLetters();
-        
+
         setTimeout(() => {
           this.showMessage(this.wordsCompletedMsg, 0); // 0 = não remove automaticamente
         }, 2000);
