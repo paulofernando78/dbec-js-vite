@@ -42,7 +42,7 @@
         }
       ]
     },
-    {
+        {
       "images": [
         {
           "width": "",
@@ -56,6 +56,15 @@
         "sticky": false,
         "src": ""
       }
+    },
+    {
+      "hangman": [
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "alt": "",
+          "word": ""
+        }
+      ]
     },
     {
       "videoPlayer": {
