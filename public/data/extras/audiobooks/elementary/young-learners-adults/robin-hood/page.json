@@ -160,110 +160,63 @@
       }
     },
     {
-      "grid": false,
-      "text": [
+      "hangman": [
         {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "text": "abbey"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "abbot"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "arrow"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "bow"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "deer"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "forest"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "king"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "land"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "perhaps"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "prince"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "sheriff"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "staff"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "sword"
-                }
-              ]
-            }
-          ]
+          "imageSrc": "/assets/images/general/abbey.avif",
+          "alt": "An abbey building",
+          "word": "abbey"
+        },
+        {
+          "imageSrc": "/assets/images/general/abbot.avif",
+          "alt": "A portrait of an abbot",
+          "word": "abbot"
+        },
+        {
+          "imageSrc": "/assets/images/general/arrow.avif",
+          "alt": "A single arrow",
+          "word": "arrow"
+        },
+        {
+          "imageSrc": "/assets/images/general/bow.avif",
+          "alt": "A bow used to shoot arrows",
+          "word": "bow"
+        },
+        {
+          "imageSrc": "/assets/images/general/deer.avif",
+          "alt": "A deer standing in the forest",
+          "word": "deer"
+        },
+        {
+          "imageSrc": "/assets/images/general/forest.avif",
+          "alt": "A dense forest",
+          "word": "forest"
+        },
+        {
+          "imageSrc": "/assets/images/general/king.avif",
+          "alt": "A king wearing a crown",
+          "word": "king"
+        },
+        {
+          "imageSrc": "/assets/images/general/land.avif",
+          "alt": "A landscape of land",
+          "word": "land"
+        },
+        {
+          "imageSrc": "/assets/images/general/perhaps.avif",
+          "alt": "The word 'perhaps' visually represented",
+          "word": "perhaps"
+        },
+        {
+          "imageSrc": "/assets/images/general/prince.avif",
+          "alt": "A young prince",
+          "word": "prince"
+        },
+        {
+          "imageSrc": "/assets/images/general/sheriff.avif",
+          "alt": "A sheriff character",
+          "word": "sheriff"
         }
       ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Full Audio"
-      }
     },
     {
       "audioPlayer": {
