@@ -76,6 +76,11 @@
           "imageSrc": "/assets/images/general/painting.avif",
           "alt": "",
           "word": "painting"
+        },
+        {
+          "imageSrc": "/assets/images/general/knife.avif",
+          "alt": "",
+          "word": "knife"
         }
       ]
     },
@@ -110,7 +115,7 @@
     {
       "exercises": [
         {
-          "title": "1 Fill in the blank with the correct answer."
+          "title": "1 Fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -198,7 +203,7 @@
     {
       "exercises": [
         {
-          "title": "2 Fill in the blank with the correct answer."
+          "title": "2 Fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -294,7 +299,7 @@
     {
       "exercises": [
         {
-          "title": "3 Fill in the blank with the correct answer."
+          "title": "3 Fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -382,7 +387,7 @@
     {
       "exercises": [
         {
-          "title": "4 Fill in the blank with the correct answer."
+          "title": "4 Fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -491,7 +496,7 @@
     {
       "exercises": [
         {
-          "title": "5 Fill in the blank with the correct answer."
+          "title": "5 Fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -565,7 +570,7 @@
     {
       "exercises": [
         {
-          "title": "6 Fill in the blank with the correct answer."
+          "title": "6 Fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -690,7 +695,7 @@
     {
       "exercises": [
         {
-          "title": "8 Fill in the blank with the correct answer."
+          "title": "8 Fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -753,7 +758,7 @@
     {
       "exercises": [
         {
-          "title": "9 Fill in the blank with the correct answer."
+          "title": "9 Fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -763,7 +768,7 @@
                 {
                   "block": [
                     {
-                      "text": "9.1 Antoine laughs",
+                      "text": "9.1 Antoine",
                       "correctAnswer": ["laughs"]
                     },
                     {
@@ -778,7 +783,7 @@
                 {
                   "block": [
                     {
-                      "text": "9.2 Inside the bag Marcel hears",
+                      "text": "9.2 Inside the bag Marcel",
                       "correctAnswer": ["hears"]
                     },
                     {
@@ -823,7 +828,7 @@
     {
       "exercises": [
         {
-          "title": "10 Fill in the blank with the correct answer."
+          "title": "10 Fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -848,7 +853,7 @@
                 {
                   "block": [
                     {
-                      "text": "10.2 She takes",
+                      "text": "10.2 She",
                       "correctAnswer": ["takes"]
                     },
                     {
@@ -929,7 +934,7 @@
                 {
                   "block": [
                     {
-                      "text": "11.2 Marcel thinks and",
+                      "text": "11.2 Marcel",
                       "correctAnswer": ["thinks"]
                     },
                     {
@@ -1269,7 +1274,7 @@
                 {
                   "block": [
                     {
-                      "text": "15.2 Marcel goes to the Louvre and tells",
+                      "text": "15.2 Marcel goes to the Louvre and",
                       "correctAnswer": ["tells"]
                     },
                     {
