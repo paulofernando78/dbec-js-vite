@@ -74,8 +74,32 @@ class Hangman extends HTMLElement {
         display: block;
         font-family: "Slackey";
         font-size: 1.3rem;
+        letter-spacing: 8px
       }
 
+      .messages {
+        display: none;
+        font-family: "Slackey";
+        font-size: 1.3rem;
+        text-align: center;
+        color: #333;
+      }
+
+      .messages.show {
+        display: block;
+      }
+
+      .messages.congrats {
+        color: #28a745;
+      }
+
+      .messages.error {
+        color: #dc3545;
+      }
+
+      .messages.complete {
+        color: #007bff;
+      }
 
       @media (width <= 500px) {
         .image-letters-wrapper {
@@ -106,7 +130,7 @@ class Hangman extends HTMLElement {
     attemptWords.classList.add("attempt-words");
     attemptWords.textContent = "";
     container.appendChild(attemptWords);
-    this.attemptWords = attemptWords
+    this.attemptWords = attemptWords;
 
     const imageLettersWrapper = document.createElement("div");
     imageLettersWrapper.classList.add("image-letters-wrapper");
@@ -155,18 +179,41 @@ class Hangman extends HTMLElement {
     container.appendChild(wordDisplay);
     this.wordDisplay = wordDisplay;
 
+    const congrats = document.createElement("span");
+    congrats.classList.add("messages", "congrats");
+    congrats.textContent = "Congrats!";
+    container.appendChild(congrats);
+    this.congratsMsg = congrats;
+
+    const notThisTime = document.createElement("span");
+    notThisTime.classList.add("messages", "error");
+    notThisTime.textContent = "Not this time. Try again!";
+    container.appendChild(notThisTime);
+    this.notThisTimeMsg = notThisTime;
+
+    const wordsCompleted = document.createElement("span");
+    wordsCompleted.classList.add("messages", "complete");
+    wordsCompleted.textContent = "You've completed all words!";
+    container.appendChild(wordsCompleted);
+    this.wordsCompletedMsg = wordsCompleted;
+
     const reset = document.createElement("wc-button");
     reset.setAttribute("data-icon", "reset");
     reset.addEventListener("click", () => {
+      // Esconde mensagens
+      this.hideAllMessages();
+
       // Reset erros
       this.errors = 0;
       this.renderAttempts();
 
-      // Reset as letras adivinhadas
-      this.guessed = Array(this.currentWord.length).fill("_");
+      // Reset as letras adivinhadas - corrigido
+      this.guessed = this.currentWord
+        .split("")
+        .map((char) => (char === " " ? " " : "_"));
 
       // Atualiza a exibição da palavra
-      this.wordDisplay.textContent = this.guessed.join(" ");
+      this.wordDisplay.textContent = this.guessed.join("");
 
       // Habilita novamente todos os buttons de letras
       const letters = this.shadowRoot.querySelectorAll("wc-button.letter");
@@ -177,19 +224,20 @@ class Hangman extends HTMLElement {
     container.appendChild(reset);
   }
 
-  renderAttempts() {
-    if (!this.attemptsElement) return;
+  hideAllMessages() {
+    this.congratsMsg.classList.remove("show");
+    this.notThisTimeMsg.classList.remove("show");
+    this.wordsCompletedMsg.classList.remove("show");
+  }
 
-    this.attemptsElement.innerHTML = "";
-
-    for (let i = 0; i < this.maxAttempts; i++) {
-      const heart = document.createElement("img");
-      heart.classList.add("attempts");
-      heart.src =
-        i < this.maxAttempts - this.errors
-          ? "/assets/images/general/pixel-heart-red.avif"
-          : "/assets/images/general/pixel-heart-white.avif";
-      this.attemptsElement.appendChild(heart);
+  showMessage(messageElement, duration = 3000) {
+    this.hideAllMessages();
+    messageElement.classList.add("show");
+    
+    if (duration > 0) {
+      setTimeout(() => {
+        messageElement.classList.remove("show");
+      }, duration);
     }
   }
 
@@ -210,26 +258,29 @@ class Hangman extends HTMLElement {
     }
 
     // Atualiza a exibição da palavra com as letras adivinhadas e underscores
-    this.wordDisplay.textContent = this.guessed.join(" ");
+    this.wordDisplay.textContent = this.guessed.join("");
 
     if (!this.guessed.includes("_")) {
-      alert("Congrats"); // mantém o alert original
+      this.showMessage(this.congratsMsg, 2000);
       this.currentWordIndex++;
 
       if (this.currentWordIndex < this.wordsArray.length) {
-        // Carrega a próxima palavra normalmente
-        this.loadWord(this.wordsArray[this.currentWordIndex]);
+        // Carrega a próxima palavra após um delay
+        setTimeout(() => {
+          this.loadWord(this.wordsArray[this.currentWordIndex]);
+        }, 2000);
       } else {
         // Não há mais palavras → desabilita todos os botões
         this.disabledAllLetters();
-
-        // Pode mostrar mensagem final, opcional
-        alert("You completed all words!");
+        
+        setTimeout(() => {
+          this.showMessage(this.wordsCompletedMsg, 0); // 0 = não remove automaticamente
+        }, 2000);
       }
     }
 
     if (this.errors >= this.maxAttempts) {
-      alert("Not this time. Try again."); // mantém o alert original
+      this.showMessage(this.notThisTimeMsg, 0); // 0 = não remove automaticamente
       this.disabledAllLetters();
     }
   }
@@ -243,6 +294,9 @@ class Hangman extends HTMLElement {
 
   loadWord(item) {
     if (!item) return;
+
+    // Esconde mensagens ao carregar nova palavra
+    this.hideAllMessages();
 
     if (this.imageElement) {
       this.imageElement.data = null;
@@ -260,9 +314,11 @@ class Hangman extends HTMLElement {
     this.errors = 0;
     this.renderAttempts();
 
-    this.guessed = Array(this.currentWord.length).fill("_");
+    this.guessed = this.currentWord
+      .split("")
+      .map((char) => (char === " " ? " " : "_"));
 
-    this.wordDisplay.textContent = this.guessed.join(" ");
+    this.wordDisplay.textContent = this.guessed.join("");
 
     const lettersBtns = this.shadowRoot.querySelectorAll("wc-button.letter");
     lettersBtns.forEach((letter) => {
@@ -271,7 +327,25 @@ class Hangman extends HTMLElement {
     });
 
     if (this.attemptWords) {
-      this.attemptWords.textContent = `Words: ${this.currentWordIndex + 1} / ${this.wordsArray.length}`;
+      this.attemptWords.textContent = `Words: ${this.currentWordIndex + 1} / ${
+        this.wordsArray.length
+      }`;
+    }
+  }
+
+  renderAttempts() {
+    if (!this.attemptsElement) return;
+
+    this.attemptsElement.innerHTML = "";
+
+    for (let i = 0; i < this.maxAttempts; i++) {
+      const heart = document.createElement("img");
+      heart.classList.add("attempts");
+      heart.src =
+        i < this.maxAttempts - this.errors
+          ? "/assets/images/general/pixel-heart-red.avif"
+          : "/assets/images/general/pixel-heart-white.avif";
+      this.attemptsElement.appendChild(heart);
     }
   }
 
