@@ -114,7 +114,6 @@
           "blocks": [
             {
               "audioPlayer": {
-                "sticky": false,
                 "src": "/assets/audio/"
               },
               "block": [
