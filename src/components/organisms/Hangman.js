@@ -43,11 +43,7 @@ class Hangman extends HTMLElement {
         grid-template-columns: auto auto 
       }
 
-      wc-image {
-        margin: 0 auto
-      }
-
-      .letters-wrapper {
+      .letters-heart-display-wrapper {
         display: flex;
         flex-direction: column;
         gap: 30px
@@ -115,7 +111,7 @@ class Hangman extends HTMLElement {
         }
 
         .letter-container {
-          margin-top: 40px
+          margin-top: 25px
         }
       }
     `;
@@ -138,13 +134,24 @@ class Hangman extends HTMLElement {
     Wrapper.classList.add("image-letters-wrapper");
     container.appendChild(Wrapper);
 
+    // Left side -
+    const wordNunmbersImageWrapper = document.createElement("div");
+    wordNunmbersImageWrapper.classList.add("line-break");
+    Wrapper.appendChild(wordNunmbersImageWrapper);
+
+    const attemptWords = document.createElement("span");
+    attemptWords.classList.add("attempt-words");
+    attemptWords.textContent = "";
+    wordNunmbersImageWrapper.appendChild(attemptWords);
+    this.attemptWords = attemptWords;
+
     const image = document.createElement("wc-image");
-    Wrapper.appendChild(image);
+    wordNunmbersImageWrapper.appendChild(image);
     this.imageElement = image;
 
-    // Lado direito.. lettersWrapper
+    // Right side - lettersWrapper
     const lettersWrapper = document.createElement("div");
-    lettersWrapper.classList.add("letters-wrapper")
+    lettersWrapper.classList.add("letters-heart-display-wrapper");
     Wrapper.appendChild(lettersWrapper);
 
     this.letterContainer = document.createElement("div");
@@ -175,13 +182,6 @@ class Hangman extends HTMLElement {
 
       this.letterContainer.appendChild(letter);
     });
-
-    // Current / Max
-    const attemptWords = document.createElement("span");
-    attemptWords.classList.add("attempt-words");
-    attemptWords.textContent = "";
-    lettersWrapper.appendChild(attemptWords);
-    this.attemptWords = attemptWords;
 
     // Hearts
     const attempts = document.createElement("div");

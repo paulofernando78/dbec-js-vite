@@ -69,18 +69,53 @@
       "hangman": [
         {
           "imageSrc": "/assets/images/general/museum.avif",
-          "alt": "",
+          "alt": "A museum building",
           "word": "museum"
         },
         {
           "imageSrc": "/assets/images/general/painting.avif",
-          "alt": "",
+          "alt": "A framed painting",
           "word": "painting"
         },
         {
           "imageSrc": "/assets/images/general/knife.avif",
-          "alt": "",
+          "alt": "A sharp knife",
           "word": "knife"
+        },
+        {
+          "imageSrc": "/assets/images/general/candle.avif",
+          "alt": "A burning candle",
+          "word": "candle"
+        },
+        {
+          "imageSrc": "/assets/images/general/detective.avif",
+          "alt": "A detective in a hat",
+          "word": "detective"
+        },
+        {
+          "imageSrc": "/assets/images/general/steal.avif",
+          "alt": "A thief stealing",
+          "word": "steal"
+        },
+        {
+          "imageSrc": "/assets/images/general/bag.avif",
+          "alt": "A leather bag",
+          "word": "bag"
+        },
+        {
+          "imageSrc": "/assets/images/general/thief.avif",
+          "alt": "A masked thief",
+          "word": "thief"
+        },
+        {
+          "imageSrc": "/assets/images/general/bookcase.avif",
+          "alt": "A wooden bookcase with books",
+          "word": "bookcase"
+        },
+        {
+          "imageSrc": "/assets/images/general/sunglasses.avif",
+          "alt": "A pair of sunglasses",
+          "word": "sunglasses"
         }
       ]
     },
@@ -1008,7 +1043,7 @@
                       "correctAnswer": ["jumps"]
                     },
                     {
-                      "text": "onto the bookcase and starts",
+                      "text": "onto the bookcase and",
                       "correctAnswer": ["starts"]
                     },
                     {
