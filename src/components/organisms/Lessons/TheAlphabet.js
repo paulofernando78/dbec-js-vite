@@ -284,7 +284,20 @@ class TheAlphabet extends HTMLElement {
       {
         audioSrc: "/assets/audio/alphabet/zed.mp3",
         tip: "“Z” in British is pronounced “zed”",
+      },
+      {
+        audioSrc: "/assets/audio/alphabet/c-see-sea.mp3",
+        tip: "“C” has the same sound as the verb “see” and the noun “sea”",
+      },
+      {
+        audioSrc: "/assets/audio/alphabet/d-g.mp3",
+        tip: "“D” is pronounced differently from letter “G”",
+      },
+      {
+        audioSrc: "/assets/audio/alphabet/eight-h.mp3",
+        tip: "Number “eight” is pronounced differently from letter “H”",
       }
+      
     ];
 
     const tipContainer = document.createElement("div");
