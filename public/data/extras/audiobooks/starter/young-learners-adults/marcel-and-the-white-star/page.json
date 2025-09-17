@@ -92,7 +92,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "1. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -102,38 +102,33 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "1.1 He",
+                      "correctAnswer": ["lives"]
                     },
                     {
-                      "text": "..."
+                      "text": "on a beautiful old boat in Paris."
                     }
                   ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "exercises": [
-        {
-          "title": "1.1 Fill in the blank with the correct answer."
-        },
-        {
-          "fillExercises": [
-            {
-              "card": false,
-              "blocks": [
+                },
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "1.2 One evening in June, Marcel",
+                      "correctAnswer": ["finishes"]
                     },
                     {
-                      "text": "..."
+                      "text": "a detective story."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.3 Then he",
+                      "correctAnswer": ["goes"]
+                    },
+                    {
+                      "text": "to have dinner with some friends."
                     }
                   ]
                 }
@@ -178,7 +173,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "2. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -188,11 +183,34 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "2.1 After dinner, Marcel",
+                      "correctAnswer": ["waits at"]
                     },
                     {
-                      "text": "..."
+                      "text": "the station."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2.2 The tall one is",
+                      "correctAnswer": ["reading"]
+                    },
+                    {
+                      "text": "a magazine."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2.3 The short man",
+                      "correctAnswer": ["looks at"]
+                    },
+                    {
+                      "text": "the photo and",
+                      "correctAnswer": ["laughs"]
                     }
                   ]
                 }
@@ -233,7 +251,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "3. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -243,11 +261,45 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "3.1 Marcel’s mouth",
+                      "correctAnswer": ["opens"]
                     },
                     {
-                      "text": "..."
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.2 He",
+                      "correctAnswer": ["remembers"]
+                    },
+                    {
+                      "text": " remembers an evening at the opera two weeks before."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.3 The train",
+                      "correctAnswer": ["comes"]
+                    },
+                    {
+                      "text": "and the men",
+                      "correctAnswer": ["get on"]
+                    },
+                    {
+                      "text": ". Marcel",
+                      "correctAnswer": ["pulls down"]
+                    },
+                    {
+                      "text": "his hat and",
+                      "correctAnswer": ["follows"]
+                    },
+                    {
+                      "text": "them."
                     }
                   ]
                 }
@@ -292,7 +344,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "4. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -302,11 +354,44 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "4.1 He",
+                      "correctAnswer": ["gets off"]
                     },
                     {
-                      "text": "..."
+                      "text": "again at La Mouette station."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4.2 Marcel",
+                      "correctAnswer": ["loses"]
+                    },
+                    {
+                      "text": "the two men."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4.3 Marcel",
+                      "correctAnswer": ["finds"]
+                    },
+                    {
+                      "text": "Zaza’s house."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4.4 The two men",
+                      "correctAnswer": ["have", "have got"]
+                    },
+                    {
+                      "text": "the White Star."
                     }
                   ]
                 }
@@ -351,7 +436,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "5. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -361,11 +446,37 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "5.1 Marcel",
+                      "correctAnswer": ["hears"]
                     },
                     {
-                      "text": "..."
+                      "text": "a motor start."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "5.2 Then he",
+                      "correctAnswer": ["sees"]
+                    },
+                    {
+                      "text": "something at the end of the road."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "5.3 Can I …?” he ",
+                      "correctAnswer": ["thinks"]
+                    },
+                    {
+                      "text": ", and he",
+                      "correctAnswer": ["jumps"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 }
@@ -410,7 +521,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "6. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -420,11 +531,33 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "6.1 Marcel",
+                      "correctAnswer": ["sits"]
                     },
                     {
-                      "text": "..."
+                      "text": "on the number-plate."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "6.2 The thieves",
+                      "correctAnswer": ["drive"]
+                    },
+                    {
+                      "text": "across Paris very fast."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "6.3 After half an hour the car",
+                      "correctAnswer": ["stops"]
+                    },
+                    {
+                      "text": "next to a café."
                     }
                   ]
                 }
@@ -469,7 +602,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "7. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -479,11 +612,33 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "7.1 Marcel",
+                      "correctAnswer": ["sits"]
                     },
                     {
-                      "text": "..."
+                      "text": "under the table and listens."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "7.2 The tall man",
+                      "correctAnswer": ["takes"]
+                    },
+                    {
+                      "text": "a box from his jacket."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "7.3 The tall man",
+                      "correctAnswer": ["opens"]
+                    },
+                    {
+                      "text": "the box."
                     }
                   ]
                 }
@@ -521,7 +676,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "8. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -531,7 +686,29 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "8.1 He bites the tall man’s leg very hard.",
+                      "correctAnswer": ["..."]
+                    },
+                    {
+                      "text": "..."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "8.2 The tall man throws up his arms.",
+                      "correctAnswer": ["..."]
+                    },
+                    {
+                      "text": "..."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "8.3 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -580,7 +757,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "9. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -590,7 +767,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "9.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -639,7 +816,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "10. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -649,7 +826,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "10.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -698,7 +875,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "11. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -708,7 +885,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "11.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -757,7 +934,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "12. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -767,7 +944,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "12.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -816,7 +993,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "13. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -826,7 +1003,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "13.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -868,7 +1045,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "14. Fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -878,7 +1055,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "14.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -917,6 +1094,33 @@
               "block": [
                 {
                   "text": "Marcel is happy, too. Back on his boat, he reads the newspaper stories. Then he looks in the mirror. There is a thin, red line on his neck. “What a night!” he says. After that, he washes, has breakfast and opens the window. It is a beautiful, warm morning. Marcel looks up at the blue sky and smiles. “Now…” he thinks, “what’s going to happen today?”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+        {
+      "exercises": [
+        {
+          "title": "15. Fill in the blank with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "15.1 ...",
+                      "correctAnswer": ["..."]
+                    },
+                    {
+                      "text": "..."
+                    }
+                  ]
                 }
               ]
             }
