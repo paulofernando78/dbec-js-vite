@@ -43,11 +43,10 @@
           ],
           "blocks": [
             {
-              "audioPlayer": {
-                "sticky": true,
-                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/summary.mp3"
-              },
               "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/summary.mp3"
+                },
                 {
                   "text": "Marcel is a mouse and a famous detective. He lives in Paris. One evening, two thieves steal a very expensive diamond ring - the ‘White Star’. Then they steal a car. Marcel follows them across Paris to a café. Can he get the ‘White Star’ and bring it back?"
                 }
@@ -245,6 +244,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": true,
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/paragraph-3.mp3"
+              },
               "block": [
                 {
                   "text": "Marcel’s mouth opens. “What? Are the men going to steal Zaza Dupont’s diamond?” He remembers an evening at the opera two weeks before. Zaza’s green dress. The music. The beautiful White Star on her finger. “No! They can’t steal it!,” he says. The train comes and the men get on. Marcel pulls down his hat and follows them."
