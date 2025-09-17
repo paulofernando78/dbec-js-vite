@@ -60,6 +60,13 @@
     {
       "ribbon": {
         "icon": "snippet",
+        "label": "Vocabulary"
+      }
+    },
+    
+    {
+      "ribbon": {
+        "icon": "snippet",
         "label": "Paragraph 1"
       }
     },
