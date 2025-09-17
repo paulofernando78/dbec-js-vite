@@ -476,7 +476,7 @@
                       "correctAnswer": ["jumps"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 }
@@ -686,33 +686,44 @@
                 {
                   "block": [
                     {
-                      "text": "8.1 He bites the tall man’s leg very hard.",
-                      "correctAnswer": ["..."]
+                      "text": "8.1 He",
+                      "correctAnswer": ["bites"]
                     },
                     {
-                      "text": "..."
+                      "text": "the tall man’s leg very hard."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "8.2 The tall man throws up his arms.",
-                      "correctAnswer": ["..."]
+                      "text": "8.2 The tall man",
+                      "correctAnswer": ["hrows up "]
                     },
                     {
-                      "text": "..."
+                      "text": "his arms."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "8.3 ...",
-                      "correctAnswer": ["..."]
+                      "text": "8.3 He",
+                      "correctAnswer": [" puts"]
                     },
                     {
-                      "text": "..."
+                      "text": "the White Star around his neck."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "8.4 Then he",
+                      "correctAnswer": ["runs"]
+                    },
+                    {
+                      "text": "to the door."
                     }
                   ]
                 }
@@ -767,11 +778,33 @@
                 {
                   "block": [
                     {
-                      "text": "9.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "9.1 The thieves",
+                      "correctAnswer": ["jump up"]
                     },
                     {
-                      "text": "..."
+                      "text": "and follow him."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "9.2 Stop that mouse!”",
+                      "correctAnswer": ["says"]
+                    },
+                    {
+                      "text": "the tall man."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "9.3 Marcel",
+                      "correctAnswer": ["runs out"]
+                    },
+                    {
+                      "text": "of the café and does not look back."
                     }
                   ]
                 }
@@ -826,11 +859,44 @@
                 {
                   "block": [
                     {
-                      "text": "10.1 ...",
+                      "text": "10.1 After ten minutes he stops.",
                       "correctAnswer": ["..."]
                     },
                     {
                       "text": "..."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "10.2 Then he",
+                      "correctAnswer": ["sees"]
+                    },
+                    {
+                      "text": "a big, white church."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "10.3 He",
+                      "correctAnswer": ["walks"]
+                    },
+                    {
+                      "text": "back to Zaza’s house."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "10.4 When he",
+                      "correctAnswer": ["gets"]
+                    },
+                    {
+                      "text": "there, she is asleep in bed."
                     }
                   ]
                 }
@@ -885,11 +951,33 @@
                 {
                   "block": [
                     {
-                      "text": "11.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "11.1 Marcel can",
+                      "correctAnswer": ["see"]
                     },
                     {
-                      "text": "..."
+                      "text": "lots of photographs, boxes, and perfume bottles."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "11.2 Oh, no! He can’t take the",
+                      "correctAnswer": ["ring off"]
+                    },
+                    {
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "11.3 He",
+                      "correctAnswer": ["pulls"]
+                    },
+                    {
+                      "text": ", but nothing happens."
                     }
                   ]
                 }
@@ -944,11 +1032,48 @@
                 {
                   "block": [
                     {
-                      "text": "12.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "12.1 He",
+                      "correctAnswer": ["runs"]
                     },
                     {
-                      "text": "..."
+                      "text": "down the table leg and across the floor."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "12.2 Marcel",
+                      "correctAnswer": ["goes"]
+                    },
+                    {
+                      "text": "in and looks up."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "12.3 He",
+                      "correctAnswer": ["puts"]
+                    },
+                    {
+                      "text": "some soap on his neck."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "12.4 Then he",
+                      "correctAnswer": ["closes"]
+                    },
+                    {
+                      "text": "his eyes and",
+                      "correctAnswer": ["pulls"]
+                    },
+                    {
+                      "text":	"again."
                     }
                   ]
                 }
@@ -1003,11 +1128,33 @@
                 {
                   "block": [
                     {
-                      "text": "13.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "13.1 “Thieves don’t",
+                      "correctAnswer": ["bring"]
                     },
                     {
-                      "text": "..."
+                      "text": "things back. How…?”"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "13.2 Then she",
+                      "correctAnswer": ["looks"]
+                    },
+                    {
+                      "text": "at her face in the mirror."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "13.3 She",
+                      "correctAnswer": ["telephones"]
+                    },
+                    {
+                      "text": "the police."
                     }
                   ]
                 }
@@ -1055,11 +1202,22 @@
                 {
                   "block": [
                     {
-                      "text": "14.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "14.1 And",
+                      "correctAnswer": ["there are"]
                     },
                     {
-                      "text": "..."
+                      "text": "lots of photos of Zaza with the White Star."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "14.2 She",
+                      "correctAnswer": ["looks"]
+                    },
+                    {
+                      "text": "very happy in all of them."
                     }
                   ]
                 }
@@ -1101,7 +1259,7 @@
         }
       ]
     },
-        {
+    {
       "exercises": [
         {
           "title": "15. Fill in the blank with the correct answer."
@@ -1114,11 +1272,41 @@
                 {
                   "block": [
                     {
-                      "text": "15.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "15.1 Back on his boat, he",
+                      "correctAnswer": ["reads"]
                     },
                     {
-                      "text": "..."
+                      "text": "the newspaper stories."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "15.2 After that, he",
+                      "correctAnswer": ["washes "]
+                    },
+                    {
+                      "text": ",",
+                      "correctAnswer": ["has"]
+                    },
+                    {
+                      "text": "breakfast and",
+                      "correctAnswer": ["opens"]
+                    },
+                    {
+                      "text":	" the window."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "15.3 Marcel",
+                      "correctAnswer": ["looks up"]
+                    },
+                    {
+                      "text": "at the blue sky and smiles."
                     }
                   ]
                 }
