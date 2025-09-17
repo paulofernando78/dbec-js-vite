@@ -25,19 +25,28 @@
         "label": "A"
       }
     },
-
     {
       "grid": true,
       "text": [
         {
           "card": true,
-          "imgSrc": "/assets/images/general/a-man-on-the-roof.avif",
-          "imgAlt": "imgAlt",
+          "images": [
+            {
+              "src": "/assets/images/general/a-man-on-the-roof.avif",
+              "alt": "A man on the roof"
+            }
+          ],
           "blocks": [
             {
               "block": [
                 {
-                  "text": "There’s a man on the roof. "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/a-1.mp3"
+                },
+                {
+                  "boldText": "There’s "
+                },
+                {
+                  "text": "a man on the roof. "
                 },
                 {
                   "ptText": "Há um homem no telhado."
@@ -48,13 +57,23 @@
         },
         {
           "card": true,
-          "imgSrc": "/assets/images/general/train-schedule.avif",
-          "imgAlt": "imgAlt",
+          "images": [
+            {
+              "src": "/assets/images/general/train-schedule.avif",
+              "alt": "Train schedule"
+            }
+          ],
           "blocks": [
             {
               "block": [
                 {
-                  "text": "There’s a train at 10:30. "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/a-2.mp3"
+                },
+                {
+                  "boldText": "There’s "
+                },
+                {
+                  "text": "a train at 10:30. "
                 },
                 {
                   "ptText": "Há um trem às 10:30."
@@ -65,13 +84,23 @@
         },
         {
           "card": true,
-          "imgSrc": "/assets/images/general/week-weekend-days.avif",
-          "imgAlt": "imgAlt",
+          "images": [
+            {
+              "src": "/assets/images/general/week-weekend-days.avif",
+              "alt": "7 days"
+            }
+          ],
           "blocks": [
             {
               "block": [
                 {
-                  "text": "There are seven days in a week. "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/a-3.mp3"
+                },
+                {
+                  "boldText": "There are "
+                },
+                {
+                  "text": "seven days in a week. "
                 },
                 {
                   "ptText": "Há 7 dias na semana."
@@ -89,6 +118,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/singular.mp3"
+                },
+                {
                   "boldText": "Singular"
                 }
               ]
@@ -100,28 +132,41 @@
             {
               "block": [
                 {
-                  "text": "➕ there is... (there’s)"
+                  "icon": "plus"
+                },
+                {
+                  "text": "there is... (there’s)"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "➖ there is not... (there isn’t or there’s not)"
+                  "icon": "minus"
+                },
+                {
+                  "text": "there is not... (there isn’t or there’s not)"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "❓ is there... ?"
+                  "icon": "question"
+                },
+                {
+                  "text": "is there... ?"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
                 {
-                  "text": "◦ "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/a-singular-1.mp3"
+                },
+                {
+                  "boldText": "• "
                 },
                 {
                   "markedText": "There’s"
@@ -134,7 +179,10 @@
             {
               "block": [
                 {
-                  "text": "◦ "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/a-singular-2.mp3"
+                },
+                {
+                  "boldText": "• "
                 },
                 {
                   "markedText": "There’s"
@@ -147,7 +195,10 @@
             {
               "block": [
                 {
-                  "text": "◦ "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/a-singular-3.mp3"
+                },
+                {
+                  "boldText": "• "
                 },
                 {
                   "text": "A: Do you have any money?"
@@ -170,7 +221,10 @@
             {
               "block": [
                 {
-                  "text": "◦ "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/a-singular-4.mp3"
+                },
+                {
+                  "boldText": "• "
                 },
                 {
                   "text": "A: Excuse me, "
@@ -205,7 +259,10 @@
             {
               "block": [
                 {
-                  "text": "◦ "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/a-singular-5.mp3"
+                },
+                {
+                  "boldText": "• "
                 },
                 {
                   "text": "We can’t go skiing."
@@ -225,6 +282,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/plural.mp3"
+                },
+                {
                   "boldText": "plural"
                 }
               ]
@@ -236,12 +296,18 @@
             {
               "block": [
                 {
+                  "icon": "plus"
+                },
+                {
                   "text": "there are"
                 }
               ]
             },
             {
               "block": [
+                {
+                  "icon": "minus"
+                },
                 {
                   "text": "there are not... (there aren’t"
                 }
@@ -250,14 +316,21 @@
             {
               "block": [
                 {
+                  "icon": "question"
+                },
+                {
                   "text": "are there... ?"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
                 {
-                  "text": "◦ "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/a-plural-1.mp3"
+                },
+                {
+                  "boldText": "• "
                 },
                 {
                   "markedText": "There are"
@@ -270,7 +343,10 @@
             {
               "block": [
                 {
-                  "text": "◦ "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/a-plural-2.mp3"
+                },
+                {
+                  "boldText": "• "
                 },
                 {
                   "markedText": "There are"
@@ -283,10 +359,13 @@
             {
               "block": [
                 {
-                  "text": "◦ A: "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/a-plural-3.mp3"
                 },
                 {
-                  "markedText": "Are there"
+                  "boldText": "• "
+                },
+                {
+                  "markedText": "A: Are there"
                 },
                 {
                   "text": " any restaurants near here?"
@@ -315,7 +394,13 @@
             {
               "block": [
                 {
-                  "text": "◦ This restaurant is very quiet. "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/a-plural-4.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "This restaurant is very quiet. "
                 },
                 {
                   "markedText": "There aren’t"
@@ -328,7 +413,13 @@
             {
               "block": [
                 {
-                  "text": "◦ A: How many players "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/a-plural-5.mp3"
+                },
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "A: How many players "
                 },
                 {
                   "markedText": "are there"
@@ -347,7 +438,7 @@
                   "markedText": "There are"
                 },
                 {
-                  "text": " 11 players on a soccer team."
+                  "text": " 11 players."
                 }
               ]
             }
@@ -370,6 +461,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/b.mp3"
+                },
+                {
                   "boldText": "There is "
                 },
                 {
@@ -378,105 +472,114 @@
                 {
                   "boldText": "it is"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
                 {
-                  "boldText": "There’s "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/b-1.mp3"
                 },
                 {
-                  "text": "a book on the table"
-                }
-              ]
-            },
-            {
-              "block": [
+                  "markedText": "There’s"
+                },
+                {
+                  "text": " a book on the table. "
+                },
                 {
                   "text": "I like "
                 },
                 {
-                  "markedText": "this book."
+                  "markedText": "this book"
                 },
                 {
-                  "boldText": " It’s "
+                  "text": ". "
                 },
                 {
-                  "text": "interesting. "
+                  "markedText": "It’s"
+                },
+                {
+                  "text": " interesting. "
                 },
                 {
                   "text": "("
                 },
                 {
-                  "boldText": "it "
+                  "markedText": "it"
                 },
                 {
-                  "text": "= book)"
+                  "text": " = book)"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
                 {
                   "boldText": "Compare:"
                 }
-              ]
+              ],
+              "lineBreak": true
             },
             {
               "block": [
                 {
-                  "text": "◦ A: What’s "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/b-2.mp3"
                 },
                 {
-                  "boldText": "that noise? "
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "B: "
+                  "boldText": "• "
                 },
                 {
-                  "boldText": "It"
+                  "text": "A: What’s "
                 },
                 {
-                  "text": "’s a train. "
+                  "markedText": "that noise? "
+                },
+                {
+                  "text": " B: "
+                },
+                {
+                  "markedText": "It"
+                },
+                {
+                  "text": " ’s a train. "
                 },
                 {
                   "text": "("
                 },
                 {
-                  "boldText": "It "
+                  "markedText": "It"
                 },
                 {
-                  "text": "= that noise)"
+                  "text": " = that noise)"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "◦ "
+                  "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/b-3.mp3"
                 },
                 {
-                  "boldText": "There’s "
+                  "boldText": "• "
                 },
                 {
-                  "text": "a lot of salt soup. "
-                }
-              ]
-            },
-            {
-              "block": [
+                  "markedText": "There’s"
+                },
+                {
+                  "text": " a lot of salt in the soup. "
+                },
                 {
                   "text": "I don’t like "
                 },
                 {
-                  "boldText": "this soup. "
+                  "markedText": "this soup"
                 },
                 {
-                  "boldText": "It"
+                  "text": ". "
+                },
+                {
+                  "markedText": "It"
                 },
                 {
                   "text": "’s too salty. "
@@ -485,10 +588,10 @@
                   "text": "("
                 },
                 {
-                  "boldText": "It "
+                  "markedText": "It"
                 },
                 {
-                  "text": "= this soup)"
+                  "text": " = this soup)"
                 }
               ]
             }
@@ -507,7 +610,8 @@
     {
       "exercises": [
         {
-          "title": "35.1 Springfield is a small town. Look at the information below and write sentences about Springfield with There is/are or There isn't/aren't.",
+          "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/37.1.mp3",
+          "title": "37.1 Springfield is a small town. Look at the information below and write sentences about Springfield with There is/are or There isn't/aren't.",
           "description": "Example: A Park? No. There isn't a park."
         },
         {
@@ -521,7 +625,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. A golf course? No. ",
+                      "text": "1. A golf course? No.",
                       "correctAnswer": [
                         "There is not a golf course.",
                         "There isn't a golf course.",
@@ -534,7 +638,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. Any restaurants? Yes (a lot of). ",
+                      "text": "2. Any restaurants? Yes (a lot of).",
                       "correctAnswer": ["There are a lot of restaurants."],
                       "displayBlock": "true"
                     }
@@ -543,7 +647,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. A hospital? Yes. ",
+                      "text": "3. A hospital? Yes.",
                       "correctAnswer": [
                         "There is a hospital.",
                         "There's a hospital.",
@@ -556,7 +660,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "4. A swimming pool? No. ",
+                      "text": "4. A swimming pool? No.",
                       "correctAnswer": [
                         "There is not a swimming pool.",
                         "There isn't a swimming pool.",
@@ -569,7 +673,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "5. Any movie theaters? Yes, (two). ",
+                      "text": "5. Any movie theaters? Yes, (two).",
                       "correctAnswer": ["There are two movie theaters."],
                       "displayBlock": "true"
                     }
@@ -578,7 +682,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "6. A university? No. ",
+                      "text": "6. A university? No.",
                       "correctAnswer": [
                         "There is not a university.",
                         "There isn't a university.",
@@ -591,7 +695,7 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "7. Any big hotels? No. ",
+                      "text": "7. Any big hotels? No.",
                       "correctAnswer": [
                         "There are not any big hotels.",
                         "There aren't any big hotels.",
@@ -606,7 +710,8 @@
           ]
         },
         {
-          "title": "35.2 Write there is / there isn't,  there are / there aren't or is there? / are there?."
+          "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/37.2.mp3",
+          "title": "37.2 Write there is / there isn't,  there are / there aren't or is there? / are there?."
         },
         {
           "fillExercises": [
@@ -616,13 +721,15 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. Springfield isn't an old town. ",
+                      "text": "1. Springfield isn't an old town.",
                       "correctAnswer": [
                         "There are not",
                         "There aren't",
                         "There aren’t"
-                      ],
-                      "afterBlank": " any old buildings.",
+                      ]
+                    },
+                    {
+                      "text": "any old buildings.",
                       "displayBlock": true
                     }
                   ]
@@ -630,9 +737,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. Look! ",
-                      "correctAnswer": ["There is", "There's", "There’s"],
-                      "afterBlank": " a picture of your brother in the newspaper.",
+                      "text": "2. Look!",
+                      "correctAnswer": ["There is", "There's", "There’s"]
+                    },
+                    {
+                      "text": "a picture of your brother in the newspaper.",
                       "displayBlock": true
                     }
                   ]
@@ -640,9 +749,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. “Excuse me, ",
-                      "correctAnswer": ["is there"],
-                      "afterBlank": " a bank near here?” “Yes, at the end of the block.” ",
+                      "text": "3. “Excuse me,",
+                      "correctAnswer": ["is there"]
+                    },
+                    {
+                      "text": "a bank near here?” “Yes, at the end of the block.” ",
                       "displayBlock": true
                     }
                   ]
@@ -650,9 +761,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "4. ",
-                      "correctAnswer": ["There are"],
-                      "afterBlank": " five people in my family: my parents, my two sisters, and me.",
+                      "text": "4.",
+                      "correctAnswer": ["There are"]
+                    },
+                    {
+                      "text": "five people in my family: my parents, my two sisters, and me.",
                       "displayBlock": true
                     }
                   ]
@@ -660,9 +773,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "5. “How many students ",
-                      "correctAnswer": ["are there"],
-                      "afterBlank": " in the class?” “Twenty.”",
+                      "text": "5. “How many students",
+                      "correctAnswer": ["are there"]
+                    },
+                    {
+                      "text": "in the class?” “Twenty.”",
                       "displayBlock": true
                     }
                   ]
@@ -670,13 +785,15 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "6. The road is usually quiet. ",
+                      "text": "6. The road is usually quiet.",
                       "correctAnswer": [
                         "There is not",
                         "There isn't",
                         "There isn’t."
-                      ],
-                      "afterBlank": " much traffic.",
+                      ]
+                    },
+                    {
+                      "text": "much traffic.",
                       "displayBlock": true
                     }
                   ]
@@ -684,9 +801,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "7. “",
-                      "correctAnswer": ["Is there"],
-                      "afterBlank": " a bus from downtown to the airport?” “Yes, every 20 minutes.”",
+                      "text": "7.“",
+                      "correctAnswer": ["Is there"]
+                    },
+                    {
+                      "text": "a bus from downtown to the airport?” “Yes, every 20 minutes.”",
                       "displayBlock": true
                     }
                   ]
@@ -694,9 +813,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "8. “",
-                      "correctAnswer": ["Are there"],
-                      "afterBlank": " any problems?” “No, everything's OK.”",
+                      "text": "8.“",
+                      "correctAnswer": ["Are there"]
+                    },
+                    {
+                      "text": "any problems?” “No, everything's OK.”",
                       "displayBlock": true
                     }
                   ]
@@ -704,9 +825,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "9. ",
-                      "correctAnswer": ["There is", "There’s", "There's"],
-                      "afterBlank": " nowhere to sit down. "
+                      "text": "9.",
+                      "correctAnswer": ["There is", "There’s", "There's"]
+                    },
+                    {
+                      "text": "nowhere to sit down. "
                     },
                     {
                       "correctAnswer": [
@@ -714,7 +837,7 @@
                         "There aren’t",
                         "There aren't"
                       ],
-                      "afterBlank": " any chairs."
+                      "text": "any chairs."
                     }
                   ]
                 }
@@ -723,7 +846,8 @@
           ]
         },
         {
-          "title": "35.3 Write there's / is there or it's / is it.",
+          "audioSrc": "/assets/audio/extras/grammar/elementary/unit-37/37.3.mp3",
+          "title": "37.3 Write there's / is there or it's / is it.",
           "description": "Example: There's a train at 10:30. Is it a fast train?"
         },
         {
@@ -734,9 +858,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "1. I'm not going to buy this shirt. ",
-                      "correctAnswer": ["It is", "It's", "It’s"],
-                      "afterBlank": " too expensive.",
+                      "text": "1. I'm not going to buy this shirt.",
+                      "correctAnswer": ["It is", "It's", "It’s"]
+                    },
+                    {
+                      "text": "too expensive.",
                       "displayBlock": true
                     }
                   ]
@@ -744,9 +870,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "2. What's wrong? ",
-                      "correctAnswer": ["There is", "There's", "There’s"],
-                      "afterBlank": " something in my eye.",
+                      "text": "2. What's wrong?",
+                      "correctAnswer": ["There is", "There's", "There’s"]
+                    },
+                    {
+                      "text": "something in my eye.",
                       "displayBlock": true
                     }
                   ]
@@ -754,22 +882,26 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "3. ",
-                      "correctAnswer": ["There is", "There's", "There’s"],
-                      "afterBlank": " a red car outside your house. "
+                      "text": "3.",
+                      "correctAnswer": ["There is", "There's", "There’s"]
+                    },
+                    {
+                      "text": "a red car outside your house. "
                     },
                     {
                       "correctAnswer": ["Is it"],
-                      "afterBlank": " yours?"
+                      "text": "yours?"
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "beforeBlank": "4. A: ",
-                      "correctAnswer": ["Is there"],
-                      "afterBlank": " anything good on TV tonight?",
+                      "text": "4. A:",
+                      "correctAnswer": ["Is there"]
+                    },
+                    {
+                      "text": "anything good on TV tonight?",
                       "displayBlock": true
                     }
                   ]
@@ -777,9 +909,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "B: Yes, ",
-                      "correctAnswer": ["there is", "there's", "there’s"],
-                      "afterBlank": " a show I want to see at 8:00.",
+                      "text": "B: Yes,",
+                      "correctAnswer": ["there is", "there's", "there’s"]
+                    },
+                    {
+                      "text": "a show I want to see at 8:00.",
                       "displayBlock": true
                     }
                   ]
@@ -787,9 +921,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "5. “What's that building?” “",
-                      "correctAnswer": ["It is", "It’s", "It's"],
-                      "afterBlank": " a school.”",
+                      "text": "5. “What's that building?” “",
+                      "correctAnswer": ["It is", "It’s", "It's"]
+                    },
+                    {
+                      "text": "a school.”",
                       "displayBlock": true
                     }
                   ]
@@ -797,9 +933,11 @@
                 {
                   "block": [
                     {
-                      "beforeBlank": "6. “",
-                      "correctAnswer": ["Is there"],
-                      "afterBlank": " a restaurant in this hotel?” “No, I’m afraid not.”",
+                      "text": "6. “",
+                      "correctAnswer": ["Is there"]
+                    },
+                    {
+                      "text": "a restaurant in this hotel?” “No, I’m afraid not.”",
                       "displayBlock": true
                     }
                   ]

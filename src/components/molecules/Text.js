@@ -13,7 +13,7 @@ class Text extends HTMLElement {
     const css = document.createElement("style");
     /*css*/
     css.textContent = `
-      .img-top {
+    .img-top {
         display: grid;
         grid-template-rows: auto auto;
         gap: 10px
@@ -173,8 +173,8 @@ class Text extends HTMLElement {
         if (subItem.audioSrc) {
           const playIcon = document.createElement("wc-audio");
           playIcon.data = {
-            audioSrc: subItem.audioSrc
-          }
+            audioSrc: subItem.audioSrc,
+          };
 
           if (blockElement.style.textIndent === "1rem") {
             playIcon.style.marginLeft = "-1rem";

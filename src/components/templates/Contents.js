@@ -110,7 +110,7 @@ class Contents extends HTMLElement {
       // Text
       if (section.text) {
         const wrapper = document.createElement("div");
-        if (section.flex) {
+        if (section.grid) {
           wrapper.classList.add("text-container");
         }
 
