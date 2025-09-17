@@ -15,15 +15,224 @@
       }
     ]
   },
-  "contents": [
+      "contents": [
     {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "A"
+      }
+    },
+    {
+      "grid": false,
       "text": [
         {
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/general/",
+              "alt": ""
+            }
+          ],
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Under construction..."
+                  "boldText": "..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "B"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/general/",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "C"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/general/",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "... "
+                },
+                {
+                  "ptText": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "homework",
+        "label": "Exercises"
+      }
+    },
+    {
+      "exercises": [
+        {
+          "title": "Choose the correct answer.",
+          "description": "Description"
+        },
+        {
+          "images": [
+            {
+              "width": "200px",
+              "number": "1",
+              "src": "",
+              "alt": "..."
+            },
+            {
+              "width": "200px",
+              "number": "2",
+              "src": "",
+              "alt": "..."
+            },
+            {
+              "width": "200px",
+              "number": "3",
+              "src": "",
+              "alt": "..."
+            }
+          ]
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "boldText": "1. ...",
+                  "text": "... ",
+                  "markedText": "..."
+                }
+              ],
+              "options": [
+                { "option": "a) ...", "isCorrect": true },
+                { "option": "b) ...", "isCorrect": false },
+                { "option": "c) ...", "isCorrect": false }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fill in the blank with the correct answer.",
+          "description": "Description"
+        },
+        {
+          "images": [
+            {
+              "width": "200px",
+              "number": "1",
+              "src": "",
+              "alt": "..."
+            },
+            {
+              "width": "200px",
+              "number": "2",
+              "src": "",
+              "alt": "..."
+            },
+            {
+              "width": "200px",
+              "number": "3",
+              "src": "",
+              "alt": "..."
+            }
+          ]
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
                 }
               ]
             }
