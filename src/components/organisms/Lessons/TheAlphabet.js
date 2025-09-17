@@ -31,6 +31,10 @@ class TheAlphabet extends HTMLElement {
         text-align: center
       }
 
+      .text-audio {
+        font-weight: bold
+      }
+
       .number {
         font-size: .8rem
       }
@@ -69,10 +73,19 @@ class TheAlphabet extends HTMLElement {
     };
     this.shadowRoot.appendChild(ribbon);
 
-    const title = document.createElement("span");
-    title.textContent = "Listen to the alphabet.";
-    title.classList.add("title");
-    this.shadowRoot.appendChild(title);
+    const textAudioWrapper = document.createElement("span");
+    textAudioWrapper.classList.add("text-audio")
+
+    const textAudio = document.createElement("wc-audio");
+    textAudio.data = {
+      audioSrc: "/assets/audio/alphabet/listen-the-the-alphabet.mp3"
+    }
+    const textNode = document.createTextNode("Listen to the alphabet.");
+
+    textAudioWrapper.appendChild(textAudio);
+    textAudioWrapper.appendChild(textNode);
+
+    this.shadowRoot.appendChild(textAudioWrapper);
 
     const letterContainer = document.createElement("div");
     letterContainer.classList.add("letter-container");
@@ -296,8 +309,7 @@ class TheAlphabet extends HTMLElement {
       {
         audioSrc: "/assets/audio/alphabet/eight-h.mp3",
         tip: "Number “eight” is pronounced differently from letter “H”",
-      }
-      
+      },
     ];
 
     const tipContainer = document.createElement("div");
@@ -323,7 +335,7 @@ class TheAlphabet extends HTMLElement {
       tipContainer.appendChild(tip);
     });
 
-    container.append(ribbon, title, letterContainer, tipContainer);
+    container.append(ribbon, textAudioWrapper, letterContainer, tipContainer);
   }
 }
 

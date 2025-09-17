@@ -54,7 +54,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/general/listen-and-practice.mp3"
                 },
                 {
                   "boldText": "Listen and Practice."
@@ -68,7 +68,7 @@
     {
       "audioPlayer": {
         "sticky": false,
-        "src": "/assets/audio/courses/beginner/lesson-2/IC5_L0_Unit 01 Pg 002 Ex 01 Conversation Pt A (mp3cut.net).mp3"
+        "src": "/assets/audio/courses/beginner/lesson-2/IC5_L0_Unit 01 Pg 002 Ex 01 Conversation Pt A.mp3"
       }
     },
     {
