@@ -54,12 +54,6 @@
       ]
     },
     {
-      "audioPlayer": {
-        "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/starter/kids/finding-nemo/audio.mp3"
-      }
-    },
-    {
       "exercises": [
         {
           "title": "Choose the correct answer."
@@ -92,6 +86,13 @@
         }
       ]
     },
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/extras/audiobooks/starter/kids/finding-nemo/audio.mp3"
+      }
+    },
+
     {
       "ribbon": {
         "icon": "snippet",

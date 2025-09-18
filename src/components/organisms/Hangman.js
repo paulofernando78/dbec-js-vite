@@ -181,12 +181,12 @@ class Hangman extends HTMLElement {
         // Atualiza o estado das letras e possivelmente muda de palavra
         this.handleGuess(ch);
 
-
-        const audio = new Audio(`/assets/audio/alphabet/${ch.toLowerCase()}.mp3`)
-        audio.play()
-        this.handleGuess(ch)
+        const audio = new Audio(
+          `/assets/audio/alphabet/${ch.toLowerCase()}.mp3`
+        );
+        audio.play();
+        this.handleGuess(ch);
       });
-
 
       this.letterContainer.appendChild(letter);
     });
@@ -303,8 +303,9 @@ class Hangman extends HTMLElement {
       }
     }
 
+    // 0 = não remove automaticamente
     if (this.errors >= this.maxAttempts) {
-      this.showMessage(this.notThisTimeMsg, 0); // 0 = não remove automaticamente
+      this.showMessage(this.notThisTimeMsg, 0);
       this.disabledAllLetters();
     }
   }
