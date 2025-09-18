@@ -31,6 +31,12 @@ class Hangman extends HTMLElement {
         2px 2px 2px black
       }
 
+      .image-title, .complete-word {
+        display: block;
+        font-family: "Slackey";
+        font-size: 1rem;
+      }
+
       .attempt-words {
         display: block;
         font-family: "Slackey";
@@ -113,7 +119,7 @@ class Hangman extends HTMLElement {
         }
 
         .letter-container {
-          margin: 25px 0 0 0
+          margin: 15px 0 0 0
         }
       }
     `;
@@ -141,15 +147,21 @@ class Hangman extends HTMLElement {
     wordNunmbersImageWrapper.classList.add("line-break");
     Wrapper.appendChild(wordNunmbersImageWrapper);
 
+    const imageTitle = document.createElement("p");
+    imageTitle.classList.add("image-title");
+    imageTitle.textContent =
+      "Look at the picture and click / tap the letters to guess the word.";
+    wordNunmbersImageWrapper.appendChild(imageTitle);
+
+    const image = document.createElement("wc-image");
+    wordNunmbersImageWrapper.appendChild(image);
+    this.imageElement = image;
+
     const attemptWords = document.createElement("span");
     attemptWords.classList.add("attempt-words");
     attemptWords.textContent = "";
     wordNunmbersImageWrapper.appendChild(attemptWords);
     this.attemptWords = attemptWords;
-
-    const image = document.createElement("wc-image");
-    wordNunmbersImageWrapper.appendChild(image);
-    this.imageElement = image;
 
     // Right side - lettersWrapper
     const lettersWrapper = document.createElement("div");
@@ -185,7 +197,6 @@ class Hangman extends HTMLElement {
           `/assets/audio/alphabet/${ch.toLowerCase()}.mp3`
         );
         audio.play();
-        this.handleGuess(ch);
       });
 
       this.letterContainer.appendChild(letter);
@@ -246,6 +257,12 @@ class Hangman extends HTMLElement {
       });
     });
     container.appendChild(reset);
+
+    const completedWord = document.createElement("span");
+    completedWord.classList.add("complete-word");
+    completedWord.style.display = "none";
+    container.appendChild(completedWord);
+    this.completedWordElement = completedWord;
   }
 
   hideAllMessages() {
@@ -286,6 +303,13 @@ class Hangman extends HTMLElement {
 
     if (!this.guessed.includes("_")) {
       this.showMessage(this.congratsMsg, 2000);
+
+      this.completedWord.push(this.currentWord);
+      this.completedWordElement.textContent = `Guessed words: ${this.completedWord.join(
+        ", "
+      )}`;
+      this.completedWordElement.style.display = "block";
+
       this.currentWordIndex++;
 
       if (this.currentWordIndex < this.wordsArray.length) {
@@ -303,10 +327,26 @@ class Hangman extends HTMLElement {
       }
     }
 
-    // 0 = não remove automaticamente
     if (this.errors >= this.maxAttempts) {
-      this.showMessage(this.notThisTimeMsg, 0);
-      this.disabledAllLetters();
+      this.showMessage(this.notThisTimeMsg, 3000);
+
+      setTimeout(() => {
+        // Reset current word only
+        this.errors = 0;
+        this.renderAttempts();
+        this.guessed = this.currentWord
+          .split("")
+          .map((char) => (char === " " ? " " : "_"));
+        this.wordDisplay.textContent = this.guessed.join("");
+
+        // Reenable all letters
+        const letters = this.shadowRoot.querySelectorAll("wc-button.letter");
+        letters.forEach((letter) => {
+          letter.shadowRoot.querySelector("button").disabled = false;
+        });
+
+        this.hideAllMessages();
+      }, 3000);
     }
   }
 
@@ -380,6 +420,8 @@ class Hangman extends HTMLElement {
     // Embaralha as palavras
     this.wordsArray = [...items].sort(() => Math.random() - 0.5);
     this.currentWordIndex = 0;
+
+    this.completedWord = [];
 
     // Carrega a primeira palavra do array embaralhado
     this.loadWord(this.wordsArray[this.currentWordIndex]);

@@ -117,6 +117,132 @@
       ]
     },
     {
+      "exercises": [
+        {
+          "title": "Fill in the blank from the guess word above.",
+          "description": "Description"
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "1. We can travel on a",
+                      "correctAnswer": ["boat"]
+                    },
+                    {
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2. I like to read the",
+                      "correctAnswer": ["newspaper"]
+                    },
+                    {
+                      "text":	"in the morning."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3. She is looking at a fashion",
+                      "correctAnswer": ["magazine"]
+                    },
+                    {
+                      "text":	"."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4. He gave her a",
+                      "correctAnswer": ["diamond ring"]
+                    },
+                    {
+                      "text":	"for her birthday."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "5. The train stops at the",
+                      "correctAnswer": ["train station"]
+                    },
+                    {
+                      "text":	"."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "6. The children are playing in the",
+                      "correctAnswer": ["garden"]
+                    },
+                    {
+                      "text":	"."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "7. The car has a French ",
+                      "correctAnswer": ["license plate"]
+                    },
+                    {
+                      "text":	"."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "8. She has a scarf around her",
+                      "correctAnswer": ["neck"]
+                    },
+                    {
+                      "text":	"."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "9. We have to wash our hands with",
+                      "correctAnswer": ["soap"]
+                    },
+                    {
+                      "text":	"."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "10. This",
+                      "correctAnswer": ["perfume bottle"]
+                    },
+                    {
+                      "text":	"smells very nice."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 1"
@@ -1136,7 +1262,7 @@
                       "correctAnswer": ["pulls"]
                     },
                     {
-                      "text":	"again."
+                      "text": "again."
                     }
                   ]
                 }
@@ -1358,7 +1484,7 @@
                       "correctAnswer": ["opens"]
                     },
                     {
-                      "text":	" the window."
+                      "text": " the window."
                     }
                   ]
                 },
