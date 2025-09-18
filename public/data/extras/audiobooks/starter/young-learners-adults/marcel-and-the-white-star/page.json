@@ -95,9 +95,9 @@
           "word": "garden"
         },
         {
-          "imageSrc": "/assets/images/general/number-plate-usa.avif",
-          "alt": "A number plate",
-          "word": "number plate"
+          "imageSrc": "/assets/images/general/license-plate.avif",
+          "alt": "A license plate",
+          "word": "license plate"
         },
         {
           "imageSrc": "/assets/images/general/neck.avif",
@@ -119,8 +119,7 @@
     {
       "exercises": [
         {
-          "title": "Fill in the blank from the guess word above.",
-          "description": "Description"
+          "title": "Fill in the blanks with the words from the “Guess Word”."
         },
         {
           "fillExercises": [
