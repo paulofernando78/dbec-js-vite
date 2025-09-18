@@ -40,7 +40,8 @@ class Hangman extends HTMLElement {
 
       .image-letters-wrapper {
         display: grid;
-        grid-template-columns: auto auto 
+        grid-template-columns: 300px auto
+        
       }
 
       .letters-heart-display-wrapper {
@@ -54,6 +55,7 @@ class Hangman extends HTMLElement {
         flex-wrap: wrap;
         justify-content: center;
         align-content: flex-start;
+        margin-left: 5.5px
       }
       
       .letter {
@@ -111,7 +113,7 @@ class Hangman extends HTMLElement {
         }
 
         .letter-container {
-          margin-top: 25px
+          margin: 25px 0 0 0
         }
       }
     `;
