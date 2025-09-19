@@ -46,6 +46,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/summary.mp3"
+                },
+                {
                   "text": "Sarah and Jessica arrive in New Zealand for a holiday. They find a mobile phone in the taxi from the airport. It is Michael’s mobile, but can they find him? He has messages from home - are they important? Go with the girls on a New Zealand adventure."
                 }
               ]
@@ -63,62 +66,61 @@
     {
       "hangman": [
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/airport.avif",
+          "alt": "An airport",
+          "word": "airport"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/taxi.avif",
+          "alt": "A taxi",
+          "word": "taxi"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/bus-station.avif",
+          "alt": "A bus station",
+          "word": "bus station"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/mobile-phone.avif",
+          "alt": "A mobile phone",
+          "word": "mobile phone"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/beach.avif",
+          "alt": "A beach",
+          "word": "beach"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/ticket.avif",
+          "alt": "A ticket",
+          "word": "ticket"
         },
         {
-          "imageSrc": "/assets/images/general/l.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/cave.avif",
+          "alt": "A cave",
+          "word": "cave"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/island.avif",
+          "alt": "An island",
+          "word": "island"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/police-station.avif",
+          "alt": "A police station",
+          "word": "police station"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/whale.avif",
+          "alt": "A whale",
+          "word": "whale"
         }
       ]
     },
     {
       "exercises": [
         {
-          "title": "Fill in the blanks with the words from “Guess Word”.",
-          "description": "Description"
+          "title": "Fill in the blanks with the words from “Guess Word”."
         },
         {
           "fillExercises": [
@@ -128,7 +130,7 @@
                   "block": [
                     {
                       "text": "1.",
-                      "correctAnswer": ["..."]
+                      "correctAnswer": ["airport"]
                     }
                   ]
                 },
@@ -136,7 +138,7 @@
                   "block": [
                     {
                       "text": "2.",
-                      "correctAnswer": ["..."]
+                      "correctAnswer": ["taxi"]
                     }
                   ]
                 },
@@ -144,7 +146,7 @@
                   "block": [
                     {
                       "text": "3.",
-                      "correctAnswer": ["..."]
+                      "correctAnswer": ["bus station"]
                     }
                   ]
                 },
@@ -152,7 +154,7 @@
                   "block": [
                     {
                       "text": "4.",
-                      "correctAnswer": ["..."]
+                      "correctAnswer": ["mobile phone"]
                     }
                   ]
                 },
@@ -160,7 +162,7 @@
                   "block": [
                     {
                       "text": "5.",
-                      "correctAnswer": ["..."]
+                      "correctAnswer": ["beach"]
                     }
                   ]
                 },
@@ -168,7 +170,7 @@
                   "block": [
                     {
                       "text": "6.",
-                      "correctAnswer": ["..."]
+                      "correctAnswer": ["ticket"]
                     }
                   ]
                 },
@@ -176,7 +178,7 @@
                   "block": [
                     {
                       "text": "7.",
-                      "correctAnswer": ["..."]
+                      "correctAnswer": ["cave"]
                     }
                   ]
                 },
@@ -184,7 +186,7 @@
                   "block": [
                     {
                       "text": "8.",
-                      "correctAnswer": ["..."]
+                      "correctAnswer": ["island"]
                     }
                   ]
                 },
@@ -192,7 +194,7 @@
                   "block": [
                     {
                       "text": "9.",
-                      "correctAnswer": ["..."]
+                      "correctAnswer": ["police station"]
                     }
                   ]
                 },
@@ -200,7 +202,7 @@
                   "block": [
                     {
                       "text": "10.",
-                      "correctAnswer": ["..."]
+                      "correctAnswer": ["whale"]
                     }
                   ]
                 }
@@ -209,12 +211,6 @@
           ]
         }
       ]
-    },
-    {
-      "audioPlayer": {
-        "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/audio.mp3"
-      }
     },
     {
       "ribbon": {
@@ -234,9 +230,12 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-1.mp3"
+              },
               "block": [
                 {
-                  "text": "Sarah and Jessica are going to New Zealand for a holiday. They are very excited. Jessica is near the window! Look!, she says. There's Auckland. “We’re here!” “But we’re late,” Sarah answers. “When’s our bus?” “At one o’clock, “Jessica says. “We can get a taxi from the airport to the bus station.”"
+                  "text": "Sarah and Jessica are going to New Zealand for a holiday. They are very excited. Jessica is near the window! Look!, she says. There's Auckland! “We’re here!” “But we’re late,” Sarah answers. “When’s our bus?” “At one o’clock, “Jessica says. “We can get a taxi from the airport to the bus station.”"
                 }
               ]
             }
@@ -318,6 +317,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-12.mp3"
+              },
               "block": [
                 {
                   "text": "At the airport, the girls look for a taxi. “Look!” Jessica says. “That boy’s waving to us!” “Excuse me! Are you late?” the boy calls to them. “Do you want this taxi? I can wait.” “Thank you very much!” the girls answer. “To the bus station, please,” Sarah says to the driver. She smiles at the boy and they drive away."
@@ -373,6 +375,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-3.mp3"
+              },
               "block": [
                 {
                   "text": "The taxi stops at the bus station. Suddenly, Jessica sees a mobile phone on the taxi floor. “Is that your mobile phone?” she asks the driver. He looks at it. “No,” he answers. “It’s the boy’s mobile.” Sarah takes it. Perhaps I can find his address,” she says. “Yes! His name’s Michael. Tomorrow he’s at Ninety Mile Beach. We can give it to him there.”"
@@ -441,6 +446,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-4.mp3"
+              },
               "block": [
                 {
                   "text": "The girls wait at Ninety Mile Beach. They eat and watch the buses. The buses aren’t driving on a road—they are driving on the long beach. “Look for Michael!” Jessica says. But Sarah is looking at the sea. Suddenly Jessica sees him. “He’s on that bus!” she says. She waves. Michael waves to her, but the bus doesn’(t) stop."
@@ -498,6 +506,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-5.mp3"
+              },
               "block": [
                 {
                   "text": "The girls get on a bus. “Can we catch (h)im?” Jessica asks. “I don’(t) know,” Sarah answers. “I can’(t) see his bus now.” Suddenly, they hear a beep. Sarah looks at the mobile. “There’s a message for Michael,” she says. She reads the message. “It’s important,” she says. “Perhaps we can find (h)im tomorrow a(t) the Sky Tower in Auckland.”"
@@ -563,6 +574,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-6.mp3"
+              },
               "block": [
                 {
                   "text": "At the Sky Tower, the girls can’(t) see Michael. “He isn’(t) here,” Sarah says. A woman bungy jumps from the tower. “I can do that,” she says. “Are you coming, Jessica?” “No,” Jessica answers. “But I can watch you from here.” “Please watch my bag too,” Sarah says. She gives her bag to Jessica and she goes up the tower."
@@ -624,6 +638,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-7.mp3"
+              },
               "block": [
                 {
                   "text": "Sarah jumps. It is a very long jump. She comes down near the street and she sees Michael. Jessica sees him too. “Michael! Come back! We’ve got your mobile!” she calls to him. But Michael is walking away. She runs after him. She doesn’t take Sarah’s bag. “Jessica! My bag!” Sarah calls."
@@ -692,9 +709,12 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-8.mp3"
+              },
               "block": [
                 {
-                  "text": "Jessica and Sarah are very unhappy. They can’t find Michael and they can’t find Sarah’s bag. Sarah has no money now. “Sorry,” Jessica says. “But I’ve got some money—and we’ve got tickets for the Glow-worm Caves.” “OK. Let’s go there tomorrow,” Sarah says. “Michael is going too. We can look for him there.”"
+                  "text": "Jessica and Sarah are very unhappy. They can’t find Michael and they can’t find Sarah’s bag. Sarah has no money now. “Sorry,” Jessica says. “But I’ve got some money—and we’ve got tickets for the Glow-worm Caves.” “OK. Let’s go there tomorrow,” Sarah says. “Michael is going, too. We can look for him there.”"
                 }
               ]
             }
@@ -760,6 +780,9 @@
               "alt": "Paragraph 9 image"
             }
           ],
+          "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-9.mp3"
+              },
           "blocks": [
             {
               "block": [
@@ -819,6 +842,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-10.mp3"
+              },
               "block": [
                 {
                   "text": "“Rotorua is very interesting,” Jessica says. “I like the hot water.” “Yes,” Sarah answers, “but I can’t see Michael.” “Where is he tomorrow?” Jessica asks. Sarah looks at the mobile, “He’s in the South Island,” she says. “The boat’s very expensive. Can we go?” “Yes,” Jessica says. “I’ve got money for the tickets.”"
@@ -876,6 +902,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-11.mp3"
+              },
               "block": [
                 {
                   "text": "Sarah and Jessica take a boat to the South Island. It is very cold, but the café is expensive. Suddenly, there is a beep from Michael’s mobile phone. “Oh, no! Not again!” Sarah says. She reads the message. “Michael’s mother and father are worrying about him, and we can’t find him. Let’s take his mobile phone to the police station in Kaikoura.”"
@@ -937,6 +966,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-12.mp3"
+              },
               "block": [
                 {
                   "text": "The girls take the phone to the police station. Then they go down to the sea. “Let’s go and see the whales,” Jessica says. “We can’t,” Sarah answers. “The tickets are expensive.” Suddenly, Jessica sees Michael. She runs to him. “Your mobile’s at the police station.” she says, “and you’ve got messages from home.”"
@@ -994,6 +1026,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-13.mp3"
+              },
               "block": [
                 {
                   "text": "Michael quickly calls home. He smiles. “My mother and father are well,” he says, “and they’ve got £100,000 from the lottery! They’re sending some money to me for my holiday. Now I can give you a surprise.” “What surprise?” Jessica asks. “Wait and see,” Michael says. He walks to the Whale Watch ticket office."
@@ -1067,6 +1102,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-14.mp3"
+              },
               "block": [
                 {
                   "text": "“Thank you for my mobile,” Michael says to the girls. “Thank you for the surprise,” Jessica says. She is very excited. “Do you like the whales?” Michael asks. “I love them,” Jessica answers. “They’re beautiful.” “Yes, and New Zealand is beautiful too,” Sarah says. “This is an adventure!”"

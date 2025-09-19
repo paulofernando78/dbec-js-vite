@@ -54,6 +54,161 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Vocabulary"
+      }
+    },
+    {
+      "hangman": [
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "alt": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "alt": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "alt": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "alt": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "alt": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "alt": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/l.avif",
+          "alt": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "alt": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "alt": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "alt": "",
+          "word": ""
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "Fill in the blanks with the words from “Guess Word”."
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "1.",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2.",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4.",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "5.",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "6.",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "7.",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "8.",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "9.",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "10.",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "audioPlayer": {
         "sticky": true,
         "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/the-leopard-and-the-lighthouse/audio.mp3"
