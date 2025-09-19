@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "cut down",
+        "phonetics": "/kʌt daʊn/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to reduce the amount of something, especially the use or consumption of something; or to make something fall by cutting it at the base.",
+        "ptDefinition": "reduzir a quantidade de algo, especialmente o uso ou consumo de algo; ou derrubar algo cortando pela base.",
+        "examples": [
+          {
+            "enExample": "I'm trying to cut down on sugar.",
+            "ptExample": "Estou tentando reduzir o consumo de açúcar."
+          },
+          {
+            "enExample": "They had to cut down the old tree in the garden.",
+            "ptExample": "Eles tiveram que derrubar a árvore velha no jardim."
+          }
+        ],
+        "synonyms": ["reduce", "decrease", "lessen", "trim"],
+        "antonyms": ["increase", "expand", "boost"],
+        "seeAlso": ["cut back", "cut off"],
+        "notes": [
+          {
+            "enNote": "Often used with 'on' (cut down on) when talking about reducing consumption.",
+            "ptNote": "Frequentemente usado com 'on' (cut down on) ao falar sobre reduzir consumo."
+          }
+        ]
+      },
+      {
         "word": "corner office",
         "phonetics": "/ˈkɔːrnɚ ˈɔːfɪs/",
         "partOfSpeech": "noun (idiom)",

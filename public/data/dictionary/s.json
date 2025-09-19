@@ -2,6 +2,58 @@
   {
     "definitions": [
       {
+        "word": "sift",
+        "phonetics": "/sɪft/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to put a substance such as flour through a sieve to remove large pieces; or to examine something carefully to find important details.",
+        "ptDefinition": "passar uma substância como farinha por uma peneira para remover pedaços grandes; ou examinar algo cuidadosamente para encontrar detalhes importantes.",
+        "examples": [
+          {
+            "enExample": "Sift the flour into a large bowl before adding the eggs.",
+            "ptExample": "Peneire a farinha em uma tigela grande antes de adicionar os ovos."
+          },
+          {
+            "enExample": "Police are sifting through the evidence to find clues.",
+            "ptExample": "A polícia está examinando as provas para encontrar pistas."
+          }
+        ],
+        "synonyms": ["filter", "screen", "examine", "scrutinize"],
+        "antonyms": ["ignore", "overlook", "neglect"],
+        "seeAlso": ["sieve", "filter"],
+        "notes": [
+          {
+            "enNote": "Used literally in cooking, and figuratively when analyzing information or evidence.",
+            "ptNote": "Usado literalmente na culinária, e figurativamente ao analisar informações ou provas."
+          }
+        ]
+      },
+      {
+        "word": "shred",
+        "phonetics": "/ʃred/",
+        "partOfSpeech": "verb, noun",
+        "enDefinition": "verb: to cut or tear something into thin strips; noun: a very small thin piece that has been torn or cut from something.",
+        "ptDefinition": "verbo: cortar ou rasgar algo em tiras finas; substantivo: um pedaço muito pequeno e fino que foi rasgado ou cortado de algo.",
+        "examples": [
+          {
+            "enExample": "She shredded the documents before throwing them away.",
+            "ptExample": "Ela triturou os documentos antes de jogá-los fora."
+          },
+          {
+            "enExample": "There isn’t a shred of evidence against him.",
+            "ptExample": "Não há um fiapo de evidência contra ele."
+          }
+        ],
+        "synonyms": ["tear", "rip", "fragment", "slice"],
+        "antonyms": ["assemble", "unite", "mend"],
+        "seeAlso": ["shredder", "fragment"],
+        "notes": [
+          {
+            "enNote": "As a verb, often used for documents, paper, cheese, or vegetables. As a noun, it can also mean 'a very small amount'.",
+            "ptNote": "Como verbo, é usado frequentemente para documentos, papel, queijo ou vegetais. Como substantivo, também pode significar 'uma quantidade mínima'."
+          }
+        ]
+      },
+      {
         "word": "sword",
         "phonetics": "/sɔːrd/",
         "partOfSpeech": "noun",
@@ -9,12 +61,12 @@
         "ptDefinition": "arma com uma lâmina longa de metal e um cabo, usada para cortar ou perfurar; historicamente usada em combate ou como símbolo de poder",
         "examples": [
           {
-        "enExample": "The knight drew his sword and prepared for battle.",
-        "ptExample": "O cavaleiro sacou sua espada e se preparou para a batalha."
+            "enExample": "The knight drew his sword and prepared for battle.",
+            "ptExample": "O cavaleiro sacou sua espada e se preparou para a batalha."
           },
           {
-        "enExample": "The sword is often seen as a symbol of bravery.",
-        "ptExample": "A espada é frequentemente vista como símbolo de bravura."
+            "enExample": "The sword is often seen as a symbol of bravery.",
+            "ptExample": "A espada é frequentemente vista como símbolo de bravura."
           }
         ],
         "synonyms": ["blade", "saber", "cutlass", "rapier"],
@@ -22,8 +74,8 @@
         "seeAlso": ["dagger", "knife", "weapon"],
         "notes": [
           {
-        "enNote": "Swords have been used throughout history in warfare, ceremonies, and as symbols of honor.",
-        "ptNote": "Espadas foram usadas ao longo da história em guerras, cerimônias e como símbolos de honra."
+            "enNote": "Swords have been used throughout history in warfare, ceremonies, and as symbols of honor.",
+            "ptNote": "Espadas foram usadas ao longo da história em guerras, cerimônias e como símbolos de honra."
           }
         ]
       },

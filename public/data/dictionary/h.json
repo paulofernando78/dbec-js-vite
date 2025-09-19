@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "hinder",
+        "phonetics": "/ˈhɪn.dər/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to make it difficult for something to happen or for someone to do something.",
+        "ptDefinition": "dificultar que algo aconteça ou que alguém faça algo.",
+        "examples": [
+          {
+            "enExample": "High winds hindered the progress of the climbers.",
+            "ptExample": "Os ventos fortes dificultaram o progresso dos alpinistas."
+          },
+          {
+            "enExample": "His lack of experience may hinder his chances of getting the job.",
+            "ptExample": "Sua falta de experiência pode atrapalhar suas chances de conseguir o emprego."
+          }
+        ],
+        "synonyms": ["impede", "obstruct", "block", "hamper"],
+        "antonyms": ["help", "assist", "facilitate", "aid"],
+        "seeAlso": ["prevent", "delay"],
+        "notes": [
+          {
+            "enNote": "Commonly used in both formal and everyday contexts to describe obstacles or difficulties.",
+            "ptNote": "Comumente usado em contextos formais e do dia a dia para descrever obstáculos ou dificuldades."
+          }
+        ]
+      },
+      {
         "word": "hide",
         "phonetics": "/haɪd/",
         "partOfSpeech": "verb (hid: past / hidden: participle)",
