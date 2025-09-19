@@ -45,6 +45,9 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/summary.mp3"
+                },
+                {
                   "text": "Felix is not a happy bird. He comes from Brazil but he doesn’t live there. He lives in New York in a cage. Then one day his cage opens and Felix says goodbye to New York. Can he find his family in Brazil again? Let’s find out."
                 }
               ]
@@ -209,12 +212,6 @@
       ]
     },
     {
-      "audioPlayer": {
-        "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/audio.mp3"
-      }
-    },
-    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 1"
@@ -232,6 +229,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-1.mp3"
+              },
               "block": [
                 {
                   "text": "Felix is a blue and yellow bird from Brazil. He lives with the Baxter family in New York. His home is a big cage. It is on the fortieth floor of a tall building. Felix likes the Baxters, and the Baxters like him. They give him food. They talk to him and show him to all their friends. But Felix isn’t happy. He wants to go home to Brazil."
@@ -324,6 +324,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-2.mp3"
+              },
               "block": [
                 {
                   "text": "Every night Felix looks up at the sky. He can see the whole city. It is big and exciting. It is home for the Baxters, but not for Felix. He remembers the big, yellow moon in Brazil. Then he remembers his last day in the jungle. The two men with white hats. The big box. The long plane journey. The shop - “Beautiful Birds” - in New York."
@@ -390,6 +393,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-3.mp3"
+              },
               "block": [
                 {
                   "text": "Felix closes his eyes. Now he can’t see the city and the snow. He can see other things. He can see the life he loves. “I want to be with my family again,” he thinks. “I want to fly home to the jungle. It’s warm there and the trees are always green.” He puts his head under one wing. “One day,” he says. “One day.”"
@@ -456,9 +462,12 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-4.mp3"
+              },
               "block": [
                 {
-                  "text": "“One day” comes two weeks later. Mr. Baxter opens Felix’s cage to give him some food. Then he hears the telephone. “Can you answer that, George?” asks Mrs Baxter, “I’m in the bath.” “OK,” says Mr Baxter. He goes to the phone, but forgets to shut Felix’s cage. Felix can see an open window. “This is it!” he thinks."
+                  "text": "“One day” comes two weeks later. Mr. Baxter opens Felix’s cage to give him some food. Then he hears the telephone. “Can you answer that, George?” asks Mrs Baxter, “I’m in the shower.” “OK,” says Mr. Baxter. He goes to the phone, but forgets to shut Felix’s cage. Felix can see an open window. “This is it!” he thinks."
                 }
               ]
             }
@@ -537,6 +546,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-5.mp3"
+              },
               "block": [
                 {
                   "text": "He flies out of his cage and out of the window. The air under his wings is very cold. Behind him, he hears, ”Hey! Felix!” but he doesn’t go back. He looks down at the streets and buildings and flies through the city. A girl in a café with her mother sees him. “Look!” she says. Her mother does not hear. She is reading her newspaper."
@@ -611,6 +623,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-6.mp3"
+              },
               "block": [
                 {
                   "text": "After an hour Felix stops. He stands on the head of the Statue of Liberty. “Where are you from?” asks a small, grey and white bird beside him. “I’m from Brazil,” answers Felix. “And where are you going?” asks the bird. Felix flies up into the cold, blue sky again. “I’m going home,” he says. “Goodbye.”"
@@ -677,6 +692,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-7.mp3"
+              },
               "block": [
                 {
                   "text": "Felix flies south. Soon he can’t see New York. All he can see is the Atlantic Ocean. In the evening the sun starts to go down. Then the sky is red, yellow and blue. It is very beautiful. Felix is hungry, but he is happy, too. For the first time in two years, he is free. He wants to fly all night."
@@ -743,6 +761,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-8.mp3"
+              },
               "block": [
                 {
                   "text": "Two hours later it starts to rain. Now the sky is black. Soon, Felix can’t see the moon or the stars. “Where am I?” he thinks. He remembers his warm cage. “Am I doing the right thing?” He looks down at the cold sea. Then he sees something. Is it a star in the black water? No, it can’t be a star. He looks again. It is a ship!"
@@ -828,6 +849,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-9.mp3"
+              },
               "block": [
                 {
                   "text": "Felix flies down to the ship. There are hundreds of fish on it. He eats twenty in five minutes, then he sleeps. In the morning a man on the ship sees him. “Oh no!” thinks Felix, but it is all right. The man only wants to take a photograph of him. Felix flies into the sky again. “Good,” he thinks. “It’s not raining now, and I’m not hungry.”"
@@ -898,6 +922,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-10.mp3"
+              },
               "block": [
                 {
                   "text": "Two days later Felix flies across Peru. He looks down and sees the Inca city of Machu Picchu. “Those old stone buildings look interesting,” he thinks. “I know - I can stop there tonight.” Felix starts to fly down to the buildings. Then he sees a big bird with beautiful black and white feathers. It is sitting on a stone."
@@ -964,6 +991,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-11.mp3"
+              },
               "block": [
                 {
                   "text": "“Hello, you’re not from Peru, are you?” says the bird. Felix tells his story. “Two years in a cage in New York?” says the bird. “Yes,” answers Felix, “but now I’m going home. Can you tell me how to get there?” “I have a friend - Aca - in RIO,” says the bird. “He knows the jungle. Go there and ask him.”"
@@ -1030,6 +1060,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-12.mp3"
+              },
               "block": [
                 {
                   "text": "Felix flies from Peru to Rio. There he sees a lot of people in the street. He can hear music and see some birds in a tree. Is one of them Aca? “Aca! Aca!” he says. “Yes, that’s me,” answers one of the birds. Felix can’t see him. Then a boy sees Felix. “Look at the bird,” he says to his father. “Can I have him? Can I? Please?”"
@@ -1089,6 +1122,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-13.mp3"
+              },
               "block": [
                 {
                   "text": "At first, Felix doesn’t see the boy or his father. He is looking at all the birds in the trees. “Aca! Aca!” says Felix. Then there is a warm hand on his neck. He fights with his wings and his feet. “Help! Help!” Aca helps him. “Aiiieee!!!” says the man. The two birds fly into the sky. “Thank you,” says Felix. Then he tells Aca his story."
@@ -1155,6 +1191,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-14.mp3"
+              },
               "block": [
                 {
                   "text": "Felix and Aca fly from Rio to the jungle. In the evening Felix says, “Yes, I remember that village. My home’s very near here. It’s only... ”. Then he stops. In front of them, there are a lot of men and machines. ”Oh no, they’re making a new road!” says Aca. “But ...where’s my home?” asks Felix. “And where’s my family?”"
@@ -1221,6 +1260,9 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-15.mp3"
+              },
               "block": [
                 {
                   "text": "The two birds fly over the new road, then they stop in a tree near the village. Felix is tired and sad. “I’m sorry,” says Aca. Then Felix sees a small blue and yellow feather in the air. He looks up. There, above the trees, are four birds. “It’s them, Aca!” he says. “It’s my family!” Then he flies into the sky. The birds see him. “Felix, is it you?” they ask. “Yes,” answers Felix. “I’m home!!!”"
