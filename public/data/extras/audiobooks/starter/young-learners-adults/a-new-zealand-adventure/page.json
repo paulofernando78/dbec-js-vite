@@ -129,80 +129,110 @@
                 {
                   "block": [
                     {
-                      "text": "1.",
+                      "text": "1. The plane leaves from the",
                       "correctAnswer": ["airport"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "2.",
+                      "text": "2. We go home in a",
                       "correctAnswer": ["taxi"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "3.",
+                      "text": "3. The bus is at the",
                       "correctAnswer": ["bus station"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "4.",
+                      "text": "4. I call my friend with my",
                       "correctAnswer": ["mobile phone"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "5.",
+                      "text": "5. They swim at the",
                       "correctAnswer": ["beach"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "6.",
+                      "text": "6. We buy a",
                       "correctAnswer": ["ticket"]
+                    },
+                    {
+                      "text":	"at the movie theater."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "7.",
+                      "text": "7. A bear lives in a",
                       "correctAnswer": ["cave"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "8.",
+                      "text": "8. We visit a small",
                       "correctAnswer": ["island"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "9.",
+                      "text": "9. A policeman works in the",
                       "correctAnswer": ["police station"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "10.",
+                      "text": "10. A",
                       "correctAnswer": ["whale"]
+                    },
+                    {
+                      "text":	"is a very big animal in the sea."
                     }
                   ]
                 }
@@ -781,8 +811,8 @@
             }
           ],
           "audioPlayer": {
-                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-9.mp3"
-              },
+            "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-9.mp3"
+          },
           "blocks": [
             {
               "block": [
