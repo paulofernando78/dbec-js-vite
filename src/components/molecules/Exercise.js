@@ -339,6 +339,7 @@ class Exercise extends HTMLElement {
     const checkAnswersButton = document.createElement("wc-button");
     checkAnswersButton.setAttribute("data-icon", "check");
     checkAnswersButton.addEventListener("click", () => {
+
       // Radio check answers
       const containers = this.shadowRoot.querySelectorAll(
         ".radio-exercise-group"
@@ -392,16 +393,19 @@ class Exercise extends HTMLElement {
     // const showAnswersButton = document.createElement("wc-button");
     // showAnswersButton.setAttribute("data-icon", "visibility");
 
+    // Confetti
+
     // Reset button
     const resetButton = document.createElement("wc-button");
     resetButton.setAttribute("data-icon", "reset");
 
-    // Radio reset
     resetButton.addEventListener("click", () => {
+
+      // Radio reset
       const containers = this.shadowRoot.querySelectorAll(
         ".radio-exercise-group"
       );
-
+      
       containers.forEach((container) => {
         const inputs = container.querySelectorAll("input[type='radio']");
         inputs.forEach((input) => {

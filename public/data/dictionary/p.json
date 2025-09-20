@@ -2,6 +2,40 @@
   {
     "definitions": [
       {
+        "word": "pitfall",
+        "phonetics": "/ˈpɪtfɔːl/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A hidden danger or difficulty; a problem that is likely to happen in a particular situation.",
+        "ptDefinition": "Uma armadilha ou dificuldade escondida; um problema que provavelmente ocorrerá em uma determinada situação.",
+        "examples": [
+          {
+            "enExample": "The new software is useful, but there are some pitfalls you need to be aware of.",
+            "ptExample": "O novo software é útil, mas há algumas armadilhas das quais você precisa estar ciente."
+          },
+          {
+            "enExample": "One common pitfall of investing is following trends without research.",
+            "ptExample": "Uma armadilha comum de investir é seguir tendências sem fazer pesquisa."
+          },
+          {
+            "enExample": "When starting a business, failing to plan for unexpected expenses is a major pitfall.",
+            "ptExample": "Ao começar um negócio, não planejar para despesas inesperadas é uma armadilha importante."
+          },
+          {
+            "enExample": "She has managed to avoid most of the pitfalls of life.",
+            "ptExample": "Ela conseguiu evitar a maioria das armadilhas da vida."
+          }
+        ],
+        "synonyms": "trap, difficulty, hazard, snag",
+        "antonyms": "advantage, benefit, boon",
+        "seeAlso": "obstacle, challenge",
+        "notes": [
+          {
+            "enNote": "Often used in the plural: 'pitfalls'.",
+            "ptNote": "Frequentemente usado no plural: 'pitfalls'."
+          }
+        ]
+      },
+      {
         "word": "plummet",
         "phonetics": "/ˈplʌm.ɪt/",
         "partOfSpeech": "verb",

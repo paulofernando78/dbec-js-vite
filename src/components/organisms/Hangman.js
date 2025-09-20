@@ -149,8 +149,14 @@ class Hangman extends HTMLElement {
 
     const imageTitle = document.createElement("p");
     imageTitle.classList.add("image-title");
-    imageTitle.textContent =
-      "Look at the picture and click / tap the letters to guess the word.";
+
+    const audio = document.createElement("wc-audio");
+    audio.data = {
+      audioSrc: "/assets/audio/hangman/title.mp3"};
+
+    imageTitle.appendChild(audio);
+    imageTitle.appendChild(document.createTextNode("Look at the picture and click / tap the letters to guess the word."))
+    
     wordNunmbersImageWrapper.appendChild(imageTitle);
 
     const image = document.createElement("wc-image");

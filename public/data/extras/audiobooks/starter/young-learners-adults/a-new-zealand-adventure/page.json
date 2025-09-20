@@ -81,7 +81,7 @@
           "word": "bus station"
         },
         {
-          "imageSrc": "/assets/images/general/mobile-phone.avif",
+          "imageSrc": "/assets/images/general/mobile-phone-1.avif",
           "alt": "A mobile phone",
           "word": "mobile phone"
         },
@@ -128,6 +128,9 @@
               "blocks": [
                 {
                   "block": [
+                    {
+                      "audioSrc": "/assets/audio/"
+                    },
                     {
                       "text": "1. The plane leaves from the",
                       "correctAnswer": ["airport"]
@@ -348,7 +351,7 @@
           "blocks": [
             {
               "audioPlayer": {
-                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-12.mp3"
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-2.mp3"
               },
               "block": [
                 {
