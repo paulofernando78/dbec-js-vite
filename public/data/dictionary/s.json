@@ -17,12 +17,12 @@
             "ptExample": "O editor riscou o parágrafo irrelevante."
           },
           {
-            "enExample": "He struck out swinging in the ninth inning.",
-            "ptExample": "Ele foi eliminado por strike no nono inning."
-          },
-          {
             "enExample": "She struck out on her first attempt at the driving test.",
             "ptExample": "Ela falhou na sua primeira tentativa no teste de direção."
+          },
+          {
+            "enExample": "He struck out swinging in the ninth inning.",
+            "ptExample": "Ele foi eliminado por strike enquanto tentava rebater na nona entrada do jogo."
           }
         ],
         "synonyms": "fail, miss, delete, cross out, lose",
