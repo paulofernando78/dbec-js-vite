@@ -90,7 +90,14 @@
                   "boldText": "Nick: "
                 },
                 {
-                  "text": "That sounds like a great business. Sam: I was "
+                  "text": "That sounds like a great business."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Sam: I was "
                 },
                 {
                   "markedText": "making money hand over fist"
