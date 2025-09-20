@@ -2,6 +2,74 @@
   {
     "definitions": [
       {
+        "word": "snap out",
+        "phonetics": "/snæp aʊt/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "To quickly stop being in a negative or depressed state; to recover from a bad mood or distraction.",
+        "ptDefinition": "Sair rapidamente de um estado negativo ou deprimido; recuperar-se de um mau humor ou distração.",
+        "examples": [
+          {
+            "enExample": "You need to snap out of your bad mood and focus on work.",
+            "ptExample": "Você precisa sair desse mau humor e se concentrar no trabalho."
+          },
+          {
+            "enExample": "It took her a few minutes to snap out of the shock after the news.",
+            "ptExample": "Ela levou alguns minutos para se recuperar do choque após a notícia."
+          },
+          {
+            "enExample": "He snapped out of his daydream when the teacher called his name.",
+            "ptExample": "Ele saiu do devaneio quando o professor chamou seu nome."
+          }
+        ],
+        "synonyms": "shake off, recover, regain composure",
+        "antonyms": "dwell on, brood, linger",
+        "seeAlso": "get over, shake off",
+        "notes": [
+          {
+            "enNote": "Commonly used in informal contexts; often followed by 'of' + a negative state.",
+            "ptNote": "Comumente usado em contextos informais; geralmente seguido de 'of' + estado negativo."
+          }
+        ]
+      },
+      {
+        "word": "snap",
+        "phonetics": "/snæp/",
+        "partOfSpeech": "verb",
+        "enDefinition": "To break or cause to break suddenly and completely; to make a sharp cracking sound; to do something quickly; to suddenly lose control emotionally.",
+        "ptDefinition": "Quebrar ou fazer quebrar de forma súbita e completa; emitir um som seco e estalante; fazer algo rapidamente; perder o controle emocional de repente.",
+        "examples": [
+          {
+            "enExample": "Be careful, or you might snap the branch.",
+            "ptExample": "Cuidado, ou você pode quebrar o galho."
+          },
+          {
+            "enExample": "She snapped her fingers to get his attention.",
+            "ptExample": "Ela estalou os dedos para chamar a atenção dele."
+          },
+          {
+            "enExample": "He snapped the photo before the moment passed.",
+            "ptExample": "Ele tirou a foto rapidamente antes que o momento passasse."
+          },
+          {
+            "enExample": "The dog snapped at the ball as it flew past.",
+            "ptExample": "O cachorro mordeu rapidamente a bola quando ela passou."
+          },
+          {
+            "enExample": "After hours of waiting, he finally snapped and started shouting.",
+            "ptExample": "Depois de horas esperando, ele finalmente perdeu o controle e começou a gritar."
+          }
+        ],
+        "synonyms": "break, crack, click, bite, seize, lose control",
+        "antonyms": "mend, repair, hold, stay calm",
+        "seeAlso": "crack, break, click, lose it",
+        "notes": [
+          {
+            "enNote": "Snap can be used literally (breaking), figuratively (quick actions), or emotionally (losing control).",
+            "ptNote": "Snap pode ser usado literalmente (quebrando), figurativamente (ações rápidas) ou emocionalmente (perder o controle)."
+          }
+        ]
+      },
+      {
         "word": "sift",
         "phonetics": "/sɪft/",
         "partOfSpeech": "verb",
