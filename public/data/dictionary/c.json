@@ -2,6 +2,36 @@
   {
     "definitions": [
       {
+        "word": "carve",
+        "phonetics": "/kɑːrv/",
+        "partOfSpeech": "verb",
+        "enDefinition": "To cut into a material or surface, often to shape or decorate it; to cut meat into pieces.",
+        "ptDefinition": "Cortar em um material ou superfície, muitas vezes para modelar ou decorar; cortar carne em pedaços.",
+        "examples": [
+          {
+            "enExample": "He carved his initials into the tree.",
+            "ptExample": "Ele gravou suas iniciais na árvore."
+          },
+          {
+            "enExample": "She carefully carved the turkey for dinner.",
+            "ptExample": "Ela cuidadosamente cortou o peru para o jantar."
+          },
+          {
+            "enExample": "Artists carved sculptures out of marble.",
+            "ptExample": "Artistas esculpiram esculturas em mármore."
+          }
+        ],
+        "synonyms": "engrave, sculpt, slice, shape",
+        "antonyms": "assemble, build",
+        "seeAlso": "engrave, slice, sculpt",
+        "notes": [
+          {
+            "enNote": "Can be used both literally (cutting material) and figuratively (carve a niche).",
+            "ptNote": "Pode ser usado tanto literalmente (cortando material) quanto figurativamente (criar um espaço/nicho)."
+          }
+        ]
+      },
+      {
         "word": "cut down",
         "phonetics": "/kʌt daʊn/",
         "partOfSpeech": "phrasal verb",
