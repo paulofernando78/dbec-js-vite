@@ -2,6 +2,40 @@
   {
     "definitions": [
       {
+        "word": "strike out",
+        "phonetics": "/straɪk aʊt/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "1. To fail completely in an attempt or effort; 2. To eliminate or mark something as incorrect; 3. In baseball, to be put out by a third strike.",
+        "ptDefinition": "1. Falhar completamente em uma tentativa ou esforço; 2. Eliminar ou riscar algo como incorreto; 3. No beisebol, ser eliminado por uma terceira bola.",
+        "examples": [
+          {
+            "enExample": "He tried to solve the problem but struck out.",
+            "ptExample": "Ele tentou resolver o problema, mas falhou completamente."
+          },
+          {
+            "enExample": "The editor struck out the irrelevant paragraph.",
+            "ptExample": "O editor riscou o parágrafo irrelevante."
+          },
+          {
+            "enExample": "He struck out swinging in the ninth inning.",
+            "ptExample": "Ele foi eliminado por strike no nono inning."
+          },
+          {
+            "enExample": "She struck out on her first attempt at the driving test.",
+            "ptExample": "Ela falhou na sua primeira tentativa no teste de direção."
+          }
+        ],
+        "synonyms": "fail, miss, delete, cross out, lose",
+        "antonyms": "succeed, pass, retain, keep",
+        "seeAlso": "fail, miss, cross out, eliminate",
+        "notes": [
+          {
+            "enNote": "Used in various contexts: attempts (fail), editing (delete), and sports (baseball).",
+            "ptNote": "Usado em vários contextos: tentativas (falhar), edição (eliminar) e esportes (beisebol)."
+          }
+        ]
+      },
+      {
         "word": "snap out",
         "phonetics": "/snæp aʊt/",
         "partOfSpeech": "phrasal verb",
