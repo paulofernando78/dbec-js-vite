@@ -21,7 +21,7 @@
       },
       {
         "icon": "flag",
-        "description": "British English"
+        "description": "American English"
       }
     ]
   },
@@ -120,7 +120,8 @@
     {
       "exercises": [
         {
-          "title": "Fill in the blanks with the words from “Guess Word”."
+          "audioSrc": "/assets/audio/hangman/now-fill-in.mp3",
+          "title": "Now fill in the blanks with the words from “Guess Word”."
         },
         {
           "fillExercises": [

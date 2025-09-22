@@ -31,7 +31,7 @@ class Hangman extends HTMLElement {
         2px 2px 2px black
       }
 
-      .image-title, .complete-word {
+      .image-title, .image-question, .complete-word {
         display: block;
         font-family: "Slackey";
         font-size: 1rem;
@@ -147,17 +147,31 @@ class Hangman extends HTMLElement {
     wordNunmbersImageWrapper.classList.add("line-break");
     Wrapper.appendChild(wordNunmbersImageWrapper);
 
+    // Image Title
     const imageTitle = document.createElement("p");
     imageTitle.classList.add("image-title");
 
-    const audio = document.createElement("wc-audio");
-    audio.data = {
-      audioSrc: "/assets/audio/hangman/title.mp3"};
+    const titleAudio = document.createElement("wc-audio");
+    titleAudio.data = {
+      audioSrc: "/assets/audio/hangman/image-title.mp3"};
 
-    imageTitle.appendChild(audio);
-    imageTitle.appendChild(document.createTextNode("Look at the picture and click / tap the letters to guess the word."))
-    
+    imageTitle.appendChild(titleAudio);
+    imageTitle.appendChild(document.createTextNode("Look at the picture and click / tap the letters to guess the word. Don't be afraid of making mistakes."))
+
     wordNunmbersImageWrapper.appendChild(imageTitle);
+
+    // Image Question
+    const imageQuestion = document.createElement("p");
+    imageQuestion.classList.add("image-question");
+
+    const questionAudio = document.createElement("wc-audio");
+    questionAudio.data = {
+      audioSrc: "/assets/audio/hangman/question.mp3"};
+
+    imageQuestion.appendChild(questionAudio);
+    imageQuestion.appendChild(document.createTextNode("What is it?"))
+    
+    wordNunmbersImageWrapper.appendChild(imageQuestion);
 
     const image = document.createElement("wc-image");
     wordNunmbersImageWrapper.appendChild(image);
