@@ -955,7 +955,7 @@
         {
           "images": [
             {
-              "width": "350px",
+              "width": "600px",
               "number": "1",
               "src": "/assets/images/extras/grammar/elementary/unit-15/15.1.avif",
               "alt": "Picture of clean and dirty shoes."
@@ -986,7 +986,7 @@
         {
           "images": [
             {
-              "width": "300px",
+              "width": "600px",
               "number": "2",
               "src": "/assets/images/extras/grammar/elementary/unit-15/15.2.avif",
               "alt": "A picture of A woman closed a door."
@@ -1016,7 +1016,7 @@
         {
           "images": [
             {
-              "width": "350px",
+              "width": "600px",
               "number": "3",
               "src": "/assets/images/extras/grammar/elementary/unit-15/15.3.avif",
               "alt": "A picture of elderly people going to bed."
@@ -1046,7 +1046,7 @@
         {
           "images": [
             {
-              "width": "350px",
+              "width": "600px",
               "number": "4",
               "src": "/assets/images/extras/grammar/elementary/unit-15/15.4.avif",
               "alt": "A picture of a man holding an umbrella and a woman in day light."
@@ -1076,7 +1076,7 @@
         {
           "images": [
             {
-              "width": "350px",
+              "width": "600px",
               "number": "5",
               "src": "/assets/images/extras/grammar/elementary/unit-15/15.5.avif",
               "alt": "A picture of a man taking a shower."
@@ -1106,7 +1106,7 @@
         {
           "images": [
             {
-              "width": "350px",
+              "width": "600px",
               "number": "6",
               "src": "/assets/images/extras/grammar/elementary/unit-15/15.6.avif",
               "alt": "A picture of a frame on the floor."
@@ -1259,7 +1259,7 @@
                     {
                       "text": "1. I",
                       "placeholder": "’ve lost",
-                      "correctAnswer": ["have lost", "’ve lost", "I've lost"]
+                      "correctAnswer": ["have lost", "’ve lost", "'ve lost"]
                     },
                     {
                       "text": "my keys. I don’t know where they are."

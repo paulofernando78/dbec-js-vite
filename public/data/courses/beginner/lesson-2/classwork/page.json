@@ -35,7 +35,10 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/hows-it-goin.mp3"
+                },
+                {
+                  "boldText":	"Teacher: "
                 },
                 {
                   "text": "How's it goin’? "
@@ -48,13 +51,16 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/name-paulo.mp3"
+                },
+                {
+                  "boldText":	"Teacher: "
                 },
                 {
                   "markedText": "My"
                 },
                 {
-                  "text": " first name’s Paulo. My "
+                  "text": " first name’s Paulo. "
                 },
                 {
                   "markedText": "My "
@@ -73,7 +79,10 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/first-name.mp3"
+                },
+                {
+                  "boldText":	"Teacher: "
                 },
                 {
                   "markedText": "What’s your first name?"
@@ -83,7 +92,7 @@
             {
               "block": [
                 {
-                  "boldText": "Repeat: "
+                  "boldText": "Student: "
                 },
                 {
                   "text": "My first name’s..."
@@ -93,17 +102,17 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/last-name.mp3"
                 },
                 {
-                  "markedText": "And what’s your last name?"
+                  "markedText": "What’s your last name?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "boldText": "Repeat: "
+                  "boldText": "Student: "
                 },
                 {
                   "text": "My last name’s..."
@@ -113,7 +122,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/nice-to-meet-metting-you.mp3"
                 },
                 {
                   "text": "Nice to meet you. / Nice meeting you. "
@@ -126,10 +135,13 @@
             {
               "block": [
                 {
-                  "boldText": "Repeat: "
+                  "boldText": "Student: "
                 },
                 {
-                  "text": "Nice to meet you, too. Nice metting you."
+                  "text": "Nice to meet you, too. Nice metting you. "
+                },
+                {
+                  "ptText": "Prazer é meu."
                 }
               ]
             }
@@ -155,7 +167,7 @@
                   "audioSrc": "/assets/audio/courses/beginner/lesson-2/introduction.mp3"
                 },
                 {
-                  "boldText": "Now look at the picture. Joshua e Isabella are shaking hands. Listen to the dialogue."
+                  "boldText": "Now look at the picture. Joshua e Isabella are shaking hands. Listen to the dialogue. "
                 },
                 {
                   "ptText": "Agora olhe a imagem. Joshua e Isabella estão se comprimentando (apertando as mãos). Ouça o diálogo."
@@ -172,25 +184,6 @@
           "width": "50%",
           "src": "/assets/images/general/man-woman-shaking-hands.avif",
           "alt": "A man and a woman shaking hands"
-        }
-      ]
-    },
-    {
-      "text": [
-        {
-          "card": false,
-          "blocks": [
-            {
-              "block": [
-                {
-                  "audioSrc": "/assets/audio/general/listen-and-practice.mp3"
-                },
-                {
-                  "boldText": "Listen and Practice."
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -286,14 +279,13 @@
       }
     },
     {
-      "grid": false,
+      "grid": true,
       "text": [
         {
+          "card": true,
           "images": [
             {
-              "width": "",
-              "position": "",
-              "src": "/assets/images/general/",
+              "src": "/assets/images/general/man-pointing-finger-himself.avif",
               "alt": ""
             }
           ],
@@ -301,7 +293,73 @@
             {
               "block": [
                 {
-                  "text": "my"
+                  "audioSrc": "/assets/audio/dictionary/my.mp3"
+                },
+                {
+                  "boldText": "my"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "images": [
+            {
+              "src": "/assets/images/general/man-pointing-finger-oneself.avif",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/your.mp3"
+                },
+                {
+                  "boldText": "your"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "images": [
+            {
+              "src": "/assets/images/general/woman-pointing-finger-to-man.avif",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/his.mp3"
+                },
+                {
+                  "boldText": "his"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "images": [
+            {
+              "src": "/assets/images/general/man-pointing-finger-to-woman.avif",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/dictionary/her.mp3"
+                },
+                {
+                  "boldText": "her"
                 }
               ]
             }

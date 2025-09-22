@@ -46,8 +46,6 @@ class Contents extends HTMLElement {
         grid-template-columns: repeat(auto-fit, 256px);
         gap: 6px;
         justify-content: center;
-        border: var(--border);
-        border-radius: var(--border-radius);
         padding: 5px
       }
 
