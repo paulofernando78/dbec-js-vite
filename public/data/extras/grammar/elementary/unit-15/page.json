@@ -24,7 +24,7 @@
       }
     },
     {
-      "flex": true,
+      "grid": true,
       "text": [
         {
           "images": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "flex": true,
+      "grid": true,
       "text": [
         {
           "images": [

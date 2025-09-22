@@ -270,6 +270,84 @@
       ]
     },
     {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "Meaning"
+      }
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "Pronunciation"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/general/",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "my"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "Form"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "What’s your name? My name’s John."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "What’s his name? His name’s Joshua."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "What’s her name? Her name’s Isabella."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "component": "wc-the-alphabet"
     }
   ]
