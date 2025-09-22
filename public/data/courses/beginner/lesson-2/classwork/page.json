@@ -20,6 +20,132 @@
       }
     },
     {
+      "images": [
+        {
+          "width": "300px",
+          "src": "/assets/images/bitmoji/hows-it-going.png"
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "text": "How's it goin’? "
+                },
+                {
+                  "ptText": "Como vai?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "markedText": "My"
+                },
+                {
+                  "text": " first name’s Paulo. My "
+                },
+                {
+                  "markedText": "My "
+                },
+                {
+                  "text": "last name’s Silva. I'm "
+                },
+                {
+                  "markedText": "your"
+                },
+                {
+                  "text": " teacher."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "markedText": "What’s your first name?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Repeat: "
+                },
+                {
+                  "text": "My first name’s..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "markedText": "And what’s your last name?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Repeat: "
+                },
+                {
+                  "text": "My last name’s..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "text": "Nice to meet you. / Nice meeting you. "
+                },
+                {
+                  "ptText": "Prazer em conhecê-lo(a)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Repeat: "
+                },
+                {
+                  "text": "Nice to meet you, too. Nice metting you."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
+        "label": "Presentation"
+      }
+    },
+    {
       "text": [
         {
           "blocks": [
@@ -29,7 +155,10 @@
                   "audioSrc": "/assets/audio/courses/beginner/lesson-2/introduction.mp3"
                 },
                 {
-                  "boldText": "Look at the picture. A man and a woman are shaking hands. Now listen to the dialogue."
+                  "boldText": "Now look at the picture. Joshua e Isabella are shaking hands. Listen to the dialogue."
+                },
+                {
+                  "ptText": "Agora olhe a imagem. Joshua e Isabella estão se comprimentando (apertando as mãos). Ouça o diálogo."
                 }
               ]
             }

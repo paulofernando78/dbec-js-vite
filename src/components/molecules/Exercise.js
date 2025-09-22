@@ -32,7 +32,6 @@ class Exercise extends HTMLElement {
 
   set data(exercises) {
     exercises.forEach((section, idx) => {
-
       if (section.title) {
         this._renderTitleDescription(
           section.title,
@@ -339,7 +338,6 @@ class Exercise extends HTMLElement {
     const checkAnswersButton = document.createElement("wc-button");
     checkAnswersButton.setAttribute("data-icon", "check");
     checkAnswersButton.addEventListener("click", () => {
-
       // Radio check answers
       const containers = this.shadowRoot.querySelectorAll(
         ".radio-exercise-group"
@@ -393,6 +391,12 @@ class Exercise extends HTMLElement {
     // const showAnswersButton = document.createElement("wc-button");
     // showAnswersButton.setAttribute("data-icon", "visibility");
 
+    // Show audio
+    // if (isFillCorrect) {
+    //   const audio = document.createElement("wc-audio");
+    //   this.shadowRoot.appendChild(audio);
+    // }
+
     // Confetti
 
     // Reset button
@@ -400,12 +404,11 @@ class Exercise extends HTMLElement {
     resetButton.setAttribute("data-icon", "reset");
 
     resetButton.addEventListener("click", () => {
-
       // Radio reset
       const containers = this.shadowRoot.querySelectorAll(
         ".radio-exercise-group"
       );
-      
+
       containers.forEach((container) => {
         const inputs = container.querySelectorAll("input[type='radio']");
         inputs.forEach((input) => {
