@@ -49,6 +49,10 @@ class Contents extends HTMLElement {
         padding: 5px
       }
 
+      .dashed-hr {
+        border: 1px dashed var(--red-4)
+      }
+
       @media () {
         .paragraph-flex {
         display: grid;
@@ -200,6 +204,12 @@ class Contents extends HTMLElement {
       if (section.hr) {
         const hr = document.createElement("hr");
         contentContainer.appendChild(hr);
+      }
+
+      if (section.dashedHr) {
+        const dashedHr = document.createElement("hr");
+        dashedHr.classList.add("dashed-hr")
+        contentContainer.appendChild(dashedHr);
       }
     });
 

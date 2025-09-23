@@ -46,6 +46,16 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/general/listen-summary.mp3"
+                },
+                {
+                  "boldText": "Listen to the summary."
+                }
+              ], "lineBreak": true
+            },
+            {
+              "block": [
+                {
                   "audioSrc": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/summary.mp3"
                 },
                 {

@@ -293,6 +293,12 @@ class Exercise extends HTMLElement {
             const fillWrapper = document.createElement("div");
             fillWrapper.style.display = "inline";
 
+            if (inputSet.boldText) {
+              const bold = document.createElement("b");
+              bold.textContent = inputSet.boldText;
+              fillWrapper.appendChild(bold);
+            }
+
             // text
             const text = document.createElement("span");
             text.textContent = inputSet.text;

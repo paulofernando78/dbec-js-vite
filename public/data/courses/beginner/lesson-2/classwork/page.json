@@ -12,12 +12,7 @@
   },
   "contents": [
     {
-      "ribbon": {
-        "bgColor": "black",
-        "textColor": "white",
-        "icon": "snippet",
-        "label": "Introduction"
-      }
+      "component": "wc-instruction"
     },
     {
       "images": [
@@ -38,7 +33,7 @@
                   "audioSrc": "/assets/audio/courses/beginner/lesson-2/hows-it-goin.mp3"
                 },
                 {
-                  "boldText":	"Teacher: "
+                  "boldText": "Teacher: "
                 },
                 {
                   "text": "How's it goin’? "
@@ -54,7 +49,7 @@
                   "audioSrc": "/assets/audio/courses/beginner/lesson-2/name-paulo.mp3"
                 },
                 {
-                  "boldText":	"Teacher: "
+                  "boldText": "Teacher: "
                 },
                 {
                   "markedText": "My"
@@ -82,7 +77,7 @@
                   "audioSrc": "/assets/audio/courses/beginner/lesson-2/first-name.mp3"
                 },
                 {
-                  "boldText":	"Teacher: "
+                  "boldText": "Teacher: "
                 },
                 {
                   "markedText": "What’s your first name?"
@@ -150,12 +145,7 @@
       ]
     },
     {
-      "ribbon": {
-        "bgColor": "black",
-        "textColor": "white",
-        "icon": "snippet",
-        "label": "Presentation"
-      }
+      "component": "wc-presentation"
     },
     {
       "text": [
@@ -167,10 +157,10 @@
                   "audioSrc": "/assets/audio/courses/beginner/lesson-2/introduction.mp3"
                 },
                 {
-                  "boldText": "Now look at the picture. Joshua e Isabella are shaking hands. Listen to the dialogue. "
+                  "boldText": "Look at the picture. Joshua e Isabella are shaking hands. Listen to the dialogue. "
                 },
                 {
-                  "ptText": "Agora olhe a imagem. Joshua e Isabella estão se comprimentando (apertando as mãos). Ouça o diálogo."
+                  "ptText": "Olhe a imagem. Joshua e Isabella estão se comprimentando (apertando as mãos). Ouça o diálogo."
                 }
               ]
             }
@@ -204,7 +194,13 @@
                   "boldText": "Joshua: "
                 },
                 {
-                  "text": "Hello. My name is Joshua Brown."
+                  "text": "Hello. "
+                },
+                {
+                  "markedText": "My"
+                },
+                {
+                  "text": " name is Joshua Brown."
                 }
               ]
             },
@@ -214,7 +210,13 @@
                   "boldText": "Isabella: "
                 },
                 {
-                  "text": "Hi. My name is Isabella Martins."
+                  "text": "Hi. "
+                },
+                {
+                  "markedText": "My"
+                },
+                {
+                  "text": " name is Isabella Martins."
                 }
               ]
             },
@@ -234,7 +236,13 @@
                   "boldText": "Isabella: "
                 },
                 {
-                  "text": "Nice to mett you, too."
+                  "text": "Nice to meet you, "
+                },
+                {
+                  "markedText": "too"
+                },
+                {
+                  "text": "."
                 }
               ]
             },
@@ -244,7 +252,13 @@
                   "boldText": "Joshua: "
                 },
                 {
-                  "text": "I’m sorry. What's your last name again?"
+                  "text": "I’m sorry. What's "
+                },
+                {
+                  "markedText": "your"
+                },
+                {
+                  "text": " last name again?"
                 }
               ]
             },
@@ -263,20 +277,27 @@
       ]
     },
     {
-      "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
-        "icon": "snippet",
-        "label": "Meaning"
-      }
+      "component": "wc-meaning-pronunciation"
     },
     {
-      "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
-        "icon": "snippet",
-        "label": "Pronunciation"
-      }
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "Listen and repeat."
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "grid": true,
@@ -286,7 +307,7 @@
           "images": [
             {
               "src": "/assets/images/general/man-pointing-finger-himself.avif",
-              "alt": ""
+              "alt": "Man pointing finger to himself"
             }
           ],
           "blocks": [
@@ -296,7 +317,17 @@
                   "audioSrc": "/assets/audio/dictionary/my.mp3"
                 },
                 {
-                  "boldText": "my"
+                  "text": "my"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/my-name.mp3"
+                },
+                {
+                  "text": "my name is = my name’s"
                 }
               ]
             }
@@ -306,8 +337,8 @@
           "card": true,
           "images": [
             {
-              "src": "/assets/images/general/man-pointing-finger-oneself.avif",
-              "alt": ""
+              "src": "/assets/images/general/man-pointing-finger-someone.avif",
+              "alt": "Man pointing finger to someone"
             }
           ],
           "blocks": [
@@ -317,7 +348,17 @@
                   "audioSrc": "/assets/audio/dictionary/your.mp3"
                 },
                 {
-                  "boldText": "your"
+                  "text": "your"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/your-name.mp3"
+                },
+                {
+                  "text": "your name is = your name’s"
                 }
               ]
             }
@@ -338,7 +379,17 @@
                   "audioSrc": "/assets/audio/dictionary/his.mp3"
                 },
                 {
-                  "boldText": "his"
+                  "text": "his"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/his-name.mp3"
+                },
+                {
+                  "text": "his name is = his name’s..."
                 }
               ]
             }
@@ -359,7 +410,17 @@
                   "audioSrc": "/assets/audio/dictionary/her.mp3"
                 },
                 {
-                  "boldText": "her"
+                  "text": "her"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/her-name.mp3"
+                },
+                {
+                  "text": "her name is = her name’s"
                 }
               ]
             }
@@ -368,12 +429,7 @@
       ]
     },
     {
-      "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
-        "icon": "snippet",
-        "label": "Form"
-      }
+      "component": "wc-form"
     },
     {
       "grid": false,
@@ -402,11 +458,654 @@
               ]
             }
           ]
+        },
+        {
+          "card": true,
+          "cardColor": "var(--yellow-1)",
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "CCQ!"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "What’s "
+                },
+                {
+                  "markedText": "his"
+                },
+                {
+                  "text": " name? "
+                },
+                {
+                  "markedText": "Her"
+                },
+                {
+                  "text": " name is..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Correct or incorrect?"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "What’s "
+                },
+                {
+                  "markedText": "her"
+                },
+                {
+                  "text": " name? "
+                },
+                {
+                  "markedText": "His"
+                },
+                {
+                  "text": " name is..."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Correct or incorrect?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "wc-practice"
+    },
+    {
+      "component": "wc-lcwp"
+    },
+    {
+      "exercises": [
+        {
+          "title": "Complete the conversations.",
+          "description": "Use my, your his, or her."
+        },
+        {
+          "images": [
+            {
+              "width": "300px",
+              "src": "/assets/images/courses/beginner/lesson-2/classwork/lcwp-1.avif",
+              "alt": "Two people shaking hands"
+            }
+          ]
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "boldText": "A: "
+                    },
+                    {
+                      "text": "Hello. what’s",
+                      "correctAnswer": ["your"]
+                    },
+                    {
+                      "text": "name?"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "boldText": "B: "
+                    },
+                    {
+                      "text": "Hi.",
+                      "correctAnswer": ["My"]
+                    },
+                    {
+                      "text": "name is Carlos. What’s",
+                      "correctAnswer": ["your"]
+                    },
+                    {
+                      "text": "name?"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "boldText": "B:",
+                      "correctAnswer": ["My"]
+                    },
+                    {
+                      "text": "name is Akina."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "images": [
+            {
+              "width": "300px",
+              "src": "/assets/images/courses/beginner/lesson-2/classwork/lcwp-2.avif",
+              "alt": "Two people shaking hands"
+            }
+          ]
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "boldText": "A: "
+                    },
+                    {
+                      "text": "What’s",
+                      "correctAnswer": ["his"]
+                    },
+                    {
+                      "text": "name?"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "boldText": "B:"
+                    },
+                    {
+                      "correctAnswer": ["His"]
+                    },
+                    {
+                      "text": "name is Ethan. "
+                    },
+                    {
+                      "text": "And what’s",
+                      "correctAnswer": ["her"]
+                    },
+                    {
+                      "text": "name?"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "boldText": "B:",
+                      "correctAnswer": ["Her"]
+                    },
+                    {
+                      "text": "name is Caroline."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "wc-lcop"
+    },
+    {
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Joshua: "
+                },
+                {
+                  "text": "Hello. "
+                },
+                {
+                  "markedText": "My"
+                },
+                {
+                  "text": " name is Joshua Brown."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Isabella: "
+                },
+                {
+                  "text": "Hi. "
+                },
+                {
+                  "markedText": "My"
+                },
+                {
+                  "text": " name is Isabella Martins."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Joshua: "
+                },
+                {
+                  "text": "It’s nice to meet you, Isabella."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Isabella: "
+                },
+                {
+                  "text": "Nice to meet you, "
+                },
+                {
+                  "markedText": "too"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Joshua: "
+                },
+                {
+                  "text": "I’m sorry. What's "
+                },
+                {
+                  "markedText": "your"
+                },
+                {
+                  "text": " last name again?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Isabella: "
+                },
+                {
+                  "text": "It’s Martins."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "wc-production"
+    },
+    {
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "A: "
+                },
+                {
+                  "text": "Hello. "
+                },
+                {
+                  "markedText": "_____"
+                },
+                {
+                  "text": " name is _____"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "B: "
+                },
+                {
+                  "text": "Hi. "
+                },
+                {
+                  "markedText": "_____"
+                },
+                {
+                  "text": " name is _____."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "A: "
+                },
+                {
+                  "text": "It’s _____, _____."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "B: "
+                },
+                {
+                  "text": "_____, "
+                },
+                {
+                  "markedText": "_____"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "A: "
+                },
+                {
+                  "text": "I’m _____. What's "
+                },
+                {
+                  "markedText": "_____"
+                },
+                {
+                  "text": " last again?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "B: "
+                },
+                {
+                  "text": "It’s _____."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dashedHr": true
+    },
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
+        "label": "Introduction"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/general/listen-to-the-dialogue.mp3"
+                },
+                {
+                  "boldText": "Listen to the dialogue. "
+                },
+                {
+                  "ptText": "Escute o diálogo."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "A: "
+                },
+                {
+                  "text": "What’s your name?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "B: "
+                },
+                {
+                  "text": "My name is Akina Hayashi."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "A: "
+                },
+                {
+                  "text": "Is that A-K-I-N-A?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "B: "
+                },
+                {
+                  "text": "Yes, that’s right."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "A: "
+                },
+                {
+                  "text": "How do you spell your last name? H-A-Y-A-S-H-Y?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "B: "
+                },
+                {
+                  "text": "No, it’s H-A-Y-A-S-H-I."
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
       "component": "wc-the-alphabet"
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "snippet",
+        "label": "Practice"
+      }
+    },
+    {
+      "exercises": [
+        {
+          "audioSrc": "/assets/audio/courses/beginner/lesson-2/IC5_L0_Unit 01 Pg 003 Ex 05 Listening.mp3",
+          "title": "How do you spell the names? Listen and check the correct answers."
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "boldText": "1."
+                }
+              ],
+              "options": [
+                { "option": "Kate", "isCorrect": false },
+                { "option": "Cate", "isCorrect": true }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "boldText": "2."
+                }
+              ],
+              "options": [
+                { "option": "Erick", "isCorrect": true },
+                { "option": "Eric", "isCorrect": false }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "boldText": "3."
+                }
+              ],
+              "options": [
+                { "option": "Sofia", "isCorrect": false },
+                { "option": "Sophia", "isCorrect": true }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "boldText": "4."
+                }
+              ],
+              "options": [
+                { "option": "Zachary", "isCorrect": true },
+                { "option": "Zackary", "isCorrect": false }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dashedHr": true
+    },
+    {
+      "ribbon": {
+        "bgColor": "black",
+        "textColor": "white",
+        "icon": "snippet",
+        "label": "Introduction"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/mr.mp3"
+                },
+                {
+                  "text": "Mr. "
+                },
+                {
+                  "phonetics": "/ˈmɪs.tɚ/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/mr-rodriguez.mp3"
+                },
+                {
+                  "text": "Mr. Rodriguez (single or married males) "
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "Mrs. "
+                },
+                {
+                  "phonetics": "/ˈmɪs.ɪz/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Ms. "
+                },
+                {
+                  "phonetics": "/mɪz/"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "Miss. "
+                },
+                {
+                  "phonetics": "/mɪs/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

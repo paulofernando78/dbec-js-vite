@@ -5,7 +5,16 @@ import Note from "./atoms/Note";
 import Button from "./atoms/Button";
 import Iframe from "./atoms/Iframe";
 import Image from "./atoms/Image";
-import Ribbon from "./atoms/Ribbon";
+// Ribbons
+import Ribbon from "./atoms/Ribbons/Ribbon";
+import Introduction from "./atoms/Ribbons/Introduction";
+import Presentation from "./atoms/Ribbons/Presentation";
+import MeaningPronunciation from "./atoms/Ribbons/MeaningPronunciation";
+import Form from "./atoms/Ribbons/Form";
+import Practice from "./atoms/Ribbons/Practice";
+import LCWP from "./atoms/Ribbons/LCWP";
+import LCOP from "./atoms/Ribbons/LCOP";
+
 import VideoPlayer from "./atoms/VideoPlayer";
 
 // Molecules
@@ -51,7 +60,16 @@ customElements.define("wc-note", Note);
 customElements.define("wc-button", Button);
 customElements.define("wc-iframe", Iframe);
 customElements.define("wc-image", Image);
+// Ribbons
 customElements.define("wc-ribbon", Ribbon);
+customElements.define("wc-instruction", Introduction);
+customElements.define("wc-presentation", Presentation);
+customElements.define("wc-meaning-pronunciation", MeaningPronunciation);
+customElements.define("wc-form", Form);
+customElements.define("wc-practice", Practice);
+customElements.define("wc-lcwp", LCWP);
+customElements.define("wc-lcop", LCOP);
+
 customElements.define("wc-video-player", VideoPlayer);
 
 // Molecules

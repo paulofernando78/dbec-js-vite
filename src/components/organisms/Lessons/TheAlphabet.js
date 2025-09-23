@@ -78,9 +78,9 @@ class TheAlphabet extends HTMLElement {
 
     const textAudio = document.createElement("wc-audio");
     textAudio.data = {
-      audioSrc: "/assets/audio/alphabet/listen-the-the-alphabet.mp3"
+      audioSrc: "/assets/audio/alphabet/listen-alphabet.mp3"
     }
-    const textNode = document.createTextNode("Listen to the alphabet.");
+    const textNode = document.createTextNode("Listen to the alphabet and repeat.");
 
     textAudioWrapper.appendChild(textAudio);
     textAudioWrapper.appendChild(textNode);
