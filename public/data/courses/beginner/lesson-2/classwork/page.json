@@ -30,6 +30,20 @@
             {
               "block": [
                 {
+                  "audioSrc": "/assets/audio/dictionary/listen.mp3"
+                },
+                {
+                  "boldText": "Listen. "
+                },
+                {
+                  "ptText": "Escute."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
                   "audioSrc": "/assets/audio/courses/beginner/lesson-2/hows-it-goin.mp3"
                 },
                 {
@@ -288,10 +302,10 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/general/look-at-the-pictures-listen-and-repeat.mp3"
                 },
                 {
-                  "boldText": "Listen and repeat."
+                  "boldText": "Look at the pictures, listen and repeat."
                 }
               ]
             }
@@ -432,10 +446,25 @@
       "component": "wc-form"
     },
     {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/courses/beginner/lesson-2/IC5_L0_Unit 01 Pg 003 Ex 03 Grammar Focus.mp3"
+      }
+    },
+    {
       "grid": false,
       "text": [
         {
+          "card": true,
           "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "My, your, his, her"
+                }
+              ],
+              "lineBreak": true
+            },
             {
               "block": [
                 {
@@ -454,6 +483,14 @@
               "block": [
                 {
                   "text": "What’s her name? Her name’s Isabella."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "What’s = What is"
                 }
               ]
             }
@@ -866,12 +903,7 @@
       "dashedHr": true
     },
     {
-      "ribbon": {
-        "bgColor": "black",
-        "textColor": "white",
-        "icon": "snippet",
-        "label": "Introduction"
-      }
+      "component": "wc-instruction"
     },
     {
       "grid": false,
@@ -895,6 +927,12 @@
           ]
         }
       ]
+    },
+    {
+      "audioPlayer": {
+        "sticky": false,
+        "src": "/assets/audio/"
+      }
     },
     {
       "grid": false,
@@ -970,12 +1008,7 @@
       "component": "wc-the-alphabet"
     },
     {
-      "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
-        "icon": "snippet",
-        "label": "Practice"
-      }
+      "component": "wc-practice"
     },
     {
       "exercises": [
@@ -988,7 +1021,7 @@
             {
               "question": [
                 {
-                  "boldText": "1."
+                  "boldText": "1. ..."
                 }
               ],
               "options": [
@@ -999,7 +1032,7 @@
             {
               "question": [
                 {
-                  "boldText": "2."
+                  "boldText": "2. ..."
                 }
               ],
               "options": [
@@ -1010,7 +1043,7 @@
             {
               "question": [
                 {
-                  "boldText": "3."
+                  "boldText": "3. ..."
                 }
               ],
               "options": [
@@ -1021,7 +1054,7 @@
             {
               "question": [
                 {
-                  "boldText": "4."
+                  "boldText": "4. ..."
                 }
               ],
               "options": [
@@ -1037,13 +1070,41 @@
       "dashedHr": true
     },
     {
-      "ribbon": {
-        "bgColor": "black",
-        "textColor": "white",
-        "icon": "snippet",
-        "label": "Introduction"
-      }
+      "component": "wc-instruction"
     },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "My last name is Silva."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "I’m Mr. Silva."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "What’s your last name again?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
     {
       "grid": false,
       "text": [
