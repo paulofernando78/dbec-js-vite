@@ -45,6 +45,11 @@
               },
               {
                 "icon": "student",
+                "link": "/students/victor-barbosa",
+                "label": "Victor Barbosa"
+              },
+              {
+                "icon": "student",
                 "link": "/students/vitor-silva",
                 "label": "Vitor Silva"
               }

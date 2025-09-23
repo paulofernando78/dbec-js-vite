@@ -1,0 +1,1116 @@
+{
+  "whiteboard": {
+    "title": "Dashboard",
+    "descriptions": [
+      {
+        "icon": "student",
+        "description": "Victor Barbosa"
+      },
+      {
+        "icon": "date",
+        "description": "Tuesdays / Thursdays"
+      },
+      {
+        "icon": "time",
+        "description": "00:00 - 00:00"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "studentDashboard": {
+        "board": {
+          "id": "",
+          "description": "Notes.",
+          "height": "200px"
+        },
+        "dateCard": {
+          "icon": "date",
+          "label": "2025",
+          "date": [
+            {
+              "label": "January",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 7",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 9",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 14",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 16",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 21",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 23",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 28",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 30",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "February",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 4",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 6",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 11",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 13",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 18",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 20",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 25",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 27",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "March",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 4",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 6",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 11",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 13",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 18",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 20",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 25",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 27",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "April",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 1",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 3",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 8",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 10",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 15",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 17",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 22",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 24",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 29",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "May",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 1",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 6",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 8",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 13",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 15",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 20",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 22",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 27",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 29",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "June",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 3",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 5",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 10",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 12",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 17",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 19",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 24",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 26",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "July",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 1",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 3",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 8",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 10",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 15",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 17"
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 22",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 24",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 29",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 31",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "August",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 5",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 7",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ],
+                  "hr": true
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 12",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 14",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 19",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 21",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 26",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 28",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "September",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 2",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 4",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 9",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 11",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 16",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 18",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 23",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 25",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 30",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ],
+                  "hr": true
+                }
+              ]
+            },
+            {
+              "label": "October",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 2",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 7",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 9",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 14",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 16",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 21",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 23",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 28",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 30",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "November",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 4",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 6",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 11",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 13",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 18",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 20",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 25",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 27",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "December",
+              "month": [
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 2",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 4",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 9",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 11",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 16",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Thu 18",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                },
+                {
+                  "day": [
+                    {
+                      "status": "...",
+                      "date": "Tue 23",
+                      "classNotes": "",
+                      "homeWorkNotes": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
