@@ -152,6 +152,16 @@
                 {
                   "ptText": "Prazer é meu."
                 }
+              ], "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "icon":	"warning"
+                },
+                {
+                  "text": "My = I’m"
+                }
               ]
             }
           ]
@@ -175,6 +185,47 @@
                 },
                 {
                   "ptText": "Olhe a imagem. Joshua e Isabella estão se comprimentando (apertando as mãos). Ouça o diálogo."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+        {
+      "grid": true,
+      "text": [
+        {
+          "card": false,
+          "images": [
+            {
+              "src": "/assets/images/courses/beginner/lesson-2/classwork/Joshua.avif",
+              "alt": "Joshua image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Joshua"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": false,
+          "images": [
+            {
+              "src": "/assets/images/courses/beginner/lesson-2/classwork/Isabella.avif",
+              "alt": "Isabella image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Isabella"
                 }
               ]
             }
