@@ -125,6 +125,20 @@ class Contents extends HTMLElement {
         contentContainer.appendChild(wrapper);
       }
 
+      // Checking
+      if (section.checking) {
+        const checkingElement = document.createElement("wc-checking");
+        checkingElement.data = section.checking
+        contentContainer.appendChild(checkingElement);
+      }
+
+      // Instruction
+      if (section.instruction) {
+        const instructionElement = document.createElement("wc-instruction");
+        instructionElement.data = section.instruction
+        contentContainer.appendChild(instructionElement);
+      }
+
       //Image
       if (section.images) {
         const imageWrapper = document.createElement("div");

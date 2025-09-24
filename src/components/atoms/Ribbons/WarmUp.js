@@ -1,6 +1,6 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-class Production extends HTMLElement {
+class WarmUp extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -31,10 +31,10 @@ class Production extends HTMLElement {
     const wcIconItem = document.createElement("wc-icon-item");
     wcIconItem.data = {
       icon: "snippet",
-      label: "Production"
+      label: "Warm-Up"
     };
     container.appendChild(wcIconItem);
   }
 }
 
-export default Production;
+export default WarmUp;

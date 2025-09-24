@@ -250,7 +250,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Tue 16",
                       "classNotes": "",
                       "homeWorkNotes": ""
@@ -260,8 +260,8 @@
                 {
                   "day": [
                     {
-                      "status": "...",
-                      "date": "Fri 19",
+                      "status": "OK",
+                      "date": "Thu 18",
                       "classNotes": "",
                       "homeWorkNotes": ""
                     }
@@ -270,7 +270,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Tue 23",
                       "classNotes": "",
                       "homeWorkNotes": ""
@@ -281,7 +281,7 @@
                   "day": [
                     {
                       "status": "...",
-                      "date": "Fri 26",
+                      "date": "Thu 25",
                       "classNotes": "",
                       "homeWorkNotes": ""
                     }

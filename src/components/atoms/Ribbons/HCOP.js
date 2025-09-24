@@ -1,6 +1,6 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-class Production extends HTMLElement {
+class HCOP extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -25,16 +25,16 @@ class Production extends HTMLElement {
     container.classList.add("container")
     this.shadowRoot.append(container);
 
-    container.style.backgroundColor = "#000";
-    container.style.color = "#fff";
+    container.style.backgroundColor = "var(--gray-3)";
+    container.style.color = "black";
 
     const wcIconItem = document.createElement("wc-icon-item");
     wcIconItem.data = {
       icon: "snippet",
-      label: "Production"
+      label: "High-Controlled-Oral-Practice"
     };
     container.appendChild(wcIconItem);
   }
 }
 
-export default Production;
+export default HCOP;
