@@ -3,8 +3,8 @@
     "title": "Specific Purposes",
     "descriptions": [
       {
-        "icon": "business",
-        "description": "Business"
+        "icon": "finance",
+        "description": "Finance"
       }
     ]
   },
@@ -12,15 +12,15 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "books",
-        "label": "Idioms / Expressions",
+        "icon": "vocabulary",
+        "label": "Vocabulary",
         "descriptions": [
           {
             "links": [
               {
                 "icon": "book",
-                "link": "/specific-purposes/business/sbelaa",
-                "label": "Speak Business English like an American"
+                "link": "/specific-purposes/finance/trading",
+                "label": "Trading"
               }
             ]
           }

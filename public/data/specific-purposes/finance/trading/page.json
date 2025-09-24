@@ -3,8 +3,12 @@
     "title": "Specific Purposes",
     "descriptions": [
       {
-        "icon": "travel",
-        "description": "Travel"
+        "icon": "finance",
+        "description": "Finance"
+      },
+      {
+        "icon": "vocabulary",
+        "description": "Trading"
       }
     ]
   },

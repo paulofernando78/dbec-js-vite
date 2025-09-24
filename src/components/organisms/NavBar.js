@@ -78,7 +78,7 @@ class NavBar extends HTMLElement {
         label: "Grammar",
       },
       {
-        icon: 'vocabulary',
+        icon: "vocabulary",
         link: "/extras/vocabulary",
         label: "Vocabulary",
       },
@@ -90,12 +90,12 @@ class NavBar extends HTMLElement {
       {
         icon: "songs",
         link: "/extras/songs",
-        label: "Songs"
+        label: "Songs",
       },
       {
         icon: "joystick",
         link: "/extras/games",
-        label: "Games"
+        label: "Games",
       },
       { title: "SPECIFIC PURPOSES" },
       {
@@ -108,6 +108,11 @@ class NavBar extends HTMLElement {
         link: "/specific-purposes/business",
         label: "Business",
       },
+      {
+        icon: "finance",
+        link: "/specific-purposes/finance",
+        label: "Finance",
+      },
     ];
 
     const nav = document.createElement("nav");
@@ -116,26 +121,25 @@ class NavBar extends HTMLElement {
     navLinks.forEach((item) => {
       if (item.title) {
         const title = document.createElement("li");
-        title.style.fontWeight = "bold"
-        title.style.margin = "20px 0 5px 0"
-        title.style.paddingLeft = "2px"
-        title.textContent = item.title
-        ul.appendChild(title)
+        title.style.fontWeight = "bold";
+        title.style.margin = "20px 0 5px 0";
+        title.style.paddingLeft = "2px";
+        title.textContent = item.title;
+        ul.appendChild(title);
       } else {
-        const li = document.createElement("li")
-        li.classList.add("wc-icon-item")
+        const li = document.createElement("li");
+        li.classList.add("wc-icon-item");
 
         const iconItem = document.createElement("wc-icon-item");
-        iconItem.setAttribute("link", item.link)
-        iconItem.style.fontWeight = "bold"
-        iconItem.data = item
+        iconItem.setAttribute("link", item.link);
+        iconItem.style.fontWeight = "bold";
+        iconItem.data = item;
         li.appendChild(iconItem);
-        ul.appendChild(li)
+        ul.appendChild(li);
       }
-    })
-    
+    });
 
-    nav.append(ul)
+    nav.append(ul);
     this.shadowRoot.appendChild(nav);
   }
 

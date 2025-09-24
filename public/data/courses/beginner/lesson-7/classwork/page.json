@@ -16,14 +16,9 @@
       }
     ]
   },
-    "contents": [
+  "contents": [
     {
-      "ribbon": {
-        "bgColor": "black",
-        "textColor": "white",
-        "icon": "snippet",
-        "label": "Warm-Up"
-      }
+      "component": "wc-warm-up"
     },
     {
       "grid": false,
@@ -48,7 +43,7 @@
         }
       ]
     },
-        {
+    {
       "images": [
         {
           "width": "",
@@ -100,47 +95,11 @@
               ]
             }
           ]
-        },
-        {
-          "card": true,
-          "cardColor": "var(--yellow-1)",
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "CCQ!"
-                },
-                {
-                  "phonetics": ""
-                },
-                {
-                  "partOfSpeech": ""
-                },
-                {
-                  "text": ""
-                },
-                {
-                  "markedText": ""
-                },
-                {
-                  "ptBoldText": ""
-                },
-                {
-                  "ptText": ""
-                }
-              ]
-            }
-          ]
         }
       ]
     },
     {
-      "ribbon": {
-        "bgColor": "black",
-        "textColor": "white",
-        "icon": "snippet",
-        "label": "Introduction"
-      }
+      "component": "wc-introduction"
     },
     {
       "audioPlayer": {
@@ -188,145 +147,14 @@
               ]
             }
           ]
-        },
-        {
-          "card": true,
-          "cardColor": "var(--yellow-1)",
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "CCQ!"
-                },
-                {
-                  "phonetics": ""
-                },
-                {
-                  "partOfSpeech": ""
-                },
-                {
-                  "text": ""
-                },
-                {
-                  "markedText": ""
-                },
-                {
-                  "ptBoldText": ""
-                },
-                {
-                  "ptText": ""
-                }
-              ]
-            }
-          ]
         }
       ]
     },
     {
-      "ribbon": {
-        "bgColor": "black",
-        "textColor": "white",
-        "icon": "snippet",
-        "label": "Presentation"
-      }
+      "component": "wc-presentation"
     },
     {
-      "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
-        "icon": "snippet",
-        "label": "Meaning"
-      }
-    },
-    {
-      "grid": false,
-      "text": [
-        {
-          "images": [
-            {
-              "width": "",
-              "position": "",
-              "src": "/assets/images/general/",
-              "alt": "Insert image"
-            }
-          ],
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                },
-                {
-                  "phonetics": ""
-                },
-                {
-                  "partOfSpeech": ""
-                },
-                {
-                  "text": ""
-                },
-                {
-                  "markedText": ""
-                },
-                {
-                  "ptBoldText": ""
-                },
-                {
-                  "ptText": ""
-                },
-                {
-                  "links": [
-                    {
-                      "icon": "",
-                      "link": "",
-                      "label": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "card": true,
-          "cardColor": "var(--yellow-1)",
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "CCQ!"
-                },
-                {
-                  "phonetics": ""
-                },
-                {
-                  "partOfSpeech": ""
-                },
-                {
-                  "text": ""
-                },
-                {
-                  "markedText": ""
-                },
-                {
-                  "ptBoldText": ""
-                },
-                {
-                  "ptText": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
-        "icon": "snippet",
-        "label": "Pronunciation"
-      }
+      "component": "wc-meaning-pronunciation"
     },
     {
       "grid": false,
@@ -380,12 +208,17 @@
       ]
     },
     {
-      "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
-        "icon": "snippet",
-        "label": "Form"
-      }
+      "checking": [
+        {
+          "point": "..."
+        },
+        {
+          "point": "..."
+        }
+      ]
+    },
+    {
+      "component": "wc-form"
     },
     {
       "grid": false,
@@ -435,55 +268,28 @@
               ]
             }
           ]
-        },
-        {
-          "card": true,
-          "cardColor": "var(--yellow-1)",
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "CCQ!"
-                },
-                {
-                  "phonetics": ""
-                },
-                {
-                  "partOfSpeech": ""
-                },
-                {
-                  "text": ""
-                },
-                {
-                  "markedText": ""
-                },
-                {
-                  "ptBoldText": ""
-                },
-                {
-                  "ptText": ""
-                }
-              ]
-            }
-          ]
         }
       ]
     },
     {
-      "ribbon": {
-        "bgColor": "black",
-        "textColor": "white",
-        "icon": "snippet",
-        "label": "Practice"
-      }
+      "checking": [
+        {
+          "point": ""
+        }
+      ]
     },
     {
-      "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
-        "icon": "snippet",
-        "label": "Low-Controlled Written Practice"
-      }
+      "component": "wc-practice"
+    },
+    {
+      "component": "wc-lcwp"
+    },
+    {
+      "instruction": [
+        {
+          "point": ""
+        }
+      ]
     },
     {
       "grid": false,
@@ -510,50 +316,6 @@
               "block": [
                 {
                   "text": "..."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "card": true,
-          "cardColor": "var(--red-1)",
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "ICQ!"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText":	"• "
-                },
-                {
-                  "text":	"..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText":	"• "
-                },
-                {
-                  "text":	"..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText":	"• "
-                },
-                {
-                  "text":	"..."
                 }
               ]
             }
@@ -653,12 +415,14 @@
       ]
     },
     {
-      "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
-        "icon": "snippet",
-        "label": "High-Controlled Written Practice"
-      }
+      "component": "wc-hcwp"
+    },
+    {
+      "instruction": [
+        {
+          "point": ""
+        }
+      ]
     },
     {
       "grid": false,
@@ -685,50 +449,6 @@
               "block": [
                 {
                   "text": "..."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "card": true,
-          "cardColor": "var(--red-1)",
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "ICQ!"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText":	"• "
-                },
-                {
-                  "text":	"..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText":	"• "
-                },
-                {
-                  "text":	"..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText":	"• "
-                },
-                {
-                  "text":	"..."
                 }
               ]
             }
@@ -737,12 +457,14 @@
       ]
     },
     {
-      "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
-        "icon": "snippet",
-        "label": "Low-Controlled Oral Practice"
-      }
+      "component": "wc-lcop"
+    },
+    {
+      "instruction": [
+        {
+          "point": ""
+        }
+      ]
     },
     {
       "grid": false,
@@ -769,50 +491,6 @@
               "block": [
                 {
                   "text": "..."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "card": true,
-          "cardColor": "var(--red-1)",
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "ICQ!"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText":	"• "
-                },
-                {
-                  "text":	"..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText":	"• "
-                },
-                {
-                  "text":	"..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText":	"• "
-                },
-                {
-                  "text":	"..."
                 }
               ]
             }
@@ -821,12 +499,14 @@
       ]
     },
     {
-      "ribbon": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "black",
-        "icon": "snippet",
-        "label": "High-Controlled Oral Practice"
-      }
+      "component": "wc-hcop"
+    },
+    {
+      "instruction": [
+        {
+          "point": ""
+        }
+      ]
     },
     {
       "grid": false,
@@ -853,50 +533,6 @@
               "block": [
                 {
                   "text": "..."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "card": true,
-          "cardColor": "var(--red-1)",
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "ICQ!"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText":	"• "
-                },
-                {
-                  "text":	"..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText":	"• "
-                },
-                {
-                  "text":	"..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText":	"• "
-                },
-                {
-                  "text":	"..."
                 }
               ]
             }
@@ -905,12 +541,14 @@
       ]
     },
     {
-      "ribbon": {
-        "bgColor": "black",
-        "textColor": "white",
-        "icon": "snippet",
-        "label": "Production"
-      }
+      "component": "wc-production"
+    },
+    {
+      "instruction": [
+        {
+          "point": ""
+        }
+      ]
     },
     {
       "grid": false,
@@ -937,50 +575,6 @@
               "block": [
                 {
                   "text": "..."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "card": true,
-          "cardColor": "var(--red-1)",
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "ICQ!"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText":	"• "
-                },
-                {
-                  "text":	"..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText":	"• "
-                },
-                {
-                  "text":	"..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText":	"• "
-                },
-                {
-                  "text":	"..."
                 }
               ]
             }

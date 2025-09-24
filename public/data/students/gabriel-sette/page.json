@@ -174,7 +174,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Mon 22",
                       "classNotes": "",
                       "homeWorkNotes": ""
@@ -184,9 +184,9 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Wed 24",
-                      "classNotes": "",
+                      "classNotes": "https://www.youtube.com/watch?v=n9lBi71ZzsY > 27:40",
                       "homeWorkNotes": ""
                     }
                   ]
