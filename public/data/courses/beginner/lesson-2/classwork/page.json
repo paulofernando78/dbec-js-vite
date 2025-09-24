@@ -12,7 +12,7 @@
   },
   "contents": [
     {
-      "component": "wc-instruction"
+      "component": "wc-introduction"
     },
     {
       "images": [
@@ -30,13 +30,13 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/dictionary/listen.mp3"
+                  "audioSrc": "/assets/audio/general/listen-to-me.mp3"
                 },
                 {
-                  "boldText": "Listen. "
+                  "boldText": "Listen to me. "
                 },
                 {
-                  "ptText": "Escute."
+                  "ptText": "Me escute."
                 }
               ],
               "lineBreak": true
@@ -44,10 +44,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/hows-it-goin.mp3"
-                },
-                {
-                  "boldText": "Teacher: "
+                  "icon": "teacher"
                 },
                 {
                   "text": "How's it goin’? "
@@ -60,16 +57,13 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/name-paulo.mp3"
-                },
-                {
-                  "boldText": "Teacher: "
+                  "icon": "teacher"
                 },
                 {
                   "markedText": "My"
                 },
                 {
-                  "text": " first name’s Paulo. "
+                  "text": " first name’s Paulo. / I’m Paulo. "
                 },
                 {
                   "markedText": "My "
@@ -88,10 +82,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/first-name.mp3"
-                },
-                {
-                  "boldText": "Teacher: "
+                  "icon": "teacher"
                 },
                 {
                   "markedText": "What’s your first name?"
@@ -101,7 +92,7 @@
             {
               "block": [
                 {
-                  "boldText": "Student: "
+                  "icon": "student"
                 },
                 {
                   "text": "My first name’s..."
@@ -111,9 +102,6 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/last-name.mp3"
-                },
-                {
                   "markedText": "What’s your last name?"
                 }
               ]
@@ -121,7 +109,7 @@
             {
               "block": [
                 {
-                  "boldText": "Student: "
+                  "icon": "student"
                 },
                 {
                   "text": "My last name’s..."
@@ -131,10 +119,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/nice-to-meet-metting-you.mp3"
-                },
-                {
-                  "text": "Nice to meet you. / Nice meeting you. "
+                  "text": "Nice to meet you."
                 },
                 {
                   "ptText": "Prazer em conhecê-lo(a)"
@@ -144,20 +129,21 @@
             {
               "block": [
                 {
-                  "boldText": "Student: "
+                  "icon": "student"
                 },
                 {
-                  "text": "Nice to meet you, too. Nice metting you. "
+                  "text": "It’s nice to meet you, too."
                 },
                 {
                   "ptText": "Prazer é meu."
                 }
-              ], "lineBreak": true
+              ],
+              "lineBreak": true
             },
             {
               "block": [
                 {
-                  "icon":	"warning"
+                  "icon": "warning"
                 },
                 {
                   "text": "My = I’m"
@@ -181,7 +167,7 @@
                   "audioSrc": "/assets/audio/courses/beginner/lesson-2/introduction.mp3"
                 },
                 {
-                  "boldText": "Look at the picture. Joshua e Isabella are shaking hands. Listen to the dialogue. "
+                  "boldText": "Look at the picture. A man and a woman are shaking hands. Now listen to the dialogue. "
                 },
                 {
                   "ptText": "Olhe a imagem. Joshua e Isabella estão se comprimentando (apertando as mãos). Ouça o diálogo."
@@ -192,7 +178,7 @@
         }
       ]
     },
-        {
+    {
       "grid": true,
       "text": [
         {
@@ -890,7 +876,7 @@
                   "markedText": "_____"
                 },
                 {
-                  "text": " name is _____."
+                  "text": " name is (first / last name)."
                 }
               ]
             },
@@ -954,7 +940,7 @@
       "dashedHr": true
     },
     {
-      "component": "wc-instruction"
+      "component": "wc-introduction"
     },
     {
       "grid": false,
@@ -1223,7 +1209,7 @@
             {
               "block": [
                 {
-                  "text":	"How do you spell it?"
+                  "text": "How do you spell it?"
                 }
               ]
             }
@@ -1235,7 +1221,7 @@
       "dashedHr": true
     },
     {
-      "component": "wc-instruction"
+      "component": "wc-introduction"
     },
     {
       "grid": false,
@@ -1246,7 +1232,15 @@
             {
               "block": [
                 {
-                  "text": "My last name is Silva."
+                  "boldText": "Listen to me."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "My last name is Silva, right?"
                 }
               ]
             },
@@ -1264,13 +1258,6 @@
                   "text": "What’s your last name again?"
                 }
               ]
-            },
-            {
-              "block": [
-                {
-                  "text": "You are _____ ."
-                }
-              ]
             }
           ]
         }
@@ -1281,6 +1268,143 @@
     },
     {
       "component": "wc-meaning-pronunciation"
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "boldText": "Listen and repeat."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": true,
+      "text": [
+        {
+          "card": false,
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/courses/beginner/lesson-2/classwork/mr-rodriguez.avif"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "text": "His first name is Diego. His last name is Rodriguez. He is "
+                },
+                {
+                  "markedText": "Mr."
+                },
+                {
+                  "text": " Rodriguez."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": false,
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/courses/beginner/lesson-2/classwork/ms-yong.avif"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "text": "Her first name is Yumi. Her last name is Yong. She is "
+                },
+                {
+                  "markedText": "Ms."
+                },
+                {
+                  "text": " Yong."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": false,
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/courses/beginner/lesson-2/classwork/mrs-jones.avif"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "text": "Her first name is Kate. Her her last name is Jones. She is "
+                },
+                {
+                  "markedText": "Mrs."
+                },
+                {
+                  "text": " Jones."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": false,
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/courses/beginner/lesson-2/classwork/miss-kato.avif"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "text": "Her first name is Akiko. Her last name is Kato. She is "
+                },
+                {
+                  "markedText": "Miss"
+                },
+                {
+                  "text": " Kato."
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "component": "wc-form"
@@ -1299,10 +1423,10 @@
                   "text": "Mr. "
                 },
                 {
-                  "phonetics": "/ˈmɪs.tɚ/"
+                  "phonetics": "/ˈmɪs.tɚ/ "
                 },
                 {
-                  "ptText":	"Senhor"
+                  "ptText": "Senhor"
                 }
               ]
             },
@@ -1330,41 +1454,13 @@
                   "audioSrc": "/assets/audio/"
                 },
                 {
-                  "text": "Mrs. "
-                },
-                {
-                  "phonetics": "/ˈmɪs.ɪz/"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "audioSrc": "/assets/audio/"
-                },
-                {
-                  "text": "Mrs. Jones (married females)"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "ptText": "(mulheres solteiras ou casadas)"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "audioSrc": "/assets/audio/"
-                },
-                {
                   "text": "Ms. "
                 },
                 {
-                  "phonetics": "/mɪz/"
+                  "phonetics": "/mɪz/ "
+                },
+                {
+                  "ptText": "Senhora"
                 }
               ]
             },
@@ -1392,10 +1488,47 @@
                   "audioSrc": "/assets/audio/"
                 },
                 {
+                  "text": "Mrs. "
+                },
+                {
+                  "phonetics": "/ˈmɪs.ɪz/ "
+                },
+                {
+                  "ptText": "Senhora"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "text": "Mrs. Jones (married females)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "ptText": "(mulheres solteiras ou casadas)"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
                   "text": "Miss. "
                 },
                 {
-                  "phonetics": "/mɪs/"
+                  "phonetics": "/mɪs/ "
+                },
+                {
+                  "ptText": "Senhorita"
                 }
               ]
             },
@@ -1421,61 +1554,18 @@
       ]
     },
     {
-      "grid": false,
-      "text": [
+      "checking": [
         {
-          "card": true,
-          "cardColor": "var(--yellow-1)",
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "CCQ!"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "• "
-                },
-                {
-                  "text": "Who uses the title Mrs.? "
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText": "• "
-                },
-                {
-                  "text": "Who uses the title Ms.? "
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText": "• "
-                },
-                {
-                  "text": "Who uses the title Miss? "
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText": "• "
-                },
-                {
-                  "text": "Who uses the title Mr.? "
-                }
-              ]
-            }
-          ]
+          "point": "Who uses the title Mrs.?"
+        },
+        {
+          "point": "Who uses the title Ms.?"
+        },
+        {
+          "point": "Who uses the title Miss?"
+        },
+        {
+          "point": "Who uses the title Mr.?"
         }
       ]
     }
