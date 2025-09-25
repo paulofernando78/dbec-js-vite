@@ -125,17 +125,24 @@ class Contents extends HTMLElement {
         contentContainer.appendChild(wrapper);
       }
 
+      // Collapsible
+      if (section.collapsible) {
+        const collapsible = document.createElement("wc-collapsible");
+        collapsible.data = section.collapsible;
+        contentContainer.appendChild(collapsible);
+      }
+
       // Checking
       if (section.checking) {
         const checkingElement = document.createElement("wc-checking");
-        checkingElement.data = section.checking
+        checkingElement.data = section.checking;
         contentContainer.appendChild(checkingElement);
       }
 
       // Instruction
       if (section.instruction) {
         const instructionElement = document.createElement("wc-instruction");
-        instructionElement.data = section.instruction
+        instructionElement.data = section.instruction;
         contentContainer.appendChild(instructionElement);
       }
 
@@ -210,7 +217,7 @@ class Contents extends HTMLElement {
 
       if (section.hangman) {
         const hang = document.createElement("wc-hangman");
-        hang.data = section.hangman
+        hang.data = section.hangman;
         contentContainer.appendChild(hang);
       }
 
@@ -222,7 +229,7 @@ class Contents extends HTMLElement {
 
       if (section.dashedHr) {
         const dashedHr = document.createElement("hr");
-        dashedHr.classList.add("dashed-hr")
+        dashedHr.classList.add("dashed-hr");
         contentContainer.appendChild(dashedHr);
       }
     });

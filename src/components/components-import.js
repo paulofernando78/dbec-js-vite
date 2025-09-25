@@ -26,6 +26,7 @@ import VideoPlayer from "./atoms/VideoPlayer";
 
 // Molecules
 import Board from "./molecules/Board";
+import Collapsible from "./molecules/collapsible";
 import DateCard from "./molecules/DateCard";
 import Exercise from "./molecules/Exercise";
 import IconItem from "./molecules/IconItem";
@@ -88,6 +89,7 @@ customElements.define("wc-video-player", VideoPlayer);
 
 // Molecules
 customElements.define("wc-board", Board);
+customElements.define("wc-collapsible", Collapsible);
 customElements.define("wc-date-card", DateCard);
 customElements.define("wc-exercise", Exercise);
 customElements.define("wc-icon-item", IconItem);

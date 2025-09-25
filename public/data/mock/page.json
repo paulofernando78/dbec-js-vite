@@ -31,6 +31,12 @@
   },
   "contents": [
     {
+      "collapsible":	{
+        "title": "aaa",
+        "content": "bbb"
+      }
+    },
+    {
       "components": "wc-the-alphabet"
     },
     {
