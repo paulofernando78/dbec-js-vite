@@ -40,7 +40,7 @@ class Instruction extends HTMLElement {
     const icon = document.createElement("wc-icon-item");
     icon.classList.add("title")
     icon.data = {
-      icon: "check",
+      icon: "instruction",
       label: "Instruction"
     }
     container.appendChild(icon);

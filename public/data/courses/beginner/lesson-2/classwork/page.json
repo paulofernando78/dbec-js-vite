@@ -532,82 +532,19 @@
               ]
             }
           ]
-        },
-        {
-          "card": true,
-          "cardColor": "var(--yellow-1)",
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "CCQ!"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "• "
-                },
-                {
-                  "text": "What’s "
-                },
-                {
-                  "markedText": "his"
-                },
-                {
-                  "text": " name? "
-                },
-                {
-                  "markedText": "Her"
-                },
-                {
-                  "text": " name is..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "Correct or incorrect?"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "• "
-                },
-                {
-                  "text": "What’s "
-                },
-                {
-                  "markedText": "her"
-                },
-                {
-                  "text": " name? "
-                },
-                {
-                  "markedText": "His"
-                },
-                {
-                  "text": " name is..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "Correct or incorrect?"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
+    {
+          "checking": [
+            {
+              "point": "What’s his name? Her name is... Correct or incorrect?"
+            },
+            {
+              "point":	"What’s her name? His name is... Correct or incorrect?"
+            }
+          ]
+        },
     {
       "component": "wc-practice"
     },
@@ -615,11 +552,17 @@
       "component": "wc-lcwp"
     },
     {
-      "exercises": [
+      "instruction": [
         {
-          "title": "Complete the conversations.",
-          "description": "Use my, your his, or her."
+          "point": "Complete the conversations."
         },
+        {
+          "points": "Use my, your his, or her."
+        }
+      ]
+    },
+    {
+      "exercises": [
         {
           "images": [
             {
@@ -1048,63 +991,10 @@
       "component": "wc-practice"
     },
     {
-      "exercises": [
-        {
-          "audioSrc": "/assets/audio/courses/beginner/lesson-2/IC5_L0_Unit 01 Pg 003 Ex 05 Listening.mp3",
-          "title": "How do you spell the names? Listen and check the correct answers."
-        },
-        {
-          "radioExercises": [
-            {
-              "question": [
-                {
-                  "boldText": "1. ..."
-                }
-              ],
-              "options": [
-                { "option": "Kate", "isCorrect": false },
-                { "option": "Cate", "isCorrect": true }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "boldText": "2. ..."
-                }
-              ],
-              "options": [
-                { "option": "Erick", "isCorrect": true },
-                { "option": "Eric", "isCorrect": false }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "boldText": "3. ..."
-                }
-              ],
-              "options": [
-                { "option": "Sofia", "isCorrect": false },
-                { "option": "Sophia", "isCorrect": true }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "boldText": "4. ..."
-                }
-              ],
-              "options": [
-                { "option": "Zachary", "isCorrect": true },
-                { "option": "Zackary", "isCorrect": false }
-              ]
-            }
-          ]
-        }
-      ]
+      "component": "wc-lcop"
     },
     {
-      "component": "wc-lcop"
+      "component": "wc-instruction"
     },
     {
       "grid": false,
@@ -1194,6 +1084,65 @@
       ]
     },
     {
+      "exercises": [
+        {
+          "audioSrc": "/assets/audio/courses/beginner/lesson-2/IC5_L0_Unit 01 Pg 003 Ex 05 Listening.mp3",
+          "title": "How do you spell the names? Listen and check the correct answers."
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "boldText": "1. ..."
+                }
+              ],
+              "options": [
+                { "option": "Kate", "isCorrect": false },
+                { "option": "Cate", "isCorrect": true }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "boldText": "2. ..."
+                }
+              ],
+              "options": [
+                { "option": "Erick", "isCorrect": true },
+                { "option": "Eric", "isCorrect": false }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "boldText": "3. ..."
+                }
+              ],
+              "options": [
+                { "option": "Sofia", "isCorrect": false },
+                { "option": "Sophia", "isCorrect": true }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "boldText": "4. ..."
+                }
+              ],
+              "options": [
+                { "option": "Zachary", "isCorrect": true },
+                { "option": "Zackary", "isCorrect": false }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "wc-production"
+    },
+    {
       "grid": false,
       "text": [
         {
@@ -1221,7 +1170,11 @@
       "dashedHr": true
     },
     {
-      "component": "wc-introduction"
+      "instruction": [
+        {
+          "point": ""
+        }
+      ]
     },
     {
       "grid": false,
