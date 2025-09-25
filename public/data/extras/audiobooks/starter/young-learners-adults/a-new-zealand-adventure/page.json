@@ -495,7 +495,7 @@
               },
               "block": [
                 {
-                  "text": "The girls wait at Ninety Mile Beach. They eat and watch the buses. The buses aren’t driving on a road—they are driving on the long beach. “Look for Michael!” Jessica says. But Sarah is looking at the sea. Suddenly Jessica sees him. “He’s on that bus!” she says. She waves. Michael waves to her, but the bus doesn’(t) stop."
+                  "text": "The girls wait at Ninety Mile Beach. They eat and watch the buses. The buses aren’t driving on a road—they are driving on the long beach. “Look for Michael!” Jessica says. But Sarah is looking at the sea. Suddenly, Jessica sees him. “He’s on that bus!” she says. She waves. Michael waves to her, but the bus doesn’(t) stop."
                 }
               ]
             }
@@ -581,7 +581,7 @@
                     },
                     {
                       "text": "at the mobile. “",
-                      "correctAnswer": ["There’s", "There's"]
+                      "correctAnswer": ["There’s", "There's", "There is"]
                     },
                     {
                       "text": "a message for Michael,” she",
@@ -687,7 +687,14 @@
               },
               "block": [
                 {
-                  "text": "Sarah jumps. It is a very long jump. She comes down near the street and she sees Michael. Jessica sees him too. “Michael! Come back! We’ve got your mobile!” she calls to him. But Michael is walking away. She runs after him. She doesn’t take Sarah’s bag. “Jessica! My bag!” Sarah calls."
+                  "text": "Sarah jumps. It is a very long jump. She comes down near the street and she sees Michael. Jessica sees him, too. “Michael! Come back! We’ve got your mobile!” she calls to him. But Michael is walking away. She runs after him. She doesn’t take Sarah’s bag. “Jessica! My bag!” Sarah calls."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "ptText": "Sarah salta. É um salto muito longo. Ela desce perto da rua e vê Michael. Jessica também o vê. — “Michael! Volte! Nós temos o seu celular!” — ela grita para ele. Mas Michael está se afastando. Ela corre atrás dele. Ela não pega a bolsa de Sarah. — “Jessica! Minha bolsa!” — Sarah grita."
                 }
               ]
             }
@@ -784,7 +791,7 @@
                     },
                     {
                       "text": "Michael, Sarah’s bag and they don’t",
-                      "correctAnswer": ["have"]
+                      "correctAnswer": ["’ve got", "have got", "have"]
                     },
                     {
                       "text": "money. But, they",
@@ -824,11 +831,11 @@
               "alt": "Paragraph 9 image"
             }
           ],
-          "audioPlayer": {
-            "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-9.mp3"
-          },
           "blocks": [
             {
+              "audioPlayer": {
+                "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-9.mp3"
+              },
               "block": [
                 {
                   "text": "The girls go on a boat into the dark cave. The lights from the glow-worm are very beautiful and it is very quiet. Suddenly, there is a beep from Michael’s mobile. The lights go dark. The people in the boat are angry. “No mobiles!” they say. “We’re very sorry,” Sarah says. She sees a new message for Michael. “Perhaps we can find him in Rotorua.”"
