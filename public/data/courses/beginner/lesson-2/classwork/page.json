@@ -76,6 +76,60 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Joshua Brown is a new student. Isabella Martins is a new student, too."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "Look at the pictures."
+        },
+        {
+          "images": [
+            {
+              "width": "200px",
+              "src": "",
+              "alt": "..."
+            },
+            {
+              "width": "200px",
+              "src": "",
+              "alt": "..."
+            }
+          ]
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "boldText": "1. Where are Joshua and Isabella?",
+                  "ptText": "... "
+                }
+              ],
+              "options": [
+                { "option": "at home?", "isCorrect": false },
+                { "option": "at school?", "isCorrect": true }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "component": "wc-presentation"
     },
     {
@@ -85,13 +139,13 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/introduction.mp3"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/.mp3"
                 },
                 {
-                  "boldText": "Look at the picture. A man and a woman are shaking hands. Now listen to the dialogue. "
+                  "boldText": "Joshua and Isabella meet for the first time. Listen to the dialogue. "
                 },
                 {
-                  "ptText": "Olhe a imagem. Joshua e Isabella estão se comprimentando (apertando as mãos). Ouça o diálogo."
+                  "ptText": "Joshua and Isabella se encontram pela primeira vez. Escute o diálogo."
                 }
               ]
             }
