@@ -15,162 +15,18 @@
       "component": "wc-introduction"
     },
     {
-      "images": [
-        {
-          "width": "300px",
-          "src": "/assets/images/bitmoji/hows-it-going.png"
-        }
-      ]
-    },
-    {
       "grid": false,
       "text": [
         {
+          "card": false,
           "blocks": [
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/general/listen-to-me.mp3"
+                  "audioSrc": "/assets/audio/"
                 },
                 {
-                  "boldText": "Listen to me. "
-                },
-                {
-                  "ptText": "Me escute."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "icon": "teacher"
-                },
-                {
-                  "text": "How's it goin’? "
-                },
-                {
-                  "ptText": "Como vai?"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "icon": "teacher"
-                },
-                {
-                  "markedText": "My"
-                },
-                {
-                  "text": " first name’s Paulo. / I’m Paulo. "
-                },
-                {
-                  "markedText": "My "
-                },
-                {
-                  "text": "last name’s Silva. I'm "
-                },
-                {
-                  "markedText": "your"
-                },
-                {
-                  "text": " teacher."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "icon": "teacher"
-                },
-                {
-                  "markedText": "What’s your first name?"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "icon": "student"
-                },
-                {
-                  "text": "My first name’s..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "markedText": "What’s your last name?"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "icon": "student"
-                },
-                {
-                  "text": "My last name’s..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "Nice to meet you."
-                },
-                {
-                  "ptText": "Prazer em conhecê-lo(a)"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "icon": "student"
-                },
-                {
-                  "text": "It’s nice to meet you, too."
-                },
-                {
-                  "ptText": "Prazer é meu."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "icon": "warning"
-                },
-                {
-                  "text": "My = I’m"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "component": "wc-presentation"
-    },
-    {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/introduction.mp3"
-                },
-                {
-                  "boldText": "Look at the picture. A man and a woman are shaking hands. Now listen to the dialogue. "
-                },
-                {
-                  "ptText": "Olhe a imagem. Joshua e Isabella estão se comprimentando (apertando as mãos). Ouça o diálogo."
+                  "boldText": "Look at the pictures."
                 }
               ]
             }
@@ -212,6 +68,30 @@
               "block": [
                 {
                   "text": "Isabella"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "wc-presentation"
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/introduction.mp3"
+                },
+                {
+                  "boldText": "Look at the picture. A man and a woman are shaking hands. Now listen to the dialogue. "
+                },
+                {
+                  "ptText": "Olhe a imagem. Joshua e Isabella estão se comprimentando (apertando as mãos). Ouça o diálogo."
                 }
               ]
             }
@@ -536,15 +416,15 @@
       ]
     },
     {
-          "checking": [
-            {
-              "point": "What’s his name? Her name is... Correct or incorrect?"
-            },
-            {
-              "point":	"What’s her name? His name is... Correct or incorrect?"
-            }
-          ]
+      "checking": [
+        {
+          "point": "What’s his name? Her name is... Correct or incorrect?"
         },
+        {
+          "point": "What’s her name? His name is... Correct or incorrect?"
+        }
+      ]
+    },
     {
       "component": "wc-practice"
     },
