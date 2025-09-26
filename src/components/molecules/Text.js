@@ -104,7 +104,7 @@ class Text extends HTMLElement {
       this.container.style.border = "var(--border)";
       this.container.style.borderRadius = "var(--border-radius)";
       this.container.style.boxShadow = "var(--box-shadow)";
-      this.container.style.padding = "3px 5px 2px 5px";
+      this.container.style.padding = "3px 5px 4px 5px";
       if (block.cardColor)
         this.container.style.backgroundColor = block.cardColor;
     }
@@ -216,6 +216,12 @@ class Text extends HTMLElement {
           const text = document.createElement("span");
           text.textContent = subItem.text;
           blockElement.appendChild(text);
+        }
+
+        if (subItem.collapsible) {
+          const collapsible = document.createElement("wc-collapsible");
+          collapsible.data = subItem.collapsible
+          blockElement.appendChild(collapsible);
         }
 
         if (subItem.ptText) {

@@ -31,9 +31,15 @@
   },
   "contents": [
     {
-      "collapsible":	{
-        "title": "aaa",
-        "content": "bbb"
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Collapsible"
+      }
+    },
+    {
+      "collapsible": {
+        "title": "AAaa",
+        "content": "BBbb"
       }
     },
     {
@@ -143,6 +149,17 @@
                 },
                 {
                   "ptText": "ptText"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "aaa",
+                    "content": "bbb"
+                  }
                 }
               ]
             }

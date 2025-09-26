@@ -1,4 +1,5 @@
 import cssImportsPath from "/src/css/imports.css?inline";
+import { plus, minus } from "/src/assets/images/svg-imports";
 
 class Collapsible extends HTMLElement {
   constructor() {
@@ -34,23 +35,15 @@ class Collapsible extends HTMLElement {
     
       summary {
         user-select: none;
-        background-color: black;
+        min-height: 31px;
+        background-color: gray;
         color: white;
-        padding: 2px 5px 2px 7px;
+        font-weight: bold;
+        padding: 1px 5px 1px 4px;
         cursor: pointer;
         display: flex;
         align-items: center;
         gap: 7px
-      }
-
-      summary::before {
-        display: inline-block;
-        content: "➕";
-        transition: transform 0.3s ease
-      }
-
-      details[open] summary:before {
-        content: "➖"
       }
 
       .content {
@@ -66,13 +59,24 @@ class Collapsible extends HTMLElement {
     this.summary = document.createElement("summary");
     this.details.appendChild(this.summary);
 
+    this.icon = document.createElement("span");
+    this.icon.innerHTML = plus
+    this.summary.prepend(this.icon)
+
+    this.titleSpan = document.createElement("span");
+    this.summary.appendChild(this.titleSpan)
+
+    this.details.addEventListener("toggle", () => {
+      this.icon.innerHTML = this.details.open ? minus : plus
+    })
+
     this.content = document.createElement("p");
     this.content.classList.add("content");
     this.details.appendChild(this.content);
   }
 
   set data(value) {
-    this.summary.textContent = value.title;
+    this.titleSpan.textContent = value.title;
     this.content.textContent = value.content;
   }
 }
