@@ -20,7 +20,181 @@
             {
               "block": [
                 {
-                  "boldText": "Under construction..."
+                  "boldText": "full index futures  "
+                },
+                {
+                  "ptText": "Índice Cheio (IND) (contrato padrão “maior alavancagem”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "mini index futures "
+                },
+                {
+                  "ptText": "Mini Índice (WIN) (contrato futuro do índice [Ibovespa])"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "full dollar futures "
+                },
+                {
+                  "ptText": "Dólar Cheio (DOL) (contrato cheio de dólar)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "mini dollar futures "
+                },
+                {
+                  "ptText": "Mini Dólar (WDO) (contrato futuro do dólar)"
+                }
+              ], "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "brokerage fee / commission "
+                },
+                {
+                  "ptText": "Corretagem (taxa da corretora para executar ordens)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "forced liquidation / auto-liquidation "
+                },
+                {
+                  "ptText": "Zeragem (quando a corretora fecha posição automaticamente)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "margin requirement / trading margin "
+                },
+                {
+                  "ptText": "Margem de Garantia (valor/collateral necessário para operar)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "leverage "
+                },
+                {
+                  "ptText": "Alavancagem (operar com mais exposição que o capital disponível)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "stop loss order "
+                },
+                {
+                  "ptText": "stop loss (ordem para limitar prejuízo)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "take profit order "
+                },
+                {
+                  "ptText": "stop gain / stop Win (ordem para garantir lucro)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "exchange fees "
+                },
+                {
+                  "ptText": "taxa de rmolumentos (taxas cobradas pela bolsa [B3])"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "day trade "
+                },
+                {
+                  "ptText": "comprar e vender no mesmo dia"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "swing trade "
+                },
+                {
+                  "ptText": "operar em dias ou semanas"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "position trade "
+                },
+                {
+                  "ptText": "operar em prazos mais longos (meses)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "trading platform / broker platform "
+                },
+                {
+                  "ptText": "home broker"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "daily settlement "
+                },
+                {
+                  "ptText": "ajuste diário (ajuste financeiro diário em contratos futuros)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "maintenance margin "
+                },
+                {
+                  "ptText": "margem de manutenção (margem mínima para manter posição aberta)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "margin call "
+                },
+                {
+                  "ptText": "chamado de margem (pedido da corretora para reforçar garantias)"
                 }
               ]
             }
