@@ -8,6 +8,10 @@
       },
       {
         "icon": "vocabulary",
+        "description": "Vocabulary"
+      },
+      {
+        "icon": "book",
         "description": "Trading"
       }
     ]
