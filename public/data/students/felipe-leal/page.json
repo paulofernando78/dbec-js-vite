@@ -37,7 +37,7 @@
                       "status": "OK",
                       "date": "Wed 6",
                       "classNotes": "Simple Past vs. Present Perfect",
-                      "homeWorkNotes": "Review it"
+                      "homeworkNotes": "Review it"
                     }
                   ]
                 },
@@ -47,7 +47,7 @@
                       "status": "ROK",
                       "date": "Wed 13",
                       "classNotes": "Class moved to Aug Tue Aug 26 - The Missing Coins - Continue from P12",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -57,7 +57,7 @@
                       "status": "ROK",
                       "date": "Wed 20",
                       "classNotes": "School trip - Class moved to Thu Sept 4",
-                      "homeWorkNotes": "Read Robin Chapter 4 -> Chapter 6"
+                      "homeworkNotes": "Read Robin Chapter 4 -> Chapter 6"
                     }
                   ]
                 },
@@ -67,7 +67,7 @@
                       "status": "OK",
                       "date": "Wed 27",
                       "classNotes": "",
-                      "homeWorkNotes": "Extra - Grammar - Elementary - Unit 15 • I have done (present present 1)"
+                      "homeworkNotes": "Extra - Grammar - Elementary - Unit 15 • I have done (present present 1)"
                     }
                   ],
                   "hr": true
@@ -83,7 +83,7 @@
                       "status": "OK",
                       "date": "Wed 3",
                       "classNotes": "Read Robin Hood until Chapter 3",
-                      "homeWorkNotes": "Start Chapter 7"
+                      "homeworkNotes": "Start Chapter 7"
                     }
                   ]
                 },
@@ -93,7 +93,7 @@
                       "status": "OK",
                       "date": "Wed 10",
                       "classNotes": "Robin Hood until Chapter 7-11. Next class Chapter 12",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -103,17 +103,17 @@
                       "status": "OK",
                       "date": "Wed 17",
                       "classNotes": "Robin Hood until Chapter 14",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Wed 24",
-                      "classNotes": "",
-                      "homeWorkNotes": ""
+                      "classNotes": "Class moved to Fri 26 - We/ve finished reading Robin Hood",
+                      "homeworkNotes": ""
                     }
                   ],
                   "hr": true
@@ -129,7 +129,7 @@
                       "status": "...",
                       "date": "Wed 1",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -139,7 +139,7 @@
                       "status": "...",
                       "date": "Wed 8",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -149,7 +149,7 @@
                       "status": "...",
                       "date": "Wed 15",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -159,7 +159,7 @@
                       "status": "...",
                       "date": "Wed 22",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -169,7 +169,7 @@
                       "status": "...",
                       "date": "Wed 29",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ],
                   "hr": true
@@ -185,7 +185,7 @@
                       "status": "...",
                       "date": "Wed 5",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -195,7 +195,7 @@
                       "status": "...",
                       "date": "Wed 12",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -205,7 +205,7 @@
                       "status": "...",
                       "date": "Wed 19",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -215,7 +215,7 @@
                       "status": "...",
                       "date": "Wed 26",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ],
                   "hr": true
@@ -231,7 +231,7 @@
                       "status": "...",
                       "date": "Wed 3",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -241,7 +241,7 @@
                       "status": "...",
                       "date": "Wed 10",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -251,7 +251,7 @@
                       "status": "...",
                       "date": "Wed 17",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 }

@@ -530,7 +530,7 @@
                       "status": "OK",
                       "date": "Tue 1",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -540,7 +540,7 @@
                       "status": "OK",
                       "date": "Thu 3",
                       "classNotes": "Finished reading New Zealand Adventure",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -550,7 +550,7 @@
                       "status": "ROK",
                       "date": "Tue 8",
                       "classNotes": "Started reading Fly Home",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -560,7 +560,7 @@
                       "status": "OK",
                       "date": "Thu 10",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -570,7 +570,7 @@
                       "status": "ROK",
                       "date": "Tue 15",
                       "classNotes": "Class moved to Tue Aug 26 Continue Flying Home from Paragraph 12",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -580,7 +580,7 @@
                       "status": "ROK",
                       "date": "Thu 17",
                       "classNotes": "Class moved to Wed Aug 27",
-                      "homeWorkNotes": "We've finished Flying Home"
+                      "homeworkNotes": "We've finished Flying Home"
                     }
                   ]
                 },
@@ -590,7 +590,7 @@
                       "status": "OK",
                       "date": "Tue 22",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -600,7 +600,7 @@
                       "status": "ROK",
                       "date": "Thu 24",
                       "classNotes": "Class moved to Thu Aug 28",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -610,7 +610,7 @@
                       "status": "OK",
                       "date": "Tue 29",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -620,7 +620,7 @@
                       "status": "R",
                       "date": "Thu 31",
                       "classNotes": "Class moved to Fri 29",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ],
                   "hr": true
@@ -637,7 +637,7 @@
                       "status": "...",
                       "date": "Tue 12",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -647,7 +647,7 @@
                       "status": "...",
                       "date": "Wed 13",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -657,7 +657,7 @@
                       "status": "...",
                       "date": "Thu 14",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -667,7 +667,7 @@
                       "status": "...",
                       "date": "Tue 19",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -677,7 +677,7 @@
                       "status": "...",
                       "date": "Wed 20",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -687,7 +687,7 @@
                       "status": "...",
                       "date": "Thu 21",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -697,7 +697,7 @@
                       "status": "...",
                       "date": "Tue 26",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -707,7 +707,7 @@
                       "status": "...",
                       "date": "Wed 27",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -717,7 +717,7 @@
                       "status": "...",
                       "date": "Thu 28",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ],
                   "hr": true
@@ -728,7 +728,7 @@
                       "status": "...",
                       "date": "Fri ?",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -738,7 +738,7 @@
                       "status": "...",
                       "date": "Fri ?",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 }
@@ -754,7 +754,7 @@
                       "status": "ROK",
                       "date": "Tue 2",
                       "classNotes": "Class moved to Mon 15 - Marcel and the Mona Lisa Chapters 13",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -764,17 +764,17 @@
                       "status": "ROK",
                       "date": "Thu 4",
                       "classNotes": "Class moved to Wed 17 - Marcel and the White Star Chapter 4. Next o class Chapter 5",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "status": "R",
+                      "status": "ROK",
                       "date": "Tue 9",
-                      "classNotes": "",
-                      "homeWorkNotes": ""
+                      "classNotes": "Class moved to Sept Fri 26",
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -784,7 +784,7 @@
                       "status": "OK",
                       "date": "Thu 11",
                       "classNotes": "Marcel and the Mona Lisa Chapters 1-7",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -794,37 +794,37 @@
                       "status": "OK",
                       "date": "Tue 16",
                       "classNotes": "Finished Marcel and the Mona Lisa",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "R",
                       "date": "Thu 18",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Tue 23",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "R",
                       "date": "Thu 25",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -834,7 +834,7 @@
                       "status": "...",
                       "date": "Tue 30",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ],
                   "hr": true
@@ -851,7 +851,7 @@
                       "status": "...",
                       "date": "Thu 2",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -861,7 +861,7 @@
                       "status": "...",
                       "date": "Tue 7",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -871,7 +871,7 @@
                       "status": "...",
                       "date": "Thu 9",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -881,7 +881,7 @@
                       "status": "...",
                       "date": "Tue 14",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -891,7 +891,7 @@
                       "status": "...",
                       "date": "Thu 16",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -901,7 +901,7 @@
                       "status": "...",
                       "date": "Tue 21",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -911,7 +911,7 @@
                       "status": "...",
                       "date": "Thu 23",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -921,7 +921,7 @@
                       "status": "...",
                       "date": "Tue 28",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -931,7 +931,7 @@
                       "status": "...",
                       "date": "Thu 30",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ],
                   "hr": true
@@ -948,7 +948,7 @@
                       "status": "...",
                       "date": "Tue 4",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -958,7 +958,7 @@
                       "status": "...",
                       "date": "Thu 6",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -968,7 +968,7 @@
                       "status": "...",
                       "date": "Tue 11",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -978,7 +978,7 @@
                       "status": "...",
                       "date": "Thu 13",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -988,7 +988,7 @@
                       "status": "...",
                       "date": "Tue 18",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -998,7 +998,7 @@
                       "status": "...",
                       "date": "Thu 20",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -1008,7 +1008,7 @@
                       "status": "...",
                       "date": "Tue 25",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -1018,7 +1018,7 @@
                       "status": "...",
                       "date": "Thu 27",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ],
                   "hr": true
@@ -1035,7 +1035,7 @@
                       "status": "...",
                       "date": "Tue 2",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -1045,7 +1045,7 @@
                       "status": "...",
                       "date": "Thu 4",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -1055,7 +1055,7 @@
                       "status": "...",
                       "date": "Tue 9",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -1065,7 +1065,7 @@
                       "status": "...",
                       "date": "Thu 11",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -1075,7 +1075,7 @@
                       "status": "...",
                       "date": "Tue 16",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -1085,7 +1085,7 @@
                       "status": "...",
                       "date": "Thu 18",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 },
@@ -1095,7 +1095,7 @@
                       "status": "...",
                       "date": "Tue 23",
                       "classNotes": "",
-                      "homeWorkNotes": ""
+                      "homeworkNotes": ""
                     }
                   ]
                 }

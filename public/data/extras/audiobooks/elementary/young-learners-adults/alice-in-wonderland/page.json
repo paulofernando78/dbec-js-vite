@@ -1,0 +1,885 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "descriptions": [
+      {
+        "icon": "audiobooks",
+        "description": "Audiobooks"
+      },
+      {
+        "icon": "pages",
+        "description": "Elementary (A2)"
+      },
+      {
+        "icon": "book",
+        "description": "Alice in Wonderland"
+      },
+      {
+        "icon": "time",
+        "description": "00:00"
+      },
+      {
+        "icon": "flag",
+        "description": "British English"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Summary"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "left",
+              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/cover.avif",
+              "alt": "Cover image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/"
+                },
+                {
+                  "text": "One hot summer day, Alice sees a white rabbit and runs after it. She follows it down a rabbit-hole - and arrives in 'Wonderland'. Here, caterpillars can talk and rabbits have watches. And the Queen wants to cut off everybody's head!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "pages",
+        "label": "Chapters"
+      }
+    },
+
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 1"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/chapter-1.mp3"
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Down the Rabbit-hole"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "Alice and her big sister sat under a tree one sunny day. Alice’s sister had a book, but Alice had nothing with her. She looked at her sister’s book. There were no pictures or conversations in it."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Why is she reading a book without pictures or conversations?’ she thought. ‘I’m bored. I know! I’ll look for some flowers? Then she thought, ‘No, it’s too hot for that and I feel sleepy.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Suddenly, a white rabbit ran past her. It took a watch from its jacket and looked at it. ‘Oh! Oh! I’m going to be late!’ it said."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘That’s strange! A rabbit with a watch!’ said Alice."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "She jumped up and ran after the animal. It ran down a large rabbit-hole, so Alice went down the hole, too. She didn’t stop and ask, ‘How am I going to get out again?’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Alice fell down and down. But she fell very slowly and didn’t feel afraid. ‘What’s going to happen next?’ she wondered."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "She looked round. There were cupboards in the walls of the rabbit-hole. Some of the cupboards were open, and there were books in them. Sometimes she saw pictures. She looked down, but she couldn't see any light."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Down, down, down. ‘When will the hole end?’ she wondered. ‘Perhaps I’m going to come out in Australia! I’ll have to ask the name of the country. ‘Please, madam, is this Australia or New Zealand?’ No, I can’t do that. They’ll think I’m stupid.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "She thought about her cat, Dinah. ‘What’s Dinah doing? Will they remember her milk tonight? Oh, Dinah! Why aren’t you here with me? Perhaps there’s a mouse here and you can eat it!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Suddenly, Alice was at the bottom of the hole. ‘That didn’t hurt, she said and sat up quickly. She could see the White Rabbit and she ran after him again. They were in a different rabbit-hole now."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Oh, my ears and nose!’ the White Rabbit cried. ‘It’s getting very late!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "He ran faster and vanished through another hole. Alice followed him through the hole. Now she was in a very long room. She looked around for the White Rabbit, but she couldn’t see him anywhere."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "There were four doors in the room, but Alice couldn’t open them. Also, she couldn’t see the hole anywhere. ‘How am I going to get out?’ she wondered."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Then she saw a little table. It had a very small key on it."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Perhaps it will open one of the doors,’ she thought. She took the key and tried to open each door with it. But it was no good. The key was too small."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "This key has to open something, she thought."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Then she saw a very small door about 40 centimetres high. The little key opened it. She put her head down and looked through the door into a beautiful garden. She tried to walk through it, but she was too big. Sadly, she shut the door again and put the key back on the table."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Why can’t I get smaller?’ thought Alice. ‘This is a very strange place - so perhaps I can.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "She looked at the table. There was a little bottle on it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "images": [
+            {
+              "src": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/drink-me.avif",
+              "alt": "Drink me"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘That bottle was not on the table before,’ thought Alice."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The bottle had 'DRINK ME' on it in large letters. Alice looked at it carefully."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Is it all right to drink?’ she wondered."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘I’ll drink a little,’ she thought. She had some and it was very nice. So she had some more."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘This feels strange,’ said Alice. ‘I’m getting smaller and smaller!’ After a short time, she was only 25 centimetres high."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Now I can go through that door,’ she thought. She went to the door, but could not open it. The key was on the table. She went back to the table. But Alice was too short and she couldn’t get the key. She tried to climb the table legs, but it was too difficult. The little girl sat down and cried."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Alice! Alice!’ she said after some minutes. ‘Don’t cry. It isn’t going to help you. Stop now!’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Then she saw a little box under the table. She opened it. There was a cake inside. On it, she saw the words, ‘EAT ME’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Yes, I will eat it,’ Alice said. ‘Perhaps I’ll get bigger and then I can get the key. Or perhaps I’ll get smaller. Then I can get under the door into the garden.’"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "She ate some cake."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "‘Will I go up or down?’ she wondered. She felt the top of her head with her hand. But nothing happened - she stayed the same size. So she finished the cake."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 2 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-2.avif",
+              "alt": "Chapter 2 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 3 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-3.avif",
+              "alt": "Chapter 3 image"
+            }
+          ],
+
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 4 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-4.avif",
+              "alt": "Chapter 4 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 5 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-5.avif",
+              "alt": "Chapter 5 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 6 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-6.avif",
+              "alt": "Chapter 6 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 7 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-7.avif",
+              "alt": "Chapter 7 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 8 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-8.avif",
+              "alt": "Chapter 8 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 9 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-9.avif",
+              "alt": "Chapter 9 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 10 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-10.avif",
+              "alt": "Chapter 10 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 11 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-11.avif",
+              "alt": "Chapter 11 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 12 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-12.avif",
+              "alt": "Chapter 12 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 13 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-13.avif",
+              "alt": "Chapter 13 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 14 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-14.avif",
+              "alt": "Chapter 14 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 15 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-15.avif",
+              "alt": "Chapter 15 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 16 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-16.avif",
+              "alt": "Chapter 16 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -237,7 +237,7 @@
             {
               "block": [
                 {
-                  "boldText": "Listen to the story and follow along, then answer the questions."
+                  "boldText": "Listen to the story and answer the questions."
                 }
               ]
             }
@@ -490,6 +490,21 @@
               "block": [
                 {
                   "text": "5. What promise did Joanna make about raising her son Robin in the forest?"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "",
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
+                  }
                 }
               ]
             }
@@ -3730,6 +3745,33 @@
                 {
                   "text": "5. What did Marian say about the future and King Richard at the end of the chapter?"
                 }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "contents": "1."
+                      },
+                      {
+                        "contents": "2."
+                      },
+                      {
+                        "contents": "3."
+                      },
+                      {
+                        "contents": "4."
+                      },
+                      {
+                        "contents": "5."
+                      }
+                    ]
+                  }
+                }
               ]
             }
           ]
@@ -3974,7 +4016,7 @@
               "block": [
                 {
                   "textIndent": true,
-                  "text": "‘What is this?’ said Robin. ‘Are you Prince John's man? Are the prince and his men here ? Are they really so brave ?’"
+                  "text": "‘What is this?’ said Robin. ‘Are you Prince John's man? Are the prince and his men here ? Are they really so brave?’"
                 }
               ]
             },
@@ -4031,6 +4073,33 @@
               "block": [
                 {
                   "text": "5. How did King Richard reveal himself, and what did he say about Robin Hood?"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "contents": "1. Prince John was worried because if King Richard was alive and in England, he could lose power and never become king."
+                      },
+                      {
+                        "contents": "2. Prince John and his men met a tall friar in Sherwood Forest who was unusually strong and mysterious."
+                      },
+                      {
+                        "contents": "3. The tall friar later revealed himself as King Richard, who returned from abroad and wanted to meet Robin Hood."
+                      },
+                      {
+                        "contents": "4. Robin Hood was happy but cautious; he loved the king but feared that Richard might believe Prince John’s lies about him being just a robber."
+                      },
+                      {
+                        "contents": "5. King Richard finally revealed himself, declaring he was Robin’s true king and friend, and restored Robin’s title as Robin of Locksley."
+                      }
+                    ]
+                  }
                 }
               ]
             }
@@ -4293,6 +4362,33 @@
               "block": [
                 {
                   "text": "5. What were Robin Hood’s final wishes, and how is he remembered?"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "contents": "1. After King Richard returned to London, Robin and his men left Sherwood Forest. Will Scarlet went to London with the king, while Robin, Marian, and Little John stayed at Locksley House."
+                      },
+                      {
+                        "contents": "2. The Sheriff of Nottingham came to arrest Robin, acting under the orders of King John after King Richard’s death."
+                      },
+                      {
+                        "contents": "3. Robin fought the sheriff’s men and slowly moved toward the forest. He knew the forest paths well and managed to escape despite being badly wounded."
+                      },
+                      {
+                        "contents": "4. After escaping, Robin reached St Mary’s Abbey. Though the abbot’s men captured him, Little John found him there and tried to help."
+                      },
+                      {
+                        "contents": "5. Robin’s final wish was to be buried where his last arrow would fall. He is remembered as a brave man, honored with the words: 'Under this stone is Robin Hood. Remember Robin and his men — No braver man will come again.'"
+                      }
+                    ]
+                  }
                 }
               ]
             }

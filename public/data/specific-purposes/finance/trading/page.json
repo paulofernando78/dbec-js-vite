@@ -60,7 +60,8 @@
                 {
                   "ptText": "Mini Dólar (WDO) (contrato futuro do dólar)"
                 }
-              ], "lineBreak": true
+              ],
+              "lineBreak": true
             },
             {
               "block": [
@@ -199,6 +200,46 @@
                 },
                 {
                   "ptText": "chamado de margem (pedido da corretora para reforçar garantias)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "rollover "
+                },
+                {
+                  "ptText": "rolagem (de contratos)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Traders usually roll over futures contracts before expiration to avoid physical delivery."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "The fund rolled its position forward from the April mini dollar futures to the May contract."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Rollover allows you to maintain exposure without taking delivery."
                 }
               ]
             }

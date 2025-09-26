@@ -48,7 +48,7 @@ class Collapsible extends HTMLElement {
 
       .content {
         user-select: none;
-        padding: 4px 5px 2px 5px
+        padding: 4px 5px 0 5px
       }
     `;
     this.shadowRoot.appendChild(css);
@@ -60,24 +60,25 @@ class Collapsible extends HTMLElement {
     this.details.appendChild(this.summary);
 
     this.icon = document.createElement("span");
-    this.icon.innerHTML = plus
-    this.summary.prepend(this.icon)
+    this.icon.innerHTML = plus;
+    this.summary.prepend(this.icon);
 
     this.titleSpan = document.createElement("span");
-    this.summary.appendChild(this.titleSpan)
+    this.summary.appendChild(this.titleSpan);
 
     this.details.addEventListener("toggle", () => {
-      this.icon.innerHTML = this.details.open ? minus : plus
-    })
-
-    this.content = document.createElement("p");
-    this.content.classList.add("content");
-    this.details.appendChild(this.content);
+      this.icon.innerHTML = this.details.open ? minus : plus;
+    });
   }
 
   set data(value) {
     this.titleSpan.textContent = value.title;
-    this.content.textContent = value.content;
+    value.contents.forEach((c) => {
+      const p = document.createElement("p");
+      p.classList.add("content");
+      p.textContent = c.contents
+      this.details.appendChild(p);
+    });
   }
 }
 
