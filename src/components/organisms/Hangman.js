@@ -112,6 +112,10 @@ class Hangman extends HTMLElement {
         color: #007bff;
       }
 
+      .reset {
+        margin: 0 auto
+      }
+
       @media (width <= 500px) {
         .image-letters-wrapper {
           display: grid;
@@ -253,6 +257,7 @@ class Hangman extends HTMLElement {
     this.wordsCompletedMsg = wordsCompleted;
 
     const reset = document.createElement("wc-button");
+    reset.classList.add("reset")
     reset.setAttribute("data-icon", "reset");
     reset.addEventListener("click", () => {
       // Esconde mensagens
@@ -276,7 +281,7 @@ class Hangman extends HTMLElement {
         letter.shadowRoot.querySelector("button").disabled = false;
       });
     });
-    container.appendChild(reset);
+    lettersWrapper.appendChild(reset);
 
     const completedWord = document.createElement("span");
     completedWord.classList.add("complete-word");
