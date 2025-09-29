@@ -70,7 +70,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "Sarah e Jessica chegam à Nova Zelândia para passar férias. Elas encontram um celular no táxi que as levou do aeroporto. É o celular de Michael, mas será que elas conseguem encontrá-lo? Ele *recebe mensagens de casa — sao importantes? Acompanhe as garotas em uma aventura na Nova Zelândia."
+                    "contents": [
+                      {
+                        "content": "Sarah e Jessica chegam à Nova Zelândia para passar férias. Elas encontram um celular no táxi que as levou do aeroporto. É o celular de Michael, mas será que elas conseguem encontrá-lo? Ele *recebe mensagens de casa — sao importantes? Acompanhe as garotas em uma aventura na Nova Zelândia."
+                      }
+                    ]
                   }
                 }
               ]
@@ -300,8 +304,12 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "Translation",
-                    "content": "..."
+                    "title": "",
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -309,9 +317,6 @@
           ]
         }
       ]
-    },
-    {
-      "collapsible": ""
     },
     {
       "iframe": {
@@ -401,8 +406,12 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "Translation",
-                    "content": "..."
+                    "title": "",
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -470,8 +479,12 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "Translation",
-                    "content": "..."
+                    "title": "",
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -552,8 +565,12 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "Translation",
-                    "content": "..."
+                    "title": "",
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -623,8 +640,12 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "Translation",
-                    "content": "..."
+                    "title": "",
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -702,8 +723,12 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "Translation",
-                    "content": "..."
+                    "title": "",
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -778,7 +803,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "Sarah salta. É um salto muito longo. Ela desce perto da rua e vê Michael. Jessica também o vê. — “Michael! Volte! Nós temos o seu celular!” — ela grita para ele. Mas Michael está se afastando. Ela corre atrás dele. Ela não pega a bolsa de Sarah. — “Jessica! Minha bolsa!” — Sarah grita."
+                    "contents": [
+                      {
+                        "content": "Sarah salta. É um salto muito longo. Ela desce perto da rua e vê Michael. Jessica também o vê. — “Michael! Volte! Nós temos o seu celular!” — ela grita para ele. Mas Michael está se afastando. Ela corre atrás dele. Ela não pega a bolsa de Sarah. — “Jessica! Minha bolsa!” — Sarah grita."
+                      }
+                    ]
                   }
                 }
               ]
@@ -859,8 +888,12 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "Translation",
-                    "content": "..."
+                    "title": "",
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -943,8 +976,12 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "Translation",
-                    "content": "..."
+                    "title": "",
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -1014,8 +1051,12 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "Translation",
-                    "content": "..."
+                    "title": "",
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -1085,8 +1126,12 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "Translation",
-                    "content": "..."
+                    "title": "",
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -1160,8 +1205,12 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "Translation",
-                    "content": "..."
+                    "title": "",
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -1231,8 +1280,12 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "Translation",
-                    "content": "..."
+                    "title": "",
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -1318,8 +1371,12 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "Translation",
-                    "content": "..."
+                    "title": "",
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -1356,8 +1413,12 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "Translation",
-                    "content": "..."
+                    "title": "",
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]

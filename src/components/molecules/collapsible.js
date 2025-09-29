@@ -73,6 +73,7 @@ class Collapsible extends HTMLElement {
 
   set data(value) {
     this.titleSpan.textContent = value.title;
+    
     value.contents.forEach((c) => {
       const p = document.createElement("p");
       p.classList.add("content");

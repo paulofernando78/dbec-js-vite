@@ -54,15 +54,15 @@
       ]
     },
     {
-      "audioPlayer": {
-        "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/starter/elementary/young-learners-adults/robin-hood/audio.mp3"
-      }
-    },
-    {
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 1"
+      }
+    },
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/.../audio.mp3"
       }
     },
     {
