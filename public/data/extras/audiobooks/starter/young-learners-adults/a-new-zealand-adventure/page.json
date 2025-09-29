@@ -274,6 +274,51 @@
     },
     {
       "ribbon": {
+        "icon": "map",
+        "label": "Map of New Zealand"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/auckland.mp3"
+                },
+                {
+                  "text": "Auckland is a major city in the north of New Zealand’s North Island."
+                }
+              ], "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Translation",
+                    "contents": [
+                      {
+                        "content": "Auckland é uma cidade importante no norte da Ilha Norte da Nova Zelândia."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "iframe": {
+        "src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3268890.664738037!2d174.706121!3d-36.859811!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0d47fb5a9ce6fb%3A0x500ef6143a29917!2sAuckland%2C%20New%20Zealand!5e0!3m2!1sen!2sus!4v1734803605582!5m2!1sen!2sus"
+      }
+    },
+    {
+      "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 1"
       }
@@ -295,7 +340,7 @@
               },
               "block": [
                 {
-                  "text": "Sarah and Jessica are going to New Zealand for a holiday. They are very excited. Jessica is near the window! Look!, she says. There's Auckland! “We’re here!” “But we’re late,” Sarah answers. “When’s our bus?” “At one o’clock, “Jessica says. “We can get a taxi from the airport to the bus station.”"
+                  "text": "Sarah and Jessica are going to New Zealand for a holiday. They are very excited. Jessica is near the window! “Look!”, she says. “There's Auckland!” We’re here!” “But we’re late,” Sarah answers. “When’s our bus?” “At one o’clock,” Jessica says. “We can get a taxi from the airport to the bus station.”"
                 }
               ],
               "lineBreak": true
@@ -304,10 +349,10 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "",
+                    "title": "Translation",
                     "contents": [
                       {
-                        "content": ""
+                        "content": "Sarah e Jessica vão para a Nova Zelândia para passar férias. Elas estão muito animadas. Jessica está perto da janela! — “Olhe!” diz ela. “Lá está Auckland! Chegamos! Mas estamos atrasadas,” responde Sarah. — “Que horas é o nosso ônibus?” — “À uma hora,” diz Jessica. — “Podemos pegar um táxi do aeroporto até a estação de ônibus.”"
                       }
                     ]
                   }
@@ -317,11 +362,6 @@
           ]
         }
       ]
-    },
-    {
-      "iframe": {
-        "src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3268890.664738037!2d174.706121!3d-36.859811!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0d47fb5a9ce6fb%3A0x500ef6143a29917!2sAuckland%2C%20New%20Zealand!5e0!3m2!1sen!2sus!4v1734803605582!5m2!1sen!2sus"
-      }
     },
     {
       "exercises": [
@@ -406,10 +446,10 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "",
+                    "title": "Translation",
                     "contents": [
                       {
-                        "content": ""
+                        "content": "No aeroporto, as meninas procuram um táxi. “Olhe!” diz Jessica. “Aquele garoto está acenando para nós!” “Com licença! Vocês estão atrasadas?” chama o garoto. “Querem este táxi? Posso esperar.” “Muito obrigada!” respondem as meninas. “Até a estação de ônibus, por favor,” diz Sarah ao motorista. Ela sorri para o garoto e eles partem."
                       }
                     ]
                   }
@@ -479,10 +519,10 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "",
+                    "title": "Translation",
                     "contents": [
                       {
-                        "content": ""
+                        "content": "O táxi para na estação de ônibus. De repente, Jessica vê um celular no chão do táxi. “Esse é o seu celular?” ela pergunta ao motorista. Ele olha para ele. “Não,” responde ele. “É o celular do garoto.” Sarah pega o celular. “Talvez eu consiga encontrar o endereço dele,” diz ela. “Sim! O nome dele é Michael. Amanhã ele estará na Ninety Mile Beach. Podemos entregar para ele lá."
                       }
                     ]
                   }
@@ -565,10 +605,10 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "",
+                    "title": "Translation",
                     "contents": [
                       {
-                        "content": ""
+                        "content": "As meninas esperam na Ninety Mile Beach. Elas comem e observam os ônibus. Os ônibus não estão passando por uma estrada — eles estão passando pela longa praia. “Procurem por Michael!” diz Jessica. Mas Sarah está olhando para o mar. De repente, Jessica o vê. “Ele está naquele ônibus!” diz ela. Ela acena. Michael acena para ela, mas o ônibus não para."
                       }
                     ]
                   }
@@ -640,10 +680,10 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "",
+                    "title": "Translation",
                     "contents": [
                       {
-                        "content": ""
+                        "content": "As meninas entram em um ônibus. “Será que conseguimos alcançá-lo?” pergunta Jessica. “Não sei,” responde Sarah. “Não consigo ver o ônibus dele agora.” De repente, elas ouvem um bip. Sarah olha para o celular. “Há uma mensagem para Michael,” diz ela. Ela lê a mensagem. “É importante,” diz ela. “Talvez possamos encontrá-lo amanhã na Sky Tower em Auckland."
                       }
                     ]
                   }
@@ -723,10 +763,10 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "",
+                    "title": "Translation",
                     "contents": [
                       {
-                        "content": ""
+                        "content": "Na Sky Tower, as meninas não conseguem ver Michael. “Ele não está aqui,” diz Sarah. Uma mulher pula de bungy jump da torre. “Eu consigo fazer isso,” diz ela. “Você vem, Jessica?” “Não,” responde Jessica. “Mas posso te ver daqui.” “Por favor, cuide da minha bolsa também,” diz Sarah. Ela entrega a bolsa para Jessica e sobe na torre."
                       }
                     ]
                   }
@@ -805,7 +845,7 @@
                     "title": "Translation",
                     "contents": [
                       {
-                        "content": "Sarah salta. É um salto muito longo. Ela desce perto da rua e vê Michael. Jessica também o vê. — “Michael! Volte! Nós temos o seu celular!” — ela grita para ele. Mas Michael está se afastando. Ela corre atrás dele. Ela não pega a bolsa de Sarah. — “Jessica! Minha bolsa!” — Sarah grita."
+                        "content": "Sarah salta. É um salto muito longo. Ela desce perto da rua e vê Michael. Jessica também o vê. — “Michael! Volte! Nós temos o seu celular!” — ela grita. Mas Michael está se afastando. Ela corre atrás dele. Ela não pega a bolsa de Sarah. — “Jessica! Minha bolsa!” — Sarah grita."
                       }
                     ]
                   }
@@ -888,10 +928,10 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "",
+                    "title": "Translation",
                     "contents": [
                       {
-                        "content": ""
+                        "content": "Jessica e Sarah estão muito chateadas. Elas não conseguem encontrar Michael e também não encontram a bolsa de Sarah. Agora, a Sarah não tem dinheiro. “Desculpe,” diz Jessica. “Mas eu tenho um pouco de dinheiro — e nós temos ingressos da Glow-worm Caves.” “OK. Vamos lá amanhã,” diz Sarah. “Michael também vai. Podemos procurá-lo lá.”"
                       }
                     ]
                   }
@@ -976,10 +1016,10 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "",
+                    "title": "Translation",
                     "contents": [
                       {
-                        "content": ""
+                        "content": "As meninas entram em um barco e vão para a caverna escura. As luzes do “glow-worm” são muito bonitas e está muito silencioso. De repente, ouve-se um bip do celular de Michael. As luzes se apagam. As pessoas no barco ficam irritadas. — “Sem celulares!” dizem elas. — “Me Desculpe,” diz Sarah. Ela vê uma nova mensagem para Michael. — “Talvez possamos encontrá-lo em Rotorua."
                       }
                     ]
                   }
@@ -1051,10 +1091,10 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "",
+                    "title": "Translation",
                     "contents": [
                       {
-                        "content": ""
+                        "content": "“Rotorua é muito interessante,” diz Jessica. “Eu gosto das águas termais.” — “Sim,” responde Sarah, “mas não consigo ver o Michael.” — “Onde ele estará amanhã?” pergunta Jessica. Sarah olha para o celular. “Ele está na “South Island”,” diz ela. — “O barco é muito caro. Podemos ir?” — “Sim,” diz Jessica. “Eu tenho dinheiro para os ingressos.”"
                       }
                     ]
                   }
@@ -1117,7 +1157,7 @@
               },
               "block": [
                 {
-                  "text": "Sarah and Jessica take a boat to the South Island. It is very cold, but the café is expensive. Suddenly, there is a beep from Michael’s mobile phone. “Oh, no! Not again!” Sarah says. She reads the message. “Michael’s mother and father are worrying about him, and we can’t find him. Let’s take his mobile phone to the police station in Kaikoura.”"
+                  "text": "Sarah and Jessica take a boat to the South Island. It is very cold, and the café is expensive. Suddenly, there is a beep from Michael’s mobile phone. “Oh, no! Not again!” Sarah says. She reads the message. “Michael’s mother and father are worrying about him, and we can’t find him. Let’s take his mobile phone to the police station in Kaikoura.”"
                 }
               ],
               "lineBreak": true
@@ -1126,10 +1166,10 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "",
+                    "title": "Translation",
                     "contents": [
                       {
-                        "content": ""
+                        "content": "Sarah e Jessica pegam um barco para a Ilha Sul. Está muito frio, e o café é caro. De repente, ouve-se um bip do celular de Michael. “Oh, não! De novo!” diz Sarah. Ela lê a mensagem. “A mãe e o pai do Michael estão preocupados com ele, e nós não conseguimos encontrá-lo. Vamos levar o seu celular para a delegacia em Kaikoura."
                       }
                     ]
                   }
@@ -1205,10 +1245,10 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "",
+                    "title": "Translation",
                     "contents": [
                       {
-                        "content": ""
+                        "content": "As meninas levam o celular para a delegacia. Depois, descem até o mar. — “Vamos ver as baleias,” diz Jessica. — “Não podemos,” responde Sarah. “Os ingressos são caros.” De repente, Jessica vê Michael. Ela corre até ele. — “Seu celular está na delegacia,” diz ela, “e você tem mensagens de casa.”"
                       }
                     ]
                   }
@@ -1280,10 +1320,10 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "",
+                    "title": "Translation",
                     "contents": [
                       {
-                        "content": ""
+                        "content": "Michael liga rapidamente para casa. Ele sorri. — “Minha mãe e meu pai estão bem,” diz ele, “e ganharam £100.000 (libras) na loteria! Eles vão me enviar um pouco de dinheiro para as férias. Agora eu posso dar a vocês uma surpresa.” — “Que surpresa?” pergunta Jessica. — “Espere para ver,” diz Michael. Ele caminha até a bilheteria do Whale Watch."
                       }
                     ]
                   }
@@ -1371,10 +1411,10 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "",
+                    "title": "Translation",
                     "contents": [
                       {
-                        "content": ""
+                        "content": "“Obrigado pelo meu celular,” diz Michael às meninas. — “Obrigada pela surpresa,” diz Jessica. Ela está muito animada. — “Você gosta das baleias?” pergunta Michael. — “Eu as adoro,” responde Jessica. “Elas são lindas.” — “Sim, e a Nova Zelândia também é linda,” diz Sarah. “Que aventura!”"
                       }
                     ]
                   }
@@ -1413,7 +1453,7 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "",
+                    "title": "Translation",
                     "contents": [
                       {
                         "content": ""

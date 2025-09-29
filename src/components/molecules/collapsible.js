@@ -13,6 +13,11 @@ class Collapsible extends HTMLElement {
     const css = document.createElement("style");
     /*css*/
     css.textContent = `
+      details {
+        border: 1px solid gray;
+        border-radius: var(--border-radius);
+      } 
+
           /* remove marcador */
       summary {
         list-style: none
@@ -28,10 +33,6 @@ class Collapsible extends HTMLElement {
         content: "";             
       }
       
-      details {
-        border: 1px solid gray;
-        border-radius: var(--border-radius)
-      }  
     
       summary {
         user-select: none;
@@ -73,11 +74,11 @@ class Collapsible extends HTMLElement {
 
   set data(value) {
     this.titleSpan.textContent = value.title;
-    
+
     value.contents.forEach((c) => {
       const p = document.createElement("p");
       p.classList.add("content");
-      p.textContent = c.contents
+      p.textContent = c.content;
       this.details.appendChild(p);
     });
   }
