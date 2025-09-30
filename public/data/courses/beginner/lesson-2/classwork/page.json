@@ -922,7 +922,7 @@
     {
       "instructions": [
         {
-          "point": "Listen to the dialogue"
+          "point": "Listen to the dialogue 1x."
         },
         {
           "point": "Practice in pairs."
@@ -1086,11 +1086,7 @@
       "dashedHr": true
     },
     {
-      "instructions": [
-        {
-          "point": ""
-        }
-      ]
+      "component": "wc-introduction"
     },
     {
       "grid": false,
@@ -1172,7 +1168,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/diego-mr-rodriguez.mp3"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/titles/diego-mr-rodriguez.mp3"
                 },
                 {
                   "text": "His first name is Diego. His last name is Rodriguez. He is "
@@ -1198,7 +1194,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/yumi-ms-yong.mp3"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/titles/yumi-ms-yong.mp3"
                 },
                 {
                   "text": "Her first name is Yumi. Her last name is Yong. She is "
@@ -1224,7 +1220,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/kate-mrs-jones.mp3"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/titles/kate-mrs-jones.mp3"
                 },
                 {
                   "text": "Her first name is Kate. Her last name is Jones. She is "
@@ -1243,7 +1239,7 @@
           "card": false,
           "images": [
             {
-              "src": "/assets/images/courses/beginner/lesson-2/classwork/miss-kato.avif"
+              "src": "/assets/images/courses/beginner/lesson-2/classwork/titles/miss-kato.avif"
             }
           ],
           "blocks": [
@@ -1278,7 +1274,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/mr.mp3"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/titles/mr.mp3"
                 },
                 {
                   "text": "Mr. "
@@ -1294,7 +1290,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/mr-rodriguez.mp3"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/titles/mr-rodriguez.mp3"
                 },
                 {
                   "text": "Mr. Rodriguez (single or married males) "
@@ -1312,7 +1308,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/titles/ms.mp3"
                 },
                 {
                   "text": "Ms. "
@@ -1328,7 +1324,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/titles/ms-yong.mp3"
                 },
                 {
                   "text": "Ms. Yong (single or married females) "
@@ -1346,7 +1342,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/titles/mrs.mp3"
                 },
                 {
                   "text": "Mrs. "
@@ -1362,7 +1358,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/titles/mrs-jones.mp3"
                 },
                 {
                   "text": "Mrs. Jones (married females)"
@@ -1380,7 +1376,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/titles/mrs.mp3"
                 },
                 {
                   "text": "Miss. "
@@ -1396,7 +1392,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/titles/ms-kato.mp3"
                 },
                 {
                   "text": "Miss Kato (single females) "

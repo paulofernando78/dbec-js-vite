@@ -426,7 +426,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /d/"
+                  "phonetics": " /d/ "
+                },
+                {
+                  "ptText":	"chegar"
                 }
               ]
             },
@@ -445,7 +448,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /t/"
+                  "phonetics": " /t/ "
+                },
+                {
+                  "ptText":	"perguntar"
                 }
               ]
             },
@@ -458,7 +464,10 @@
                   "text": "begin ➜ "
                 },
                 {
-                  "text": "began"
+                  "text": "began "
+                },
+                {
+                  "ptText":	"começar"
                 }
               ]
             },
@@ -471,7 +480,10 @@
                   "text": "break ➜ "
                 },
                 {
-                  "text": "broke"
+                  "text": "broke "
+                },
+                {
+                  "ptText":	"quebrar"
                 }
               ]
             },
@@ -484,7 +496,10 @@
                   "text": "build ➜ "
                 },
                 {
-                  "text": "built"
+                  "text": "built "
+                },
+                {
+                  "ptText":	"construir"
                 }
               ]
             },
@@ -497,7 +512,10 @@
                   "text": "bring ➜ "
                 },
                 {
-                  "text": "brought"
+                  "text": "brought "
+                },
+                {
+                  "ptText":	"trazer"
                 }
               ]
             },
@@ -516,7 +534,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /t/"
+                  "phonetics": " /t/ "
+                },
+                {
+                  "ptText":	"escovar"
                 }
               ]
             },
@@ -529,7 +550,10 @@
                   "text": "buy ➜ "
                 },
                 {
-                  "text": "bought"
+                  "text": "bought "
+                },
+                {
+                  "ptText":	"comprar"
                 }
               ]
             },
@@ -542,7 +566,11 @@
                   "text": "catch ➜ "
                 },
                 {
-                  "text": "caught"
+                  "text": "caught "
+                }
+                ,
+                {
+                  "ptText":	"pegar (algo; ônibus, trem)"
                 }
               ]
             },
@@ -561,7 +589,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /d/"
+                  "phonetics": " /d/ "
+                },
+                {
+                  "ptText":	"limpar"
                 }
               ]
             },
@@ -574,7 +605,10 @@
                   "text": "come ➜ "
                 },
                 {
-                  "text": "came"
+                  "text": "came "
+                },
+                {
+                  "ptText":	"vir"
                 }
               ]
             },
@@ -590,7 +624,10 @@
                   "text": "checked "
                 },
                 {
-                  "phonetics": "/t/"
+                  "phonetics": "/t/ "
+                },
+                {
+                  "ptText":	"checar"
                 }
               ]
             },
@@ -612,7 +649,10 @@
                   "markedText": "ied"
                 },
                 {
-                  "phonetics": " /d/"
+                  "phonetics": " /d/ "
+                },
+                {
+                  "ptText":	"copiar"
                 }
               ]
             },
@@ -625,7 +665,10 @@
                   "text": "cut ➜ "
                 },
                 {
-                  "text": "cut"
+                  "text": "cut "
+                },
+                {
+                  "ptText":	"cortar"
                 }
               ]
             },
@@ -644,7 +687,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /t/"
+                  "phonetics": " /t/ "
+                },
+                {
+                  "ptText":	"dançar"
                 }
               ]
             },
@@ -663,7 +709,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /ɪd/"
+                  "phonetics": " /ɪd/ "
+                },
+                {
+                  "ptText":	"partir"
                 }
               ]
             },
@@ -685,7 +734,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /d/"
+                  "phonetics": " /d/ "
+                },
+                {
+                  "ptText":	"morrer"
                 }
               ]
             },
@@ -698,7 +750,10 @@
                   "text": "do ➜ "
                 },
                 {
-                  "text": "did"
+                  "text": "did "
+                },
+                {
+                  "ptText":	"fazer*"
                 }
               ]
             },
@@ -711,7 +766,10 @@
                   "text": "drink ➜ "
                 },
                 {
-                  "text": "drank"
+                  "text": "drank "
+                },
+                {
+                  "ptText":	"beber"
                 }
               ]
             },
@@ -724,7 +782,10 @@
                   "text": "draw ➜ "
                 },
                 {
-                  "text": "drew"
+                  "text": "drew "
+                },
+                {
+                  "ptText":	"desenhar; coletar, ..."
                 }
               ]
             },
@@ -737,7 +798,10 @@
                   "text": "eat ➜ "
                 },
                 {
-                  "text": "ate"
+                  "text": "ate "
+                },
+                {
+                  "ptText":	"comer"
                 }
               ]
             },
@@ -756,7 +820,7 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /ɪd/"
+                  "phonetics": " /ɪd/ "
                 }
               ]
             },
@@ -775,7 +839,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /d/"
+                  "phonetics": " /d/ "
+                },
+                {
+                  "ptText":	"curtir, gostar"
                 }
               ]
             },
@@ -789,6 +856,9 @@
                 },
                 {
                   "text": "fell"
+                },
+                {
+                  "ptText":	"cair"
                 }
               ]
             },
@@ -801,7 +871,10 @@
                   "text": "fight ➜ "
                 },
                 {
-                  "text": "fought"
+                  "text": "fought "
+                },
+                {
+                  "ptText":	"lutar"
                 }
               ]
             },
@@ -814,7 +887,10 @@
                   "text": "find ➜ "
                 },
                 {
-                  "text": "found"
+                  "text": "found "
+                },
+                {
+                  "ptText":	"encontrar"
                 }
               ]
             },
@@ -827,7 +903,10 @@
                   "text": "fly ➜ "
                 },
                 {
-                  "text": "flew"
+                  "text": "flew "
+                },
+                {
+                  "ptText":	"voar"
                 }
               ]
             },
@@ -840,7 +919,10 @@
                   "text": "forget ➜ "
                 },
                 {
-                  "text": "forgot"
+                  "text": "forgot "
+                },
+                {
+                  "ptText":	"esquecer"
                 }
               ]
             },
@@ -853,7 +935,10 @@
                   "text": "get ➜ "
                 },
                 {
-                  "text": "got"
+                  "text": "got "
+                },
+                {
+                  "ptText":	"pegar, obter, adquirir..."
                 }
               ]
             },
@@ -866,7 +951,10 @@
                   "text": "give ➜ "
                 },
                 {
-                  "text": "gave"
+                  "text": "gave "
+                },
+                {
+                  "ptText":	"dar"
                 }
               ]
             },
@@ -879,7 +967,10 @@
                   "text": "go ➜ "
                 },
                 {
-                  "text": "went"
+                  "text": "went "
+                },
+                {
+                  "ptText":	"ir"
                 }
               ]
             },
@@ -901,7 +992,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /d/"
+                  "phonetics": " /d/ "
+                },
+                {
+                  "ptText":	"acontecer"
                 }
               ]
             },
@@ -914,7 +1008,10 @@
                   "text": "have ➜ "
                 },
                 {
-                  "text": "had"
+                  "text": "had "
+                },
+                {
+                  "ptText":	"ter"
                 }
               ]
             },
@@ -927,7 +1024,10 @@
                   "text": "hear ➜ "
                 },
                 {
-                  "text": "heard"
+                  "text": "heard "
+                },
+                {
+                  "ptText":	"ouvir"
                 }
               ]
             },
@@ -940,7 +1040,10 @@
                   "text": "hurt ➜ "
                 },
                 {
-                  "text": "hurt"
+                  "text": "hurt "
+                },
+                {
+                  "ptText":	"machucar"
                 }
               ]
             },
@@ -953,7 +1056,10 @@
                   "text": "keep ➜ "
                 },
                 {
-                  "text": "kept"
+                  "text": "kept "
+                },
+                {
+                  "ptText":	"manter, guardar; continuar"
                 }
               ]
             },
@@ -966,7 +1072,10 @@
                   "text": "know ➜ "
                 },
                 {
-                  "text": "knew"
+                  "text": "knew "
+                },
+                {
+                  "ptText":	"saber, conhecer"
                 }
               ]
             },
@@ -979,7 +1088,10 @@
                   "text": "leave ➜ "
                 },
                 {
-                  "text": "left"
+                  "text": "left "
+                },
+                {
+                  "ptText":	"sair, deixar, abandonar"
                 }
               ]
             },
@@ -1001,7 +1113,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /d/"
+                  "phonetics": " /d/ "
+                },
+                {
+                  "ptText":	"morar, viver"
                 }
               ]
             },
@@ -1014,7 +1129,10 @@
                   "text": "lose ➜ "
                 },
                 {
-                  "text": "lost"
+                  "text": "lost "
+                },
+                {
+                  "ptText":	"perder"
                 }
               ]
             },
@@ -1027,7 +1145,10 @@
                   "text": "make ➜ "
                 },
                 {
-                  "text": "made"
+                  "text": "made "
+                },
+                {
+                  "ptText":	"fazer*"
                 }
               ]
             },
@@ -1040,7 +1161,10 @@
                   "text": "meet ➜ "
                 },
                 {
-                  "text": "met"
+                  "text": "met "
+                },
+                {
+                  "ptText":	"encontrar, conhecer"
                 }
               ]
             },
@@ -1059,7 +1183,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /ɪd/"
+                  "phonetics": " /ɪd/ "
+                },
+                {
+                  "ptText":	"precisar"
                 }
               ]
             },
@@ -1078,7 +1205,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /d/"
+                  "phonetics": " /d/ "
+                },
+                {
+                  "ptText":	"abrir"
                 }
               ]
             },
@@ -1097,7 +1227,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /t/"
+                  "phonetics": " /t/ "
+                },
+                {
+                  "ptText":	"estacionar"
                 }
               ]
             },
@@ -1122,7 +1255,10 @@
                   "markedText": "aid"
                 },
                 {
-                  "phonetics": " peɪd/"
+                  "phonetics": " /peɪd/ "
+                },
+                {
+                  "ptText":	"pagar"
                 }
               ]
             },
@@ -1144,7 +1280,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /d/"
+                  "phonetics": " /d/ "
+                },
+                {
+                  "ptText":	"planejar"
                 }
               ]
             },
@@ -1163,7 +1302,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /d/"
+                  "phonetics": " /d/ "
+                },
+                {
+                  "ptText":	"jogar, tocar"
                 }
               ]
             },
@@ -1176,7 +1318,10 @@
                   "text": "put ➜ "
                 },
                 {
-                  "text": "put"
+                  "text": "put "
+                },
+                {
+                  "ptText":	"colocar"
                 }
               ]
             },
@@ -1195,7 +1340,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /d/"
+                  "phonetics": " /d/ "
+                },
+                {
+                  "ptText":	"chover"
                 }
               ]
             },
@@ -1208,7 +1356,10 @@
                   "text": "ring ➜ "
                 },
                 {
-                  "text": "rang"
+                  "text": "rang "
+                },
+                {
+                  "ptText":	"soar (som)"
                 }
               ]
             },
@@ -1221,7 +1372,10 @@
                   "text": "read ➜ "
                 },
                 {
-                  "text": "read (red)"
+                  "text": "read (red) "
+                },
+                {
+                  "ptText":	"ler"
                 }
               ]
             },
@@ -1234,7 +1388,10 @@
                   "text": "see ➜ "
                 },
                 {
-                  "text": "saw"
+                  "text": "saw "
+                },
+                {
+                  "ptText":	"ver"
                 }
               ]
             },
@@ -1256,7 +1413,10 @@
                   "text": "said"
                 },
                 {
-                  "phonetics": " /sed/"
+                  "phonetics": " /sed/ "
+                },
+                {
+                  "ptText":	"dizer"
                 }
               ]
             },
@@ -1269,7 +1429,10 @@
                   "text": "seek ➜ "
                 },
                 {
-                  "text": "sought"
+                  "text": "sought "
+                },
+                {
+                  "ptText":	"procurar"
                 }
               ]
             },
@@ -1282,7 +1445,10 @@
                   "text": "sell ➜ "
                 },
                 {
-                  "text": "sold"
+                  "text": "sold "
+                },
+                {
+                  "ptText":	"vender"
                 }
               ]
             },
@@ -1295,10 +1461,10 @@
                   "text": "sing ➜ "
                 },
                 {
-                  "text": "sang"
+                  "text": "sang "
                 },
                 {
-                  "markedText": ""
+                  "ptText":	"cantar"
                 }
               ]
             },
@@ -1311,7 +1477,10 @@
                   "text": "sit ➜ "
                 },
                 {
-                  "text": "sat"
+                  "text": "sat "
+                },
+                {
+                  "ptText":	"sentar"
                 }
               ]
             },
@@ -1324,7 +1493,10 @@
                   "text": "sleep ➜ "
                 },
                 {
-                  "text": "slept"
+                  "text": "slept "
+                },
+                {
+                  "ptText":	"dormir"
                 }
               ]
             },
@@ -1337,7 +1509,10 @@
                   "text": "speak ➜ "
                 },
                 {
-                  "text": "spoke"
+                  "text": "spoke "
+                },
+                {
+                  "ptText":	"falar"
                 }
               ]
             },
@@ -1350,7 +1525,10 @@
                   "text": "stand ➜ "
                 },
                 {
-                  "text": "stood"
+                  "text": "stood "
+                },
+                {
+                  "ptText":	"estar de pé"
                 }
               ]
             },
@@ -1369,7 +1547,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /ɪd/"
+                  "phonetics": " /ɪd/ "
+                },
+                {
+                  "ptText":	"começar"
                 }
               ]
             },
@@ -1388,7 +1569,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /d/"
+                  "phonetics": " /d/ "
+                },
+                {
+                  "ptText":	"ficar, permanecer"
                 }
               ]
             },
@@ -1410,7 +1594,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /t/"
+                  "phonetics": " /t/ "
+                },
+                {
+                  "ptText":	"parar"
                 }
               ]
             },
@@ -1432,7 +1619,10 @@
                   "markedText": "ied"
                 },
                 {
-                  "phonetics": " /d/"
+                  "phonetics": " /d/ "
+                },
+                {
+                  "ptText":	"estudar"
                 }
               ]
             },
@@ -1445,7 +1635,10 @@
                   "text": "sweep ➜ "
                 },
                 {
-                  "text": "swept"
+                  "text": "swept "
+                },
+                {
+                  "ptText":	"varrer"
                 }
               ]
             },
@@ -1458,7 +1651,10 @@
                   "text": "swim ➜ "
                 },
                 {
-                  "text": "swam"
+                  "text": "swam "
+                },
+                {
+                  "ptText":	"nadar"
                 }
               ]
             },
@@ -1471,7 +1667,10 @@
                   "text": "take ➜ "
                 },
                 {
-                  "text": "took"
+                  "text": "took "
+                },
+                {
+                  "ptText":	"pegar; levar"
                 }
               ]
             },
@@ -1490,7 +1689,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /t/"
+                  "phonetics": " /t/ "
+                },
+                {
+                  "ptText":	"conversar"
                 }
               ]
             },
@@ -1503,7 +1705,10 @@
                   "text": "tell ➜ "
                 },
                 {
-                  "text": "told"
+                  "text": "told "
+                },
+                {
+                  "ptText":	"contar, dizer"
                 }
               ]
             },
@@ -1516,7 +1721,10 @@
                   "text": "think ➜ "
                 },
                 {
-                  "text": "thought"
+                  "text": "thought "
+                },
+                {
+                  "ptText":	"pensar, achar"
                 }
               ]
             },
@@ -1538,7 +1746,10 @@
                   "markedText": "ied"
                 },
                 {
-                  "phonetics": " /d/"
+                  "phonetics": " /d/ "
+                },
+                {
+                  "ptText":	"tentar"
                 }
               ]
             },
@@ -1557,7 +1768,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /ɪd/"
+                  "phonetics": " /ɪd/ "
+                },
+                {
+                  "ptText":	"esperar"
                 }
               ]
             },
@@ -1570,7 +1784,10 @@
                   "text": "wake up ➜ "
                 },
                 {
-                  "text": "woke up"
+                  "text": "woke up "
+                },
+                {
+                  "ptText":	"acordar"
                 }
               ]
             },
@@ -1589,7 +1806,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /t/"
+                  "phonetics": " /t/ "
+                },
+                {
+                  "ptText":	"andar, caminhar"
                 }
               ]
             },
@@ -1608,7 +1828,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": "/ɪd/"
+                  "phonetics": "/ɪd/ "
+                },
+                {
+                  "ptText":	"querer"
                 }
               ]
             },
@@ -1621,7 +1844,10 @@
                   "text": "win ➜ "
                 },
                 {
-                  "text": "won"
+                  "text": "won "
+                },
+                {
+                  "ptText":	"ganhar"
                 }
               ]
             },
@@ -1640,7 +1866,10 @@
                   "markedText": "ed"
                 },
                 {
-                  "phonetics": " /t/"
+                  "phonetics": " /t/ "
+                },
+                {
+                  "ptText":	"trabalhar, funcionar"
                 }
               ]
             }
@@ -2053,7 +2282,10 @@
                     {
                       "text": "1. They",
                       "placeholder": "just arrived.",
-                      "correctAnswer": ["just arrived."]
+                      "correctAnswer": ["just arrived"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 },
@@ -2061,7 +2293,10 @@
                   "block": [
                     {
                       "text": "2. She",
-                      "correctAnswer": [" just woke up."]
+                      "correctAnswer": [" just woke up"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 },
@@ -2069,7 +2304,10 @@
                   "block": [
                     {
                       "text": "3. They",
-                      "correctAnswer": ["just bought a new car."]
+                      "correctAnswer": ["just bought a new car"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 },
@@ -2077,7 +2315,10 @@
                   "block": [
                     {
                       "text": "4. The race",
-                      "correctAnswer": ["just started.", "just began"]
+                      "correctAnswer": ["just started", "just began"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 }

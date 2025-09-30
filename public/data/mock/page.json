@@ -583,11 +583,16 @@
           ]
         },
         {
+          "audioSrc": "/assets/audio",
+          "title": "..."
+        },
+        {
           "radioExercises": [
             {
               "question": [
                 {
-                  "boldText": "1. ...",
+                  "audioSrc": "/assets/audio/",
+                  "boldText": "1. ... ",
                   "text": "... ",
                   "markedText": "..."
                 }
@@ -610,7 +615,7 @@
             {
               "question": [
                 {
-                  "boldText": "2. ...",
+                  "boldText": "2. ... ",
                   "text": "... ",
                   "markedText": "..."
                 }
