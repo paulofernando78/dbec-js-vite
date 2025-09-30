@@ -39,7 +39,11 @@
     {
       "collapsible": {
         "title": "AAaa",
-        "content": "BBbb"
+        "contents": [
+          {
+            "content": "BBbb"
+          }
+        ]
       }
     },
     {
@@ -157,8 +161,12 @@
               "block": [
                 {
                   "collapsible": {
-                    "title": "aaa",
-                    "content": "bbb"
+                    "title": "AAaa",
+                    "contents": [
+                      {
+                        "content": "BBbb"
+                      }
+                    ]
                   }
                 }
               ]

@@ -23,7 +23,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/general/look-at-the-pictures.mp3"
                 },
                 {
                   "boldText": "Look at the pictures."
@@ -49,7 +49,7 @@
             {
               "block": [
                 {
-                  "text": "Joshua"
+                  "text": "This is Joshua"
                 }
               ]
             }
@@ -67,7 +67,7 @@
             {
               "block": [
                 {
-                  "text": "Isabella"
+                  "text": "This is Isabella"
                 }
               ]
             }
@@ -84,7 +84,8 @@
             {
               "block": [
                 {
-                  "text": "Joshua Brown is a new student. Isabella Martins is a new student, too."
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/joshua-isabella-student.mp3",
+                  "text": "Joshua Brown is a new student. Isabella Martins is a new student, too. "
                 }
               ]
             }
@@ -95,28 +96,16 @@
     {
       "exercises": [
         {
-          "title": "Look at the pictures."
-        },
-        {
-          "images": [
-            {
-              "width": "200px",
-              "src": "",
-              "alt": "..."
-            },
-            {
-              "width": "200px",
-              "src": "",
-              "alt": "..."
-            }
-          ]
+          "audioSrc": "/assets/audio/general/answer-the-question.mp3",
+          "title": "Answer the question."
         },
         {
           "radioExercises": [
             {
               "question": [
                 {
-                  "boldText": "1. Where are Joshua and Isabella?",
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/where-joshua-isabella.mp3",
+                  "boldText": "Where are Joshua and Isabella?",
                   "ptText": "... "
                 }
               ],
@@ -486,12 +475,15 @@
       "component": "wc-lcwp"
     },
     {
-      "instruction": [
+      "instructions": [
         {
           "point": "Complete the conversations."
         },
         {
           "point": "Use my, your his, or her."
+        },
+        {
+          "point": "Check answers with your partner."
         }
       ]
     },
@@ -928,22 +920,12 @@
       "component": "wc-lcop"
     },
     {
-      "component": "wc-instruction"
-    },
-    {
-      "grid": false,
-      "text": [
+      "instructions": [
         {
-          "card": false,
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Practice with your teacher or partner."
-                }
-              ]
-            }
-          ]
+          "point": "Listen to the dialogue"
+        },
+        {
+          "point": "Practice in pairs."
         }
       ]
     },
@@ -1104,7 +1086,7 @@
       "dashedHr": true
     },
     {
-      "instruction": [
+      "instructions": [
         {
           "point": ""
         }
@@ -1183,8 +1165,6 @@
           "card": false,
           "images": [
             {
-              "width": "",
-              "position": "",
               "src": "/assets/images/courses/beginner/lesson-2/classwork/mr-rodriguez.avif"
             }
           ],
@@ -1192,7 +1172,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/diego-mr-rodriguez.mp3"
                 },
                 {
                   "text": "His first name is Diego. His last name is Rodriguez. He is "
@@ -1211,8 +1191,6 @@
           "card": false,
           "images": [
             {
-              "width": "",
-              "position": "",
               "src": "/assets/images/courses/beginner/lesson-2/classwork/ms-yong.avif"
             }
           ],
@@ -1220,7 +1198,7 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/yumi-ms-yong.mp3"
                 },
                 {
                   "text": "Her first name is Yumi. Her last name is Yong. She is "
@@ -1239,8 +1217,6 @@
           "card": false,
           "images": [
             {
-              "width": "",
-              "position": "",
               "src": "/assets/images/courses/beginner/lesson-2/classwork/mrs-jones.avif"
             }
           ],
@@ -1248,10 +1224,10 @@
             {
               "block": [
                 {
-                  "audioSrc": "/assets/audio/"
+                  "audioSrc": "/assets/audio/courses/beginner/lesson-2/kate-mrs-jones.mp3"
                 },
                 {
-                  "text": "Her first name is Kate. Her her last name is Jones. She is "
+                  "text": "Her first name is Kate. Her last name is Jones. She is "
                 },
                 {
                   "markedText": "Mrs."
@@ -1267,8 +1243,6 @@
           "card": false,
           "images": [
             {
-              "width": "",
-              "position": "",
               "src": "/assets/images/courses/beginner/lesson-2/classwork/miss-kato.avif"
             }
           ],

@@ -154,6 +154,14 @@ class Exercise extends HTMLElement {
       if (item.question) {
         const question = document.createElement("p");
         item.question.forEach((q) => {
+          if (q.audioSrc) {
+            const audio = document.createElement("wc-audio");
+            audio.data = {
+              audioSrc: q.audioSrc,
+            }
+            question.appendChild(audio)
+          }
+
           if (q.boldText) {
             const questionBold = document.createElement("span");
             questionBold.textContent = q.boldText;

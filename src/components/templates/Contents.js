@@ -140,9 +140,9 @@ class Contents extends HTMLElement {
       }
 
       // Instruction
-      if (section.instruction) {
+      if (section.instructions) {
         const instructionElement = document.createElement("wc-instruction");
-        instructionElement.data = section.instruction;
+        instructionElement.data = section.instructions;
         contentContainer.appendChild(instructionElement);
       }
 

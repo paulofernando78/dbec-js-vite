@@ -1,6 +1,6 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-class Instruction extends HTMLElement {
+class Instructions extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -40,8 +40,8 @@ class Instruction extends HTMLElement {
     const icon = document.createElement("wc-icon-item");
     icon.classList.add("title")
     icon.data = {
-      icon: "instruction",
-      label: "Instruction"
+      icon: "instructions",
+      label: "Instructions"
     }
     container.appendChild(icon);
 
@@ -61,4 +61,4 @@ class Instruction extends HTMLElement {
   }
 }
 
-export default Instruction;
+export default Instructions;

@@ -20,7 +20,7 @@ import HCOP from "./atoms/Ribbons/HCOP";
 import Production from "./atoms/Ribbons/Production";
 
 import Checking from "./molecules/Checking";
-import Instruction from "./molecules/Instruction";
+import Instructions from "./molecules/Instructions";
 
 import VideoPlayer from "./atoms/VideoPlayer";
 
@@ -83,7 +83,7 @@ customElements.define("wc-hcop", HCOP);
 customElements.define("wc-production", Production);
 
 customElements.define("wc-checking", Checking);
-customElements.define("wc-instruction", Instruction);
+customElements.define("wc-instruction", Instructions);
 
 customElements.define("wc-video-player", VideoPlayer);
 
