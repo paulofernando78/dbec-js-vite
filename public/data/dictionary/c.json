@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "clever",
+        "phonetics": "/ˈklɛv.ər/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "Quick to learn, understand, and apply ideas; showing skill or intelligence in thinking or doing something.",
+        "ptDefinition": "Rápido para aprender, entender e aplicar ideias; que demonstra habilidade ou inteligência em pensar ou fazer algo.",
+        "examples": [
+          {
+            "enExample": "She is very clever at solving puzzles.",
+            "ptExample": "Ela é muito inteligente para resolver quebra-cabeças."
+          },
+          {
+            "enExample": "That was a clever idea to save time.",
+            "ptExample": "Essa foi uma ideia inteligente para economizar tempo."
+          }
+        ],
+        "synonyms": "intelligent, smart, bright, sharp, resourceful",
+        "antonyms": "stupid, dull, slow, foolish",
+        "seeAlso": "intelligent, witty, brilliant",
+        "notes": [
+          {
+            "enNote": "In British English, 'clever' is often positive (intelligent), while in American English it can sometimes imply being too smart or tricky.",
+            "ptNote": "No inglês britânico, 'clever' é geralmente positivo (inteligente), enquanto no inglês americano às vezes pode sugerir ser esperto demais ou manhoso."
+          }
+        ]
+      },
+      {
         "word": "carve",
         "phonetics": "/kɑːrv/",
         "partOfSpeech": "verb",

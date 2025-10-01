@@ -62,32 +62,6 @@
         ]
       },
       {
-        "word": "plummet",
-        "phonetics": "/ˈplʌm.ɪt/",
-        "partOfSpeech": "verb",
-        "enDefinition": "to fall quickly and suddenly from a high position or to decrease quickly in amount or value.",
-        "ptDefinition": "cair rapidamente de um lugar alto ou diminuir de forma súbita em quantidade ou valor.",
-        "examples": [
-          {
-            "enExample": "House prices plummeted after the economic crisis.",
-            "ptExample": "Os preços das casas despencaram após a crise econômica."
-          },
-          {
-            "enExample": "Temperatures plummeted last night.",
-            "ptExample": "As temperaturas despencaram ontem à noite."
-          }
-        ],
-        "synonyms": ["drop", "fall", "tumble", "crash"],
-        "antonyms": ["rise", "soar", "increase"],
-        "seeAlso": ["decline", "decrease"],
-        "notes": [
-          {
-            "enNote": "Often used in financial or weather contexts to describe sudden and significant decreases.",
-            "ptNote": "Frequentemente usado em contextos financeiros ou meteorológicos para descrever quedas súbitas e significativas."
-          }
-        ]
-      },
-      {
         "word": "prince",
         "phonetics": "/prɪns/",
         "partOfSpeech": "noun",
