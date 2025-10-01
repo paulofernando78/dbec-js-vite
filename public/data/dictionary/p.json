@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "plummet",
+        "phonetics": "/ˈplʌm.ɪt/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to fall or drop straight down quickly and suddenly; to decrease rapidly in value or amount.",
+        "ptDefinition": "cair ou despencar rapidamente; diminuir de forma brusca em valor ou quantidade.",
+        "examples": [
+          {
+            "enExample": "Temperatures plummeted last night to below zero.",
+            "ptExample": "As temperaturas despencaram na noite passada para abaixo de zero."
+          },
+          {
+            "enExample": "The company's shares plummeted after the scandal.",
+            "ptExample": "As ações da empresa despencaram após o escândalo."
+          }
+        ],
+        "synonyms": "fall, drop, plunge, tumble, crash",
+        "antonyms": "rise, ascend, soar, climb",
+        "seeAlso": "decline, collapse",
+        "notes": [
+          {
+            "enNote": "Often used to describe sudden decreases in numbers, prices, or temperatures.",
+            "ptNote": "Geralmente usado para descrever quedas repentinas em números, preços ou temperaturas."
+          }
+        ]
+      },
+      {
         "word": "pitfall",
         "phonetics": "/ˈpɪtfɔːl/",
         "partOfSpeech": "noun",

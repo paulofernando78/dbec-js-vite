@@ -2,6 +2,58 @@
   {
     "definitions": [
       {
+        "word": "steady",
+        "phonetics": "/ˈstɛd.i/",
+        "partOfSpeech": "adjective, verb",
+        "enDefinition": "Adjective: firmly fixed, not shaking or changing; regular, continuous, and not likely to change. Verb: to make something become balanced, controlled, or less likely to change.",
+        "ptDefinition": "Adjetivo: firme, estável, contínuo, regular e pouco sujeito a mudanças. Verbo: tornar algo equilibrado, controlado ou menos propenso a mudar.",
+        "examples": [
+          {
+            "enExample": "He has a steady job as a teacher.",
+            "ptExample": "Ele tem um emprego estável como professor."
+          },
+          {
+            "enExample": "She put out a hand to steady herself.",
+            "ptExample": "Ela estendeu a mão para se firmar."
+          }
+        ],
+        "synonyms": "stable, constant, regular, firm, reliable",
+        "antonyms": "unsteady, unstable, irregular, shaky",
+        "seeAlso": "balance, consistent, secure",
+        "notes": [
+          {
+            "enNote": "Can describe people (a steady character), jobs (steady work), or movements (to steady a ladder).",
+            "ptNote": "Pode descrever pessoas (um caráter firme), empregos (trabalho estável) ou movimentos (firmar uma escada)."
+          }
+        ]
+      },
+      {
+        "word": "soar",
+        "phonetics": "/sɔːr/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to rise or increase quickly to a high level; to fly or move high in the air.",
+        "ptDefinition": "subir ou aumentar rapidamente para um nível alto; voar ou se mover alto no ar.",
+        "examples": [
+          {
+            "enExample": "House prices have soared in recent months.",
+            "ptExample": "Os preços das casas dispararam nos últimos meses."
+          },
+          {
+            "enExample": "The eagle soared high above the mountains.",
+            "ptExample": "A águia voou alto acima das montanhas."
+          }
+        ],
+        "synonyms": "rise, climb, surge, escalate",
+        "antonyms": "fall, plummet, drop, decline",
+        "seeAlso": "increase, elevate",
+        "notes": [
+          {
+            "enNote": "Commonly used for prices, feelings, or things moving high in the sky.",
+            "ptNote": "Usado com frequência para preços, sentimentos ou coisas que se movem alto no céu."
+          }
+        ]
+      },
+      {
         "word": "strike out",
         "phonetics": "/straɪk aʊt/",
         "partOfSpeech": "phrasal verb",

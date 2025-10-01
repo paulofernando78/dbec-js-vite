@@ -57,7 +57,7 @@ import DictionaryContent from "./templates/DictionaryContent";
 
 // Pages
 import Feelings from "./organisms/Feelings";
-import DataPage from "../pages/data-page";
+import DataPage from "../js/data-page";
 
 // ******************************
 

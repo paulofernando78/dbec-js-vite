@@ -178,7 +178,7 @@
               "block": [
                 {
                   "textIndent": true,
-                  "text": "He ran faster and vanished through another hole. Alice followed him through the hole. Now she was in a very long room. She looked around for the White Rabbit, but she couldn’t see him anywhere."
+                  "text": "He ran faster and vanished through another hole. Alice followed him through the hole. Now she was in a very long room. She looked vround for the White Rabbit, but she couldn’t see him anywhere."
                 }
               ]
             },
@@ -334,7 +334,8 @@
                   "textIndent": true,
                   "text": "‘Will I go up or down?’ she wondered. She felt the top of her head with her hand. But nothing happened - she stayed the same size. So she finished the cake."
                 }
-              ], "lineBreak": true
+              ],
+              "lineBreak": true
             },
             {
               "block": [
@@ -442,24 +443,78 @@
       ]
     },
     {
-      "exercises": [
+      "grid": false,
+      "text": [
         {
-          "title": "Fill in the blanks with the correct answer."
-        },
-        {
-          "fillExercises": [
+          "card": true,
+          "blocks": [
             {
-              "blocks": [
+              "block": [
                 {
-                  "block": [
-                    {
-                      "text": "Alice and her big sister",
-                      "correctAnswer": ["sat"]
-                    },
-                    {
-                      "text":	" under a tree one sunny day."
-                    }
-                  ]
+                  "boldText": "Chapter 1 Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "1.1 Why was Alice bored at the beginning of the story?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "1.2 What strange thing did Alice see?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "1.3 What did Alice do when the rabbit ran into the rabbit-hole?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "1.4 What happened to Alice after she drank from the bottle that said “DRINK ME”?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "1.5 What happened when Alice ate the cake that said “EAT ME”?"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": "1.1 Because her sister’s book had no pictures or conversations."
+                      },
+                      {
+                        "content": "1.2 She saw a White Rabbit with a watch."
+                      },
+                      {
+                        "content": "1.3 She followed him and went down the hole, too."
+                      },
+                      {
+                        "content": "1.4 She became smaller and smaller until she was only 25 cm tall."
+                      },
+                      {
+                        "content": "1.5 Nothing happened at first – she stayed the same size."
+                      }
+                    ]
+                  }
                 }
               ]
             }
@@ -487,7 +542,7 @@
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "text": "'Oh! What's happening?' cried Alice. 'I'm getting taller and taller!' She looked down. 'Goodbye, feet! Who will put your shoes on for you now ? I can't do it! I'll give you some new shoes for Christmas. I'll have to send them to you!'"
                 }
               ],
               "lineBreak": true
@@ -495,14 +550,14 @@
             {
               "block": [
                 {
-                  "text": "..."
+                  "text": "In a short time, Alice was more than three metres high."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "text": "'I want to go into that garden!' she thought. She took the little key from the table. Then she went to the door and opened it. But she was too big and couldn't go through it."
                 }
               ]
             },
