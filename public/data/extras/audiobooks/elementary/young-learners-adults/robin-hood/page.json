@@ -461,28 +461,28 @@
             {
               "block": [
                 {
-                  "text": "1. What happened to Sir George Gamwell’s wife and sons?"
+                  "text": "1.1 What happened to Sir George Gamwell’s wife and sons?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "2. Why did Sir George decide to teach his daughter Joanna to fight?"
+                  "text": "1.2 Why did Sir George decide to teach his daughter Joanna to fight?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "3. How did Joanna leave her father’s house to marry William?"
+                  "text": "1.3 How did Joanna leave her father’s house to marry William?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "4. What promise did Joanna make about raising her son Robin in the forest?"
+                  "text": "1.4 What promise did Joanna make about raising her son Robin in the forest?"
                 }
               ],
               "lineBreak": true
@@ -494,16 +494,16 @@
                     "title": "Answers",
                     "contents": [
                       {
-                        "content": "1. His wife and sons were killed in a fight with the Normans."
+                        "content": "1.1 His wife and sons were killed in a fight with the Normans."
                       },
                       {
-                        "content": "2. Because he had no sons left, he wanted Joanna to know how to defend herself."
+                        "content": "1.2 Because he had no sons left, he wanted Joanna to know how to defend herself."
                       },
                       {
-                        "content": "3. She escaped secretly and went to marry William against her father’s wishes."
+                        "content": "1.3 She escaped secretly and went to marry William against her father’s wishes."
                       },
                       {
-                        "content": "4. She promised that her son Robin would grow up learning the ways of the forest."
+                        "content": "1.4 She promised that her son Robin would grow up learning the ways of the forest."
                       }
                     ]
                   }
@@ -688,35 +688,62 @@
             {
               "block": [
                 {
-                  "text": "1. How did the villagers feel about Robin Fitzooth, and why?"
+                  "text": "2.1 How did the villagers feel about Robin Fitzooth, and why?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "2. What was the Sheriff of Nottingham like, and how did he treat the villagers?"
+                  "text": "2.2 What was the Sheriff of Nottingham like, and how did he treat the villagers?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "3. How did Robin Hood help the poor villagers?"
+                  "text": "2.3 How did Robin Hood help the poor villagers?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "4. What plan did the sheriff make to learn more about Robin Hood?"
+                  "text": "2.4 What plan did the sheriff make to learn more about Robin Hood?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "5. Why did the sheriff want to stop Robin’s wedding to Lady Marian?"
+                  "text": "2.5 Why did the sheriff want to stop Robin’s wedding to Lady Marian?"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": "2.1 The villagers loved Robin because he was kind and helped them when they were poor."
+                      },
+                      {
+                        "content": "2.2 The sheriff was greedy and cruel, taking money and treating the villagers unfairly."
+                      },
+                      {
+                        "content": "2.3 Robin gave food and money to the poor and protected them from the sheriff’s men."
+                      },
+                      {
+                        "content": "2.4 He planned to use spies and tricks to find out more about Robin and his men."
+                      },
+                      {
+                        "content": "2.5 Because Robin’s marriage to Lady Marian would give him more power and support."
+                      }
+                    ]
+                  }
                 }
               ]
             }
