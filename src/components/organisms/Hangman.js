@@ -157,10 +157,15 @@ class Hangman extends HTMLElement {
 
     const titleAudio = document.createElement("wc-audio");
     titleAudio.data = {
-      audioSrc: "/assets/audio/hangman/image-title.mp3"};
+      audioSrc: "/assets/audio/hangman/image-title.mp3",
+    };
 
     imageTitle.appendChild(titleAudio);
-    imageTitle.appendChild(document.createTextNode("Look at the picture and click / tap the letters to guess the word. Don't be afraid of making mistakes."))
+    imageTitle.appendChild(
+      document.createTextNode(
+        "Look at the picture and click / tap the letters to guess the word. Don't be afraid of making mistakes."
+      )
+    );
 
     wordNunmbersImageWrapper.appendChild(imageTitle);
 
@@ -170,11 +175,12 @@ class Hangman extends HTMLElement {
 
     const questionAudio = document.createElement("wc-audio");
     questionAudio.data = {
-      audioSrc: "/assets/audio/hangman/question.mp3"};
+      audioSrc: "/assets/audio/hangman/question.mp3",
+    };
 
     imageQuestion.appendChild(questionAudio);
-    imageQuestion.appendChild(document.createTextNode("What is it?"))
-    
+    imageQuestion.appendChild(document.createTextNode("What is it?"));
+
     wordNunmbersImageWrapper.appendChild(imageQuestion);
 
     // Hint
@@ -182,9 +188,14 @@ class Hangman extends HTMLElement {
     wordNunmbersImageWrapper.appendChild(hint);
 
     const hintAudio = document.createElement("wc-audio");
-    hintAudio.data = {audioSrc: ""};
-    this.shadowRoot.appendChild(hintAudio);
+    hintAudio.data = { audioSrc: "" };
 
+    hint.appendChild(hintAudio)
+    hint.appendChild(document.createTextNode("Hint: ..."))
+
+    wordNunmbersImageWrapper.appendChild(hintAudio);
+
+    // Image
     const image = document.createElement("wc-image");
     wordNunmbersImageWrapper.appendChild(image);
     this.imageElement = image;
@@ -265,7 +276,7 @@ class Hangman extends HTMLElement {
     this.wordsCompletedMsg = wordsCompleted;
 
     const reset = document.createElement("wc-button");
-    reset.classList.add("reset")
+    reset.classList.add("reset");
     reset.setAttribute("data-icon", "reset");
     reset.addEventListener("click", () => {
       // Esconde mensagens

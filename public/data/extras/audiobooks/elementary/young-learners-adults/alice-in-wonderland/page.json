@@ -58,6 +58,56 @@
     },
     {
       "ribbon": {
+        "icon": "vocabulary",
+        "label": "Vocabulary"
+      }
+    },
+    {
+      "hangman": [
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "word": ""
+        }
+      ]
+    },
+    {
+      "ribbon": {
         "icon": "pages",
         "label": "Chapters"
       }
@@ -525,7 +575,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 2 • "
+        "label": "Chapter 2"
       }
     },
     {
@@ -709,6 +759,98 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter 2 Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 What happened to Alice’s body after she drank the drink?"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "2.5 Why did the Mouse get angry with Alice?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 Why couldn’t Alice enter the garden even with the little key?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.3 What was the “sea” that Alice found herself swimming in?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.4 How did Alice first try to talk to the Mouse?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.5 Why did the Mouse get angry with Alice?"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": "2.1 She grew taller and taller until she was more than three metres high."
+                      },
+                      {
+                        "content": "2.2  Because she had become too big to go through the small door."
+                      },
+                      {
+                        "content": "2.3 It wasn’t the sea – it was the water from her own tears."
+                      },
+                      {
+                        "content": "2.4 First in English, then in French, thinking it might be a French mouse."
+                      },
+                      {
+                        "content": "2.5 Because Alice kept talking about cats (like Dinah) and then about dogs, which mice hate."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 3 • "
@@ -730,6 +872,86 @@
               "block": [
                 {
                   "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter X Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": ".1 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".2 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".3 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".4 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".5 "
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": ".1 "
+                      },
+                      {
+                        "content": ".2 "
+                      },
+                      {
+                        "content": ".3 "
+                      },
+                      {
+                        "content": ".4 "
+                      },
+                      {
+                        "content": ".5 "
+                      }
+                    ]
+                  }
                 }
               ]
             }
@@ -774,6 +996,86 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter X Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": ".1 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".2 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".3 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".4 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".5 "
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": ".1 "
+                      },
+                      {
+                        "content": ".2 "
+                      },
+                      {
+                        "content": ".3 "
+                      },
+                      {
+                        "content": ".4 "
+                      },
+                      {
+                        "content": ".5 "
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 5 • "
@@ -802,6 +1104,86 @@
               "block": [
                 {
                   "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter X Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": ".1 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".2 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".3 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".4 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".5 "
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": ".1 "
+                      },
+                      {
+                        "content": ".2 "
+                      },
+                      {
+                        "content": ".3 "
+                      },
+                      {
+                        "content": ".4 "
+                      },
+                      {
+                        "content": ".5 "
+                      }
+                    ]
+                  }
                 }
               ]
             }
@@ -846,6 +1228,86 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter X Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": ".1 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".2 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".3 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".4 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".5 "
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": ".1 "
+                      },
+                      {
+                        "content": ".2 "
+                      },
+                      {
+                        "content": ".3 "
+                      },
+                      {
+                        "content": ".4 "
+                      },
+                      {
+                        "content": ".5 "
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 7 • "
@@ -874,6 +1336,86 @@
               "block": [
                 {
                   "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter X Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": ".1 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".2 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".3 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".4 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".5 "
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": ".1 "
+                      },
+                      {
+                        "content": ".2 "
+                      },
+                      {
+                        "content": ".3 "
+                      },
+                      {
+                        "content": ".4 "
+                      },
+                      {
+                        "content": ".5 "
+                      }
+                    ]
+                  }
                 }
               ]
             }
@@ -918,6 +1460,86 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter X Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": ".1 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".2 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".3 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".4 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".5 "
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": ".1 "
+                      },
+                      {
+                        "content": ".2 "
+                      },
+                      {
+                        "content": ".3 "
+                      },
+                      {
+                        "content": ".4 "
+                      },
+                      {
+                        "content": ".5 "
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 9 • "
@@ -946,6 +1568,86 @@
               "block": [
                 {
                   "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter X Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": ".1 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".2 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".3 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".4 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": ".5 "
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": ".1 "
+                      },
+                      {
+                        "content": ".2 "
+                      },
+                      {
+                        "content": ".3 "
+                      },
+                      {
+                        "content": ".4 "
+                      },
+                      {
+                        "content": ".5 "
+                      }
+                    ]
+                  }
                 }
               ]
             }
@@ -990,26 +1692,15 @@
       ]
     },
     {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 11 • "
-      }
-    },
-    {
+      "grid": false,
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-11.avif",
-              "alt": "Chapter 11 image"
-            }
-          ],
+          "card": true,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "boldText": "Chapter X Questions"
                 }
               ],
               "lineBreak": true
@@ -1017,143 +1708,35 @@
             {
               "block": [
                 {
-                  "text": "..."
+                  "text": ".1 "
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 12 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-12.avif",
-              "alt": "Chapter 12 image"
-            }
-          ],
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                }
-              ],
-              "lineBreak": true
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "text": ".2 "
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 13 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-13.avif",
-              "alt": "Chapter 13 image"
-            }
-          ],
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                }
-              ],
-              "lineBreak": true
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "text": ".3 "
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 14 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-14.avif",
-              "alt": "Chapter 14 image"
-            }
-          ],
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                }
-              ],
-              "lineBreak": true
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "text": ".4 "
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 15 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-15.avif",
-              "alt": "Chapter 15 image"
-            }
-          ],
-          "blocks": [
+            },
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "text": ".5 "
                 }
               ],
               "lineBreak": true
@@ -1161,43 +1744,26 @@
             {
               "block": [
                 {
-                  "text": "..."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 16 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-16.avif",
-              "alt": "Chapter 16 image"
-            }
-          ],
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "..."
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": ".1 "
+                      },
+                      {
+                        "content": ".2 "
+                      },
+                      {
+                        "content": ".3 "
+                      },
+                      {
+                        "content": ".4 "
+                      },
+                      {
+                        "content": ".5 "
+                      }
+                    ]
+                  }
                 }
               ]
             }
