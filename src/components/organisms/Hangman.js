@@ -177,6 +177,14 @@ class Hangman extends HTMLElement {
     
     wordNunmbersImageWrapper.appendChild(imageQuestion);
 
+    // Hint
+    const hint = document.createElement("p");
+    wordNunmbersImageWrapper.appendChild(hint);
+
+    const hintAudio = document.createElement("wc-audio");
+    hintAudio.data = {audioSrc: ""};
+    this.shadowRoot.appendChild(hintAudio);
+
     const image = document.createElement("wc-image");
     wordNunmbersImageWrapper.appendChild(image);
     this.imageElement = image;

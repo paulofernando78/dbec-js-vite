@@ -24,6 +24,12 @@ class Iframe extends HTMLElement {
       iframe {
         border-radius: var(--border-radius);
       }
+
+      @media (max-width: 600px) {
+        iframe {
+          height: 300px!important
+        }
+      }
   `;
     this.shadowRoot.appendChild(css);
   }
@@ -34,8 +40,11 @@ class Iframe extends HTMLElement {
     cssImports.href = "/src/css/imports.css";
     this.shadowRoot.appendChild(cssImports);
 
+    const background = document.createElement("div")
+    background.classList.add("background")
+
     const iframe = document.createElement("iframe");
-    iframe.style.width = "100%";
+    iframe.style.width = item.width;
     iframe.style.height = item.height || "400px";
     iframe.setAttribute("frameborder", "0");
     iframe.setAttribute(
@@ -43,8 +52,9 @@ class Iframe extends HTMLElement {
       "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     );
     iframe.src = item.src;
+    background.appendChild(iframe)
 
-    this.shadowRoot.append(cssImports, iframe);
+    this.shadowRoot.append(cssImports, background);
   }
 }
 

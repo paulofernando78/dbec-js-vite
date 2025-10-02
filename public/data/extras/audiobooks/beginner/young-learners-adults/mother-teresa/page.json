@@ -1,0 +1,1256 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "descriptions": [
+      {
+        "icon": "audiobooks",
+        "description": "Audiobooks"
+      },
+      {
+        "icon": "pages",
+        "description": "Beginner (A1)"
+      },
+      {
+        "icon": "book",
+        "description": "Mother Teresa"
+      },
+      {
+        "icon": "time",
+        "description": "00:00"
+      },
+      {
+        "icon": "flag",
+        "description": "British English"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Introduction"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Have you ever heard about Mother Teresa?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "What do you think she worked for?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Summary"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "left",
+              "src": "/assets/images/extras/audiobooks/beginner/young-learners-adults/mother-teresa/cover.avif",
+              "alt": "Cover image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "Mother Teresa was a small, quiet nun. She lived for God and helped poor people in the streets of India. She was very famous for her work. She died in 1997, but people remember her today. People in many countries love her.This is her story."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "vocabulary",
+        "label": "Vocabulary"
+      }
+    },
+    {
+      "hangman": [
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "hint": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "hint": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "hint": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "hint": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "hint": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "hint": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "hint": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "hint": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "hint": "",
+          "word": ""
+        },
+        {
+          "imageSrc": "/assets/images/general/.avif",
+          "hint": "",
+          "word": ""
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "map",
+        "label": "Map of Serbia"
+      }
+    },
+    {
+      "iframe": {
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10350821.004815917!2d14.967082231942!3d43.794738580235006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47571ddff2898095%3A0x55e50ea3723865d!2sSerbia!5e1!3m2!1sen!2sbr!4v1759343523989!5m2!1sen!2sbr"
+      }
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Agnes Gonxha"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-1.avif",
+              "alt": "Chapter 1 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "For her first eighteen years, her name was not Teresa. It was Agnes. Her family name was Bojaxhiu. There were two children in the family before her: a boy and a girl. Then little Agnes Gonxha came into the world on 26 August 1910."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Her mother and father were from Albania, but they lived in the town of Skopje. At that time, Skopje was in Serbia. They had a good home because her father did well in his work."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Then her father suddenly died. Agnes was only eight years old. Her sister was fourteen and her brother was eleven. Things were difficult for Agnes's mother, but she was strong for her children. She worked and did well. She loved the children, and they had a happy home."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "There were some poor people near their home. These people did not have much money for food, and Agnes's mother was good to them too. She was a Christian - a Catholic - and God was very important to her. She prayed to God every evening with her children, and they all went to church every week."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "At the church, there were stories about Christian missionaries in India and poor African countries. These people lived for God. They went to India and Africa because they wanted to bring God's love to poor people there. Some of the missionaries in India were men from Skopje."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Agnes loved hearing about the work of these missionaries. She started to think, 'What am I going to do for God?' She wanted to live for God, but how? Did she want to be a nun? Did she want to live only for God? She prayed for answers."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "After five years, the answer came to her. She wanted to live only for Him. She wanted to be a nun in India."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Her mother was very unhappy about this. She loved her daughter and did not want to say goodbye to her. She went to her bedroom and stayed there all day. But after a day and a night, she came out and said to Agnes, 'Put your hand in His hand and walk with Him."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "On 25 September 1928, Agnes said goodbye to her friends and her home in Skopje. At the station, she said goodbye to her family. She was eighteen years old, and she did not see her mother or her sister again."
+                }
+              ],
+              "lineBreak": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "1.1 What was Mother Teresa’s birth name and when was she born?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "1.2 What happened to her father when she was young, and how did her mother respond?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "1.3 How did her mother’s faith influence Agnes?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "1.4 What inspired Agnes to want to live for God?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "1.5 What important decision did Agnes make at age eighteen?"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": "1.1 Her name was Agnes Gonxha Bojaxhiu, and she was born on 26 August 1910. (*UK the twenty-sixth of August *US August twenty-sixth)"
+                      },
+                      {
+                        "content": "1.2 Her father suddenly died when she was eight, and her mother worked hard, stayed strong, and cared lovingly for the children."
+                      },
+                      {
+                        "content": "1.3 She prayed with her children every day, went to church weekly, and helped the poor, which inspired Agnes’s own faith."
+                      },
+                      {
+                        "content": "1.4 Hearing stories of Christian missionaries in India and Africa made her want to dedicate her life to God."
+                      },
+                      {
+                        "content": "1.5 She decided to become a nun in India, left home in September 1928, and never saw her mother or sister again."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "map",
+        "label": "Map of Calcutta"
+      }
+    },
+    {
+      "iframe": {
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d135429.87622417015!2d88.34735275!3d22.53542735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f882db4908f667%3A0x43e330e68f6c2cbc!2sKolkata%2C%20West%20Bengal%2C%20India!5e1!3m2!1sen!2sbr!4v1759346721080!5m2!1sen!2sbr"
+      }
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "To India "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-2.avif",
+              "alt": "Chapter 2 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "These days, you can get from Ireland to India very quickly, but in those days people were on the boat for seven weeks. It went from Ireland to Spain, then across the Mediterranean Sea to Suez in Egypt, down the Red Sea, across the Arabian Sea to Sri Lanka, and then up to Calcutta in India. From Calcutta, she went by train to Darjeeling. Calcutta was a big place with a lot of noise, but Darjeeling was quiet and beautiful."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Young Sister Teresa did not know much English, but she was a good student. She was friendly too and she often smiled. She was very happy there. After two years, her English was good, and she started to teach children in the nuns' school."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Then she moved to one of the Loreto nuns' schools in Calcutta. Its name was Loreto Entally, a big school for girls. Many of the girls were from poor families."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The school days started early in the morning, but the nuns' days started before that. Every morning, the nuns prayed for a long time. Then they worked in the school in the morning and the afternoon. They worked in the evening too, because many of the girls lived at the school. After a long day, they prayed again and then went to bed."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The nuns did not have holidays. They did not listen music or go shopping. They did not see their families. But they were happy because they lived for God. They were happy and strong all day because they remembered His love every morning."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Sister Teresa liked teaching, and she was good at it. She was a teacher at Loreto Entally for twelve years, and then, from 1944, she was the head teacher for four years."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 How long did it take to travel from Ireland to India in those days, and what route did the boat take?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 Where did Sister Teresa go after arriving in Calcutta?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.3 How did Sister Teresa manage with English when she first arrived, and what happened after two years?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.4 What was Loreto Entally, and who studied there?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.5 What was the daily life of the nuns like at Loreto Entally?"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": "2.1 The journey took seven weeks, going from Ireland to Spain, across the Mediterranean to Egypt, down the Red Sea, across the Arabian Sea to Sri Lanka, and finally to Calcutta."
+                      },
+                      {
+                        "content": "2.2 She traveled by train to Darjeeling, which was quieter and more beautiful than Calcutta."
+                      },
+                      {
+                        "content": "2.3 At first, she didn’t know much English, but she was a good student. After two years, her English improved, and she began teaching children."
+                      },
+                      {
+                        "content": "2.4 It was a large school for girls in Calcutta where many of the students came from poor families."
+                      },
+                      {
+                        "content": "2.5 Their days began early with long prayers, followed by teaching and caring for students all day, ending with evening prayers. They had no holidays, no shopping or family visits, but they were happy because they lived for God."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "The Blue and White Sari"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-3.avif",
+              "alt": "Chapter 3 image"
+            }
+          ],
+
+          "blocks": [
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Indian women usually dress in saris. There are beautiful, expensive saris, and there are poor saris for poor women. Mother Teresa dressed in a poor blue and white sari because she wanted to work with very poor people."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Today, there are many nuns in these blue and white saris, but on her first day in the slum, Mother Teresa was alone. She was only one small woman, with no helpers and no money. How did she start her new work?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "First, she prayed to God, and then she walked into the slum. There she talked to poor children. Many of them lived in the street. They had no home, no family and no school. She started to teach them in the street. The children liked her, and the day after that, a lot of children came to her new 'school'. Then they came every day."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "One day, there was a poor old woman in the street. She did not have a home and she was very ill. The doctors in the hospital did not want her because she was poor and very old. She was a dying woman. She did not have family; she was alone. People in the street did not want to go near her. But Mother Teresa went to her and talked to her. She washed the woman and stayed with her. The woman died, but she did not die alone. She died with friend, with her hand in Mother Teresa's hand."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "There were often dying people in those streets. Mother Teresa stayed with them, and they did not die alone."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Many poor street people did not have any food. Mother Teresa asked people for food for them. Some people helped her. Some people were angry and did not help."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "For two months, Mother Teresa worked alone. It was difficult time for her. Then two of her Indian students from Loreto Entally came to her and worked with her. After two years, there were twelve nuns with her. They all had blue and white saris, and they had a name: 'The Missionaries of Charity'. They worked in street schools and they opened street clinics. These clinics were not hospitals, but they were a big help for people in the slums."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "People in Calcutta started to talk about Mother Teresa and her Missionaries of Charity. Many people wanted to help her and to give money to her. In 1952, the government of Calcutta gave her a big building, and she started a home for dying people there."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "After this, the nuns started a big home for children. Many poor children in Calcutta did not have a home or a mother or father. At the nuns' new children's home, there was food and a bed for them, and love too."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "For ten years, Mother Teresa and her Missionaries of Charity worked only in Calcutta. Every year, there were new nuns. After ten years, they started to work away from Calcutta too. They opened new homes for dying people, homes for children, schools, clinics and food kitchens in twenty-three places in India."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "3.1 Why did Mother Teresa choose to wear a simple blue and white sari?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3.2 How did Mother Teresa begin her work in the slum?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3.3 What did Mother Teresa do for the dying woman that others ignored?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3.4 How did the Missionaries of Charity begin?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "3.5 How did the work of the Missionaries of Charity grow in the first ten years?"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": "3.1 Because she wanted to live and work like the very poor people she served."
+                      },
+                      {
+                        "content": "3.2 She prayed, went into the slum, and started teaching poor children in the street."
+                      },
+                      {
+                        "content": "3.3 She washed her, held her hand, and stayed with her so she would not die alone."
+                      },
+                      {
+                        "content": "3.4 At first, Mother Teresa worked alone, then two of her former students joined her. After two years, there were twelve nuns with blue and white saris, forming the Missionaries of Charity."
+                      },
+                      {
+                        "content": "3.5 They started schools and clinics in Calcutta, opened a home for dying people in 1952, a children’s home, and later expanded to 23 places in India with schools, clinics, and food kitchens."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "'A love letter to the world'"
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-4.avif",
+              "alt": "Chapter 4 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "There are poor people in every country. In 1965, the Missionaries of Charity started working in Venezuela, South America. After that, they opened a home in Rome. Then they went to Tanzania and many countries in Africa, Europe and Asia."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "In 1969, there was a television programme about Mother Teresa and her work. It was a BBC programme, and it was on British TV first. After the programme, many letters arrived for her. A lot of people wanted to work with her or give money. Then people in Europe, the US and Asia watched the programme. People in many countries wanted to help her. Suddenly, Mother Teresa was world-famous."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "She did not like being famous. The Missionaries of Charity were not hers; they were God's. She was only a pen in God's hand, she often said, 'And He is sending a love letter to the world.'"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "People often asked her about her work. One question was, 'You are with ill people and dying people every day. Is it difficult? How do you do it?'"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "Her answer was, I see God in every person. For Mother Teresa, love of God was the important thing. She wanted to give her love to God, but we cannot see God. We can only see God in people. She loved poor people and dying people because she loved God in them. For her, this was beautiful, not difficult."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "She was on television again in 1979 because the Nobel Peace Prize went to her. This famous prize was $150,000 in that year - a lot of money then. Every year, the prize goes to an important worker for world peace. Many important people go to Oslo from many countries for the prize day. On that day in 1979, Mother Teresa talked to them about love and peace. They asked her, 'How can we get world peace?' She answered, 'Go home and love your family."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "In the 1980s, there were Missionaries of Charity in 100 countries. They were not only in poor countries: there was a home for dying people in New York too. Mother Teresa often talked to heads of government in these countries, but she always dressed in her poor woman's sari."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "In 1990, Mother Teresa was 80 years old but she did not stop working. Her days started at four o'clock in the morning. She worked all day and into the night. She had little sleep."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Questions"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4.1 In which country outside India did the Missionaries of Charity first begin working, and when?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4.2 What made Mother Teresa world-famous in 1969?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4.3 How did Mother Teresa explain her strength to work with sick and dying people every day?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4.4 What important award did Mother Teresa receive in 1979, and what was her message about world peace?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "4.5 By the 1980s, how widespread was the work of the Missionaries of Charity?"
+                }
+              ],
+              "lineBreak": true
+            }, 
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": "4.1 In 1965, they started in Venezuela, South America."
+                      },
+                      {
+                        "content": "4.2 A BBC television programme about her and her work, which was shown in many countries."
+                      },
+                      {
+                        "content": "4.3 She said she saw God in every person and loved them because she loved God in them."
+                      },
+                      {
+                        "content": "4.4 She received the Nobel Peace Prize and said: “Go home and love your family.”"
+                      },
+                      {
+                        "content": "4.5 They were in 100 countries, including not only poor countries but also places like New York, where they opened a home for dying people."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 5 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-5.avif",
+              "alt": "Chapter 5 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [{ "textIndent": true, "text": "..." }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 6 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-6.avif",
+              "alt": "Chapter 6 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 7 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-7.avif",
+              "alt": "Chapter 7 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 8 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-8.avif",
+              "alt": "Chapter 8 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 9 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-9.avif",
+              "alt": "Chapter 9 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 10 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-10.avif",
+              "alt": "Chapter 10 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 11 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-11.avif",
+              "alt": "Chapter 11 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 12 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-12.avif",
+              "alt": "Chapter 12 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 13 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-13.avif",
+              "alt": "Chapter 13 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 14 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-14.avif",
+              "alt": "Chapter 14 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 15 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-15.avif",
+              "alt": "Chapter 15 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 16 • "
+      }
+    },
+    {
+      "text": [
+        {
+          "images": [
+            {
+              "position": "right",
+              "src": "/assets/images/extras/audiobooks/starter/.../chapter-16.avif",
+              "alt": "Chapter 16 image"
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

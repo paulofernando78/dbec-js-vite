@@ -1,10 +1,3 @@
 import "./index";
 import "./app";
-
-import * as THREE from "three";
-
-const renderer = new THREE.WebGLRenderer();
-
-renderer.setSize(window.innerWidth, window.innerHeight);
-
-document.body.appendChild(renderer.domElement)
+import "./three-js/index-scene"
