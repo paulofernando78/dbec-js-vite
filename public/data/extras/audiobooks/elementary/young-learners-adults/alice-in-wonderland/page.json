@@ -16,7 +16,7 @@
       },
       {
         "icon": "time",
-        "description": "00:00"
+        "description": "01:04:45"
       },
       {
         "icon": "flag",
@@ -531,25 +531,18 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-2.avif",
-              "alt": "Chapter 2 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
                 {
                   "text": "'Oh! What's happening?' cried Alice. 'I'm getting taller and taller!' She looked down. 'Goodbye, feet! Who will put your shoes on for you now ? I can't do it! I'll give you some new shoes for Christmas. I'll have to send them to you!'"
                 }
-              ],
-              "lineBreak": true
+              ]
             },
             {
               "block": [
                 {
+                  "textIndent": true,
                   "text": "In a short time, Alice was more than three metres high."
                 }
               ]
@@ -557,6 +550,7 @@
             {
               "block": [
                 {
+                  "textIndent": true,
                   "text": "'I want to go into that garden!' she thought. She took the little key from the table. Then she went to the door and opened it. But she was too big and couldn't go through it."
                 }
               ]
@@ -564,126 +558,149 @@
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "She sat down and began to cry again. Because she was very big, her tears were very big too."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "'Alice, stop it this minute! Don't cry!' she said."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "'Now I can go into the garden!'thought Alice, and she started to run to the little door. But before she got there, she fell into some water. She tried to put her feet on the ground but she couldn't. She had to swim."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "'I'm in the sea!' she thought. But it wasn't the sea. The water was her tears."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "Something was in the water - Alice could hear it. ' Perhaps it's a big fish or sea animal, she thought. She looked round. There, very near her, was a mouse."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "'I'll speak to it, thought Alice. 'Everything is strange here. Perhaps it can speak and understand me.'"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "'Oh Mouse, she said. ‘Do you know the way out of this room?' The Mouse didn't answer."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "'Perhaps it doesn't understand English. Perhaps it's a French mouse,' Alice thought. She remembered some words from her schoolbook, so she spoke to the mouse in French."
+                }
+              ]
+            },
+            {
+              "block": [
+                { "textIndent": true, "text": "'Where is my cat?' she asked." }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "textIndent": true,
+                  "text": "The Mouse moved quickly away from her."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "'Oh, I'm sorry, said Alice. 'I forgot. You're a mouse, so you don't like cats."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "'Don't like cats!' cried the mouse. 'I'm a mouse. Of course I don't like cats!’"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "'No, Alice said. 'No. But I think you will like Dinah. She is a nice, dear thing. She's very quiet and good. She catches a mouse every day - Oh! You're angry again! We won't talk about Dinah any more - ’"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "‘We!' cried the Mouse. 'I never speak about cats! Our family hates cats! I don't want to hear any more about them."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "‘No, no, said Alice quickly. Perhaps - perhaps you like dogs? There's a very nice little dog near our house. It likes playing with children but it works too. It kills all the m – Oh! I'm sorry!’"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "The Mouse looked angrily at her and swam quickly away."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "'Dear Mouse!' said Alice softly. Come back again and won't talk about cats or dogs.'"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "When the Mouse heard this, it turned round. It swam slowly back. 'All right,' it said. 'I'll talk to you, but let's get out of the water."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "..."
+                  "textIndent": true,
+                  "text": "They climbed out and Alice looked round. There were a lot of animals and birds in the water. When they saw her, they got out of the water too."
                 }
               ]
             }
@@ -700,14 +717,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-3.avif",
-              "alt": "Chapter 3 image"
-            }
-          ],
-
           "blocks": [
             {
               "block": [

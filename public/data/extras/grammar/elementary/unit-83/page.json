@@ -16,7 +16,7 @@
       }
     ]
   },
-      "contents": [
+  "contents": [
     {
       "ribbon": {
         "bgColor": "var(--gray-3)",
@@ -26,9 +26,10 @@
       }
     },
     {
-      "grid": false,
+      "grid": true,
       "text": [
         {
+          "card": true,
           "images": [
             {
               "width": "",
@@ -44,14 +45,393 @@
                   "boldText": "..."
                 }
               ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/general/",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/general/",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "We use "
+                },
+                {
+                  "boldText": "many"
+                },
+                {
+                  "text": " + count noun (plural noun)"
+                }
+              ]
             },
             {
               "block": [
                 {
-                  "text": "... "
+                  "text": "(many books / manay people, etc.)"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
                 },
                 {
-                  "ptText": "..."
+                  "text": "Did you buy many books?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "We don't know many people."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+
+                {
+                  "text": "How many photos did you take?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "A: Did you take any photos? "
+                },
+                {
+                  "text": "B: I took some, but not many."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+{
+      "grid": true,
+      "text": [
+        {
+          "card": true,
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/general/",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/general/",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": true,
+          "images": [
+            {
+              "width": "",
+              "position": "",
+              "src": "/assets/images/general/",
+              "alt": ""
+            }
+          ],
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "We use "
+                },
+                {
+                  "boldText": "much "
+                },
+                {
+                  "text": "+ noncount noun"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "(much food / much money, etc.)"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Did you buy much food?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "We don't have much luggage."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "How much money do you want?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "A: Do you have any money? B: I have some, but not much."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "text": "We use "
+                },
+                {
+                  "boldText": "a lot of "
+                },
+                {
+                  "text": "+ both types of noun"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "We bought a lot of food."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Paula doesn’t have a lot of free time."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "We bought a lot of books."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Did they ask a lot of questions?"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "There "
+                },
+                {
+                  "markedText": "is"
+                },
+                {
+                  "text": " a lot of "
+                },
+                {
+                  "boldText": "food"
+                },
+                {
+                  "text": " / "
+                },
+                {
+                  "boldText": "money"
+                },
+                {
+                  "text": " / "
+                },
+                {
+                  "boldText": "water"
+                },
+                {
+                  "text": ". "
+                },
+                {
+                  "ptText": "Há muita comida / dinheiro / água."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "There are a lot of "
+                },
+                {
+                  "boldText": "tress"
+                },
+                {
+                  "text": " / "
+                },
+                {
+                  "boldText": "stores"
+                },
+                {
+                  "text": " / "
+                },
+                {
+                  "boldText": "people"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "A lot of people speak English."
                 }
               ]
             }
@@ -71,31 +451,148 @@
       "grid": false,
       "text": [
         {
-          "images": [
-            {
-              "width": "",
-              "position": "",
-              "src": "/assets/images/general/",
-              "alt": ""
-            }
-          ],
+          "card": false,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "boldText": "Much"
+                },
+                {
+                  "text": " and "
+                },
+                {
+                  "boldText": "many"
+                },
+                {
+                  "text": " are more usual in questions and negatives."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Do you have many friends?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "... "
+                  "boldText": "• "
                 },
                 {
-                  "ptText": "..."
+                  "text": "We don't have many friends."
                 }
               ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Do you drink much coffee?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "I don't drink much coffee."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "We use "
+                },
+                {
+                  "boldText": "a lot of"
+                },
+                {
+                  "text": " in all types of sentences (affirmative, negative, and questios)."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "I drink a lot of coffee "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "We don’t have a lot of friends "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "Do you know a lot of people? "
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "Much is especially unusual in affirmative sentences:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "I eat a lot of fruit. ("
+                },
+                {
+                  "italicText": "not much fruit"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "• "
+                },
+                {
+                  "text": "“Do you eat much fruit?” “Yes, a lot”"
+                },
+                {
+                  "markedText": ""
+                }
+              ],
+              "lineBreak": true
             }
           ]
         }
@@ -113,19 +610,14 @@
       "grid": false,
       "text": [
         {
-          "images": [
-            {
-              "width": "",
-              "position": "",
-              "src": "/assets/images/general/",
-              "alt": ""
-            }
-          ],
           "blocks": [
             {
               "block": [
                 {
                   "boldText": "..."
+                },
+                {
+                  "text": ""
                 }
               ]
             },

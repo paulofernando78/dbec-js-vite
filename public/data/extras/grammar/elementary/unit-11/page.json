@@ -1878,6 +1878,12 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "D"
+      }
+    },
+    {
       "text": [
         {
           "blocks": [
