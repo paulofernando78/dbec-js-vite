@@ -2,11 +2,37 @@
   {
     "definitions": [
       {
+        "word": "mobile phone",
+        "phonetics": "/ˈmoʊ.bəl fəʊn/ (US), /ˈməʊ.baɪl fəʊn/ (UK)",
+        "partOfSpeech": "noun",
+        "enDefinition": "a portable electronic device used for making and receiving calls, sending messages, and accessing the internet",
+        "ptDefinition": "um dispositivo eletrônico portátil usado para fazer e receber chamadas, enviar mensagens e acessar a internet",
+        "examples": [
+          {
+            "enExample": "She always keeps her mobile phone in her bag.",
+            "ptExample": "Ela sempre mantém o celular na bolsa."
+          },
+          {
+            "enExample": "I forgot my mobile phone at home and couldn't contact anyone.",
+            "ptExample": "Esqueci meu celular em casa e não consegui contatar ninguém."
+          }
+        ],
+        "synonyms": ["cell phone", "smartphone", "cellular phone"],
+        "antonyms": [],
+        "seeAlso": ["telephone", "smart device"],
+        "notes": [
+          {
+            "enNote": "Mobile phones can vary from simple devices for calls and texts to advanced smartphones with apps and internet access.",
+            "ptNote": "Os celulares podem variar de dispositivos simples para chamadas e mensagens a smartphones avançados com aplicativos e acesso à internet."
+          }
+        ]
+      },
+      {
         "word": "meanwhile",
         "phonetics": "/ˈmiːn.waɪl/",
         "partOfSpeech": "adverb, noun",
-        "enDefinition": "As an adverb: at the same time; in the time between two events. As a noun: the period of time between two events.",
-        "ptDefinition": "Como advérbio: ao mesmo tempo; durante o intervalo entre dois eventos. Como substantivo: o período de tempo entre dois eventos.",
+        "enDefinition": "adverb: at the same time; in the time between two events; noun: the period of time between two events",
+        "ptDefinition": "advérbio: ao mesmo tempo; durante o intervalo entre dois eventos; substantivo: o período de tempo entre dois eventos",
         "examples": [
           {
             "enExample": "She was preparing dinner; meanwhile, he set the table.",
@@ -36,8 +62,8 @@
         "word": "meadow",
         "phonetics": "/ˈmed.oʊ/ (US), /ˈmed.əʊ/ (UK)",
         "partOfSpeech": "noun",
-        "enDefinition": "A field of grass, often with wild flowers, used for hay or for animals to feed on.",
-        "ptDefinition": "Um campo de grama, muitas vezes com flores silvestres, usado para feno ou para os animais se alimentarem; campo, prado",
+        "enDefinition": "a field of grass, often with wild flowers, used for hay or for animals to feed on",
+        "ptDefinition": "um campo de grama, muitas vezes com flores silvestres, usado para feno ou para os animais se alimentarem; campo, prado",
         "examples": [
           {
             "enExample": "We walked through the meadow filled with daisies and butterflies.",
@@ -62,8 +88,8 @@
         "word": "moat",
         "phonetics": "/moʊt/",
         "partOfSpeech": "noun",
-        "enDefinition": "A deep, wide ditch surrounding a castle, fort, or town, typically filled with water, to provide defense against attack.",
-        "ptDefinition": "Um fosso profundo e largo ao redor de um castelo, fortaleza ou cidade, geralmente cheio de água, para servir como defesa contra ataques.",
+        "enDefinition": "a deep, wide ditch surrounding a castle, fort, or town, typically filled with water, to provide defense against attack",
+        "ptDefinition": "um fosso profundo e largo ao redor de um castelo, fortaleza ou cidade, geralmente cheio de água, para servir como defesa contra ataques",
         "examples": [
           {
             "enExample": "The medieval castle was protected by a wide moat filled with water.",
@@ -88,8 +114,8 @@
         "word": "manage",
         "phonetics": "/ˈmænɪdʒ/",
         "partOfSpeech": "verb",
-        "enDefinition": "To be in charge of or control something; to succeed in doing something, especially something difficult.",
-        "ptDefinition": "Estar no comando ou controlar algo; conseguir fazer algo, especialmente algo difícil.",
+        "enDefinition": "to be in charge of or control something; to succeed in doing something, especially something difficult",
+        "ptDefinition": "estar no comando ou controlar algo; conseguir fazer algo, especialmente algo difícil",
         "examples": [
           {
             "enExample": "She manages a team of ten people at the company.",
@@ -114,8 +140,8 @@
         "word": "manager",
         "phonetics": "/ˈmænɪdʒər/",
         "partOfSpeech": "noun",
-        "enDefinition": "A person responsible for controlling or organizing part of a company, business, or team.",
-        "ptDefinition": "Pessoa responsável por controlar ou organizar parte de uma empresa, negócio ou equipe.",
+        "enDefinition": "a person responsible for controlling or organizing part of a company, business, or team",
+        "ptDefinition": "pessoa responsável por controlar ou organizar parte de uma empresa, negócio ou equipe",
         "examples": [
           {
             "enExample": "She works as a project manager in a technology company.",
@@ -140,8 +166,8 @@
         "word": "management",
         "phonetics": "/ˈmænɪdʒmənt/",
         "partOfSpeech": "noun",
-        "enDefinition": "The act or process of organizing, controlling, or supervising people or resources; the group of people who run a company or organization.",
-        "ptDefinition": "O ato ou processo de organizar, controlar ou supervisionar pessoas ou recursos; também pode se referir ao grupo de pessoas que dirige uma empresa ou organização.",
+        "enDefinition": "the act or process of organizing, controlling, or supervising people or resources; the group of people who run a company or organization",
+        "ptDefinition": "o ato ou processo de organizar, controlar ou supervisionar pessoas ou recursos; também pode se referir ao grupo de pessoas que dirige uma empresa ou organização",
         "examples": [
           {
             "enExample": "Good time management is essential for productivity.",

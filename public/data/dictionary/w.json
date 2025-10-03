@@ -2,19 +2,43 @@
   {
     "definitions": [
       {
+        "word": "whale",
+        "phonetics": "/weɪl/ (US)",
+        "partOfSpeech": "noun",
+        "enDefinition": "a very large marine mammal that lives in the ocean",
+        "ptDefinition": "um mamífero marinho muito grande que vive no oceano",
+        "examples": [
+          {
+            "enExample": "The whale swam gracefully near the surface of the water",
+            "ptExample": "A baleia nadava graciosamente perto da superfície da água"
+          },
+          {
+            "enExample": "We saw a whale breaching while on the boat tour",
+            "ptExample": "Vimos uma baleia saltando enquanto estávamos no passeio de barco"
+          }
+        ],
+        "synonyms": "cetacean, leviathan",
+        "seeAlso": "dolphin, porpoise",
+        "notes": [
+          {
+            "enNote": "Whales are among the largest animals on Earth and include species such as the blue whale and humpback whale",
+            "ptNote": "As baleias estão entre os maiores animais da Terra e incluem espécies como a baleia azul e a jubarte"
+          }
+        ]
+      },
+      {
         "word": "wear many hats",
-        "phonetics": "/wɛr ˈmɛni hæts/",
         "partOfSpeech": "idiom",
         "enDefinition": "to have many different roles or responsibilities, especially within a job or organization",
         "ptDefinition": "ter muitas funções ou responsabilidades diferentes, especialmente em um trabalho ou organização",
         "examples": [
           {
-        "enExample": "In a small company, employees often have to wear many hats.",
-        "ptExample": "Em uma empresa pequena, os funcionários frequentemente precisam desempenhar várias funções."
+            "enExample": "In a small company, employees often have to wear many hats.",
+            "ptExample": "Em uma empresa pequena, os funcionários frequentemente precisam desempenhar várias funções."
           },
           {
-        "enExample": "As a parent, she wears many hats: chef, teacher, nurse, and more.",
-        "ptExample": "Como mãe, ela exerce muitos papéis: cozinheira, professora, enfermeira e outros."
+            "enExample": "As a parent, she wears many hats: chef, teacher, nurse, and more.",
+            "ptExample": "Como mãe, ela exerce muitos papéis: cozinheira, professora, enfermeira e outros."
           }
         ],
         "synonyms": ["multitask", "juggle roles", "be versatile"],
@@ -22,8 +46,8 @@
         "seeAlso": ["jack of all trades", "multitasking", "versatile"],
         "notes": [
           {
-        "enNote": "This idiom is commonly used in workplaces or situations where people must handle a variety of tasks.",
-        "ptNote": "Este idiom é comumente usado em ambientes de trabalho ou situações em que as pessoas precisam lidar com várias tarefas."
+            "enNote": "This idiom is commonly used in workplaces or situations where people must handle a variety of tasks.",
+            "ptNote": "Este idiom é comumente usado em ambientes de trabalho ou situações em que as pessoas precisam lidar com várias tarefas."
           }
         ]
       },
@@ -35,12 +59,12 @@
         "ptDefinition": "alguém que esconde intenções maliciosas sob uma aparência inocente ou inofensiva; pessoa que finge ser gentil ou confiável, mas na verdade é perigosa ou enganadora",
         "examples": [
           {
-        "enExample": "He seemed friendly, but turned out to be a wolf in sheep’s clothing.",
-        "ptExample": "Ele parecia amigável, mas acabou sendo um lobo em pele de cordeiro."
+            "enExample": "He seemed friendly, but turned out to be a wolf in sheep’s clothing.",
+            "ptExample": "Ele parecia amigável, mas acabou sendo um lobo em pele de cordeiro."
           },
           {
-        "enExample": "Beware of wolves in sheep’s clothing when making business deals.",
-        "ptExample": "Cuidado com lobos em pele de cordeiro ao fazer negócios."
+            "enExample": "Beware of wolves in sheep’s clothing when making business deals.",
+            "ptExample": "Cuidado com lobos em pele de cordeiro ao fazer negócios."
           }
         ],
         "synonyms": ["deceiver", "impostor", "pretender", "fraud"],
@@ -48,8 +72,8 @@
         "seeAlso": ["snake in the grass", "double-faced", "two-faced"],
         "notes": [
           {
-        "enNote": "This idiom comes from an ancient fable and is often used to warn against people who are not what they seem.",
-        "ptNote": "Este idiom vem de uma fábula antiga e é frequentemente usado para alertar contra pessoas que não são o que parecem."
+            "enNote": "This idiom comes from an ancient fable and is often used to warn against people who are not what they seem.",
+            "ptNote": "Este idiom vem de uma fábula antiga e é frequentemente usado para alertar contra pessoas que não são o que parecem."
           }
         ]
       },

@@ -2,11 +2,36 @@
   {
     "definitions": [
       {
+        "word": "cave",
+        "phonetics": "/keɪv/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a large natural underground chamber or hollow place in the ground, often with an opening on the surface",
+        "ptDefinition": "uma grande cavidade natural subterrânea ou espaço oco no solo, geralmente com uma abertura na superfície",
+        "examples": [
+          {
+            "enExample": "The explorers discovered paintings on the walls of the cave.",
+            "ptExample": "Os exploradores descobriram pinturas nas paredes da caverna."
+          },
+          {
+            "enExample": "They took shelter in a cave during the storm.",
+            "ptExample": "Eles se abrigaram em uma caverna durante a tempestade."
+          }
+        ],
+        "synonyms": "cavern, grotto, hollow, cavity",
+        "antonyms": "mountain, hill, surface",
+        "notes": [
+          {
+            "enNote": "The word 'cave' is often used interchangeably with 'cavern', though 'cavern' usually implies a larger cave system.",
+            "ptNote": "A palavra 'cave' é frequentemente usada de forma intercambiável com 'cavern', embora 'cavern' geralmente implique um sistema de cavernas maior."
+          }
+        ]
+      },
+      {
         "word": "clever",
         "phonetics": "/ˈklev.ər/",
         "partOfSpeech": "adjective",
-        "enDefinition": "Quick to learn, understand, and apply ideas; showing skill or intelligence in thinking or doing something.",
-        "ptDefinition": "Rápido para aprender, entender e aplicar ideias; que demonstra habilidade ou inteligência em pensar ou fazer algo.",
+        "enDefinition": "quick to learn, understand, and apply ideas; showing skill or intelligence in thinking or doing something",
+        "ptDefinition": "rápido para aprender, entender e aplicar ideias; que demonstra habilidade ou inteligência em pensar ou fazer algo",
         "examples": [
           {
             "enExample": "She is very clever at solving puzzles.",
@@ -31,8 +56,8 @@
         "word": "carve",
         "phonetics": "/kɑːrv/",
         "partOfSpeech": "verb",
-        "enDefinition": "To cut into a material or surface, often to shape or decorate it; to cut meat into pieces.",
-        "ptDefinition": "Cortar em um material ou superfície, muitas vezes para modelar ou decorar; cortar carne em pedaços.",
+        "enDefinition": "to cut into a material or surface, often to shape or decorate it; to cut meat into pieces",
+        "ptDefinition": "cortar em um material ou superfície, muitas vezes para modelar ou decorar; cortar carne em pedaços",
         "examples": [
           {
             "enExample": "He carved his initials into the tree.",
@@ -61,8 +86,8 @@
         "word": "cut down",
         "phonetics": "/kʌt daʊn/",
         "partOfSpeech": "phrasal verb",
-        "enDefinition": "to reduce the amount of something, especially the use or consumption of something; or to make something fall by cutting it at the base.",
-        "ptDefinition": "reduzir a quantidade de algo, especialmente o uso ou consumo de algo; ou derrubar algo cortando pela base.",
+        "enDefinition": "to reduce the amount of something, especially the use or consumption of something; or to make something fall by cutting it at the base",
+        "ptDefinition": "reduzir a quantidade de algo, especialmente o uso ou consumo de algo; ou derrubar algo cortando pela base",
         "examples": [
           {
             "enExample": "I'm trying to cut down on sugar.",
@@ -87,8 +112,8 @@
         "word": "corner office",
         "phonetics": "/ˈkɔːrnɚ ˈɔːfɪs/",
         "partOfSpeech": "noun (idiom)",
-        "enDefinition": "An office located in the corner of a building, often larger and with windows on two sides. Figuratively, it refers to a high-ranking executive position, usually occupied by senior management or CEOs.",
-        "ptDefinition": "Um escritório localizado no canto de um prédio, geralmente maior e com janelas em dois lados. Figurativamente, refere-se a um cargo executivo de alto nível, normalmente ocupado por diretores ou CEOs.",
+        "enDefinition": "an office located in the corner of a building, often larger and with windows on two sides. Figuratively, it refers to a high-ranking executive position, usually occupied by senior management or CEOs",
+        "ptDefinition": "um escritório localizado no canto de um prédio, geralmente maior e com janelas em dois lados. Figurativamente, refere-se a um cargo executivo de alto nível, normalmente ocupado por diretores ou CEOs",
         "examples": [
           {
             "enExample": "After years of hard work, she finally earned the corner office.",
@@ -113,8 +138,8 @@
         "word": "candidly",
         "phonetics": "/ˈkændɪdli/",
         "partOfSpeech": "adverb",
-        "enDefinition": "In an honest, straightforward, and open manner; frankly.",
-        "ptDefinition": "De maneira honesta, direta e aberta; francamente.",
+        "enDefinition": "in an honest, straightforward, and open manner; frankly",
+        "ptDefinition": "de maneira honesta, direta e aberta; francamente",
         "examples": [
           {
             "enExample": "She spoke candidly about the challenges she faced.",
@@ -147,8 +172,8 @@
         "word": "candid",
         "phonetics": "/ˈkændɪd/",
         "partOfSpeech": "adjective",
-        "enDefinition": "Truthful and straightforward; frank; (especially of a photograph) taken informally without the subject knowing.",
-        "ptDefinition": "Honesto e direto; franco; (especialmente sobre fotografia) tirada de forma informal, sem que a pessoa saiba.",
+        "enDefinition": "truthful and straightforward; frank; (especially of a photograph) taken informally without the subject knowing",
+        "ptDefinition": "honesto e direto; franco; (especialmente sobre fotografia) tirada de forma informal, sem que a pessoa saiba",
         "examples": [
           {
             "enExample": "She was candid about her mistakes during the interview.",
@@ -181,8 +206,8 @@
         "word": "crave",
         "phonetics": "/kreɪv/",
         "partOfSpeech": "verb",
-        "enDefinition": "To have an intense desire or longing for something, often related to food, experiences, or emotions.",
-        "ptDefinition": "Ter um desejo intenso ou uma vontade forte de algo, geralmente relacionado a comida, experiências ou emoções.",
+        "enDefinition": "to have an intense desire or longing for something, often related to food, experiences, or emotions",
+        "ptDefinition": "ter um desejo intenso ou uma vontade forte de algo, geralmente relacionado a comida, experiências ou emoções",
         "examples": [
           {
             "enExample": "After the long hike, she craved a cold glass of water.",
@@ -207,8 +232,8 @@
         "word": "common ground",
         "phonetics": "/ˈkɒmən ɡraʊnd/",
         "partOfSpeech": "noun phrase",
-        "enDefinition": "Shared interests, beliefs, or opinions between people or groups.",
-        "ptDefinition": "Interesses, crenças ou opiniões compartilhadas entre pessoas ou grupos.",
+        "enDefinition": "shared interests, beliefs, or opinions between people or groups",
+        "ptDefinition": "interesses, crenças ou opiniões compartilhadas entre pessoas ou grupos",
         "examples": [
           {
             "enExample": "They finally found some common ground during the negotiations.",
@@ -231,10 +256,10 @@
       },
       {
         "word": "complimentary drink",
-        "phonetics": "/ˌkɒmplɪˈmɛntəri drɪŋk/",
+        "phonetics": "/ˌkɒmplɪˈmentəri drɪŋk/",
         "partOfSpeech": "noun phrase",
-        "enDefinition": "A free drink offered to customers, often as a courtesy or promotion.",
-        "ptDefinition": "Bebida gratuita oferecida aos clientes, geralmente como cortesia ou promoção.",
+        "enDefinition": "a free drink offered to customers, often as a courtesy or promotion",
+        "ptDefinition": "bebida gratuita oferecida aos clientes, geralmente como cortesia ou promoção",
         "examples": [
           {
             "enExample": "Guests received a complimentary drink upon arrival at the hotel.",
@@ -256,8 +281,8 @@
         "word": "carry out",
         "phonetics": "/ˈkæri aʊt/",
         "partOfSpeech": "phrasal verb",
-        "enDefinition": "To perform or complete a task, duty, or instruction.",
-        "ptDefinition": "Realizar ou executar uma tarefa, dever ou instrução.",
+        "enDefinition": "to perform or complete a task, duty, or instruction",
+        "ptDefinition": "realizar ou executar uma tarefa, dever ou instrução",
         "examples": [
           {
             "enExample": "The scientists carried out several experiments.",

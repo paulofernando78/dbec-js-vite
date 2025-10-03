@@ -2,11 +2,37 @@
   {
     "definitions": [
       {
+        "word": "police station",
+        "phonetics": "/pəˈliːs ˈsteɪʃən/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a building where police officers work and where people can report crimes or seek help",
+        "ptDefinition": "um prédio onde os policiais trabalham e onde as pessoas podem denunciar crimes ou pedir ajuda",
+        "examples": [
+          {
+            "enExample": "He went to the police station to report the theft of his bicycle.",
+            "ptExample": "Ele foi à delegacia para denunciar o roubo de sua bicicleta."
+          },
+          {
+            "enExample": "The police station is located downtown near the city hall.",
+            "ptExample": "A delegacia está localizada no centro, perto da prefeitura."
+          }
+        ],
+        "synonyms": ["station house", "cop shop"],
+        "antonyms": [],
+        "seeAlso": ["law enforcement", "sheriff office"],
+        "notes": [
+          {
+            "enNote": "A police station serves as both a workplace for officers and a public point of contact for citizens needing assistance.",
+            "ptNote": "Uma delegacia serve tanto como local de trabalho para os policiais quanto como ponto de contato público para cidadãos que precisam de assistência."
+          }
+        ]
+      },
+      {
         "word": "plummet",
         "phonetics": "/ˈplʌm.ɪt/",
         "partOfSpeech": "verb",
-        "enDefinition": "to fall or drop straight down quickly and suddenly; to decrease rapidly in value or amount.",
-        "ptDefinition": "cair ou despencar rapidamente; diminuir de forma brusca em valor ou quantidade.",
+        "enDefinition": "to fall or drop straight down quickly and suddenly; to decrease rapidly in value or amount",
+        "ptDefinition": "cair ou despencar rapidamente; diminuir de forma brusca em valor ou quantidade",
         "examples": [
           {
             "enExample": "Temperatures plummeted last night to below zero.",
@@ -31,8 +57,8 @@
         "word": "pitfall",
         "phonetics": "/ˈpɪtfɔːl/",
         "partOfSpeech": "noun",
-        "enDefinition": "A hidden danger or difficulty; a problem that is likely to happen in a particular situation.",
-        "ptDefinition": "Uma armadilha ou dificuldade escondida; um problema que provavelmente ocorrerá em uma determinada situação.",
+        "enDefinition": "a hidden danger or difficulty; a problem that is likely to happen in a particular situation",
+        "ptDefinition": "uma armadilha ou dificuldade escondida; um problema que provavelmente ocorrerá em uma determinada situação",
         "examples": [
           {
             "enExample": "The new software is useful, but there are some pitfalls you need to be aware of.",

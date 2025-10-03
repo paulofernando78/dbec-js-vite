@@ -2,11 +2,61 @@
   {
     "definitions": [
       {
+        "word": "beach",
+        "phonetics": "/biːtʃ/ (US), /biːtʃ/ (UK)",
+        "partOfSpeech": "noun",
+        "enDefinition": "an area where people go to relax, sunbathe, or swim",
+        "ptDefinition": "área onde as pessoas vão para relaxar, tomar sol ou nadar",
+        "examples": [
+          {
+            "enExample": "We spent the afternoon playing volleyball on the beach.",
+            "ptExample": "Passamos a tarde jogando vôlei na praia."
+          },
+          {
+            "enExample": "The children built a sandcastle on the beach.",
+            "ptExample": "As crianças construíram um castelo de areia na praia."
+          }
+        ],
+        "synonyms": ["seashore", "coast", "shore", "sandy area"],
+        "seeAlso": ["sea", "ocean", "coastline"],
+        "notes": [
+          {
+            "enNote": "Beaches can be made of sand, pebbles, or rocks, and are often popular recreational areas.",
+            "ptNote": "As praias podem ser de areia, seixos ou pedras, e frequentemente são áreas de lazer populares."
+          }
+        ]
+      },
+      {
+        "word": "bus station",
+        "phonetics": "/bʌs ˈsteɪʃən/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a place where buses regularly stop to pick up and drop off passengers",
+        "ptDefinition": "um local onde os ônibus param regularmente para pegar e deixar passageiros",
+        "examples": [
+          {
+            "enExample": "We arrived at the bus station just in time to catch the express bus.",
+            "ptExample": "Chegamos na estação de ônibus a tempo de pegar o ônibus expresso."
+          },
+          {
+            "enExample": "The bus station was crowded with travelers waiting for their departures.",
+            "ptExample": "A estação de ônibus estava lotada de viajantes esperando suas partidas."
+          }
+        ],
+        "synonyms": "coach station, terminal",
+        "seeAlso": "train station, subway station",
+        "notes": [
+          {
+            "enNote": "A bus station can be used for both local and long-distance buses.",
+            "ptNote": "Uma estação de ônibus pode ser usada tanto para ônibus locais quanto de longa distância."
+          }
+        ]
+      },
+      {
         "word": "brush up",
         "phonetics": "/brʌʃ ʌp/",
         "partOfSpeech": "phrasal verb",
-        "enDefinition": "To improve your knowledge or skill in something you have learned before but partly forgotten.",
-        "ptDefinition": "Revisar ou aprimorar um conhecimento ou habilidade que já foi aprendida, mas parcialmente esquecida.",
+        "enDefinition": "to improve your knowledge or skill in something you have learned before but partly forgotten",
+        "ptDefinition": "revisar ou aprimorar um conhecimento ou habilidade que já foi aprendida, mas parcialmente esquecida",
         "examples": [
           {
             "enExample": "I need to brush up on my Spanish before the trip to Mexico.",

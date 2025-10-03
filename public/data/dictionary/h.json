@@ -5,8 +5,8 @@
         "word": "hinder",
         "phonetics": "/ˈhɪn.dər/",
         "partOfSpeech": "verb",
-        "enDefinition": "to make it difficult for something to happen or for someone to do something.",
-        "ptDefinition": "dificultar que algo aconteça ou que alguém faça algo.",
+        "enDefinition": "to make it difficult for something to happen or for someone to do something",
+        "ptDefinition": "dificultar que algo aconteça ou que alguém faça algo",
         "examples": [
           {
             "enExample": "High winds hindered the progress of the climbers.",
@@ -31,8 +31,8 @@
         "word": "hide",
         "phonetics": "/haɪd/",
         "partOfSpeech": "verb (hid: past / hidden: participle)",
-        "enDefinition": "To put something in a place where it cannot easily be seen or found.",
-        "ptDefinition": "Colocar algo em um lugar onde não possa ser facilmente visto ou encontrado.",
+        "enDefinition": "to put something in a place where it cannot easily be seen or found",
+        "ptDefinition": "colocar algo em um lugar onde não possa ser facilmente visto ou encontrado",
         "examples": [
           {
             "enExample": "I hide the key under the mat every morning.",
@@ -49,81 +49,6 @@
         ],
         "synonyms": "conceal, cover, put away",
         "antonyms": "reveal, show, display"
-      },
-      {
-        "word": "hid",
-        "phonetics": "/hɪd/",
-        "partOfSpeech": "verb (past of “hide”)",
-        "enDefinition": "The simple past tense of 'hide', used to describe an action of putting something out of sight in the past.",
-        "ptDefinition": "O passado simples de 'hide', usado para descrever a ação de colocar algo fora de vista no passado.",
-        "examples": [
-          {
-            "enExample": "Yesterday, I hid the key under the mat.",
-            "ptExample": "Ontem, eu escondi a chave debaixo do tapete."
-          },
-          {
-            "enExample": "She hid her diary in the drawer last night.",
-            "ptExample": "Ela escondeu seu diário na gaveta na noite passada."
-          },
-          {
-            "enExample": "They hid behind the trees during the game.",
-            "ptExample": "Eles se esconderam atrás das árvores durante a brincadeira."
-          }
-        ],
-        "synonyms": "concealed, covered, put away",
-        "antonyms": "revealed, showed, displayed"
-      },
-      {
-        "word": "hidden",
-        "phonetics": "/ˈhɪd.ən/",
-        "partOfSpeech": "verb (past participle of 'hide')",
-        "enDefinition": "The past participle form of 'hide', used to indicate that something has been put out of sight or concealed.",
-        "ptDefinition": "Forma de particípio passado de 'hide', usada para indicar que algo foi colocado fora de vista ou ocultado.",
-        "examples": [
-          {
-            "enExample": "The treasure had been hidden under the old oak tree for centuries.",
-            "ptExample": "O tesouro havia sido escondido debaixo do velho carvalho por séculos."
-          },
-          {
-            "enExample": "All the documents were hidden in a secret compartment.",
-            "ptExample": "Todos os documentos foram escondidos em um compartimento secreto."
-          }
-        ],
-        "synonyms": "concealed, stashed, secreted",
-        "antonyms": "revealed, exposed, shown",
-        "seeAlso": "hide",
-        "notes": [
-          {
-            "enNote": "'Hidden' is only used in perfect tenses or passive constructions, never as a simple present verb.",
-            "ptNote": "'Hidden' é usado apenas em tempos perfeitos ou construções passivas, nunca como verbo no presente simples."
-          }
-        ]
-      },
-      {
-        "word": "hidden",
-        "phonetics": "/ˈhɪd.ən/",
-        "partOfSpeech": "adjective",
-        "enDefinition": "Kept out of sight or concealed from view; not easily found or noticed.",
-        "ptDefinition": "Mantido fora de vista ou oculto; não facilmente encontrado ou notado.",
-        "examples": [
-          {
-            "enExample": "The treasure was hidden beneath the old oak tree.",
-            "ptExample": "O tesouro estava escondido debaixo do velho carvalho."
-          },
-          {
-            "enExample": "She discovered a hidden passage behind the bookshelf.",
-            "ptExample": "Ela descobriu uma passagem escondida atrás da estante."
-          }
-        ],
-        "synonyms": "concealed, secret, unseen",
-        "antonyms": "visible, exposed, open",
-        "seeAlso": "secret, invisible",
-        "notes": [
-          {
-            "enNote": "Commonly used in games and stories to describe objects or passages that are intentionally hard to find.",
-            "ptNote": "Comumente usado em jogos e histórias para descrever objetos ou passagens que são intencionalmente difíceis de encontrar."
-          }
-        ]
       },
       {
         "word": "have in mind",

@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "island",
+        "phonetics": "/ˈaɪ.lənd/ (US)",
+        "partOfSpeech": "noun",
+        "enDefinition": "a piece of land completely surrounded by water",
+        "ptDefinition": "uma porção de terra completamente cercada por água",
+        "examples": [
+          {
+            "enExample": "They spent the summer vacation on a small island",
+            "ptExample": "Eles passaram as férias de verão em uma pequena ilha"
+          },
+          {
+            "enExample": "The island is known for its beautiful beaches and wildlife",
+            "ptExample": "A ilha é conhecida por suas belas praias e vida selvagem"
+          }
+        ],
+        "synonyms": "isle, islet, atoll",
+        "seeAlso": "archipelago, peninsula",
+        "notes": [
+          {
+            "enNote": "Islands can vary greatly in size from tiny islets to large land masses",
+            "ptNote": "As ilhas podem variar muito em tamanho, desde pequenos ilhéus até grandes massas de terra"
+          }
+        ]
+      },
+      {
         "word": "have (some) issues",
         "phonetics": "hæv (sʌm) ˈɪʃuːz",
         "partOfSpeech": "verb phrase",

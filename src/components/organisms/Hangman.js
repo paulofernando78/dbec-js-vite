@@ -198,7 +198,6 @@ class Hangman extends HTMLElement {
     this.hintElement.classList.add("hint");
     wordNunmbersImageWrapper.appendChild(this.hintElement);
 
-    
     // Right side - lettersWrapper
     const lettersWrapper = document.createElement("div");
     lettersWrapper.classList.add("letters-heart-display-wrapper");
@@ -411,10 +410,28 @@ class Hangman extends HTMLElement {
       this.hintElement.appendChild(hintAudio);
     }
 
-    if (item.hint) {
-      this.hintElement.appendChild(
-        document.createTextNode(`Hint: ${item.hint}`)
-      );
+    if (item.word) {
+      const word = item.word.toLowerCase();
+      const firstLetter = item.word[0].toLowerCase();
+      fetch(`/data/dictionary/${firstLetter}.json`)
+        .then((res) => res.json())
+        .then((data) => {
+          const definition = data[0]?.definitions || data;
+          const found = definition.find(
+            (def) => def.word.toLowerCase() === word
+          );
+
+          if (found && found.enDefinition) {
+            this.hintElement.appendChild(
+              document.createTextNode(`Hint: ${found.enDefinition}`)
+            );
+          }
+        })
+        .catch(() => {
+          this.hintElement.appendChild(
+            document.createTextNode("Hint: (not available)")
+          );
+        });
     }
 
     // Esconde mensagens ao carregar nova palavra

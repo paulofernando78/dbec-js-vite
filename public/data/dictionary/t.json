@@ -2,11 +2,66 @@
   {
     "definitions": [
       {
+        "word": "taxi",
+        "phonetics": "/ˈtæk.si/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a car licensed to transport passengers in return for payment of a fare",
+        "ptDefinition": "um carro licenciado para transportar passageiros em troca do pagamento de uma tarifa",
+        "examples": [
+          {
+            "enExample": "We took a taxi from the airport to the hotel.",
+            "ptExample": "Pegamos um táxi do aeroporto até o hotel."
+          },
+          {
+            "enExample": "She called a taxi to go to the train station.",
+            "ptExample": "Ela chamou um táxi para ir à estação de trem."
+          }
+        ],
+        "synonyms": ["cab (US)"],
+        "seeAlso": ["bus", "train"],
+        "notes": [
+          {
+            "enNote": "In some countries, taxis can be hailed on the street or booked in advance via phone or app.",
+            "ptNote": "Em alguns países, os táxis podem ser chamados na rua ou reservados com antecedência por telefone ou aplicativo."
+          }
+        ]
+      },
+      {
+        "word": "ticket",
+        "phonetics": "/ˈtɪkɪt/",
+        "partOfSpeech": "noun",
+        "enDefinition": "1) a piece of paper or electronic record that allows the holder to enter a place, travel on a vehicle, or participate in an event; 2) an official notice of a fine or penalty, often issued for breaking a rule or law.",
+        "ptDefinition": "1) um pedaço de papel ou registro eletrônico que permite ao portador entrar em um lugar, viajar em um veículo ou participar de um evento; 2) uma notificação oficial de multa ou penalidade, frequentemente emitida por violar uma regra ou lei",
+        "examples": [
+          {
+            "enExample": "I bought a ticket for the concert next Saturday.",
+            "ptExample": "Comprei um ingresso para o show no próximo sábado."
+          },
+          {
+            "enExample": "He showed his bus ticket to the driver before boarding.",
+            "ptExample": "Ele mostrou seu bilhete de ônibus ao motorista antes de embarcar."
+          },
+          {
+            "enExample": "The police issued him a ticket for parking illegally.",
+            "ptExample": "A polícia emitiu uma multa para ele por estacionar ilegalmente."
+          }
+        ],
+        "synonyms": ["pass", "admission", "fine", "citation"],
+        "antonyms": ["exemption", "release"],
+        "seeAlso": ["boarding pass", "train ticket", "plane ticket"],
+        "notes": [
+          {
+            "enNote": "Tickets can refer to either entry to events or fines/penalties, depending on context.",
+            "ptNote": "Tickets podem se referir tanto a ingressos para eventos quanto a multas/penalidades, dependendo do contexto."
+          }
+        ]
+      },
+      {
         "word": "token",
         "phonetics": "/ˈtoʊ.kən/",
         "partOfSpeech": "noun",
-        "enDefinition": "A symbol, sign, gift; a physical object or digital unit that stands for a value, right, or proof.",
-        "ptDefinition": "Um símbolo, sinal, lembrança; pode ser um item físico ou unidade digital que indica valor, direito ou prova.",
+        "enDefinition": "a symbol, sign, gift; a physical object or digital unit that stands for a value, right, or proof",
+        "ptDefinition": "um símbolo, sinal, lembrança; pode ser um item físico ou unidade digital que indica valor, direito ou prova",
         "examples": [
           {
             "enExample": "She gave me a small gift as a token of her appreciation.",
@@ -37,8 +92,8 @@
         "word": "troll",
         "phonetics": "/trəʊl/ (UK), /troʊl/ (US)",
         "partOfSpeech": "noun",
-        "enDefinition": "In folklore, a giant or dwarf-like creature that lives in caves or mountains and is often unfriendly or dangerous.",
-        "ptDefinition": "Em contos populares, uma criatura gigante ou semelhante a um anão que vive em cavernas ou montanhas e costuma ser hostil ou perigosa.",
+        "enDefinition": "in folklore, a giant or dwarf-like creature that lives in caves or mountains and is often unfriendly or dangerous",
+        "ptDefinition": "em contos populares, uma criatura gigante ou semelhante a um anão que vive em cavernas ou montanhas e costuma ser hostil ou perigosa",
         "examples": [
           {
             "enExample": "In the fairy tale, the troll lived under the bridge and scared anyone who tried to cross.",
@@ -54,8 +109,8 @@
         "word": "try out",
         "phonetics": "/traɪ aʊt/",
         "partOfSpeech": "phrasal verb",
-        "enDefinition": "To test or use something to see if it works, is suitable, or effective.",
-        "ptDefinition": "Testar ou experimentar algo para ver se funciona, é adequado ou eficaz.",
+        "enDefinition": "to test or use something to see if it works, is suitable, or effective",
+        "ptDefinition": "testar ou experimentar algo para ver se funciona, é adequado ou eficaz",
         "examples": [
           {
             "enExample": "I want to try out this new jacket before buying it.",
@@ -84,8 +139,8 @@
         "word": "try",
         "phonetics": "/traɪ/",
         "partOfSpeech": "verb",
-        "enDefinition": "To make an attempt or effort to do something.",
-        "ptDefinition": "Fazer uma tentativa ou esforço para fazer algo; tentar; experimentar (comida)",
+        "enDefinition": "to make an attempt or effort to do something",
+        "ptDefinition": "fazer uma tentativa ou esforço para fazer algo; tentar; experimentar (comida)",
         "examples": [
           {
             "enExample": "I will try to finish my homework before dinner.",
@@ -110,8 +165,8 @@
         "word": "trustworthy",
         "phonetics": "/ˈtrʌstˌwɜː.ði/",
         "partOfSpeech": "adjective",
-        "enDefinition": "Able to be relied on as honest or truthful.",
-        "ptDefinition": "Digno de confiança; alguém em quem se pode confiar.",
+        "enDefinition": "able to be relied on as honest or truthful",
+        "ptDefinition": "digno de confiança; alguém em quem se pode confiar",
         "examples": [
           {
             "enExample": "She is a trustworthy friend who never shares secrets.",
@@ -253,7 +308,6 @@
       },
       {
         "word": "take it from there",
-        "phonetics": "",
         "partOfSpeech": "idiom",
         "enDefinition": "to continue a process or situation from a certain point onward",
         "ptDefinition": "dar continuidade a algo a partir de um certo ponto",
