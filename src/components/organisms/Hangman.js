@@ -31,10 +31,16 @@ class Hangman extends HTMLElement {
         2px 2px 2px black
       }
 
-      .image-title, .image-question, .complete-word {
+      .image-title, .image-question, .complete-word, .hint {
         display: block;
         font-family: "Slackey";
         font-size: 1rem;
+      }
+
+      .hint {
+        display: block;
+        font-family: "Slackey";
+        font-size: .9rem
       }
 
       .attempt-words {
@@ -47,7 +53,6 @@ class Hangman extends HTMLElement {
       .image-letters-wrapper {
         display: grid;
         grid-template-columns: 300px auto
-        
       }
 
       .letters-heart-display-wrapper {
@@ -183,33 +188,27 @@ class Hangman extends HTMLElement {
 
     wordNunmbersImageWrapper.appendChild(imageQuestion);
 
-    // Hint
-    const hint = document.createElement("p");
-    wordNunmbersImageWrapper.appendChild(hint);
-
-    const hintAudio = document.createElement("wc-audio");
-    hintAudio.data = { audioSrc: "" };
-
-    hint.appendChild(hintAudio)
-    hint.appendChild(document.createTextNode("Hint: ..."))
-
-    wordNunmbersImageWrapper.appendChild(hintAudio);
-
     // Image
     const image = document.createElement("wc-image");
     wordNunmbersImageWrapper.appendChild(image);
     this.imageElement = image;
 
-    const attemptWords = document.createElement("span");
-    attemptWords.classList.add("attempt-words");
-    attemptWords.textContent = "";
-    wordNunmbersImageWrapper.appendChild(attemptWords);
-    this.attemptWords = attemptWords;
+    // Hint
+    this.hintElement = document.createElement("p");
+    this.hintElement.classList.add("hint");
+    wordNunmbersImageWrapper.appendChild(this.hintElement);
 
+    
     // Right side - lettersWrapper
     const lettersWrapper = document.createElement("div");
     lettersWrapper.classList.add("letters-heart-display-wrapper");
     Wrapper.appendChild(lettersWrapper);
+
+    const attemptWords = document.createElement("span");
+    attemptWords.classList.add("attempt-words");
+    attemptWords.textContent = "";
+    lettersWrapper.appendChild(attemptWords);
+    this.attemptWords = attemptWords;
 
     this.letterContainer = document.createElement("div");
     this.letterContainer.classList.add("letter-container");
@@ -403,6 +402,20 @@ class Hangman extends HTMLElement {
 
   loadWord(item) {
     if (!item) return;
+
+    this.hintElement.innerHTML = "";
+
+    if (item.audioSrc) {
+      const hintAudio = document.createElement("wc-audio");
+      hintAudio.data = { audioSrc: item.audioSrc };
+      this.hintElement.appendChild(hintAudio);
+    }
+
+    if (item.hint) {
+      this.hintElement.appendChild(
+        document.createTextNode(`Hint: ${item.hint}`)
+      );
+    }
 
     // Esconde mensagens ao carregar nova palavra
     this.hideAllMessages();

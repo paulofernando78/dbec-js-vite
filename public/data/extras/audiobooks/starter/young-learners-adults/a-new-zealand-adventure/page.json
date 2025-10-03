@@ -94,51 +94,61 @@
         {
           "imageSrc": "/assets/images/general/airport.avif",
           "alt": "An airport",
+          "hint": "a place where aircraft regularly take off and land, with buildings for passengers to wait in",
           "word": "airport"
         },
         {
           "imageSrc": "/assets/images/general/taxi.avif",
           "alt": "A taxi",
+          "hint": "a car with a driver who you pay to take you somewhere",
           "word": "taxi"
         },
         {
           "imageSrc": "/assets/images/general/bus-station.avif",
           "alt": "A bus station",
+          "hint": "a place where buses start and end their routes",
           "word": "bus station"
         },
         {
           "imageSrc": "/assets/images/general/mobile-phone-1.avif",
           "alt": "A mobile phone",
+          "hint": "It can be used as a small computer and that connects to the internet",
           "word": "mobile phone"
         },
         {
           "imageSrc": "/assets/images/general/beach.avif",
           "alt": "A beach",
+          "hint": "an area of sand or small stones near the sea or another area of water such as a lake",
           "word": "beach"
         },
         {
           "imageSrc": "/assets/images/general/ticket.avif",
           "alt": "A ticket",
+          "hint": "a small piece of paper or card given to someone, usually to show that they have paid for an event, journey, or activity",
           "word": "ticket"
         },
         {
           "imageSrc": "/assets/images/general/cave.avif",
           "alt": "A cave",
+          "hint": "a large hole in the side of a hill, cliff, or mountain, or one that is underground",
           "word": "cave"
         },
         {
           "imageSrc": "/assets/images/general/island.avif",
           "alt": "An island",
+          "hint": "a piece of land completely surrounded by water",
           "word": "island"
         },
         {
           "imageSrc": "/assets/images/general/police-station.avif",
           "alt": "A police station",
+          "hint": "the local office of the police in a town or part of a city",
           "word": "police station"
         },
         {
           "imageSrc": "/assets/images/general/whale.avif",
           "alt": "A whale",
+          "hint": "a very large sea mammal that breathes air through a hole at the top of its head",
           "word": "whale"
         }
       ]
