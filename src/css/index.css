@@ -29,7 +29,7 @@ svg {
   min-width: 24px;
 }
 
-.icon-alighment {
+.icon-alignment {
   display: flex;
   gap: 0.625rem;
 }
@@ -38,6 +38,31 @@ svg {
   position: relative;
   top: 2px;
   left: 1px;
+  animation: shake-whatsapp 1s infinite ease-in-out;
+}
+
+@keyframes shake-whatsapp {
+  0% {
+    transform: rotate(0deg);
+  }
+  30% {
+    transform: rotate(10deg);
+  }
+  40% {
+    transform: translate(1px);
+  }
+  50% {
+    transform: translate(-1px);
+  }
+  60% {
+    transform: rotate(-10deg);
+  }
+  80% {
+    transform: rotate(10deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
 }
 
 .contact-container {

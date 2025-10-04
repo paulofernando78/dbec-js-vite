@@ -4,7 +4,7 @@
     "descriptions": [
       {
         "icon": "student",
-        "description": "Student’s name"
+        "description": "Rafael Bezerra"
       },
       {
         "icon": "date",
@@ -12,7 +12,7 @@
       },
       {
         "icon": "time",
-        "description": "00:00 - 00:00"
+        "description": "21:30 - 22:30"
       }
     ]
   },
@@ -134,9 +134,9 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Fri 3",
-                      "classNotes": "",
+                      "classNotes": "Lesson 30 • Negotiating a Salary Offer",
                       "homeworkNotes": ""
                     }
                   ]

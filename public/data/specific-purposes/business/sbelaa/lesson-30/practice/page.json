@@ -19,42 +19,6 @@
   },
   "contents": [
     {
-      "hangman": [
-        {
-          "word": "review an offer",
-          "imageSrc": "/assets/images/general/job-offer.avif"
-        },
-        {
-          "word": "weigh another offer",
-          "imageSrc": "/assets/images/general/weigh-another-offer.avif"
-        },
-        {
-          "word": "the big picture",
-          "imageSrc": "/assets/images/general/.avif"
-        },
-        {
-          "word": "nitty-gritty",
-          "imageSrc": "/assets/images/general/.avif"
-        },
-        {
-          "word": "out of one’s range",
-          "imageSrc": "/assets/images/general/.avif"
-        },
-        {
-          "word": "split the difference",
-          "imageSrc": "/assets/images/general/.avif"
-        },
-        {
-          "word": "stand one’s ground",
-          "imageSrc": "/assets/images/general/.avif"
-        },
-        {
-          "word": "drive a bargain",
-          "imageSrc": "/assets/images/general/.avif"
-        }
-      ]
-    },
-    {
       "exercises": [
         {
           "title": "Choose the best substitute for the highlighted phrase or sentence:"
@@ -67,10 +31,10 @@
                   "text": "1. Hi, it's Karen Chen from Citigroup calling to see if you've had a chance to "
                 },
                 {
-                  "markedText":	"review our offer"
+                  "markedText": "review our offer"
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
               ],
               "options": [
@@ -94,10 +58,10 @@
                   "text": "2. Hi, Karen. I still haven't made up my mind. I'm "
                 },
                 {
-                  "markedText":	"weighing another offer"
+                  "markedText": "weighing another offer"
                 },
                 {
-                  "text":	"  from another financial services company."
+                  "text": "  from another financial services company."
                 }
               ],
               "options": [
@@ -121,10 +85,10 @@
                   "text": "3. Tell me "
                 },
                 {
-                  "markedText":	"the big picture"
+                  "markedText": "the big picture"
                 },
                 {
-                  "text":	" on what the other company is offering."
+                  "text": " on what the other company is offering."
                 }
               ],
               "options": [
@@ -145,13 +109,13 @@
             {
               "question": [
                 {
-                  "text": "4. 1 don't need to know the "
+                  "text": "4. I don't need to know the "
                 },
                 {
-                  "markedText":	"nitty-gritty"
+                  "markedText": "nitty-gritty"
                 },
                 {
-                  "text":	" of what the other company is offering."
+                  "text": " of what the other company is offering."
                 }
               ],
               "options": [
@@ -175,10 +139,10 @@
                   "text": "5. The salary you're requesting is "
                 },
                 {
-                  "markedText":	"out of our range"
+                  "markedText": "out of our range"
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
               ],
               "options": [
@@ -202,10 +166,10 @@
                   "text": "6. If you can "
                 },
                 {
-                  "markedText":	"split the difference"
+                  "markedText": "split the difference"
                 },
                 {
-                  "text":	", we can come to an agreement."
+                  "text": ", we can come to an agreement."
                 }
               ],
               "options": [
@@ -229,10 +193,10 @@
                   "text": "7. If you "
                 },
                 {
-                  "markedText":	"stand your ground"
+                  "markedText": "stand your ground"
                 },
                 {
-                  "text":	" regarding the salary, we're not going to be able to reach an agreement."
+                  "text": " regarding the salary, we're not going to be able to reach an agreement."
                 }
               ],
               "options": [
@@ -256,10 +220,10 @@
                   "text": "8. Tom "
                 },
                 {
-                  "markedText":	"drove a hard bargain"
+                  "markedText": "drove a hard bargain"
                 },
                 {
-                  "text":	" and got the company to offer an additional $10,000."
+                  "text": " and got the company to offer an additional $10,000."
                 }
               ],
               "options": [
@@ -278,6 +242,42 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "hangman": [
+        {
+          "word": "review an offer",
+          "imageSrc": "/assets/images/general/review-(review-an-offer).avif"
+        },
+        {
+          "word": "weigh another offer",
+          "imageSrc": "/assets/images/general/weigh-another-offer.avif"
+        },
+        {
+          "word": "the big picture",
+          "imageSrc": "/assets/images/general/the-big-picture.avif"
+        },
+        {
+          "word": "nitty-gritty",
+          "imageSrc": "/assets/images/general/details-(nitty-gritty).avif"
+        },
+        {
+          "word": "out of one’s range",
+          "imageSrc": "/assets/images/general/afford-(out-of-range).avif"
+        },
+        {
+          "word": "split the difference",
+          "imageSrc": "/assets/images/general/agree-(split-the-difference).avif"
+        },
+        {
+          "word": "stand one’s ground",
+          "imageSrc": "/assets/images/general/refuse-(stand-ones-ground).avif"
+        },
+        {
+          "word": "drive a bargain",
+          "imageSrc": "/assets/images/general/negotiate-(drive-a-hard-bargain).avif"
         }
       ]
     }
