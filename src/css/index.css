@@ -38,31 +38,39 @@ svg {
   position: relative;
   top: 2px;
   left: 1px;
-  animation: shake-whatsapp 1s infinite ease-in-out;
+  animation: shake-whatsapp 1.5s infinite;
 }
 
 @keyframes shake-whatsapp {
-  0% {
-    transform: rotate(0deg);
-  }
-  30% {
-    transform: rotate(10deg);
-  }
-  40% {
-    transform: translate(1px);
-  }
-  50% {
-    transform: translate(-1px);
-  }
-  60% {
-    transform: rotate(-10deg);
-  }
-  80% {
-    transform: rotate(10deg);
-  }
-  100% {
-    transform: rotate(0deg);
-  }
+  0%,
+	100% {
+		transform: rotate(0deg);
+		transform-origin: 50% 50%;
+	}
+
+	10% {
+		transform: rotate(8deg);
+	}
+
+	20%,
+	40%,
+	60% {
+		transform: rotate(-10deg);
+	}
+
+	30%,
+	50%,
+	70% {
+		transform: rotate(10deg);
+	}
+
+	80% {
+		transform: rotate(-8deg);
+	}
+
+	90% {
+		transform: rotate(8deg);
+	}
 }
 
 .contact-container {
