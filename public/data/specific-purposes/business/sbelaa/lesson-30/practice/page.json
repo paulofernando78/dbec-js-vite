@@ -94,10 +94,10 @@
                   "text": "2. Hi, Karen. I still haven't made up my mind. I'm "
                 },
                 {
-                  "markedText":	"weighing"
+                  "markedText":	"weighing another offer"
                 },
                 {
-                  "text":	" another offer from another financial services company."
+                  "text":	"  from another financial services company."
                 }
               ],
               "options": [
@@ -118,10 +118,10 @@
             {
               "question": [
                 {
-                  "text": "3. Tell me the "
+                  "text": "3. Tell me "
                 },
                 {
-                  "markedText":	"big picture"
+                  "markedText":	"the big picture"
                 },
                 {
                   "text":	" on what the other company is offering."
