@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "plane",
+        "phonetics": "/pleɪn/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a powered flying vehicle with fixed wings and a weight greater than that of the air it displaces",
+        "ptDefinition": "um veículo voador motorizado com asas fixas e peso maior que o ar que desloca",
+        "examples": [
+          {
+            "enExample": "The plane took off from the runway early in the morning.",
+            "ptExample": "O avião decolou da pista cedo pela manhã."
+          },
+          {
+            "enExample": "Passengers boarded the plane carefully and fastened their seat belts",
+            "ptExample": "Os passageiros embarcaram no avião cuidadosamente e colocaram os cintos de segurança"
+          }
+        ],
+        "synonyms": "airplane, aircraft, jet",
+        "seeAlso": "flight, cockpit, airport",
+        "notes": [
+          {
+            "enNote": "Plane is often used interchangeably with airplane, especially in American English",
+            "ptNote": "Plane é frequentemente usado de forma intercambiável com airplane, especialmente no inglês americano"
+          }
+        ]
+      },
+      {
         "word": "police station",
         "phonetics": "/pəˈliːs ˈsteɪʃən/",
         "partOfSpeech": "noun",

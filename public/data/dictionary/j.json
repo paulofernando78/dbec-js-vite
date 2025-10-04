@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "jungle",
+        "phonetics": "/ˈdʒʌŋɡəl/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a dense forest in a tropical region with many plants and animals",
+        "ptDefinition": "uma floresta densa em uma região tropical com muitas plantas e animais",
+        "examples": [
+          {
+            "enExample": "They went on an expedition deep into the jungle.",
+            "ptExample": "Eles fizeram uma expedição para o interior da selva."
+          },
+          {
+            "enExample": "The jungle is home to many exotic species of birds and mammals.",
+            "ptExample": "A selva abriga muitas espécies exóticas de aves e mamíferos."
+          }
+        ],
+        "synonyms": "rainforest, tropical forest",
+        "antonyms": "desert, plain",
+        "seeAlso": "forest, vegetation, wildlife",
+        "notes": [
+          {
+            "enNote": "Jungles often have a hot, humid climate and thick vegetation that can be difficult to navigate.",
+            "ptNote": "As selvas frequentemente possuem clima quente e úmido e vegetação densa que pode ser difícil de atravessar."
+          }
+        ]
+      },
+      {
         "word": "jump through hoops",
         "partOfSpeech": "idiom",
         "enDefinition": "to go through many complicated, difficult, or unnecessary steps to achieve something",

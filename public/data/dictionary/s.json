@@ -2,8 +2,65 @@
   {
     "definitions": [
       {
+        "word": "ship",
+        "phonetics": "/ʃɪp/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a large boat used for transporting people or goods across water",
+        "ptDefinition": "um barco grande usado para transportar pessoas ou mercadorias pela água",
+        "examples": [
+          {
+            "enExample": "The ship sailed across the Atlantic Ocean.",
+            "ptExample": "O navio atravessou o Oceano Atlântico."
+          },
+          {
+            "enExample": "They loaded the containers onto the ship at the port.",
+            "ptExample": "Eles carregaram os contêineres no navio no porto."
+          }
+        ],
+        "synonyms": "vessel, boat, liner",
+        "seeAlso": "boat, submarine, harbor",
+        "notes": [
+          {
+            "enNote": "Ships are typically larger than boats and designed for long sea voyages",
+            "ptNote": "Os navios são geralmente maiores que os barcos e projetados para longas viagens marítimas"
+          }
+        ]
+      },
+      {
+        "word": "snow",
+        "phonetics": "/snoʊ/ (US), /snəʊ/ (UK)",
+        "partOfSpeech": "noun",
+        "enDefinition": "frozen precipitation in the form of white flakes that falls from clouds",
+        "ptDefinition": "precipitação congelada na forma de flocos brancos que caem das nuvens",
+        "examples": [
+          {
+            "enExample": "The children played in the snow all afternoon.",
+            "ptExample": "As crianças brincaram na neve a tarde inteira."
+          },
+          {
+            "enExample": "Snow covered the mountains after the storm.",
+            "ptExample": "A neve cobriu as montanhas após a tempestade."
+          }
+        ],
+        "images": [
+          {
+            "width": "",
+            "src": "/assets/images/general/snow.avif",
+            "alt": "A picture of snow"
+          }
+        ],
+        "synonyms": "frost, snowfall, flurry",
+        "seeAlso": "ice, winter, blizzard",
+        "notes": [
+          {
+            "enNote": "Snow forms when water vapor freezes in the atmosphere and falls to the ground",
+            "ptNote": "A neve se forma quando o vapor de água congela na atmosfera e cai no solo"
+          }
+        ]
+      },
+      {
         "word": "steady",
-        "phonetics": "/ˈstɛd.i/",
+        "phonetics": "/ˈsted.i/",
         "partOfSpeech": "adjective, verb",
         "enDefinition": "adjective: firmly fixed, not shaking or changing; regular, continuous, and not likely to change; verb: to make something become balanced, controlled, or less likely to change",
         "ptDefinition": "adjetivo: firme, estável, contínuo, regular e pouco sujeito a mudanças; verbo: tornar algo equilibrado, controlado ou menos propenso a mudar.",

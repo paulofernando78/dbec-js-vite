@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "road",
+        "phonetics": "/roʊd/ (US), /rəʊd/ (UK)",
+        "partOfSpeech": "noun",
+        "enDefinition": "a prepared surface for vehicles, people, and animals to travel along",
+        "ptDefinition": "uma superfície preparada para veículos, pessoas e animais viajarem",
+        "examples": [
+          {
+            "enExample": "The road was closed after the heavy rain.",
+            "ptExample": "A estrada foi fechada após a forte chuva."
+          },
+          {
+            "enExample": "They live on a quiet road near the park.",
+            "ptExample": "Eles moram em uma rua tranquila perto do parque."
+          }
+        ],
+        "synonyms": "street, highway, route",
+        "seeAlso": "path, avenue, motorway",
+        "notes": [
+          {
+            "enNote": "Roads can vary from small rural paths to major highways in cities.",
+            "ptNote": "As estradas podem variar de pequenos caminhos rurais a grandes rodovias nas cidades."
+          }
+        ]
+      },
+      {
         "word": "ramble",
         "phonetics": "/ˈræm.bəl/",
         "partOfSpeech": "verb / noun",
@@ -9,12 +34,12 @@
         "ptDefinition": "falar ou escrever de forma confusa ou sem foco, frequentemente desviando do assunto; caminhar por prazer, especialmente no campo, sem rota definida",
         "examples": [
           {
-        "enExample": "He tends to ramble when he's nervous, making it hard to follow his point.",
-        "ptExample": "Ele tende a divagar quando está nervoso, tornando difícil entender seu ponto."
+            "enExample": "He tends to ramble when he's nervous, making it hard to follow his point.",
+            "ptExample": "Ele tende a divagar quando está nervoso, tornando difícil entender seu ponto."
           },
           {
-        "enExample": "We spent the afternoon rambling through the hills.",
-        "ptExample": "Passamos a tarde caminhando sem rumo pelas colinas."
+            "enExample": "We spent the afternoon rambling through the hills.",
+            "ptExample": "Passamos a tarde caminhando sem rumo pelas colinas."
           }
         ],
         "synonyms": ["wander", "drift", "meander", "digress"],
@@ -22,8 +47,8 @@
         "seeAlso": ["digress", "meander", "stray"],
         "notes": [
           {
-        "enNote": "As a verb, 'ramble' can refer to both speech and walking; context determines the meaning.",
-        "ptNote": "Como verbo, 'ramble' pode se referir tanto à fala quanto à caminhada; o contexto determina o significado."
+            "enNote": "As a verb, 'ramble' can refer to both speech and walking; context determines the meaning.",
+            "ptNote": "Como verbo, 'ramble' pode se referir tanto à fala quanto à caminhada; o contexto determina o significado."
           }
         ]
       },

@@ -146,6 +146,7 @@ class DictionarySearch extends HTMLElement {
         videoPlayer: result.videoPlayer || null,
         synonyms: result.synonyms || [],
         antonyms: result.antonyms || [],
+        seeAlso: result.seeAlso || [],
         notes: result?.notes || [],
       });
 

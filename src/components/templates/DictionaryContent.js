@@ -131,7 +131,6 @@ class DictionaryContent extends HTMLElement {
     });
 
     // Images
-
     if (Array.isArray(this.images) && this.images.length > 0) {
       this.images.forEach((img) => {
         const image = document.createElement("wc-image");
@@ -149,43 +148,60 @@ class DictionaryContent extends HTMLElement {
     }
     if (videoPlayer) dictionaryCard.appendChild(videoPlayer);
 
-    const thesaurus = document.createElement("div");
-    dictionaryCard.appendChild(thesaurus);
+    // 
+    const innerContainer = document.createElement("div");
+    dictionaryCard.appendChild(innerContainer);
 
+    // synonyms
     if (Array.isArray(this.synonyms) && this.synonyms.length > 0) {
       const synonymsWrapper = document.createElement("div");
-      dictionaryCard.appendChild(synonymsWrapper);
+      innerContainer.appendChild(synonymsWrapper);
 
       const synonymsTitle = document.createElement("span");
       synonymsTitle.style.display = "inline-block";
       synonymsTitle.textContent = "Synonyms:";
       synonymsTitle.style.fontFamily = "times-roman";
-      // synonymsTitle.style.marginTop = "var(--margin-top)";
       synonymsTitle.style.marginRight = "var(--margin-right)";
       synonymsWrapper.appendChild(synonymsTitle);
 
       const synonyms = document.createElement("span");
       synonyms.textContent = this.synonyms.join(", ");
       synonymsWrapper.appendChild(synonyms);
-      thesaurus.appendChild(synonymsWrapper)
     }
 
+    // antonyms
     if (Array.isArray(this.antonyms) && this.antonyms.length > 0) {
       const antonymsWrapper = document.createElement("div");
-      dictionaryCard.appendChild(antonymsWrapper);
+      innerContainer.appendChild(antonymsWrapper);
 
       const antonymsTitle = document.createElement("span");
-      antonymsTitle.textContent = "Antonyms:";
       antonymsTitle.style.fontFamily = "times-roman";
+      antonymsTitle.textContent = "Antonyms:";
       antonymsTitle.style.marginRight = "var(--margin-right)";
       antonymsWrapper.appendChild(antonymsTitle);
 
       const antonyms = document.createElement("span");
       antonyms.textContent = this.antonyms.join(", ");
       antonymsWrapper.appendChild(antonyms);
-      thesaurus.appendChild(antonymsWrapper)
     }
 
+    // seeAlso
+    if (Array.isArray(this.seeAlso) && this.seeAlso.length > 0) {
+      const seeAlsoWrapper = document.createElement("div");
+      innerContainer.appendChild(seeAlsoWrapper);
+
+      const seeAlsoTitle = document.createElement("span");
+      seeAlsoTitle.style.fontFamily = "times-roman";
+      seeAlsoTitle.textContent = "See also:";
+      seeAlsoTitle.style.marginRight = "var(--margin-right)";
+      seeAlsoWrapper.appendChild(seeAlsoTitle);
+
+      const seeAlsoContent = document.createElement("span");
+      seeAlsoContent.textContent = this.seeAlso.join(", ");
+      seeAlsoWrapper.appendChild(seeAlsoContent);
+    }
+
+    // notes
     if (Array.isArray(this.notes) && this.notes.length > 0) {
       const notesList = document.createElement("ul");
       dictionaryCard.appendChild(notesList);

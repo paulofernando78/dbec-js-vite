@@ -13,7 +13,6 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "kid",
         "label": "Kids",
         "descriptions": [
           {
@@ -21,27 +20,27 @@
               {
                 "icon": "book",
                 "link": "/extras/audiobooks/starter/kids/cinderella",
-                "label": "Cinderella (0:00)"
+                "label": "Cinderella (03:05)"
               },
               {
                 "icon": "book",
                 "link": "/extras/audiobooks/starter/kids/dumbo",
-                "label": "Dumbo (0:00)"
+                "label": "Dumbo (02:56)"
               },
               {
                 "icon": "book",
                 "link": "/extras/audiobooks/starter/kids/finding-nemo",
-                "label": "Finding Nemo (0:00)"
+                "label": "Finding Nemo (01:44)"
               },
               {
                 "icon": "book",
                 "link": "/extras/audiobooks/starter/kids/puss-in-boots",
-                "label": "Puss-in-Boots (0:00)"
+                "label": "Puss-in-Boots (01:45)"
               },
               {
                 "icon": "book",
                 "link": "/extras/audiobooks/starter/kids/sleeping-beauty",
-                "label": "Sleeping Beauty (0:00)"
+                "label": "Sleeping Beauty (01:54)"
               }
             ]
           }
@@ -51,7 +50,6 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "adult",
         "label": "Young learners / Adults",
         "descriptions": [
           {
@@ -59,17 +57,17 @@
               {
                 "icon": "book",
                 "link": "/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure",
-                "label": "A New Zealand Adventure (0:00)"
+                "label": "A New Zealand Adventure (6:02)"
               },
               {
                 "icon": "book",
                 "link": "/extras/audiobooks/starter/young-learners-adults/flying-home",
-                "label": "Flying home (0:00)"
+                "label": "Flying home (7:05)"
               },
               {
                 "icon": "book",
                 "link": "/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa",
-                "label": "Marcel and the Mona Lisa (0:00)"
+                "label": "Marcel and the Mona Lisa (11:40)"
               },
               {
                 "icon": "book",
@@ -135,7 +133,6 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "kid",
         "label": "Kids",
         "descriptions": [
           {
@@ -153,7 +150,6 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "adult",
         "label": "Young learners / Adults",
         "descriptions": [
           {
@@ -195,7 +191,6 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "adult",
         "label": "Young learners / Adults",
         "descriptions": [
           {
@@ -224,7 +219,6 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "adult",
         "label": "Young learners / Adults",
         "descriptions": [
           {
@@ -248,7 +242,6 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "adult",
         "label": "Young learners / Adults",
         "descriptions": [
           {
@@ -257,6 +250,29 @@
                 "icon": "book",
                 "link": "#",
                 "label": "..."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "ribbon": {
+        "icon": "books",
+        "label": "Intermediate (B1)"
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "label": "Plus",
+        "descriptions": [
+          {
+            "links": [
+              {
+                "icon": "book",
+                "link": "#",
+                "label": "The Odyssey of Homer"
               }
             ]
           }

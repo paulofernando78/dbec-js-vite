@@ -2,6 +2,58 @@
   {
     "definitions": [
       {
+        "word": "city",
+        "phonetics": "/ˈsɪti/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a large town with many buildings, streets, and inhabitants",
+        "ptDefinition": "uma grande cidade com muitos edifícios, ruas e habitantes",
+        "examples": [
+          {
+            "enExample": "New York is one of the largest cities in the world.",
+            "ptExample": "Nova Iorque é uma das maiores cidades do mundo."
+          },
+          {
+            "enExample": "The city center is full of shops, restaurants, and offices.",
+            "ptExample": "O centro da cidade está cheio de lojas, restaurantes e escritórios."
+          }
+        ],
+        "synonyms": "metropolis, town, urban area",
+        "antonyms": "village, countryside",
+        "seeAlso": "town, capital, municipality",
+        "notes": [
+          {
+            "enNote": "Cities often have complex infrastructure, public transportation, and cultural institutions.",
+            "ptNote": "As cidades frequentemente possuem infraestrutura complexa, transporte público e instituições culturais."
+          }
+        ]
+      },
+      {
+        "word": "cage",
+        "phonetics": "/keɪdʒ/ (US), /keɪdʒ/ (UK)",
+        "partOfSpeech": "noun",
+        "enDefinition": "a structure of bars or wires in which animals or birds are kept",
+        "ptDefinition": "uma estrutura de barras ou arames na qual animais ou aves são mantidos",
+        "examples": [
+          {
+            "enExample": "The parrot was sitting on a perch inside the cage",
+            "ptExample": "O papagaio estava empoleirado dentro da gaiola"
+          },
+          {
+            "enExample": "They built a large cage for the tiger at the zoo.",
+            "ptExample": "Eles construíram uma grande jaula para o tigre no zoológico."
+          }
+        ],
+        "synonyms": "enclosure, pen, coop",
+        "antonyms": "freedom, open space",
+        "seeAlso": "aviary, kennel",
+        "notes": [
+          {
+            "enNote": "Cages are commonly used for birds, small animals, and zoo enclosures",
+            "ptNote": "Gaiolas são comumente usadas para aves, pequenos animais e recintos de zoológico"
+          }
+        ]
+      },
+      {
         "word": "cave",
         "phonetics": "/keɪv/",
         "partOfSpeech": "noun",

@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "bulk",
+        "phonetics": "/bʌlk/",
+        "partOfSpeech": "noun",
+        "enDefinition": "the mass or size of something large; the majority or greater part of something",
+        "ptDefinition": "volume ou tamanho de algo grande; a maior parte ou maioria de algo",
+        "examples": [
+          {
+            "enExample": "The bulk of the shipment arrived on time.",
+            "ptExample": "A maior parte da remessa chegou no prazo."
+          },
+          {
+            "enExample": "Buying in bulk is usually cheaper.",
+            "ptExample": "Comprar em grande quantidade geralmente é mais barato."
+          }
+        ],
+        "synonyms": ["majority", "mass", "volume", "main", "part"],
+        "antonyms": ["minority", "small", "portion"],
+        "seeAlso": ["mass" , "majority", "wholesale"],
+        "notes": [
+          {
+            "enNote": "Often used in contexts involving large quantities or sizes, such as bulk buying or bulk materials.",
+            "ptNote": "Frequentemente usado em contextos envolvendo grandes quantidades ou tamanhos, como compra em grande quantidade ou materiais a granel."
+          }
+        ]
+      },
+      {
         "word": "beach",
         "phonetics": "/biːtʃ/ (US), /biːtʃ/ (UK)",
         "partOfSpeech": "noun",

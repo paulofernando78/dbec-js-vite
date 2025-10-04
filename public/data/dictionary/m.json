@@ -2,6 +2,56 @@
   {
     "definitions": [
       {
+        "word": "moon",
+        "phonetics": "/muːn/",
+        "partOfSpeech": "noun",
+        "enDefinition": "the natural satellite that orbits the Earth and shines at night by reflecting the sun's light",
+        "ptDefinition": "o satélite natural que orbita a Terra e brilha à noite refletindo a luz do sol",
+        "examples": [
+          {
+            "enExample": "The full moon rose over the mountains.",
+            "ptExample": "A lua cheia surgiu sobre as montanhas."
+          },
+          {
+            "enExample": "Astronauts first walked on the moon in 1969.",
+            "ptExample": "Astronautas caminharam pela primeira vez na lua em 1969."
+          }
+        ],
+        "synonyms": "satellite, lunar body",
+        "seeAlso": "planet, sun, eclipse",
+        "notes": [
+          {
+            "enNote": "The moon has phases including new moon, crescent, quarter, gibbous, and full moon",
+            "ptNote": "A lua possui fases incluindo lua nova, crescente, quarto, gibosa e cheia"
+          }
+        ]
+      },
+      {
+        "word": "machine",
+        "phonetics": "/məˈʃiːn/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a device with moving parts that performs a particular task, often powered by electricity or manual effort",
+        "ptDefinition": "um dispositivo com partes móveis que realiza uma tarefa específica, frequentemente movido por eletricidade ou esforço manual",
+        "examples": [
+          {
+            "enExample": "The factory uses a machine to assemble the products quickly",
+            "ptExample": "A fábrica usa uma máquina para montar os produtos rapidamente"
+          },
+          {
+            "enExample": "She bought a coffee machine for her kitchen.",
+            "ptExample": "Ela comprou uma máquina de café para a cozinha."
+          }
+        ],
+        "synonyms": "device, apparatus, mechanism",
+        "seeAlso": "engine, tool, appliance",
+        "notes": [
+          {
+            "enNote": "Machines can range from simple mechanical tools to complex automated systems",
+            "ptNote": "As máquinas podem variar de ferramentas mecânicas simples a sistemas automatizados complexos"
+          }
+        ]
+      },
+      {
         "word": "mobile phone",
         "phonetics": "/ˈmoʊ.bəl fəʊn/ (US), /ˈməʊ.baɪl fəʊn/ (UK)",
         "partOfSpeech": "noun",

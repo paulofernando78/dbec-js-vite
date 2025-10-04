@@ -16,7 +16,7 @@
       },
       {
         "icon": "time",
-        "description": "10:13"
+        "description": "7:05"
       },
       {
         "icon": "flag",
@@ -80,48 +80,48 @@
     {
       "hangman": [
         {
-          "imageSrc": "/assets/images/general/cage.avif",
-          "word": "cage"
+          "word": "cage",
+          "imageSrc": "/assets/images/general/cage.avif"
         },
         {
-          "imageSrc": "/assets/images/general/moon.avif",
-          "word": "moon"
+          "word": "moon",
+          "imageSrc": "/assets/images/general/moon.avif"
         },
         {
-          "imageSrc": "/assets/images/general/plane.avif",
-          "word": "plane"
+          "word": "plane",
+          "imageSrc": "/assets/images/general/plane.avif"
         },
         {
-          "imageSrc": "/assets/images/general/jungle.avif",
-          "word": "jungle"
+          "word": "jungle",
+          "imageSrc": "/assets/images/general/jungle.avif"
         },
         {
-          "imageSrc": "/assets/images/general/city.avif",
-          "word": "city"
+          "word": "city",
+          "imageSrc": "/assets/images/general/city.avif"
         },
         {
-          "imageSrc": "/assets/images/general/snow.avif",
-          "word": "snow"
+          "word": "snow",
+          "imageSrc": "/assets/images/general/snow.avif"
         },
         {
-          "imageSrc": "/assets/images/general/feather.avif",
-          "word": "feather"
+          "word": "feather",
+          "imageSrc": "/assets/images/general/feather.avif"
         },
         {
-          "imageSrc": "/assets/images/general/ship.avif",
-          "word": "ship"
+          "word": "ship",
+          "imageSrc": "/assets/images/general/ship.avif"
         },
         {
-          "imageSrc": "/assets/images/general/fish.avif",
-          "word": "fish"
+          "word": "fish",
+          "imageSrc": "/assets/images/general/fish.avif"
         },
         {
-          "imageSrc": "/assets/images/general/road.avif",
-          "word": "road"
+          "word": "road",
+          "imageSrc": "/assets/images/general/road.avif"
         },
         {
-          "imageSrc": "/assets/images/general/machine.avif",
-          "word": "machine"
+          "word": "machine",
+          "imageSrc": "/assets/images/general/machine.avif"
         }
       ]
     },

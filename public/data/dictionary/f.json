@@ -2,28 +2,27 @@
   {
     "definitions": [
       {
-        "word": "forest",
-        "phonetics": "/ˈfɔːr.ɪst/",
+        "word": "fish",
+        "phonetics": "/fɪʃ/ (US)",
         "partOfSpeech": "noun",
-        "enDefinition": "a large area covered chiefly with trees and undergrowth",
-        "ptDefinition": "uma grande área coberta principalmente por árvores e vegetação rasteira; floresta",
+        "enDefinition": "an animal that lives in water, breathes through gills, and usually has fins and scales",
+        "ptDefinition": "um animal que vive na água, respira por brânquias e geralmente tem nadadeiras e escamas",
         "examples": [
           {
-        "enExample": "The forest is home to many wild animals.",
-        "ptExample": "A floresta é o lar de muitos animais selvagens."
+            "enExample": "They caught a big fish in the river.",
+            "ptExample": "Eles pescaram um peixe grande no rio."
           },
           {
-        "enExample": "They went hiking in the forest last weekend.",
-        "ptExample": "Eles fizeram uma caminhada na floresta no último fim de semana."
+            "enExample": "Goldfish are popular pets kept in aquariums.",
+            "ptExample": "Os peixes-dourados são animais de estimação populares mantidos em aquários."
           }
         ],
-        "synonyms": "woods, woodland, jungle",
-        "antonyms": "desert, plain",
-        "seeAlso": "rainforest, woodland",
+        "synonyms": "aquatic animal, seafood",
+        "seeAlso": "ocean, river, fishing",
         "notes": [
           {
-        "enNote": "Forests play a crucial role in maintaining ecological balance and providing resources.",
-        "ptNote": "As florestas desempenham um papel crucial na manutenção do equilíbrio ecológico e fornecimento de recursos."
+            "enNote": "Fish is both singular and plural in English, but 'fishes' can be used when referring to different species",
+            "ptNote": "Fish é tanto singular quanto plural em inglês, mas 'fishes' pode ser usado ao se referir a diferentes espécies"
           }
         ]
       },
@@ -31,25 +30,50 @@
         "word": "feather",
         "phonetics": "/ˈfeð.ɚ/",
         "partOfSpeech": "noun",
-        "enDefinition": "one of the light, soft structures that cover a bird's body, consisting of a central shaft with fine hair-like parts on each side",
-        "ptDefinition": "uma das estruturas leves e macias que cobrem o corpo de uma ave, consistindo em um eixo central com partes finas semelhantes a pelos em cada lado; pena",
+        "enDefinition": "one of the soft, light structures that cover a bird's body",
+        "ptDefinition": "uma das estruturas macias e leves que cobrem o corpo de um pássaro",
         "examples": [
           {
-            "enExample": "The bird lost a feather while flying.",
+            "enExample": "The bird lost a feather while flying",
             "ptExample": "O pássaro perdeu uma pena enquanto voava."
           },
           {
-            "enExample": "She wore a hat decorated with colorful feathers.",
-            "ptExample": "Ela usava um chapéu decorado com penas coloridas."
+            "enExample": "She used a feather to tickle the child's nose",
+            "ptExample": "Ela usou uma pena para fazer cócegas no nariz da criança."
           }
         ],
         "synonyms": "plume, quill",
-        "antonyms": "—",
-        "seeAlso": "feathery, feathered",
+        "seeAlso": "wing",
         "notes": [
           {
-            "enNote": "Feathers are not only for flight but also for insulation and display in birds.",
-            "ptNote": "As penas não servem apenas para voar, mas também para isolamento térmico e exibição nas aves."
+            "enNote": "Feathers are used for flight, insulation, and display in birds",
+            "ptNote": "As penas são usadas para voo, isolamento térmico e exibição em aves"
+          }
+        ]
+      },
+      {
+        "word": "forest",
+        "phonetics": "/ˈfɔːr.ɪst/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a large area covered chiefly with trees and undergrowth",
+        "ptDefinition": "uma grande área coberta principalmente por árvores e vegetação rasteira; floresta",
+        "examples": [
+          {
+            "enExample": "The forest is home to many wild animals.",
+            "ptExample": "A floresta é o lar de muitos animais selvagens."
+          },
+          {
+            "enExample": "They went hiking in the forest last weekend.",
+            "ptExample": "Eles fizeram uma caminhada na floresta no último fim de semana."
+          }
+        ],
+        "synonyms": "woods, woodland, jungle",
+        "antonyms": "desert, plain",
+        "seeAlso": "rainforest, woodland",
+        "notes": [
+          {
+            "enNote": "Forests play a crucial role in maintaining ecological balance and providing resources.",
+            "ptNote": "As florestas desempenham um papel crucial na manutenção do equilíbrio ecológico e fornecimento de recursos."
           }
         ]
       },

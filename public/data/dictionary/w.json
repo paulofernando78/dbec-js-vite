@@ -17,8 +17,15 @@
             "ptExample": "Vimos uma baleia saltando enquanto estávamos no passeio de barco"
           }
         ],
-        "synonyms": "cetacean, leviathan",
-        "seeAlso": "dolphin, porpoise",
+        "images": [
+          {
+            "width": "100%",
+            "src": "/assets/images/general/whale.avif",
+            "alt": "A picture of a whale"
+          }
+        ],
+        "synonyms": ["cetacean, leviathan"],
+        "seeAlso": ["dolphin, porpoise"],
         "notes": [
           {
             "enNote": "Whales are among the largest animals on Earth and include species such as the blue whale and humpback whale",
@@ -101,8 +108,8 @@
             "ptExample": "A empresa de software lançou uma atualização para corrigir o bug de segurança."
           }
         ],
-        "synonyms": "mend, repair, fix, piece, area",
-        "antonyms": "tear, damage, break",
+        "synonyms": ["mend, repair, fix, piece, area"],
+        "antonyms": ["tear, damage, break"],
         "seeAlso": "mend, fix, repair",
         "notes": [
           {
@@ -135,8 +142,8 @@
             "ptExample": "Às vezes gosto de passear pela floresta para clarear a mente."
           }
         ],
-        "synonyms": "roam, drift, meander, stray",
-        "antonyms": "stay, remain, focus",
+        "synonyms": ["roam, drift, meander, stray"],
+        "antonyms": ["stay, remain, focus"],
         "seeAlso": "roam, drift, meander",
         "notes": [
           {
@@ -165,8 +172,8 @@
             "ptExample": "Assisti a um walkthrough do jogo no YouTube para descobrir como derrotar o chefe final."
           }
         ],
-        "synonyms": "guide, tutorial, rehearsal, run-through, demonstration",
-        "seeAlso": "walk somebody through, tutorial, run-through, demo",
+        "synonyms": ["guide, tutorial, rehearsal, run-through, demonstration"],
+        "seeAlso": ["walk somebody through, tutorial, run-through, demo"],
         "notes": [
           {
             "enNote": "Common in video games, where 'walkthroughs' explain how to complete levels or challenges.",
@@ -198,8 +205,8 @@
             "ptExample": "Ele a orientou passo a passo sobre o contrato antes que ela o assinasse."
           }
         ],
-        "synonyms": "guide, explain, demonstrate, instruct",
-        "antonyms": "confuse, mislead",
+        "synonyms": ["guide, explain, demonstrate, instruct"],
+        "antonyms": ["confuse, mislead"],
         "seeAlso": "talk someone through, show someone the ropes, go over",
         "notes": [
           {
@@ -228,8 +235,8 @@
             "ptExample": "Eles acharam a experiência válida apesar das dificuldades."
           }
         ],
-        "synonyms": "valuable, rewarding, beneficial, profitable",
-        "antonyms": "worthless, pointless, futile",
+        "synonyms": ["valuable, rewarding, beneficial, profitable"],
+        "antonyms": ["worthless, pointless, futile"],
         "seeAlso": "while, worthwhile investment",
         "notes": [
           {
@@ -258,9 +265,8 @@
             "ptExample": "Ele passou a tarde ouvindo música."
           }
         ],
-        "synonyms": "during, although, whereas, time, moment",
-        "antonyms": "—",
-        "seeAlso": "meanwhile, worthwhile, awhile",
+        "synonyms": ["during, although, whereas, time, moment"],
+        "seeAlso": ["meanwhile, worthwhile, awhile"],
         "notes": [
           {
             "enNote": "‘While’ as a conjunction is very common in both spoken and written English. The noun form usually appears with 'a' (e.g., 'a while').",
@@ -284,9 +290,9 @@
             "ptExample": "Histórias sobre bruxas e sua magia vêm sendo contadas há séculos."
           }
         ],
-        "synonyms": "sorceress, enchantress, hag",
-        "antonyms": "priestess, fairy",
-        "seeAlso": "sorcerer, wizard"
+        "synonyms": ["sorceress, enchantress, hag"],
+        "antonyms": ["priestess, fairy"],
+        "seeAlso": ["sorcerer, wizard"]
       },
       {
         "word": "weigh another offer",
@@ -304,9 +310,9 @@
           }
         ],
         "synonyms": [
-          "consider another proposal",
-          "evaluate alternative offer",
-          "review options"
+          ["consider another proposal"],
+          ["evaluate alternative offer"],
+          ["review options"]
         ],
         "antonyms": ["accept immediately", "ignore alternatives"],
         "seeAlso": ["consider", "evaluate", "compare offers"],
@@ -359,7 +365,7 @@
         ],
         "synonyms": ["ill, sick, unwell"],
         "antonyms": ["healthy, well, fit"],
-        "seeAlso": "feeling off, out of sorts",
+        "seeAlso": ["feeling off, out of sorts"],
         "notes": [
           {
             "enNote": "Common informal expression to describe mild illness.",
@@ -385,7 +391,7 @@
         ],
         "synonyms": ["exhausted, drained, defeated"],
         "antonyms": ["energized, refreshed, victorious"],
-        "seeAlso": "burned out, worn out",
+        "seeAlso": ["burned out, worn out"],
         "notes": [
           {
             "enNote": "Used informally to express extreme fatigue or total loss.",
