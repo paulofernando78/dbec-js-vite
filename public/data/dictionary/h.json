@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "haggle",
+        "phonetics": "/ˈhæɡ.əl/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to argue or negotiate persistently over the cost of something",
+        "ptDefinition": "discutir ou negociar insistentemente sobre o preço de algo; pechichar",
+        "examples": [
+          {
+            "enExample": "They spent the whole morning haggling over the price of the car.",
+            "ptExample": "Eles passaram a manhã inteira discutindo o preço do carro."
+          },
+          {
+            "enExample": "She haggled with the street vendor until the price was half.",
+            "ptExample": "Ela negociou com o vendedor de rua até que o preço fosse pela metade."
+          }
+        ],
+        "synonyms": ["bargain", "negotiate", "barter"],
+        "antonyms": ["agree", "accept", "comply"],
+        "seeAlso": ["drive a bargain", "deal", "trade"],
+        "notes": [
+          {
+            "enNote": "Haggling is common in markets and informal shops, especially in some cultures.",
+            "ptNote": "Barganhar é comum em mercados e lojas informais, especialmente em algumas culturas."
+          }
+        ]
+      },
+      {
         "word": "hinder",
         "phonetics": "/ˈhɪn.dər/",
         "partOfSpeech": "verb",

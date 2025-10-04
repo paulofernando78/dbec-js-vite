@@ -2,6 +2,36 @@
   {
     "definitions": [
       {
+        "word": "range",
+        "phonetics": "/reɪndʒ/",
+        "partOfSpeech": "noun, verb",
+        "enDefinition": "noun: a set of similar things or the distance between limits; verb: to vary within limits or to move freely across an area",
+        "ptDefinition": "substantivo: um conjunto de coisas semelhantes ou a distância entre limites; verbo: variar dentro de limites ou mover-se livremente por uma área",
+        "examples": [
+          {
+            "enExample": "The store sells a wide range of products.",
+            "ptExample": "A loja vende uma ampla variedade de produtos."
+          },
+          {
+            "enExample": "Temperatures in the desert can range from very hot during the day to very cold at night.",
+            "ptExample": "As temperaturas no deserto podem variar de muito quentes durante o dia a muito frias à noite."
+          },
+          {
+            "enExample": "Deer range freely in the forest.",
+            "ptExample": "Os cervos andam livremente pela floresta."
+          }
+        ],
+        "synonyms": ["variety", "scope", "extent", "span", "assortment"],
+        "antonyms": ["limitation", "restriction"],
+        "seeAlso": ["scope", "extent", "spectrum"],
+        "notes": [
+          {
+            "enNote": "As a noun, 'range' can refer to products, distances, mountains, or even a cooking stove. As a verb, it means to vary or to roam.",
+            "ptNote": "Como substantivo, 'range' pode se referir a produtos, distâncias, montanhas ou até um fogão. Como verbo, significa variar ou vagar."
+          }
+        ]
+      },
+      {
         "word": "road",
         "phonetics": "/roʊd/ (US), /rəʊd/ (UK)",
         "partOfSpeech": "noun",

@@ -213,9 +213,11 @@ class Hangman extends HTMLElement {
     this.letterContainer.classList.add("letter-container");
     lettersWrapper.appendChild(this.letterContainer);
 
-    const letters = Array.from({ length: 26 }, (_, i) =>
-      String.fromCharCode(65 + i)
-    );
+    const letters = [
+      ...Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i)),
+      "’", // apóstrofo
+      "-", // traço/dash
+    ];
 
     letters.forEach((ch) => {
       const letter = document.createElement("wc-button");
