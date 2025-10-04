@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "scold",
+        "phonetics": "/skoʊld/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to speak angrily to someone because they have done something wrong",
+        "ptDefinition": "repreender alguém de forma zangada por ter feito algo errado",
+        "examples": [
+          {
+            "enExample": "The teacher scolded the students for being late.",
+            "ptExample": "O professor repreendeu os alunos por chegarem atrasados."
+          },
+          {
+            "enExample": "Her mother scolded her for not cleaning her room.",
+            "ptExample": "A mãe dela a repreendeu por não ter limpado o quarto."
+          }
+        ],
+        "synonyms": ["reprimand", "rebuke", "chide"],
+        "antonyms": ["praise", "compliment"],
+        "notes": [
+          {
+            "enNote": "Often used when talking about how parents or teachers discipline children.",
+            "ptNote": "Frequentemente usado ao falar de como pais ou professores disciplinam crianças."
+          }
+        ]
+      },
+      {
         "word": "ship",
         "phonetics": "/ʃɪp/",
         "partOfSpeech": "noun",

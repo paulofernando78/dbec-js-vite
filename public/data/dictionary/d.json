@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "drive a bargain",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to negotiate skillfully and firmly to get the best possible deal",
+        "ptDefinition": "negociar com habilidade e firmeza para conseguir o melhor acordo possível",
+        "examples": [
+          {
+            "enExample": "She really knows how to drive a bargain when shopping for clothes.",
+            "ptExample": "Ela realmente sabe negociar quando compra roupas."
+          },
+          {
+            "enExample": "The car dealer drove a hard bargain, but he finally gave us a discount.",
+            "ptExample": "O vendedor de carros negociou duro, mas finalmente nos deu um desconto."
+          }
+        ],
+        "synonyms": ["negotiate", "haggle", "bargain"],
+        "antonyms": ["give in", "yield easily"],
+        "seeAlso": ["hard bargain", "strike a deal"],
+        "notes": [
+          {
+            "enNote": "Often used in business or everyday shopping contexts, highlighting strong negotiation skills.",
+            "ptNote": "Frequentemente usado em contextos de negócios ou compras do dia a dia, destacando boas habilidades de negociação."
+          }
+        ]
+      },
+      {
         "word": "deer",
         "phonetics": "/dɪr/",
         "partOfSpeech": "noun",
@@ -9,12 +34,12 @@
         "ptDefinition": "animal herbívoro de casco, geralmente encontrado em florestas e campos, conhecido por seus chifres (galhadas)",
         "examples": [
           {
-        "enExample": "A deer crossed the road in front of our car.",
-        "ptExample": "Um cervo atravessou a estrada na frente do nosso carro."
+            "enExample": "A deer crossed the road in front of our car.",
+            "ptExample": "Um cervo atravessou a estrada na frente do nosso carro."
           },
           {
-        "enExample": "Male deer are called stags or bucks and usually have antlers.",
-        "ptExample": "Os cervos machos são chamados de veados e geralmente têm galhadas."
+            "enExample": "Male deer are called stags or bucks and usually have antlers.",
+            "ptExample": "Os cervos machos são chamados de veados e geralmente têm galhadas."
           }
         ],
         "synonyms": ["stag", "buck", "doe (female)", "fawn (young)"],
@@ -22,8 +47,8 @@
         "seeAlso": ["elk", "moose", "antelope"],
         "notes": [
           {
-        "enNote": "The word 'deer' is both singular and plural (one deer, many deer).",
-        "ptNote": "A palavra 'deer' é usada tanto no singular quanto no plural em inglês."
+            "enNote": "The word 'deer' is both singular and plural (one deer, many deer).",
+            "ptNote": "A palavra 'deer' é usada tanto no singular quanto no plural em inglês."
           }
         ]
       },

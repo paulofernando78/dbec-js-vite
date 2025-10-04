@@ -19,6 +19,42 @@
   },
   "contents": [
     {
+      "hangman": [
+        {
+          "word": "review an offer",
+          "imageSrc": "/assets/images/general/job-offer.avif"
+        },
+        {
+          "word": "weigh another offer",
+          "imageSrc": "/assets/images/general/.avif"
+        },
+        {
+          "word": "the big picture",
+          "imageSrc": "/assets/images/general/.avif"
+        },
+        {
+          "word": "nitty-gritty",
+          "imageSrc": "/assets/images/general/.avif"
+        },
+        {
+          "word": "out of one’s range",
+          "imageSrc": "/assets/images/general/.avif"
+        },
+        {
+          "word": "split the difference",
+          "imageSrc": "/assets/images/general/.avif"
+        },
+        {
+          "word": "stand one’s ground",
+          "imageSrc": "/assets/images/general/.avif"
+        },
+        {
+          "word": "drive a bargain",
+          "imageSrc": "/assets/images/general/.avif"
+        }
+      ]
+    },
+    {
       "exercises": [
         {
           "title": "Choose the best substitute for the highlighted phrase or sentence:"

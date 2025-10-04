@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "tweak",
+        "phonetics": "/twiːk/",
+        "partOfSpeech": "verb, noun",
+        "enDefinition": "to make a small change to improve something, or a slight adjustment or improvement itself",
+        "ptDefinition": "fazer uma pequena mudança para melhorar algo, ou um pequeno ajuste ou melhoria em si",
+        "examples": [
+          {
+            "enExample": "She tweaked the design to make it more user-friendly.",
+            "ptExample": "Ela ajustou o design para deixá-lo mais fácil de usar."
+          },
+          {
+            "enExample": "After a few tweaks, the program worked perfectly.",
+            "ptExample": "Depois de alguns ajustes, o programa funcionou perfeitamente."
+          }
+        ],
+        "synonyms": ["adjust", "modify", "fine-tune"],
+        "antonyms": ["damage", "worsen"],
+        "seeAlso": ["adjustment", "modification"],
+        "notes": [
+          {
+            "enNote": "Commonly used in contexts of software, design, or mechanics when small improvements are made.",
+            "ptNote": "Comumente usado em contextos de software, design ou mecânica quando pequenas melhorias são feitas."
+          }
+        ]
+      },
+      {
         "word": "taxi",
         "phonetics": "/ˈtæk.si/",
         "partOfSpeech": "noun",
