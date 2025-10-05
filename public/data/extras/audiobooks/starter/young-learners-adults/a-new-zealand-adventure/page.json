@@ -90,7 +90,31 @@
       }
     },
     {
-      "hangman": [
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "icon":	"mouse"
+                },
+                {
+                  "boldText": "Click or "
+                },
+                {
+                  "icon":	"tap"
+                },
+                {
+                  "boldText":	"tap the letters to reveal the words."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guessWord": [
         {
           "word": "airport",
           "imageSrc": "/assets/images/general/airport.avif"
@@ -137,7 +161,7 @@
       "exercises": [
         {
           "audioSrc": "/assets/audio/hangman/now-fill-in.mp3",
-          "title": "Now fill in the blanks with the words from “Guess Word”."
+          "title": "Now fill in the blanks with the words from the exercise above."
         },
         {
           "fillExercises": [
@@ -1454,6 +1478,190 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "speak",
+        "label": "Picture Storytelling"
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "icon":	"mouse"
+                },
+                {
+                  "boldText": "Click or "
+                },
+                {
+                  "icon":	"tap"
+                },
+                {
+                  "boldText":	"tap the cards to flip, then retell the story."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flipCard": [
+        {
+          "front": {
+            "img": "",
+            "text": "1"
+          },
+         "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "2"
+          },
+         "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "3"
+          },
+         "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "4"
+          },
+         "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "5"
+          },
+         "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "6"
+          },
+         "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "7"
+          },
+         "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "8"
+          },
+         "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "9"
+          },
+         "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "10"
+          },
+         "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "11"
+          },
+         "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "12"
+          },
+         "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "13"
+          },
+         "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "14"
+          },
+         "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "15"
+          },
+         "back": {
+            "img": "",
+            "text": ""
+          }
         }
       ]
     }

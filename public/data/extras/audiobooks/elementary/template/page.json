@@ -55,6 +55,108 @@
     },
     {
       "ribbon": {
+        "icon": "vocabulary",
+        "label": "Vocabulary"
+      }
+    },
+    {
+      "guessWord": [
+        {
+          "word": "",
+          "imageSrc": "/assets/images/general/.avif"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "pages",
+        "label": "Chapters"
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-1",
+                      "label": "..."
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-2",
+                      "label": "..."
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-3",
+                      "label": "..."
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-4",
+                      "label": "..."
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-5",
+                      "label": "..."
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-6",
+                      "label": "..."
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-7",
+                      "label": "..."
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-8",
+                      "label": "..."
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-9",
+                      "label": "..."
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-10",
+                      "label": "..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "chapter-1",
+      "ribbon": {
         "icon": "snippet",
         "label": "Chapter 1"
       }
@@ -175,10 +277,10 @@
         }
       ]
     },
-    {
+    {"anchor": "chapter-2",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 2 • "
+        "label": "Chapter 2"
       }
     },
     {
@@ -292,9 +394,10 @@
       ]
     },
     {
+      "anchor": "chapter-3",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 3 • "
+        "label": "Chapter 3"
       }
     },
     {
@@ -409,9 +512,10 @@
       ]
     },
     {
+      "anchor": "chapter-4",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 4 • "
+        "label": "Chapter 4"
       }
     },
     {
@@ -525,9 +629,10 @@
       ]
     },
     {
+      "anchor": "chapter-5",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 5 • "
+        "label": "Chapter 5"
       }
     },
     {
@@ -641,9 +746,10 @@
       ]
     },
     {
+      "anchor": "chapter-6",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 6 • "
+        "label": "Chapter 6"
       }
     },
     {
@@ -757,9 +863,10 @@
       ]
     },
     {
+      "anchor": "chapter-7",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 7 • "
+        "label": "Chapter 7"
       }
     },
     {
@@ -873,9 +980,10 @@
       ]
     },
     {
+      "anchor": "chapter-8",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 8 • "
+        "label": "Chapter 8"
       }
     },
     {
@@ -989,9 +1097,10 @@
       ]
     },
     {
+      "anchor": "chapter-9",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 9 • "
+        "label": "Chapter 9"
       }
     },
     {
@@ -1105,9 +1214,10 @@
       ]
     },
     {
+      "anchor": "chapter-10",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 10 • "
+        "label": "Chapter 10"
       }
     },
     {

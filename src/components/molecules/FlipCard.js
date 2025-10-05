@@ -59,7 +59,7 @@ class FlipCard extends HTMLElement {
     const backElem = this.shadowRoot.querySelector(".flip-card-back");
 
     if (front) {
-      frontElem.querySelector("img").src = front.img || "";
+      frontElem.querySelector("img").src = front.img || "/assets/images/general/question-mark.gif";
       frontElem.querySelector(".front-image").style.width =
         front.imgWidth || "100px";
       frontElem.querySelector("span").textContent = front.text || "";
