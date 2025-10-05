@@ -1,9 +1,16 @@
 import cssImportsPath from "/src/css/imports.css?inline";
+import cssContentPath from "/src/css/components/templates/content.css?inline";
 
 class Contents extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
+
+    [cssImportsPath, cssContentPath].forEach((css) => {
+      const style = document.createElement("style");
+      style.textContent = css;
+      this.shadowRoot.appendChild(style);
+    });
 
     const cssImports = document.createElement("style");
     cssImports.textContent = cssImportsPath;
@@ -196,6 +203,25 @@ class Contents extends HTMLElement {
         contentContainer.appendChild(videoPlayer);
       }
 
+      // Component
+      if (section.component) {
+        const element = document.createElement(section.component);
+        contentContainer.appendChild(element);
+      }
+
+      // Flip Cards
+      if (section.flipCard) {
+        const flipCardWrapper = document.createElement("div");
+        flipCardWrapper.classList.add("flip-card-container");
+        contentContainer.appendChild(flipCardWrapper);
+
+        section.flipCard.forEach((item) => {
+          const flip = document.createElement("wc-flip-card");
+          flip.data = item;
+          flipCardWrapper.appendChild(flip);
+        });
+      }
+
       // Exercises
       if (section.exercises) {
         const exercise = document.createElement("wc-exercise");
@@ -203,22 +229,11 @@ class Contents extends HTMLElement {
         contentContainer.appendChild(exercise);
       }
 
-      if (section.component) {
-        const element = document.createElement(section.component);
-        contentContainer.appendChild(element);
-      }
-
-      // Game Emulator
-      // if (section.gameSrc) {
-      //   const game = document.createElement("wc-game-emulator");
-      //   game.data = { gameSrc: section.gameSrc };
-      //   contentContainer.appendChild(game);
-      // }
-
-      if (section.hangman) {
-        const hang = document.createElement("wc-hangman");
-        hang.data = section.hangman;
-        contentContainer.appendChild(hang);
+      // Guess Word
+      if (section.guessWord) {
+        const guess = document.createElement("wc-guess-word");
+        guess.data = section.guessWord;
+        contentContainer.appendChild(guess);
       }
 
       // Hr tag
@@ -232,6 +247,13 @@ class Contents extends HTMLElement {
         dashedHr.classList.add("dashed-hr");
         contentContainer.appendChild(dashedHr);
       }
+
+      // Game Emulator
+      // if (section.gameSrc) {
+      //   const game = document.createElement("wc-game-emulator");
+      //   game.data = { gameSrc: section.gameSrc };
+      //   contentContainer.appendChild(game);
+      // }
     });
 
     this.shadowRoot.appendChild(contentContainer);

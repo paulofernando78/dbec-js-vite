@@ -1,6 +1,6 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 
-class Hangman extends HTMLElement {
+class GuessWord extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -48,6 +48,7 @@ class Hangman extends HTMLElement {
         font-family: "Slackey";
         font-size: 1rem;
         text-align: center;
+        margin-top: 20px,,
       }
 
       .image-letters-wrapper {
@@ -126,10 +127,6 @@ class Hangman extends HTMLElement {
           display: grid;
           grid-template-columns: 1fr
         }
-
-        .letter-container {
-          margin: 15px 0 0 0
-        }
       }
     `;
     this.shadowRoot.appendChild(css);
@@ -141,10 +138,10 @@ class Hangman extends HTMLElement {
     container.classList.add("container", "card");
     this.shadowRoot.appendChild(container);
 
-    const title = document.createElement("span");
-    title.classList.add("title");
-    title.textContent = "Guess Word!";
-    container.appendChild(title);
+    // const title = document.createElement("span");
+    // title.classList.add("title");
+    // title.textContent = "Guess Word!";
+    // container.appendChild(title);
 
     // Grid 2fr
     const Wrapper = document.createElement("div");
@@ -155,38 +152,6 @@ class Hangman extends HTMLElement {
     const wordNunmbersImageWrapper = document.createElement("div");
     wordNunmbersImageWrapper.classList.add("line-break");
     Wrapper.appendChild(wordNunmbersImageWrapper);
-
-    // Image Title
-    const imageTitle = document.createElement("p");
-    imageTitle.classList.add("image-title");
-
-    const titleAudio = document.createElement("wc-audio");
-    titleAudio.data = {
-      audioSrc: "/assets/audio/hangman/image-title.mp3",
-    };
-
-    imageTitle.appendChild(titleAudio);
-    imageTitle.appendChild(
-      document.createTextNode(
-        "Look at the picture and click / tap the letters to guess the word. Don't be afraid of making mistakes."
-      )
-    );
-
-    wordNunmbersImageWrapper.appendChild(imageTitle);
-
-    // Image Question
-    const imageQuestion = document.createElement("p");
-    imageQuestion.classList.add("image-question");
-
-    const questionAudio = document.createElement("wc-audio");
-    questionAudio.data = {
-      audioSrc: "/assets/audio/hangman/question.mp3",
-    };
-
-    imageQuestion.appendChild(questionAudio);
-    imageQuestion.appendChild(document.createTextNode("What is it?"));
-
-    wordNunmbersImageWrapper.appendChild(imageQuestion);
 
     // Image
     const image = document.createElement("wc-image");
@@ -446,7 +411,7 @@ class Hangman extends HTMLElement {
     if (item.imageSrc && this.imageElement) {
       this.imageElement.data = {
         src: item.imageSrc,
-        alt: item.alt || "Hangman image",
+        alt: item.alt || "Guess Word image",
       };
     }
 
@@ -504,4 +469,4 @@ class Hangman extends HTMLElement {
   }
 }
 
-export default Hangman;
+export default GuessWord;

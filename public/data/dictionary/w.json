@@ -2,6 +2,36 @@
   {
     "definitions": [
       {
+        "word": "watch",
+        "phonetics": "/wɑːtʃ/",
+        "partOfSpeech": "verb / noun",
+        "enDefinition": "Verb: to look at or observe attentively over a period of time; to monitor. Noun: a small timepiece worn typically on the wrist; the act of observing.",
+        "ptDefinition": "Verbo: olhar ou observar atentamente por um período de tempo; monitorar. Substantivo: um pequeno relógio geralmente usado no pulso; o ato de observar.",
+        "examples": [
+          {
+        "enExample": "She likes to watch movies on weekends.",
+        "ptExample": "Ela gosta de assistir filmes nos finais de semana."
+          },
+          {
+        "enExample": "He checked his watch to see the time.",
+        "ptExample": "Ele olhou para o relógio para ver as horas."
+          },
+          {
+        "enExample": "The guard kept watch all night.",
+        "ptExample": "O guarda ficou de vigia a noite toda."
+          }
+        ],
+        "synonyms": ["observe", "monitor", "look at", "timepiece"],
+        "antonyms": ["ignore", "neglect", "overlook"],
+        "seeAlso": ["look", "see", "view", "clock"],
+        "notes": [
+          {
+        "enNote": "As a verb, 'watch' often implies paying close attention for a period of time. As a noun, it refers to a device for telling time or the act of keeping guard.",
+        "ptNote": "Como verbo, 'watch' geralmente implica prestar atenção por um período de tempo. Como substantivo, refere-se a um dispositivo para marcar o tempo ou ao ato de vigiar."
+          }
+        ]
+      },
+      {
         "word": "whale",
         "phonetics": "/weɪl/ (US)",
         "partOfSpeech": "noun",

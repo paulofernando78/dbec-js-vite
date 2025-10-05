@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "key",
+        "phonetics": "/kiː/",
+        "partOfSpeech": "noun, adjective",
+        "enDefinition": "a small piece of metal used to open or lock something; something important or crucial",
+        "ptDefinition": "um pequeno pedaço de metal usado para abrir ou trancar algo; algo importante ou crucial",
+        "examples": [
+          {
+        "enExample": "She lost the key to her apartment.",
+        "ptExample": "Ela perdeu a chave do apartamento."
+          },
+          {
+        "enExample": "Communication is key to a successful relationship.",
+        "ptExample": "A comunicação é fundamental para um relacionamento bem-sucedido."
+          }
+        ],
+        "synonyms": ["crucial", "essential", "important", "lock opener"],
+        "antonyms": ["unimportant", "irrelevant"],
+        "seeAlso": ["lock", "crucial", "essential", "password"],
+        "notes": [
+          {
+        "enNote": "‘Key’ can refer to both a physical object and something of great importance.",
+        "ptNote": "‘Key’ pode se referir tanto a um objeto físico quanto a algo de grande importância."
+          }
+        ]
+      },
+      {
         "word": "king",
         "phonetics": "/kɪŋ/",
         "partOfSpeech": "noun",

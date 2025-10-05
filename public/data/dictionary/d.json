@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "door",
+        "phonetics": "/dɔːr/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a movable barrier used to close off an entrance, typically to a room, building, or vehicle",
+        "ptDefinition": "uma barreira móvel usada para fechar uma entrada, geralmente de um cômodo, edifício ou veículo",
+        "examples": [
+          {
+        "enExample": "She knocked on the door before entering the office.",
+        "ptExample": "Ela bateu na porta antes de entrar no escritório."
+          },
+          {
+        "enExample": "Please close the door when you leave.",
+        "ptExample": "Por favor, feche a porta ao sair."
+          }
+        ],
+        "synonyms": ["entrance", "gateway", "portal"],
+        "antonyms": ["wall", "barrier"],
+        "seeAlso": ["window", "gate", "doorway"],
+        "notes": [
+          {
+        "enNote": "Doors can be made of wood, metal, glass, or other materials and may be used for privacy, security, or decoration.",
+        "ptNote": "Portas podem ser feitas de madeira, metal, vidro ou outros materiais e podem ser usadas para privacidade, segurança ou decoração."
+          }
+        ]
+      },
+      {
         "word": "drive a bargain",
         "partOfSpeech": "idiom",
         "enDefinition": "to negotiate skillfully and firmly to get the best possible deal",

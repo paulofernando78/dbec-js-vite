@@ -1,18 +1,22 @@
 import cssImportsPath from "/src/css/imports.css?inline";
+import cssExercisePath from "/src/css/components/templates/exercise.css?inline";
 import { correct, incorrect } from "@images/svg-imports";
 
 const svgIcons = {
   correct: correct,
   incorrect: incorrect,
 };
+
 class Exercise extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    const cssImports = document.createElement("style");
-    cssImports.textContent = cssImportsPath;
-    this.shadowRoot.appendChild(cssImports);
+    [cssImportsPath, cssExercisePath].forEach((css) => {
+      const style = document.createElement("style");
+      style.textContent = css;
+      this.shadowRoot.appendChild(style);
+    });
 
     const css = document.createElement("style"); /*css*/
     css.textContent = `
@@ -47,6 +51,14 @@ class Exercise extends HTMLElement {
       if (section.images) {
         this._renderImages(section.images);
       }
+
+      if (section.guessWord) {
+        this._renderGuessWord(section.guessWord);
+      }
+
+      // if (section.flipCard) {
+      //   this._renderFlipCard(section.flipCard);
+      // }
 
       if (section.radioExercises) {
         this._renderRadioExercises(section.radioExercises, idx);
@@ -144,6 +156,26 @@ class Exercise extends HTMLElement {
     this.exerciseContainer.appendChild(imageWrapper);
   }
 
+  // Guess Word
+  _renderGuessWord(items) {
+    const guess = document.createElement("wc-guess-word");
+    guess.data = items;
+    this.exerciseContainer.appendChild(guess);
+  }
+
+  //Flip Card
+  // _renderFlipCard(items) {
+  //   const flipCardWrapper = document.createElement("div");
+  //   flipCardWrapper.classList.add("flip-card-container");
+  //   this.exerciseContainer.appendChild(flipCardWrapper);
+
+  //   items.forEach((item) => {
+  //     const flip = document.createElement("wc-flip-card");
+  //     flip.data = item;
+  //     flipCardWrapper.appendChild(flip);
+  //   });
+  // }
+
   // Radio
   _renderRadioExercises(items, idxOffset) {
     items.forEach((item, idx) => {
@@ -158,8 +190,8 @@ class Exercise extends HTMLElement {
             const audio = document.createElement("wc-audio");
             audio.data = {
               audioSrc: q.audioSrc,
-            }
-            question.appendChild(audio)
+            };
+            question.appendChild(audio);
           }
 
           if (q.boldText) {

@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "garden",
+        "phonetics": "/ˈɡɑːr.dən/",
+        "partOfSpeech": "noun / verb",
+        "enDefinition": "noun: a piece of ground, often near a house, used for growing flowers, vegetables, or fruit; verb: to cultivate or take care of a garden",
+        "ptDefinition": "substantivo: um pedaço de terra, geralmente perto de uma casa, usado para cultivar flores, vegetais ou frutas; verbo: cultivar ou cuidar de um jardim",
+        "examples": [
+          {
+        "enExample": "She spends her weekends working in the garden.",
+        "ptExample": "Ela passa os fins de semana trabalhando no jardim."
+          },
+          {
+        "enExample": "They garden together every spring, planting new flowers.",
+        "ptExample": "Eles cuidam do jardim juntos toda primavera, plantando novas flores."
+          }
+        ],
+        "synonyms": ["yard", "plot", "park", "cultivate", "grow"],
+        "antonyms": ["wasteland", "neglect"],
+        "seeAlso": ["gardener", "greenhouse", "landscape"],
+        "notes": [
+          {
+        "enNote": "Gardens can be ornamental or used for growing food. The verb 'to garden' means to engage in gardening activities.",
+        "ptNote": "Jardins podem ser ornamentais ou usados para cultivo de alimentos. O verbo 'cuidar do jardim' refere-se a atividades de jardinagem."
+          }
+        ]
+      },
+      {
         "word": "gush",
         "phonetics": "/ɡʌʃ/",
         "partOfSpeech": "verb / noun",

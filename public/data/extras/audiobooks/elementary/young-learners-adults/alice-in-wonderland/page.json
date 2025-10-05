@@ -63,46 +63,50 @@
       }
     },
     {
-      "hangman": [
+      "exercises": [
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "word": ""
+          "guessWord": [
+            {
+              "word": "pocket watch",
+              "imageSrc": "/assets/images/general/pocket-watch.avif"
+            },
+            {
+              "word": "cupboard",
+              "imageSrc": "/assets/images/general/cupboard.avif"
+            },
+            {
+              "word": "key",
+              "imageSrc": "/assets/images/general/key.avif"
+            },
+            {
+              "word": "bottle",
+              "imageSrc": "/assets/images/general/bottle.avif"
+            },
+            {
+              "word": "cake",
+              "imageSrc": "/assets/images/general/cake.avif"
+            },
+            {
+              "word": "garden",
+              "imageSrc": "/assets/images/general/garden-1.avif"
+            }
+          ]
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "word": ""
-        },
-        {
-          "imageSrc": "/assets/images/general/.avif",
-          "word": ""
-        },
-        {
-          "imageSrc": "/assets/images/general/.avif",
-          "word": ""
-        },
-        {
-          "imageSrc": "/assets/images/general/.avif",
-          "word": ""
-        },
-        {
-          "imageSrc": "/assets/images/general/.avif",
-          "word": ""
-        },
-        {
-          "imageSrc": "/assets/images/general/.avif",
-          "word": ""
-        },
-        {
-          "imageSrc": "/assets/images/general/.avif",
-          "word": ""
-        },
-        {
-          "imageSrc": "/assets/images/general/.avif",
-          "word": ""
-        },
-        {
-          "imageSrc": "/assets/images/general/.avif",
-          "word": ""
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "...",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -569,6 +573,65 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Now click or tap to flip the cards and describe each one."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flipCard": [
+        {
+          "front": {
+            "img": "/assets/images/general/question-mark.gif"
+          },
+          "back": {
+            "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/1-alice-reads-book-with-sister.avif"
+          }
+        },
+        {
+          "front": {
+            "img": "/assets/images/general/question-mark.gif"
+          },
+          "back": {
+            "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/2-alice-sees-rabbit.avif"
+          }
+        },
+        {
+          "front": {
+            "img": "/assets/images/general/question-mark.gif"
+          },
+          "back": {
+            "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/3-alice-falls-into-rabbit-hole.avif"
+          }
+        },
+        {
+          "front": {
+            "img": "/assets/images/general/question-mark.gif"
+          },
+          "back": {
+            "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/4-alice-drink-me.gif"
+          }
+        },
+        {
+          "front": {
+            "img": "/assets/images/general/question-mark.gif"
+          },
+          "back": {
+            "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/5-alice-eat-me.avif"
+          }
         }
       ]
     },

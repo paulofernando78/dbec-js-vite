@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "bottle",
+        "phonetics": "/ˈbɒt.əl/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a container, typically made of glass or plastic, with a narrow neck, used for storing liquids",
+        "ptDefinition": "recipiente, geralmente de vidro ou plástico, com gargalo estreito, usado para armazenar líquidos",
+        "examples": [
+          {
+        "enExample": "She poured water into the bottle.",
+        "ptExample": "Ela colocou água na garrafa."
+          },
+          {
+        "enExample": "The wine bottle was empty after the party.",
+        "ptExample": "A garrafa de vinho estava vazia depois da festa."
+          }
+        ],
+        "synonyms": ["container", "flask", "vial"],
+        "antonyms": ["can", "box", "jar"],
+        "seeAlso": ["jar", "flask", "jug"],
+        "notes": [
+          {
+        "enNote": "Bottles are commonly used for beverages, chemicals, and other liquids.",
+        "ptNote": "Garrafas são usadas comumente para bebidas, produtos químicos e outros líquidos."
+          }
+        ]
+      },
+      {
         "word": "bulk",
         "phonetics": "/bʌlk/",
         "partOfSpeech": "noun",

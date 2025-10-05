@@ -2,6 +2,84 @@
   {
     "definitions": [
       {
+        "word": "cry",
+        "phonetics": "/kraɪ/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to shed tears, often as an expression of emotion such as sadness, pain, or joy; to shout or call out loudly",
+        "ptDefinition": "chorar; derramar lágrimas, geralmente como expressão de emoção como tristeza, dor ou alegria; gritar ou clamar alto",
+        "examples": [
+          {
+        "enExample": "The baby began to cry when she was hungry.",
+        "ptExample": "O bebê começou a chorar quando estava com fome."
+          },
+          {
+        "enExample": "He cried out for help after falling.",
+        "ptExample": "Ele gritou por ajuda após cair."
+          }
+        ],
+        "synonyms": ["weep", "sob", "shout", "call out"],
+        "antonyms": ["laugh", "rejoice", "be silent"],
+        "seeAlso": ["weep", "sob", "shout"],
+        "notes": [
+          {
+        "enNote": "Can refer both to shedding tears and to making a loud vocal sound.",
+        "ptNote": "Pode se referir tanto a derramar lágrimas quanto a emitir um som alto."
+          }
+        ]
+      },
+      {
+        "word": "cake",
+        "phonetics": "/keɪk/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a sweet baked food made from flour, sugar, eggs, and other ingredients, often decorated and served as dessert",
+        "ptDefinition": "um alimento doce assado feito de farinha, açúcar, ovos e outros ingredientes, geralmente decorado e servido como sobremesa",
+        "examples": [
+          {
+        "enExample": "She baked a chocolate cake for her birthday.",
+        "ptExample": "Ela fez um bolo de chocolate para seu aniversário."
+          },
+          {
+        "enExample": "Would you like a slice of cake with your coffee?",
+        "ptExample": "Você gostaria de uma fatia de bolo com seu café?"
+          }
+        ],
+        "synonyms": ["pastry", "gateau", "dessert"],
+        "antonyms": ["bread", "pie", "savory dish"],
+        "seeAlso": ["cupcake", "pie", "pastry"],
+        "notes": [
+          {
+        "enNote": "Cakes are often associated with celebrations such as birthdays and weddings.",
+        "ptNote": "Bolos são frequentemente associados a celebrações como aniversários e casamentos."
+          }
+        ]
+      },
+      {
+        "word": "cupboard",
+        "phonetics": "/ˈkʌb.ɚd/ (US), /ˈkʌb.ərd/ (UK)",
+        "partOfSpeech": "noun",
+        "enDefinition": "a piece of furniture or a small room with shelves used for storing things, especially food, dishes, or household items",
+        "ptDefinition": "um móvel ou pequeno cômodo com prateleiras usado para guardar coisas, especialmente alimentos, louças ou itens domésticos",
+        "examples": [
+          {
+        "enExample": "She put the plates back in the cupboard after washing them.",
+        "ptExample": "Ela colocou os pratos de volta no armário depois de lavá-los."
+          },
+          {
+        "enExample": "There’s a tin of biscuits in the kitchen cupboard.",
+        "ptExample": "Há uma lata de biscoitos no armário da cozinha."
+          }
+        ],
+        "synonyms": ["cabinet", "closet", "pantry"],
+        "antonyms": ["open shelf", "rack"],
+        "seeAlso": ["wardrobe", "pantry", "cabinet"],
+        "notes": [
+          {
+        "enNote": "In British English, 'cupboard' is commonly used for kitchen storage; in American English, 'cabinet' is more frequent.",
+        "ptNote": "No inglês britânico, 'cupboard' é usado para armazenamento na cozinha; no inglês americano, 'cabinet' é mais comum."
+          }
+        ]
+      },
+      {
         "word": "city",
         "phonetics": "/ˈsɪti/",
         "partOfSpeech": "noun",

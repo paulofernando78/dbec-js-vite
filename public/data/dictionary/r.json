@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "rabbit",
+        "phonetics": "/ˈræb.ɪt/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a small mammal with long ears, soft fur, and a short tail, known for its ability to hop and burrow",
+        "ptDefinition": "um pequeno mamífero com orelhas longas, pelo macio e cauda curta, conhecido por sua habilidade de saltar e cavar tocas",
+        "examples": [
+          {
+        "enExample": "The rabbit hopped across the garden and disappeared into a hole.",
+        "ptExample": "O coelho pulou pelo jardim e desapareceu em uma toca."
+          },
+          {
+        "enExample": "She keeps a rabbit as a pet.",
+        "ptExample": "Ela tem um coelho de estimação."
+          }
+        ],
+        "synonyms": ["hare", "bunny", "coney"],
+        "antonyms": ["predator"],
+        "seeAlso": ["hare", "rodent", "burrow"],
+        "notes": [
+          {
+        "enNote": "Rabbits are herbivores and are often associated with speed and fertility in folklore.",
+        "ptNote": "Coelhos são herbívoros e frequentemente associados à velocidade e fertilidade no folclore."
+          }
+        ]
+      },
+      {
         "word": "range",
         "phonetics": "/reɪndʒ/",
         "partOfSpeech": "noun, verb",

@@ -31,6 +31,50 @@
   },
   "contents": [
     {
+      "exercises": [
+        {
+          "title": "Flip the cards...",
+          "description": "Description"
+        },
+        {
+          "flipCard": [
+            {
+              "front": {
+                "text": "Front"
+              },
+              "back": {
+                "text": "Back"
+              }
+            },
+            {
+              "front": {
+                "img": "/assets/images/general/question-mark.gif"
+              },
+              "back": {
+                "img": "/assets/images/general/cat-1.avif"
+              }
+            },
+            {
+              "front": {
+                "img": "/assets/images/general/question-mark.gif"
+              },
+              "back": {
+                "img": "/assets/images/general/cat-2.avif"
+              }
+            },
+            {
+              "front": {
+                "img": "/assets/images/general/question-mark.gif"
+              },
+              "back": {
+                "img": "/assets/images/general/cat-3.avif"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Collapsible"
@@ -48,25 +92,6 @@
     },
     {
       "components": "wc-the-alphabet"
-    },
-    {
-      "hangman": [
-        {
-          "imageSrc": "/assets/images/general/apple.avif",
-          "alt": "a picture of an apple",
-          "word": "apple"
-        },
-        {
-          "imageSrc": "/assets/images/general/cat-1.avif",
-          "alt": "a picture of a cat",
-          "word": "cat"
-        },
-        {
-          "imageSrc": "/assets/images/general/sports-car.avif",
-          "alt": "A picture of a sports car.",
-          "word": "sports car"
-        }
-      ]
     },
     {
       "ribbon": {
@@ -500,11 +525,28 @@
       }
     },
     {
+      "ribbon": { "icon": "snippet", "label": "Exercises" }
+    },
+    {
       "ribbon": { "icon": "snippet", "label": "Radio exercise" }
     },
     {
       "exercises": [
         {
+          "audioSrc": "/assets/audio",
+          "title": "Look at the picture and click / tap the letters to guess the word. Don't be afraid of making mistakes.",
+          "description": "Description"
+        },
+        {
+          "guessWord": [
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/.avif"
+            }
+          ]
+        },
+        {
+          "audioSrc": "/assets/audio",
           "title": "Exercises",
           "description": "Description"
         },
@@ -516,47 +558,24 @@
                   "block": [
                     {
                       "text": "teste "
-                    },
-                    {
-                      "text": "teste"
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "teste "
-                    },
-                    {
-                      "text": "teste"
                     }
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "flip": [
             {
-              "blocks": [
-                {
-                  "block": [
-                    {
-                      "text": "teste "
-                    },
-                    {
-                      "text": "teste"
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "teste "
-                    },
-                    {
-                      "text": "teste"
-                    }
-                  ]
-                }
-              ]
+              "front": {
+                "img": "/assets/images/general/cat-1.avif",
+                "text": "ggg"
+              },
+              "back": {
+                "img": "/assets/images/general/cat-2.avif",
+                "text": "bbb"
+              }
             }
           ]
         },
@@ -581,10 +600,6 @@
               "alt": "..."
             }
           ]
-        },
-        {
-          "audioSrc": "/assets/audio",
-          "title": "..."
         },
         {
           "radioExercises": [

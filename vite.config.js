@@ -11,5 +11,5 @@ export default defineConfig({
       "@audio": "/src/assets/audio",
       "@components": "/src/components",
     },
-  },
+  }
 });

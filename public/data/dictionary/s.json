@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "strange",
+        "phonetics": "/streɪndʒ/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "unusual or surprising, especially in a way that is difficult to understand; not familiar or known",
+        "ptDefinition": "incomum ou surpreendente, especialmente de uma forma difícil de entender; não familiar ou desconhecido",
+        "examples": [
+          {
+        "enExample": "It felt strange to be back in my hometown after so many years.",
+        "ptExample": "Foi estranho estar de volta à minha cidade natal depois de tantos anos."
+          },
+          {
+        "enExample": "She heard a strange noise coming from the basement.",
+        "ptExample": "Ela ouviu um barulho estranho vindo do porão."
+          }
+        ],
+        "synonyms": ["unusual", "odd", "peculiar", "weird", "bizarre"],
+        "antonyms": ["normal", "usual", "ordinary", "familiar"],
+        "seeAlso": ["odd", "peculiar", "unfamiliar", "weird"],
+        "notes": [
+          {
+        "enNote": "Often used to describe things, people, or situations that are out of the ordinary.",
+        "ptNote": "Frequentemente usado para descrever coisas, pessoas ou situações fora do comum."
+          }
+        ]
+      },
+      {
         "word": "scold",
         "phonetics": "/skoʊld/",
         "partOfSpeech": "verb",
