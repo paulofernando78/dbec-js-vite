@@ -31,46 +31,22 @@
   },
   "contents": [
     {
-      "exercises": [
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Flip Cards"
+      }
+    },
+    {
+      "flipCard": [
         {
-          "title": "Flip the cards...",
-          "description": "Description"
-        },
-        {
-          "flipCard": [
-            {
-              "front": {
-                "text": "Front"
-              },
-              "back": {
-                "text": "Back"
-              }
-            },
-            {
-              "front": {
-                "img": "/assets/images/general/question-mark.gif"
-              },
-              "back": {
-                "img": "/assets/images/general/cat-1.avif"
-              }
-            },
-            {
-              "front": {
-                "img": "/assets/images/general/question-mark.gif"
-              },
-              "back": {
-                "img": "/assets/images/general/cat-2.avif"
-              }
-            },
-            {
-              "front": {
-                "img": "/assets/images/general/question-mark.gif"
-              },
-              "back": {
-                "img": "/assets/images/general/cat-3.avif"
-              }
-            }
-          ]
+          "front": {
+            "img": "",
+            "text": ""
+          },
+          "back": {
+            "img": "",
+            "text": ""
+          }
         }
       ]
     },

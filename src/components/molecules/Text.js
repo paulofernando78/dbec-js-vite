@@ -220,7 +220,7 @@ class Text extends HTMLElement {
 
         if (subItem.collapsible) {
           const collapsible = document.createElement("wc-collapsible");
-          collapsible.data = subItem.collapsible
+          collapsible.data = subItem.collapsible;
           blockElement.appendChild(collapsible);
         }
 
@@ -274,8 +274,13 @@ class Text extends HTMLElement {
           blockElement.appendChild(mark);
         }
 
-        if (subItem.links) {
+        if (Array.isArray(subItem.links) && subItem.links.length) {
+          const ul = document.createElement("ul");
+          
+          
           subItem.links.forEach((link) => {
+            const li = document.createElement("li");
+
             const wcIconItem = document.createElement("wc-icon-item");
             wcIconItem.data = {
               icon: link.icon,
@@ -283,8 +288,12 @@ class Text extends HTMLElement {
               target: link.target,
               label: link.label,
             };
-            blockElement.appendChild(wcIconItem);
+            
+            li.appendChild(wcIconItem);
+            ul.appendChild(li);
           });
+
+          blockElement.appendChild(ul);
         }
       });
 

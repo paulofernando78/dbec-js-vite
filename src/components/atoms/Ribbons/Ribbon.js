@@ -32,9 +32,7 @@ class Ribbon extends HTMLElement {
     const wcIconItem = document.createElement("wc-icon-item");
     wcIconItem.data = {
       icon: ribbon.icon,
-      label: ribbon.label,
-      subIcon: ribbon.subIcon,
-      subLabel: ribbon.subLabel,
+      label: ribbon.label
     };
     container.appendChild(wcIconItem);
   }

@@ -99,7 +99,6 @@
           "fillExercises": [
             {
               "blocks": [
-
                 {
                   "block": [
                     {
@@ -107,7 +106,7 @@
                       "correctAnswer": ["pocket watch"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -118,7 +117,7 @@
                       "correctAnswer": ["cupboard"]
                     },
                     {
-                      "text":	"in the rabbit-hole."
+                      "text": "in the rabbit-hole."
                     }
                   ]
                 },
@@ -129,7 +128,7 @@
                       "correctAnswer": ["key"]
                     },
                     {
-                      "text":	"on the table."
+                      "text": "on the table."
                     }
                   ]
                 },
@@ -140,7 +139,7 @@
                       "correctAnswer": ["bottle"]
                     },
                     {
-                      "text":	"on the table with 'DRINK ME' written on it."
+                      "text": "on the table with 'DRINK ME' written on it."
                     }
                   ]
                 },
@@ -151,7 +150,7 @@
                       "correctAnswer": ["cake"]
                     },
                     {
-                      "text":	"with 'EAT ME' written on it under the table."
+                      "text": "with 'EAT ME' written on it under the table."
                     }
                   ]
                 },
@@ -162,7 +161,7 @@
                       "correctAnswer": ["garden"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 }
@@ -178,8 +177,74 @@
         "label": "Chapters"
       }
     },
-
     {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-1",
+                      "label": "Chapter 1 • Down the Rabbit-hole"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-2",
+                      "label": "Chapter 2 • Alice's Tears"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-3",
+                      "label": "Chapter 3 • A Race"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-4",
+                      "label": "Chapter 4 • The White Rabbit's House"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-5",
+                      "label": "Chapter 5 • The Caterpillar"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-6",
+                      "label": "Chapter 6 • The Duchess and the Cheshire Cat"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-7",
+                      "label": "Chapter 7 • A Tea Party"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-8",
+                      "label": "Chapter 8 • Inside the Garden"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-9",
+                      "label": "Chapter 9 • WhoTook theTarts?"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-10",
+                      "label": "Chapter 10 • Down the Rabbit-hole"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "chapter-1",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 1"
@@ -698,6 +763,7 @@
       ]
     },
     {
+      "anchor": "chapter-2",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 2"
@@ -976,6 +1042,7 @@
       ]
     },
     {
+      "anchor": "chapter-3",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 3 • "
@@ -1085,6 +1152,7 @@
       ]
     },
     {
+      "anchor": "chapter-4",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 4 • "
@@ -1201,6 +1269,7 @@
       ]
     },
     {
+      "anchor": "chapter-5",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 5 • "
@@ -1317,6 +1386,7 @@
       ]
     },
     {
+      "anchor": "chapter-6",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 6 • "
@@ -1433,6 +1503,7 @@
       ]
     },
     {
+      "anchor": "chapter-7",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 7 • "
@@ -1549,6 +1620,7 @@
       ]
     },
     {
+      "anchor": "chapter-8",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 8 • "
@@ -1665,6 +1737,7 @@
       ]
     },
     {
+      "anchor": "chapter-9",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 9 • "
@@ -1781,9 +1854,10 @@
       ]
     },
     {
+      "anchor": "chapter-10",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 10 • "
+        "label": "Chapter 10"
       }
     },
     {

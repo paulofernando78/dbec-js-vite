@@ -28,12 +28,26 @@ class IconItem extends HTMLElement {
       }
     `;
 
-    
-    this.shadowRoot.append(cssImports, css);
+    this.addEventListener("click", (e) => {
+      // Só dispara se for um link anchor e se _data existe
+      if (this._data?.link?.startsWith("#")) {
+        e.preventDefault(); // Previne navegação padrão
 
+        this.dispatchEvent(
+          new CustomEvent("anchor-clicked", {
+            detail: { anchor: this._data.link.replace("#", "") },
+            bubbles: true,
+            composed: true,
+          })
+        );
+      }
+    });
+
+    this.shadowRoot.append(cssImports, css);
   }
 
   set data({ icon, link, target, label }) {
+    this._data = { icon, link, target, label }; // Salva internamente
 
     const svgSpan = document.createElement("span");
 

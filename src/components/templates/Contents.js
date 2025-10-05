@@ -1,5 +1,5 @@
 import cssImportsPath from "/src/css/imports.css?inline";
-import cssContentPath from "/src/css/components/templates/content.css?inline";
+import cssContentPath from "/src/css/components/templates/contents.css?inline";
 
 class Contents extends HTMLElement {
   constructor() {
@@ -68,6 +68,19 @@ class Contents extends HTMLElement {
       }
     `;
     this.shadowRoot.appendChild(css);
+
+    this.addEventListener("anchor-clicked", (e) => {
+      const anchor = e.detail.anchor;
+      console.log("Recieved anchor-clicked for:", anchor);
+
+      const el = this.shadowRoot.getElementById(anchor);
+      console.log("Found element:", el);
+
+      if (el) {
+        el.scrollIntoView({ behavior: "smooth" });
+        console.log("Scrolled to element");
+      }
+    });
   }
 
   set data(content) {
@@ -104,9 +117,17 @@ class Contents extends HTMLElement {
 
       // Ribbon
       if (section.ribbon) {
+        const anchorWrapper = document.createElement("div");
+
+        if (section.anchor) {
+          anchorWrapper.id = section.anchor;
+        }
+
         const ribbon = document.createElement("wc-ribbon");
         ribbon.data = section.ribbon;
-        contentContainer.appendChild(ribbon);
+
+        anchorWrapper.appendChild(ribbon);
+        contentContainer.appendChild(anchorWrapper);
       }
 
       //Card
@@ -130,6 +151,9 @@ class Contents extends HTMLElement {
         });
 
         contentContainer.appendChild(wrapper);
+      }
+
+      if (section.anchorLink) {
       }
 
       // Collapsible
