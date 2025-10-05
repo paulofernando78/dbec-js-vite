@@ -93,14 +93,76 @@
           ]
         },
         {
+          "title": "Fill in the blanks with the correct answer."
+        },
+        {
           "fillExercises": [
             {
               "blocks": [
+
                 {
                   "block": [
                     {
-                      "text": "...",
-                      "correctAnswer": ["..."]
+                      "text": "1. The White Rabbit looked at his",
+                      "correctAnswer": ["pocket watch"]
+                    },
+                    {
+                      "text":	"."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2. Alice saw some books inside a",
+                      "correctAnswer": ["cupboard"]
+                    },
+                    {
+                      "text":	"in the rabbit-hole."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3. Alice found a small",
+                      "correctAnswer": ["key"]
+                    },
+                    {
+                      "text":	"on the table."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4. There was a little",
+                      "correctAnswer": ["bottle"]
+                    },
+                    {
+                      "text":	"on the table with 'DRINK ME' written on it."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "5. Alice found a",
+                      "correctAnswer": ["cake"]
+                    },
+                    {
+                      "text":	"with 'EAT ME' written on it under the table."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "6. Alice looked through the small door and saw a beautiful",
+                      "correctAnswer": ["garden"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 }
