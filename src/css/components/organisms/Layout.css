@@ -12,7 +12,6 @@
   grid-template-rows: auto 1fr auto;
   gap: 10px;
   height: calc(100dvh - 20px);
-  border: 2px solid red;
 }
 
 .grid-span {
