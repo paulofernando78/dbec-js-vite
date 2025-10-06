@@ -72,6 +72,14 @@ class Layout extends HTMLElement {
     // Referência ao container com scroll
     const scrollContainer = app; // já criado anteriormente
 
+    scrollContainer.addEventListener("scroll", () => {
+  if (scrollContainer.scrollTop > 300) {
+    scrollTop.classList.add("visible");
+  } else {
+    scrollTop.classList.remove("visible");
+  }
+});
+
     scrollTop.addEventListener("click", () => {
       app.scrollTo({ top: 0, behavior: "smooth" });
     });
