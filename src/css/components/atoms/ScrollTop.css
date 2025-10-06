@@ -1,9 +1,9 @@
 svg {
   display: block;
-  width: 30px;
+  width: 32px;
   height: 32px;
   border-radius: 50%;
   cursor: pointer;
-  fill: var(--blue-5);
+  /* fill: var(--blue-5); */
   background: white;
 }
