@@ -1,0 +1,42 @@
+.wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+img {
+  position: relative;
+  height: auto;
+}
+
+.wrapper img {
+  margin: 0 auto;
+  border: var(--img-border);
+  border-radius: var(--border-radius);
+}
+
+figcaption {
+  font-size: 0.85rem;
+  font-style: italic;
+  text-align: center;
+  margin-top: 6px;
+  color: #555;
+}
+
+.number {
+  position: absolute;
+  border: 1px solid black;
+  background: white;
+  font-family: courier;
+  font-size: 0.75rem;
+  border-radius: 4px;
+  padding: 2px 5px;
+  top: 8px;
+  left: 8px;
+  color: black;
+}
+
+@media (max-width: 500px) {
+  img {
+    width: 100% !important;
+  }
+}

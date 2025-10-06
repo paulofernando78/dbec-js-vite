@@ -1,5 +1,5 @@
 import cssImportsPath from "/src/css/imports.css?inline";
-import cssScrollTopPath from "/src/css/components/atoms/ScrollTop.css?inline";
+import cssScrollTopPath from "/src/css/components/atoms/scroll-top.css?inline";
 
 import { arrowCircleUp } from "../../assets/images/svg-imports";
 

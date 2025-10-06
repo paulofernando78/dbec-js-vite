@@ -114,11 +114,11 @@ class Text extends HTMLElement {
     let imageWrapper;
     if (hasImage) {
       imageWrapper = document.createElement("div");
-      imageWrapper.classList.add("image-wrapper");
+      imageWrapper.className = "image-wrapper";
       block.images.forEach((img) => {
         const imageElement = document.createElement("wc-image");
         imageElement.data = {
-          width: img.width || "100%",
+          width: img.width || "200px",
           height: img.height || "auto",
           number: img.number || "",
           src: img.src || "",

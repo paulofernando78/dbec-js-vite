@@ -1,5 +1,5 @@
 import cssImportsPath from "/src/css/imports.css?inline";
-import cssLayoutPath from "/src/css/components/organisms/Layout.css?inline";
+import cssLayoutPath from "/src/css/components/organisms/layout.css?inline";
 
 class Layout extends HTMLElement {
   constructor() {

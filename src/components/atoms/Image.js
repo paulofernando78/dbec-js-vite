@@ -1,70 +1,26 @@
 import cssImportsPath from "/src/css/imports.css?inline";
+import cssImagePath from "/src/css/components/atoms/image.css?inline";
 
 class Image extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-  }
 
+  }
+  
   set data(img) {
     if (!img) {
       this.shadowRoot.innerHTML = "";
       return;
     }
-
+    
     this.shadowRoot.innerHTML = "";
 
-    const cssImports = document.createElement("style");
-    cssImports.textContent = cssImportsPath;
-    this.shadowRoot.appendChild(cssImports);
-
-    const css = document.createElement("style"); /*css*/
-    css.textContent = `
-    .wrapper {
-      position: relative;
-      display: inline-block;
-    } 
-    
-    img {
-      position: relative;
-      height: auto;
-    }
-
-    .wrapper img {
-      margin: 0 auto;
-      border: var(--img-border);
-      border-radius: var(--border-radius);
-    }
-
-    figcaption {
-      font-size: 0.85rem;
-      font-style: italic;
-      text-align: center;
-      margin-top: 6px;
-      color: #555
-    }
-
-    .number {
-      position: absolute;
-      border: 1px solid black;
-      background: white;
-      font-family: courier;
-      font-size: .75rem;
-      border-radius: 4px;
-      padding: 2px 5px;
-      top: 8px;
-      left: 8px;
-      color: black;
-    }
-
-      @media (max-width: 500px) {
-        img {
-          width: 100% !important;
-        }
-    }
-  }
-    `;
-    this.shadowRoot.appendChild(css);
+    [cssImportsPath, cssImagePath].forEach((css) => {
+      const style = document.createElement("style");
+      style.textContent = css;
+      this.shadowRoot.appendChild(style);
+    });
 
     const wrapper = document.createElement("div");
     wrapper.classList.add("wrapper");

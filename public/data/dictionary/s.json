@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "saree",
+        "phonetics": "/ˈsɑː.ri/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a traditional garment worn by women in South Asia, consisting of a long piece of cloth that is wrapped around the body and draped over the shoulder",
+        "ptDefinition": "vestimenta tradicional usada por mulheres no sul da Ásia, composta por um longo pedaço de tecido enrolado no corpo e jogado sobre o ombro",
+        "examples": [
+          {
+        "enExample": "She wore a beautiful silk saree to the wedding.",
+        "ptExample": "Ela usou um lindo saree de seda no casamento."
+          },
+          {
+        "enExample": "The saree is often chosen for festivals and formal occasions.",
+        "ptExample": "O saree é frequentemente escolhido para festivais e ocasiões formais."
+          }
+        ],
+        "synonyms": ["sari", "traditional dress", "garment"],
+        "antonyms": ["western dress", "pants", "skirt"],
+        "seeAlso": ["sari", "lehenga", "salwar kameez"],
+        "notes": [
+          {
+        "enNote": "Sarees are made from various fabrics such as cotton, silk, and synthetic materials, and are worn in different styles depending on the region.",
+        "ptNote": "Sarees são feitos de vários tecidos como algodão, seda e materiais sintéticos, e são usados em diferentes estilos dependendo da região."
+          }
+        ]
+      },
+      {
         "word": "strange",
         "phonetics": "/streɪndʒ/",
         "partOfSpeech": "adjective",

@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "India",
+        "phonetics": "/ˈɪn.di.ə/",
+        "partOfSpeech": "proper noun",
+        "enDefinition": "a country in South Asia, known for its diverse culture, languages, and history; the seventh-largest country by land area and the most populous democracy in the world",
+        "ptDefinition": "um país no sul da Ásia, conhecido por sua cultura, línguas e história diversas; o sétimo maior país em área e a democracia mais populosa do mundo",
+        "examples": [
+          {
+        "enExample": "India is famous for the Taj Mahal and its rich traditions.",
+        "ptExample": "A Índia é famosa pelo Taj Mahal e suas ricas tradições."
+          },
+          {
+        "enExample": "She traveled to India to learn about its cuisine.",
+        "ptExample": "Ela viajou para a Índia para conhecer sua culinária."
+          }
+        ],
+        "synonyms": ["Republic of India", "Bharat"],
+        "seeAlso": "Indian, South Asia, New Delhi",
+        "notes": [
+          {
+        "enNote": "India is the birthplace of major religions such as Hinduism, Buddhism, Jainism, and Sikhism.",
+        "ptNote": "A Índia é o berço de grandes religiões como hinduísmo, budismo, jainismo e sikhismo."
+          }
+        ]
+      },
+      {
         "word": "island",
         "phonetics": "/ˈaɪ.lənd/ (US)",
         "partOfSpeech": "noun",

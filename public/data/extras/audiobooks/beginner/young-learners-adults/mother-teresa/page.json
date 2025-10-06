@@ -90,56 +90,63 @@
       }
     },
     {
-      "hangman": [
+      "guessWord": [
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "hint": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/india-globe.png",
+          "word": "india"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "hint": "",
-          "word": ""
-        },
+          "imageSrc": "/assets/images/general/saree.avif",
+          "word": "saree"
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "bookmark",
+        "label": "Chapters"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "hint": "",
-          "word": ""
-        },
-        {
-          "imageSrc": "/assets/images/general/.avif",
-          "hint": "",
-          "word": ""
-        },
-        {
-          "imageSrc": "/assets/images/general/.avif",
-          "hint": "",
-          "word": ""
-        },
-        {
-          "imageSrc": "/assets/images/general/.avif",
-          "hint": "",
-          "word": ""
-        },
-        {
-          "imageSrc": "/assets/images/general/.avif",
-          "hint": "",
-          "word": ""
-        },
-        {
-          "imageSrc": "/assets/images/general/.avif",
-          "hint": "",
-          "word": ""
-        },
-        {
-          "imageSrc": "/assets/images/general/.avif",
-          "hint": "",
-          "word": ""
-        },
-        {
-          "imageSrc": "/assets/images/general/.avif",
-          "hint": "",
-          "word": ""
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-1",
+                      "label": "Chapter 1 • Agnes-Gonxha"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-2",
+                      "label": "Chapter 2 • To India"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-3",
+                      "label": "Chapter 3 • The Streets of Calcutta"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-4",
+                      "label": "Chapter 4 • The Blue and White Sari"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-5",
+                      "label": "Chapter 5 • 'A love letter to the world'"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -163,13 +170,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-1.avif",
-              "alt": "Chapter 1 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -328,6 +328,45 @@
       ]
     },
     {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "icon": "mouse"
+                },
+                {
+                  "boldText": "Click or "
+                },
+                {
+                  "icon": "tap"
+                },
+                {
+                  "boldText": "tap the cards to flip, then retell the story."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flipCard": [
+        {
+          "ratio": "portrait",
+          "front": {
+            "img": "",
+            "text": "1"
+          },
+          "back": {
+            "img": "",
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "map",
         "label": "Map of Calcutta"
@@ -347,13 +386,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-2.avif",
-              "alt": "Chapter 2 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -496,14 +528,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-3.avif",
-              "alt": "Chapter 3 image"
-            }
-          ],
-
           "blocks": [
             {
               "block": [
@@ -678,13 +702,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-4.avif",
-              "alt": "Chapter 4 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -801,7 +818,7 @@
                 }
               ],
               "lineBreak": true
-            }, 
+            },
             {
               "block": [
                 {
@@ -841,13 +858,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-5.avif",
-              "alt": "Chapter 5 image"
-            }
-          ],
           "blocks": [
             {
               "block": [{ "textIndent": true, "text": "..." }]
@@ -865,13 +875,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-6.avif",
-              "alt": "Chapter 6 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -901,13 +904,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-7.avif",
-              "alt": "Chapter 7 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -937,13 +933,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-8.avif",
-              "alt": "Chapter 8 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -973,13 +962,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-9.avif",
-              "alt": "Chapter 9 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -1009,13 +991,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-10.avif",
-              "alt": "Chapter 10 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -1045,13 +1020,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-11.avif",
-              "alt": "Chapter 11 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -1081,13 +1049,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-12.avif",
-              "alt": "Chapter 12 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -1117,13 +1078,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-13.avif",
-              "alt": "Chapter 13 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -1153,13 +1107,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-14.avif",
-              "alt": "Chapter 14 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
@@ -1189,49 +1136,6 @@
     {
       "text": [
         {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-15.avif",
-              "alt": "Chapter 15 image"
-            }
-          ],
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "..."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 16 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "images": [
-            {
-              "position": "right",
-              "src": "/assets/images/extras/audiobooks/starter/.../chapter-16.avif",
-              "alt": "Chapter 16 image"
-            }
-          ],
           "blocks": [
             {
               "block": [
