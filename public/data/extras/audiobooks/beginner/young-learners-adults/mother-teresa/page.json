@@ -141,6 +141,11 @@
                       "icon": "bookmark",
                       "link": "#chapter-5",
                       "label": "Chapter 5 • 'A love letter to the world'"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-6",
+                      "label": "Chapter 6 • A Light in a Dark Time"
                     }
                   ]
                 }
@@ -162,9 +167,10 @@
       }
     },
     {
+      "anchor": "chapter-1",
       "ribbon": {
         "icon": "snippet",
-        "label": "Agnes Gonxha"
+        "label": "Chapter 1 • Agnes-Gonxha"
       }
     },
     {
@@ -378,9 +384,10 @@
       }
     },
     {
+      "anchor": "chapter-2",
       "ribbon": {
         "icon": "snippet",
-        "label": "To India "
+        "label": "Chapter 2 • To India"
       }
     },
     {
@@ -520,9 +527,10 @@
       ]
     },
     {
+      "anchor": "chapter-3",
       "ribbon": {
         "icon": "snippet",
-        "label": "The Blue and White Sari"
+        "label": "Chapter 3 • The Streets of Calcutta"
       }
     },
     {
@@ -694,9 +702,10 @@
       ]
     },
     {
+      "anchor": "chapter-4",
       "ribbon": {
         "icon": "snippet",
-        "label": "'A love letter to the world'"
+        "label": "Chapter 4 • The Blue and White Sari"
       }
     },
     {
@@ -850,9 +859,10 @@
       ]
     },
     {
+      "anchor": "chapter-5",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 5 • "
+        "label": "Chapter 5 • 'A love letter to the world'"
       }
     },
     {
@@ -867,270 +877,10 @@
       ]
     },
     {
+      "anchor": "chapter-6",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 6 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "..."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 7 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "..."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 8 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "..."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 9 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "..."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 10 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "..."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 11 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "..."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 12 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "..."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 13 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "..."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 14 • "
-      }
-    },
-    {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "..."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Chapter 15 • "
+        "label": "Chapter 6 • A Light in a Dark Time"
       }
     },
     {
