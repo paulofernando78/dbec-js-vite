@@ -1,5 +1,6 @@
 // Atoms
 import Audio from "./atoms/Audio";
+import ScrollTop from "./atoms/ScrollTop";
 import AudioPlayer from "./atoms/AudioPlayer";
 import Note from "./atoms/Note";
 import Button from "./atoms/Button";
@@ -64,6 +65,7 @@ import DataPage from "../js/data-page";
 
 // Atoms
 customElements.define("wc-audio", Audio);
+customElements.define("wc-scroll-top", ScrollTop);
 customElements.define("wc-audio-player", AudioPlayer);
 customElements.define("wc-note", Note);
 customElements.define("wc-button", Button);

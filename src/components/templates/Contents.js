@@ -89,7 +89,7 @@ class Contents extends HTMLElement {
 
   render(content) {
     const contentContainer = document.createElement("div");
-    contentContainer.classList.add("line-break");
+    contentContainer.className = "line-break content-container";
 
     // Whiteboard
     const whiteboard = document.createElement("wc-whiteboard");
@@ -268,7 +268,7 @@ class Contents extends HTMLElement {
 
       if (section.dashedHr) {
         const dashedHr = document.createElement("hr");
-        dashedHr.classList.add("dashed-hr");
+        dashedHr.className = "dashed-hr";
         contentContainer.appendChild(dashedHr);
       }
 

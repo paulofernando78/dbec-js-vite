@@ -1,13 +1,16 @@
 import cssImportsPath from "/src/css/imports.css?inline";
+import cssLayoutPath from "/src/css/components/organisms/Layout.css?inline";
 
 class Layout extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    const cssImports = document.createElement("style");
-    cssImports.textContent = cssImportsPath;
-    this.shadowRoot.appendChild(cssImports);
+    [cssImportsPath, cssLayoutPath].forEach((css) => {
+      const style = document.createElement("style");
+      style.textContent = css;
+      this.shadowRoot.appendChild(style);
+    });
 
     const style = document.createElement("style"); /*css*/
     style.textContent = `
@@ -62,6 +65,16 @@ class Layout extends HTMLElement {
     const app = document.createElement("div");
     app.id = "app";
     layout.appendChild(app);
+
+    const scrollTop = document.createElement("wc-scroll-top");
+    this.shadowRoot.appendChild(scrollTop);
+
+    // Referência ao container com scroll
+    const scrollContainer = app; // já criado anteriormente
+
+    scrollTop.addEventListener("click", () => {
+      app.scrollTo({ top: 0, behavior: "smooth" });
+    });
 
     const footer = document.createElement("wc-footer");
     footer.classList.add("grid-span");

@@ -1,0 +1,7 @@
+svg {
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+  fill: var(--blue-5)
+  
+}

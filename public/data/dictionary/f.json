@@ -2,8 +2,34 @@
   {
     "definitions": [
       {
+        "word": "falter",
+        "phonetics": "/ˈfɒl.tər/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to lose strength or momentum; to hesitate or waver in action, speech, or confidence",
+        "ptDefinition": "perder força ou ímpeto; hesitar ou vacilar na ação, fala ou confiança",
+        "examples": [
+          {
+        "enExample": "Her voice faltered as she tried to explain what happened.",
+        "ptExample": "A voz dela vacilou enquanto tentava explicar o que aconteceu."
+          },
+          {
+        "enExample": "He did not falter in his determination to succeed.",
+        "ptExample": "Ele não vacilou em sua determinação de ter sucesso."
+          }
+        ],
+        "synonyms": ["hesitate", "waver", "stumble", "flinch"],
+        "antonyms": ["persist", "continue", "advance"],
+        "seeAlso": "hesitate, waver",
+        "notes": [
+          {
+        "enNote": "Often used to describe a moment of uncertainty or weakness in speech or action.",
+        "ptNote": "Frequentemente usado para descrever um momento de incerteza ou fraqueza na fala ou ação."
+          }
+        ]
+      },
+      {
         "word": "fish",
-        "phonetics": "/fɪʃ/ (US)",
+        "phonetics": "/fɪʃ/",
         "partOfSpeech": "noun",
         "enDefinition": "an animal that lives in water, breathes through gills, and usually has fins and scales",
         "ptDefinition": "um animal que vive na água, respira por brânquias e geralmente tem nadadeiras e escamas",

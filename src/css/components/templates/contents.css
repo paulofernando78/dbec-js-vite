@@ -1,7 +1,7 @@
 .flip-card-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px
+  gap: 8px;
 }
 
 .link-container {
