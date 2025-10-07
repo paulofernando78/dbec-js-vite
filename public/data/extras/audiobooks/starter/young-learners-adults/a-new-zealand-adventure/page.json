@@ -288,6 +288,106 @@
     },
     {
       "ribbon": {
+        "icon": "bookmark",
+        "label": "Paragraphs"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 1"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 2"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 3"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 4"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 5"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 6"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 7"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 8"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 9"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 10"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 11"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 12"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 13"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 14"
+                    }
+                    ,
+                    {
+                      "icon": "bookmark",
+                      "link": "#storytelling",
+                      "label": "Picture Storytelling"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
         "icon": "map",
         "label": "Map of New Zealand"
       }
@@ -1483,6 +1583,7 @@
       ]
     },
     {
+      "anchor": "storytelling",
       "ribbon": {
         "icon": "speak",
         "label": "Picture Storytelling"
@@ -1666,13 +1767,6 @@
           "back": {
             "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-14.avif",
             "text": ""
-          }
-        },
-        {
-          "ratio": "portrait",
-          "front": {
-            "img": "",
-            "text": "15"
           }
         }
       ]

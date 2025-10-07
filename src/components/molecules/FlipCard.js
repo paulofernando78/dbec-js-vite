@@ -12,6 +12,11 @@ class FlipCard extends HTMLElement {
       this.shadowRoot.appendChild(style);
     });
 
+    // Container
+    const container = document.createElement("div");
+    container.className = "container"
+    this.shadowRoot.appendChild(container);
+
     const flipCard = document.createElement("div");
     flipCard.className = "flip-card";
 
@@ -19,7 +24,7 @@ class FlipCard extends HTMLElement {
       flipCard.classList.toggle("flipped");
     });
 
-    this.shadowRoot.appendChild(flipCard);
+    container.appendChild(flipCard);
 
     const flipCardInner = document.createElement("div");
     flipCardInner.className = "flip-card-inner";
@@ -51,6 +56,9 @@ class FlipCard extends HTMLElement {
     backText.className = "back-text";
     backText.textContent = "Back";
     flipCardBack.appendChild(backText);
+
+    const board = document.createElement("wc-board");
+    container.appendChild(board);
   }
 
   set data({ ratio, front, back }) {
