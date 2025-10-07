@@ -134,7 +134,7 @@ class Text extends HTMLElement {
     let videoWrapper;
     if (hasVideo) {
       videoWrapper = document.createElement("div");
-      videoWrapper.classList.add("video-wrapper");
+      videoWrapper.className = "video-wrapper";
 
       block.videoPlayer.forEach((video) => {
         const videoElement = document.createElement("wc-video-player");
@@ -150,7 +150,7 @@ class Text extends HTMLElement {
     block.blocks.forEach((item) => {
       if (item.audioPlayer) {
         const wrapper = document.createElement("div");
-        wrapper.classList.add("audio-wrapper");
+        wrapper.className = "audio-wrapper";
 
         const audioPlayer = document.createElement("wc-audio-player");
         audioPlayer.data = { src: item.audioPlayer.src };
@@ -187,7 +187,7 @@ class Text extends HTMLElement {
 
         if (subItem.icon) {
           const span = document.createElement("span");
-          span.classList.add("icon");
+          span.className = "icon";
           span.innerHTML = icons[subItem.icon];
           blockElement.appendChild(span);
         }
@@ -201,14 +201,14 @@ class Text extends HTMLElement {
         if (subItem.phonetics) {
           const phonetics = document.createElement("span");
           phonetics.textContent = subItem.phonetics;
-          phonetics.classList.add("phonetics");
+          phonetics.className = "phonetics";
           blockElement.appendChild(phonetics);
         }
 
         if (subItem.partOfSpeech) {
           const partOfSpeech = document.createElement("span");
           partOfSpeech.textContent = subItem.partOfSpeech;
-          partOfSpeech.classList.add("part-of-speech");
+          partOfSpeech.className = "part-of-speech";
           blockElement.appendChild(partOfSpeech);
         }
 

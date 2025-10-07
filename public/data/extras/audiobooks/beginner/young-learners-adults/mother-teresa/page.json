@@ -202,9 +202,13 @@
         {
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/extras/audiobooks/beginner/young-learners-adults/mother-teresa/chapter-1.mp3"
+              },
               "block": [
                 {
-                  "text": "Agnes-Gonxha"
+                  "boldText": "Agnes-Gonxha"
                 }
               ],
               "lineBreak": true
@@ -427,9 +431,13 @@
         {
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/extras/audiobooks/beginner/young-learners-adults/mother-teresa/chapter-2.mp3"
+              },
               "block": [
                 {
-                  "text": "To India"
+                  "boldText": "To India"
                 }
               ],
               "lineBreak": true
@@ -577,6 +585,10 @@
         {
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/extras/audiobooks/beginner/young-learners-adults/mother-teresa/chapter-3.mp3"
+              },
               "block": [
                 {
                   "boldText": "The Streets of Calcutta"
@@ -735,9 +747,13 @@
         {
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/extras/audiobooks/beginner/young-learners-adults/mother-teresa/chapter-4.mp3"
+              },
               "block": [
                 {
-                  "text": "The Blue and White Sari"
+                  "boldText": "The Blue and White Sari"
                 }
               ],
               "lineBreak": true
@@ -917,9 +933,13 @@
         {
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/extras/audiobooks/beginner/young-learners-adults/mother-teresa/chapter-5.mp3"
+              },
               "block": [
                 {
-                  "text": "'A love letter to the world'"
+                  "boldText": "'A love letter to the world'"
                 }
               ],
               "lineBreak": true
@@ -1083,6 +1103,10 @@
         {
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/extras/audiobooks/beginner/young-learners-adults/mother-teresa/chapter-6.mp3"
+              },
               "block": [
                 {
                   "boldText": "A Light in a Dark Time"
@@ -1093,8 +1117,7 @@
             {
               "block": [
                 {
-                  "textIndent": true,
-                  "text": "..."
+                  "text": "Mother Teresa died in September 1997 at the home of the Missionaries of Charity in Calcutta. At that time, there were 4,000 Missionaries of Charity in 123 countries, and 3,000,000 people worked with them."
                 }
               ]
             },
@@ -1102,7 +1125,7 @@
               "block": [
                 {
                   "textIndent": true,
-                  "text": "..."
+                  "text": "People wanted to see her and say goodbye to her. Poor people from Calcutta and people from the government of India came. Important people arrived from many countries."
                 }
               ]
             },
@@ -1110,7 +1133,7 @@
               "block": [
                 {
                   "textIndent": true,
-                  "text": "..."
+                  "text": "One person said about her, 'She was a light in a dark time."
                 }
               ]
             },
@@ -1118,103 +1141,7 @@
               "block": [
                 {
                   "textIndent": true,
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
+                  "text": "Mother Teresa was a light for the poor people of Calcutta, but she is a light for all of us too, in every country of the world."
                 }
               ]
             }
@@ -1239,38 +1166,23 @@
             {
               "block": [
                 {
-                  "text": "6.1"
+                  "text": "6.1 When and where did Mother Teresa die, and how many Missionaries of Charity were there at that time?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "6.2"
+                  "text": "6.2 Who came to say goodbye to Mother Teresa after her death?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "6.3"
+                  "text": "6.3 Why is Mother Teresa described as 'a light in a dark time'?"
                 }
               ]
-            },
-            {
-              "block": [
-                {
-                  "text": "6.4"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "text": "6.5"
-                }
-              ],
-              "lineBreak": true
             },
             {
               "block": [
@@ -1279,19 +1191,13 @@
                     "title": "Answers",
                     "contents": [
                       {
-                        "content": "6.1"
+                        "content": "6.1 Mother Teresa died in September 1997 at the Missionaries of Charity home in Calcutta. At that time, there were 4,000 Missionaries of Charity in 123 countries."
                       },
                       {
-                        "content": "6.2"
+                        "content": "6.2 Poor people from Calcutta, people from the Indian government, and important people from many countries came to say goodbye."
                       },
                       {
-                        "content": "6.3"
-                      },
-                      {
-                        "content": "6.4"
-                      },
-                      {
-                        "content": "6.5"
+                        "content": "6.3 She is described as 'a light in a dark time' because she brought hope and help to the poor and inspired people all over the world."
                       }
                     ]
                   }
