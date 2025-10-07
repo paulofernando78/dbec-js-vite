@@ -2,6 +2,53 @@
   {
     "definitions": [
       {
+        "word": "",
+        "phonetics": "",
+        "partOfSpeech": "",
+        "enDefinition": "",
+        "ptDefinition": "",
+        "examples": [
+          {
+            "enExample": "",
+            "ptExample": ""
+          }
+        ],
+        "synonyms": "",
+        "antonyms": "",
+        "seeAlso": "",
+        "notes": [
+          {
+            "enNote": "",
+            "ptNote": ""
+          }
+        ]
+      },
+      {
+        "word": "pocket",
+        "phonetics": "/ˈpɑː.kɪt/ US /ˈpɒk.ɪt/ UK",
+        "partOfSpeech": "noun",
+        "enDefinition": "a small pouch sewn into or on clothing, used for carrying small items; a small bag or compartment in something",
+        "ptDefinition": "um pequeno bolso costurado em ou sobre uma peça de roupa, usado para carregar pequenos objetos; compartimento pequeno em algo",
+        "examples": [
+          {
+            "enExample": "He put his keys in his pocket.",
+            "ptExample": "Ele colocou as chaves no bolso."
+          },
+          {
+            "enExample": "Her coat has two large pockets.",
+            "ptExample": "O casaco dela tem dois bolsos grandes."
+          }
+        ],
+        "synonyms": ["compartment", "pouch", "slot"],
+        "seeAlso": ["wallet", "purse", "bag"],
+        "notes": [
+          {
+            "enNote": "The word 'pocket' can also be used figuratively, as in 'deep pockets' (meaning wealth) or 'out of pocket' (meaning having spent money or unavailable).",
+            "ptNote": "A palavra 'pocket' também pode ser usada de forma figurada, como em 'deep pockets' (pessoa rica) ou 'out of pocket' (ter gasto dinheiro ou estar indisponível)."
+          }
+        ]
+      },
+      {
         "word": "plane",
         "phonetics": "/pleɪn/",
         "partOfSpeech": "noun",

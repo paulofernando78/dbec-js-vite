@@ -130,7 +130,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "R",
                       "date": "Thu 2",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -140,9 +140,9 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Tue 7",
-                      "classNotes": "",
+                      "classNotes": "Finished reading Flying Home",
                       "homeworkNotes": ""
                     }
                   ]

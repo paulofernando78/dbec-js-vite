@@ -60,7 +60,7 @@ class FlipCard extends HTMLElement {
     flipCardBack.appendChild(backText);
 
     const board = document.createElement("textarea");
-    board.placeholder = "Write here..."
+    board.placeholder = "Notes..."
     container.appendChild(board);
   }
 
