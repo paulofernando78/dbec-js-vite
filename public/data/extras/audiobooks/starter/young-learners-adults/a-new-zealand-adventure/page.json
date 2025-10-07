@@ -371,8 +371,7 @@
                       "icon": "bookmark",
                       "link": "#paragraph-1",
                       "label": "Paragraph 14"
-                    }
-                    ,
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#storytelling",
@@ -1616,6 +1615,10 @@
     {
       "flipCard": [
         {
+          "board": {
+            "id": "",
+            "description": "aaa"
+          },
           "ratio": "portrait",
           "front": {
             "img": "",
