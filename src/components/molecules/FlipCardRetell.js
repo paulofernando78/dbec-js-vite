@@ -1,7 +1,7 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 import cssFlipCardPath from "/src/css/components/molecules/flip-card.css?inline";
 
-class FlipCard extends HTMLElement {
+class FlipCardRetell extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -38,11 +38,11 @@ class FlipCard extends HTMLElement {
 
     const frontImage = document.createElement("img");
     frontImage.className = "front-image";
+    frontImage.src = "/assets/images/general/question-mark.gif";
     flipCardFront.appendChild(frontImage);
 
     const frontText = document.createElement("span");
     frontText.className = "front-text";
-    frontText.textContent = "Front";
     flipCardFront.appendChild(frontText);
 
     // Back Card
@@ -54,41 +54,21 @@ class FlipCard extends HTMLElement {
     backImage.className = "back-image";
     flipCardBack.appendChild(backImage);
 
-    const backText = document.createElement("span");
-    backText.className = "back-text";
-    backText.textContent = "Back";
-    flipCardBack.appendChild(backText);
-
     const board = document.createElement("textarea");
     board.placeholder = "Notes";
     container.appendChild(board);
   }
 
-  set data({ ratio, front, back }) {
+  set data({ index, img }) {
     const flipCard = this.shadowRoot.querySelector(".flip-card");
+    flipCard.classList.add("portrait");
 
-    if (ratio) {
-      flipCard.classList.add(ratio);
-    } else {
-      flipCard.classList.add("square");
-    }
+    const frontText = this.shadowRoot.querySelector(".front-text");
+    const backImage = this.shadowRoot.querySelector(".back-image");
 
-    const frontEl = this.shadowRoot.querySelector(".flip-card-front");
-    const backEl = this.shadowRoot.querySelector(".flip-card-back");
-
-    if (front) {
-      frontEl.querySelector("img").src =
-        front.img || "/assets/images/general/question-mark.gif";
-      frontEl.querySelector(".front-image").style.width =
-        front.imgWidth || "80px";
-      frontEl.querySelector("span").textContent = front.text || "";
-    }
-
-    if (back) {
-      backEl.querySelector("img").src = back.img || "";
-      backEl.querySelector("span").textContent = back.text || "";
-    }
+    if (frontText) frontText.textContent = `${index + 1}`;
+    if (backImage) backImage.src = img;
   }
 }
 
-export default FlipCard;
+export default FlipCardRetell;

@@ -246,6 +246,19 @@ class Contents extends HTMLElement {
         });
       }
 
+      // Flip Cards Retell
+      if (section.flipCardRetell) {
+        const flipCardWrapper = document.createElement("div");
+        flipCardWrapper.classList.add("flip-card-container");
+        contentContainer.appendChild(flipCardWrapper);
+
+        section.flipCardRetell.forEach((item, index) => {
+          const flip = document.createElement("wc-flip-card-retell");
+          flip.data = { ...item, index};
+          flipCardWrapper.appendChild(flip);
+        });
+      }
+
       // Exercises
       if (section.exercises) {
         const exercise = document.createElement("wc-exercise");

@@ -1266,17 +1266,15 @@
       ]
     },
     {
-      "flipCard": [
+      "flipCardRetell": [
         {
-          "ratio": "",
-          "front": {
-            "img": "",
-            "text": ""
-          },
-          "back": {
-            "img": "",
-            "text": ""
-          }
+          "img": "/assets/images/general/cat-1.avif"
+        },
+        {
+          "img": "/assets/images/general/cat-2.avif"
+        },
+        {
+          "img": "/assets/images/general/cat-3.avif"
         }
       ]
     }
