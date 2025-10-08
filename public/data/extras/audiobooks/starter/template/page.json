@@ -55,7 +55,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -65,12 +69,106 @@
       ]
     },
     {
-      "audioPlayer": {
-        "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/starter/.../audio.mp3"
+      "ribbon": {
+        "icon": "bookmarks",
+        "label": "Paragraphs"
       }
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 1"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 2"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 3"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 4"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 5"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 6"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 7"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 8"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 9"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 10"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 11"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 12"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 13"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 14"
+                    },
+                    {
+                      "icon": "picture",
+                      "link": "#retelling",
+                      "label": "Retelling the story"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "paragraph-1",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 1"
@@ -100,7 +198,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -137,9 +239,10 @@
       ]
     },
     {
+      "anchor": "paragraph-2",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 2 • "
+        "label": "Paragraph 2"
       }
     },
     {
@@ -166,7 +269,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -203,9 +310,10 @@
       ]
     },
     {
+      "anchor": "paragraph-3",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 3 • "
+        "label": "Paragraph 3"
       }
     },
     {
@@ -232,7 +340,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -269,9 +381,10 @@
       ]
     },
     {
+      "anchor": "paragraph-4",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 4 • "
+        "label": "Paragraph 4"
       }
     },
     {
@@ -298,7 +411,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -335,9 +452,10 @@
       ]
     },
     {
+      "anchor": "paragraph-5",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 5 • "
+        "label": "Paragraph 5"
       }
     },
     {
@@ -364,7 +482,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -401,9 +523,10 @@
       ]
     },
     {
+      "anchor": "paragraph-6",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 6 • "
+        "label": "Paragraph 6"
       }
     },
     {
@@ -430,7 +553,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -467,9 +594,10 @@
       ]
     },
     {
+      "anchor": "paragraph-7",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 7 • "
+        "label": "Paragraph 7"
       }
     },
     {
@@ -496,7 +624,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -533,9 +665,10 @@
       ]
     },
     {
+      "anchor": "paragraph-8",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 8 • "
+        "label": "Paragraph 8"
       }
     },
     {
@@ -562,7 +695,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -599,9 +736,10 @@
       ]
     },
     {
+      "anchor": "paragraph-9",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 9 • "
+        "label": "Paragraph 9"
       }
     },
     {
@@ -628,7 +766,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -665,9 +807,10 @@
       ]
     },
     {
+      "anchor": "paragraph-10",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 10 • "
+        "label": "Paragraph 10"
       }
     },
     {
@@ -694,7 +837,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -731,9 +878,10 @@
       ]
     },
     {
+      "anchor": "paragraph-11",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 11 • "
+        "label": "Paragraph 11"
       }
     },
     {
@@ -760,7 +908,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -797,9 +949,10 @@
       ]
     },
     {
+      "anchor": "paragraph-12",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 12 • "
+        "label": "Paragraph 12"
       }
     },
     {
@@ -826,7 +979,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -863,9 +1020,10 @@
       ]
     },
     {
+      "anchor": "paragraph-13",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 13 • "
+        "label": "Paragraph 13"
       }
     },
     {
@@ -892,7 +1050,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -929,9 +1091,10 @@
       ]
     },
     {
+      "anchor": "paragraph-14",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 14 • "
+        "label": "Paragraph 14"
       }
     },
     {
@@ -958,7 +1121,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -995,9 +1162,10 @@
       ]
     },
     {
+      "anchor": "paragraph-15",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 15 • "
+        "label": "Paragraph 15"
       }
     },
     {
@@ -1024,7 +1192,11 @@
                 {
                   "collapsible": {
                     "title": "Translation",
-                    "content": "..."
+                    "contents": [
+                      {
+                        "content": ""
+                      }
+                    ]
                   }
                 }
               ]
@@ -1057,6 +1229,54 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "anchor": "retelling",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Retelling the story"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "icon": "mouse"
+                },
+                {
+                  "boldText": "Click or "
+                },
+                {
+                  "icon": "tap"
+                },
+                {
+                  "boldText": "tap to flip the cards to see each part of the story. Can you remember what happened? Retell the story in your own words. Take notes if you like!."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flipCard": [
+        {
+          "ratio": "",
+          "front": {
+            "img": "",
+            "text": ""
+          },
+          "back": {
+            "img": "",
+            "text": ""
+          }
         }
       ]
     }

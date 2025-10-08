@@ -52,6 +52,7 @@ class FlipCard extends HTMLElement {
     flipCardInner.appendChild(flipCardBack);
 
     const backImage = document.createElement("img");
+    backImage.className = "back-image";
     flipCardBack.appendChild(backImage);
 
     const backText = document.createElement("span");

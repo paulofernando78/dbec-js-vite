@@ -288,7 +288,7 @@
     },
     {
       "ribbon": {
-        "icon": "bookmark",
+        "icon": "bookmarks",
         "label": "Paragraphs"
       }
     },
@@ -309,72 +309,72 @@
                     },
                     {
                       "icon": "bookmark",
-                      "link": "#paragraph-1",
+                      "link": "#paragraph-2",
                       "label": "Paragraph 2"
                     },
                     {
                       "icon": "bookmark",
-                      "link": "#paragraph-1",
+                      "link": "#paragraph-3",
                       "label": "Paragraph 3"
                     },
                     {
                       "icon": "bookmark",
-                      "link": "#paragraph-1",
+                      "link": "#paragraph-4",
                       "label": "Paragraph 4"
                     },
                     {
                       "icon": "bookmark",
-                      "link": "#paragraph-1",
+                      "link": "#paragraph-5",
                       "label": "Paragraph 5"
                     },
                     {
                       "icon": "bookmark",
-                      "link": "#paragraph-1",
+                      "link": "#paragraph-6",
                       "label": "Paragraph 6"
                     },
                     {
                       "icon": "bookmark",
-                      "link": "#paragraph-1",
+                      "link": "#paragraph-7",
                       "label": "Paragraph 7"
                     },
                     {
                       "icon": "bookmark",
-                      "link": "#paragraph-1",
+                      "link": "#paragraph-8",
                       "label": "Paragraph 8"
                     },
                     {
                       "icon": "bookmark",
-                      "link": "#paragraph-1",
+                      "link": "#paragraph-9",
                       "label": "Paragraph 9"
                     },
                     {
                       "icon": "bookmark",
-                      "link": "#paragraph-1",
+                      "link": "#paragraph-10",
                       "label": "Paragraph 10"
                     },
                     {
                       "icon": "bookmark",
-                      "link": "#paragraph-1",
+                      "link": "#paragraph-11",
                       "label": "Paragraph 11"
                     },
                     {
                       "icon": "bookmark",
-                      "link": "#paragraph-1",
+                      "link": "#paragraph-12",
                       "label": "Paragraph 12"
                     },
                     {
                       "icon": "bookmark",
-                      "link": "#paragraph-1",
+                      "link": "#paragraph-13",
                       "label": "Paragraph 13"
                     },
                     {
                       "icon": "bookmark",
-                      "link": "#paragraph-1",
+                      "link": "#paragraph-14",
                       "label": "Paragraph 14"
                     },
                     {
-                      "icon": "bookmark",
-                      "link": "#storytelling",
+                      "icon": "picture",
+                      "link": "#retelling",
                       "label": "Picture Storytelling"
                     }
                   ]
@@ -432,6 +432,7 @@
       }
     },
     {
+      "anchor": "paragraph-1",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 1"
@@ -527,11 +528,10 @@
       ]
     },
     {
+      "anchor": "paragraph-2",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 2",
-        "subIcon": "schedule",
-        "subLabel": "0:31"
+        "label": "Paragraph 2"
       }
     },
     {
@@ -602,6 +602,7 @@
       ]
     },
     {
+      "anchor": "paragraph-3",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 3"
@@ -686,11 +687,10 @@
       ]
     },
     {
+      "anchor": "paragraph-4",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 4",
-        "subIcon": "schedule",
-        "subLabel": "1:47"
+        "label": "Paragraph 4"
       }
     },
     {
@@ -761,11 +761,10 @@
       ]
     },
     {
+      "anchor": "paragraph-5",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 5",
-        "subIcon": "schedule",
-        "subLabel": "2:22"
+        "label": "Paragraph 5"
       }
     },
     {
@@ -844,11 +843,10 @@
       ]
     },
     {
+      "anchor": "paragraph-6",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 6",
-        "subIcon": "schedule",
-        "subLabel": "2:59"
+        "label": "Paragraph 6"
       }
     },
     {
@@ -923,11 +921,10 @@
       ]
     },
     {
+      "anchor": "paragraph-7",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 7",
-        "subIcon": "schedule",
-        "subLabel": "3:34"
+        "label": "Paragraph 7"
       }
     },
     {
@@ -1009,11 +1006,10 @@
       ]
     },
     {
+      "anchor": "paragraph-8",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 8",
-        "subIcon": "schedule",
-        "subLabel": "4:10"
+        "label": "Paragraph 8"
       }
     },
     {
@@ -1097,11 +1093,10 @@
       ]
     },
     {
+      "anchor": "paragraph-9",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 9",
-        "subIcon": "schedule",
-        "subLabel": "4:42"
+        "label": "Paragraph 9"
       }
     },
     {
@@ -1172,11 +1167,10 @@
       ]
     },
     {
+      "anchor": "paragraph-10",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 10",
-        "subIcon": "schedule",
-        "subLabel": "5:19"
+        "label": "Paragraph 10"
       }
     },
     {
@@ -1247,11 +1241,10 @@
       ]
     },
     {
+      "anchor": "paragraph-11",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 11",
-        "subIcon": "schedule",
-        "subLabel": "5:55"
+        "label": "Paragraph 11"
       }
     },
     {
@@ -1326,11 +1319,10 @@
       ]
     },
     {
+      "anchor": "paragraph-12",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 12",
-        "subIcon": "schedule",
-        "subLabel": "6:29"
+        "label": "Paragraph 12"
       }
     },
     {
@@ -1401,11 +1393,10 @@
       ]
     },
     {
+      "anchor": "paragraph-13",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 13",
-        "subIcon": "schedule",
-        "subLabel": "7:03"
+        "label": "Paragraph 13"
       }
     },
     {
@@ -1492,11 +1483,10 @@
       ]
     },
     {
+      "anchor": "paragraph-14",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 14",
-        "subIcon": "schedule",
-        "subLabel": "7:03"
+        "label": "Paragraph 14"
       }
     },
     {
@@ -1582,10 +1572,10 @@
       ]
     },
     {
-      "anchor": "storytelling",
+      "anchor": "retelling",
       "ribbon": {
-        "icon": "speak",
-        "label": "Picture Storytelling"
+        "icon": "picture",
+        "label": "Retelling the story"
       }
     },
     {
@@ -1604,7 +1594,7 @@
                   "icon": "tap"
                 },
                 {
-                  "boldText": "tap the cards to flip, then retell the story."
+                  "boldText": "tap to flip the cards to see each part of the story. Can you remember what happened? Retell the story in your own words. Take notes if you like!."
                 }
               ]
             }

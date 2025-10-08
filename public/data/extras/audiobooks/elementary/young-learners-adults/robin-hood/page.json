@@ -160,7 +160,7 @@
       }
     },
     {
-      "hangman": [
+      "guessWord": [
         {
           "imageSrc": "/assets/images/general/abbey.avif",
           "alt": "An abbey building",
@@ -219,12 +219,122 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "bookmarks",
+        "label": "Paragraphs"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-1",
+                      "label": "Chapter 1 Robin Fitzooth is Born in Sherwood Forest"
+                    },
+                    {
+                      "icon": "picture",
+                      "link": "#chapter-1-retelling",
+                      "label": "Chapter 1 Retelling the story"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-2",
+                      "label": "Chapter 2 The Sheriff of Nottingham Finds Robin Hood"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-3",
+                      "label": "Chapter 3 At St. Mary's Abbey"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-4",
+                      "label": "Chapter 4 The King’s Deer"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-5",
+                      "label": "Chapter 5 Robin Hood Meets Little John"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-6",
+                      "label": "Chapter 6 Robin Hood Helps Sir Richard of Lee"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#pchapter-7",
+                      "label": "Chapter 7 Sir Richard pays the Abbot"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-8",
+                      "label": "Chapter 8 Lady Marian and the Sheriff of Nottingham"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-9",
+                      "label": "Chapter 9 The Sheriff’s Visit"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-10",
+                      "label": "Chapter 10 Marian Goes to the Sherwood Forest"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-11",
+                      "label": "Chapter 11 Robin Hood and Friar Tuck"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-12",
+                      "label": "Chapter 12 The Two Churchmen and the Bags of Gold"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-13",
+                      "label": "Chapter 13 Sir Richard of Lee Comes Back to the Forest"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-14",
+                      "label": "Chapter 14 Robin Hood and the Gold Arrow"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-15",
+                      "label": "Chapter 15 The Tall Friar"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#chapter-16",
+                      "label": "Chapter 16 The Last Adventure"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "audioPlayer": {
         "sticky": false,
         "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/robin-hood/audio.mp3"
       }
     },
     {
+      "anchor": "chapter-1",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 1"
@@ -514,7 +624,53 @@
         }
       ]
     },
+        {
+      "anchor": "chapter-1-retelling",
+      "ribbon": {
+
+        "icon": "picture",
+        "label": "Retelling the story"
+      }
+    },
     {
+      "flipCard": [
+        {
+          "ratio": "portrait",
+          "front": {
+            "img": "",
+            "text": "1"
+          },
+          "back": {
+            "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/flip-chapter-1.avif",
+            "text": ""
+          }
+        },
+        {
+          "ratio": "portrait",
+          "front": {
+            "img": "",
+            "text": "2"
+          },
+          "back": {
+            "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/robin-hood/flip-chapter-2.avif",
+            "text": ""
+          }
+        },
+        {
+          "ratio": "portrait",
+          "front": {
+            "img": "",
+            "text": "3"
+          },
+          "back": {
+            "img": "",
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "chapter-2",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 2"
@@ -757,6 +913,7 @@
       }
     },
     {
+      "anchor": "chapter-3",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 3"
@@ -775,7 +932,7 @@
             {
               "block": [
                 {
-                  "boldText": "At St, Mary's Abbey"
+                  "boldText": "At St. Mary's Abbey"
                 }
               ],
               "lineBreak": true
@@ -949,6 +1106,7 @@
       ]
     },
     {
+      "anchor": "chapter-4",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 4"
@@ -1305,6 +1463,7 @@
       ]
     },
     {
+      "anchor": "chapter-5",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 5"
@@ -1638,6 +1797,7 @@
       }
     },
     {
+      "anchor": "chapter-6",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 6"
@@ -1899,6 +2059,7 @@
       ]
     },
     {
+      "anchor": "chapter-7",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 7"
@@ -2113,6 +2274,7 @@
       ]
     },
     {
+      "anchor": "chapter-8",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 8"
@@ -2268,6 +2430,7 @@
       ]
     },
     {
+      "anchor": "chapter-9",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 9"
@@ -2488,6 +2651,7 @@
       ]
     },
     {
+      "anchor": "chapter-10",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 10"
@@ -2743,6 +2907,7 @@
       ]
     },
     {
+      "anchor": "chapter-11",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 11"
@@ -3063,6 +3228,7 @@
       ]
     },
     {
+      "anchor": "chapter-12",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 12"
@@ -3361,6 +3527,7 @@
       ]
     },
     {
+      "anchor": "chapter-13",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 13"
@@ -3479,6 +3646,7 @@
       ]
     },
     {
+      "anchor": "chapter-14",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 14"
@@ -3808,6 +3976,7 @@
       ]
     },
     {
+      "anchor": "chapter-15",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 15"
@@ -4137,6 +4306,7 @@
       ]
     },
     {
+      "anchor": "chapter-16",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 16"
