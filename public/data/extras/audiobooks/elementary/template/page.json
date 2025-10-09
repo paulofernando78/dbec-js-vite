@@ -99,52 +99,57 @@
                     {
                       "icon": "bookmark",
                       "link": "#chapter-1",
-                      "label": "..."
+                      "label": "Chapter 1"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#retelling-hapter-1",
+                      "label": "Retelling Chapter 1"
                     },
                     {
                       "icon": "bookmark",
                       "link": "#chapter-2",
-                      "label": "..."
+                      "label": "Chapter 2"
                     },
                     {
                       "icon": "bookmark",
                       "link": "#chapter-3",
-                      "label": "..."
+                      "label": "Chapter 3"
                     },
                     {
                       "icon": "bookmark",
                       "link": "#chapter-4",
-                      "label": "..."
+                      "label": "Chapter 4"
                     },
                     {
                       "icon": "bookmark",
                       "link": "#chapter-5",
-                      "label": "..."
+                      "label": "Chapter 5"
                     },
                     {
                       "icon": "bookmark",
                       "link": "#chapter-6",
-                      "label": "..."
+                      "label": "Chapter 6"
                     },
                     {
                       "icon": "bookmark",
                       "link": "#chapter-7",
-                      "label": "..."
+                      "label": "Chapter 7"
                     },
                     {
                       "icon": "bookmark",
                       "link": "#chapter-8",
-                      "label": "..."
+                      "label": "Chapter 8"
                     },
                     {
                       "icon": "bookmark",
                       "link": "#chapter-9",
-                      "label": "..."
+                      "label": "Chapter 9"
                     },
                     {
                       "icon": "bookmark",
                       "link": "#chapter-10",
-                      "label": "..."
+                      "label": "Chapter 10"
                     }
                   ]
                 }
@@ -277,7 +282,22 @@
         }
       ]
     },
-    {"anchor": "chapter-2",
+    {
+      "anchor": "retelling-chapter-1",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Retelling the Chapter 1"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": ""
+        }
+      ]
+    },
+    {
+      "anchor": "chapter-2",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 2"

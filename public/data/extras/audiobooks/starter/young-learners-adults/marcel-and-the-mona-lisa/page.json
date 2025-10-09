@@ -61,154 +61,255 @@
     },
     {
       "guessWord": [
-      {
-        "imageSrc": "/assets/images/general/museum.avif",
-        "alt": "A museum building",
-        "word": "museum"
-      },
-      {
-        "imageSrc": "/assets/images/general/painting.avif",
-        "alt": "A framed painting",
-        "word": "painting"
-      },
-      {
-        "imageSrc": "/assets/images/general/knife.avif",
-        "alt": "A sharp knife",
-        "word": "knife"
-      },
-      {
-        "imageSrc": "/assets/images/general/candle.avif",
-        "alt": "A burning candle",
-        "word": "candle"
-      },
-      {
-        "imageSrc": "/assets/images/general/detective.avif",
-        "alt": "A detective in a hat",
-        "word": "detective"
-      },
-      {
-        "imageSrc": "/assets/images/general/steal.avif",
-        "alt": "A thief stealing",
-        "word": "steal"
-      },
-      {
-        "imageSrc": "/assets/images/general/bag.avif",
-        "alt": "A leather bag",
-        "word": "bag"
-      },
-      {
-        "imageSrc": "/assets/images/general/thief.avif",
-        "alt": "A masked thief",
-        "word": "thief"
-      },
-      {
-        "imageSrc": "/assets/images/general/bookcase.avif",
-        "alt": "A wooden bookcase with books",
-        "word": "bookcase"
-      },
-      {
-        "imageSrc": "/assets/images/general/sunglasses.avif",
-        "alt": "A pair of sunglasses",
-        "word": "sunglasses"
-      }
+        {
+          "imageSrc": "/assets/images/general/museum.avif",
+          "alt": "A museum building",
+          "word": "museum"
+        },
+        {
+          "imageSrc": "/assets/images/general/painting.avif",
+          "alt": "A framed painting",
+          "word": "painting"
+        },
+        {
+          "imageSrc": "/assets/images/general/knife.avif",
+          "alt": "A sharp knife",
+          "word": "knife"
+        },
+        {
+          "imageSrc": "/assets/images/general/candle.avif",
+          "alt": "A burning candle",
+          "word": "candle"
+        },
+        {
+          "imageSrc": "/assets/images/general/detective.avif",
+          "alt": "A detective in a hat",
+          "word": "detective"
+        },
+        {
+          "imageSrc": "/assets/images/general/steal.avif",
+          "alt": "A thief stealing",
+          "word": "steal"
+        },
+        {
+          "imageSrc": "/assets/images/general/bag.avif",
+          "word": "bag"
+        },
+        {
+          "imageSrc": "/assets/images/general/thief.avif",
+          "word": "thief"
+        },
+        {
+          "imageSrc": "/assets/images/general/bookcase.avif",
+          "alt": "A wooden bookcase with books",
+          "word": "bookcase"
+        },
+        {
+          "imageSrc": "/assets/images/general/sunglasses.avif",
+          "word": "sunglasses"
+        },
+        {
+          "imageSrc": "/assets/images/general/gondola.avif",
+          "word": "gondola"
+        }
       ]
     },
     {
       "exercises": [
-      {
-        "title": "Fill in the blanks with the words from “Guess Word”."
-      },
-      {
-        "fillExercises": [
         {
-          "blocks": [
-          {
-            "block": [
+          "title": "Fill in the blanks with the words from “Guess Word”."
+        },
+        {
+          "fillExercises": [
             {
-              "text": "1. The Mona Lisa is a famous ______ in the Louvre.",
-              "correctAnswer": ["painting"]
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "1. The Mona Lisa is a famous ______ in the Louvre.",
+                      "correctAnswer": ["painting"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2. Marcel is a mouse and a ______.",
+                      "correctAnswer": ["detective"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3. The thief puts the Mona Lisa in a ______.",
+                      "correctAnswer": ["bag"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4. The Louvre is a famous ______ in Paris.",
+                      "correctAnswer": ["museum"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "5. The thief uses a ______ to steal the painting.",
+                      "correctAnswer": ["knife"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "6. Marcel sees a ______ stealing the Mona Lisa.",
+                      "correctAnswer": ["thief"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "7. Marcel tries to ______ the painting back.",
+                      "correctAnswer": ["steal"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "8. Marcel climbs up a ______ to escape the cats.",
+                      "correctAnswer": ["bookcase"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "9. Marcel pushes a ______ to stop the cat.",
+                      "correctAnswer": ["candle"]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "10. Henri wears ______ on the train.",
+                      "correctAnswer": ["sunglasses"]
+                    }
+                  ]
+                }
+              ]
             }
-            ]
-          },
-          {
-            "block": [
-            {
-              "text": "2. Marcel is a mouse and a ______.",
-              "correctAnswer": ["detective"]
-            }
-            ]
-          },
-          {
-            "block": [
-            {
-              "text": "3. The thief puts the Mona Lisa in a ______.",
-              "correctAnswer": ["bag"]
-            }
-            ]
-          },
-          {
-            "block": [
-            {
-              "text": "4. The Louvre is a famous ______ in Paris.",
-              "correctAnswer": ["museum"]
-            }
-            ]
-          },
-          {
-            "block": [
-            {
-              "text": "5. The thief uses a ______ to steal the painting.",
-              "correctAnswer": ["knife"]
-            }
-            ]
-          },
-          {
-            "block": [
-            {
-              "text": "6. Marcel sees a ______ stealing the Mona Lisa.",
-              "correctAnswer": ["thief"]
-            }
-            ]
-          },
-          {
-            "block": [
-            {
-              "text": "7. Marcel tries to ______ the painting back.",
-              "correctAnswer": ["steal"]
-            }
-            ]
-          },
-          {
-            "block": [
-            {
-              "text": "8. Marcel climbs up a ______ to escape the cats.",
-              "correctAnswer": ["bookcase"]
-            }
-            ]
-          },
-          {
-            "block": [
-            {
-              "text": "9. Marcel pushes a ______ to stop the cat.",
-              "correctAnswer": ["candle"]
-            }
-            ]
-          },
-          {
-            "block": [
-            {
-              "text": "10. Henri wears ______ on the train.",
-              "correctAnswer": ["sunglasses"]
-            }
-            ]
-          }
           ]
         }
-        ]
-      }
       ]
     },
     {
+      "ribbon": {
+        "icon": "bookmarks",
+        "label": "Paragraphs"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 1"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-2",
+                      "label": "Paragraph 2"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-3",
+                      "label": "Paragraph 3"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-4",
+                      "label": "Paragraph 4"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-5",
+                      "label": "Paragraph 5"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-6",
+                      "label": "Paragraph 6"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-7",
+                      "label": "Paragraph 7"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-8",
+                      "label": "Paragraph 8"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-9",
+                      "label": "Paragraph 9"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-10",
+                      "label": "Paragraph 10"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-13",
+                      "label": "Paragraph 11"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-12",
+                      "label": "Paragraph 12"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-13",
+                      "label": "Paragraph 13"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-14",
+                      "label": "Paragraph 14"
+                    },
+                    {
+                      "icon": "picture",
+                      "link": "#retelling",
+                      "label": "Retelling the story"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "paragraph-1",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 1"
@@ -242,7 +343,7 @@
     {
       "exercises": [
         {
-          "title": "1 Fill in the blanks with the correct answer."
+          "title": "1. Look at paragraph 1 and fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -300,6 +401,7 @@
       ]
     },
     {
+      "anchor": "paragraph-2",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 2"
@@ -333,7 +435,7 @@
     {
       "exercises": [
         {
-          "title": "2 Fill in the blanks with the correct answer."
+          "title": "2. Look at paragraph 2 and fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -399,6 +501,7 @@
       ]
     },
     {
+      "anchor": "paragraph-3",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 3"
@@ -432,7 +535,7 @@
     {
       "exercises": [
         {
-          "title": "3 Fill in the blanks with the correct answer."
+          "title": "3. Look at paragraph 3 and fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -490,6 +593,7 @@
       ]
     },
     {
+      "anchor": "paragraph-4",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 4"
@@ -523,7 +627,7 @@
     {
       "exercises": [
         {
-          "title": "4 Fill in the blanks with the correct answer."
+          "title": "4. Look at paragraph 4 and fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -602,6 +706,7 @@
       ]
     },
     {
+      "anchor": "paragraph-5",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 5"
@@ -635,7 +740,7 @@
     {
       "exercises": [
         {
-          "title": "5 Fill in the blanks with the correct answer."
+          "title": "5. Look at paragraph 5 and fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -679,6 +784,7 @@
       ]
     },
     {
+      "anchor": "paragraph-6",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 6"
@@ -712,7 +818,7 @@
     {
       "exercises": [
         {
-          "title": "6 Fill in the blanks with the correct answer."
+          "title": "6. Look at paragraph 6 and fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -752,6 +858,7 @@
       ]
     },
     {
+      "anchor": "paragraph-7",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 7"
@@ -785,7 +892,7 @@
     {
       "exercises": [
         {
-          "title": "7 Fill in the blank with the correct answer."
+          "title": "7. Look at paragraph 7 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -810,6 +917,7 @@
       ]
     },
     {
+      "anchor": "paragraph-8",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 8"
@@ -843,7 +951,7 @@
     {
       "exercises": [
         {
-          "title": "8 Fill in the blanks with the correct answer."
+          "title": "8. Look at paragraph 8 and fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -876,6 +984,7 @@
       ]
     },
     {
+      "anchor": "paragraph-9",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 9"
@@ -909,7 +1018,7 @@
     {
       "exercises": [
         {
-          "title": "9 Fill in the blanks with the correct answer."
+          "title": "9. Look at paragraph 9 and fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -949,6 +1058,7 @@
       ]
     },
     {
+      "anchor": "paragraph-10",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 10"
@@ -982,7 +1092,7 @@
     {
       "exercises": [
         {
-          "title": "10 Fill in the blanks with the correct answer."
+          "title": "10. Look at paragraph 10 and fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -1037,6 +1147,7 @@
       ]
     },
     {
+      "anchor": "paragraph-11",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 11"
@@ -1070,7 +1181,7 @@
     {
       "exercises": [
         {
-          "title": "11 Fill in the blanks with the correct answer."
+          "title": "11. Look at paragraph 11 and fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -1110,6 +1221,7 @@
       ]
     },
     {
+      "anchor": "paragraph-12",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 12"
@@ -1143,7 +1255,7 @@
     {
       "exercises": [
         {
-          "title": "12 Fill in the blanks with the correct answer."
+          "title": "12. Look at paragraph 12 and fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -1198,6 +1310,7 @@
       ]
     },
     {
+      "anchor": "paragraph-13",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 13"
@@ -1231,7 +1344,7 @@
     {
       "exercises": [
         {
-          "title": "13 Fill in the blanks with the correct answer."
+          "title": "13. Look at paragraph 13 and fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -1290,6 +1403,7 @@
       ]
     },
     {
+      "anchor": "paragraph-14",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 14"
@@ -1323,7 +1437,7 @@
     {
       "exercises": [
         {
-          "title": "14 Fill in the blanks with the correct answer."
+          "title": "14. Look at paragraph 14 and fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -1389,6 +1503,7 @@
       ]
     },
     {
+      "anchor": "paragraph-15",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 15"
@@ -1422,7 +1537,7 @@
     {
       "exercises": [
         {
-          "title": "15 Fill in the blanks with the correct answer."
+          "title": "15. Look at paragraph 15 and fill in the blanks with the correct answer."
         },
         {
           "fillExercises": [
@@ -1454,6 +1569,62 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "anchor": "retelling",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Retelling the story"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-1.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-2.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-3.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-4.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-5.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-6.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-7.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-8.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-9.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-10.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-11.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-12.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-13.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-14.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-15.avif"
         }
       ]
     }

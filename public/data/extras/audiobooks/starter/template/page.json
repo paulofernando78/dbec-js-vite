@@ -69,6 +69,66 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": " Click or tap the letters to reveal the word."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guessWord": [
+        {
+          "word": "",
+          "imageSrc": "/assets/images/general/.avif"
+        },
+        {
+          "word": "",
+          "imageSrc": "/assets/images/general/.avif"
+        },
+        {
+          "word": "",
+          "imageSrc": "/assets/images/general/.avif"
+        },
+        {
+          "word": "",
+          "imageSrc": "/assets/images/general/.avif"
+        },
+        {
+          "word": "",
+          "imageSrc": "/assets/images/general/.avif"
+        },
+        {
+          "word": "",
+          "imageSrc": "/assets/images/general/.avif"
+        },
+        {
+          "word": "",
+          "imageSrc": "/assets/images/general/.avif"
+        },
+        {
+          "word": "",
+          "imageSrc": "/assets/images/general/.avif"
+        },
+        {
+          "word": "",
+          "imageSrc": "/assets/images/general/.avif"
+        },
+        {
+          "word": "",
+          "imageSrc": "/assets/images/general/.avif"
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "bookmarks",
         "label": "Paragraphs"
@@ -1242,16 +1302,49 @@
     {
       "flipCardRetell": [
         {
-          "img": "/assets/images/general/cat-1.avif"
+          "img": ""
         },
         {
-          "img": "/assets/images/general/cat-2.avif"
+          "img": ""
         },
         {
-          "img": "/assets/images/general/cat-3.avif"
+          "img": ""
         },
         {
-          "img": "/assets/images/general/cat-4.avif"
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
         }
       ]
     }
