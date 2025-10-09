@@ -413,7 +413,7 @@
     {
       "exercises": [
         {
-          "title": "1 Fill in the blank with the correct answer."
+          "title": "1. Look at paragraph 1 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -475,10 +475,54 @@
       ]
     },
     {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 Where does Felix live?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 What do the Baxter give to Felix?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.3 Who likes Felix?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.4 Why isn’t Felix happy?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "anchor": "paragraph-2",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 2 • 0:36"
+        "label": "Paragraph 2"
       }
     },
     {
@@ -524,7 +568,7 @@
     {
       "exercises": [
         {
-          "title": "2 Fill in the blank with the correct answer."
+          "title": "2. Look at paragraph 2 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -563,7 +607,7 @@
       "anchor": "paragraph-3",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 3 • 1:10"
+        "label": "Paragraph 3"
       }
     },
     {
@@ -609,7 +653,7 @@
     {
       "exercises": [
         {
-          "title": "3 Fill in the blank with the correct answer."
+          "title": "3. Look at paragraph 3 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -648,7 +692,7 @@
       "anchor": "paragraph-4",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 4 • 1:54"
+        "label": "Paragraph 4"
       }
     },
     {
@@ -694,7 +738,7 @@
     {
       "exercises": [
         {
-          "title": "4 Fill in the blank with the correct answer."
+          "title": "4. Look at paragraph 4 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -748,7 +792,7 @@
       "anchor": "paragraph-5",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 5 • 2:30"
+        "label": "Paragraph 5"
       }
     },
     {
@@ -794,7 +838,7 @@
     {
       "exercises": [
         {
-          "title": "5 Fill in the blank with the correct answer."
+          "title": "5. Look at paragraph 5 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -841,7 +885,7 @@
       "anchor": "paragraph-6",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 6 • 3:08"
+        "label": "Paragraph 6"
       }
     },
     {
@@ -887,7 +931,7 @@
     {
       "exercises": [
         {
-          "title": "6 Fill in the blank with the correct answer."
+          "title": "6. Look at paragraph 6 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -926,7 +970,7 @@
       "anchor": "paragraph-7",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 7 • 3:50"
+        "label": "Paragraph 7"
       }
     },
     {
@@ -972,7 +1016,7 @@
     {
       "exercises": [
         {
-          "title": "7 Fill in the blank with the correct answer."
+          "title": "7. Look at paragraph 7 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -1011,7 +1055,7 @@
       "anchor": "paragraph-8",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 8 • 4:26"
+        "label": "Paragraph 8"
       }
     },
     {
@@ -1057,7 +1101,7 @@
     {
       "exercises": [
         {
-          "title": "8 Fill in the blank with the correct answer."
+          "title": "8. Look at paragraph 8 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -1115,7 +1159,7 @@
       "anchor": "paragraph-9",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 9 • 5:16"
+        "label": "Paragraph 9"
       }
     },
     {
@@ -1161,7 +1205,7 @@
     {
       "exercises": [
         {
-          "title": "9 Fill in the blank with the correct answer."
+          "title": "9. Look at paragraph 9 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -1204,7 +1248,7 @@
       "anchor": "paragraph-10",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 10 • 5:56"
+        "label": "Paragraph 10"
       }
     },
     {
@@ -1250,7 +1294,7 @@
     {
       "exercises": [
         {
-          "title": "10 Fill in the blank with the correct answer."
+          "title": "10. Look at paragraph 10 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -1289,7 +1333,7 @@
       "anchor": "paragraph-11",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 11 • 6:30"
+        "label": "Paragraph 11"
       }
     },
     {
@@ -1335,7 +1379,7 @@
     {
       "exercises": [
         {
-          "title": "11 Fill in the blank with the correct answer."
+          "title": "11. Look at paragraph 11 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -1374,7 +1418,7 @@
       "anchor": "paragraph-12",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 12 • 7:08"
+        "label": "Paragraph 12"
       }
     },
     {
@@ -1420,7 +1464,7 @@
     {
       "exercises": [
         {
-          "title": "12 Fill in the blank with the correct answer."
+          "title": "12. Look at paragraph 12 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -1452,7 +1496,7 @@
       "anchor": "paragraph-13",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 13 • 7:50"
+        "label": "Paragraph 13"
       }
     },
     {
@@ -1498,7 +1542,7 @@
     {
       "exercises": [
         {
-          "title": "13 Fill in the blank with the correct answer."
+          "title": "13. Look at paragraph 13 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -1537,7 +1581,7 @@
       "anchor": "paragraph-14",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 14 • 8:34"
+        "label": "Paragraph 14"
       }
     },
     {
@@ -1583,7 +1627,7 @@
     {
       "exercises": [
         {
-          "title": "14 Fill in the blank with the correct answer."
+          "title": "14. Look at paragraph 14 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
@@ -1622,7 +1666,7 @@
       "anchor": "paragraph-15",
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 15 • 9:10"
+        "label": "Paragraph 15"
       }
     },
     {
@@ -1668,7 +1712,7 @@
     {
       "exercises": [
         {
-          "title": "15 Fill in the blank with the correct answer."
+          "title": "15. Look at paragraph 15 and fill in the blank with the correct answer."
         },
         {
           "fillExercises": [
