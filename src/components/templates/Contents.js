@@ -12,73 +12,14 @@ class Contents extends HTMLElement {
       this.shadowRoot.appendChild(style);
     });
 
-    const cssImports = document.createElement("style");
-    cssImports.textContent = cssImportsPath;
-    this.shadowRoot.appendChild(cssImports);
-
-    const css = document.createElement("style");
-    /*css*/
-    css.textContent = `
-      wc-dictionary-search {
-        position: sticky;
-        top: 0;
-        z-index: 2
-      }
-
-      wc-audio-player.sticky, wc-video-player.sticky, wc-iframe.sticky {
-        position: sticky;
-        top: 58px;
-        z-index: 1
-      }
-
-       wc-iframe.bottom-position {
-        position: relative;
-        bottom: 0;
-        z-index: 1
-      }
-
-      // wc-iframe {
-      //   margin: 0 auto
-      // }
-
-      .image-wrapper {
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        gap: 6px
-      }
-
-      .text-container {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, 256px);
-        gap: 6px;
-        justify-content: center;
-        padding: 5px
-      }
-
-      .dashed-hr {
-        border: 1px dashed var(--red-4)
-      }
-
-      @media () {
-        .paragraph-flex {
-        display: grid;
-        grid-template-columns: 1fr;
-      }
-      }
-    `;
-    this.shadowRoot.appendChild(css);
-
     this.addEventListener("anchor-clicked", (e) => {
       const anchor = e.detail.anchor;
-      console.log("Recieved anchor-clicked for:", anchor);
 
       const el = this.shadowRoot.getElementById(anchor);
-      console.log("Found element:", el);
 
       if (el) {
         el.scrollIntoView({ behavior: "smooth" });
-        console.log("Scrolled to element");
+
       }
     });
   }
@@ -121,6 +62,7 @@ class Contents extends HTMLElement {
 
         if (section.anchor) {
           anchorWrapper.id = section.anchor;
+          anchorWrapper.className = "scroll-anchor"
         }
 
         const ribbon = document.createElement("wc-ribbon");

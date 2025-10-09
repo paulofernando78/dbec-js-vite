@@ -554,6 +554,69 @@
       ]
     },
     {
+      "flipCard": [
+        {
+          "ratio": "portrait",
+          "front": {
+            "img": "",
+            "text": "1"
+          },
+          "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "ratio": "portrait",
+          "front": {
+            "img": "",
+            "text": "2"
+          },
+          "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "ratio": "portrait",
+          "front": {
+            "img": "",
+            "text": "3"
+          },
+          "back": {
+            "img": "",
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "flipCard": [
+        {
+          "ratio": "landscape",
+          "front": {
+            "img": "",
+            "text": "1"
+          },
+          "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "ratio": "landscape",
+          "front": {
+            "img": "",
+            "text": "2"
+          },
+          "back": {
+            "img": "",
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
       "anchor": "flip-cards-retell",
       "ribbon": {
         "icon": "snippet",
@@ -563,13 +626,13 @@
     {
       "flipCardRetell": [
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-1.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-2.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-3.avif"
         }
       ]
     },

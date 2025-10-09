@@ -1,6 +1,63 @@
+wc-dictionary-search {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+.scroll-anchor {
+  scroll-margin-top: 60px;
+}
+
+wc-audio-player.sticky,
+wc-video-player.sticky,
+wc-iframe.sticky {
+  position: sticky;
+  top: 58px;
+  z-index: 1;
+}
+
+wc-iframe.bottom-position {
+  position: relative;
+  bottom: 0;
+  z-index: 1;
+}
+
+.image-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.text-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 256px);
+  gap: 6px;
+  justify-content: center;
+  padding: 5px;
+}
+
+.dashed-hr {
+  border: 1px dashed var(--red-4);
+}
+
+/* @media() {
+  .paragraph-flex {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+} */
+
 .flip-card-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, 200px);
+  justify-content: center;
+  gap: 8px;
+}
+
+.flip-card-container-landscape {
+  display: flex;
+  flex-direction: column;
   justify-content: center;
   gap: 8px;
 }

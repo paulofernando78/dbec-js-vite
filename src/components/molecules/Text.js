@@ -162,14 +162,18 @@ class Text extends HTMLElement {
       const blockElement = document.createElement("p");
 
       item.block.forEach((subItem) => {
+
+        // Text Indent
         if (subItem.textIndent) {
           blockElement.style.textIndent = "1rem";
         }
 
+        // Double Text Indent
         if (subItem.doubleTextIndent) {
           blockElement.style.textIndent = "2rem";
         }
 
+        // Audio
         if (subItem.audioSrc) {
           const playIcon = document.createElement("wc-audio");
           playIcon.data = {
@@ -185,6 +189,7 @@ class Text extends HTMLElement {
           blockElement.appendChild(playIcon);
         }
 
+        // Icon
         if (subItem.icon) {
           const span = document.createElement("span");
           span.className = "icon";
@@ -192,12 +197,14 @@ class Text extends HTMLElement {
           blockElement.appendChild(span);
         }
 
+        // Bold Text
         if (subItem.boldText) {
           const boldText = document.createElement("b");
           boldText.textContent = subItem.boldText;
           blockElement.appendChild(boldText);
         }
 
+        // Phonetics
         if (subItem.phonetics) {
           const phonetics = document.createElement("span");
           phonetics.textContent = subItem.phonetics;
@@ -205,6 +212,7 @@ class Text extends HTMLElement {
           blockElement.appendChild(phonetics);
         }
 
+        // Part of Speech
         if (subItem.partOfSpeech) {
           const partOfSpeech = document.createElement("span");
           partOfSpeech.textContent = subItem.partOfSpeech;
@@ -212,18 +220,21 @@ class Text extends HTMLElement {
           blockElement.appendChild(partOfSpeech);
         }
 
+        // Text
         if (subItem.text) {
           const text = document.createElement("span");
           text.textContent = subItem.text;
           blockElement.appendChild(text);
         }
 
+        // Collapsible
         if (subItem.collapsible) {
           const collapsible = document.createElement("wc-collapsible");
           collapsible.data = subItem.collapsible;
           blockElement.appendChild(collapsible);
         }
 
+        // Pt Text
         if (subItem.ptText) {
           const ptText = document.createElement("span");
           ptText.textContent = subItem.ptText;
@@ -231,6 +242,7 @@ class Text extends HTMLElement {
           blockElement.appendChild(ptText);
         }
 
+        // Pt Bold Text
         if (subItem.ptBoldText) {
           const ptBoldText = document.createElement("b");
           ptBoldText.textContent = subItem.ptBoldText;
@@ -238,12 +250,14 @@ class Text extends HTMLElement {
           blockElement.appendChild(ptBoldText);
         }
 
+        // Underlined Text
         if (subItem.underlinedText) {
           const underline = document.createElement("u");
           underline.textContent = subItem.underlinedText;
           blockElement.appendChild(underline);
         }
 
+        // Bold Underlined Text
         if (subItem.boldUnderlinedText) {
           const bold = document.createElement("b");
           const underline = document.createElement("u");
@@ -252,12 +266,14 @@ class Text extends HTMLElement {
           blockElement.appendChild(bold);
         }
 
+        // Italic Text
         if (subItem.italicText) {
           const italic = document.createElement("i");
           italic.textContent = subItem.italicText;
           blockElement.appendChild(italic);
         }
 
+        // Marked Text
         if (subItem.markedText) {
           const mark = document.createElement("mark");
           mark.style.backgroundColor = "var(--yellow-mark)";
@@ -265,6 +281,7 @@ class Text extends HTMLElement {
           blockElement.appendChild(mark);
         }
 
+        // Marked Underlined Text
         if (subItem.markedUnderlinedText) {
           const mark = document.createElement("mark");
           mark.style.backgroundColor = "var(--yellow-mark)";
@@ -274,6 +291,7 @@ class Text extends HTMLElement {
           blockElement.appendChild(mark);
         }
 
+        // Links
         if (Array.isArray(subItem.links) && subItem.links.length) {
           const ul = document.createElement("ul");
           
@@ -297,10 +315,12 @@ class Text extends HTMLElement {
         }
       });
 
+      // Line Break
       if (item.lineBreak) {
         blockElement.style.marginBottom = "var(--line-break)";
       }
 
+      // Hr
       if (item.hr) {
         const hr = document.createElement("hr");
         blockElement.appendChild(hr);
@@ -309,6 +329,7 @@ class Text extends HTMLElement {
       textWrapper.appendChild(blockElement);
     });
 
+    // Image & Video Positisions
     const position = hasVideo
       ? block.videoPlayer[0].position || "top"
       : hasImage

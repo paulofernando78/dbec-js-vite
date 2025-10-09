@@ -5,7 +5,7 @@ class FlipCard extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-
+ 
     [cssImportsPath, cssFlipCardPath].forEach((css) => {
       const style = document.createElement("style");
       style.textContent = css;

@@ -78,7 +78,7 @@
       }
     },
     {
-      "hangman": [
+      "guessWord": [
         {
           "word": "cage",
           "imageSrc": "/assets/images/general/cage.avif"
@@ -139,7 +139,7 @@
                       "correctAnswer": ["cage"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -150,7 +150,7 @@
                       "correctAnswer": ["moon"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -161,7 +161,7 @@
                       "correctAnswer": ["plane"]
                     },
                     {
-                      "text":	"flies in the sky."
+                      "text": "flies in the sky."
                     }
                   ]
                 },
@@ -172,7 +172,7 @@
                       "correctAnswer": ["jungle"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -183,7 +183,7 @@
                       "correctAnswer": ["city"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -194,7 +194,7 @@
                       "correctAnswer": ["snow"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -205,7 +205,7 @@
                       "correctAnswer": ["feather"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -216,7 +216,7 @@
                       "correctAnswer": ["ship"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -227,7 +227,7 @@
                       "correctAnswer": ["fish"]
                     },
                     {
-                      "text":	"is in the aquarium."
+                      "text": "is in the aquarium."
                     }
                   ]
                 },
@@ -238,7 +238,7 @@
                       "correctAnswer": ["road"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -249,7 +249,7 @@
                       "correctAnswer": ["machine"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 }
@@ -260,6 +260,111 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "bookmarks",
+        "label": "Paragraphs"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 1"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-2",
+                      "label": "Paragraph 2"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-3",
+                      "label": "Paragraph 3"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-4",
+                      "label": "Paragraph 4"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-5",
+                      "label": "Paragraph 5"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-6",
+                      "label": "Paragraph 6"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-7",
+                      "label": "Paragraph 7"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-8",
+                      "label": "Paragraph 8"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-9",
+                      "label": "Paragraph 9"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-10",
+                      "label": "Paragraph 10"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-13",
+                      "label": "Paragraph 11"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-12",
+                      "label": "Paragraph 12"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-13",
+                      "label": "Paragraph 13"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-14",
+                      "label": "Paragraph 14"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-15",
+                      "label": "Paragraph 15"
+                    },
+                    {
+                      "icon": "picture",
+                      "link": "#retelling",
+                      "label": "Retelling the story"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "paragraph-1",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 1"
@@ -370,6 +475,7 @@
       ]
     },
     {
+      "anchor": "paragraph-2",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 2 • 0:36"
@@ -454,6 +560,7 @@
       ]
     },
     {
+      "anchor": "paragraph-3",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 3 • 1:10"
@@ -538,6 +645,7 @@
       ]
     },
     {
+      "anchor": "paragraph-4",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 4 • 1:54"
@@ -637,6 +745,7 @@
       ]
     },
     {
+      "anchor": "paragraph-5",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 5 • 2:30"
@@ -729,6 +838,7 @@
       ]
     },
     {
+      "anchor": "paragraph-6",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 6 • 3:08"
@@ -813,6 +923,7 @@
       ]
     },
     {
+      "anchor": "paragraph-7",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 7 • 3:50"
@@ -897,6 +1008,7 @@
       ]
     },
     {
+      "anchor": "paragraph-8",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 8 • 4:26"
@@ -1000,6 +1112,7 @@
       ]
     },
     {
+      "anchor": "paragraph-9",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 9 • 5:16"
@@ -1088,6 +1201,7 @@
       ]
     },
     {
+      "anchor": "paragraph-10",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 10 • 5:56"
@@ -1172,6 +1286,7 @@
       ]
     },
     {
+      "anchor": "paragraph-11",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 11 • 6:30"
@@ -1256,6 +1371,7 @@
       ]
     },
     {
+      "anchor": "paragraph-12",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 12 • 7:08"
@@ -1333,6 +1449,7 @@
       ]
     },
     {
+      "anchor": "paragraph-13",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 13 • 7:50"
@@ -1417,6 +1534,7 @@
       ]
     },
     {
+      "anchor": "paragraph-14",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 14 • 8:34"
@@ -1501,6 +1619,7 @@
       ]
     },
     {
+      "anchor": "paragraph-15",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 15 • 9:10"
@@ -1571,6 +1690,59 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "anchor": "retelling",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Retelling the story"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-1.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-2.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-3.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-4.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-5.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-6.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-7.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-8.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-10.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-11.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-12.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-13.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-14.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/flying-home/paragraph-15.avif"
         }
       ]
     }
