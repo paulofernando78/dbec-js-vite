@@ -103,9 +103,18 @@
                     },
                     {
                       "icon": "bookmark",
-                      "link": "#retelling-hapter-1",
+                      "link": "#retelling-chapter-1",
                       "label": "Retelling Chapter 1"
-                    },
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
                     {
                       "icon": "bookmark",
                       "link": "#chapter-2",
@@ -113,9 +122,37 @@
                     },
                     {
                       "icon": "bookmark",
+                      "link": "#retelling-chapter-2",
+                      "label": "Retelling Chapter 2"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
                       "link": "#chapter-3",
                       "label": "Chapter 3"
                     },
+                    {
+                      "icon": "bookmark",
+                      "link": "#retelling-chapter-3",
+                      "label": "Retelling Chapter 3"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
                     {
                       "icon": "bookmark",
                       "link": "#chapter-4",
@@ -123,9 +160,37 @@
                     },
                     {
                       "icon": "bookmark",
+                      "link": "#retelling-chapter-4",
+                      "label": "Retelling Chapter 4"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
                       "link": "#chapter-5",
                       "label": "Chapter 5"
                     },
+                    {
+                      "icon": "bookmark",
+                      "link": "#retelling-chapter-5",
+                      "label": "Retelling Chapter 5"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
                     {
                       "icon": "bookmark",
                       "link": "#chapter-6",
@@ -133,9 +198,37 @@
                     },
                     {
                       "icon": "bookmark",
+                      "link": "#retelling-chapter-6",
+                      "label": "Retelling Chapter 6"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
                       "link": "#chapter-7",
                       "label": "Chapter 7"
                     },
+                    {
+                      "icon": "bookmark",
+                      "link": "#retelling-chapter-7",
+                      "label": "Retelling Chapter 7"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
                     {
                       "icon": "bookmark",
                       "link": "#chapter-8",
@@ -143,13 +236,46 @@
                     },
                     {
                       "icon": "bookmark",
+                      "link": "#retelling-chapter-8",
+                      "label": "Retelling Chapter 8"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
                       "link": "#chapter-9",
                       "label": "Chapter 9"
                     },
                     {
                       "icon": "bookmark",
+                      "link": "#retelling-chapter-9",
+                      "label": "Retelling Chapter 9"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
                       "link": "#chapter-10",
                       "label": "Chapter 10"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#retelling-chapter-10",
+                      "label": "Retelling Chapter 10"
                     }
                   ]
                 }
@@ -167,12 +293,6 @@
       }
     },
     {
-      "audioPlayer": {
-        "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/.../audio.mp3"
-      }
-    },
-    {
       "text": [
         {
           "images": [
@@ -184,6 +304,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": true,
+                "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/.../audio.mp3"
+              },
               "block": [
                 {
                   "boldText": "..."
@@ -203,7 +327,6 @@
       ]
     },
     {
-      "grid": false,
       "text": [
         {
           "card": true,
@@ -211,7 +334,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 1 Questions"
                 }
               ],
               "lineBreak": true
@@ -219,35 +342,35 @@
             {
               "block": [
                 {
-                  "text": ".1 "
+                  "text": "1.1 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".2 "
+                  "text": "1.2 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".3 "
+                  "text": "1.3 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".4 "
+                  "text": "1.4 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".5 "
+                  "text": "1.5 "
                 }
               ],
               "lineBreak": true
@@ -259,19 +382,19 @@
                     "title": "Answers",
                     "contents": [
                       {
-                        "content": ".1 "
+                        "content": "1.1 "
                       },
                       {
-                        "content": ".2 "
+                        "content": "1.2 "
                       },
                       {
-                        "content": ".3 "
+                        "content": "1.3 "
                       },
                       {
-                        "content": ".4 "
+                        "content": "1.4 "
                       },
                       {
-                        "content": ".5 "
+                        "content": "1.5 "
                       }
                     ]
                   }
@@ -334,7 +457,6 @@
       ]
     },
     {
-      "grid": false,
       "text": [
         {
           "card": true,
@@ -342,7 +464,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 2 Questions"
                 }
               ],
               "lineBreak": true
@@ -350,35 +472,35 @@
             {
               "block": [
                 {
-                  "text": ".1 "
+                  "text": "2.1 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".2 "
+                  "text": "2.2 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".3 "
+                  "text": "2.3 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".4 "
+                  "text": "2.4 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".5 "
+                  "text": "2.5 "
                 }
               ],
               "lineBreak": true
@@ -390,19 +512,19 @@
                     "title": "Answers",
                     "contents": [
                       {
-                        "content": ".1 "
+                        "content": "2.1 "
                       },
                       {
-                        "content": ".2 "
+                        "content": "2.2 "
                       },
                       {
-                        "content": ".3 "
+                        "content": "2.3 "
                       },
                       {
-                        "content": ".4 "
+                        "content": "2.4 "
                       },
                       {
-                        "content": ".5 "
+                        "content": "2.5 "
                       }
                     ]
                   }
@@ -410,6 +532,20 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "anchor": "retelling-chapter-2",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Retelling the Chapter 2"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": ""
         }
       ]
     },
@@ -452,7 +588,6 @@
       ]
     },
     {
-      "grid": false,
       "text": [
         {
           "card": true,
@@ -460,7 +595,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 3 Questions"
                 }
               ],
               "lineBreak": true
@@ -468,35 +603,35 @@
             {
               "block": [
                 {
-                  "text": ".1 "
+                  "text": "3.1 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".2 "
+                  "text": "3.2 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".3 "
+                  "text": "3.3 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".4 "
+                  "text": "3.4 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".5 "
+                  "text": "3.5 "
                 }
               ],
               "lineBreak": true
@@ -508,19 +643,19 @@
                     "title": "Answers",
                     "contents": [
                       {
-                        "content": ".1 "
+                        "content": "3.1 "
                       },
                       {
-                        "content": ".2 "
+                        "content": "3.2 "
                       },
                       {
-                        "content": ".3 "
+                        "content": "3.3 "
                       },
                       {
-                        "content": ".4 "
+                        "content": "3.4 "
                       },
                       {
-                        "content": ".5 "
+                        "content": "3.5 "
                       }
                     ]
                   }
@@ -528,6 +663,20 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "anchor": "retelling-chapter-3",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Retelling the Chapter 3"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": ""
         }
       ]
     },
@@ -569,7 +718,6 @@
       ]
     },
     {
-      "grid": false,
       "text": [
         {
           "card": true,
@@ -577,7 +725,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 4 Questions"
                 }
               ],
               "lineBreak": true
@@ -585,35 +733,35 @@
             {
               "block": [
                 {
-                  "text": ".1 "
+                  "text": "4.1 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".2 "
+                  "text": "4.2 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".3 "
+                  "text": "4.3 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".4 "
+                  "text": "4.4 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".5 "
+                  "text": "4.5 "
                 }
               ],
               "lineBreak": true
@@ -625,19 +773,19 @@
                     "title": "Answers",
                     "contents": [
                       {
-                        "content": ".1 "
+                        "content": "4.1 "
                       },
                       {
-                        "content": ".2 "
+                        "content": "4.2 "
                       },
                       {
-                        "content": ".3 "
+                        "content": "4.3 "
                       },
                       {
-                        "content": ".4 "
+                        "content": "4.4 "
                       },
                       {
-                        "content": ".5 "
+                        "content": "4.5 "
                       }
                     ]
                   }
@@ -645,6 +793,20 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "anchor": "retelling-chapter-4",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Retelling the Chapter 4"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": ""
         }
       ]
     },
@@ -686,7 +848,6 @@
       ]
     },
     {
-      "grid": false,
       "text": [
         {
           "card": true,
@@ -694,7 +855,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 5 Questions"
                 }
               ],
               "lineBreak": true
@@ -702,35 +863,35 @@
             {
               "block": [
                 {
-                  "text": ".1 "
+                  "text": "5.1 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".2 "
+                  "text": "5.2 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".3 "
+                  "text": "5.3 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".4 "
+                  "text": "5.4 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".5 "
+                  "text": "5.5 "
                 }
               ],
               "lineBreak": true
@@ -742,19 +903,19 @@
                     "title": "Answers",
                     "contents": [
                       {
-                        "content": ".1 "
+                        "content": "5.1 "
                       },
                       {
-                        "content": ".2 "
+                        "content": "5.2 "
                       },
                       {
-                        "content": ".3 "
+                        "content": "5.3 "
                       },
                       {
-                        "content": ".4 "
+                        "content": "5.4 "
                       },
                       {
-                        "content": ".5 "
+                        "content": "5.5 "
                       }
                     ]
                   }
@@ -762,6 +923,20 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "anchor": "retelling-chapter-5",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Retelling the Chapter 5"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": ""
         }
       ]
     },
@@ -803,7 +978,6 @@
       ]
     },
     {
-      "grid": false,
       "text": [
         {
           "card": true,
@@ -811,7 +985,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 6 Questions"
                 }
               ],
               "lineBreak": true
@@ -819,35 +993,35 @@
             {
               "block": [
                 {
-                  "text": ".1 "
+                  "text": "6.1 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".2 "
+                  "text": "6.2 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".3 "
+                  "text": "6.3 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".4 "
+                  "text": "6.4 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".5 "
+                  "text": "6.5 "
                 }
               ],
               "lineBreak": true
@@ -859,19 +1033,19 @@
                     "title": "Answers",
                     "contents": [
                       {
-                        "content": ".1 "
+                        "content": "6.1 "
                       },
                       {
-                        "content": ".2 "
+                        "content": "6.2 "
                       },
                       {
-                        "content": ".3 "
+                        "content": "6.3 "
                       },
                       {
-                        "content": ".4 "
+                        "content": "6.4 "
                       },
                       {
-                        "content": ".5 "
+                        "content": "6.5 "
                       }
                     ]
                   }
@@ -879,6 +1053,20 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "anchor": "retelling-chapter-6",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Retelling the Chapter 6"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": ""
         }
       ]
     },
@@ -920,7 +1108,6 @@
       ]
     },
     {
-      "grid": false,
       "text": [
         {
           "card": true,
@@ -928,7 +1115,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 7 Questions"
                 }
               ],
               "lineBreak": true
@@ -936,35 +1123,35 @@
             {
               "block": [
                 {
-                  "text": ".1 "
+                  "text": "7.1 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".2 "
+                  "text": "7.2 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".3 "
+                  "text": "7.3 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".4 "
+                  "text": "7.4 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".5 "
+                  "text": "7.5 "
                 }
               ],
               "lineBreak": true
@@ -976,19 +1163,19 @@
                     "title": "Answers",
                     "contents": [
                       {
-                        "content": ".1 "
+                        "content": "7.1 "
                       },
                       {
-                        "content": ".2 "
+                        "content": "7.2 "
                       },
                       {
-                        "content": ".3 "
+                        "content": "7.3 "
                       },
                       {
-                        "content": ".4 "
+                        "content": "7.4 "
                       },
                       {
-                        "content": ".5 "
+                        "content": "7.5 "
                       }
                     ]
                   }
@@ -996,6 +1183,20 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "anchor": "retelling-chapter-7",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Retelling the Chapter 7"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": ""
         }
       ]
     },
@@ -1037,7 +1238,6 @@
       ]
     },
     {
-      "grid": false,
       "text": [
         {
           "card": true,
@@ -1045,7 +1245,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 8 Questions"
                 }
               ],
               "lineBreak": true
@@ -1053,35 +1253,35 @@
             {
               "block": [
                 {
-                  "text": ".1 "
+                  "text": "8.1 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".2 "
+                  "text": "8.2 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".3 "
+                  "text": "8.3 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".4 "
+                  "text": "8.4 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".5 "
+                  "text": "8.5 "
                 }
               ],
               "lineBreak": true
@@ -1093,19 +1293,19 @@
                     "title": "Answers",
                     "contents": [
                       {
-                        "content": ".1 "
+                        "content": "8.1 "
                       },
                       {
-                        "content": ".2 "
+                        "content": "8.2 "
                       },
                       {
-                        "content": ".3 "
+                        "content": "8.3 "
                       },
                       {
-                        "content": ".4 "
+                        "content": "8.4 "
                       },
                       {
-                        "content": ".5 "
+                        "content": "8.5 "
                       }
                     ]
                   }
@@ -1113,6 +1313,20 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "anchor": "retelling-chapter-8",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Retelling the Chapter 8"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": ""
         }
       ]
     },
@@ -1154,7 +1368,6 @@
       ]
     },
     {
-      "grid": false,
       "text": [
         {
           "card": true,
@@ -1162,7 +1375,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 9 Questions"
                 }
               ],
               "lineBreak": true
@@ -1170,35 +1383,35 @@
             {
               "block": [
                 {
-                  "text": ".1 "
+                  "text": "9.1 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".2 "
+                  "text": "9.2 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".3 "
+                  "text": "9.3 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".4 "
+                  "text": "9.4 "
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".5 "
+                  "text": "9.5 "
                 }
               ],
               "lineBreak": true
@@ -1210,19 +1423,19 @@
                     "title": "Answers",
                     "contents": [
                       {
-                        "content": ".1 "
+                        "content": "9.1 "
                       },
                       {
-                        "content": ".2 "
+                        "content": "9.2 "
                       },
                       {
-                        "content": ".3 "
+                        "content": "9.3 "
                       },
                       {
-                        "content": ".4 "
+                        "content": "9.4 "
                       },
                       {
-                        "content": ".5 "
+                        "content": "9.5 "
                       }
                     ]
                   }
@@ -1230,6 +1443,20 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "anchor": "retelling-chapter-9",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Retelling the Chapter 9"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": ""
         }
       ]
     },
@@ -1267,6 +1494,99 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Chapter 10 Questions"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "10.1 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "10.2 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "10.3 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "10.4 "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "10.5 "
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Answers",
+                    "contents": [
+                      {
+                        "content": "10.1 "
+                      },
+                      {
+                        "content": "10.2 "
+                      },
+                      {
+                        "content": "10.3 "
+                      },
+                      {
+                        "content": "10.4 "
+                      },
+                      {
+                        "content": "10.5 "
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "retelling-chapter-10",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Retelling the Chapter 10"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": ""
         }
       ]
     }

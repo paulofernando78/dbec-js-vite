@@ -192,9 +192,37 @@
                     },
                     {
                       "icon": "bookmark",
+                      "link": "#retelling-chapter-1",
+                      "label": "Retelling Chapter 1"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
                       "link": "#chapter-2",
                       "label": "Chapter 2 • Alice's Tears"
                     },
+                    {
+                      "icon": "bookmark",
+                      "link": "#retelling-chapter-2",
+                      "label": "Retelling Chapter 2"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
                     {
                       "icon": "bookmark",
                       "link": "#chapter-3",
@@ -202,9 +230,37 @@
                     },
                     {
                       "icon": "bookmark",
+                      "link": "#retelling-chapter-3",
+                      "label": "Retelling Chapter 3"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
                       "link": "#chapter-4",
                       "label": "Chapter 4 • The White Rabbit's House"
                     },
+                    {
+                      "icon": "bookmark",
+                      "link": "#retelling-chapter-4",
+                      "label": "Retelling Chapter 4"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
                     {
                       "icon": "bookmark",
                       "link": "#chapter-5",
@@ -212,9 +268,37 @@
                     },
                     {
                       "icon": "bookmark",
+                      "link": "#retelling-chapter-5",
+                      "label": "Retelling Chapter 5"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
                       "link": "#chapter-6",
                       "label": "Chapter 6 • The Duchess and the Cheshire Cat"
                     },
+                    {
+                      "icon": "bookmark",
+                      "link": "#retelling-chapter-6",
+                      "label": "Retelling Chapter 6"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
                     {
                       "icon": "bookmark",
                       "link": "#chapter-7",
@@ -222,9 +306,37 @@
                     },
                     {
                       "icon": "bookmark",
+                      "link": "#retelling-chapter-7",
+                      "label": "Retelling Chapter 7"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
                       "link": "#chapter-8",
                       "label": "Chapter 8 • Inside the Garden"
                     },
+                    {
+                      "icon": "bookmark",
+                      "link": "#retelling-chapter-8",
+                      "label": "Retelling Chapter 8"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
                     {
                       "icon": "bookmark",
                       "link": "#chapter-9",
@@ -232,8 +344,27 @@
                     },
                     {
                       "icon": "bookmark",
+                      "link": "#retelling-chapter-9",
+                      "label": "Retelling Chapter 9"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
                       "link": "#chapter-10",
                       "label": "Chapter 10 • Down the Rabbit-hole"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#retelling-chapter-10",
+                      "label": "Retelling Chapter 10"
                     }
                   ]
                 }
