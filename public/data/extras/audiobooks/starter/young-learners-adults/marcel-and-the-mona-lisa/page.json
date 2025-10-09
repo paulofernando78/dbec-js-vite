@@ -60,152 +60,152 @@
       }
     },
     {
-      "hangman": [
-        {
-          "imageSrc": "/assets/images/general/museum.avif",
-          "alt": "A museum building",
-          "word": "museum"
-        },
-        {
-          "imageSrc": "/assets/images/general/painting.avif",
-          "alt": "A framed painting",
-          "word": "painting"
-        },
-        {
-          "imageSrc": "/assets/images/general/knife.avif",
-          "alt": "A sharp knife",
-          "word": "knife"
-        },
-        {
-          "imageSrc": "/assets/images/general/candle.avif",
-          "alt": "A burning candle",
-          "word": "candle"
-        },
-        {
-          "imageSrc": "/assets/images/general/detective.avif",
-          "alt": "A detective in a hat",
-          "word": "detective"
-        },
-        {
-          "imageSrc": "/assets/images/general/steal.avif",
-          "alt": "A thief stealing",
-          "word": "steal"
-        },
-        {
-          "imageSrc": "/assets/images/general/bag.avif",
-          "alt": "A leather bag",
-          "word": "bag"
-        },
-        {
-          "imageSrc": "/assets/images/general/thief.avif",
-          "alt": "A masked thief",
-          "word": "thief"
-        },
-        {
-          "imageSrc": "/assets/images/general/bookcase.avif",
-          "alt": "A wooden bookcase with books",
-          "word": "bookcase"
-        },
-        {
-          "imageSrc": "/assets/images/general/sunglasses.avif",
-          "alt": "A pair of sunglasses",
-          "word": "sunglasses"
-        }
+      "guessWord": [
+      {
+        "imageSrc": "/assets/images/general/museum.avif",
+        "alt": "A museum building",
+        "word": "museum"
+      },
+      {
+        "imageSrc": "/assets/images/general/painting.avif",
+        "alt": "A framed painting",
+        "word": "painting"
+      },
+      {
+        "imageSrc": "/assets/images/general/knife.avif",
+        "alt": "A sharp knife",
+        "word": "knife"
+      },
+      {
+        "imageSrc": "/assets/images/general/candle.avif",
+        "alt": "A burning candle",
+        "word": "candle"
+      },
+      {
+        "imageSrc": "/assets/images/general/detective.avif",
+        "alt": "A detective in a hat",
+        "word": "detective"
+      },
+      {
+        "imageSrc": "/assets/images/general/steal.avif",
+        "alt": "A thief stealing",
+        "word": "steal"
+      },
+      {
+        "imageSrc": "/assets/images/general/bag.avif",
+        "alt": "A leather bag",
+        "word": "bag"
+      },
+      {
+        "imageSrc": "/assets/images/general/thief.avif",
+        "alt": "A masked thief",
+        "word": "thief"
+      },
+      {
+        "imageSrc": "/assets/images/general/bookcase.avif",
+        "alt": "A wooden bookcase with books",
+        "word": "bookcase"
+      },
+      {
+        "imageSrc": "/assets/images/general/sunglasses.avif",
+        "alt": "A pair of sunglasses",
+        "word": "sunglasses"
+      }
       ]
     },
     {
       "exercises": [
+      {
+        "title": "Fill in the blanks with the words from “Guess Word”."
+      },
+      {
+        "fillExercises": [
         {
-          "title": "Fill in the blanks with the words from “Guess Word”."
-        },
-        {
-          "fillExercises": [
+          "blocks": [
+          {
+            "block": [
             {
-              "blocks": [
-                {
-                  "block": [
-                    {
-                      "text": "1.",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "2.",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "3.",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "4.",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "5.",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "6.",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "7.",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "8.",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "9.",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "10.",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                }
-              ]
+              "text": "1. The Mona Lisa is a famous ______ in the Louvre.",
+              "correctAnswer": ["painting"]
             }
+            ]
+          },
+          {
+            "block": [
+            {
+              "text": "2. Marcel is a mouse and a ______.",
+              "correctAnswer": ["detective"]
+            }
+            ]
+          },
+          {
+            "block": [
+            {
+              "text": "3. The thief puts the Mona Lisa in a ______.",
+              "correctAnswer": ["bag"]
+            }
+            ]
+          },
+          {
+            "block": [
+            {
+              "text": "4. The Louvre is a famous ______ in Paris.",
+              "correctAnswer": ["museum"]
+            }
+            ]
+          },
+          {
+            "block": [
+            {
+              "text": "5. The thief uses a ______ to steal the painting.",
+              "correctAnswer": ["knife"]
+            }
+            ]
+          },
+          {
+            "block": [
+            {
+              "text": "6. Marcel sees a ______ stealing the Mona Lisa.",
+              "correctAnswer": ["thief"]
+            }
+            ]
+          },
+          {
+            "block": [
+            {
+              "text": "7. Marcel tries to ______ the painting back.",
+              "correctAnswer": ["steal"]
+            }
+            ]
+          },
+          {
+            "block": [
+            {
+              "text": "8. Marcel climbs up a ______ to escape the cats.",
+              "correctAnswer": ["bookcase"]
+            }
+            ]
+          },
+          {
+            "block": [
+            {
+              "text": "9. Marcel pushes a ______ to stop the cat.",
+              "correctAnswer": ["candle"]
+            }
+            ]
+          },
+          {
+            "block": [
+            {
+              "text": "10. Henri wears ______ on the train.",
+              "correctAnswer": ["sunglasses"]
+            }
+            ]
+          }
           ]
         }
+        ]
+      }
       ]
     },
     {

@@ -306,8 +306,8 @@
                 {
                   "day": [
                     {
-                      "status": "...",
-                      "date": "Fri 3",
+                      "status": "OK",
+                      "date": "Thu 2",
                       "classNotes": "",
                       "homeworkNotes": ""
                     }
@@ -316,9 +316,9 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Tue 7",
-                      "classNotes": "",
+                      "classNotes": "Reviewed New Zealand Reteeling the sotry",
                       "homeworkNotes": ""
                     }
                   ]
@@ -327,8 +327,8 @@
                   "day": [
                     {
                       "status": "...",
-                      "date": "Fri 10",
-                      "classNotes": "",
+                      "date": "Thu 9",
+                      "classNotes": "Reviewed Flying Home Retelling the story",
                       "homeworkNotes": ""
                     }
                   ]
