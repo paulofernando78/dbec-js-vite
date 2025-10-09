@@ -31,68 +31,126 @@
   },
   "contents": [
     {
-      "ribbon": {
-        "icon": "snippet",
-        "label": "Flip Cards"
-      }
-    },
-    {
-      "flipCard": [
+      "text": [
         {
-          "front": {
-            "img": "",
-            "text": "1"
-          },
-          "back": {
-            "img": "",
-            "text": ""
-          }
-        },
-        {
-          "front": {
-            "img": "",
-            "text": "2"
-          },
-          "back": {
-            "img": "",
-            "text": ""
-          }
-        },
-        {
-          "front": {
-            "img": "",
-            "text": "3"
-          },
-          "back": {
-            "img": "",
-            "text": ""
-          }
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Table of Contents"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "snippet",
+                      "link": "#card",
+                      "label": "Card + Label (Links)"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "#images",
+                      "label": "Images"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "#text",
+                      "label": "Text"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "#text-card",
+                      "label": "Text + Card"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "#text-images",
+                      "label": "Text + Image: top / right / bottom / left + Audio Player + Collapsible + Video Player"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "#audio-player",
+                      "label": "Audio Player"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "#video-player",
+                      "label": "Video Player"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "#flip-cards",
+                      "label": "Flip Cards"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "#flip-cards-retell",
+                      "label": "Flip Cards Story Retelling"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "#collapsible",
+                      "label": "Collapsible"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "#exercises",
+                      "label": "Exercises"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
+      "anchor": "card",
       "ribbon": {
         "icon": "snippet",
-        "label": "Collapsible"
+        "label": "Card + Label (Links)"
       }
     },
     {
-      "collapsible": {
-        "title": "AAaa",
-        "contents": [
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "",
+        "icon": "page",
+        "label": "Label",
+        "descriptions": [
           {
-            "content": "BBbb"
+            "description": [
+              {
+                "bold": "..."
+              }
+            ],
+            "addHr": true,
+            "links": [
+              {
+                "icon": "book",
+                "link": "https://example.com",
+                "label": "label"
+              },
+              {
+                "icon": "book",
+                "link": "https://example.com",
+                "label": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+              }
+            ]
           }
         ]
       }
     },
     {
-      "components": "wc-the-alphabet"
-    },
-    {
+      "anchor": "images",
       "ribbon": {
         "icon": "snippet",
-        "label": "Image"
+        "label": "Images"
       }
     },
     {
@@ -120,7 +178,159 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Blocks + Image top / right / bottom / left "
+        "label": "Text"
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "boldText "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "phonetics": "phonetics "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "partOfSpeech": "partOfSpeech "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "text "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "markedText": "mark"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "ptBoldText": " ptBoldText "
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "ptText": "ptText"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "boldText "
+                },
+                {
+                  "phonetics": "phonetics "
+                },
+                {
+                  "partOfSpeech": "partOfSpeech "
+                },
+                {
+                  "text": "text "
+                },
+                {
+                  "markedText": "mark"
+                },
+                {
+                  "ptBoldText": " ptBoldText "
+                },
+                {
+                  "ptText": "ptText"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "link",
+                      "link": "#",
+                      "label": "link"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#",
+                      "label": "anchor → Ribbon #..."
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "icon": "snippet"
+                },
+                {
+                  "boldText": "... "
+                },
+                {
+                  "icon": "snippet"
+                },
+                {
+                  "boldText": "... "
+                },
+                {
+                  "icon": "snippet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "text-card",
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Text + Card"
+      }
+    },
+    {
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "... "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "text-images",
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Text + Image top / right / bottom / left + Audio Player + Collapsible + Video Player"
       }
     },
     {
@@ -155,25 +365,7 @@
               },
               "block": [
                 {
-                  "boldText": "Top boldText "
-                },
-                {
-                  "phonetics": "phonetics "
-                },
-                {
-                  "partOfSpeech": "partOfSpeech "
-                },
-                {
-                  "text": "text "
-                },
-                {
-                  "markedText": "mark"
-                },
-                {
-                  "ptBoldText": " boldPtText "
-                },
-                {
-                  "ptText": "ptText"
+                  "boldText": "Top"
                 }
               ],
               "lineBreak": true
@@ -208,25 +400,7 @@
             {
               "block": [
                 {
-                  "boldText": "Right boldText "
-                },
-                {
-                  "phonetics": "phonetics "
-                },
-                {
-                  "partOfSpeech": "partOfSpeech "
-                },
-                {
-                  "text": "text "
-                },
-                {
-                  "markedText": "mark"
-                },
-                {
-                  "ptBoldText": " boldPtText "
-                },
-                {
-                  "ptText": "ptText"
+                  "boldText": "Right"
                 }
               ],
               "lineBreak": true
@@ -247,25 +421,7 @@
             {
               "block": [
                 {
-                  "boldText": "Right boldText "
-                },
-                {
-                  "phonetics": "phonetics "
-                },
-                {
-                  "partOfSpeech": "partOfSpeech "
-                },
-                {
-                  "text": "text "
-                },
-                {
-                  "markedText": "mark"
-                },
-                {
-                  "ptBoldText": " boldPtText "
-                },
-                {
-                  "ptText": "ptText"
+                  "boldText": "Left"
                 }
               ],
               "lineBreak": true
@@ -286,25 +442,7 @@
             {
               "block": [
                 {
-                  "boldText": "Right boldText "
-                },
-                {
-                  "phonetics": "phonetics "
-                },
-                {
-                  "partOfSpeech": "partOfSpeech "
-                },
-                {
-                  "text": "text "
-                },
-                {
-                  "markedText": "mark"
-                },
-                {
-                  "ptBoldText": " boldPtText "
-                },
-                {
-                  "ptText": "ptText"
+                  "boldText": "Bottom"
                 }
               ]
             }
@@ -349,161 +487,11 @@
       ]
     },
     {
-      "ribbon": { "icon": "snippet", "label": "blocks only" }
-    },
-    {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "boldText "
-                },
-                {
-                  "phonetics": "phonetics "
-                },
-                {
-                  "partOfSpeech": "partOfSpeech "
-                },
-                {
-                  "text": "text "
-                },
-                {
-                  "markedText": "mark"
-                },
-                {
-                  "ptBoldText": " ptBoldText "
-                },
-                {
-                  "ptText": "ptText"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText": "boldText "
-                },
-                {
-                  "phonetics": "phonetics "
-                },
-                {
-                  "partOfSpeech": "partOfSpeech "
-                },
-                {
-                  "text": "text "
-                },
-                {
-                  "markedText": "mark"
-                },
-                {
-                  "ptBoldText": " ptBoldText "
-                },
-                {
-                  "ptText": "ptText"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "boldText "
-                },
-                {
-                  "phonetics": "phonetics "
-                },
-                {
-                  "partOfSpeech": "partOfSpeech "
-                },
-                {
-                  "text": "text "
-                },
-                {
-                  "markedText": "mark"
-                },
-                {
-                  "ptBoldText": " ptBoldText "
-                },
-                {
-                  "ptText": "ptText"
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "boldText": ""
-                },
-                {
-                  "phonetics": ""
-                },
-                {
-                  "partOfSpeech": ""
-                },
-                {
-                  "text": ""
-                },
-                {
-                  "markedText": ""
-                },
-                {
-                  "ptBoldText": ""
-                },
-                {
-                  "ptText": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ribbon": { "icon": "snippet", "label": "Card" }
-    },
-    {
-      "card": {
-        "bgColor": "var(--gray-3)",
-        "textColor": "",
-        "icon": "page",
-        "label": "Label",
-        "descriptions": [
-          {
-            "description": [
-              {
-                "bold": "bold "
-              },
-              {
-                "text": "text "
-              },
-              {
-                "markedText": "mark"
-              }
-            ],
-            "addHr": true,
-            "links": [
-              {
-                "icon": "book",
-                "link": "https://example.com",
-                "label": "label"
-              },
-              {
-                "icon": "book",
-                "link": "https://example.com",
-                "label": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Lorem ipsum dolor sit amet consectetur, adipisicing elit."
-              }
-            ]
-          }
-        ]
+      "anchor": "audio-player",
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Audio Player"
       }
-    },
-    {
-      "ribbon": { "icon": "snippet", "label": "Audio Player" }
     },
     {
       "audioPlayer": {
@@ -512,7 +500,11 @@
       }
     },
     {
-      "ribbon": { "icon": "snippet", "label": "Video Player (Iframe)" }
+      "anchor": "video-player",
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Video Player (Iframe)"
+      }
     },
     {
       "videoPlayer": {
@@ -521,10 +513,89 @@
       }
     },
     {
-      "ribbon": { "icon": "snippet", "label": "Exercises" }
+      "anchor": "flip-cards",
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Flip Cards"
+      }
     },
     {
-      "ribbon": { "icon": "snippet", "label": "Radio exercise" }
+      "flipCard": [
+        {
+          "front": {
+            "img": "",
+            "text": "1"
+          },
+          "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "2"
+          },
+          "back": {
+            "img": "",
+            "text": ""
+          }
+        },
+        {
+          "front": {
+            "img": "",
+            "text": "3"
+          },
+          "back": {
+            "img": "",
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "flip-cards-retell",
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Flip Cards Story Retelling"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        }
+      ]
+    },
+    {
+      "anchor": "collapsible",
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Collapsible"
+      }
+    },
+    {
+      "collapsible": {
+        "title": "AAaa",
+        "contents": [
+          {
+            "content": "BBbb"
+          }
+        ]
+      }
+    },
+    {
+      "anchor": "exercises",
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Exercises"
+      }
     },
     {
       "exercises": [
@@ -543,7 +614,7 @@
         },
         {
           "audioSrc": "/assets/audio",
-          "title": "Exercises",
+          "title": "Radio Title",
           "description": "Description"
         },
         {
@@ -553,25 +624,11 @@
                 {
                   "block": [
                     {
-                      "text": "teste "
+                      "text": "... "
                     }
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "flip": [
-            {
-              "front": {
-                "img": "/assets/images/general/cat-1.avif",
-                "text": "ggg"
-              },
-              "back": {
-                "img": "/assets/images/general/cat-2.avif",
-                "text": "bbb"
-              }
             }
           ]
         },
@@ -633,15 +690,15 @@
               ],
               "options": [
                 {
-                  "option": "a) ...",
+                  "option": "...",
                   "isCorrect": true
                 },
                 {
-                  "option": "b) ...",
+                  "option": "...",
                   "isCorrect": false
                 },
                 {
-                  "option": "c) ...",
+                  "option": "...",
                   "isCorrect": false
                 }
               ]
@@ -649,7 +706,7 @@
           ]
         },
         {
-          "title": "Fill in the blank",
+          "title": "Fill in the blank Title",
           "description": "Description"
         },
         {
@@ -715,6 +772,16 @@
           ]
         }
       ]
+    },
+    {
+      "anchor": "wc-the-alphabet",
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Alphabet Component"
+      }
+    },
+    {
+      "component": "wc-the-alphabet"
     }
   ]
 }

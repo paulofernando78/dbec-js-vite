@@ -239,6 +239,11 @@ class Contents extends HTMLElement {
         flipCardWrapper.classList.add("flip-card-container");
         contentContainer.appendChild(flipCardWrapper);
 
+        const p = document.createElement("p");
+        p.className = "bold";
+        p.textContent = section.flipCard.statement;
+        contentContainer.appendChild(p);
+
         section.flipCard.forEach((item) => {
           const flip = document.createElement("wc-flip-card");
           flip.data = item;
@@ -248,13 +253,19 @@ class Contents extends HTMLElement {
 
       // Flip Cards Retell
       if (section.flipCardRetell) {
+        const p = document.createElement("p");
+        p.className = "bold";
+        p.textContent =
+          "Click or tap to flip the cards to see each part of the story. Can you remember what happened? Retell the story in your own words. Take notes if you like!";
+        contentContainer.appendChild(p);
+
         const flipCardWrapper = document.createElement("div");
         flipCardWrapper.classList.add("flip-card-container");
         contentContainer.appendChild(flipCardWrapper);
 
         section.flipCardRetell.forEach((item, index) => {
           const flip = document.createElement("wc-flip-card-retell");
-          flip.data = { ...item, index};
+          flip.data = { ...item, index };
           flipCardWrapper.appendChild(flip);
         });
       }

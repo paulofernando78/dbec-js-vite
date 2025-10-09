@@ -10,6 +10,27 @@
   },
   "contents": [
     {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "General",
+        "descriptions": [
+          {
+            "links": [
+              {
+                "icon": "page",
+                "link": "/extras/games/minecraft",
+                "label": "Minecraft Guide"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hr": true
+    },
+    {
       "text": [
         {
           "blocks": [
@@ -24,6 +45,15 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "images": [
+        {
+          "width": "300px",
+          "src": "/assets/images/extras/games/sierra.jpg",
+          "alt": "Sierra logo and characters"
         }
       ]
     },
@@ -44,6 +74,9 @@
           }
         ]
       }
+    },
+    {
+      "hr": true
     },
     {
       "images": [

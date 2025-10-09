@@ -1,7 +1,13 @@
 {
   "whiteboard": {
     "title": "Extras",
-    "subtitle": "Audiobooks"
+    "subtitle": "Audiobooks",
+    "descriptions": [
+      {
+        "icon": "audiobooks",
+        "description": "Audiobooks"
+      }
+    ]
   },
   "contents": [
     {
@@ -13,32 +19,33 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon":	"books",
         "label": "Kids",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/kids/cinderella",
                 "label": "Cinderella (03:05)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/kids/dumbo",
                 "label": "Dumbo (02:56)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/kids/finding-nemo",
                 "label": "Finding Nemo (01:44)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/kids/puss-in-boots",
                 "label": "Puss-in-Boots (01:45)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/kids/sleeping-beauty",
                 "label": "Sleeping Beauty (01:54)"
               }
@@ -50,72 +57,73 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon":	"books",
         "label": "Young learners / Adults",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure",
                 "label": "A New Zealand Adventure (6:02)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/young-learners-adults/flying-home",
                 "label": "Flying home (7:05)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa",
                 "label": "Marcel and the Mona Lisa (11:40)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star",
                 "label": "Marcel and the White Star (0:00)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/young-learners-adults/newspaper-chase",
                 "label": "Newspaper Chase (0:00)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/young-learners-adults/simon-and-the-spy",
                 "label": "Simon and the Spy (0:00)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/young-learners-adults/the-fireboy",
                 "label": "The Fireboy (0:00)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/young-learners-adults/the-last-photo",
                 "label": "The Last Photo (0:00)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/young-learners-adults/the-leopard-and-the-lighthouse",
                 "label": "The Leopard and the Lighthouse (0:00)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/young-learners-adults/the-pearl-girl",
                 "label": "The Pearl Girl (0:00)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/young-learners-adults/the-troy-stone",
                 "label": "The Troy Stone (0:00)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/young-learners-adults/the-white-oryx",
                 "label": "The White Oryx (0:00)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/young-learners-adults/who-wants-to-be-a-star",
                 "label": "Who Wants to be a star (0:00)"
               }
@@ -133,12 +141,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon":	"books",
         "label": "Kids",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/kids/",
                 "label": "..."
               }
@@ -150,12 +159,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon":	"books",
         "label": "Young learners / Adults",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/beginner/young-learners-adults/chicken-run",
                 "label": "Chiken Run (0:00)"
               }
@@ -164,7 +174,7 @@
           {
             "links": [
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/beginner/young-learners-adults/mother-teresa",
                 "label": "Mother Teresa (0:00)"
               }
@@ -173,7 +183,7 @@
           {
             "links": [
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/beginner/young-learners-adults/the-missing-coins",
                 "label": "The Missing Coins (0:00)"
               }
@@ -191,17 +201,18 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon":	"books",
         "label": "Young learners / Adults",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland",
                 "label": "Alice in Wonderland (1:04:45)"
               },
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "/extras/audiobooks/elementary/young-learners-adults/robin-hood",
                 "label": "Robin Hood (1:08:40)"
               }
@@ -219,12 +230,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon":	"books",
         "label": "Young learners / Adults",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "#",
                 "label": "..."
               }
@@ -242,12 +254,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon":	"books",
         "label": "Young learners / Adults",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "#",
                 "label": "..."
               }
@@ -265,12 +278,13 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
+        "icon":	"books",
         "label": "Plus",
         "descriptions": [
           {
             "links": [
               {
-                "icon": "book",
+                "icon": "audiobook",
                 "link": "#",
                 "label": "The Odyssey of Homer"
               }

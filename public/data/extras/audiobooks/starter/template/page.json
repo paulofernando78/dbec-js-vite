@@ -1240,32 +1240,6 @@
       }
     },
     {
-      "grid": false,
-      "text": [
-        {
-          "card": false,
-          "blocks": [
-            {
-              "block": [
-                {
-                  "icon": "mouse"
-                },
-                {
-                  "boldText": "Click or "
-                },
-                {
-                  "icon": "tap"
-                },
-                {
-                  "boldText": "tap to flip the cards to see each part of the story. Can you remember what happened? Retell the story in your own words. Take notes if you like!."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "flipCardRetell": [
         {
           "img": "/assets/images/general/cat-1.avif"
@@ -1275,6 +1249,9 @@
         },
         {
           "img": "/assets/images/general/cat-3.avif"
+        },
+        {
+          "img": "/assets/images/general/cat-4.avif"
         }
       ]
     }

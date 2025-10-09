@@ -1,30 +1,28 @@
 import cssImportsPath from "/src/css/imports.css?inline";
+import cssIconItemPath from "/src/css/components/molecules/icon-item.css?inline";
+
 class IconItem extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    const cssImports = document.createElement("style");
-    cssImports.textContent = cssImportsPath;
-    this.shadowRoot.appendChild(cssImports);
+    [cssImportsPath, cssIconItemPath].forEach((css) => {
+      const style = document.createElement("style");
+      style.textContent = css;
+      this.shadowRoot.appendChild(style);
+    });
 
     const css = document.createElement("style");
     /*css*/
     css.textContent = `
-
       :host {
         display: flex;
-        align-items: center;
+        // align-items: center;
         gap: 5px
       }
 
       :host(:not(:first-child)) {
-      margin-bottom: 5px
-      }
-
-      .link-shifted {
-        position: relative;
-        top: 4.5px
+      // margin-bottom: 5px
       }
     `;
 
@@ -43,7 +41,7 @@ class IconItem extends HTMLElement {
       }
     });
 
-    this.shadowRoot.append(cssImports, css);
+    this.shadowRoot.append(css);
   }
 
   set data({ icon, link, target, label }) {
@@ -69,6 +67,7 @@ class IconItem extends HTMLElement {
       textElement = anchor;
     } else {
       const desc = document.createElement("span");
+      desc.className = "label"
       desc.textContent = label;
       // desc.classList.add("link-shifted");
       textElement = desc;
