@@ -1,7 +1,7 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 import cssComponentPath from "/src/css/components/atoms/floating-board.css?inline";
 
-import { arrowDropUp, arrowDropDown } from "@images/svg-imports";
+import { arrowDropUp, arrowDropDown, write } from "@images/svg-imports";
 
 class FloatingBoard extends HTMLElement {
   constructor() {
@@ -19,13 +19,13 @@ class FloatingBoard extends HTMLElement {
     this.shadowRoot.appendChild(wrapper);
 
     const openClose = document.createElement("div");
-    openClose.innerHTML = arrowDropUp;
+    openClose.innerHTML = write;
     openClose.className = "open-close";
 
     openClose.addEventListener("click", () => {
       const isHidden = getComputedStyle(floatingBoard).display === "none";
       floatingBoard.style.display = isHidden ? "block" : "none";
-      openClose.innerHTML = isHidden ? arrowDropDown : arrowDropUp;
+      // openClose.innerHTML = isHidden ? arrowDropDown : arrowDropUp;
 
       if (isHidden) {
         wrapper.classList.add("wrapper-extended");

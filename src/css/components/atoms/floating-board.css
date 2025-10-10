@@ -14,11 +14,13 @@
   text-align: center;
   cursor: pointer;
   border: 1px solid lightgray;
+  display: grid;
+  place-items: center;
 }
 
 .open-close svg {
-  width: 25px !important;
-  height: 25px !important;
+  width: 20px !important;
+  height: 20px !important;
 }
 
 textarea {

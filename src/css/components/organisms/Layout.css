@@ -34,6 +34,7 @@
 }
 
 wc-floating-board {
+  width: 32px;
   position: absolute;
   left: 233px;
   bottom: 37px;
