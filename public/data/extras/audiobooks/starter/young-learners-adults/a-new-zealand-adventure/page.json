@@ -83,6 +83,46 @@
         }
       ]
     },
+        {
+      "grid": false,
+      "text": [
+        {
+          "card": true,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/auckland.mp3"
+                },
+                {
+                  "text": "Auckland is a major city in the north of New Zealand’s North Island."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "collapsible": {
+                    "title": "Translation",
+                    "contents": [
+                      {
+                        "content": "Auckland é uma cidade importante no norte da Ilha Norte da Nova Zelândia."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "iframe": {
+        "src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3268890.664738037!2d174.706121!3d-36.859811!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0d47fb5a9ce6fb%3A0x500ef6143a29917!2sAuckland%2C%20New%20Zealand!5e0!3m2!1sen!2sus!4v1734803605582!5m2!1sen!2sus"
+      }
+    },
     {
       "ribbon": {
         "icon": "snippet",
@@ -392,46 +432,6 @@
       }
     },
     {
-      "grid": false,
-      "text": [
-        {
-          "card": true,
-          "blocks": [
-            {
-              "block": [
-                {
-                  "audioSrc": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/auckland.mp3"
-                },
-                {
-                  "text": "Auckland is a major city in the north of New Zealand’s North Island."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "collapsible": {
-                    "title": "Translation",
-                    "contents": [
-                      {
-                        "content": "Auckland é uma cidade importante no norte da Ilha Norte da Nova Zelândia."
-                      }
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "iframe": {
-        "src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3268890.664738037!2d174.706121!3d-36.859811!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0d47fb5a9ce6fb%3A0x500ef6143a29917!2sAuckland%2C%20New%20Zealand!5e0!3m2!1sen!2sus!4v1734803605582!5m2!1sen!2sus"
-      }
-    },
-    {
       "anchor": "paragraph-1",
       "ribbon": {
         "icon": "snippet",
@@ -481,7 +481,7 @@
     {
       "exercises": [
         {
-          "title": "1. Fill in the blank with the correct answer."
+          "title": "1. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -520,6 +520,44 @@
                       "text": "a taxi from the airport to the bus station."
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Answers the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 Why are Jessica and Sarah excited?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 Who's sitting near the window?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.3 How are they going to go to the bus station?"
                 }
               ]
             }
@@ -577,7 +615,7 @@
     {
       "exercises": [
         {
-          "title": "2. Fill in the blank with the correct answer."
+          "title": "2. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -651,7 +689,7 @@
     {
       "exercises": [
         {
-          "title": "3. Fill in the blank with the correct answer."
+          "title": "3. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -736,7 +774,7 @@
     {
       "exercises": [
         {
-          "title": "4. Fill in the blank with the correct answer."
+          "title": "4. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -810,7 +848,7 @@
     {
       "exercises": [
         {
-          "title": "5. Fill in the blank with the correct answer."
+          "title": "5. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -892,7 +930,7 @@
     {
       "exercises": [
         {
-          "title": "6. Fill in the blank with the correct answer."
+          "title": "6. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -970,7 +1008,7 @@
     {
       "exercises": [
         {
-          "title": "7. Fill in the blank with the correct answer."
+          "title": "7. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1055,7 +1093,7 @@
     {
       "exercises": [
         {
-          "title": "8. Fill in the blank with the correct answer."
+          "title": "8. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1142,7 +1180,7 @@
     {
       "exercises": [
         {
-          "title": "9. Fill in the blank with the correct answer."
+          "title": "9. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1216,7 +1254,7 @@
     {
       "exercises": [
         {
-          "title": "10. Fill in the blank with the correct answer."
+          "title": "10. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1290,7 +1328,7 @@
     {
       "exercises": [
         {
-          "title": "11.1 Fill in the blank with the correct answer."
+          "title": "11.1 Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1368,7 +1406,7 @@
     {
       "exercises": [
         {
-          "title": "12. Fill in the blank with the correct answer."
+          "title": "12. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1442,7 +1480,7 @@
     {
       "exercises": [
         {
-          "title": "13. Fill in the blank with the correct answer."
+          "title": "13. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1532,7 +1570,7 @@
     {
       "exercises": [
         {
-          "title": "14. Fill in the blank with the correct answer."
+          "title": "14. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
