@@ -60,55 +60,45 @@
       }
     },
     {
-      "hangman": [
+      "guessWord": [
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/l.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         }
       ]
@@ -209,10 +199,108 @@
       ]
     },
     {
-      "audioPlayer": {
-        "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/the-fireboy/audio.mp3"
+      "ribbon": {
+        "icon": "bookmarks",
+        "label": "Paragraphs"
       }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 1"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-2",
+                      "label": "Paragraph 2"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-3",
+                      "label": "Paragraph 3"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-4",
+                      "label": "Paragraph 4"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-5",
+                      "label": "Paragraph 5"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-6",
+                      "label": "Paragraph 6"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-7",
+                      "label": "Paragraph 7"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-8",
+                      "label": "Paragraph 8"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-9",
+                      "label": "Paragraph 9"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-10",
+                      "label": "Paragraph 10"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-13",
+                      "label": "Paragraph 11"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-12",
+                      "label": "Paragraph 12"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-13",
+                      "label": "Paragraph 13"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-14",
+                      "label": "Paragraph 14"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-15",
+                      "label": "Paragraph 15"
+                    },
+                    {
+                      "icon": "picture",
+                      "link": "#retelling",
+                      "label": "Retelling the story"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "ribbon": {
@@ -245,7 +333,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "1. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -272,7 +360,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 2 • 0:52"
+        "label": "Paragraph 2"
       }
     },
     {
@@ -300,7 +388,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "2.1 Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -310,7 +398,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "2.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -327,7 +415,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 3 • 1:44"
+        "label": "Paragraph 3"
       }
     },
     {
@@ -355,7 +443,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "3. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -365,7 +453,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "3.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -382,7 +470,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 4 • 2:40"
+        "label": "Paragraph 4"
       }
     },
     {
@@ -410,7 +498,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "4. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -420,7 +508,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "4.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -437,7 +525,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 5 • 3:30"
+        "label": "Paragraph 5"
       }
     },
     {
@@ -465,7 +553,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "5. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -475,7 +563,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "5.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -492,7 +580,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 6 • 4:15"
+        "label": "Paragraph 6"
       }
     },
     {
@@ -520,7 +608,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "6. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -530,7 +618,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "6.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -547,7 +635,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 7 • 4:56"
+        "label": "Paragraph 7"
       }
     },
     {
@@ -575,7 +663,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "7. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -585,7 +673,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "7.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -602,7 +690,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 8 • 5:39"
+        "label": "Paragraph 8"
       }
     },
     {
@@ -623,7 +711,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "8. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -633,7 +721,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "8.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -650,7 +738,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 9 • 6:36"
+        "label": "Paragraph 9"
       }
     },
     {
@@ -678,7 +766,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "9. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -688,7 +776,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "9.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -705,7 +793,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 10 • 7:30"
+        "label": "Paragraph 10"
       }
     },
     {
@@ -733,7 +821,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "10. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -743,7 +831,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "10.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -760,7 +848,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 11 • 8:18"
+        "label": "Paragraph 11"
       }
     },
     {
@@ -788,7 +876,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "11. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -798,7 +886,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "11.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -815,7 +903,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 12 • 9:15"
+        "label": "Paragraph 12"
       }
     },
     {
@@ -843,7 +931,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "12. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -853,7 +941,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "12.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -870,7 +958,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 13 • 10:06"
+        "label": "Paragraph 13"
       }
     },
     {
@@ -898,7 +986,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "13. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -908,7 +996,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "13.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -925,7 +1013,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 14 • 10:58"
+        "label": "Paragraph 14"
       }
     },
     {
@@ -953,7 +1041,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "14. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -963,7 +1051,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "14.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -980,7 +1068,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 15 • 11:42"
+        "label": "Paragraph 15"
       }
     },
     {
@@ -998,6 +1086,33 @@
               "block": [
                 {
                   "text": "At the end of Hapu’s story, Cleopatra looks at him. “All right,” she says. “You can go home to your father. But...” “But?” asks Hapu. “But from today, the two of you work only for me. Do you understand?” “Oh yes!” Hapu smiles. He is very happy. Now he and his father can make lots of beautiful things and be rich. “Yes, I understand.”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "15. Look at paragraph 1 and fill in the blanks with the correct answers."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "15.1 ...",
+                      "correctAnswer": ["..."]
+                    },
+                    {
+                      "text": "..."
+                    }
+                  ]
                 }
               ]
             }

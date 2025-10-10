@@ -16,7 +16,7 @@
       },
       {
         "icon": "time",
-        "description": "08:48"
+        "description": "00:00"
       },
       {
         "icon": "flag",
@@ -209,10 +209,108 @@
       ]
     },
     {
-      "audioPlayer": {
-        "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/the-last-photo/audio.mp3"
+      "ribbon": {
+        "icon": "bookmarks",
+        "label": "Paragraphs"
       }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 1"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-2",
+                      "label": "Paragraph 2"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-3",
+                      "label": "Paragraph 3"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-4",
+                      "label": "Paragraph 4"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-5",
+                      "label": "Paragraph 5"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-6",
+                      "label": "Paragraph 6"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-7",
+                      "label": "Paragraph 7"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-8",
+                      "label": "Paragraph 8"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-9",
+                      "label": "Paragraph 9"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-10",
+                      "label": "Paragraph 10"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-13",
+                      "label": "Paragraph 11"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-12",
+                      "label": "Paragraph 12"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-13",
+                      "label": "Paragraph 13"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-14",
+                      "label": "Paragraph 14"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-15",
+                      "label": "Paragraph 15"
+                    },
+                    {
+                      "icon": "picture",
+                      "link": "#retelling",
+                      "label": "Retelling the story"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "ribbon": {
@@ -232,6 +330,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "It is Saturday afternoon. Martin and his sister Pam are in Cambridge for the day. They are looking at the beautiful old buildings of this University City. Pam has a camera with her. She likes taking photos and sometimes they are very good. But sometimes they are not very good and Martin. them."
@@ -245,7 +347,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "1. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -253,6 +355,10 @@
               "card": false,
               "blocks": [
                 {
+                  "audioPlayer": {
+                    "sticky": false,
+                    "src": "/assets/audio/"
+                  },
                   "block": [
                     {
                       "text": "1.1 ...",
@@ -272,7 +378,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 2 • 0:37"
+        "label": "Paragraph 2"
       }
     },
     {
@@ -287,6 +393,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "It is five o’clock. Pam and Martin are going home now. They are tired after their long day. They are in the garden near the bus station. “Let’s have a last photo of you”, says Pam. “Oh no, not again”, says Martin. “Come on”, says Pam. “It’s the last one. I want to finish the film in my camera.”"
@@ -300,7 +410,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "2. Look at paragraph 2 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -310,7 +420,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "2.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -327,7 +437,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 3 • 1:15"
+        "label": "Paragraph 3"
       }
     },
     {
@@ -342,6 +452,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "“Oh, all right,” says Martin. He stands in front of the flowers. “Look at me”, says Pam and takes a photo. A man with a big rucksack on his back walks between Pam and Martin. “Oh no”, says Pam. “Now I’ve got a picture of that man, not of you, Martin.”"
@@ -355,7 +469,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "3. Look at paragraph 3 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -365,7 +479,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "3.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -382,7 +496,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 4 • 1:53"
+        "label": "Paragraph 4"
       }
     },
     {
@@ -397,6 +511,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "The man looks at Pam. He is angry. He goes across the road without a word. “That man isn’t very nice, is he?” says Martin. “No”, says Pam. “And that was the last picture on the film, too.” The man with the rucksack on his back goes into the bus station. He’s got sunglasses and a blue hat."
@@ -410,7 +528,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "4. Look at paragraph 4 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -420,7 +538,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "4.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -437,7 +555,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 5 • 2:30"
+        "label": "Paragraph 5"
       }
     },
     {
@@ -452,6 +570,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "“Come on,” says Martin. “Let’s find our bus.” They go into the bus station. “Look”, says Martin. “There’s that man again. He’s getting into that bus. He’s going to Aberdeen. That’s in Scotland.” “Good”, says Pam. “Far from here and far from me!” She is angry with the man."
@@ -465,7 +587,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "5. Look at paragraph 5 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -475,7 +597,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "5.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -492,7 +614,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 6 • 3:12"
+        "label": "Paragraph 6"
       }
     },
     {
@@ -507,6 +629,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "Three days later, on Tuesday, Pam has got her photos from the shop. “Look at these”, she says to Martin. “They’re the photos of us in Cambridge.” “Oh, these are all very good,” says Martin. “But not this last one,” says Pam. “Look, it’s that man with the rucksack.”"
@@ -520,7 +646,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "6. Look at paragraph 6 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -530,7 +656,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "6.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -547,7 +673,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 7 • 3:43"
+        "label": "Paragraph 7"
       }
     },
     {
@@ -562,6 +688,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "In the photo, the man is in front of Martin. You can’t see Martin behind the man’s rucksack. “Wait a minute,” says Martin. “I know that face. It’s in the newspaper. Have you got it?” “Today’s newspaper?” says Pam. “Yes, it’s here. Why?” “Yes, here he is. Look at this picture,” says Martin. Pam looks at the photo in the newspaper."
@@ -575,7 +705,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "7. Look at paragraph 7 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -585,7 +715,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "7.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -602,7 +732,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 8 • 4:27"
+        "label": "Paragraph 8"
       }
     },
     {
@@ -617,6 +747,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "“Who’s that?” she asks. “It says in the paper his name’s Alan Rook,” says Martin. “And he works in a bank in London.” But on Monday morning—yesterday morning—no Alan Rook! The people at the bank don’t know where he is. And they say he’s got a hundred thousand pounds with him. The police are looking for him, too."
@@ -630,7 +764,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "8. Look at paragraph 8 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -640,7 +774,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "8.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -657,7 +791,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 9 • 5:05"
+        "label": "Paragraph 9"
       }
     },
     {
@@ -672,6 +806,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "“But is that the man in my photo?” asks Pam. “He hasn’t got a beard and he hasn’t any hair.” “Look at his ears. Look at his nose,” says Martin. “It’s him. I know it is.” Martin has an idea. He takes a pencil and starts to draw on the newspaper. “What are you doing?” asks Pam."
@@ -685,7 +823,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "9. Look at paragraph 9 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -695,7 +833,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "9.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -712,7 +850,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 10 • 5:43"
+        "label": "Paragraph 10"
       }
     },
     {
@@ -727,6 +865,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "“Look,” says Martin. “I’m putting dark glasses and a two-day beard on the man in this photo. Now I’m drawing a hat on his head. See? Now, look at the two pictures.” “You’re right,” says Pam. “It’s him. It’s Alan Rook.” “Come on, says Martin. Let’s take these pictures to the police.”"
@@ -740,7 +882,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "10. Look at paragraph 10 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -750,7 +892,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "10.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -767,7 +909,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 11 • 6:19"
+        "label": "Paragraph 11"
       }
     },
     {
@@ -782,6 +924,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "At the police station, Pam and Martin speak to a policeman. They put Pam’s photo and the newspaper on the table and they tell their story. “That’s Alan Rook,” says the policeman. “In Cambridge at 5 o’clock on Saturday. The big question is—where is he now?”"
@@ -795,7 +941,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "11. Look at paragraph 11 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -805,7 +951,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "11.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -822,7 +968,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 12 • 6:47"
+        "label": "Paragraph 12"
       }
     },
     {
@@ -837,6 +983,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "“We think we know. He’s in Scotland, in Aberdeen,” says Pam. “Or he’s near there.” They tell the policeman about the man and the bus to Aberdeen. “He’s got a rucksack and a tent on his back in the photo,” says the policeman. “He isn’t living in a hotel. He’s camping. If we’re lucky, he’s still in Scotland. I must make a telephone call.”"
@@ -850,7 +1000,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "12. Look at paragraph 12 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -860,7 +1010,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "12.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -877,7 +1027,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 13 • 7:27"
+        "label": "Paragraph 13"
       }
     },
     {
@@ -892,6 +1042,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "The policeman telephones the police station in Aberdeen. “Alan Rook’s in Scotland,” he says. “We think he’s camping near Aberdeen. He’s got a short beard now.” The next day the police in Aberdeen find Alan Rook in a tent in the mountains near Aberdeen. The money from the bank is in his rucksack."
@@ -905,7 +1059,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "13. Look at paragraph 13 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -915,7 +1069,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "13.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -932,7 +1086,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 14 • 8:00"
+        "label": "Paragraph 14"
       }
     },
     {
@@ -947,6 +1101,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "The next morning Pam and Martin’s story is in all the newspapers. There is Pam’s photo of Alan Rook at the bus station. There is a picture of Martin and Pam, too. In the newspaper, it says: CAMERA GIRL GETS PHOTO OF ROOK POLICE IN ABERDEEN FIND BANK MONEY."
@@ -960,7 +1118,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "14. Look at paragraph 14 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -970,7 +1128,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "14.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -987,7 +1145,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 15 • 8:28"
+        "label": "Paragraph 15"
       }
     },
     {
@@ -1002,9 +1160,40 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "The people at the bank are very happy. They give Pam and Martin a thousand pounds. “My last photo’s a good one after all,” laughs Pam. Now I can buy a very good new camera."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "15. Look at paragraph 15 and fill in the blanks with the correct answers."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "15.1 ...",
+                      "correctAnswer": ["..."]
+                    },
+                    {
+                      "text": "..."
+                    }
+                  ]
                 }
               ]
             }

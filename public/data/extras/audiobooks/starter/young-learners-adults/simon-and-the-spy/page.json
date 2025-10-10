@@ -16,7 +16,7 @@
       },
       {
         "icon": "time",
-        "description": "11:21"
+        "description": "00:00"
       },
       {
         "icon": "flag",
@@ -209,10 +209,108 @@
       ]
     },
     {
-      "audioPlayer": {
-        "sticky": true,
-        "src": "/assets/audio/extras/audiobooks/starter/young-learners-adults/simon-and-the-spy/audio.mp3"
+      "ribbon": {
+        "icon": "bookmarks",
+        "label": "Paragraphs"
       }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-1",
+                      "label": "Paragraph 1"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-2",
+                      "label": "Paragraph 2"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-3",
+                      "label": "Paragraph 3"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-4",
+                      "label": "Paragraph 4"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-5",
+                      "label": "Paragraph 5"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-6",
+                      "label": "Paragraph 6"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-7",
+                      "label": "Paragraph 7"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-8",
+                      "label": "Paragraph 8"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-9",
+                      "label": "Paragraph 9"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-10",
+                      "label": "Paragraph 10"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-13",
+                      "label": "Paragraph 11"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-12",
+                      "label": "Paragraph 12"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-13",
+                      "label": "Paragraph 13"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-14",
+                      "label": "Paragraph 14"
+                    },
+                    {
+                      "icon": "bookmark",
+                      "link": "#paragraph-15",
+                      "label": "Paragraph 15"
+                    },
+                    {
+                      "icon": "picture",
+                      "link": "#retelling",
+                      "label": "Retelling the story"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "ribbon": {
@@ -232,6 +330,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "Simon Simple is at the station. He is going on a train. There are policemen at the station. There are policemen on the trains. They are all working very hard. “Why are the police here?” Simon asks a man. “Look,” the man says. Simon looks at the man’s newspaper. “Do you know this man?” he reads. He’s a spy! Fin"
@@ -263,7 +365,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "1. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -290,7 +392,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 2 • 0:48"
+        "label": "Paragraph 2"
       }
     },
     {
@@ -305,6 +407,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "Simon looks at the people in the station. He can see students in jeans, and men in suits. He can see families and children. He can’t see any spies. Simon’s train goes at 11.00, and it is 10.57 now. Simon runs to the train. There is an old woman with an umbrella near Simon. She is walking very fast. Simon doesn’t see her. He doesn’t see her bag."
@@ -318,7 +424,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "2. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -328,7 +434,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "2.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -345,7 +451,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 3 • 1:32"
+        "label": "Paragraph 3"
       }
     },
     {
@@ -360,6 +466,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "The old woman’s bag hits Simon’s foot. Simon falls. His bag opens. His things fall to the ground. The old woman’s bag is open, too. A letter falls out. Simon puts his things into his bag. The old woman’s letter is with Simon’s things. Simon does not see it. He puts the old woman’s letter in his bag. He closes his bag and runs to the train."
@@ -373,7 +483,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "3. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -383,7 +493,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "3.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -400,7 +510,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 4 • 2:20"
+        "label": "Paragraph 4"
       }
     },
     {
@@ -415,6 +525,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "Simon sits down in the train. There is a beautiful girl beside him. “Hello,” Simon says. “Hello,” the girl says. The old woman is on the train, too. She is looking at Simon’s bag. She wants her letter. There are policemen on the train. They can’t find the spy. The old woman sees the policemen. She turns and walks quickly down the train."
@@ -428,7 +542,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "4. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -438,7 +552,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "4.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -455,7 +569,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 5 • 3:02"
+        "label": "Paragraph 5"
       }
     },
     {
@@ -470,6 +584,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "Simon likes the girl. She likes him. “There’s a restaurant on the train,” Simon says. “Do you want a cup of coffee?” “Yes, please,” the girl says. “OK, wait here,” Simon says. Simon takes his bag and goes to the restaurant. The old woman is waiting for him. Simon doesn’t see her. He doesn’t see her foot."
@@ -483,7 +601,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "5. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -493,7 +611,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "5.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -510,7 +628,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 6 • 3:47"
+        "label": "Paragraph 6"
       }
     },
     {
@@ -525,6 +643,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "The train is going fast. Simon falls. The old woman falls, too. She sits down on the floor. “Oh, I’m sorry,” Simon says. He helps the old woman. Simon sees the old woman’s shoes. He looks at her shoes, and he looks at her face. “They’re not women’s shoes,” Simon thinks. Simon buys the coffee and goes back to the girl."
@@ -538,7 +660,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "6. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -548,7 +670,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "6.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -565,7 +687,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 7 • 4:29"
+        "label": "Paragraph 7"
       }
     },
     {
@@ -580,6 +702,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "The train stops. Simon and the girl are going on a boat now. They walk from the train to the boat. There are policemen here, too. “What do they want?” the girl asks. “There’s a spy,” Simon says. “A spy?” the girl says. “I can’t see any spies.” Simon looks, too. He sees families and students. He sees the old woman. “No,” Simon says. “I can’t see any spies.”"
@@ -593,7 +719,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "7. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -603,7 +729,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "7.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -620,7 +746,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 8 • 5:21"
+        "label": "Paragraph 8"
       }
     },
     {
@@ -635,6 +761,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "It is a beautiful day. The sun is shining and the water is blue. Simon and the girl sit near the water and wait. The boat is coming. “What’s your name?” Simon asks. “Samantha,” the girl says. “Oh,” Simon says.“My name’s Simon. Simon and Samantha. That’s nice.” Simon and Samantha are talking. They don’t see the old woman. They don’t see her umbrella."
@@ -648,7 +778,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "8. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -658,7 +788,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "8.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -675,7 +805,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 9 • 6:09"
+        "label": "Paragraph 9"
       }
     },
     {
@@ -690,6 +820,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "“Look out!” a man shouts. “There’s a lorry!” Simon and Samantha look. A lorry is coming down the road very fast. They jump back. The old woman jumps back, too. Simon sees her trousers. “They’re not women’s trousers,” Simon thinks. “Come on, Simon, the boat’s here,” Samantha says. Simon and Samantha get on the boat."
@@ -703,7 +837,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "9. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -713,7 +847,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "9.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -730,7 +864,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 10 • 6:58"
+        "label": "Paragraph 10"
       }
     },
     {
@@ -745,6 +879,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "Simon opens his bag and takes his lunch out. He takes the old woman’s letter out, too, but he doesn’t see it. “Do you want a sandwich?” Simon asks Samantha. “Yes, please,” Samantha says. She takes her lunch out of her bag. “Do you want an apple?” she says. The old woman is behind them. Simon and Samantha don’t see her. They don’t see her hand."
@@ -758,7 +896,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "10.1 Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -768,7 +906,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "1.10 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -785,7 +923,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 11 • 7:41"
+        "label": "Paragraph 11"
       }
     },
     {
@@ -800,6 +938,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "The boat is going fast now. The wind is strong. Samantha’s hair goes in her eyes. The wind takes the old woman’s letter. The letter flies along the boat. “What’s that paper?” Samantha says. “Is it your boat ticket?” “I don’t know,” Simon says. Simon runs. He wants his ticket. The old woman runs, too. She wants her letter."
@@ -813,7 +955,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "11. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -823,7 +965,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "11.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -840,7 +982,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 12 • 8:24"
+        "label": "Paragraph 12"
       }
     },
     {
@@ -855,6 +997,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "Simon and the old woman run fast. They are near the paper now. “Woof!” “What is that? It’s a dog!” He’s running very fast. He runs to the paper and catches it in his mouth. “My ticket!” Simon says. “My letter!” the old woman says. The dog runs along the boat. “Catch the dog!” Simon says. “Stop him!“ says the old woman."
@@ -868,7 +1014,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "12. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -878,7 +1024,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "12.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -895,7 +1041,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 13 • 9:07"
+        "label": "Paragraph 13"
       }
     },
     {
@@ -910,6 +1056,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "The dog is happy. He can run fast. He’s playing a game with Simon and the old woman. He doesn’t see Samantha. Samantha jumps up and catches him. “I’ve got him, Simon,” Samantha says. Simon and the old woman run to Samantha. The paper’s in the dog’s mouth. Simon looks at it. ”That’s not my ticket,” he says. “No,” the old woman says. “It’s my letter.”"
@@ -923,7 +1073,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "13. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -933,7 +1083,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "13.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -950,7 +1100,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 14 • 9:48"
+        "label": "Paragraph 14"
       }
     },
     {
@@ -965,6 +1115,10 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "The dog likes Simon and Samantha, but he doesn’t like the old woman. He takes her coat in his mouth and pulls it. The coat falls to the ground. The wind takes the old woman’s hat. It falls into the water. Her hair falls with the hat. Simon and Samantha look at the old woman. It’s not an old woman! It’s a man! “The spy!” Simon says. “Police! Come here!”"
@@ -978,7 +1132,7 @@
     {
       "exercises": [
         {
-          "title": "1.1 Fill in the blank with the correct answer."
+          "title": "14. Look at paragraph 1 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -988,7 +1142,7 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
+                      "text": "14.1 ...",
                       "correctAnswer": ["..."]
                     },
                     {
@@ -1005,7 +1159,7 @@
     {
       "ribbon": {
         "icon": "snippet",
-        "label": "Paragraph 15 • 10:32"
+        "label": "Paragraph 15"
       }
     },
     {
@@ -1020,9 +1174,40 @@
           ],
           "blocks": [
             {
+              "audioPlayer": {
+                "sticky": false,
+                "src": "/assets/audio/"
+              },
               "block": [
                 {
                   "text": "The police are very happy. “Thank you, Simon,” they say. “Now we have the spy. But the spy has a letter. The letter has names and addresses on it. We want the letter but we can’t find it. Where is it? Do you know?” Simon looks at the dog. The dog looks at Simon. “There’s the letter,” Simon says. “Where?” says the policeman. “It’s in the dog,” Simon says."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "title": "15. Look at paragraph 1 and fill in the blanks with the correct answers."
+        },
+        {
+          "fillExercises": [
+            {
+              "card": false,
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "15.1 ...",
+                      "correctAnswer": ["..."]
+                    },
+                    {
+                      "text": "..."
+                    }
+                  ]
                 }
               ]
             }
