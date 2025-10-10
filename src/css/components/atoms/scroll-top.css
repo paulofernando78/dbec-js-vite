@@ -4,6 +4,6 @@ svg {
   height: 32px;
   border-radius: 50%;
   cursor: pointer;
-  /* fill: var(--blue-5); */
+  fill: var(--red-4);
   background: white;
 }

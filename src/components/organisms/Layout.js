@@ -28,6 +28,11 @@ class Layout extends HTMLElement {
     app.id = "app";
     layout.appendChild(app);
 
+    // Floating Board
+    const float = document.createElement("wc-floating-board");
+    float.className = "floating-board";
+    layout.appendChild(float);
+
     const scrollTop = document.createElement("wc-scroll-top");
     layout.appendChild(scrollTop);
 

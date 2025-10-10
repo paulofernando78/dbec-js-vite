@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "gondola",
+        "phonetics": "/ˈɡɑːn.dəl.ə/ US /ˈɡɒn.dələ/ UK",
+        "partOfSpeech": "noun",
+        "enDefinition": "a long, narrow, flat-bottomed boat with a high prow and stern, used especially in Venice and propelled by a person standing at the stern using a single oar; also, a compartment suspended from an airship or a cable car",
+        "ptDefinition": "um barco longo, estreito e de fundo chato, com proa e popa altas, usado especialmente em Veneza e movido por uma pessoa em pé na popa com um único remo; também, compartimento suspenso de um dirigível ou teleférico",
+        "examples": [
+          {
+        "enExample": "We took a romantic ride in a gondola along the canals of Venice.",
+        "ptExample": "Fizemos um passeio romântico de gôndola pelos canais de Veneza."
+          },
+          {
+        "enExample": "The mountain gondola carried tourists up to the ski resort.",
+        "ptExample": "A gôndola da montanha levou turistas até a estação de esqui."
+          }
+        ],
+        "synonyms": ["boat", "barge", "cable car", "carriage"],
+        "antonyms": ["raft", "canoe", "submarine"],
+        "seeAlso": ["Venice", "canal", "cable car", "airship"],
+        "notes": [
+          {
+        "enNote": "The gondola is a symbol of Venice and is traditionally painted black. In transportation, 'gondola' can also refer to the passenger compartment of a cable car or airship.",
+        "ptNote": "A gôndola é um símbolo de Veneza e tradicionalmente é pintada de preto. Em transporte, 'gôndola' também pode se referir ao compartimento de passageiros de um teleférico ou dirigível."
+          }
+        ]
+      },
+      {
         "word": "garden",
         "phonetics": "/ˈɡɑːr.dən/",
         "partOfSpeech": "noun / verb",

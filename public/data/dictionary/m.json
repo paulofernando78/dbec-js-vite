@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "museum",
+        "phonetics": "/mjuːˈziː.əm/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a building or institution where objects of historical, scientific, artistic, or cultural interest are stored and exhibited",
+        "ptDefinition": "um edifício ou instituição onde objetos de interesse histórico, científico, artístico ou cultural são armazenados e exibidos",
+        "examples": [
+          {
+        "enExample": "We visited the art museum to see the new exhibition.",
+        "ptExample": "Visitamos o museu de arte para ver a nova exposição."
+          },
+          {
+        "enExample": "The museum has a large collection of ancient artifacts.",
+        "ptExample": "O museu tem uma grande coleção de artefatos antigos."
+          }
+        ],
+        "synonyms": ["gallery", "exhibition hall", "collection"],
+        "antonyms": ["private collection", "archive (not open to public)"],
+        "notes": [
+          {
+        "enNote": "Museums can be dedicated to art, history, science, or other subjects and are usually open to the public.",
+        "ptNote": "Museus podem ser dedicados à arte, história, ciência ou outros temas e geralmente são abertos ao público."
+          }
+        ]
+      },
+      {
         "word": "moon",
         "phonetics": "/muːn/",
         "partOfSpeech": "noun",

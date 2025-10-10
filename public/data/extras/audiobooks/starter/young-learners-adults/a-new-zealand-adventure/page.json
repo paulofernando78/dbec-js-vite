@@ -414,7 +414,7 @@
                     },
                     {
                       "icon": "picture",
-                      "link": "#retelling",
+                      "link": "#retelling-the-story",
                       "label": "Retelling the story"
                     }
                   ]
@@ -432,7 +432,6 @@
       }
     },
     {
-      "anchor": "paragraph-1",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 1"
@@ -566,7 +565,6 @@
       ]
     },
     {
-      "anchor": "paragraph-2",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 2"
@@ -615,7 +613,7 @@
     {
       "exercises": [
         {
-          "title": "2. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "2. Look at paragraph 2 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -640,7 +638,6 @@
       ]
     },
     {
-      "anchor": "paragraph-3",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 3"
@@ -689,7 +686,7 @@
     {
       "exercises": [
         {
-          "title": "3. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "3. Look at paragraph 3 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -725,7 +722,6 @@
       ]
     },
     {
-      "anchor": "paragraph-4",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 4"
@@ -774,7 +770,7 @@
     {
       "exercises": [
         {
-          "title": "4. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "4. Look at paragraph 4 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -799,7 +795,6 @@
       ]
     },
     {
-      "anchor": "paragraph-5",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 5"
@@ -848,7 +843,7 @@
     {
       "exercises": [
         {
-          "title": "5. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "5. Look at paragraph 5 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -881,7 +876,6 @@
       ]
     },
     {
-      "anchor": "paragraph-6",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 6"
@@ -930,7 +924,7 @@
     {
       "exercises": [
         {
-          "title": "6. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "6. Look at paragraph 6 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -959,7 +953,6 @@
       ]
     },
     {
-      "anchor": "paragraph-7",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 7"
@@ -1008,7 +1001,7 @@
     {
       "exercises": [
         {
-          "title": "7. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "7. Look at paragraph 7 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1044,7 +1037,6 @@
       ]
     },
     {
-      "anchor": "paragraph-8",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 8"
@@ -1093,7 +1085,7 @@
     {
       "exercises": [
         {
-          "title": "8. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "8. Look at paragraph 8 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1131,7 +1123,6 @@
       ]
     },
     {
-      "anchor": "paragraph-9",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 9"
@@ -1180,7 +1171,7 @@
     {
       "exercises": [
         {
-          "title": "9. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "9. Look at paragraph 9 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1205,7 +1196,6 @@
       ]
     },
     {
-      "anchor": "paragraph-10",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 10"
@@ -1254,7 +1244,7 @@
     {
       "exercises": [
         {
-          "title": "10. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "10. Look at paragraph 10 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1279,7 +1269,6 @@
       ]
     },
     {
-      "anchor": "paragraph-11",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 11"
@@ -1328,7 +1317,7 @@
     {
       "exercises": [
         {
-          "title": "11.1 Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "11 Look at paragraph 11 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1338,7 +1327,7 @@
                 {
                   "block": [
                     {
-                      "text": "11. After the beep, Sarah",
+                      "text": "11.1 After the beep, Sarah",
                       "correctAnswer": ["reads"]
                     },
                     {
@@ -1357,7 +1346,6 @@
       ]
     },
     {
-      "anchor": "paragraph-12",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 12"
@@ -1406,7 +1394,7 @@
     {
       "exercises": [
         {
-          "title": "12. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "12. Look at paragraph 12 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1431,7 +1419,6 @@
       ]
     },
     {
-      "anchor": "paragraph-13",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 13"
@@ -1480,7 +1467,7 @@
     {
       "exercises": [
         {
-          "title": "13. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "13. Look at paragraph 13 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1521,7 +1508,6 @@
       ]
     },
     {
-      "anchor": "paragraph-14",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 14"
@@ -1570,7 +1556,7 @@
     {
       "exercises": [
         {
-          "title": "14. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "14. Look at paragraph 14 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1610,7 +1596,6 @@
       ]
     },
     {
-      "anchor": "retelling",
       "ribbon": {
         "icon": "picture",
         "label": "Retelling the story"

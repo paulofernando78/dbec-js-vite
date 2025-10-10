@@ -63,32 +63,26 @@
       "guessWord": [
         {
           "imageSrc": "/assets/images/general/museum.avif",
-          "alt": "A museum building",
           "word": "museum"
         },
         {
           "imageSrc": "/assets/images/general/painting.avif",
-          "alt": "A framed painting",
           "word": "painting"
         },
         {
           "imageSrc": "/assets/images/general/knife.avif",
-          "alt": "A sharp knife",
           "word": "knife"
         },
         {
           "imageSrc": "/assets/images/general/candle.avif",
-          "alt": "A burning candle",
           "word": "candle"
         },
         {
           "imageSrc": "/assets/images/general/detective.avif",
-          "alt": "A detective in a hat",
           "word": "detective"
         },
         {
           "imageSrc": "/assets/images/general/steal.avif",
-          "alt": "A thief stealing",
           "word": "steal"
         },
         {
@@ -101,7 +95,6 @@
         },
         {
           "imageSrc": "/assets/images/general/bookcase.avif",
-          "alt": "A wooden bookcase with books",
           "word": "bookcase"
         },
         {
@@ -126,80 +119,110 @@
                 {
                   "block": [
                     {
-                      "text": "1. The Mona Lisa is a famous ______ in the Louvre.",
+                      "text": "1. The Mona Lisa is a famous",
                       "correctAnswer": ["painting"]
+                    },
+                    {
+                      "text":	"in the Louvre."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "2. Marcel is a mouse and a ______.",
+                      "text": "2. Marcel is a mouse and a",
                       "correctAnswer": ["detective"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "3. The thief puts the Mona Lisa in a ______.",
+                      "text": "3. The thief puts the Mona Lisa in a",
                       "correctAnswer": ["bag"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "4. The Louvre is a famous ______ in Paris.",
+                      "text": "4. The Louvre is a famous",
                       "correctAnswer": ["museum"]
+                    },
+                    {
+                      "text":	"in Paris."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "5. The thief uses a ______ to steal the painting.",
+                      "text": "5. The thief uses a",
                       "correctAnswer": ["knife"]
+                    },
+                    {
+                      "text":	"to steal the painting."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "6. Marcel sees a ______ stealing the Mona Lisa.",
+                      "text": "6. Marcel sees a",
                       "correctAnswer": ["thief"]
+                    },
+                    {
+                      "text":	"stealing the Mona Lisa."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "7. Marcel tries to ______ the painting back.",
+                      "text": "7. Marcel tries to",
                       "correctAnswer": ["steal"]
+                    },
+                    {
+                      "text":	"the painting back."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "8. Marcel climbs up a ______ to escape the cats.",
+                      "text": "8. Marcel climbs up a",
                       "correctAnswer": ["bookcase"]
+                    },
+                    {
+                      "text":	"to escape the cats."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "9. Marcel pushes a ______ to stop the cat.",
+                      "text": "9. Marcel pushes a",
                       "correctAnswer": ["candle"]
+                    },
+                    {
+                      "text":	"to stop the cat."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "10. Henri wears ______ on the train.",
+                      "text": "10. Henri wears",
                       "correctAnswer": ["sunglasses"]
+                    },
+                    {
+                      "text":	"on the train."
                     }
                   ]
                 }
@@ -297,7 +320,7 @@
                     },
                     {
                       "icon": "picture",
-                      "link": "#retelling",
+                      "link": "#retelling-the-story",
                       "label": "Retelling the story"
                     }
                   ]
@@ -309,7 +332,6 @@
       ]
     },
     {
-      "anchor": "paragraph-1",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 1"
@@ -401,7 +423,6 @@
       ]
     },
     {
-      "anchor": "paragraph-2",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 2"
@@ -501,7 +522,6 @@
       ]
     },
     {
-      "anchor": "paragraph-3",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 3"
@@ -593,7 +613,6 @@
       ]
     },
     {
-      "anchor": "paragraph-4",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 4"
@@ -706,7 +725,6 @@
       ]
     },
     {
-      "anchor": "paragraph-5",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 5"
@@ -784,7 +802,6 @@
       ]
     },
     {
-      "anchor": "paragraph-6",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 6"
@@ -858,7 +875,6 @@
       ]
     },
     {
-      "anchor": "paragraph-7",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 7"
@@ -917,7 +933,6 @@
       ]
     },
     {
-      "anchor": "paragraph-8",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 8"
@@ -984,7 +999,6 @@
       ]
     },
     {
-      "anchor": "paragraph-9",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 9"
@@ -1058,7 +1072,6 @@
       ]
     },
     {
-      "anchor": "paragraph-10",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 10"
@@ -1147,7 +1160,6 @@
       ]
     },
     {
-      "anchor": "paragraph-11",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 11"
@@ -1221,7 +1233,6 @@
       ]
     },
     {
-      "anchor": "paragraph-12",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 12"
@@ -1310,7 +1321,6 @@
       ]
     },
     {
-      "anchor": "paragraph-13",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 13"
@@ -1403,7 +1413,6 @@
       ]
     },
     {
-      "anchor": "paragraph-14",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 14"
@@ -1503,7 +1512,6 @@
       ]
     },
     {
-      "anchor": "paragraph-15",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 15"
@@ -1573,7 +1581,6 @@
       ]
     },
     {
-      "anchor": "retelling",
       "ribbon": {
         "icon": "picture",
         "label": "Retelling the story"

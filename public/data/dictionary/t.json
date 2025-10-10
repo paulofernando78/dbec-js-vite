@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "thief",
+        "phonetics": "/θiːf/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a person who steals, especially secretly and without using force or violence",
+        "ptDefinition": "pessoa que rouba, especialmente de forma secreta e sem uso de força ou violência; ladrão",
+        "examples": [
+          {
+        "enExample": "The thief broke into the house while the owners were away.",
+        "ptExample": "O ladrão entrou na casa enquanto os donos estavam fora."
+          },
+          {
+        "enExample": "A skilled thief can steal without being noticed.",
+        "ptExample": "Um ladrão habilidoso pode roubar sem ser notado."
+          }
+        ],
+        "synonyms": ["robber", "burglar", "pickpocket", "shoplifter"],
+        "antonyms": ["victim", "law-abider"],
+        "seeAlso": ["robbery", "steal", "burglar"],
+        "notes": [
+          {
+        "enNote": "A thief usually acts secretly and avoids confrontation, unlike a robber who may use force.",
+        "ptNote": "Um ladrão geralmente age de forma secreta e evita confronto, ao contrário de um assaltante que pode usar força."
+          }
+        ]
+      },
+      {
         "word": "tweak",
         "phonetics": "/twiːk/",
         "partOfSpeech": "verb, noun",

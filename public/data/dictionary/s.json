@@ -2,6 +2,58 @@
   {
     "definitions": [
       {
+        "word": "sunglasses",
+        "phonetics": "/ˈsʌnˌɡlæsɪz/",
+        "partOfSpeech": "noun (plural)",
+        "enDefinition": "glasses with dark lenses that protect the eyes from sunlight and glare",
+        "ptDefinition": "óculos com lentes escuras que protegem os olhos da luz do sol e do brilho",
+        "examples": [
+          {
+        "enExample": "She wore sunglasses to protect her eyes at the beach.",
+        "ptExample": "Ela usou óculos de sol para proteger os olhos na praia."
+          },
+          {
+        "enExample": "Don't forget your sunglasses—it's very bright outside.",
+        "ptExample": "Não se esqueça dos óculos de sol — está muito claro lá fora."
+          }
+        ],
+        "synonyms": ["shades", "dark glasses", "eyewear"],
+        "antonyms": ["none", "clear glasses"],
+        "seeAlso": ["glasses", "eyewear", "visor", "hat"],
+        "notes": [
+          {
+        "enNote": "Sunglasses are often used for fashion as well as eye protection.",
+        "ptNote": "Óculos de sol são usados tanto para proteção quanto como acessório de moda."
+          }
+        ]
+      },
+      {
+        "word": "steal",
+        "phonetics": "/stiːl/",
+        "partOfSpeech": "verb, noun (informal)",
+        "enDefinition": "verb: to take something that does not belong to you without permission or legal right; noun (informal): a thing that is bought or obtained at a very low price, a bargain",
+        "ptDefinition": "verbo: pegar algo que não lhe pertence sem permissão ou direito legal; substantivo (informal): algo comprado ou obtido por um preço muito baixo, uma pechincha",
+        "examples": [
+          {
+        "enExample": "Someone tried to steal my bike last night.",
+        "ptExample": "Alguém tentou roubar minha bicicleta ontem à noite."
+          },
+          {
+        "enExample": "This designer bag was a steal at only $20.",
+        "ptExample": "Essa bolsa de grife foi uma pechincha por apenas 20 dólares."
+          }
+        ],
+        "synonyms": ["take", "rob", "snatch", "bargain (noun)"],
+        "antonyms": ["return", "give", "pay full price"],
+        "seeAlso": ["theft", "rob", "burglar", "bargain"],
+        "notes": [
+          {
+        "enNote": "As a verb, 'steal' refers to taking without permission. As a noun (informal), it means something is a great bargain.",
+        "ptNote": "Como verbo, 'steal' refere-se a pegar sem permissão. Como substantivo (informal), significa que algo é uma grande pechincha."
+          }
+        ]
+      },
+      {
         "word": "saree",
         "phonetics": "/ˈsɑː.ri/",
         "partOfSpeech": "noun",

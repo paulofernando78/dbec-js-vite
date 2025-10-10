@@ -4,6 +4,7 @@ import ScrollTop from "./atoms/ScrollTop";
 import AudioPlayer from "./atoms/AudioPlayer";
 import Note from "./atoms/Note";
 import Button from "./atoms/Button";
+import FloatingBoard from "./atoms/FloatingBoard";
 import Iframe from "./atoms/Iframe";
 import Image from "./atoms/Image";
 // Ribbons
@@ -70,6 +71,7 @@ customElements.define("wc-scroll-top", ScrollTop);
 customElements.define("wc-audio-player", AudioPlayer);
 customElements.define("wc-note", Note);
 customElements.define("wc-button", Button);
+customElements.define("wc-floating-board", FloatingBoard);
 customElements.define("wc-iframe", Iframe);
 customElements.define("wc-image", Image);
 // Ribbons

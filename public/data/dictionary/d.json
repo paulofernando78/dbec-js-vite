@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "detective",
+        "phonetics": "/dɪˈtɛktɪv/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a person, especially a police officer, whose job is to investigate crimes and find out who committed them",
+        "ptDefinition": "pessoa, especialmente policial, cuja função é investigar crimes e descobrir quem os cometeu; detetive",
+        "examples": [
+          {
+        "enExample": "The detective questioned all the witnesses at the crime scene.",
+        "ptExample": "O detetive interrogou todas as testemunhas na cena do crime."
+          },
+          {
+        "enExample": "She hired a private detective to find her missing brother.",
+        "ptExample": "Ela contratou um detetive particular para encontrar seu irmão desaparecido."
+          }
+        ],
+        "synonyms": ["investigator", "sleuth", "private eye", "gumshoe"],
+        "antonyms": ["suspect", "criminal"],
+        "seeAlso": ["investigation", "police", "private investigator"],
+        "notes": [
+          {
+        "enNote": "Detectives can work for the police or be privately hired. In fiction, detectives are often portrayed as clever and resourceful.",
+        "ptNote": "Detetives podem trabalhar para a polícia ou serem contratados de forma particular. Em obras de ficção, detetives costumam ser retratados como inteligentes e engenhosos."
+          }
+        ]
+      },
+      {
         "word": "door",
         "phonetics": "/dɔːr/",
         "partOfSpeech": "noun",

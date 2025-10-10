@@ -2,6 +2,56 @@
   {
     "definitions": [
       {
+        "word": "bag",
+        "phonetics": "/bæɡ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a flexible container with an opening at the top, used for carrying things",
+        "ptDefinition": "um recipiente flexível com uma abertura na parte superior, usado para carregar coisas",
+        "examples": [
+          {
+        "enExample": "She put her groceries in a reusable bag.",
+        "ptExample": "Ela colocou suas compras em uma sacola reutilizável."
+          },
+          {
+        "enExample": "He packed his clothes into a travel bag.",
+        "ptExample": "Ele colocou suas roupas em uma bolsa de viagem."
+          }
+        ],
+        "synonyms": ["sack", "pouch", "satchel", "tote"],
+        "antonyms": ["box", "case", "container"],
+        "seeAlso": ["backpack", "purse", "suitcase"],
+        "notes": [
+          {
+        "enNote": "Bags come in many forms, such as plastic bags, paper bags, handbags, and backpacks.",
+        "ptNote": "Bolsas existem em várias formas, como sacolas plásticas, sacos de papel, bolsas de mão e mochilas."
+          }
+        ]
+      },
+      {
+        "word": "bookcase",
+        "phonetics": "/ˈbʊk.keɪs/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a piece of furniture with shelves for storing books",
+        "ptDefinition": "um móvel com prateleiras para guardar livros",
+        "examples": [
+          {
+        "enExample": "She arranged her favorite novels on the top shelf of the bookcase.",
+        "ptExample": "Ela organizou seus romances favoritos na prateleira de cima da estante."
+          },
+          {
+        "enExample": "The bookcase in his office is filled with reference materials.",
+        "ptExample": "A estante no escritório dele está cheia de materiais de referência."
+          }
+        ],
+        "synonyms": ["bookshelf", "shelving unit", "library shelf"],
+        "notes": [
+          {
+        "enNote": "Bookcases can be made of wood, metal, or other materials and come in various sizes.",
+        "ptNote": "Estantes podem ser feitas de madeira, metal ou outros materiais e existem em vários tamanhos."
+          }
+        ]
+      },
+      {
         "word": "bottle",
         "phonetics": "/ˈbɒt.əl/",
         "partOfSpeech": "noun",

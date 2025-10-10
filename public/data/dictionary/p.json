@@ -2,24 +2,27 @@
   {
     "definitions": [
       {
-        "word": "",
-        "phonetics": "",
-        "partOfSpeech": "",
-        "enDefinition": "",
-        "ptDefinition": "",
+        "word": "painting",
+        "phonetics": "/ˈpeɪn.tɪŋ/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a picture or design created using paint on a surface such as canvas, paper, or wall; the act or art of using paint to create images",
+        "ptDefinition": "uma imagem ou desenho criado com tinta em uma superfície como tela, papel ou parede; o ato ou arte de pintar",
         "examples": [
           {
-            "enExample": "",
-            "ptExample": ""
+        "enExample": "The museum has a famous painting by Van Gogh.",
+        "ptExample": "O museu tem uma pintura famosa de Van Gogh."
+          },
+          {
+        "enExample": "She enjoys painting landscapes in her free time.",
+        "ptExample": "Ela gosta de pintar paisagens em seu tempo livre."
           }
         ],
-        "synonyms": "",
-        "antonyms": "",
-        "seeAlso": "",
+        "synonyms": ["artwork", "picture", "canvas"],
+        "seeAlso": ["drawing", "sketch", "art", "painter"],
         "notes": [
           {
-            "enNote": "",
-            "ptNote": ""
+        "enNote": "Painting can refer to both the finished work and the process of creating it.",
+        "ptNote": "Pintura pode se referir tanto à obra finalizada quanto ao processo de criá-la."
           }
         ]
       },

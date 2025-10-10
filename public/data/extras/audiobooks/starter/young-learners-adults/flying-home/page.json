@@ -352,7 +352,7 @@
                     },
                     {
                       "icon": "picture",
-                      "link": "#retelling",
+                      "link": "#retelling-the-story",
                       "label": "Retelling the story"
                     }
                   ]
@@ -364,7 +364,6 @@
       ]
     },
     {
-      "anchor": "paragraph-1",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 1"
@@ -519,7 +518,6 @@
       ]
     },
     {
-      "anchor": "paragraph-2",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 2"
@@ -604,7 +602,6 @@
       ]
     },
     {
-      "anchor": "paragraph-3",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 3"
@@ -689,7 +686,6 @@
       ]
     },
     {
-      "anchor": "paragraph-4",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 4"
@@ -789,7 +785,6 @@
       ]
     },
     {
-      "anchor": "paragraph-5",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 5"
@@ -882,7 +877,6 @@
       ]
     },
     {
-      "anchor": "paragraph-6",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 6"
@@ -967,7 +961,6 @@
       ]
     },
     {
-      "anchor": "paragraph-7",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 7"
@@ -1052,7 +1045,6 @@
       ]
     },
     {
-      "anchor": "paragraph-8",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 8"
@@ -1156,7 +1148,6 @@
       ]
     },
     {
-      "anchor": "paragraph-9",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 9"
@@ -1245,7 +1236,6 @@
       ]
     },
     {
-      "anchor": "paragraph-10",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 10"
@@ -1330,7 +1320,6 @@
       ]
     },
     {
-      "anchor": "paragraph-11",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 11"
@@ -1415,7 +1404,6 @@
       ]
     },
     {
-      "anchor": "paragraph-12",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 12"
@@ -1493,7 +1481,6 @@
       ]
     },
     {
-      "anchor": "paragraph-13",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 13"
@@ -1578,7 +1565,6 @@
       ]
     },
     {
-      "anchor": "paragraph-14",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 14"
@@ -1663,7 +1649,6 @@
       ]
     },
     {
-      "anchor": "paragraph-15",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 15"
@@ -1738,7 +1723,6 @@
       ]
     },
     {
-      "anchor": "retelling",
       "ribbon": {
         "icon": "picture",
         "label": "Retelling the story"

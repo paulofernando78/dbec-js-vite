@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "knife",
+        "phonetics": "/naɪf/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a tool or weapon with a sharp blade used for cutting",
+        "ptDefinition": "uma ferramenta ou arma com uma lâmina afiada usada para cortar",
+        "examples": [
+          {
+        "enExample": "He used a knife to cut the vegetables.",
+        "ptExample": "Ele usou uma faca para cortar os legumes."
+          },
+          {
+        "enExample": "Carrying a knife without reason can be illegal.",
+        "ptExample": "Carregar uma faca sem motivo pode ser ilegal."
+          }
+        ],
+        "synonyms": ["blade", "cutter", "dagger"],
+        "seeAlso": ["scissors", "blade", "dagger"],
+        "notes": [
+          {
+        "enNote": "The plural of 'knife' is 'knives'.",
+        "ptNote": "O plural de 'knife' é 'knives'."
+          }
+        ]
+      },
+      {
         "word": "key",
         "phonetics": "/kiː/",
         "partOfSpeech": "noun, adjective",

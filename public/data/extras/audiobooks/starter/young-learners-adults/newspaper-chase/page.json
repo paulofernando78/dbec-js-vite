@@ -66,56 +66,46 @@
       }
     },
     {
-      "hangman": [
+      "guessWord": [
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/painting.avif",
+          "word": "painting"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/vase.avif",
+          "word": "vase"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/thief.avif",
+          "word": "thief"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/gallery.avif",
+          "word": "gallery"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/newspaper.avif",
+          "word": "newspaper"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/recycling.avif",
+          "word": "recycling"
         },
         {
-          "imageSrc": "/assets/images/general/l.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/police.avif",
+          "word": "police"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/truck.avif",
+          "word": "truck"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/glass.avif",
+          "word": "glass"
         },
         {
-          "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
-          "word": ""
+          "imageSrc": "/assets/images/general/reward.avif",
+          "word": "reward"
         }
       ]
     },
@@ -131,80 +121,114 @@
                 {
                   "block": [
                     {
-                      "text": "1.",
-                      "correctAnswer": ["..."]
+                      "text": "1. Harry stole a very expensive",
+                      "correctAnswer": ["painting"]
+                    },
+                    {
+                      "text": "from the art",
+                      "correctAnswer": ["gallery"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "2.",
-                      "correctAnswer": ["..."]
+                      "text": "2. He broke a blue glass",
+                      "correctAnswer": ["vase"]
+                    },
+                    {
+                      "text": "while escaping."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "3.",
-                      "correctAnswer": ["..."]
+                      "text": "3. Harry hid the painting in a",
+                      "correctAnswer": ["newspaper"]
+                    },
+                    {
+                      "text": "under his bed."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "4.",
-                      "correctAnswer": ["..."]
+                      "text": "4. Janey collected old newspapers for",
+                      "correctAnswer": ["recycling"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "5.",
-                      "correctAnswer": ["..."]
+                      "text": "5. The",
+                      "correctAnswer": ["truck"]
+                    },
+                    {
+                      "text": "took the newspapers away."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "6.",
-                      "correctAnswer": ["..."]
+                      "text": "6. Janey found a piece of blue",
+                      "correctAnswer": ["glass"]
+                    },
+                    {
+                      "text": "in Harry’s shoe."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "7.",
-                      "correctAnswer": ["..."]
+                      "text": "7. Janey called the",
+                      "correctAnswer": ["police"]
+                    },
+                    {
+                      "text": "to report Harry."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "8.",
-                      "correctAnswer": ["..."]
+                      "text": "8. Harry was a",
+                      "correctAnswer": ["thief"]
+                    },
+                    {
+                      "text": "who wanted money for the painting."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "9.",
-                      "correctAnswer": ["..."]
+                      "text": "9. The police found the painting and gave Janey a",
+                      "correctAnswer": ["reward"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "10.",
-                      "correctAnswer": ["..."]
+                      "text": "10. The story takes place in an art",
+                      "correctAnswer": ["gallery"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 }
@@ -214,7 +238,7 @@
         }
       ]
     },
-        {
+    {
       "ribbon": {
         "icon": "bookmarks",
         "label": "Paragraphs"
@@ -307,7 +331,7 @@
                     },
                     {
                       "icon": "picture",
-                      "link": "#retelling",
+                      "link": "#retelling-the-story",
                       "label": "Retelling the story"
                     }
                   ]
@@ -319,7 +343,6 @@
       ]
     },
     {
-      "anchor": "paragraph-1",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 1"
@@ -375,7 +398,6 @@
       ]
     },
     {
-      "anchor": "paragraph-2",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 2"
@@ -431,7 +453,6 @@
       ]
     },
     {
-      "anchor": "paragraph-3",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 3"
@@ -487,7 +508,6 @@
       ]
     },
     {
-      "anchor": "paragraph-4",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 4"
@@ -543,7 +563,6 @@
       ]
     },
     {
-      "anchor": "paragraph-5",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 5"
@@ -599,7 +618,6 @@
       ]
     },
     {
-      "anchor": "paragraph-6",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 6"
@@ -655,7 +673,6 @@
       ]
     },
     {
-      "anchor": "paragraph-7",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 7"
@@ -711,7 +728,6 @@
       ]
     },
     {
-      "anchor": "paragraph-8",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 8"
@@ -767,7 +783,6 @@
       ]
     },
     {
-      "anchor": "paragraph-9",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 9"
@@ -823,7 +838,6 @@
       ]
     },
     {
-      "anchor": "paragraph-10",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 10"
@@ -879,7 +893,6 @@
       ]
     },
     {
-      "anchor": "paragraph-11",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 11"
@@ -935,7 +948,6 @@
       ]
     },
     {
-      "anchor": "paragraph-12",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 12"
@@ -991,7 +1003,6 @@
       ]
     },
     {
-      "anchor": "paragraph-13",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 13"
@@ -1047,7 +1058,6 @@
       ]
     },
     {
-      "anchor": "paragraph-14",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 14"
@@ -1103,7 +1113,6 @@
       ]
     },
     {
-      "anchor": "paragraph-15",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 15"
@@ -1155,6 +1164,61 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "picture",
+        "label": "Retelling the story"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/newspaper-chase/paragraph-1.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/newspaper-chase/paragraph-2.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/newspaper-chase/paragraph-3.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/newspaper-chase/paragraph-4.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/newspaper-chase/paragraph-5.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/newspaper-chase/paragraph-6.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/newspaper-chase/paragraph-7.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/newspaper-chase/paragraph-8.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/newspaper-chase/paragraph-9.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/newspaper-chase/paragraph-10.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/newspaper-chase/paragraph-11.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/newspaper-chase/paragraph-12.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/newspaper-chase/paragraph-13.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/newspaper-chase/paragraph-14.avif"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/newspaper-chase/paragraph-15.avif"
         }
       ]
     }

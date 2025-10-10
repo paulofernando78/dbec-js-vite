@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "candle",
+        "phonetics": "/ˈkæn.dl̩/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a cylinder of wax with a central wick that is burned to provide light",
+        "ptDefinition": "um cilindro de cera com um pavio central que é queimado para fornecer luz",
+        "examples": [
+          {
+        "enExample": "She lit a candle during the power outage.",
+        "ptExample": "Ela acendeu uma vela durante a queda de energia."
+          },
+          {
+        "enExample": "The birthday cake was decorated with colorful candles.",
+        "ptExample": "O bolo de aniversário estava decorado com velas coloridas."
+          }
+        ],
+        "synonyms": ["wax light", "taper", "lamp"],
+        "antonyms": ["electric light", "lamp"],
+        "seeAlso": ["lamp", "lantern", "torch"],
+        "notes": [
+          {
+        "enNote": "Candles are often used for decoration, ceremonies, or when there is no electricity.",
+        "ptNote": "Velas são frequentemente usadas para decoração, cerimônias ou quando não há eletricidade."
+          }
+        ]
+      },
+      {
         "word": "cry",
         "phonetics": "/kraɪ/",
         "partOfSpeech": "verb",

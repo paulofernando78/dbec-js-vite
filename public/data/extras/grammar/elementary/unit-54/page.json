@@ -16,7 +16,7 @@
       }
     ]
   },
-      "contents": [
+  "contents": [
     {
       "ribbon": {
         "bgColor": "var(--gray-3)",
@@ -198,7 +198,7 @@
           ]
         },
         {
-          "title": "Fill in the blank with the correct answer.",
+          "title": "Look at paragraph 1 and fill in the blanks with the correct answers.",
           "description": "Description"
         },
         {

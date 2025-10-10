@@ -19,7 +19,6 @@ class Contents extends HTMLElement {
 
       if (el) {
         el.scrollIntoView({ behavior: "smooth" });
-
       }
     });
   }
@@ -30,6 +29,7 @@ class Contents extends HTMLElement {
 
   render(content) {
     const contentContainer = document.createElement("div");
+    contentContainer.className = "content-container"
     contentContainer.className = "line-break content-container";
 
     // Whiteboard
@@ -60,10 +60,24 @@ class Contents extends HTMLElement {
       if (section.ribbon) {
         const anchorWrapper = document.createElement("div");
 
-        if (section.anchor) {
-          anchorWrapper.id = section.anchor;
-          anchorWrapper.className = "scroll-anchor"
+        let anchorId = section.anchor;
+
+        if (!anchorId && section.ribbon && section.ribbon.label) {
+          anchorId = section.ribbon.label
+            .toLowerCase()
+            .replace(/\s+/g, "-")
+            .replace(/[^\w-]/g, "");
         }
+
+        if (anchorId) {
+          anchorWrapper.id = anchorId;
+          anchorWrapper.className = "scroll-anchor";
+        }
+
+        // if (section.anchor) {
+        //   anchorWrapper.id = section.anchor;
+        //   anchorWrapper.className = "scroll-anchor";
+        // }
 
         const ribbon = document.createElement("wc-ribbon");
         ribbon.data = section.ribbon;

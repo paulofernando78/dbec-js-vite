@@ -66,52 +66,42 @@
       "hangman": [
         {
           "imageSrc": "/assets/images/general/boat.avif",
-          "alt": "A boat",
           "word": "boat"
         },
         {
           "imageSrc": "/assets/images/general/newspaper.avif",
-          "alt": "A newspaper",
           "word": "newspaper"
         },
         {
           "imageSrc": "/assets/images/general/magazine.avif",
-          "alt": "A magazine",
           "word": "magazine"
         },
         {
           "imageSrc": "/assets/images/general/diamond-ring.avif",
-          "alt": "A diamond ring",
           "word": "diamond ring"
         },
         {
           "imageSrc": "/assets/images/general/train-station.avif",
-          "alt": "",
           "word": "train station"
         },
         {
           "imageSrc": "/assets/images/general/garden.avif",
-          "alt": "A garden",
           "word": "garden"
         },
         {
           "imageSrc": "/assets/images/general/license-plate.avif",
-          "alt": "A license plate",
           "word": "license plate"
         },
         {
           "imageSrc": "/assets/images/general/neck.avif",
-          "alt": "A neck",
           "word": "neck"
         },
         {
           "imageSrc": "/assets/images/general/soap.avif",
-          "alt": "A soap",
           "word": "soap"
         },
         {
           "imageSrc": "/assets/images/general/perfume-bottle.avif",
-          "alt": "A perfume bottle",
           "word": "perfume bottle"
         }
       ]
@@ -143,7 +133,7 @@
                       "correctAnswer": ["newspaper"]
                     },
                     {
-                      "text":	"in the morning."
+                      "text": "in the morning."
                     }
                   ]
                 },
@@ -154,7 +144,7 @@
                       "correctAnswer": ["magazine"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -165,7 +155,7 @@
                       "correctAnswer": ["diamond ring"]
                     },
                     {
-                      "text":	"for her birthday."
+                      "text": "for her birthday."
                     }
                   ]
                 },
@@ -176,7 +166,7 @@
                       "correctAnswer": ["train station"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -187,7 +177,7 @@
                       "correctAnswer": ["garden"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -198,7 +188,7 @@
                       "correctAnswer": ["license plate"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -209,7 +199,7 @@
                       "correctAnswer": ["neck"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -220,7 +210,7 @@
                       "correctAnswer": ["soap"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -231,7 +221,7 @@
                       "correctAnswer": ["perfume bottle"]
                     },
                     {
-                      "text":	"smells very nice."
+                      "text": "smells very nice."
                     }
                   ]
                 }
@@ -241,7 +231,7 @@
         }
       ]
     },
-        {
+    {
       "ribbon": {
         "icon": "bookmarks",
         "label": "Paragraphs"
@@ -334,7 +324,7 @@
                     },
                     {
                       "icon": "picture",
-                      "link": "#retelling",
+                      "link": "#retelling-the-story",
                       "label": "Retelling the story"
                     }
                   ]
@@ -346,7 +336,6 @@
       ]
     },
     {
-      "anchor": "paragraph-1",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 1"
@@ -428,7 +417,6 @@
       ]
     },
     {
-      "anchor": "paragraph-2",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 2"
@@ -463,7 +451,7 @@
     {
       "exercises": [
         {
-          "title": "2. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "2. Look at paragraph 2 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -511,7 +499,6 @@
       ]
     },
     {
-      "anchor": "paragraph-3",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 3"
@@ -546,7 +533,7 @@
     {
       "exercises": [
         {
-          "title": "3. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "3. Look at paragraph 3 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -605,7 +592,6 @@
       ]
     },
     {
-      "anchor": "paragraph-4",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 4"
@@ -640,7 +626,7 @@
     {
       "exercises": [
         {
-          "title": "4. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "4. Look at paragraph 4 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -698,7 +684,6 @@
       ]
     },
     {
-      "anchor": "paragraph-5",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 5"
@@ -733,7 +718,7 @@
     {
       "exercises": [
         {
-          "title": "5. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "5. Look at paragraph 5 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -784,7 +769,6 @@
       ]
     },
     {
-      "anchor": "paragraph-6",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 6"
@@ -819,7 +803,7 @@
     {
       "exercises": [
         {
-          "title": "6. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "6. Look at paragraph 6 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -866,7 +850,6 @@
       ]
     },
     {
-      "anchor": "paragraph-7",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 7"
@@ -901,7 +884,7 @@
     {
       "exercises": [
         {
-          "title": "7. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "7. Look at paragraph 7 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -948,7 +931,6 @@
       ]
     },
     {
-      "anchor": "paragraph-8",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 8"
@@ -976,7 +958,7 @@
     {
       "exercises": [
         {
-          "title": "8. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "8. Look at paragraph 8 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1034,7 +1016,6 @@
       ]
     },
     {
-      "anchor": "paragraph-9",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 9"
@@ -1069,7 +1050,7 @@
     {
       "exercises": [
         {
-          "title": "9. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "9. Look at paragraph 9 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1116,7 +1097,6 @@
       ]
     },
     {
-      "anchor": "paragraph-10",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 10"
@@ -1151,7 +1131,7 @@
     {
       "exercises": [
         {
-          "title": "10. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "10. Look at paragraph 10 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1209,7 +1189,6 @@
       ]
     },
     {
-      "anchor": "paragraph-11",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 11"
@@ -1244,7 +1223,7 @@
     {
       "exercises": [
         {
-          "title": "11. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "11. Look at paragraph 11 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1291,7 +1270,6 @@
       ]
     },
     {
-      "anchor": "paragraph-12",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 12"
@@ -1326,7 +1304,7 @@
     {
       "exercises": [
         {
-          "title": "12. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "12. Look at paragraph 12 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1388,7 +1366,6 @@
       ]
     },
     {
-      "anchor": "paragraph-13",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 13"
@@ -1423,7 +1400,7 @@
     {
       "exercises": [
         {
-          "title": "13. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "13. Look at paragraph 13 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1469,7 +1446,7 @@
         }
       ]
     },
-    {"anchor": "paragraph-14",
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 14"
@@ -1497,7 +1474,7 @@
     {
       "exercises": [
         {
-          "title": "14. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "14. Look at paragraph 14 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1533,7 +1510,6 @@
       ]
     },
     {
-      "anchor": "paragraph-15",
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 15"
@@ -1568,7 +1544,7 @@
     {
       "exercises": [
         {
-          "title": "15. Look at paragraph 1 and fill in the blanks with the correct answers."
+          "title": "15. Look at paragraph 15 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1623,7 +1599,6 @@
       ]
     },
     {
-      "anchor": "retelling",
       "ribbon": {
         "icon": "picture",
         "label": "Retelling the story"
@@ -1632,49 +1607,43 @@
     {
       "flipCardRetell": [
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/paragraph-1.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/paragraph-2.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/paragraph-3.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/paragraph-4.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/paragraph-5.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/paragraph-6.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/paragraph-7.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/flip-paragraph-8-9.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/paragraph-10.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/paragraph-11.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/paragraph-12.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/paragraph-13.avif"
         },
         {
-          "img": ""
-        },
-        {
-          "img": ""
-        },
-        {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star/flip-paragraph-14-15.avif"
         }
       ]
     }

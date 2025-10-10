@@ -63,52 +63,42 @@
       "hangman": [
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/l.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         },
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         }
       ]
@@ -301,7 +291,7 @@
                     },
                     {
                       "icon": "picture",
-                      "link": "#retelling",
+                      "link": "#retelling-the-story",
                       "label": "Retelling the story"
                     }
                   ]
@@ -1212,6 +1202,61 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "picture",
+        "label": "Retelling the story"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
         }
       ]
     }
