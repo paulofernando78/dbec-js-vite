@@ -37,7 +37,7 @@ wc-floating-board {
   width: 32px;
   position: absolute;
   left: 233px;
-  bottom: 37px;
+  bottom: 35px;
   z-index: 3;
 }
 
@@ -60,11 +60,4 @@ wc-scroll-top {
 wc-scroll-top.visible {
   opacity: 1;
   pointer-events: auto;
-}
-
-@media (max-width: 500px) {
-  wc-scroll-top {
-    bottom: 32px;
-    right: 20px;
-  }
 }

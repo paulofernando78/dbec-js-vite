@@ -6,4 +6,5 @@ svg {
   cursor: pointer;
   fill: var(--red-4);
   background: white;
+  outline: 1px solid lightgrey;
 }

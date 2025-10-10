@@ -1,21 +1,22 @@
 .wrapper {
-  border-radius: 5px 5px 0 0;
+  border-radius: var(--border-radius);
   overflow: hidden;
   border: 3px solid white;
+  outline: 1px solid lightgrey;
 }
 
 .wrapper-extended {
-  width: 300px;
+  width: 400px;
 }
 
 .open-close {
+  display: grid;
+  place-items: center;
   height: 26px;
+  border: 1px solid lightgray;
   background-color: var(--yellow-3);
   text-align: center;
   cursor: pointer;
-  border: 1px solid lightgray;
-  display: grid;
-  place-items: center;
 }
 
 .open-close svg {
@@ -25,9 +26,15 @@
 
 textarea {
   width: 100%;
-  height: 150px;
+  height: 200px;
   padding: 5px;
   border-radius: 0 0 5px 5px;
   border: 1px solid lightgray;
   display: none;
+}
+
+@media (max-width: 500px) {
+  .wrapper-extended {
+  width: 300px;
+}
 }
