@@ -1,0 +1,249 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "icon": "business",
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "icon": "page",
+        "description": "Lesson 4 • Talking about manufacturing"
+      },
+      {
+        "icon": "homework",
+        "description": "Practice"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "exercises": [
+        {
+          "title": "Choosethe best substitute for the highlighted phrase or sentence:"
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "text": "1. To prepare for the holiday season, the chocolate factory operates "
+                },
+                {
+                  "markedText": "24/7"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "around the clock",
+                  "isCorrect": true
+                },
+                {
+                  "option": "until midnight",
+                  "isCorrect": false
+                },
+                {
+                  "option": "24 days a month",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. I think we'll be get the report out on Friday, but we'll definitely be "
+                },
+                {
+                  "markedText": "working down to the wire"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "bringing in extra help",
+                  "isCorrect": false
+                },
+                {
+                  "option": "taking some shortcuts",
+                  "isCorrect": false
+                },
+                {
+                  "option": "working up until the deadline",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. When we needed help marketing our conference, Karen was quick to "
+                },
+                {
+                  "markedText": "step up to the plate"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "give excuses",
+                  "isCorrect": false
+                },
+                {
+                  "option": "disappear",
+                  "isCorrect": false
+                },
+                {
+                  "option": "offer to help",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "4. "
+                },
+                {
+                  "markedText": "At the end of the day"
+                },
+                {
+                  "text": " we still managed to make a profit this year."
+                }
+              ],
+              "options": [
+                {
+                  "option": "In summary",
+                  "isCorrect": true
+                },
+                {
+                  "option": "The shocking fact is",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Against everyone's expectation",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "5. Let's assign the website project to Tyler. He'll "
+                },
+                {
+                  "markedText": "get the job done"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "do it successfully",
+                  "isCorrect": true
+                },
+                {
+                  "option": "finish it today",
+                  "isCorrect": false
+                },
+                {
+                  "option": "know who to hire",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. Tim wants to hire another project manager? "
+                },
+                {
+                  "markedText": "It's time for a reality check"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "That's not a realistic goal.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "What a great idea.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "The truth is we need another one.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "7. We'd planned to release our new tablet computer on Monday, but we're still "
+                },
+                {
+                  "markedText": "working out the kinks"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "on schedule",
+                  "isCorrect": false
+                },
+                {
+                  "option": "dealing with some problems",
+                  "isCorrect": true
+                },
+                {
+                  "option": "in the early stages",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "8. "
+                },
+                {
+                  "markedText": "No ifs, ands, or buts"
+                },
+                {
+                  "text": ", our new product line should be ready to ship by December 1."
+                }
+              ],
+              "options": [
+                {
+                  "option": "It's necessary that",
+                  "isCorrect": true
+                },
+                {
+                  "option": "If possible",
+                  "isCorrect": false
+                },
+                {
+                  "option": "If we work hard",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

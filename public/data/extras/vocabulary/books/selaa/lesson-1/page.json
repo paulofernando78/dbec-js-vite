@@ -1,0 +1,267 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "icon": "business",
+        "description": "Business"
+      },
+      {
+        "icon": "book",
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "icon": "page",
+        "description": "Lesson 1 • Talking about a new project"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-1.mp3"
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
+        "label": "Lesson 1 • Talking about a new project",
+        "descriptions": [
+          {
+            "description": [
+              {
+                "text": "Carl, Greg and Anne work for WaterSonic Corporation. Recently, the company has come up with an idea for a new electric toothbrush."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Carl: "
+                },
+                {
+                  "text": "I think we've "
+                },
+                {
+                  "markedText": "come up with a winner"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Anne: "
+                },
+                {
+                  "text": "I agree. The new Brush-o-matic should be a "
+                },
+                {
+                  "markedText": "blockbuster"
+                },
+                {
+                  "text": "!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Carl: ",
+                  "text": "Our designers have already made up some prototypes. The toothbrushes have a tooth-whitening attachment and many other "
+                },
+                {
+                  "markedText": "bells and whitles"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Greg: "
+                },
+                {
+                  "text": "We should "
+                },
+                {
+                  "markedText": "fast track a project"
+                },
+                {
+                  "text": ". Let's try to launch it in time for the holiday season."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Ane: "
+                },
+                {
+                  "text": "This will be a great "
+                },
+                {
+                  "markedText": "stocking stuffer"
+                },
+                {
+                  "text": "!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Carl: "
+                },
+                {
+                  "text": "We definitely need a "
+                },
+                {
+                  "markedText": "big win"
+                },
+                {
+                  "text": " for the holidays."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Anne: "
+                },
+                {
+                  "text": "This is a great idea. We're going to "
+                },
+                {
+                  "markedText": "make a killing"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Greg: "
+                },
+                {
+                  "text": "Let's not talk about this project to anybody who doesn't need to know. We'll "
+                },
+                {
+                  "markedText": "keep it under wraps"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Carl: "
+                },
+                {
+                  "text": "I agree. "
+                },
+                {
+                  "markedText": "Mum's the word"
+                },
+                {
+                  "text": ". "
+                },
+                {
+                  "text": "We don't want any of our competitors to "
+                },
+                {
+                  "mark": "get wind of"
+                },
+                {
+                  "text": " the idea and "
+                },
+                {
+                  "markedText": "rip it off"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Anne: "
+                },
+                {
+                  "text": "Right. Let's meet again on Monday morning and discuss our "
+                },
+                {
+                  "markedText": "game plan"
+                },
+                {
+                  "text": " for "
+                },
+                {
+                  "markedText": "getting this project off the ground"
+                },
+                {
+                  "text": "!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "icon": "business",
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "icon": "page",
+        "description": "Lesson 10 • Discussing a difficult request"
+      },
+      {
+        "icon": "homework",
+        "description": "Practice"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "exercises": [
+        {
+          "title": "Choose the best substitute for the highlighted phrase or sentence:"
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "text": "1. Our president gave everybody business card holders for Christmas. "
+                },
+                {
+                  "markedText": "I need another business card holder like a hole in the head"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "I really need a new business card holder.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "I'm happy to get another business card holder.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "I really don't need another business card holder.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. Installing that new computer software was "
+                },
+                {
+                  "markedText": "child's play"
+                },
+                {
+                  "text": " for Mark. He's got a PhD in computer science."
+                }
+              ],
+              "options": [
+                {
+                  "option": "very easy",
+                  "isCorrect": true
+                },
+                {
+                  "option": "challenging",
+                  "isCorrect": false
+                },
+                {
+                  "option": "enjoyable",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. I agree with you that we may not be successful entering the market in China, but "
+                },
+                {
+                  "markedText": "nothing ventured, nothing gained."
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "we should take a risk and enter the Chinese market",
+                  "isCorrect": true
+                },
+                {
+                  "option": "we shouldn't enter the Chinese market",
+                  "isCorrect": false
+                },
+                {
+                  "option": "if we enter the Chinese market, we'll definitely succeed",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "4. If you can't figure out how to fix the jammed printer, let Adam "
+                },
+                {
+                  "markedText": "take a crack at it"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "fix the crack in it",
+                  "isCorrect": false
+                },
+                {
+                  "option": "try to fix it",
+                  "isCorrect": true
+                },
+                {
+                  "option": "throw it in the trash",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "5. The company "
+                },
+                {
+                  "markedText": "kicked off"
+                },
+                {
+                  "text": " the new fiscal year by announcing several exciting new products."
+                }
+              ],
+              "options": [
+                {
+                  "option": "ended",
+                  "isCorrect": false
+                },
+                {
+                  "option": "postponed",
+                  "isCorrect": false
+                },
+                {
+                  "option": "began",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. It won't be easy, but if you "
+                },
+                {
+                  "markedText": "put your mind to it"
+                },
+                {
+                  "text": ", you can study for your law degree while also working full-time."
+                }
+              ],
+              "options": [
+                {
+                  "option": "don't think too much about it",
+                  "isCorrect": false
+                },
+                {
+                  "option": "work hard at it",
+                  "isCorrect": true
+                },
+                {
+                  "option": "think about it",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "7. Sorry I couldn't get you the financial reports by Friday. I "
+                },
+                {
+                  "markedText": "gave it my best shot"
+                },
+                {
+                  "text": ", but I just couldn't finish on time."
+                }
+              ],
+              "options": [
+                {
+                  "option": "tried as hard as I could",
+                  "isCorrect": true
+                },
+                {
+                  "option": "made a little effort",
+                  "isCorrect": false
+                },
+                {
+                  "option": "didn't try too hard",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "8. If you want to work for IBM, call my cousin Alan. He's a "
+                },
+                {
+                  "markedText": "bigwig"
+                },
+                {
+                  "text": " there."
+                }
+              ],
+              "options": [
+                {
+                  "option": "low-level employee",
+                  "isCorrect": false
+                },
+                {
+                  "option": "frequent visitor",
+                  "isCorrect": false
+                },
+                {
+                  "option": "senior executive",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

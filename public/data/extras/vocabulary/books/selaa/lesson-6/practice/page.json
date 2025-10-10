@@ -1,0 +1,201 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "icon": "business",
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "icon": "page",
+        "description": "Lesson 6 • Discussing good results"
+      },
+      {
+        "icon": "homework",
+        "description": "Practice"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "exercises": [
+        {
+          "title": "Choose the most appropriate response to the following:"
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "text": "1. Our store had a very successful holiday season this year. Sales were through the roof!"
+                }
+              ],
+              "options": [
+                {
+                  "option": "I'm sorry to hear that you need a new roof.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "That's great. Congratulations!",
+                  "isCorrect": true
+                },
+                {
+                  "option": "Don't worry. Maybe next year will be better.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. We're looking for some fresh thinking in our marketing department. Are you good at thinking outside the box?"
+                }
+              ],
+              "options": [
+                {
+                  "option": "Yes, I tend to think like everybody else.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Yes, I enjoy approaching new projects in a traditional way.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Yes, I'm great at coming up with new and creative ideas.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. I'd like to share the credit with you. Without you, I wouldn't have been able to find this important new client."
+                }
+              ],
+              "options": [
+                {
+                  "option": "Thank you. I appreciate the recognition.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "Thanks, but I already have enough credit.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "I think I deserve some of the credit too.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "4. A big Ace Hardware store is opening up in town. Do you think they'll give our local hardware store a run for their money?"
+                }
+              ],
+              "options": [
+                {
+                  "option": "Definitely. Their selection will be bigger and their prices may be lower.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "Yes, our local hardware store will definitely run out of money.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "No. Everybody in town will start shopping at Ace Hardware.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "5. Since you need to drum up some new business, I suggest you exhibit at a trade show."
+                }
+              ],
+              "options": [
+                {
+                  "option": "We don't have any business right now.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "We've been thinking about going into the drum business.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Great idea! I'm sure we could find some new clients there.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. You deserve a pat on the back for figuring out how to fix our computer network."
+                }
+              ],
+              "options": [
+                {
+                  "option": "Thanks. It was my pleasure.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "Thanks. Let me turn around so you can see my back.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Sorry. I wish I could've done a better job.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "7. Kudos to you and the rest of the manufacturing department for figuring out how to cut our production costs!"
+                }
+              ],
+              "options": [
+                {
+                  "option": "We don't need any more kudos. We have enough in inventory.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Thank you. We are proud of our results.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "We'll try our best, but we can't guarantee anything.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "8. Traditional ways of advertising are no longer working for our firm. Do you think we should try some guerrilla marketing?"
+                }
+              ],
+              "options": [
+                {
+                  "option": "Absolutely. It's always better to use reliable old methods.",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Yes, new ways of marketing might help increase sales.",
+                  "isCorrect": true
+                },
+                {
+                  "option": "No, I think you should try marketing to monkeys instead.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "icon": "business",
+        "description": "Business"
+      },
+      {
+        "icon": "book",
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "icon": "page",
+        "description": "Lesson 12 • Running a meeting"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-12.mp3"
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
+        "label": "Lesson 12 • Running a meeting",
+        "descriptions": [
+          {
+            "description": [
+              {
+                "text": "Julia is running a meeting. When Larry and Sally start arguing, Julia has to bring the meeting back under control."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Julia: "
+                },
+                {
+                  "text": "Let’s "
+                },
+                {
+                  "markedText": "get down to business"
+                },
+                {
+                  "text": ". We need to "
+                },
+                {
+                  "markedText": "cover a lot of ground"
+                },
+                {
+                  "text": ". Our first "
+                },
+                {
+                  "markedText": "agenda item"
+                },
+                {
+                  "text": " is to figure out how we’re going to respond to all the complaints we’ve been getting about our new website."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Larry: "
+                },
+                {
+                  "text": "Just so we’re all "
+                },
+                {
+                  "markedText": "on the same page"
+                },
+                {
+                  "text": ", please give us an overview of the problem."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Julia: "
+                },
+                {
+                  "markedText": "In a nutshell"
+                },
+                {
+                  "text": ", our customers are complaining that it’s very difficult to place orders through the new website."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Sally: "
+                },
+                {
+                  "text": "I think we "
+                },
+                {
+                  "markedText": "jumped the gun "
+                },
+                {
+                  "text": "by not conducting focus groups with our customers before we launched our new website."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Larry: "
+                },
+                {
+                  "text": "More focus groups? "
+                },
+                {
+                  "markedText": "Every time I turn around"
+                },
+                {
+                  "text": " we’re running focus groups! It’s "
+                },
+                {
+                  "markedText": "gotten out of hand"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Sally: "
+                },
+                {
+                  "markedText": "I beg to differ"
+                },
+                {
+                  "text": ". Focus groups are very important. They help us better understand our customer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Julia: "
+                },
+                {
+                  "text": "Well, clearly you two "
+                },
+                {
+                  "markedText": "don’t see eye-to-eye"
+                },
+                {
+                  "text": " on this issue."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Larry: "
+                },
+                {
+                  "text": "Ha! "
+                },
+                {
+                  "markedText": "That’s putting it lightly"
+                },
+                {
+                  "text": "! Focus groups are a waste of time and..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Julia: "
+                },
+                {
+                  "text": "Excuse me, let’s not "
+                },
+                {
+                  "markedText": "get off track"
+                },
+                {
+                  "text": " here. Does anybody else want to "
+                },
+                {
+                  "markedText": "weigh in on the issue at hand"
+                },
+                {
+                  "text": "?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Carl: "
+                },
+                {
+                  "text": "If I can "
+                },
+                {
+                  "markedText": "put in my two cents"
+                },
+                {
+                  "text": ", I agree with Sally that focus groups would’ve been a good idea."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Julia: "
+                },
+                {
+                  "text": "Well, enough about focus groups for now. Let’s move on to our next agenda item—planning for our "
+                },
+                {
+                  "markedText": "company offsite"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Larry: "
+                },
+                {
+                  "text": "Wait, I’m not finished talking about the website!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Julia: "
+                },
+                {
+                  "text": "We can "
+                },
+                {
+                  "markedText": "circle back to"
+                },
+                {
+                  "text": " that at the end of our meeting if we have time. I want to keep us on schedule since I know many of us have another meeting at 11 o’clock."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

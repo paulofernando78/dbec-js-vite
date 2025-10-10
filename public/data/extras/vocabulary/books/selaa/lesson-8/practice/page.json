@@ -1,0 +1,249 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "icon": "business",
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "icon": "page",
+        "description": "Lesson 8 • Discussing a difficult decision"
+      },
+      {
+        "icon": "homework",
+        "description": "Practice"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "exercises": [
+        {
+          "title": "Choose the best substitute for the highlighted phrase or sentence:"
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "text": "1. Sandra is "
+                },
+                {
+                  "markedText": "of two minds"
+                },
+                {
+                  "text": " about leaving her job to get an MBA."
+                }
+              ],
+              "options": [
+                {
+                  "option": "upset",
+                  "isCorrect": false
+                },
+                {
+                  "option": "not sure",
+                  "isCorrect": true
+                },
+                {
+                  "option": "very positive",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. You decided to invest some money in real estate? "
+                },
+                {
+                  "markedText": "Good call"
+                },
+                {
+                  "text": "!"
+                }
+              ],
+              "options": [
+                {
+                  "option": "You're a good person!",
+                  "isCorrect": false
+                },
+                {
+                  "option": "I'll call you back!",
+                  "isCorrect": false
+                },
+                {
+                  "option": "Good idea!",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. Ford Motor Company debated for a long time whether or not to start making cars in Russia, but the company finally decided to "
+                },
+                {
+                  "markedText": "bite the bullet"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "drop the project",
+                  "isCorrect": false
+                },
+                {
+                  "option": "go ahead with it",
+                  "isCorrect": true
+                },
+                {
+                  "option": "enter the weapons business",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "4. I know you're nervous about the launch of our new robotic vacuum cleaner, but "
+                },
+                {
+                  "markedText": "my gut tells me"
+                },
+                {
+                  "text": " that it's going to be a big seller."
+                }
+              ],
+              "options": [
+                {
+                  "option": "I have a strong feeling",
+                  "isCorrect": true
+                },
+                {
+                  "option": "my friend tells me",
+                  "isCorrect": false
+                },
+                {
+                  "option": "I don't think",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "5. Janet left her old job before finding a new one and "
+                },
+                {
+                  "markedText": "lived to regret her decision"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "had trouble finding a new job",
+                  "isCorrect": false
+                },
+                {
+                  "option": "was happy with her decision",
+                  "isCorrect": false
+                },
+                {
+                  "option": "was sorry about it later",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. Unfortunately, our company president is not a great leader. He's "
+                },
+                {
+                  "markedText": "wishy-washy"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "inconsiderate",
+                  "isCorrect": false
+                },
+                {
+                  "option": "not good at making decisions",
+                  "isCorrect": true
+                },
+                {
+                  "option": "lazy",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "7. Kate says running a business from her home "
+                },
+                {
+                  "markedText": "gives her the best of both worlds"
+                },
+                {
+                  "text": ": she can stay at home with her four young children and still make some money."
+                }
+              ],
+              "options": [
+                {
+                  "option": "allows her all possible advantages",
+                  "isCorrect": true
+                },
+                {
+                  "option": "gives her more work than she can handle",
+                  "isCorrect": false
+                },
+                {
+                  "option": "lets her stay at home all day doing nothing",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "8. The computer store was unsure at first how much demand there would be for the new line of laptops, so they started with a small order to "
+                },
+                {
+                  "markedText": "test the waters"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "make sure the laptops really worked",
+                  "isCorrect": false
+                },
+                {
+                  "option": "see if there was demand for the laptops",
+                  "isCorrect": true
+                },
+                {
+                  "option": "see if customers were interested in buying water",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

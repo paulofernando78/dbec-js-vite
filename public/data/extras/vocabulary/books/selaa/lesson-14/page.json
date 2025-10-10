@@ -1,0 +1,235 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "icon": "business",
+        "description": "Business"
+      },
+      {
+        "icon": "book",
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "icon": "page",
+        "description": "Lesson 14 • Taking Credit For Good Results"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-14.mp3"
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
+        "label": "Lesson 14 • Taking Credit For Good Results",
+        "descriptions": [
+          {
+            "description": [
+              {
+                "text": "When United Supply Company launches their website three weeks ahead of schedule, there’s more than one person ready to take credit."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "Bob: Kurt, I've got great news for you. We're "
+                },
+                {
+                  "markedText": "pushing the envelope"
+                },
+                {
+                  "text": " and launching our new website three weeks ahead of schedule."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Kurt: "
+                },
+                {
+                  "text": "Wow, Bob, that's a first for this company! How did you "
+                },
+                {
+                  "markedText": "pull that off"
+                },
+                {
+                  "text": "?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "I "
+                },
+                {
+                  "markedText": "burned the midnight oil"
+                },
+                {
+                  "text": " over these past few weeks. I "
+                },
+                {
+                  "markedText": "worked my tail off"
+                },
+                {
+                  "text": ". Sometimes things would get tough, but I always "
+                },
+                {
+                  "markedText": "kept my eye on the prize."
+                },
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Tara: "
+                },
+                {
+                  "text": "Let's not forget about Jim in technical support. He really "
+                },
+                {
+                  "markedText": "hunkered down"
+                },
+                {
+                  "text": " these past few days, working "
+                },
+                {
+                  "markedText": "around the clock"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "Yeah, Jim's a real "
+                },
+                {
+                  "markedText": "team player"
+                },
+                {
+                  "text": ". He helped a lot."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Kurt: "
+                },
+                {
+                  "text": "Well, that's not surprising. Jim's always ready to "
+                },
+                {
+                  "markedText": "pitch in"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "Of course, you deserve "
+                },
+                {
+                  "markedText": "a pat on the back too"
+                },
+                {
+                  "text": ", Kurt. None of this would've been possible without your leadership."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Kurt: "
+                },
+                {
+                  "markedText": "All in a day's work"
+                },
+                {
+                  "text": ". Providing great leadership "
+                },
+                {
+                  "markedText": "comes with the territory"
+                },
+                {
+                  "text": ". Well, time for some "
+                },
+                {
+                  "markedText": "R&R"
+                },
+                {
+                  "text": ". I'm off to Florida to play golf for a few days. See you next week!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

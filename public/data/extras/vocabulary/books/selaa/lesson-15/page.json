@@ -1,0 +1,250 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "icon": "business",
+        "description": "Business"
+      },
+      {
+        "icon": "book",
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "icon": "page",
+        "description": "Lesson 15 • Shifting Blame"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-15.mp3"
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
+        "label": "Lesson 15 • Shifting Blame",
+        "descriptions": [
+          {
+            "description": [
+              {
+                "text": "Rick and Ellen work for Attic Treasures Antiques, an antique shop. Max is the owner of the shop. Recently, a woman came in and sold them $10,000 worth of \"antique\" jewelry. Max takes one look at the jewelry and realizes it's fake."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Max: "
+                },
+                {
+                  "text": "I can't believe you two bought these fake antique necklaces! Didn't you examine them before "
+                },
+                {
+                  "markedText": "shelling out"
+                },
+                {
+                  "text": " 10 grand?"
+                },
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Rick: "
+                },
+                {
+                  "text": "Yeah, I thought they were fake, but I let Ellen "
+                },
+                {
+                  "markedText": "talk me into"
+                },
+                {
+                  "text": " buying them"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Ellen: "
+                },
+                {
+                  "text": "What? "
+                },
+                {
+                  "markedText": "I can't believe my ears"
+                },
+                {
+                  "text": "! You thought they were real. Now you're just trying to "
+                },
+                {
+                  "markedText": "cover yourself"
+                },
+                {
+                  "text": "!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Rick: "
+                },
+                {
+                  "text": "I don't want to be the "
+                },
+                {
+                  "markedText": "fall guy "
+                },
+                {
+                  "text": "here, Ellen. You were the one who looked at them under a magnifying glass."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Ellen: "
+                },
+                {
+                  "markedText": "For the record"
+                },
+                {
+                  "text": ", you were the one "
+                },
+                {
+                  "markedText": "going on about"
+                },
+                {
+                  "text": " how you "
+                },
+                {
+                  "markedText": "\"struck gold\""
+                },
+                {
+                  "text": " right after the woman left the shop!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Rick: "
+                },
+                {
+                  "text": "I don't remember saying that. Stop trying to "
+                },
+                {
+                  "markedText": "pass the buck"
+                },
+                {
+                  "text": ". Just "
+                },
+                {
+                  "markedText": "step up to the plate"
+                },
+                {
+                  "text": " and admit your mistake!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Ellen: "
+                },
+                {
+                  "text": "Right, while you "
+                },
+                {
+                  "markedText": "wash your hands of"
+                },
+                {
+                  "text": " the whole thing. "
+                },
+                {
+                  "markedText": "Dream on"
+                },
+                {
+                  "text": "!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Max: "
+                },
+                {
+                  "text": "Let's stop "
+                },
+                {
+                  "markedText": "pointing fingers at each other"
+                },
+                {
+                  "text": ". We need to "
+                },
+                {
+                  "markedText": "track down that woman"
+                },
+                {
+                  "text": " and get the money back!"
+                },
+                {
+                  "text": "!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

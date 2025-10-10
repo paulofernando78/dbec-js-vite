@@ -1,0 +1,249 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "icon": "business",
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "icon": "page",
+        "description": "Lesson 9 • Dealing with a dissastified customer"
+      },
+      {
+        "icon": "homework",
+        "description": "Practice"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "exercises": [
+        {
+          "title": "Choose the best substitute for the highlighted phrase or sentence:"
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "text": "1. You promised you'd do a great job re-designing our website, but you didn't "
+                },
+                {
+                  "markedText": "deliver"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "meet our expectations",
+                  "isCorrect": true
+                },
+                {
+                  "option": "do anything",
+                  "isCorrect": false
+                },
+                {
+                  "option": "disappoint us",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. I'm not sure I'll be able to join you for drinks at 5:30. I'm "
+                },
+                {
+                  "markedText": "swamped"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "exhausted",
+                  "isCorrect": false
+                },
+                {
+                  "option": "probably available",
+                  "isCorrect": false
+                },
+                {
+                  "option": "very busy",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. The proposal is due by Friday? I'll "
+                },
+                {
+                  "markedText": "get right on it"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "see what I can do",
+                  "isCorrect": false
+                },
+                {
+                  "option": "look it over",
+                  "isCorrect": false
+                },
+                {
+                  "option": "start on it immediately",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "4. Don't try to "
+                },
+                {
+                  "markedText": "pull the wool over my eyes"
+                },
+                {
+                  "text": ". I know you are Suzi were involved in an office romance."
+                }
+              ],
+              "options": [
+                {
+                  "option": "change the subject",
+                  "isCorrect": false
+                },
+                {
+                  "option": "hide the truth from me",
+                  "isCorrect": true
+                },
+                {
+                  "option": "explain things to me",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "5. Sorry you had to work during your vacation. Let me "
+                },
+                {
+                  "markedText": "make it up to you"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "do something nice for you",
+                  "isCorrect": true
+                },
+                {
+                  "option": "explain why",
+                  "isCorrect": false
+                },
+                {
+                  "option": "take over your duties",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. Let's stop "
+                },
+                {
+                  "markedText": "messing around"
+                },
+                {
+                  "text": ". We need to get our new product launched next month."
+                }
+              ],
+              "options": [
+                {
+                  "option": "strategizing",
+                  "isCorrect": false
+                },
+                {
+                  "option": "wasting time",
+                  "isCorrect": true
+                },
+                {
+                  "option": "working so hard",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "7. We paid a "
+                },
+                {
+                  "markedText": "pretty penny"
+                },
+                {
+                  "text": " for this new payroll software."
+                }
+              ],
+              "options": [
+                {
+                  "option": "a reasonable sum",
+                  "isCorrect": false
+                },
+                {
+                  "option": "a lot of money",
+                  "isCorrect": true
+                },
+                {
+                  "option": "not much",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "8. We "
+                },
+                {
+                  "markedText": "pulled out all the stops"
+                },
+                {
+                  "text": " to get Chad to accept our job offer."
+                }
+              ],
+              "options": [
+                {
+                  "option": "tried really hard",
+                  "isCorrect": true
+                },
+                {
+                  "option": "tried pretty hard",
+                  "isCorrect": false
+                },
+                {
+                  "option": "paid a lot of money",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

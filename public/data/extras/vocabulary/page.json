@@ -62,6 +62,24 @@
           }
         ]
       }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "icon": "pages",
+        "label": "Books",
+        "descriptions": [
+          {
+            "links": [
+              {
+                "icon": "page",
+                "link": "/extras/vocabulary/books/selaa",
+                "label": "Speak English like an American"
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }

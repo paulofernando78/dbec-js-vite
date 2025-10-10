@@ -1,0 +1,261 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "icon": "business",
+        "description": "Business"
+      },
+      {
+        "icon": "book",
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "icon": "page",
+        "description": "Lesson 6 • Discussing good results"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-6.mp3"
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
+        "label": "Lesson 6 • Discussing good results",
+        "descriptions": [
+          {
+            "description": [
+              {
+                "text": "Peter, Linda, and Todd work as managers at Capital City Bank, a retail bank. Linda’s creative idea for attracting new customers to the bank has generated lots of new business."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Peter: "
+                },
+                {
+                  "text": "Great news! We had a "
+                },
+                {
+                  "markedText": "record-breaking"
+                },
+                {
+                  "text": " quarter. We brought in revenues of $500,000."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Linda: "
+                },
+                {
+                  "text": "Wow, revenues really were "
+                },
+                {
+                  "markedText": "through the roof"
+                },
+                {
+                  "text": "!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Todd: "
+                },
+                {
+                  "text": "That’s great. "
+                },
+                {
+                  "markedText": "Kudos to"
+                },
+                {
+                  "text": " Linda! She deserves "
+                },
+                {
+                  "markedText": "a pat on the back"
+                },
+                {
+                  "text": ". The "
+                },
+                {
+                  "markedText": "guerrilla marketing"
+                },
+                {
+                  "text": " campaign she "
+                },
+                {
+                  "markedText": "dreamed up"
+                },
+                {
+                  "text": " was brilliant. She sent out e-mail to all of our customers asking them to e-mail a friend about our services. For each friend they e-mailed, they received a free gift."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Peter: "
+                },
+                {
+                  "text": "Linda, your campaign helped us "
+                },
+                {
+                  "markedText": "drum up a lot of business"
+                },
+                {
+                  "text": ". We "
+                },
+                {
+                  "markedText": "signed on 800 new customers"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Linda: "
+                },
+                {
+                  "text": "I’m really glad my plan "
+                },
+                {
+                  "markedText": "panned out"
+                },
+                {
+                  "text": ". I thought it would, since everybody loves a "
+                },
+                {
+                  "markedText": " freebie"
+                },
+                {
+                  "text": "!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Todd: "
+                },
+                {
+                  "text": "Linda, we can always count on you to "
+                },
+                {
+                  "markedText": "think outside the box"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Linda: "
+                },
+                {
+                  "markedText": "For the record"
+                },
+                {
+                  "text": ", Peter helped me come up with the idea."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Peter: "
+                },
+                {
+                  "text": "Thanks for "
+                },
+                {
+                  "markedText": "sharing the credit"
+                },
+                {
+                  "text": ", Linda. But it was your idea."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Todd: "
+                },
+                {
+                  "text": "The important thing is that we’re now "
+                },
+                {
+                  "markedText": "giving our"
+                },
+                {
+                  "text": " biggest competitor, U.S. Bank, a "
+                },
+                {
+                  "markedText": "run for their money"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

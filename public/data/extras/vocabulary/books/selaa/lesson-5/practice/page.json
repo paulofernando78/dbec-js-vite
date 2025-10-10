@@ -1,0 +1,249 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "icon": "business",
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "icon": "page",
+        "description": "Lesson 5 • Talking about company strategy"
+      },
+      {
+        "icon": "homework",
+        "description": "Practice"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "exercises": [
+        {
+          "title": "Choosethe best substitute for the highlighted phrase or sentence:"
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "text": "1. Mattel, a large toy company, always "
+                },
+                {
+                  "markedText": "beefs up"
+                },
+                {
+                  "text": " its advertising around the holiday season."
+                }
+              ],
+              "options": [
+                {
+                  "option": "changes",
+                  "isCorrect": false
+                },
+                {
+                  "option": "increases",
+                  "isCorrect": true
+                },
+                {
+                  "option": "decreases",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. Amazon.com uses "
+                },
+                {
+                  "markedText": "cutting-edge technologies"
+                },
+                {
+                  "text": " to determine which products each of its customers is most likely to buy."
+                }
+              ],
+              "options": [
+                {
+                  "option": "sharp",
+                  "isCorrect": false
+                },
+                {
+                  "option": "inexpensive",
+                  "isCorrect": false
+                },
+                {
+                  "option": "the most modern",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. We need to re-design our entire store. "
+                },
+                {
+                  "markedText": "For starters"
+                },
+                {
+                  "text": ", we should move the cash register from the back of the store to the front of the store."
+                }
+              ],
+              "options": [
+                {
+                  "option": "For now",
+                  "isCorrect": false
+                },
+                {
+                  "option": "As a first priority",
+                  "isCorrect": true
+                },
+                {
+                  "option": "As the solution",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "4. Your company is introducing garlic fruitcake? "
+                },
+                {
+                  "markedText": "That sounds like a real dog"
+                },
+                {
+                  "text": "!"
+                }
+              ],
+              "options": [
+                {
+                  "option": "What a great idea!",
+                  "isCorrect": false
+                },
+                {
+                  "option": "That sounds like a terrible idea!",
+                  "isCorrect": true
+                },
+                {
+                  "option": "I'm sure dogs will love it!",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "5. After Apple's iPod proved to be successful, several other manufacturers came out with "
+                },
+                {
+                  "markedText": "me-too products."
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "products very similar to the iPod",
+                  "isCorrect": true
+                },
+                {
+                  "option": "their own innovative products",
+                  "isCorrect": false
+                },
+                {
+                  "option": "products very different from the iPod",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. Your plan is good, but before you proceed, you'll need to "
+                },
+                {
+                  "markedText": "get buy-in"
+                },
+                {
+                  "text": " from the company president."
+                }
+              ],
+              "options": [
+                {
+                  "option": "get a purchase order",
+                  "isCorrect": false
+                },
+                {
+                  "option": "get approval",
+                  "isCorrect": true
+                },
+                {
+                  "option": "get a promotion",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "7. With our new solar-powered automobile, we're going to "
+                },
+                {
+                  "markedText": "leapfrog our competitors"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "options": [
+                {
+                  "option": "make all our competition disappear",
+                  "isCorrect": false
+                },
+                {
+                  "option": "turn our competitors into small green animals",
+                  "isCorrect": false
+                },
+                {
+                  "option": "come out with a superior product",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "8. I think you and I are "
+                },
+                {
+                  "markedText": "on the same page"
+                },
+                {
+                  "text": " about our plans to expand into China."
+                }
+              ],
+              "options": [
+                {
+                  "option": "realistic",
+                  "isCorrect": false
+                },
+                {
+                  "option": "in agreement",
+                  "isCorrect": true
+                },
+                {
+                  "option": "not in agreement",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

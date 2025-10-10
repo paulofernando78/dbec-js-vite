@@ -1,0 +1,302 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "icon": "business",
+        "description": "Business"
+      },
+      {
+        "icon": "book",
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "icon": "page",
+        "description": "Lesson 5 • Talking about company strategy"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-5.mp3"
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
+        "label": "Lesson 5 • Talking about company strategy",
+        "descriptions": [
+          {
+            "description": [
+              {
+                "text": "Andy and Laura work for Saltonica, a maker of cell phones. Sales have been slow lately, so Andy is recommending the company adopt a new strategy."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Andy: "
+                },
+                {
+                  "text": "My team has come up with a new strategy. We can’t continue being "
+                },
+                {
+                  "markedText": "fast followers"
+                },
+                {
+                  "text": ". We need to start developing our own "
+                },
+                {
+                  "markedText": "cutting-edge"
+                },
+                {
+                  "text": " technologies."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Laura: "
+                },
+                {
+                  "text": "Why? We’ve been fast followers for the past ten years. "
+                },
+                {
+                  "markedText": "Why mess with success?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Andy: "
+                },
+                {
+                  "text": "Success? "
+                },
+                {
+                  "markedText": "Get with the program"
+                },
+                {
+                  "text": ". Our sales are way down. Our "
+                },
+                {
+                  "markedText": "cash cow"
+                },
+                {
+                  "text": ", the Model 8B, only sold 900 units last month!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Laura: "
+                },
+                {
+                  "text": "I can understand why. That phone’s a relic.* It’s been around for over three years. What about our new phones?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Andy: "
+                },
+                {
+                  "text": "Our latest model cell phone was a "
+                },
+                {
+                  "markedText": "real dog"
+                },
+                {
+                  "text": "! It sold only 20 percent of our sales forecast."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Laura: "
+                },
+                {
+                  "text": "Any idea why? "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Andy: "
+                },
+                {
+                  "text": "Product life cycles are much shorter now than before. New technologies are developed at a much faster rate."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Laura: "
+                },
+                {
+                  "text": "So what are we supposed to do?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Andy: "
+                },
+                {
+                  "text": "We need to become much more innovative as a company. Instead of producing "
+                },
+                {
+                  "markedText": "me-too products"
+                },
+                {
+                  "text": ", we need to "
+                },
+                {
+                  "markedText": "leapfrog our competitors"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Laura: "
+                },
+                {
+                  "text": "How do we do that?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Andy: "
+                },
+                {
+                  "markedText": "For starters"
+                },
+                {
+                  "text": ", we need to "
+                },
+                {
+                  "markedText": "beef up"
+                },
+                {
+                  "text": " our R&D** department. We need to develop differentiated products which we can sell "
+                },
+                {
+                  "markedText": "at a premium"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Laura: "
+                },
+                {
+                  "text": "As a next step, let’s "
+                },
+                {
+                  "markedText": "get buy-in"
+                },
+                {
+                  "text": " from our marketing and sales directors."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Andy: "
+                },
+                {
+                  "text": "Right. We should get everyone "
+                },
+                {
+                  "markedText": "on the same page"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

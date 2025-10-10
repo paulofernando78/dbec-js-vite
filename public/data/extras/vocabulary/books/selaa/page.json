@@ -1,0 +1,166 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Vocabulary",
+    "descriptions": [
+      {
+        "icon": "books",
+        "description": "Books"
+      },
+      {
+        "icon": "book",
+        "description": "Speak English Like an American"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "ribbon": {
+        "icon": "book",
+        "label": "Lessons 1-5"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "snippet",
+                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "label": "Bob’s Day at Work"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "label": "Bob Returns Home with Bad News"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "label": "Ted's Day at School"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "label": "Nicole's Day at School"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "label": "Ted Goes Out for the Evening."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "pages",
+        "label": "Lessons 6-10"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "snippet",
+                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "label": "Susan Stays Home and Bakes Cookies"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "label": "Susan Hires Bob to Run Her Business"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "label": "Ted Forms a Rock Band"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "label": "Nicole For President!"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "label": "Bob Visits the Village Market"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "icon": "pages",
+        "label": "Lessons 11-15"
+      }
+    },
+    
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "snippet",
+                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "label": "Bob Drives a Hard Bargain"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "label": "Bob's Big Cookie Order."
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "label": "Amber Comes Over to Bake Cookies"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "label": "Amber and Ted Heat Up the Kitchen"
+                    },
+                    {
+                      "icon": "snippet",
+                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "label": "Nicole Practices Her Election Speech."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

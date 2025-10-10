@@ -1,0 +1,258 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "icon": "business",
+        "description": "Business"
+      },
+      {
+        "icon": "book",
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "icon": "page",
+        "description": "Lesson 7 • Discussing bad results"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "audioPlayer": {
+        "sticky": true,
+        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-7.mp3"
+      }
+    },
+    {
+      "card": {
+        "bgColor": "var(--gray-3)",
+        "icon": "page",
+        "label": "Lesson 7 • Discussing bad results",
+        "descriptions": [
+          {
+            "description": [
+              {
+                "text": "Ron, Alex, and Pam work for Brooklyn Brewski, a company that brews and distributes beer throughout New York. The company’s recent results have been terrible."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Alex: "
+                },
+                {
+                  "text": "We need to "
+                },
+                {
+                  "markedText": "face the music"
+                },
+                {
+                  "text": " here. We’re "
+                },
+                {
+                  "markedText": "in deep trouble"
+                },
+                {
+                  "text": "! Sales are down by 50 percent versus last year."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Pam: "
+                },
+                {
+                  "text": "It looks like we’re going to be "
+                },
+                {
+                  "markedText": "in the red"
+                },
+                {
+                  "text": " for the year "
+                },
+                {
+                  "markedText": "to the tune of"
+                },
+                {
+                  "text": " $1 million."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Ron: "
+                },
+                {
+                  "markedText": "No wonder"
+                },
+                {
+                  "text": ". We’re losing "
+                },
+                {
+                  "markedText": "market share"
+                },
+                {
+                  "text": " to Manhattan Beer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Alex: "
+                },
+                {
+                  "text": "Why? We need to "
+                },
+                {
+                  "markedText": "get to the bottom of this"
+                },
+                {
+                  "text": "!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Pam: "
+                },
+                {
+                  "text": "Every year they come up with new beers. They’re really "
+                },
+                {
+                  "markedText": "on top of trends"
+                },
+                {
+                  "text": ". For instance, last year they released a low-carb beer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Ron: "
+                },
+                {
+                  "text": "No wonder they’re "
+                },
+                {
+                  "markedText": "eating our lunch"
+                },
+                {
+                  "text": "! They’re "
+                },
+                {
+                  "markedText": "cashing in on"
+                },
+                {
+                  "text": " the latest trends and bringing "
+                },
+                {
+                  "markedText": "great new products to market"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Pam: "
+                },
+                {
+                  "text": "Meanwhile, we’re "
+                },
+                {
+                  "markedText": "running in place"
+                },
+                {
+                  "text": ". We need a new product block and new ideas for marketing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Alex: "
+                },
+                {
+                  "text": "It’s time to "
+                },
+                {
+                  "markedText": "clean house"
+                },
+                {
+                  "text": " and bring some"
+                },
+                {
+                  "markedText": " new blood"
+                },
+                {
+                  "text": " into this company."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Ron: "
+                },
+                {
+                  "markedText": "You took the words right out of my mouth"
+                },
+                {
+                  "text": "! We need some new people with fresh ideas."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

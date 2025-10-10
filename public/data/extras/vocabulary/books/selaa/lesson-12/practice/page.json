@@ -1,0 +1,249 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": [
+      {
+        "icon": "business",
+        "description": "Speak Business English Like an American"
+      },
+      {
+        "icon": "page",
+        "description": "Lesson 12 • Running a meeting"
+      },
+      {
+        "icon": "homework",
+        "description": "Practice"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "exercises": [
+        {
+          "title": "Choose the best substitute for the highlighted phrase or sentence:"
+        },
+        {
+          "radioExercises": [
+            {
+              "question": [
+                {
+                  "text": "1. Jim thinks his company should outsource its customer service to India, but his boss thinks they should keep it in California. They "
+                },
+                {
+                  "markedText":	"don't see eye-to-eye on"
+                },
+                {
+                  "text":	" the issue."
+                }
+              ],
+              "options": [
+                {
+                  "option": "don't understand",
+                  "isCorrect": false
+                },
+                {
+                  "option": "don't agree on",
+                  "isCorrect": true
+                },
+                {
+                  "option": "agree on",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. We're going to conduct focus groups so consumers can "
+                },
+                {
+                  "markedText":	"weigh in on"
+                },
+                {
+                  "text":	" the design of some of our new products."
+                }
+              ],
+              "options": [
+                {
+                  "option": "complain about",
+                  "isCorrect": false
+                },
+                {
+                  "option": "dictate",
+                  "isCorrect": false
+                },
+                {
+                  "option": "give their opinion on",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3. I know we're in a hurry to end the meeting, but let me just "
+                },
+                {
+                  "markedText":	"circle back to"
+                },
+                {
+                  "text":	" something David said earlier."
+                }
+              ],
+              "options": [
+                {
+                  "option": "emphasize",
+                  "isCorrect": false
+                },
+                {
+                  "option": "return to",
+                  "isCorrect": true
+                },
+                {
+                  "option": "dismiss",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "4. "
+                },
+                {
+                  "markedText": "Every time I turn around"
+                },
+                {
+                  "text":	", Ellen and Kelly are chatting."
+                }
+              ],
+              "options": [
+                {
+                  "option": "Very frequently",
+                  "isCorrect": true
+                },
+                {
+                  "option": "Whenever I turn my back",
+                  "isCorrect": false
+                },
+                {
+                  "option": "From time to time",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "5. Let's "
+                },
+                {
+                  "markedText":	"not jump the gun"
+                },
+                {
+                  "text":	" by buying a new printer before we can see if the old one can be fixed."
+                }
+              ],
+              "options": [
+                {
+                  "option": "not act too quickly",
+                  "isCorrect": true
+                },
+                {
+                  "option": "take action now",
+                  "isCorrect": false
+                },
+                {
+                  "option": "be efficient",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. I know many of you have more to say on this issue, but I'm afraid we're going to have to "
+                },
+                {
+                  "markedText":	"move on"
+                },
+                {
+                  "text":	" so we can finish this meeting on time."
+                }
+              ],
+              "options": [
+                {
+                  "option": "continue to discuss this",
+                  "isCorrect": false
+                },
+                {
+                  "option": "leave the conference room now",
+                  "isCorrect": false
+                },
+                {
+                  "option": "proceed to our next topic",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "7. Our office expenses are "
+                },
+                {
+                  "markedText":	"out of hand"
+                },
+                {
+                  "text":	". We're going to have to stop spending so much."
+                }
+              ],
+              "options": [
+                {
+                  "option": "hard to count",
+                  "isCorrect": false
+                },
+                {
+                  "option": "written down",
+                  "isCorrect": false
+                },
+                {
+                  "option": "much too high",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "8. Calvin "
+                },
+                {
+                  "markedText":	"covered a lot of ground"
+                },
+                {
+                  "text":	" with his local partners during his business trip to Tokyo."
+                }
+              ],
+              "options": [
+                {
+                  "option": "saw much of the city",
+                  "isCorrect": false
+                },
+                {
+                  "option": "had successful",
+                  "isCorrect": true
+                },
+                {
+                  "option": "made a lot of money",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
