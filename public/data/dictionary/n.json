@@ -2,6 +2,51 @@
   {
     "definitions": [
       {
+        "word": "neck",
+        "phonetics": "/nek/",
+        "partOfSpeech": "noun",
+        "enDefinition": "the part of the body connecting the head to the rest of the body; also, a narrow part of something resembling this shape",
+        "ptDefinition": "a parte do corpo que liga a cabeça ao restante do corpo; também, uma parte estreita de algo que lembra esse formato",
+        "examples": [
+          {
+            "enExample": "He wore a scarf around his neck.",
+            "ptExample": "Ele usava um cachecol em volta do pescoço."
+          },
+          {
+            "enExample": "The bottle has a long neck.",
+            "ptExample": "A garrafa tem um gargalo longo."
+          }
+        ],
+        "synonyms": ["cervix", "nape", "throat (in some contexts)"],
+        "antonyms": [],
+        "seeAlso": ["throat", "nape", "neckline"],
+        "notes": [
+          {
+            "enNote": "In anatomy, 'neck' refers specifically to the region between the head and shoulders. In objects, it can refer to any narrow connecting part.",
+            "ptNote": "Em anatomia, 'neck' refere-se especificamente à região entre a cabeça e os ombros. Em objetos, pode se referir a qualquer parte estreita de ligação."
+          }
+        ]
+      },
+      {
+        "word": "newspaper",
+        "phonetics": "/ˈnuːzˌpeɪpər/ (US), /ˈnjuːzˌpeɪpə/ (UK)",
+        "partOfSpeech": "noun",
+        "enDefinition": "a printed publication (usually issued daily or weekly) containing news, articles, advertisements, and other items of general interest",
+        "ptDefinition": "publicação impressa (geralmente diária ou semanal) que contém notícias, artigos, anúncios e outros itens de interesse geral",
+        "examples": [
+          {
+            "enExample": "She reads the newspaper every morning with her coffee.",
+            "ptExample": "Ela lê o jornal todas as manhãs com seu café."
+          },
+          {
+            "enExample": "The story was reported in all the major newspapers.",
+            "ptExample": "A história foi noticiada em todos os principais jornais."
+          }
+        ],
+        "synonyms": "daily, paper, gazette, journal",
+        "seeAlso": "magazine, periodical, tabloid"
+      },
+      {
         "word": "nail file",
         "phonetics": "/ˈneɪl faɪl/",
         "partOfSpeech": "noun",

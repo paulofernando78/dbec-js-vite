@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "license plate",
+        "phonetics": "/ˈlaɪsəns pleɪt/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a metal or plastic plate attached to a vehicle that displays its official registration number",
+        "ptDefinition": "placa de metal ou plástico fixada em um veículo que exibe seu número oficial de registro",
+        "examples": [
+          {
+            "enExample": "The police officer checked the car's license plate.",
+            "ptExample": "O policial verificou a placa do carro."
+          },
+          {
+            "enExample": "You must renew your license plate every year.",
+            "ptExample": "Você deve renovar sua placa todos os anos."
+          }
+        ],
+        "synonyms": ["number plate", "registration plate", "tag"],
+        "antonyms": [],
+        "seeAlso": ["vehicle registration", "car plate"],
+        "notes": [
+          {
+            "enNote": "In British English, 'number plate' is more commonly used.",
+            "ptNote": "Em inglês britânico, 'number plate' é mais comum."
+          }
+        ]
+      },
+      {
         "word": "let go",
         "phonetics": "/let ɡoʊ/",
         "partOfSpeech": "phrasal verb",

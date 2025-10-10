@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "magazine",
+        "phonetics": "/ˈmæɡ.ə.ziːn/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a publication, usually issued regularly, containing articles, photographs, and advertisements on various topics",
+        "ptDefinition": "uma publicação, geralmente periódica, que contém artigos, fotografias e anúncios sobre diversos temas",
+        "examples": [
+          {
+            "enExample": "She bought a fashion magazine at the newsstand.",
+            "ptExample": "Ela comprou uma revista de moda na banca de jornal."
+          },
+          {
+            "enExample": "The article was published in a well-known science magazine.",
+            "ptExample": "O artigo foi publicado em uma revista científica conhecida."
+          }
+        ],
+        "synonyms": ["periodical", "journal", "publication"],
+        "antonyms": ["book", "newspaper"],
+        "seeAlso": ["newspaper", "journal", "catalog"],
+        "notes": [
+          {
+            "enNote": "Magazines can be printed or digital and cover a wide range of interests, such as fashion, science, sports, and news.",
+            "ptNote": "As revistas podem ser impressas ou digitais e cobrem uma ampla variedade de interesses, como moda, ciência, esportes e notícias."
+          }
+        ]
+      },
+      {
         "word": "museum",
         "phonetics": "/mjuːˈziː.əm/",
         "partOfSpeech": "noun",

@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "train station",
+        "phonetics": "/treɪn ˈsteɪ.ʃən/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a place where trains stop so that passengers can get on or off",
+        "ptDefinition": "um local onde os trens param para que os passageiros possam embarcar ou desembarcar",
+        "examples": [
+          {
+            "enExample": "I'll meet you at the train station at 8 o'clock.",
+            "ptExample": "Vou te encontrar na estação de trem às 8 horas."
+          },
+          {
+            "enExample": "The train station was crowded during the holiday season.",
+            "ptExample": "A estação de trem estava lotada durante a temporada de férias."
+          }
+        ],
+        "synonyms": ["railway station", "depot", "terminal"],
+        "seeAlso": ["platform", "bus station", "subway station"],
+        "notes": [
+          {
+            "enNote": "In British English, 'railway station' is commonly used.",
+            "ptNote": "Em inglês britânico, 'railway station' é frequentemente usado."
+          }
+        ]
+      },
+      {
         "word": "thief",
         "phonetics": "/θiːf/",
         "partOfSpeech": "noun",

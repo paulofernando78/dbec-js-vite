@@ -2,6 +2,30 @@
   {
     "definitions": [
       {
+        "word": "ring",
+        "phonetics": "/rɪŋ/",
+        "partOfSpeech": "noun, verb",
+        "enDefinition": "noun: a small circular band, typically of metal, worn on a finger as jewelry; verb: to make a clear resonant or vibrating sound; to call by telephone",
+        "ptDefinition": "substantivo: uma pequena faixa circular, geralmente de metal, usada no dedo como joia; verbo: emitir um som claro e ressonante; telefonar para alguém",
+        "examples": [
+          {
+            "enExample": "She wore a gold ring on her left hand.",
+            "ptExample": "Ela usava um anel de ouro na mão esquerda."
+          },
+          {
+            "enExample": "The church bells ring every hour.",
+            "ptExample": "Os sinos da igreja tocam a cada hora."
+          },
+          {
+            "enExample": "I'll ring you later to discuss the details.",
+            "ptExample": "Eu vou te ligar mais tarde para discutir os detalhes."
+          }
+        ],
+        "synonyms": ["band", "circle", "call", "chime", "sound"],
+        "antonyms": ["silence", "mute"],
+        "seeAlso": ["circle", "jewelry", "call", "bell"]
+      },
+      {
         "word": "rabbit",
         "phonetics": "/ˈræb.ɪt/",
         "partOfSpeech": "noun",

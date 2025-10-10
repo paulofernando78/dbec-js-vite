@@ -63,7 +63,7 @@
       }
     },
     {
-      "hangman": [
+      "guessWord": [
         {
           "imageSrc": "/assets/images/general/boat.avif",
           "word": "boat"
@@ -85,7 +85,7 @@
           "word": "train station"
         },
         {
-          "imageSrc": "/assets/images/general/garden.avif",
+          "imageSrc": "/assets/images/general/garden-1.avif",
           "word": "garden"
         },
         {

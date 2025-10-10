@@ -2,6 +2,58 @@
   {
     "definitions": [
       {
+        "word": "soup",
+        "phonetics": "/suːp/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A liquid food made by boiling meat, vegetables, or fish in water, usually served hot.",
+        "ptDefinition": "Alimento líquido feito ao ferver carne, legumes ou peixe em água, geralmente servido quente.",
+        "examples": [
+          {
+            "enExample": "She made a delicious tomato soup for lunch.",
+            "ptExample": "Ela fez uma deliciosa sopa de tomate para o almoço."
+          },
+          {
+            "enExample": "Would you like some soup before the main course?",
+            "ptExample": "Você gostaria de um pouco de sopa antes do prato principal?"
+          }
+        ],
+        "synonyms": "broth, stew, chowder",
+        "antonyms": "solid food",
+        "seeAlso": "stew, consommé",
+        "notes": [
+          {
+            "enNote": "In informal English, 'soup up' can also mean to make something more powerful or impressive, like a car or a computer.",
+            "ptNote": "Em inglês informal, 'soup up' pode significar deixar algo mais potente ou impressionante, como um carro ou um computador."
+          }
+        ]
+      },
+      {
+        "word": "soap",
+        "phonetics": "US /soʊp/ UK /səʊp/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A substance used with water for washing and cleaning, made of natural oils or fats mixed with sodium or potassium compounds.",
+        "ptDefinition": "Substância usada com água para lavar e limpar, feita de óleos ou gorduras naturais misturados com compostos de sódio ou potássio.",
+        "examples": [
+          {
+            "enExample": "She washed her hands with soap and warm water.",
+            "ptExample": "Ela lavou as mãos com sabão e água morna."
+          },
+          {
+            "enExample": "The soap smells like lavender.",
+            "ptExample": "O sabão tem cheiro de lavanda."
+          }
+        ],
+        "synonyms": "cleanser, detergent",
+        "antonyms": "dirt, grime",
+        "seeAlso": "soap opera",
+        "notes": [
+          {
+            "enNote": "The word 'soap' can also be used informally to refer to a 'soap opera', a TV drama series.",
+            "ptNote": "A palavra 'soap' também pode ser usada informalmente para se referir a uma 'novela' (soap opera)."
+          }
+        ]
+      },
+      {
         "word": "sunglasses",
         "phonetics": "/ˈsʌnˌɡlæsɪz/",
         "partOfSpeech": "noun (plural)",
@@ -9,12 +61,12 @@
         "ptDefinition": "óculos com lentes escuras que protegem os olhos da luz do sol e do brilho",
         "examples": [
           {
-        "enExample": "She wore sunglasses to protect her eyes at the beach.",
-        "ptExample": "Ela usou óculos de sol para proteger os olhos na praia."
+            "enExample": "She wore sunglasses to protect her eyes at the beach.",
+            "ptExample": "Ela usou óculos de sol para proteger os olhos na praia."
           },
           {
-        "enExample": "Don't forget your sunglasses—it's very bright outside.",
-        "ptExample": "Não se esqueça dos óculos de sol — está muito claro lá fora."
+            "enExample": "Don't forget your sunglasses—it's very bright outside.",
+            "ptExample": "Não se esqueça dos óculos de sol — está muito claro lá fora."
           }
         ],
         "synonyms": ["shades", "dark glasses", "eyewear"],
@@ -22,8 +74,8 @@
         "seeAlso": ["glasses", "eyewear", "visor", "hat"],
         "notes": [
           {
-        "enNote": "Sunglasses are often used for fashion as well as eye protection.",
-        "ptNote": "Óculos de sol são usados tanto para proteção quanto como acessório de moda."
+            "enNote": "Sunglasses are often used for fashion as well as eye protection.",
+            "ptNote": "Óculos de sol são usados tanto para proteção quanto como acessório de moda."
           }
         ]
       },
@@ -35,12 +87,12 @@
         "ptDefinition": "verbo: pegar algo que não lhe pertence sem permissão ou direito legal; substantivo (informal): algo comprado ou obtido por um preço muito baixo, uma pechincha",
         "examples": [
           {
-        "enExample": "Someone tried to steal my bike last night.",
-        "ptExample": "Alguém tentou roubar minha bicicleta ontem à noite."
+            "enExample": "Someone tried to steal my bike last night.",
+            "ptExample": "Alguém tentou roubar minha bicicleta ontem à noite."
           },
           {
-        "enExample": "This designer bag was a steal at only $20.",
-        "ptExample": "Essa bolsa de grife foi uma pechincha por apenas 20 dólares."
+            "enExample": "This designer bag was a steal at only $20.",
+            "ptExample": "Essa bolsa de grife foi uma pechincha por apenas 20 dólares."
           }
         ],
         "synonyms": ["take", "rob", "snatch", "bargain (noun)"],
@@ -48,8 +100,8 @@
         "seeAlso": ["theft", "rob", "burglar", "bargain"],
         "notes": [
           {
-        "enNote": "As a verb, 'steal' refers to taking without permission. As a noun (informal), it means something is a great bargain.",
-        "ptNote": "Como verbo, 'steal' refere-se a pegar sem permissão. Como substantivo (informal), significa que algo é uma grande pechincha."
+            "enNote": "As a verb, 'steal' refers to taking without permission. As a noun (informal), it means something is a great bargain.",
+            "ptNote": "Como verbo, 'steal' refere-se a pegar sem permissão. Como substantivo (informal), significa que algo é uma grande pechincha."
           }
         ]
       },
@@ -61,12 +113,12 @@
         "ptDefinition": "vestimenta tradicional usada por mulheres no sul da Ásia, composta por um longo pedaço de tecido enrolado no corpo e jogado sobre o ombro",
         "examples": [
           {
-        "enExample": "She wore a beautiful silk saree to the wedding.",
-        "ptExample": "Ela usou um lindo saree de seda no casamento."
+            "enExample": "She wore a beautiful silk saree to the wedding.",
+            "ptExample": "Ela usou um lindo saree de seda no casamento."
           },
           {
-        "enExample": "The saree is often chosen for festivals and formal occasions.",
-        "ptExample": "O saree é frequentemente escolhido para festivais e ocasiões formais."
+            "enExample": "The saree is often chosen for festivals and formal occasions.",
+            "ptExample": "O saree é frequentemente escolhido para festivais e ocasiões formais."
           }
         ],
         "synonyms": ["sari", "traditional dress", "garment"],
@@ -74,8 +126,8 @@
         "seeAlso": ["sari", "lehenga", "salwar kameez"],
         "notes": [
           {
-        "enNote": "Sarees are made from various fabrics such as cotton, silk, and synthetic materials, and are worn in different styles depending on the region.",
-        "ptNote": "Sarees são feitos de vários tecidos como algodão, seda e materiais sintéticos, e são usados em diferentes estilos dependendo da região."
+            "enNote": "Sarees are made from various fabrics such as cotton, silk, and synthetic materials, and are worn in different styles depending on the region.",
+            "ptNote": "Sarees são feitos de vários tecidos como algodão, seda e materiais sintéticos, e são usados em diferentes estilos dependendo da região."
           }
         ]
       },
@@ -87,12 +139,12 @@
         "ptDefinition": "incomum ou surpreendente, especialmente de uma forma difícil de entender; não familiar ou desconhecido",
         "examples": [
           {
-        "enExample": "It felt strange to be back in my hometown after so many years.",
-        "ptExample": "Foi estranho estar de volta à minha cidade natal depois de tantos anos."
+            "enExample": "It felt strange to be back in my hometown after so many years.",
+            "ptExample": "Foi estranho estar de volta à minha cidade natal depois de tantos anos."
           },
           {
-        "enExample": "She heard a strange noise coming from the basement.",
-        "ptExample": "Ela ouviu um barulho estranho vindo do porão."
+            "enExample": "She heard a strange noise coming from the basement.",
+            "ptExample": "Ela ouviu um barulho estranho vindo do porão."
           }
         ],
         "synonyms": ["unusual", "odd", "peculiar", "weird", "bizarre"],
@@ -100,8 +152,8 @@
         "seeAlso": ["odd", "peculiar", "unfamiliar", "weird"],
         "notes": [
           {
-        "enNote": "Often used to describe things, people, or situations that are out of the ordinary.",
-        "ptNote": "Frequentemente usado para descrever coisas, pessoas ou situações fora do comum."
+            "enNote": "Often used to describe things, people, or situations that are out of the ordinary.",
+            "ptNote": "Frequentemente usado para descrever coisas, pessoas ou situações fora do comum."
           }
         ]
       },

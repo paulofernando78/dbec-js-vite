@@ -84,10 +84,16 @@
       ]
     },
         {
+      "ribbon": {
+        "icon": "map",
+        "label": "Map of New Zealand"
+      }
+    },
+    {
       "grid": false,
       "text": [
         {
-          "card": true,
+          "card": false,
           "blocks": [
             {
               "block": [
@@ -96,21 +102,6 @@
                 },
                 {
                   "text": "Auckland is a major city in the north of New Zealand’s North Island."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "collapsible": {
-                    "title": "Translation",
-                    "contents": [
-                      {
-                        "content": "Auckland é uma cidade importante no norte da Ilha Norte da Nova Zelândia."
-                      }
-                    ]
-                  }
                 }
               ]
             }
@@ -427,12 +418,6 @@
     },
     {
       "ribbon": {
-        "icon": "map",
-        "label": "Map of New Zealand"
-      }
-    },
-    {
-      "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 1"
       }
@@ -534,7 +519,7 @@
             {
               "block": [
                 {
-                  "boldText": "2. Answers the questions."
+                  "boldText": "2. Now answer the questions."
                 }
               ],
               "lineBreak": true
@@ -613,7 +598,7 @@
     {
       "exercises": [
         {
-          "title": "2. Look at paragraph 2 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 2 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -623,13 +608,52 @@
                 {
                   "block": [
                     {
-                      "text": "2.1 What do the girls do when they get to the airport? They",
+                      "text": "1.1 What do the girls do when they get to the airport? They",
                       "correctAnswer": ["look for"]
                     },
                     {
                       "text": "a taxi."
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 Where are they now?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 Who’s waving to the girl?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.3 What did he say?"
                 }
               ]
             }
@@ -686,7 +710,7 @@
     {
       "exercises": [
         {
-          "title": "3. Look at paragraph 3 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 3 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -696,7 +720,7 @@
                 {
                   "block": [
                     {
-                      "text": "3.1 What does Sarah do when she sees the phone on the taxi floor? She",
+                      "text": "1.1 What does Sarah do when she sees the phone on the taxi floor? She",
                       "correctAnswer": ["takes"]
                     },
                     {
@@ -707,13 +731,38 @@
                 {
                   "block": [
                     {
-                      "text": "3.2 Now they have to",
+                      "text": "1.2 Now they have to",
                       "correctAnswer": ["find"]
                     },
                     {
                       "text": "his address."
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 What does Jessica see on the floor?"
                 }
               ]
             }
@@ -787,6 +836,31 @@
                       "text": "for Michael."
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 ..."
                 }
               ]
             }
@@ -876,6 +950,31 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 ..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 6"
@@ -945,6 +1044,31 @@
                       "text": "the tower."
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 ..."
                 }
               ]
             }
@@ -1029,6 +1153,31 @@
                       "text": "after Michael."
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 ..."
                 }
               ]
             }
@@ -1123,6 +1272,31 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 ..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 9"
@@ -1196,6 +1370,31 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 ..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 10"
@@ -1261,6 +1460,31 @@
                       "text": "Island."
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 ..."
                 }
               ]
             }
@@ -1346,6 +1570,31 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 ..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 12"
@@ -1411,6 +1660,31 @@
                       "text": "."
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 ..."
                 }
               ]
             }
@@ -1508,6 +1782,31 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 ..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 14"
@@ -1588,6 +1887,31 @@
                       }
                     ]
                   }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 ..."
                 }
               ]
             }

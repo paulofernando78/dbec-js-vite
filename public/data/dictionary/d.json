@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "diamond",
+        "phonetics": "/ˈdaɪəmənd/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a precious stone consisting of a clear and colorless crystalline form of pure carbon, the hardest naturally occurring substance; also, a shape with four straight sides of equal length and two opposite acute angles and two opposite obtuse angles.",
+        "ptDefinition": "uma pedra preciosa composta por uma forma cristalina clara e incolor de carbono puro, a substância natural mais dura; também, uma forma com quatro lados retos de igual comprimento e dois ângulos agudos opostos e dois ângulos obtusos opostos.",
+        "examples": [
+          {
+            "enExample": "She wore a beautiful diamond ring on her finger.",
+            "ptExample": "Ela usava um lindo anel de diamante no dedo."
+          },
+          {
+            "enExample": "The baseball field is shaped like a diamond.",
+            "ptExample": "O campo de beisebol tem formato de losango."
+          }
+        ],
+        "synonyms": ["gem", "jewel", "stone", "lozenge (shape)"],
+        "antonyms": [],
+        "seeAlso": ["gemstone", "crystal", "lozenge"],
+        "notes": [
+          {
+            "enNote": "Diamonds are valued for their brilliance and hardness, often used in jewelry and industrial cutting tools.",
+            "ptNote": "Diamantes são valorizados por seu brilho e dureza, frequentemente usados em joias e ferramentas de corte industriais."
+          }
+        ]
+      },
+      {
         "word": "detective",
         "phonetics": "/dɪˈtɛktɪv/",
         "partOfSpeech": "noun",

@@ -29,13 +29,18 @@ class Contents extends HTMLElement {
 
   render(content) {
     const contentContainer = document.createElement("div");
-    contentContainer.className = "content-container"
+    contentContainer.className = "content-container";
     contentContainer.className = "line-break content-container";
 
     // Whiteboard
     const whiteboard = document.createElement("wc-whiteboard");
     whiteboard.data = content.whiteboard;
     contentContainer.appendChild(whiteboard);
+
+    // requestAnimationFrame(() => {
+    //   const rect = whiteboard.getBoundingClientRect();
+    //   console.log("Whiteboard bounding box", rect);
+    // }, 0);
 
     // Dictionary
     const dictionary = document.createElement("wc-dictionary-search");

@@ -37,7 +37,7 @@ class FloatingBoard extends HTMLElement {
     wrapper.appendChild(openClose);
 
     const floatingBoard = document.createElement("textarea");
-    floatingBoard.placeholder = "Note taking";
+    floatingBoard.placeholder = "Note taking (Linkar com board Student's Dashboard";
     wrapper.appendChild(floatingBoard);
   }
 }

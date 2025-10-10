@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "boat",
+        "phonetics": "US /boʊt/, UK /bəʊt/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A small vessel used for traveling on water, usually not as large as a ship.",
+        "ptDefinition": "Embarcação pequena usada para viajar sobre a água, geralmente menor que um navio.",
+        "examples": [
+          {
+            "enExample": "They crossed the river in a small boat.",
+            "ptExample": "Eles atravessaram o rio em um pequeno barco."
+          },
+          {
+            "enExample": "We rented a boat to explore the lake.",
+            "ptExample": "Nós alugamos um barco para explorar o lago."
+          }
+        ],
+        "synonyms": "vessel",
+        "antonyms": "",
+        "seeAlso": "ship, ferry, yacht, canoe",
+        "notes": [
+          {
+            "enNote": "The phrase ‘in the same boat’ means to be in the same difficult situation as someone else.",
+            "ptNote": "A expressão ‘in the same boat’ significa estar na mesma situação difícil que outra pessoa."
+          }
+        ]
+      },
+      {
         "word": "bag",
         "phonetics": "/bæɡ/",
         "partOfSpeech": "noun",
@@ -9,12 +35,12 @@
         "ptDefinition": "um recipiente flexível com uma abertura na parte superior, usado para carregar coisas",
         "examples": [
           {
-        "enExample": "She put her groceries in a reusable bag.",
-        "ptExample": "Ela colocou suas compras em uma sacola reutilizável."
+            "enExample": "She put her groceries in a reusable bag.",
+            "ptExample": "Ela colocou suas compras em uma sacola reutilizável."
           },
           {
-        "enExample": "He packed his clothes into a travel bag.",
-        "ptExample": "Ele colocou suas roupas em uma bolsa de viagem."
+            "enExample": "He packed his clothes into a travel bag.",
+            "ptExample": "Ele colocou suas roupas em uma bolsa de viagem."
           }
         ],
         "synonyms": ["sack", "pouch", "satchel", "tote"],
@@ -22,8 +48,8 @@
         "seeAlso": ["backpack", "purse", "suitcase"],
         "notes": [
           {
-        "enNote": "Bags come in many forms, such as plastic bags, paper bags, handbags, and backpacks.",
-        "ptNote": "Bolsas existem em várias formas, como sacolas plásticas, sacos de papel, bolsas de mão e mochilas."
+            "enNote": "Bags come in many forms, such as plastic bags, paper bags, handbags, and backpacks.",
+            "ptNote": "Bolsas existem em várias formas, como sacolas plásticas, sacos de papel, bolsas de mão e mochilas."
           }
         ]
       },
@@ -35,19 +61,19 @@
         "ptDefinition": "um móvel com prateleiras para guardar livros",
         "examples": [
           {
-        "enExample": "She arranged her favorite novels on the top shelf of the bookcase.",
-        "ptExample": "Ela organizou seus romances favoritos na prateleira de cima da estante."
+            "enExample": "She arranged her favorite novels on the top shelf of the bookcase.",
+            "ptExample": "Ela organizou seus romances favoritos na prateleira de cima da estante."
           },
           {
-        "enExample": "The bookcase in his office is filled with reference materials.",
-        "ptExample": "A estante no escritório dele está cheia de materiais de referência."
+            "enExample": "The bookcase in his office is filled with reference materials.",
+            "ptExample": "A estante no escritório dele está cheia de materiais de referência."
           }
         ],
         "synonyms": ["bookshelf", "shelving unit", "library shelf"],
         "notes": [
           {
-        "enNote": "Bookcases can be made of wood, metal, or other materials and come in various sizes.",
-        "ptNote": "Estantes podem ser feitas de madeira, metal ou outros materiais e existem em vários tamanhos."
+            "enNote": "Bookcases can be made of wood, metal, or other materials and come in various sizes.",
+            "ptNote": "Estantes podem ser feitas de madeira, metal ou outros materiais e existem em vários tamanhos."
           }
         ]
       },
@@ -59,12 +85,12 @@
         "ptDefinition": "recipiente, geralmente de vidro ou plástico, com gargalo estreito, usado para armazenar líquidos",
         "examples": [
           {
-        "enExample": "She poured water into the bottle.",
-        "ptExample": "Ela colocou água na garrafa."
+            "enExample": "She poured water into the bottle.",
+            "ptExample": "Ela colocou água na garrafa."
           },
           {
-        "enExample": "The wine bottle was empty after the party.",
-        "ptExample": "A garrafa de vinho estava vazia depois da festa."
+            "enExample": "The wine bottle was empty after the party.",
+            "ptExample": "A garrafa de vinho estava vazia depois da festa."
           }
         ],
         "synonyms": ["container", "flask", "vial"],
@@ -72,8 +98,8 @@
         "seeAlso": ["jar", "flask", "jug"],
         "notes": [
           {
-        "enNote": "Bottles are commonly used for beverages, chemicals, and other liquids.",
-        "ptNote": "Garrafas são usadas comumente para bebidas, produtos químicos e outros líquidos."
+            "enNote": "Bottles are commonly used for beverages, chemicals, and other liquids.",
+            "ptNote": "Garrafas são usadas comumente para bebidas, produtos químicos e outros líquidos."
           }
         ]
       },
@@ -95,7 +121,7 @@
         ],
         "synonyms": ["majority", "mass", "volume", "main", "part"],
         "antonyms": ["minority", "small", "portion"],
-        "seeAlso": ["mass" , "majority", "wholesale"],
+        "seeAlso": ["mass", "majority", "wholesale"],
         "notes": [
           {
             "enNote": "Often used in contexts involving large quantities or sizes, such as bulk buying or bulk materials.",

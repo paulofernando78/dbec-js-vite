@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "perfume",
+        "phonetics": "US /pɝːˈfjuːm/, UK /ˈpɜː.fjuːm/",
+        "partOfSpeech": "noun",
+        "enDefinition": "A liquid with a pleasant smell that you put on your skin or clothes to make yourself smell nice.",
+        "ptDefinition": "Líquido com um cheiro agradável que você coloca na pele ou nas roupas para ficar cheiroso.",
+        "examples": [
+          {
+            "enExample": "She sprayed a little perfume on her wrist before going out.",
+            "ptExample": "Ela borrifou um pouco de perfume no pulso antes de sair."
+          },
+          {
+            "enExample": "He bought an expensive French perfume for her birthday.",
+            "ptExample": "Ele comprou um perfume francês caro para o aniversário dela."
+          }
+        ],
+        "synonyms": "fragrance, scent, aroma",
+        "antonyms": "odor, stench, stink",
+        "seeAlso": "cologne, deodorant",
+        "notes": [
+          {
+            "enNote": "‘Perfume’ can also be used as a verb meaning to fill something with a pleasant smell.",
+            "ptNote": "‘Perfume’ também pode ser usado como verbo, significando perfumar algo."
+          }
+        ]
+      },
+      {
         "word": "painting",
         "phonetics": "/ˈpeɪn.tɪŋ/",
         "partOfSpeech": "noun",
@@ -9,20 +35,20 @@
         "ptDefinition": "uma imagem ou desenho criado com tinta em uma superfície como tela, papel ou parede; o ato ou arte de pintar",
         "examples": [
           {
-        "enExample": "The museum has a famous painting by Van Gogh.",
-        "ptExample": "O museu tem uma pintura famosa de Van Gogh."
+            "enExample": "The museum has a famous painting by Van Gogh.",
+            "ptExample": "O museu tem uma pintura famosa de Van Gogh."
           },
           {
-        "enExample": "She enjoys painting landscapes in her free time.",
-        "ptExample": "Ela gosta de pintar paisagens em seu tempo livre."
+            "enExample": "She enjoys painting landscapes in her free time.",
+            "ptExample": "Ela gosta de pintar paisagens em seu tempo livre."
           }
         ],
         "synonyms": ["artwork", "picture", "canvas"],
         "seeAlso": ["drawing", "sketch", "art", "painter"],
         "notes": [
           {
-        "enNote": "Painting can refer to both the finished work and the process of creating it.",
-        "ptNote": "Pintura pode se referir tanto à obra finalizada quanto ao processo de criá-la."
+            "enNote": "Painting can refer to both the finished work and the process of creating it.",
+            "ptNote": "Pintura pode se referir tanto à obra finalizada quanto ao processo de criá-la."
           }
         ]
       },
