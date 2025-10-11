@@ -1,4 +1,5 @@
-import cssImportsPath from "/src/css/imports.css?inline";
+import styleImportsPath from "/src/css/imports.css?inline";
+import styleTextPath from "/src/css/components/molecules/text.css?inline";
 import * as icons from "/src/assets/images/svg-imports.js";
 
 class Text extends HTMLElement {
@@ -6,80 +7,14 @@ class Text extends HTMLElement {
     super();
     this.attachShadow({ mode: "open" });
 
-    const cssImports = document.createElement("style");
-    cssImports.textContent = cssImportsPath;
-    this.shadowRoot.appendChild(cssImports);
-
-    const css = document.createElement("style");
-    /*css*/
-    css.textContent = `
-    .img-top {
-        display: grid;
-        grid-template-rows: auto auto;
-        gap: 10px
-      }
-
-      .img-right {
-        display: grid;
-        grid-template-columns: 1fr 200px;
-        gap: 10px
-      } 
-
-      .img-bottom {
-        display: grid;
-        grid-template-rows: auto auto ;
-        gap: 10px
-      }
-
-      .img-left {
-        display: grid;
-        grid-template-columns: 200px 1fr;
-        gap: 10px
-      }
-
-      .image-wrapper, .video-wrapper {
-        width: 100%;
-        display: flex;
-        justify-self: center;
-        justify-content: center;
-        flex-wrap: wrap;
-        gap: 6px
-      }
-
-      .video-wrapper wc-video-player {
-        width: 100%
-      }
-
-      .audio-wrapper {
-        margin-bottom: 10px
-      }
-
-      .icon {
-        margin-inline: 4px;
-        position: relative;
-        bottom: 1.8px
-      }
-
-      @media (max-width: 480px) {
-        .img-top, .img-right, .img-bottom, .img-left {
-          grid-template-columns: 1fr;
-        }
-
-        wc-image {
-          width: 75%;
-          height: auto;
-          margin: 0 auto
-        }
-
-        .video-player {
-          height: 100px;
-        }
-
-      }
-    `;
+    [styleImportsPath, styleTextPath].forEach((imports) => {
+      const style = document.createElement("style");
+      style.textContent = imports;
+      this.shadowRoot.appendChild(style);
+    });
 
     this.container = document.createElement("div");
-    this.shadowRoot.append(css, this.container);
+    this.shadowRoot.append(this.container);
   }
 
   set data(block) {
@@ -162,7 +97,6 @@ class Text extends HTMLElement {
       const blockElement = document.createElement("p");
 
       item.block.forEach((subItem) => {
-
         // Text Indent
         if (subItem.textIndent) {
           blockElement.style.textIndent = "1rem";
@@ -294,19 +228,19 @@ class Text extends HTMLElement {
         // Links
         if (Array.isArray(subItem.links) && subItem.links.length) {
           const ul = document.createElement("ul");
-          
-          
+
           subItem.links.forEach((link) => {
             const li = document.createElement("li");
 
             const wcIconItem = document.createElement("wc-icon-item");
+            wcIconItem.className = "link-text"
             wcIconItem.data = {
               icon: link.icon,
               link: link.link,
               target: link.target,
               label: link.label,
             };
-            
+
             li.appendChild(wcIconItem);
             ul.appendChild(li);
           });

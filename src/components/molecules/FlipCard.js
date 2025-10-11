@@ -1,14 +1,14 @@
-import cssImportsPath from "/src/css/imports.css?inline";
-import cssFlipCardPath from "/src/css/components/molecules/flip-card.css?inline";
+import styleImportsPath from "/src/css/imports.css?inline";
+import styleFlipCardPath from "/src/css/components/molecules/flip-card.css?inline";
 
 class FlipCard extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
- 
-    [cssImportsPath, cssFlipCardPath].forEach((css) => {
+
+    [styleImportsPath, styleFlipCardPath].forEach((imports) => {
       const style = document.createElement("style");
-      style.textContent = css;
+      style.textContent = imports;
       this.shadowRoot.appendChild(style);
     });
 
