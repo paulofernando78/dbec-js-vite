@@ -20,6 +20,8 @@ class FlipCardRetell extends HTMLElement {
       flipCard.classList.toggle("flipped");
     });
 
+    this.shadowRoot.appendChild(flipCard);
+
     const flipCardInner = document.createElement("div");
     flipCardInner.className = "flip-card-inner";
     flipCard.appendChild(flipCardInner);

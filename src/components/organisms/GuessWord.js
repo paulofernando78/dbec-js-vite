@@ -1,135 +1,16 @@
-import cssImportsPath from "/src/css/imports.css?inline";
+import styleImportsPath from "/src/css/imports.css?inline";
+import styleGuessWordPath from "/src/css/components/organisms/guess-word.css?inline";
 
 class GuessWord extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    const cssImports = document.createElement("style");
-    cssImports.textContent = cssImportsPath;
-    this.shadowRoot.appendChild(cssImports);
-
-    const css = document.createElement("style");
-    /*css*/
-    css.textContent = `
-      .container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 30px
-      }  
-    
-      .title {
-        display: block;
-        font-family: "Slackey";
-        font-size: 2rem;
-        text-align: center;
-        margin-top: 23px;
-        color: black;
-        text-shadow:
-        2px 2px 2px white,
-        2px 2px 2px black
-      }
-
-      .image-title, .image-question, .complete-word, .hint {
-        display: block;
-        font-family: "Slackey";
-        font-size: 1rem;
-      }
-
-      .hint {
-        display: block;
-        font-family: "Slackey";
-        font-size: .9rem
-      }
-
-      .attempt-words {
-        display: block;
-        font-family: "Slackey";
-        font-size: 1rem;
-        text-align: center;
-        margin-top: 20px,,
-      }
-
-      .image-letters-wrapper {
-        display: grid;
-        grid-template-columns: 300px auto
-      }
-
-      .letters-heart-display-wrapper {
-        display: flex;
-        flex-direction: column;
-        gap: 30px
-      }
-
-      .letter-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        align-content: flex-start;
-        margin-left: 5.5px
-      }
-      
-      .letter {
-        padding: var(--padding);
-      }
-
-      .attempts-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 4px;
-        margin-inline: 50px
-      }
-
-      .attempts {
-        width: 25px;
-      }
-
-      .word-display {
-        display: block;
-        font-family: "Slackey";
-        font-size: 1.3rem;
-        text-align: center;
-        letter-spacing: 8px
-      }
-
-      .messages {
-        display: none;
-        font-family: "Slackey";
-        font-size: 1.3rem;
-        text-align: center;
-        color: #333;
-      }
-
-      .messages.show {
-        display: block;
-      }
-
-      .messages.congrats {
-        color: #28a745;
-      }
-
-      .messages.error {
-        color: #dc3545;
-      }
-
-      .messages.complete {
-        color: #007bff;
-      }
-
-      .reset {
-        margin: 0 auto
-      }
-
-      @media (width <= 500px) {
-        .image-letters-wrapper {
-          display: grid;
-          grid-template-columns: 1fr
-        }
-      }
-    `;
-    this.shadowRoot.appendChild(css);
+    [styleImportsPath, styleGuessWordPath].forEach((imports) => {
+      const style = document.createElement("style");
+      style.textContent = imports;
+      this.shadowRoot.appendChild(style);
+    });
 
     this.wordsArray = [];
     this.currentWordIndex = 0;
