@@ -28,7 +28,7 @@ wc-floating-board {
 
 wc-scroll-top {
   position: absolute;
-  right: 7px;
+  right: 23px;
   bottom: 35px;
   z-index: 2;
   opacity: 0;
@@ -55,7 +55,7 @@ wc-scroll-top.visible {
     display: block;
   }
 
-  wc-floating-board {
+  /* wc-floating-board {
     left: 0px;
-  }
+  } */
 }
