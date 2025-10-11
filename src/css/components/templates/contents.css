@@ -1,5 +1,6 @@
 .content-container {
   position: relative;
+  margin-bottom: 40px;
 }
 
 wc-dictionary-search {
