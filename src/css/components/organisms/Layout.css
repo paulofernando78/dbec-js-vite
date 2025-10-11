@@ -55,7 +55,7 @@ wc-scroll-top.visible {
     display: block;
   }
 
-  /* wc-floating-board {
+  wc-floating-board {
     left: 0px;
-  } */
+  }
 }

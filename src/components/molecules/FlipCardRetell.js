@@ -12,11 +12,6 @@ class FlipCardRetell extends HTMLElement {
       this.shadowRoot.appendChild(style);
     });
 
-    // Container
-    const container = document.createElement("div");
-    container.className = "container";
-    this.shadowRoot.appendChild(container);
-
     // Flip Card
     const flipCard = document.createElement("div");
     flipCard.className = "flip-card";
@@ -24,8 +19,6 @@ class FlipCardRetell extends HTMLElement {
     flipCard.addEventListener("click", () => {
       flipCard.classList.toggle("flipped");
     });
-
-    container.appendChild(flipCard); // Flip Card added to Container
 
     const flipCardInner = document.createElement("div");
     flipCardInner.className = "flip-card-inner";
@@ -53,10 +46,6 @@ class FlipCardRetell extends HTMLElement {
     const backImage = document.createElement("img");
     backImage.className = "back-image";
     flipCardBack.appendChild(backImage);
-
-    const board = document.createElement("textarea");
-    board.placeholder = "Notes";
-    container.appendChild(board);
   }
 
   set data({ index, img }) {
