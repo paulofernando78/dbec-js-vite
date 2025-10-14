@@ -1141,11 +1141,11 @@
                 {
                   "block": [
                     {
-                      "text": "10.1 After ten minutes he stops.",
-                      "correctAnswer": ["..."]
+                      "text": "10.1 After ten minutes he",
+                      "correctAnswer": ["stops"]
                     },
                     {
-                      "text": "..."
+                      "text": "."
                     }
                   ]
                 },
