@@ -1,6 +1,7 @@
 import "/src/css/three-js-logo.css";
 
 import * as THREE from "three";
+import { RoundedBoxGeometry } from "three/examples/jsm/Addons.js";
 
 const phraseList = [
   "Hi there!",
@@ -31,18 +32,18 @@ function createTextTexture(text) {
   const ctx = canvas.getContext("2d");
   canvas.width = 512;
   canvas.height = 512;
-  
+
   // Transparent background
   ctx.clearRect(0, 0, canvas.width, canvas.height);
-  ctx.fillStyle = "#111"
-  ctx.fillRect(0, 0, canvas.width, canvas.height)
-  
-  ctx.font = "bold 48px Poppins";
+  ctx.fillStyle = "#111";
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+  ctx.font = "bold 60px Poppins";
   ctx.fillStyle = "#00ffcc";
   ctx.textAlign = "center";
   ctx.textBaseline = "middle";
   ctx.fillText(text, canvas.width / 2, canvas.height / 2);
-  
+
   return new THREE.CanvasTexture(canvas);
 }
 
@@ -53,8 +54,8 @@ const materials = phraseList.map(
 
 // Material compatible with light
 const geometry = new THREE.BoxGeometry(1, 1, 1);
-const material = new THREE.MeshStandardMaterial({ color: 0x00ff00 });
 const cube = new THREE.Mesh(geometry, materials);
+cube.position.y = 0.1
 scene.add(cube);
 
 const planeGeometry = new THREE.PlaneGeometry(10, 10);
@@ -89,8 +90,7 @@ function animate() {
   cube.rotation.x += 0.01;
   cube.rotation.y += 0.01;
   cube.castShadow = true;
-  
+
   renderer.render(scene, camera);
 }
 renderer.setAnimationLoop(animate);
-
