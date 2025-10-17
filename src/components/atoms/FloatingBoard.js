@@ -37,7 +37,16 @@ class FloatingBoard extends HTMLElement {
     wrapper.appendChild(openClose);
 
     const floatingBoard = document.createElement("textarea");
-    floatingBoard.placeholder = "Note taking (Linkar com board Student's Dashboard";
+    floatingBoard.placeholder = "Note taking";
+    // Load saved note from localStorage
+    const savedNote = localStorage.getItem("floatingBoardNote");
+    if (savedNote) {
+      floatingBoard.value = savedNote;
+    }
+    // Save note to localStorage on input
+    floatingBoard.addEventListener("input", () => {
+      localStorage.setItem("floatingBoardNote", floatingBoard.value);
+    });
     wrapper.appendChild(floatingBoard);
   }
 }
