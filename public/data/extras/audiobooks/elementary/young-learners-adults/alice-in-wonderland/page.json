@@ -188,12 +188,12 @@
                     {
                       "icon": "bookmark",
                       "link": "#chapter-1",
-                      "label": "Chapter 1 • Down the Rabbit-hole"
+                      "label": "Chapter 1 Down the Rabbit-hole"
                     },
                     {
-                      "icon": "bookmark",
-                      "link": "#retelling-chapter-1",
-                      "label": "Retelling Chapter 1"
+                      "icon": "picture",
+                      "link": "#chapter-1-retelling",
+                      "label": "Chapter 1 Retelling the story"
                     }
                   ]
                 }
@@ -207,12 +207,12 @@
                     {
                       "icon": "bookmark",
                       "link": "#chapter-2",
-                      "label": "Chapter 2 • Alice's Tears"
+                      "label": "Chapter 2 Alice's Tears"
                     },
                     {
-                      "icon": "bookmark",
-                      "link": "#retelling-chapter-2",
-                      "label": "Retelling Chapter 2"
+                      "icon": "picture",
+                      "link": "#chapter-2-retelling",
+                      "label": "Chapter 2 Retelling the story"
                     }
                   ]
                 }
@@ -226,12 +226,12 @@
                     {
                       "icon": "bookmark",
                       "link": "#chapter-3",
-                      "label": "Chapter 3 • A Race"
+                      "label": "Chapter 3 A Race"
                     },
                     {
-                      "icon": "bookmark",
-                      "link": "#retelling-chapter-3",
-                      "label": "Retelling Chapter 3"
+                      "icon": "picture",
+                      "link": "#chapter-3-retelling",
+                      "label": "Chapter 3 Retelling the story"
                     }
                   ]
                 }
@@ -245,12 +245,12 @@
                     {
                       "icon": "bookmark",
                       "link": "#chapter-4",
-                      "label": "Chapter 4 • The White Rabbit's House"
+                      "label": "Chapter 4 The White Rabbit's House"
                     },
                     {
-                      "icon": "bookmark",
-                      "link": "#retelling-chapter-4",
-                      "label": "Retelling Chapter 4"
+                      "icon": "picture",
+                      "link": "#chapter-4-retelling",
+                      "label": "Chapter 4 Retelling the story"
                     }
                   ]
                 }
@@ -264,7 +264,7 @@
                     {
                       "icon": "bookmark",
                       "link": "#chapter-5",
-                      "label": "Chapter 5 • The Caterpillar"
+                      "label": "Chapter 5 The Caterpillar"
                     },
                     {
                       "icon": "bookmark",
@@ -283,12 +283,12 @@
                     {
                       "icon": "bookmark",
                       "link": "#chapter-6",
-                      "label": "Chapter 6 • The Duchess and the Cheshire Cat"
+                      "label": "Chapter 6 The Duchess and the Cheshire Cat"
                     },
                     {
-                      "icon": "bookmark",
-                      "link": "#retelling-chapter-6",
-                      "label": "Retelling Chapter 6"
+                      "icon": "picture",
+                      "link": "#chapter-6-retelling",
+                      "label": "Chapter 6 Retelling the story"
                     }
                   ]
                 }
@@ -302,12 +302,12 @@
                     {
                       "icon": "bookmark",
                       "link": "#chapter-7",
-                      "label": "Chapter 7 • A Tea Party"
+                      "label": "Chapter 7 A Tea Party"
                     },
                     {
-                      "icon": "bookmark",
-                      "link": "#retelling-chapter-7",
-                      "label": "Retelling Chapter 7"
+                      "icon": "picture",
+                      "link": "#chapter-7-retelling",
+                      "label": "Chapter 7 Retelling the story"
                     }
                   ]
                 }
@@ -321,12 +321,12 @@
                     {
                       "icon": "bookmark",
                       "link": "#chapter-8",
-                      "label": "Chapter 8 • Inside the Garden"
+                      "label": "Chapter 8 Inside the Garden"
                     },
                     {
-                      "icon": "bookmark",
-                      "link": "#retelling-chapter-8",
-                      "label": "Retelling Chapter 8"
+                      "icon": "picture",
+                      "link": "#chapter-8-retelling",
+                      "label": "Chapter 8 Retelling the story"
                     }
                   ]
                 }
@@ -340,12 +340,12 @@
                     {
                       "icon": "bookmark",
                       "link": "#chapter-9",
-                      "label": "Chapter 9 • WhoTook theTarts?"
+                      "label": "Chapter 9 Who Took the Tarts?"
                     },
                     {
-                      "icon": "bookmark",
-                      "link": "#retelling-chapter-9",
-                      "label": "Retelling Chapter 9"
+                      "icon": "picture",
+                      "link": "#chapter-9-retelling",
+                      "label": "Chapter 9 Retelling the story"
                     }
                   ]
                 }
@@ -359,12 +359,12 @@
                     {
                       "icon": "bookmark",
                       "link": "#chapter-10",
-                      "label": "Chapter 10 • Down the Rabbit-hole"
+                      "label": "Chapter 10 The End of the Trial"
                     },
                     {
-                      "icon": "bookmark",
-                      "link": "#retelling-chapter-10",
-                      "label": "Retelling Chapter 10"
+                      "icon": "picture",
+                      "link": "#chapter-10-retelling",
+                      "label": "Chapter 10 Retelling the story"
                     }
                   ]
                 }
@@ -835,61 +835,28 @@
       ]
     },
     {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Now click or tap to flip the cards and describe each one."
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "anchor": "chapter-1-retelling",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Chapter 1 Retelling the story"
+      }
     },
     {
-      "flipCard": [
+      "flipCardRetell": [
         {
-          "front": {
-            "img": "/assets/images/general/question-mark.gif"
-          },
-          "back": {
-            "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/1-alice-reads-book-with-sister.avif"
-          }
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/1-alice-reads-book-with-sister.avif"
         },
         {
-          "front": {
-            "img": "/assets/images/general/question-mark.gif"
-          },
-          "back": {
-            "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/2-alice-sees-rabbit.avif"
-          }
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/2-alice-sees-rabbit.avif"
         },
         {
-          "front": {
-            "img": "/assets/images/general/question-mark.gif"
-          },
-          "back": {
-            "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/3-alice-falls-into-rabbit-hole.avif"
-          }
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/3-alice-falls-into-rabbit-hole.avif"
         },
         {
-          "front": {
-            "img": "/assets/images/general/question-mark.gif"
-          },
-          "back": {
-            "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/4-alice-drink-me.gif"
-          }
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/4-alice-drink-me.gif"
         },
         {
-          "front": {
-            "img": "/assets/images/general/question-mark.gif"
-          },
-          "back": {
-            "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/5-alice-eat-me.gif"
-          }
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/5-alice-eat-me.gif"
         }
       ]
     },
@@ -904,6 +871,14 @@
       "text": [
         {
           "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Alice’s Tears"
+                }
+              ],
+              "lineBreak": true
+            },
             {
               "block": [
                 {
@@ -1173,10 +1148,30 @@
       ]
     },
     {
+      "anchor": "chapter-2-retelling",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Chapter 2 Retelling the story"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-2/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-2/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-2/"
+        }
+      ]
+    },
+    {
       "anchor": "chapter-3",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 3 • "
+        "label": "Chapter 3"
       }
     },
     {
@@ -1421,38 +1416,6 @@
                   "text": "'Perhaps it's the Mouse, she thought."
                 }
               ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
-                }
-              ]
-            },
-            {
-              "block": [
-                {
-                  "textIndent": true,
-                  "text": "..."
-                }
-              ]
             }
           ]
         }
@@ -1467,7 +1430,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 3 Questions"
                 }
               ],
               "lineBreak": true
@@ -1539,10 +1502,30 @@
       ]
     },
     {
+      "anchor": "chapter-3-retelling",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Chapter 3 Retelling the story"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-3/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-3/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-3/"
+        }
+      ]
+    },
+    {
       "anchor": "chapter-4",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 4 • "
+        "label": "Chapter 4"
       }
     },
     {
@@ -1559,7 +1542,7 @@
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "boldText": "The White Rabbit’s House"
                 }
               ],
               "lineBreak": true
@@ -1585,7 +1568,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 4 Questions"
                 }
               ],
               "lineBreak": true
@@ -1657,10 +1640,30 @@
       ]
     },
     {
+      "anchor": "chapter-4-retelling",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Chapter 4 Retelling the story"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-4/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-4/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-4/"
+        }
+      ]
+    },
+    {
       "anchor": "chapter-5",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 5 • "
+        "label": "Chapter 5"
       }
     },
     {
@@ -1677,7 +1680,7 @@
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "boldText": "The Caterpillar"
                 }
               ],
               "lineBreak": true
@@ -1775,10 +1778,30 @@
       ]
     },
     {
+      "anchor": "chapter-5-retelling",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Chapter 5 Retelling the story"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-5/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-5/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-5/"
+        }
+      ]
+    },
+    {
       "anchor": "chapter-6",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 6 • "
+        "label": "Chapter 6"
       }
     },
     {
@@ -1795,7 +1818,7 @@
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "boldText": "The Duchess and the Cheshire Cat"
                 }
               ],
               "lineBreak": true
@@ -1821,7 +1844,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 6 Questions"
                 }
               ],
               "lineBreak": true
@@ -1893,10 +1916,30 @@
       ]
     },
     {
+      "anchor": "chapter-6-retelling",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Chapter 6 Retelling the story"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-6/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-6/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-6/"
+        }
+      ]
+    },
+    {
       "anchor": "chapter-7",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 7 • "
+        "label": "Chapter 7"
       }
     },
     {
@@ -1913,7 +1956,7 @@
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "boldText": "The Tea Party"
                 }
               ],
               "lineBreak": true
@@ -1939,7 +1982,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 7 Questions"
                 }
               ],
               "lineBreak": true
@@ -2011,10 +2054,30 @@
       ]
     },
     {
+      "anchor": "chapter-7-retelling",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Chapter 7 Retelling the story"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-7/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-7/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-7/"
+        }
+      ]
+    },
+    {
       "anchor": "chapter-8",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 8 • "
+        "label": "Chapter 8"
       }
     },
     {
@@ -2031,7 +2094,7 @@
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "boldText": "Inside the Garden"
                 }
               ],
               "lineBreak": true
@@ -2057,7 +2120,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 8 Questions"
                 }
               ],
               "lineBreak": true
@@ -2129,10 +2192,30 @@
       ]
     },
     {
+      "anchor": "chapter-8-retelling",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Chapter 8 Retelling the story"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-8/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-8/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-8/"
+        }
+      ]
+    },
+    {
       "anchor": "chapter-9",
       "ribbon": {
         "icon": "snippet",
-        "label": "Chapter 9 • "
+        "label": "Chapter 9"
       }
     },
     {
@@ -2149,7 +2232,7 @@
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "boldText": "Who Took the Tarts?"
                 }
               ],
               "lineBreak": true
@@ -2175,7 +2258,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 9 Questions"
                 }
               ],
               "lineBreak": true
@@ -2243,6 +2326,26 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "anchor": "chapter-9-retelling",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Chapter 9 Retelling the story"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-9/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-9/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-9/"
         }
       ]
     },
@@ -2267,7 +2370,7 @@
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "boldText": "The End of the Trial"
                 }
               ],
               "lineBreak": true
@@ -2293,7 +2396,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 10 Questions"
                 }
               ],
               "lineBreak": true
@@ -2361,6 +2464,26 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "anchor": "chapter-10-retelling",
+      "ribbon": {
+        "icon": "picture",
+        "label": "Chapter 10 Retelling the story"
+      }
+    },
+    {
+      "flipCardRetell": [
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-10/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-10/"
+        },
+        {
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-10/"
         }
       ]
     }

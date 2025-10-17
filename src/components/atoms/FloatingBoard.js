@@ -38,6 +38,7 @@ class FloatingBoard extends HTMLElement {
 
     const floatingBoard = document.createElement("textarea");
     floatingBoard.placeholder = "Note taking";
+    
     // Load saved note from localStorage
     const savedNote = localStorage.getItem("floatingBoardNote");
     if (savedNote) {
