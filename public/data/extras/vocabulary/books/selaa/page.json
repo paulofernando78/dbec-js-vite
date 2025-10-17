@@ -32,7 +32,7 @@
                   "links": [
                     {
                       "icon": "snippet",
-                      "link": "/data/extras/vocabulary/books/selaa/lesson-1/page.json",
+                      "link": "/extras/vocabulary/books/selaa/lesson-1/",
                       "label": "Lesson 1 • Bob’s Day at Work"
                     }
                   ]
@@ -57,7 +57,7 @@
                   "links": [
                     {
                       "icon": "snippet",
-                      "link": "#",
+                      "link": "/extras/vocabulary/books/selaa/lesson-2/",
                       "label": "Lesson 2 • Bob Returns Home with Bad News"
                     }
                   ]

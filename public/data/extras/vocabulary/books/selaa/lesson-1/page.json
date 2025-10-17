@@ -21,19 +21,19 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-1.mp3"
+        "src": "/assets/audio/vocabulary/books/selaa/lesson-1.mp3"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "label": "Lesson 1 • Talking about a new project",
+        "label": "Lesson 1 • ",
         "descriptions": [
           {
             "description": [
               {
-                "text": "Carl, Greg and Anne work for WaterSonic Corporation. Recently, the company has come up with an idea for a new electric toothbrush."
+                "text": "..."
               }
             ]
           }
@@ -47,215 +47,335 @@
             {
               "block": [
                 {
-                  "boldText": "Carl: "
+                  "boldText": "xxx: "
                 },
                 {
-                  "text": "I think we've "
+                  "text": "xxx"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "exercises",
+        "label": "Exercises"
+      }
+    },
+    {
+      "exercises": [
+        {
+          "title": "1. Look at the picture and click / tap the letters to guess the word. Don't be afraid of making mistakes."
+        },
+        {
+          "guessWord": [
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            },
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            },
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            },
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            },
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            },
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            },
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            },
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            }
+          ]
+        },
+        {
+          "title": "1. Now fill in the blanks with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "1.1 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
                 },
                 {
-                  "markedText": "come up with a winner"
+                  "block": [
+                    {
+                      "text": "1.2 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
                 },
                 {
-                  "text": "."
+                  "block": [
+                    {
+                      "text": "1.3 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.4 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.5 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.6 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.7 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.8 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Anne: "
-                },
-                {
-                  "text": "I agree. The new Brush-o-matic should be a "
-                },
-                {
-                  "markedText": "blockbuster"
-                },
-                {
-                  "text": "!"
-                }
-              ]
-            }
-          ]
+          "title": "2. Choose the best substitute for the highlighted phrase or sentence:"
         },
         {
-          "blocks": [
+          "radioExercises": [
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Carl: ",
-                  "text": "Our designers have already made up some prototypes. The toothbrushes have a tooth-whitening attachment and many other "
+                  "text": "2.1 xxx "
+                }
+              ],
+              "options": [
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "bells and whitles"
+                  "option": "xxx",
+                  "isCorrect": true
                 },
                 {
-                  "text": "."
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Greg: "
+                  "text": "2.2 xxx "
+                }
+              ],
+              "options": [
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "text": "We should "
+                  "option": "xxx",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "fast track a project"
-                },
-                {
-                  "text": ". Let's try to launch it in time for the holiday season."
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Ane: "
+                  "text": "2.3 xxx "
+                }
+              ],
+              "options": [
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "text": "This will be a great "
+                  "option": "xxx",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "stocking stuffer"
-                },
-                {
-                  "text": "!"
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Carl: "
+                  "text": "2.4 xxx "
+                }
+              ],
+              "options": [
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "text": "We definitely need a "
+                  "option": "xxx",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "big win"
-                },
-                {
-                  "text": " for the holidays."
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Anne: "
+                  "text": "2.5 xxx "
+                }
+              ],
+              "options": [
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "text": "This is a great idea. We're going to "
+                  "option": "xxx",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "make a killing"
-                },
-                {
-                  "text": "."
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Greg: "
+                  "text": "2.6 xxx "
+                }
+              ],
+              "options": [
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "text": "Let's not talk about this project to anybody who doesn't need to know. We'll "
+                  "option": "xxx",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "keep it under wraps"
-                },
-                {
-                  "text": "."
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Carl: "
+                  "text": "2.7 xxx "
+                }
+              ],
+              "options": [
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "text": "I agree. "
+                  "option": "xxx",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "Mum's the word"
-                },
-                {
-                  "text": ". "
-                },
-                {
-                  "text": "We don't want any of our competitors to "
-                },
-                {
-                  "mark": "get wind of"
-                },
-                {
-                  "text": " the idea and "
-                },
-                {
-                  "markedText": "rip it off"
-                },
-                {
-                  "text": "."
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Anne: "
+                  "text": "2.8 xxx "
+                }
+              ],
+              "options": [
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "text": "Right. Let's meet again on Monday morning and discuss our "
+                  "option": "xxx",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "game plan"
-                },
-                {
-                  "text": " for "
-                },
-                {
-                  "markedText": "getting this project off the ground"
-                },
-                {
-                  "text": "!"
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
             }
