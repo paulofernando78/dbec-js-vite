@@ -101,7 +101,7 @@
                   "markedText": "’m"
                 },
                 {
-                  "text": " from Chicago."
+                  "text": " from California."
                 }
               ]
             },
@@ -1250,7 +1250,7 @@
                 {
                   "block": [
                     {
-                      "text": "4.These chairs aren’t nice, but",
+                      "text": "4. These chairs aren’t nice, but",
                       "correctAnswer": ["they are", "they’re", "they're"]
                     },
                     {
@@ -1359,12 +1359,15 @@
                   "block": [
                     {
                       "text": "1. ",
-                      "placeholder": "She is thirsty.",
+                      "placeholder": "She is thirsty",
                       "correctAnswer": [
-                        "She is thirsty.",
-                        "She’s thirsty.",
-                        "She's thirsty."
+                        "She is thirsty",
+                        "She’s thirsty",
+                        "She's thirsty"
                       ]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
@@ -1373,10 +1376,13 @@
                     {
                       "text": "2. ",
                       "correctAnswer": [
-                        "They are cold.",
-                        "They’re cold.",
-                        "They're cold."
+                        "They are cold",
+                        "They’re cold",
+                        "They're cold"
                       ]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
@@ -1385,10 +1391,13 @@
                     {
                       "text": "3. ",
                       "correctAnswer": [
-                        "She is hot.",
-                        "She’s hot.",
-                        "She's hot."
+                        "She is hot",
+                        "She’s hot",
+                        "She's hot"
                       ]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
@@ -1397,19 +1406,22 @@
                     {
                       "text": "4. ",
                       "correctAnswer": [
-                        "He is scared.",
-                        "He’s scared.",
-                        "He's scared.",
-                        "He is scared of snakes.",
-                        "He’s scared of snakes.",
-                        "He's scared of snakes.",
-                        "He is afraid.",
-                        "He’s afraid.",
-                        "He's afraid.",
-                        "He is afraid of snakes.",
-                        "He’s afraid of snakes.",
-                        "He's afraid of snakes."
+                        "He is scared",
+                        "He’s scared",
+                        "He's scared",
+                        "He is scared of snakes",
+                        "He’s scared of snakes",
+                        "He's scared of snakes",
+                        "He is afraid",
+                        "He’s afraid",
+                        "He's afraid",
+                        "He is afraid of snakes",
+                        "He’s afraid of snakes",
+                        "He's afraid of snakes"
                       ]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
@@ -1418,10 +1430,13 @@
                     {
                       "text": "5. ",
                       "correctAnswer": [
-                        "They are hungry.",
-                        "They’re hungry.",
-                        "They're hungry."
+                        "They are hungry",
+                        "They’re hungry",
+                        "They're hungry"
                       ]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
@@ -1430,10 +1445,13 @@
                     {
                       "text": "6. ",
                       "correctAnswer": [
-                        "She is angry.",
+                        "She is angry",
                         "She’s angry",
-                        "She's angry."
+                        "She's angry"
                       ]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 }
@@ -1455,10 +1473,13 @@
                       "text": "1. (Brazil / a very big country) ",
                       "placeholder": "Brazil...",
                       "correctAnswer": [
-                        "Brazil is a very big country.",
-                        "Brazil’s a very big country.",
-                        "Brazil's a very big country."
+                        "Brazil is a very big country",
+                        "Brazil’s a very big country",
+                        "Brazil's a very big country"
                       ]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
@@ -1467,10 +1488,13 @@
                     {
                       "text": "2. (Diamonds / cheap) ",
                       "correctAnswer": [
-                        "Diamonds are not cheap.",
-                        "Diamonds aren’t cheap.",
-                        "Diamonds aren't cheap."
+                        "Diamonds are not cheap",
+                        "Diamonds aren’t cheap",
+                        "Diamonds aren't cheap"
                       ]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
@@ -1479,10 +1503,13 @@
                     {
                       "text": "3. (Quebec / in the United States)",
                       "correctAnswer": [
-                        "Quebec is not in the United States.",
-                        "Quebec isn’t in the United States.",
-                        "Quebec isn't in the United States."
+                        "Quebec is not in the United States",
+                        "Quebec isn’t in the United States",
+                        "Quebec isn't in the United States"
                       ]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 }
