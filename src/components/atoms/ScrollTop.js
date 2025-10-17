@@ -1,7 +1,7 @@
 import cssImportsPath from "/src/css/imports.css?inline";
 import cssScrollTopPath from "/src/css/components/atoms/scroll-top.css?inline";
 
-import { arrowCircleUp } from "../../assets/images/svg-imports";
+import { arrowUp } from "../../assets/images/svg-imports";
 
 class ScrollTop extends HTMLElement {
   constructor() {
@@ -15,8 +15,7 @@ class ScrollTop extends HTMLElement {
     });
 
     const svgSpan = document.createElement("span");
-    svgSpan.className = "scroll-top"
-    svgSpan.innerHTML = arrowCircleUp;
+    svgSpan.innerHTML = arrowUp;
     this.shadowRoot.appendChild(svgSpan);
   }
 }

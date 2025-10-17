@@ -48,7 +48,7 @@ class Collapsible extends HTMLElement {
       }
 
       .content {
-        user-select: none;
+        // user-select: none;
         padding: 4px 5px 0 5px
       }
     `;

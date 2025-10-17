@@ -4,7 +4,8 @@ svg {
   height: 32px;
   border-radius: 5px;
   cursor: pointer;
-  fill: var(--red-4);
-  background: white;
+  background: var(--yellow-3);
+  border: 3px solid white;
   outline: 1px solid lightgrey;
+  
 }

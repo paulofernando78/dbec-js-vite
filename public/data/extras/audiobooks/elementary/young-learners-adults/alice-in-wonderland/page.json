@@ -383,7 +383,7 @@
     },
     {
       "audioPlayer": {
-        "sticky": true,
+        "sticky": false,
         "src": "/assets/audio/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/chapter-1.mp3"
       }
     },
@@ -844,19 +844,19 @@
     {
       "flipCardRetell": [
         {
-          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/1-alice-reads-book-with-sister.avif"
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/retelling/chapter-1/1-alice-reads-book-with-sister.avif"
         },
         {
-          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/2-alice-sees-rabbit.avif"
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/retelling/chapter-1/2-alice-sees-rabbit.avif"
         },
         {
-          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/3-alice-falls-into-rabbit-hole.avif"
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/retelling/chapter-1/3-alice-falls-into-rabbit-hole.avif"
         },
         {
-          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/4-alice-drink-me.gif"
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/retelling/chapter-1/4-alice-drink-me.gif"
         },
         {
-          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-1/5-alice-eat-me.gif"
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/retelling/chapter-1/5-alice-eat-me.gif"
         }
       ]
     },
@@ -1073,18 +1073,6 @@
               "block": [
                 {
                   "text": "2.1 What happened to Alice’s body after she drank the drink?"
-                },
-                {
-                  "text": ""
-                },
-                {
-                  "text": ""
-                },
-                {
-                  "text": ""
-                },
-                {
-                  "text": "2.5 Why did the Mouse get angry with Alice?"
                 }
               ]
             },
@@ -1157,13 +1145,13 @@
     {
       "flipCardRetell": [
         {
-          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-2/"
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/retelling/chapter-2/flip-2-1.avif"
         },
         {
-          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-2/"
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/retelling/chapter-2/flip-2-2.avif"
         },
         {
-          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/story-telling/chapter-2/"
+          "img": "/assets/images/extras/audiobooks/elementary/young-learners-adults/alice-in-wonderland/retelling/chapter-2/flip-2-3.avif"
         }
       ]
     },
@@ -1438,35 +1426,35 @@
             {
               "block": [
                 {
-                  "text": ".1 "
+                  "text": ".1 Who was the Dodo?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".2 "
+                  "text": ".2 What kind of race did the Dodo suggest?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".3 "
+                  "text": ".3 Who won the race?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".4 "
+                  "text": ".4 What prize did they get?"
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": ".5 "
+                  "text": ".5 Why did the animals and birds leave Alice?"
                 }
               ],
               "lineBreak": true
@@ -1478,19 +1466,19 @@
                     "title": "Answers",
                     "contents": [
                       {
-                        "content": ".1 "
+                        "content": ".1 The Dodo was the largest bird and the one who decided to organize the race."
                       },
                       {
-                        "content": ".2 "
+                        "content": ".2 He suggested a Caucus race, where everyone runs in circles and there are no rules."
                       },
                       {
-                        "content": ".3 "
+                        "content": ".3 The Dodo said that everybody was first, so everyone won."
                       },
                       {
-                        "content": ".4 "
+                        "content": ".4 Each bird and animal got a piece of chocolate."
                       },
                       {
-                        "content": ".5 "
+                        "content": ".5 Because she talked about her cat, Dinah, who catches mice and birds."
                       }
                     ]
                   }
@@ -1706,7 +1694,7 @@
             {
               "block": [
                 {
-                  "boldText": "Chapter X Questions"
+                  "boldText": "Chapter 5 Questions"
                 }
               ],
               "lineBreak": true
