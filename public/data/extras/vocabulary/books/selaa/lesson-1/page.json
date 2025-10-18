@@ -269,13 +269,13 @@
                   "markedText": "talk this over"
                 },
                 {
-                  "text": "?"
+                  "text": "? "
                 },
                 {
-                  "markedText": " After all"
+                  "markedText": "After all"
                 },
                 {
-                  "text": ", I've been working here for 10 years!"
+                  "text": " , I've been working here for 10 years!"
                 }
               ],
               "lineBreak": true
@@ -286,13 +286,13 @@
                   "boldText": "Peter: "
                 },
                 {
-                  "text": "There's"
+                  "text": "There's "
                 },
                 {
-                  "markedText":	" no point in"
+                  "markedText":	"no point in "
                 },
                 {
-                  "text":	" arguing, Bob. I've already "
+                  "text":	"arguing, Bob. I've already "
                 },
                 {
                   "markedText":	"made up my mind"
@@ -315,16 +315,16 @@
                   "markedText":	"at least"
                 },
                 {
-                  "text":	" I won't have to"
+                  "text":	" I won't have to "
                 },
                 {
-                  "markedText":	" put up with"
+                  "markedText":	"put up with"
                 },
                 {
                   "text":	" your nonsense anymore! Good-bye to you and good-bye to this "
                 },
                 {
-                  "markedText":	"dead-end job"
+                  "markedText":	"dead-end job "
                 },
                 {
                   "text":	"."
@@ -386,7 +386,7 @@
             },
             {
               "word": "give someone the creeps",
-              "imageSrc": "/assets/images/general/xxx.avif"
+              "imageSrc": "/assets/images/general/give-someone-the-creeps.avif"
             },
             {
               "word": "break the news",
@@ -416,81 +416,99 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 That luxury car must have ________; it’s incredibly expensive!",
-                      "correctAnswer": ["an arm and a leg"]
+                      "text": "1.1 That luxury car must have",
+                      "correctAnswer": ["cost an arm and a leg"]
+                    },
+                    {
+                      "text":	"it’s incredibly expensive!"
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "1.2 Our plan didn’t work as expected, so we’ll have to ________ and try again.",
+                      "text": "1.2 Our plan didn’t work as expected, so we’ll have to ",
                       "correctAnswer": ["go back to the drawing board"]
+                    },
+                    {
+                      "text":	"and try again."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "1.3 He’s so clever and quick-thinking — really ________.",
-                      "correctAnswer": ["sharp as a tack"]
+                      "text": "1.3 The lawyer was",
+                      "correctAnswer": ["sharp as a tack","as sharp as a tack"]
+                    },
+                    {
+                      "text":	", quickly dismantling the opposing counsel’s arguments."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "1.4 That old, dark house at the end of the street really ________.",
+                      "text": "1.4 That old, dark house at the end of the street really",
                       "correctAnswer": ["gives me the creeps"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "1.5 After the power went out, the technician arrived just in time to fix it and ________.",
+                      "text": "1.5 After the power went out, the technician arrived just in time to fix it and",
                       "correctAnswer": ["save the day"]
                     },
                     {
-                      "text": "xxx"
+                      "text": "."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "1.6 She had to ________ her noisy neighbors for years before moving out.",
+                      "text": "1.6 She had to",
                       "correctAnswer": ["put up with"]
+                    },
+                    {
+                      "text":	"her noisy neighbors for years before moving out."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "1.7 They paid ________ for that designer handbag, but they didn’t mind.",
+                      "text": "1.7 They paid",
                       "correctAnswer": ["top dollar"]
+                    },
+                    {
+                      "text":	"for that designer handbag, but they didn’t mind."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "1.8 I hate to ________, but your application wasn’t approved.",
+                      "text": "1.8 I hate to",
                       "correctAnswer": ["break the news"]
                     },
                     {
-                      "text": "break the news"
+                      "text":	"but your application wasn’t approved."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "1.9 ________ arguing with him — he never changes his mind.",
-                      "correctAnswer": ["break the news"]
+                      "text": "1.9",
+                      "correctAnswer": ["There’s no point"]
                     },
                     {
-                      "text": "There’s no point"
+                      "text": "arguing with him — he never changes his mind."
                     }
                   ]
                 }

@@ -205,12 +205,12 @@ class DictionaryContent extends HTMLElement {
     if (Array.isArray(this.notes) && this.notes.length > 0) {
       const notesList = document.createElement("ul");
       dictionaryCard.appendChild(notesList);
-
+      
       this.notes.forEach((note) => {
         const item = document.createElement("li");
         item.style.display = "inline";
         item.classList.add("margin-top");
-
+        
         const noteTitle = document.createElement("span");
         noteTitle.style.fontFamily = "times-roman";
         (noteTitle.textContent = "Notes:"),
