@@ -1,3 +1,16 @@
+.layout {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: auto 1fr auto;
+  gap: 10px;
+  height: calc(100dvh - 20px);
+  position: relative;
+}
+
+.grid-span {
+  grid-column: 1 / 3;
+}
+
 #app {
   grid-column: 2;
   grid-row: 2;
@@ -5,35 +18,25 @@
   padding-right: 8px;
 }
 
-.layout {
-  position: relative;
-  display: grid;
-  grid-template-columns: auto 1fr;
-  grid-template-rows: auto 1fr auto;
-  gap: 10px;
-  height: calc(100dvh - 20px);
-}
-
-.grid-span {
-  grid-column: 1 / 3;
-}
-
-wc-floating-board {
-  width: 32px;
+.floatScrollWrapper {
   position: absolute;
-  left: 233px;
+  right: 24px;
   bottom: 35px;
-  z-index: 3;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
 }
 
 wc-scroll-top {
-  position: absolute;
-  right: 23px;
-  bottom: 35px;
   z-index: 2;
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.7s ease-in-out;
+}
+
+wc-floating-board {
+  z-index: 3;
 }
 
 wc-scroll-top.visible {

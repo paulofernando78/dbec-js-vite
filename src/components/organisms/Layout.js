@@ -16,7 +16,7 @@ class Layout extends HTMLElement {
     layout.classList.add("layout");
 
     const header = document.createElement("wc-header");
-    header.classList.add("grid-span");
+    header.className = "grid-span";
     layout.appendChild(header);
 
     const aside = document.createElement("aside");
@@ -28,13 +28,17 @@ class Layout extends HTMLElement {
     app.id = "app";
     layout.appendChild(app);
 
+    // Float $ Scroll Wrapper
+    const floatScrollWrapper = document.createElement("div");
+    floatScrollWrapper.className = "floatScrollWrapper"
+    layout.appendChild(floatScrollWrapper);
+    // Scroll Top
+    const scrollTop = document.createElement("wc-scroll-top");
+    floatScrollWrapper.appendChild(scrollTop);
     // Floating Board
     const float = document.createElement("wc-floating-board");
     float.className = "floating-board";
-    layout.appendChild(float);
-
-    const scrollTop = document.createElement("wc-scroll-top");
-    layout.appendChild(scrollTop);
+    floatScrollWrapper.appendChild(float);
 
     // Referência ao container com scroll
     const scrollContainer = app; // já criado anteriormente
@@ -52,7 +56,7 @@ class Layout extends HTMLElement {
     });
 
     const footer = document.createElement("wc-footer");
-    footer.classList.add("grid-span");
+    footer.className = "grid-span";
     layout.appendChild(footer);
 
     this.shadowRoot.appendChild(layout);
