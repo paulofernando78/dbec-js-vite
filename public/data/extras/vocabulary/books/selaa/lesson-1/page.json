@@ -370,7 +370,7 @@
           "guessWord": [
             {
               "word": "cost an arm and a leg",
-              "imageSrc": "/assets/images/general/cost an arm and a leg.avif"
+              "imageSrc": "public/assets/images/general/cost-an-arm-and-a-leg.avif"
             },
             {
               "word": "go back to the drawing board",
@@ -399,6 +399,10 @@
             {
               "word": "put up with",
               "imageSrc": "/assets/images/general/put-up-with.avif"
+            },
+            {
+              "word": "top dollar",
+              "imageSrc": "/assets/images/general/top-dollar.avif"
             }
           ]
         },
