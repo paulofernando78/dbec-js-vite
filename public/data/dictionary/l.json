@@ -2,6 +2,44 @@
   {
     "definitions": [
       {
+        "word": "lose one’s temper",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to suddenly become very angry or lose control of one’s emotions",
+        "ptDefinition": "ficar muito bravo ou perder o controle das próprias emoções de forma repentina",
+        "examples": [
+          {
+            "enExample": "He lost his temper when he saw the mess in the kitchen.",
+            "ptExample": "Ele perdeu a paciência quando viu a bagunça na cozinha."
+          },
+          {
+            "enExample": "Try not to lose your temper during the meeting.",
+            "ptExample": "Tente não perder a calma durante a reunião."
+          },
+          {
+            "enExample": "She rarely loses her temper, but this time she couldn’t help it.",
+            "ptExample": "Ela raramente perde a cabeça, mas desta vez não conseguiu se controlar."
+          }
+        ],
+        "synonyms": [
+          "get angry",
+          "blow up",
+          "fly off the handle",
+          "lose control"
+        ],
+        "antonyms": ["stay calm", "keep one’s cool", "control oneself"],
+        "seeAlso": ["lose it", "blow one’s top", "hit the roof"],
+        "notes": [
+          {
+            "enNote": "Commonly used when someone reacts emotionally or angrily, often without thinking.",
+            "ptNote": "Usado comumente quando alguém reage emocionalmente ou com raiva, muitas vezes sem pensar."
+          },
+          {
+            "enNote": "Can describe both mild irritation and explosive anger, depending on context.",
+            "ptNote": "Pode descrever tanto uma irritação leve quanto uma explosão de raiva, dependendo do contexto."
+          }
+        ]
+      },
+      {
         "word": "license plate",
         "phonetics": "/ˈlaɪsəns pleɪt/",
         "partOfSpeech": "noun",
@@ -35,16 +73,16 @@
         "ptDefinition": "soltar ou deixar de segurar algo; parar de pensar ou se preocupar com algo; demitir alguém de um emprego",
         "examples": [
           {
-        "enExample": "She let go of the rope and fell into the water.",
-        "ptExample": "Ela soltou a corda e caiu na água."
+            "enExample": "She let go of the rope and fell into the water.",
+            "ptExample": "Ela soltou a corda e caiu na água."
           },
           {
-        "enExample": "You need to let go of your anger to move on.",
-        "ptExample": "Você precisa deixar de lado sua raiva para seguir em frente."
+            "enExample": "You need to let go of your anger to move on.",
+            "ptExample": "Você precisa deixar de lado sua raiva para seguir em frente."
           },
           {
-        "enExample": "The company had to let go several employees due to budget cuts.",
-        "ptExample": "A empresa teve que demitir vários funcionários devido a cortes no orçamento."
+            "enExample": "The company had to let go several employees due to budget cuts.",
+            "ptExample": "A empresa teve que demitir vários funcionários devido a cortes no orçamento."
           }
         ],
         "synonyms": ["release", "free", "dismiss", "give up", "move on"],
@@ -52,8 +90,8 @@
         "seeAlso": ["move on", "set free", "dismiss"],
         "notes": [
           {
-        "enNote": "Can be used literally (physically releasing something) or figuratively (emotionally or professionally).",
-        "ptNote": "Pode ser usado de forma literal (soltar fisicamente algo) ou figurada (emocionalmente ou profissionalmente)."
+            "enNote": "Can be used literally (physically releasing something) or figuratively (emotionally or professionally).",
+            "ptNote": "Pode ser usado de forma literal (soltar fisicamente algo) ou figurada (emocionalmente ou profissionalmente)."
           }
         ]
       },
@@ -65,12 +103,12 @@
         "ptDefinition": "substantivo: a parte sólida da superfície da Terra; verbo: chegar ao solo, especialmente após se mover pelo ar ou pela água",
         "examples": [
           {
-        "enExample": "The plane will land in Paris at 8 a.m.",
-        "ptExample": "O avião vai aterrissar em Paris às 8h."
+            "enExample": "The plane will land in Paris at 8 a.m.",
+            "ptExample": "O avião vai aterrissar em Paris às 8h."
           },
           {
-        "enExample": "They bought a piece of land to build their house.",
-        "ptExample": "Eles compraram um terreno para construir a casa."
+            "enExample": "They bought a piece of land to build their house.",
+            "ptExample": "Eles compraram um terreno para construir a casa."
           }
         ],
         "synonyms": ["ground", "soil", "earth", "touch down", "arrive"],
@@ -78,8 +116,8 @@
         "seeAlso": ["terrain", "territory", "property", "touch down"],
         "notes": [
           {
-        "enNote": "As a verb, 'land' is often used in aviation and travel. As a noun, it refers to physical ground or property.",
-        "ptNote": "Como verbo, 'land' é frequentemente usado em aviação e viagens. Como substantivo, refere-se ao solo físico ou propriedade."
+            "enNote": "As a verb, 'land' is often used in aviation and travel. As a noun, it refers to physical ground or property.",
+            "ptNote": "Como verbo, 'land' é frequentemente usado em aviação e viagens. Como substantivo, refere-se ao solo físico ou propriedade."
           }
         ]
       },

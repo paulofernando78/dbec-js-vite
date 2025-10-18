@@ -39,7 +39,7 @@ class Text extends HTMLElement {
       this.container.style.border = "var(--border)";
       this.container.style.borderRadius = "var(--border-radius)";
       this.container.style.boxShadow = "var(--box-shadow)";
-      this.container.style.padding = "3px 5px 4px 5px";
+      this.container.style.padding = "4px 5px 1px 5px";
       if (block.cardColor)
         this.container.style.backgroundColor = block.cardColor;
     }

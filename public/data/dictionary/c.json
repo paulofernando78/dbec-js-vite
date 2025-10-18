@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "cost an arm and a leg",
+        "partOfSpeech": "idiom",
+        "enDefinition": "To be extremely expensive; to cost a lot of money.",
+        "ptDefinition": "Ser extremamente caro; custar muito dinheiro.",
+        "examples": [
+          {
+            "enExample": "That luxury car cost him an arm and a leg.",
+            "ptExample": "Aquele carro de luxo custou muito caro para ele."
+          },
+          {
+            "enExample": "Going to college in the U.S. can cost an arm and a leg.",
+            "ptExample": "Fazer faculdade nos Estados Unidos pode custar uma fortuna."
+          }
+        ],
+        "synonyms": "be very expensive, be pricey",
+        "antonyms": "be cheap, be affordable",
+        "seeAlso": "break the bank, pay through the nose",
+        "notes": [
+          {
+            "enNote": "This idiom is often used humorously to emphasize that something is overpriced.",
+            "ptNote": "Essa expressão é usada de forma humorada para enfatizar que algo é caro demais."
+          }
+        ]
+      },
+      {
         "word": "candle",
         "phonetics": "/ˈkæn.dl̩/",
         "partOfSpeech": "noun",
@@ -9,12 +34,12 @@
         "ptDefinition": "um cilindro de cera com um pavio central que é queimado para fornecer luz",
         "examples": [
           {
-        "enExample": "She lit a candle during the power outage.",
-        "ptExample": "Ela acendeu uma vela durante a queda de energia."
+            "enExample": "She lit a candle during the power outage.",
+            "ptExample": "Ela acendeu uma vela durante a queda de energia."
           },
           {
-        "enExample": "The birthday cake was decorated with colorful candles.",
-        "ptExample": "O bolo de aniversário estava decorado com velas coloridas."
+            "enExample": "The birthday cake was decorated with colorful candles.",
+            "ptExample": "O bolo de aniversário estava decorado com velas coloridas."
           }
         ],
         "synonyms": ["wax light", "taper", "lamp"],
@@ -22,8 +47,8 @@
         "seeAlso": ["lamp", "lantern", "torch"],
         "notes": [
           {
-        "enNote": "Candles are often used for decoration, ceremonies, or when there is no electricity.",
-        "ptNote": "Velas são frequentemente usadas para decoração, cerimônias ou quando não há eletricidade."
+            "enNote": "Candles are often used for decoration, ceremonies, or when there is no electricity.",
+            "ptNote": "Velas são frequentemente usadas para decoração, cerimônias ou quando não há eletricidade."
           }
         ]
       },
@@ -35,12 +60,12 @@
         "ptDefinition": "chorar; derramar lágrimas, geralmente como expressão de emoção como tristeza, dor ou alegria; gritar ou clamar alto",
         "examples": [
           {
-        "enExample": "The baby began to cry when she was hungry.",
-        "ptExample": "O bebê começou a chorar quando estava com fome."
+            "enExample": "The baby began to cry when she was hungry.",
+            "ptExample": "O bebê começou a chorar quando estava com fome."
           },
           {
-        "enExample": "He cried out for help after falling.",
-        "ptExample": "Ele gritou por ajuda após cair."
+            "enExample": "He cried out for help after falling.",
+            "ptExample": "Ele gritou por ajuda após cair."
           }
         ],
         "synonyms": ["weep", "sob", "shout", "call out"],
@@ -48,8 +73,8 @@
         "seeAlso": ["weep", "sob", "shout"],
         "notes": [
           {
-        "enNote": "Can refer both to shedding tears and to making a loud vocal sound.",
-        "ptNote": "Pode se referir tanto a derramar lágrimas quanto a emitir um som alto."
+            "enNote": "Can refer both to shedding tears and to making a loud vocal sound.",
+            "ptNote": "Pode se referir tanto a derramar lágrimas quanto a emitir um som alto."
           }
         ]
       },
@@ -61,12 +86,12 @@
         "ptDefinition": "um alimento doce assado feito de farinha, açúcar, ovos e outros ingredientes, geralmente decorado e servido como sobremesa",
         "examples": [
           {
-        "enExample": "She baked a chocolate cake for her birthday.",
-        "ptExample": "Ela fez um bolo de chocolate para seu aniversário."
+            "enExample": "She baked a chocolate cake for her birthday.",
+            "ptExample": "Ela fez um bolo de chocolate para seu aniversário."
           },
           {
-        "enExample": "Would you like a slice of cake with your coffee?",
-        "ptExample": "Você gostaria de uma fatia de bolo com seu café?"
+            "enExample": "Would you like a slice of cake with your coffee?",
+            "ptExample": "Você gostaria de uma fatia de bolo com seu café?"
           }
         ],
         "synonyms": ["pastry", "gateau", "dessert"],
@@ -74,8 +99,8 @@
         "seeAlso": ["cupcake", "pie", "pastry"],
         "notes": [
           {
-        "enNote": "Cakes are often associated with celebrations such as birthdays and weddings.",
-        "ptNote": "Bolos são frequentemente associados a celebrações como aniversários e casamentos."
+            "enNote": "Cakes are often associated with celebrations such as birthdays and weddings.",
+            "ptNote": "Bolos são frequentemente associados a celebrações como aniversários e casamentos."
           }
         ]
       },
@@ -87,12 +112,12 @@
         "ptDefinition": "um móvel ou pequeno cômodo com prateleiras usado para guardar coisas, especialmente alimentos, louças ou itens domésticos",
         "examples": [
           {
-        "enExample": "She put the plates back in the cupboard after washing them.",
-        "ptExample": "Ela colocou os pratos de volta no armário depois de lavá-los."
+            "enExample": "She put the plates back in the cupboard after washing them.",
+            "ptExample": "Ela colocou os pratos de volta no armário depois de lavá-los."
           },
           {
-        "enExample": "There’s a tin of biscuits in the kitchen cupboard.",
-        "ptExample": "Há uma lata de biscoitos no armário da cozinha."
+            "enExample": "There’s a tin of biscuits in the kitchen cupboard.",
+            "ptExample": "Há uma lata de biscoitos no armário da cozinha."
           }
         ],
         "synonyms": ["cabinet", "closet", "pantry"],
@@ -100,8 +125,8 @@
         "seeAlso": ["wardrobe", "pantry", "cabinet"],
         "notes": [
           {
-        "enNote": "In British English, 'cupboard' is commonly used for kitchen storage; in American English, 'cabinet' is more frequent.",
-        "ptNote": "No inglês britânico, 'cupboard' é usado para armazenamento na cozinha; no inglês americano, 'cabinet' é mais comum."
+            "enNote": "In British English, 'cupboard' is commonly used for kitchen storage; in American English, 'cabinet' is more frequent.",
+            "ptNote": "No inglês britânico, 'cupboard' é usado para armazenamento na cozinha; no inglês americano, 'cabinet' é mais comum."
           }
         ]
       },

@@ -2,6 +2,106 @@
   {
     "definitions": [
       {
+        "word": "at least",
+        "partOfSpeech": "phrase / expression",
+        "enDefinition": "used to indicate the smallest amount, degree, or number that is acceptable or possible; also used to emphasize a positive aspect of an otherwise negative situation",
+        "ptDefinition": "usado para indicar a menor quantidade, grau ou número aceitável ou possível; também usado para enfatizar um aspecto positivo de uma situação negativa",
+        "examples": [
+          {
+            "enExample": "You should sleep at least eight hours every night.",
+            "ptExample": "Você deve dormir pelo menos oito horas por noite."
+          },
+          {
+            "enExample": "I didn’t win the race, but at least I finished it.",
+            "ptExample": "Eu não ganhei a corrida, mas pelo menos eu terminei."
+          },
+          {
+            "enExample": "At least we know what went wrong now.",
+            "ptExample": "Pelo menos agora sabemos o que deu errado."
+          }
+        ],
+        "synonyms": ["no less than", "minimum", "anyway", "in any case"],
+        "antonyms": ["at most", "no more than"],
+        "seeAlso": ["at most", "even if", "in the least"],
+        "notes": [
+          {
+            "enNote": "‘At least’ can express both quantity (‘no less than’) and consolation (‘still something positive’).",
+            "ptNote": "‘At least’ pode expressar tanto quantidade (‘não menos que’) quanto consolo (‘ainda algo positivo’)."
+          },
+          {
+            "enNote": "Its meaning depends on context: literal (numbers) or emotional (relief/optimism).",
+            "ptNote": "Seu significado depende do contexto: literal (números) ou emocional (alívio/otimismo)."
+          }
+        ]
+      },
+      {
+        "word": "after all",
+        "partOfSpeech": "phrase / expression",
+        "enDefinition": "used to emphasize that something is true or reasonable despite what was said or expected earlier; it can also introduce a reason or explanation",
+        "ptDefinition": "usado para enfatizar que algo é verdadeiro ou razoável, apesar do que foi dito ou esperado antes; também pode introduzir uma razão ou explicação",
+        "examples": [
+          {
+            "enExample": "She decided to come to the party after all.",
+            "ptExample": "Ela decidiu vir à festa afinal de contas."
+          },
+          {
+            "enExample": "I shouldn’t be surprised—after all, he warned us it might happen.",
+            "ptExample": "Eu não deveria estar surpreso — afinal de contas, ele nos avisou que isso poderia acontecer."
+          },
+          {
+            "enExample": "Don’t be too hard on him; after all, he’s just a child.",
+            "ptExample": "Não seja tão duro com ele; afinal de contas, ele é apenas uma criança."
+          }
+        ],
+        "synonyms": ["in the end", "ultimately", "considering everything"],
+        "antonyms": ["beforehand", "initially"],
+        "seeAlso": ["eventually", "all things considered"],
+        "notes": [
+          {
+            "enNote": "‘After all’ is often used to soften a statement or justify a decision.",
+            "ptNote": "‘After all’ é frequentemente usado para suavizar uma afirmação ou justificar uma decisão."
+          },
+          {
+            "enNote": "Can appear at the beginning, middle, or end of a sentence.",
+            "ptNote": "Pode aparecer no início, meio ou fim de uma frase."
+          }
+        ]
+      },
+      {
+        "word": "about to",
+        "phonetics": "/əˈbaʊt tuː/",
+        "partOfSpeech": "phrase / expression",
+        "enDefinition": "to be ready or on the point of doing something very soon; used to describe an action that will happen in the near future",
+        "ptDefinition": "estar prestes a fazer algo muito em breve; usado para descrever uma ação que acontecerá em breve",
+        "examples": [
+          {
+            "enExample": "She is about to leave for the airport.",
+            "ptExample": "Ela está prestes a sair para o aeroporto."
+          },
+          {
+            "enExample": "I was about to call you when you texted me.",
+            "ptExample": "Eu estava prestes a te ligar quando você me mandou uma mensagem."
+          },
+          {
+            "enExample": "The movie is about to start, so find your seats quickly.",
+            "ptExample": "O filme está prestes a começar, então encontre seu lugar rapidamente."
+          }
+        ],
+        "synonyms": ["on the verge of", "ready to", "just going to"],
+        "antonyms": ["not planning to", "far from", "unlikely to"],
+        "seeAlso": ["nearly"],
+        "notes": [
+          {
+            "enNote": "Used with the base form of a verb to indicate immediate or imminent action.",
+            "ptNote": "Usado com o verbo no infinitivo para indicar uma ação imediata ou iminente."
+          },
+          {
+            "enNote": "Commonly used in spoken and informal English.",
+            "ptNote": "Comumente usado em inglês falado e informal."
+          }
+        ]
+      },
+      {
         "word": "airport",
         "phonetics": "/ˈer.pɔːrt/ (US), /ˈeə.pɔːt/ (UK)",
         "partOfSpeech": "noun",

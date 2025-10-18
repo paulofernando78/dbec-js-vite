@@ -2,6 +2,76 @@
   {
     "definitions": [
       {
+        "word": "give someone the ax",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to dismiss or fire someone from a job; to end someone’s employment or relationship suddenly and decisively",
+        "ptDefinition": "demitir alguém de um emprego; encerrar o vínculo de forma repentina e definitiva",
+        "examples": [
+          {
+            "enExample": "After months of poor performance, the manager finally gave him the ax.",
+            "ptExample": "Após meses de baixo desempenho, o gerente finalmente o demitiu."
+          },
+          {
+            "enExample": "The company gave dozens of workers the ax due to budget cuts.",
+            "ptExample": "A empresa demitiu dezenas de funcionários devido a cortes orçamentários."
+          },
+          {
+            "enExample": "She gave her boyfriend the ax after finding out he was lying to her.",
+            "ptExample": "Ela terminou com o namorado depois de descobrir que ele estava mentindo para ela."
+          }
+        ],
+        "synonyms": ["fire", "dismiss", "lay off", "sack", "terminate"],
+        "antonyms": ["hire", "employ", "promote", "retain"],
+        "seeAlso": ["give someone their walking papers", "let go", "cut ties"],
+        "notes": [
+          {
+            "enNote": "An informal expression often used both for job dismissals and the end of personal relationships.",
+            "ptNote": "Expressão informal usada tanto para demissões quanto para términos de relacionamentos pessoais."
+          },
+          {
+            "enNote": "The spelling ‘give someone the axe’ is also common, especially in British English.",
+            "ptNote": "A grafia ‘give someone the axe’ também é comum, especialmente no inglês britânico."
+          }
+        ]
+      },
+      {
+        "word": "give one the creeps",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to make someone feel uncomfortable, nervous, or frightened, usually because something seems strange or unpleasant",
+        "ptDefinition": "causar desconforto, nervosismo ou medo em alguém, geralmente porque algo parece estranho ou desagradável",
+        "examples": [
+          {
+            "enExample": "That old abandoned house gives me the creeps.",
+            "ptExample": "Aquela casa velha e abandonada me dá arrepios."
+          },
+          {
+            "enExample": "The way he stares at people really gives me the creeps.",
+            "ptExample": "O jeito que ele fica encarando as pessoas realmente me dá arrepios."
+          },
+          {
+            "enExample": "Spiders give her the creeps, especially the big ones.",
+            "ptExample": "Aranhas dão arrepios nela, especialmente as grandes."
+          }
+        ],
+        "synonyms": ["creep out", "make uneasy", "spook", "scare"],
+        "antonyms": ["comfort", "reassure", "calm"],
+        "seeAlso": [
+          "send shivers down one’s spine",
+          "freak out",
+          "feel uneasy"
+        ],
+        "notes": [
+          {
+            "enNote": "Often used in informal speech when describing something or someone that causes a feeling of fear or disgust.",
+            "ptNote": "Usado frequentemente em linguagem informal para descrever algo ou alguém que causa medo ou repulsa."
+          },
+          {
+            "enNote": "The phrase can describe both physical sensations (like shivers) and emotional discomfort.",
+            "ptNote": "A expressão pode descrever tanto sensações físicas (como arrepios) quanto desconforto emocional."
+          }
+        ]
+      },
+      {
         "word": "gondola",
         "phonetics": "/ˈɡɑːn.dəl.ə/ US /ˈɡɒn.dələ/ UK",
         "partOfSpeech": "noun",
@@ -9,12 +79,12 @@
         "ptDefinition": "um barco longo, estreito e de fundo chato, com proa e popa altas, usado especialmente em Veneza e movido por uma pessoa em pé na popa com um único remo; também, compartimento suspenso de um dirigível ou teleférico",
         "examples": [
           {
-        "enExample": "We took a romantic ride in a gondola along the canals of Venice.",
-        "ptExample": "Fizemos um passeio romântico de gôndola pelos canais de Veneza."
+            "enExample": "We took a romantic ride in a gondola along the canals of Venice.",
+            "ptExample": "Fizemos um passeio romântico de gôndola pelos canais de Veneza."
           },
           {
-        "enExample": "The mountain gondola carried tourists up to the ski resort.",
-        "ptExample": "A gôndola da montanha levou turistas até a estação de esqui."
+            "enExample": "The mountain gondola carried tourists up to the ski resort.",
+            "ptExample": "A gôndola da montanha levou turistas até a estação de esqui."
           }
         ],
         "synonyms": ["boat", "barge", "cable car", "carriage"],
@@ -22,8 +92,8 @@
         "seeAlso": ["Venice", "canal", "cable car", "airship"],
         "notes": [
           {
-        "enNote": "The gondola is a symbol of Venice and is traditionally painted black. In transportation, 'gondola' can also refer to the passenger compartment of a cable car or airship.",
-        "ptNote": "A gôndola é um símbolo de Veneza e tradicionalmente é pintada de preto. Em transporte, 'gôndola' também pode se referir ao compartimento de passageiros de um teleférico ou dirigível."
+            "enNote": "The gondola is a symbol of Venice and is traditionally painted black. In transportation, 'gondola' can also refer to the passenger compartment of a cable car or airship.",
+            "ptNote": "A gôndola é um símbolo de Veneza e tradicionalmente é pintada de preto. Em transporte, 'gôndola' também pode se referir ao compartimento de passageiros de um teleférico ou dirigível."
           }
         ]
       },
@@ -35,12 +105,12 @@
         "ptDefinition": "substantivo: um pedaço de terra, geralmente perto de uma casa, usado para cultivar flores, vegetais ou frutas; verbo: cultivar ou cuidar de um jardim",
         "examples": [
           {
-        "enExample": "She spends her weekends working in the garden.",
-        "ptExample": "Ela passa os fins de semana trabalhando no jardim."
+            "enExample": "She spends her weekends working in the garden.",
+            "ptExample": "Ela passa os fins de semana trabalhando no jardim."
           },
           {
-        "enExample": "They garden together every spring, planting new flowers.",
-        "ptExample": "Eles cuidam do jardim juntos toda primavera, plantando novas flores."
+            "enExample": "They garden together every spring, planting new flowers.",
+            "ptExample": "Eles cuidam do jardim juntos toda primavera, plantando novas flores."
           }
         ],
         "synonyms": ["yard", "plot", "park", "cultivate", "grow"],
@@ -48,8 +118,8 @@
         "seeAlso": ["gardener", "greenhouse", "landscape"],
         "notes": [
           {
-        "enNote": "Gardens can be ornamental or used for growing food. The verb 'to garden' means to engage in gardening activities.",
-        "ptNote": "Jardins podem ser ornamentais ou usados para cultivo de alimentos. O verbo 'cuidar do jardim' refere-se a atividades de jardinagem."
+            "enNote": "Gardens can be ornamental or used for growing food. The verb 'to garden' means to engage in gardening activities.",
+            "ptNote": "Jardins podem ser ornamentais ou usados para cultivo de alimentos. O verbo 'cuidar do jardim' refere-se a atividades de jardinagem."
           }
         ]
       },
@@ -61,12 +131,12 @@
         "ptDefinition": "verbo: jorrar ou fluir repentinamente em grande quantidade; expressar sentimentos ou elogios de forma entusiasmada ou exagerada; substantivo: um fluxo ou jorro repentino",
         "examples": [
           {
-        "enExample": "Water gushed from the broken pipe, flooding the basement.",
-        "ptExample": "A água jorrou do cano quebrado, inundando o porão."
+            "enExample": "Water gushed from the broken pipe, flooding the basement.",
+            "ptExample": "A água jorrou do cano quebrado, inundando o porão."
           },
           {
-        "enExample": "She gushed about her new job to everyone she met.",
-        "ptExample": "Ela falou entusiasmada sobre o novo emprego para todos que encontrava."
+            "enExample": "She gushed about her new job to everyone she met.",
+            "ptExample": "Ela falou entusiasmada sobre o novo emprego para todos que encontrava."
           }
         ],
         "synonyms": "spurt, stream, pour, rave, enthuse",
@@ -74,8 +144,8 @@
         "seeAlso": "burst, overflow, effuse",
         "notes": [
           {
-        "enNote": "Often used for liquids or for people expressing strong emotions or praise.",
-        "ptNote": "Frequentemente usado para líquidos ou para pessoas que expressam emoções ou elogios intensos."
+            "enNote": "Often used for liquids or for people expressing strong emotions or praise.",
+            "ptNote": "Frequentemente usado para líquidos ou para pessoas que expressam emoções ou elogios intensos."
           }
         ]
       },

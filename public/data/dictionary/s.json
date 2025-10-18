@@ -2,6 +2,106 @@
   {
     "definitions": [
       {
+        "word": "sharp as a tack",
+        "partOfSpeech": "idiom",
+        "enDefinition": "very intelligent, quick to understand or notice things, and mentally alert",
+        "ptDefinition": "muito inteligente, rápido para entender ou perceber as coisas, e mentalmente atento",
+        "examples": [
+          {
+            "enExample": "Even at eighty, my grandmother is still sharp as a tack.",
+            "ptExample": "Mesmo aos oitenta anos, minha avó ainda é muito esperta."
+          },
+          {
+            "enExample": "You have to be sharp as a tack to solve puzzles like these.",
+            "ptExample": "Você precisa ser muito esperto para resolver enigmas como esses."
+          },
+          {
+            "enExample": "He may look quiet, but he’s sharp as a tack in business meetings.",
+            "ptExample": "Ele pode parecer quieto, mas é muito sagaz nas reuniões de negócios."
+          }
+        ],
+        "synonyms": ["clever", "bright", "quick-witted", "intelligent"],
+        "antonyms": ["slow", "dull", "absent-minded"],
+        "seeAlso": ["smart cookie", "quick on the uptake", "sharp-minded"],
+        "notes": [
+          {
+            "enNote": "An informal and positive expression used to praise someone’s intelligence or mental sharpness.",
+            "ptNote": "Expressão informal e positiva usada para elogiar a inteligência ou rapidez de raciocínio de alguém."
+          }
+        ]
+      },
+      {
+        "word": "sack someone",
+        "phonetics": "/sæk ˈsʌm.wʌn/",
+        "partOfSpeech": "phrasal verb / informal",
+        "enDefinition": "to dismiss someone from their job, especially in an informal or abrupt way; to fire someone",
+        "ptDefinition": "demitir alguém de um emprego, especialmente de forma informal ou abrupta; dispensar alguém",
+        "examples": [
+          {
+            "enExample": "The company sacked several employees for being late too often.",
+            "ptExample": "A empresa demitiu vários funcionários por se atrasarem com frequência."
+          },
+          {
+            "enExample": "He was sacked after the boss found out about his mistake.",
+            "ptExample": "Ele foi demitido depois que o chefe descobriu o erro dele."
+          },
+          {
+            "enExample": "If you keep skipping work, they’re going to sack you.",
+            "ptExample": "Se você continuar faltando ao trabalho, eles vão te demitir."
+          }
+        ],
+        "synonyms": ["fire", "dismiss", "give someone the ax", "let go"],
+        "antonyms": ["hire", "employ", "promote"],
+        "seeAlso": [
+          "get the sack",
+          "lay off",
+          "give someone their walking papers"
+        ],
+        "notes": [
+          {
+            "enNote": "Mostly used in British English. In American English, 'fire' or 'let go' are more common.",
+            "ptNote": "Usado principalmente no inglês britânico. No inglês americano, 'fire' ou 'let go' são mais comuns."
+          }
+        ]
+      },
+      {
+        "word": "save the day",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to prevent failure or disaster by doing something that solves a problem or improves a bad situation",
+        "ptDefinition": "evitar o fracasso ou um desastre fazendo algo que resolve um problema ou melhora uma situação ruim",
+        "examples": [
+          {
+            "enExample": "The quick thinking of the pilot saved the day.",
+            "ptExample": "O raciocínio rápido do piloto salvou o dia."
+          },
+          {
+            "enExample": "We thought the event was ruined, but the caterer arrived just in time to save the day.",
+            "ptExample": "Achamos que o evento estava arruinado, mas o bufê chegou bem a tempo de salvar o dia."
+          },
+          {
+            "enExample": "Her sense of humor really saved the day after the meeting went wrong.",
+            "ptExample": "O senso de humor dela realmente salvou o dia depois que a reunião deu errado."
+          }
+        ],
+        "synonyms": [
+          "rescue the situation",
+          "come to the rescue",
+          "turn things around"
+        ],
+        "antonyms": ["make things worse", "fail to help"],
+        "seeAlso": ["come to the rescue", "bail out", "step in"],
+        "notes": [
+          {
+            "enNote": "Often used when someone or something prevents a disaster at the last moment.",
+            "ptNote": "Usado frequentemente quando alguém ou algo evita um desastre no último momento."
+          },
+          {
+            "enNote": "Common in both everyday speech and storytelling contexts.",
+            "ptNote": "Comum tanto na fala cotidiana quanto em contextos narrativos."
+          }
+        ]
+      },
+      {
         "word": "soup",
         "phonetics": "/suːp/",
         "partOfSpeech": "noun",

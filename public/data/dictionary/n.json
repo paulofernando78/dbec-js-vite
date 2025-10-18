@@ -2,6 +2,39 @@
   {
     "definitions": [
       {
+        "word": "no point in",
+        "partOfSpeech": "phrase / expression",
+        "enDefinition": "used to say that something is not useful, effective, or worth doing because it will not change the situation or achieve anything",
+        "ptDefinition": "usado para dizer que algo não é útil, eficaz ou que não vale a pena ser feito porque não mudará a situação nem trará resultado",
+        "examples": [
+          {
+            "enExample": "There’s no point in arguing with him — he never listens.",
+            "ptExample": "Não adianta discutir com ele — ele nunca escuta."
+          },
+          {
+            "enExample": "There’s no point in trying to fix it; we should just buy a new one.",
+            "ptExample": "Não faz sentido tentar consertar; devemos simplesmente comprar um novo."
+          },
+          {
+            "enExample": "There’s no point in crying over spilled milk.",
+            "ptExample": "Não adianta chorar pelo leite derramado."
+          }
+        ],
+        "synonyms": [
+          "it’s useless to",
+          "there’s no sense in",
+          "it’s pointless to"
+        ],
+        "antonyms": ["worth doing", "makes sense to", "useful to"],
+        "seeAlso": ["what’s the use", "a waste of time", "no use"],
+        "notes": [
+          {
+            "enNote": "Commonly followed by a verb in the -ing form (e.g., 'no point in waiting').",
+            "ptNote": "Normalmente seguido por um verbo terminado em -ing (por exemplo, 'no point in waiting')."
+          }
+        ]
+      },
+      {
         "word": "neck",
         "phonetics": "/nek/",
         "partOfSpeech": "noun",

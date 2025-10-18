@@ -2,6 +2,39 @@
   {
     "definitions": [
       {
+        "word": "make up one’s mind",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to decide something after considering different possibilities; to come to a conclusion or choice",
+        "ptDefinition": "decidir algo após considerar diferentes possibilidades; chegar a uma conclusão ou escolha",
+        "examples": [
+          {
+            "enExample": "I can’t make up my mind about which movie to watch.",
+            "ptExample": "Não consigo me decidir sobre qual filme assistir."
+          },
+          {
+            "enExample": "She finally made up her mind to study abroad next year.",
+            "ptExample": "Ela finalmente se decidiu em estudar no exterior no próximo ano."
+          },
+          {
+            "enExample": "Make up your mind before it’s too late.",
+            "ptExample": "Decida-se antes que seja tarde demais."
+          }
+        ],
+        "synonyms": ["decide", "choose", "determine", "resolve"],
+        "antonyms": ["hesitate", "waver", "be undecided"],
+        "seeAlso": [
+          "make a decision",
+          "come to a conclusion",
+          "be in two minds"
+        ],
+        "notes": [
+          {
+            "enNote": "Often used when someone takes time to decide or is uncertain about their choice.",
+            "ptNote": "Usado frequentemente quando alguém demora a decidir ou está incerto sobre sua escolha."
+          }
+        ]
+      },
+      {
         "word": "magazine",
         "phonetics": "/ˈmæɡ.ə.ziːn/",
         "partOfSpeech": "noun",
@@ -35,20 +68,20 @@
         "ptDefinition": "um edifício ou instituição onde objetos de interesse histórico, científico, artístico ou cultural são armazenados e exibidos",
         "examples": [
           {
-        "enExample": "We visited the art museum to see the new exhibition.",
-        "ptExample": "Visitamos o museu de arte para ver a nova exposição."
+            "enExample": "We visited the art museum to see the new exhibition.",
+            "ptExample": "Visitamos o museu de arte para ver a nova exposição."
           },
           {
-        "enExample": "The museum has a large collection of ancient artifacts.",
-        "ptExample": "O museu tem uma grande coleção de artefatos antigos."
+            "enExample": "The museum has a large collection of ancient artifacts.",
+            "ptExample": "O museu tem uma grande coleção de artefatos antigos."
           }
         ],
         "synonyms": ["gallery", "exhibition hall", "collection"],
         "antonyms": ["private collection", "archive (not open to public)"],
         "notes": [
           {
-        "enNote": "Museums can be dedicated to art, history, science, or other subjects and are usually open to the public.",
-        "ptNote": "Museus podem ser dedicados à arte, história, ciência ou outros temas e geralmente são abertos ao público."
+            "enNote": "Museums can be dedicated to art, history, science, or other subjects and are usually open to the public.",
+            "ptNote": "Museus podem ser dedicados à arte, história, ciência ou outros temas e geralmente são abertos ao público."
           }
         ]
       },

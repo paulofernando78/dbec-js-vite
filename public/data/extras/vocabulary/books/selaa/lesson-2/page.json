@@ -1,19 +1,18 @@
 {
   "whiteboard": {
-    "title": "Specific Purposes",
-    "subtitle": "Business",
+    "title": "Extras",
     "descriptions": [
       {
-        "icon": "business",
-        "description": "Business"
+        "icon": "vocabulary",
+        "description": "Vocabulary"
       },
       {
         "icon": "book",
-        "description": "Speak Business English Like an American"
+        "description": "Speak English Like an American"
       },
       {
         "icon": "page",
-        "description": "Lesson 2 • Talking about financial issues"
+        "description": "Lesson 1 • "
       }
     ]
   },
@@ -21,256 +20,381 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-2.mp3"
-      }
-    },
-    {
-      "card": {
-        "bgColor": "var(--gray-3)",
-        "icon": "page",
-        "label": "Lesson 2 • Talking about financial issues",
-        "descriptions": [
-          {
-            "description": [
-              {
-                "text": "Juan and Diane work in the finance department of Delicious Delights, a company that makes snack foods. Here, they’re discussing the financial projections for a new product block."
-              }
-            ]
-          }
-        ]
+        "src": "/assets/audio/vocabulary/books/selaa/lesson-1.mp3"
       }
     },
     {
       "text": [
         {
+          "card": true,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Juan: "
+                  "icon": "page"
                 },
                 {
-                  "text": "I’m really excited about the launch of our new block of fat-free Delicious Delight donuts."
+                  "boldText": "Lesson 1 • xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "xxx"
                 }
               ]
             }
           ]
         },
         {
+          "card": false,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Diane:  "
+                  "boldText": "xxx: "
                 },
                 {
-                  "text": "Me too. But before we go any further, we’d better make sure this product block is going to be profitable. "
+                  "text": "..."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "..."
+                }
+              ],
+              "lineBreak": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "exercises",
+        "label": "Exercises"
+      }
+    },
+    {
+      "exercises": [
+        {
+          "title": "1. Look at the picture and click / tap the letters to guess the word. Don't be afraid of making mistakes."
+        },
+        {
+          "guessWord": [
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            },
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            },
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            },
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            },
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            },
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            },
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            },
+            {
+              "word": "",
+              "imageSrc": "/assets/images/general/xxx.avif"
+            }
+          ]
+        },
+        {
+          "title": "1. Now fill in the blanks with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "1.1 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.2 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.3 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.4 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.5 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.6 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.7 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.8 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text": "xxx"
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Juan:  "
-                },
-                {
-                  "text": "I did some. "
-                },
-                {
-                  "markedText": "back-of-the-envelope calculations"
-                },
-                {
-                  "text": " Take a look. "
-                }
-              ]
-            }
-          ]
+          "title": "2. Choose the best substitute for the highlighted phrase or sentence:"
         },
         {
-          "blocks": [
+          "radioExercises": [
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Diane: "
+                  "text": "2.1 xxx "
+                }
+              ],
+              "options": [
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "text": "I see you’ve estimated $2 million for the new equipment. Where did you get that figure? "
+                  "option": "xxx",
+                  "isCorrect": true
+                },
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Juan: "
+                  "text": "2.2 xxx "
+                }
+              ],
+              "options": [
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "text": "That’s an "
+                  "option": "xxx",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "educated guess"
-                },
-                {
-                  "text": " based on some equipment I bought last year. "
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Diane: "
+                  "text": "2.3 xxx "
+                }
+              ],
+              "options": [
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "text": "You’re going to need to double-check that. Using old estimates can get us "
+                  "option": "xxx",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "in hot water"
-                },
-                {
-                  "text": "."
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Juan: "
+                  "text": "2.4 xxx "
+                }
+              ],
+              "options": [
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "text": "No problem. I’ll get on the phone with the manufacturer in Dallas and get a price quote. "
+                  "option": "xxx",
+                  "isCorrect": true
+                },
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Diane: "
+                  "text": "2.5 xxx "
+                }
+              ],
+              "options": [
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "text": "Do you have a sense for market demand? We should get the forecasts from the marketing department before we "
+                  "option": "xxx",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "crunch the numbers"
-                },
-                {
-                  "text": "."
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Juan: "
+                  "text": "2.6 xxx "
+                }
+              ],
+              "options": [
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "text": "We don’t have those yet. Mary from marketing said maybe we’d have them next week. "
+                  "option": "xxx",
+                  "isCorrect": true
+                },
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Diane: "
+                  "text": "2.7 xxx "
+                }
+              ],
+              "options": [
+                {
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "text": "It just "
+                  "option": "xxx",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "blows my mind"
-                },
-                {
-                  "text": " when marketing people want us to "
-                },
-                {
-                  "markedText": "run numbers"
-                },
-                {
-                  "text": " and they don’t bring us the information we need!"
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Juan: "
-                },
-                {
-                  "text": "If we end up "
-                },
-                {
-                  "markedText": "in the red"
-                },
-                {
-                  "text": " on this project, it’s going to be their "
-                },
-                {
-                  "markedText": "heads on the chopping block"
-                },
-                {
-                  "text": ", not ours. They’re the ones with P&L* responsibility!"
+                  "text": "2.8 xxx "
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "blocks": [
-            {
-              "block": [
+              ],
+              "options": [
                 {
-                  "boldText": "Diane: "
+                  "option": "xxx",
+                  "isCorrect": false
                 },
                 {
-                  "text": "Our CFO** won’t "
+                  "option": "xxx",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "give this project the green light"
-                },
-                {
-                  "text": " until he sees all the numbers. If it doesn’t look like we’ll make money or at least "
-                },
-                {
-                  "markedText": "break even"
-                },
-                {
-                  "text": ", he’ll "
-                },
-                {
-                  "markedText": "pull the plug"
-                },
-                {
-                  "text": " on the project."
+                  "option": "xxx",
+                  "isCorrect": false
                 }
               ]
             }

@@ -2,6 +2,35 @@
   {
     "definitions": [
       {
+        "word": "put up with",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to accept or tolerate something unpleasant or annoying without complaining or stopping it",
+        "ptDefinition": "aceitar ou tolerar algo desagradável ou irritante sem reclamar ou impedir",
+        "examples": [
+          {
+            "enExample": "I can’t put up with this noise any longer.",
+            "ptExample": "Eu não aguento mais esse barulho."
+          },
+          {
+            "enExample": "She has to put up with a lot of stress at work.",
+            "ptExample": "Ela tem que lidar com muito estresse no trabalho."
+          },
+          {
+            "enExample": "How do you put up with his bad jokes?",
+            "ptExample": "Como você aguenta as piadas ruins dele?"
+          }
+        ],
+        "synonyms": ["tolerate", "endure", "bear", "stand"],
+        "antonyms": ["reject", "refuse", "protest"],
+        "seeAlso": ["deal with", "live with", "grin and bear it"],
+        "notes": [
+          {
+            "enNote": "Often used to describe situations where someone tolerates discomfort, inconvenience, or irritating behavior.",
+            "ptNote": "Usado para descrever situações em que alguém tolera desconforto, inconveniência ou comportamento irritante."
+          }
+        ]
+      },
+      {
         "word": "perfume",
         "phonetics": "US /pɝːˈfjuːm/, UK /ˈpɜː.fjuːm/",
         "partOfSpeech": "noun",

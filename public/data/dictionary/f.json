@@ -2,6 +2,39 @@
   {
     "definitions": [
       {
+        "word": "(let’s) face it",
+        "partOfSpeech": "idiom / phrasal expression",
+        "enDefinition": "used to tell someone to accept an unpleasant or difficult truth; to acknowledge reality even if it is uncomfortable",
+        "ptDefinition": "usado para dizer a alguém que aceite uma verdade desagradável ou difícil; reconhecer a realidade mesmo que seja desconfortável",
+        "examples": [
+          {
+            "enExample": "Face it, you’re never going to finish that project on time.",
+            "ptExample": "Admita, você nunca vai terminar esse projeto a tempo."
+          },
+          {
+            "enExample": "We have to face it — our plan just didn’t work.",
+            "ptExample": "Temos que encarar — nosso plano simplesmente não funcionou."
+          },
+          {
+            "enExample": "Face it, she’s not coming back.",
+            "ptExample": "Aceite, ela não vai voltar."
+          }
+        ],
+        "synonyms": ["accept the truth", "admit", "acknowledge reality"],
+        "antonyms": ["deny", "ignore", "avoid"],
+        "seeAlso": ["get real", "accept it", "deal with it"],
+        "notes": [
+          {
+            "enNote": "Often used in informal speech to push someone to accept reality.",
+            "ptNote": "Usado frequentemente em linguagem informal para incentivar alguém a aceitar a realidade."
+          },
+          {
+            "enNote": "Can sound direct or harsh depending on tone and context.",
+            "ptNote": "Pode soar direto ou rude dependendo do tom e do contexto."
+          }
+        ]
+      },
+      {
         "word": "falter",
         "phonetics": "/ˈfɒl.tər/",
         "partOfSpeech": "verb",
@@ -9,12 +42,12 @@
         "ptDefinition": "perder força ou ímpeto; hesitar ou vacilar na ação, fala ou confiança",
         "examples": [
           {
-        "enExample": "Her voice faltered as she tried to explain what happened.",
-        "ptExample": "A voz dela vacilou enquanto tentava explicar o que aconteceu."
+            "enExample": "Her voice faltered as she tried to explain what happened.",
+            "ptExample": "A voz dela vacilou enquanto tentava explicar o que aconteceu."
           },
           {
-        "enExample": "He did not falter in his determination to succeed.",
-        "ptExample": "Ele não vacilou em sua determinação de ter sucesso."
+            "enExample": "He did not falter in his determination to succeed.",
+            "ptExample": "Ele não vacilou em sua determinação de ter sucesso."
           }
         ],
         "synonyms": ["hesitate", "waver", "stumble", "flinch"],
@@ -22,8 +55,8 @@
         "seeAlso": "hesitate, waver",
         "notes": [
           {
-        "enNote": "Often used to describe a moment of uncertainty or weakness in speech or action.",
-        "ptNote": "Frequentemente usado para descrever um momento de incerteza ou fraqueza na fala ou ação."
+            "enNote": "Often used to describe a moment of uncertainty or weakness in speech or action.",
+            "ptNote": "Frequentemente usado para descrever um momento de incerteza ou fraqueza na fala ou ação."
           }
         ]
       },

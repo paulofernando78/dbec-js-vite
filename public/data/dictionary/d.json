@@ -2,6 +2,43 @@
   {
     "definitions": [
       {
+        "word": "dead-end job",
+        "partOfSpeech": "idiom / noun",
+        "enDefinition": "a job that offers little or no chance of progress, advancement, or personal growth",
+        "ptDefinition": "um emprego que oferece pouca ou nenhuma chance de progresso, promoção ou crescimento pessoal",
+        "examples": [
+          {
+            "enExample": "He quit his dead-end job at the factory to start his own business.",
+            "ptExample": "Ele deixou seu emprego sem futuro na fábrica para abrir o próprio negócio."
+          },
+          {
+            "enExample": "Many people feel stuck in dead-end jobs with no opportunities for advancement.",
+            "ptExample": "Muitas pessoas se sentem presas em empregos sem futuro e sem oportunidades de crescimento."
+          },
+          {
+            "enExample": "She wanted to do something meaningful instead of staying in a dead-end job.",
+            "ptExample": "Ela queria fazer algo significativo em vez de continuar em um emprego sem perspectivas."
+          }
+        ],
+        "synonyms": [
+          "unpromising job",
+          "stagnant job",
+          "low-prospect position"
+        ],
+        "antonyms": ["career opportunity", "promising job", "growth position"],
+        "seeAlso": ["go nowhere job", "career ladder", "promotion"],
+        "notes": [
+          {
+            "enNote": "Often used to describe jobs with no promotion path, skill development, or motivation.",
+            "ptNote": "Usado frequentemente para descrever empregos sem possibilidade de promoção, desenvolvimento de habilidades ou motivação."
+          },
+          {
+            "enNote": "Can express frustration or lack of fulfillment in one’s career.",
+            "ptNote": "Pode expressar frustração ou falta de realização na carreira."
+          }
+        ]
+      },
+      {
         "word": "diamond",
         "phonetics": "/ˈdaɪəmənd/",
         "partOfSpeech": "noun",
@@ -35,12 +72,12 @@
         "ptDefinition": "pessoa, especialmente policial, cuja função é investigar crimes e descobrir quem os cometeu; detetive",
         "examples": [
           {
-        "enExample": "The detective questioned all the witnesses at the crime scene.",
-        "ptExample": "O detetive interrogou todas as testemunhas na cena do crime."
+            "enExample": "The detective questioned all the witnesses at the crime scene.",
+            "ptExample": "O detetive interrogou todas as testemunhas na cena do crime."
           },
           {
-        "enExample": "She hired a private detective to find her missing brother.",
-        "ptExample": "Ela contratou um detetive particular para encontrar seu irmão desaparecido."
+            "enExample": "She hired a private detective to find her missing brother.",
+            "ptExample": "Ela contratou um detetive particular para encontrar seu irmão desaparecido."
           }
         ],
         "synonyms": ["investigator", "sleuth", "private eye", "gumshoe"],
@@ -48,8 +85,8 @@
         "seeAlso": ["investigation", "police", "private investigator"],
         "notes": [
           {
-        "enNote": "Detectives can work for the police or be privately hired. In fiction, detectives are often portrayed as clever and resourceful.",
-        "ptNote": "Detetives podem trabalhar para a polícia ou serem contratados de forma particular. Em obras de ficção, detetives costumam ser retratados como inteligentes e engenhosos."
+            "enNote": "Detectives can work for the police or be privately hired. In fiction, detectives are often portrayed as clever and resourceful.",
+            "ptNote": "Detetives podem trabalhar para a polícia ou serem contratados de forma particular. Em obras de ficção, detetives costumam ser retratados como inteligentes e engenhosos."
           }
         ]
       },
@@ -61,12 +98,12 @@
         "ptDefinition": "uma barreira móvel usada para fechar uma entrada, geralmente de um cômodo, edifício ou veículo",
         "examples": [
           {
-        "enExample": "She knocked on the door before entering the office.",
-        "ptExample": "Ela bateu na porta antes de entrar no escritório."
+            "enExample": "She knocked on the door before entering the office.",
+            "ptExample": "Ela bateu na porta antes de entrar no escritório."
           },
           {
-        "enExample": "Please close the door when you leave.",
-        "ptExample": "Por favor, feche a porta ao sair."
+            "enExample": "Please close the door when you leave.",
+            "ptExample": "Por favor, feche a porta ao sair."
           }
         ],
         "synonyms": ["entrance", "gateway", "portal"],
@@ -74,8 +111,8 @@
         "seeAlso": ["window", "gate", "doorway"],
         "notes": [
           {
-        "enNote": "Doors can be made of wood, metal, glass, or other materials and may be used for privacy, security, or decoration.",
-        "ptNote": "Portas podem ser feitas de madeira, metal, vidro ou outros materiais e podem ser usadas para privacidade, segurança ou decoração."
+            "enNote": "Doors can be made of wood, metal, glass, or other materials and may be used for privacy, security, or decoration.",
+            "ptNote": "Portas podem ser feitas de madeira, metal, vidro ou outros materiais e podem ser usadas para privacidade, segurança ou decoração."
           }
         ]
       },

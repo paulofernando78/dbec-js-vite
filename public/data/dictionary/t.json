@@ -2,6 +2,69 @@
   {
     "definitions": [
       {
+        "word": "talk over",
+        "phonetics": "/tɑːk ˈoʊ.vɚ/ US, /tɔːk ˈoʊ.vər/ UK",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to discuss something carefully in order to make a decision or understand it better",
+        "ptDefinition": "discutir algo cuidadosamente para tomar uma decisão ou compreendê-lo melhor",
+        "examples": [
+          {
+            "enExample": "We need to talk over the details before signing the contract.",
+            "ptExample": "Precisamos discutir os detalhes antes de assinar o contrato."
+          },
+          {
+            "enExample": "They talked it over and decided to move abroad.",
+            "ptExample": "Eles conversaram e decidiram se mudar para o exterior."
+          },
+          {
+            "enExample": "Let’s talk things over after lunch.",
+            "ptExample": "Vamos conversar sobre isso depois do almoço."
+          }
+        ],
+        "synonyms": ["discuss", "debate", "go over", "consider"],
+        "antonyms": ["ignore", "avoid", "disregard"],
+        "seeAlso": ["talk about", "go over", "think through"],
+        "notes": [
+          {
+            "enNote": "Used when people discuss a matter thoroughly before making a decision or taking action.",
+            "ptNote": "Usado quando pessoas discutem um assunto a fundo antes de tomar uma decisão ou agir."
+          }
+        ]
+      },
+      {
+        "word": "top dollar",
+        "partOfSpeech": "idiom, noun",
+        "enDefinition": "a very high price; the maximum amount of money that someone is willing to pay for something",
+        "ptDefinition": "um preço muito alto; o valor máximo que alguém está disposto a pagar por algo",
+        "examples": [
+          {
+            "enExample": "He paid top dollar for that luxury car.",
+            "ptExample": "Ele pagou um preço altíssimo por aquele carro de luxo."
+          },
+          {
+            "enExample": "Collectors are willing to pay top dollar for rare coins.",
+            "ptExample": "Os colecionadores estão dispostos a pagar uma fortuna por moedas raras."
+          },
+          {
+            "enExample": "If you want quality service, you'll have to pay top dollar.",
+            "ptExample": "Se você quiser um serviço de qualidade, terá que pagar caro."
+          }
+        ],
+        "synonyms": ["a high price", "premium price", "expensive cost"],
+        "antonyms": ["bargain", "cheap deal", "low price"],
+        "seeAlso": ["cost an arm and a leg", "pay through the nose"],
+        "notes": [
+          {
+            "enNote": "Often used in informal contexts to emphasize that something is very expensive or that someone paid a lot for it.",
+            "ptNote": "Usado frequentemente em contextos informais para enfatizar que algo é muito caro ou que alguém pagou muito por isso."
+          },
+          {
+            "enNote": "Can also refer to services or talents that demand high payment.",
+            "ptNote": "Também pode se referir a serviços ou talentos que exigem altos pagamentos."
+          }
+        ]
+      },
+      {
         "word": "train station",
         "phonetics": "/treɪn ˈsteɪ.ʃən/",
         "partOfSpeech": "noun",
@@ -34,12 +97,12 @@
         "ptDefinition": "pessoa que rouba, especialmente de forma secreta e sem uso de força ou violência; ladrão",
         "examples": [
           {
-        "enExample": "The thief broke into the house while the owners were away.",
-        "ptExample": "O ladrão entrou na casa enquanto os donos estavam fora."
+            "enExample": "The thief broke into the house while the owners were away.",
+            "ptExample": "O ladrão entrou na casa enquanto os donos estavam fora."
           },
           {
-        "enExample": "A skilled thief can steal without being noticed.",
-        "ptExample": "Um ladrão habilidoso pode roubar sem ser notado."
+            "enExample": "A skilled thief can steal without being noticed.",
+            "ptExample": "Um ladrão habilidoso pode roubar sem ser notado."
           }
         ],
         "synonyms": ["robber", "burglar", "pickpocket", "shoplifter"],
@@ -47,8 +110,8 @@
         "seeAlso": ["robbery", "steal", "burglar"],
         "notes": [
           {
-        "enNote": "A thief usually acts secretly and avoids confrontation, unlike a robber who may use force.",
-        "ptNote": "Um ladrão geralmente age de forma secreta e evita confronto, ao contrário de um assaltante que pode usar força."
+            "enNote": "A thief usually acts secretly and avoids confrontation, unlike a robber who may use force.",
+            "ptNote": "Um ladrão geralmente age de forma secreta e evita confronto, ao contrário de um assaltante que pode usar força."
           }
         ]
       },

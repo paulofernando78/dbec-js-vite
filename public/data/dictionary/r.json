@@ -2,6 +2,35 @@
   {
     "definitions": [
       {
+        "word": "(real) flop",
+        "partOfSpeech": "idiom / informal noun phrase",
+        "enDefinition": "something that fails completely or is very unsuccessful",
+        "ptDefinition": "algo que fracassa completamente ou é muito mal-sucedido",
+        "examples": [
+          {
+            "enExample": "The movie was a real flop and lost millions at the box office.",
+            "ptExample": "O filme foi um verdadeiro fracasso e perdeu milhões nas bilheteiras."
+          },
+          {
+            "enExample": "His new product turned out to be a real flop.",
+            "ptExample": "O novo produto dele acabou sendo um verdadeiro fiasco."
+          },
+          {
+            "enExample": "The concert was a real flop because hardly anyone showed up.",
+            "ptExample": "O show foi um verdadeiro fracasso porque quase ninguém apareceu."
+          }
+        ],
+        "synonyms": ["failure", "disaster", "fiasco", "bomb"],
+        "antonyms": ["success", "hit", "triumph"],
+        "seeAlso": ["big failure", "go wrong", "fall flat"],
+        "notes": [
+          {
+            "enNote": "Used informally to describe events, projects, or performances that fail to meet expectations.",
+            "ptNote": "Usado informalmente para descrever eventos, projetos ou apresentações que não atendem às expectativas."
+          }
+        ]
+      },
+      {
         "word": "ring",
         "phonetics": "/rɪŋ/",
         "partOfSpeech": "noun, verb",
@@ -33,12 +62,12 @@
         "ptDefinition": "um pequeno mamífero com orelhas longas, pelo macio e cauda curta, conhecido por sua habilidade de saltar e cavar tocas",
         "examples": [
           {
-        "enExample": "The rabbit hopped across the garden and disappeared into a hole.",
-        "ptExample": "O coelho pulou pelo jardim e desapareceu em uma toca."
+            "enExample": "The rabbit hopped across the garden and disappeared into a hole.",
+            "ptExample": "O coelho pulou pelo jardim e desapareceu em uma toca."
           },
           {
-        "enExample": "She keeps a rabbit as a pet.",
-        "ptExample": "Ela tem um coelho de estimação."
+            "enExample": "She keeps a rabbit as a pet.",
+            "ptExample": "Ela tem um coelho de estimação."
           }
         ],
         "synonyms": ["hare", "bunny", "coney"],
@@ -46,8 +75,8 @@
         "seeAlso": ["hare", "rodent", "burrow"],
         "notes": [
           {
-        "enNote": "Rabbits are herbivores and are often associated with speed and fertility in folklore.",
-        "ptNote": "Coelhos são herbívoros e frequentemente associados à velocidade e fertilidade no folclore."
+            "enNote": "Rabbits are herbivores and are often associated with speed and fertility in folklore.",
+            "ptNote": "Coelhos são herbívoros e frequentemente associados à velocidade e fertilidade no folclore."
           }
         ]
       },
