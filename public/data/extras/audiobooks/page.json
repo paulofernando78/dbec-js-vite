@@ -163,7 +163,7 @@
               {
                 "icon": "audiobook",
                 "link": "/extras/audiobooks/starter/young-learners-adults/marcel-and-the-white-star",
-                "label": "Marcel and the White Star (0:00)"
+                "label": "Marcel and the White Star (7:03)"
               },
               {
                 "icon": "audiobook",
@@ -410,7 +410,7 @@
                   "links": [
                     {
                       "icon": "audiobook",
-                      "link": "#",
+                      "link": "https://classics.mit.edu/Homer/odyssey.1.i.html",
                       "label": "The Odyssey of Homer"
                     }
                   ]
