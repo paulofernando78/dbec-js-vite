@@ -456,7 +456,7 @@
     {
       "exercises": [
         {
-          "title": "2. Look at paragraph 2 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 2 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -466,7 +466,7 @@
                 {
                   "block": [
                     {
-                      "text": "2.1 What do they do all evening? The two friends",
+                      "text": "1.1 What do they do all evening? The two friends",
                       "correctAnswer": ["eat"]
                     },
                     {
@@ -485,7 +485,7 @@
                 {
                   "block": [
                     {
-                      "text": "2.2 Céline",
+                      "text": "1.2 Céline",
                       "correctAnswer": ["shows"]
                     },
                     {
@@ -496,7 +496,7 @@
                 {
                   "block": [
                     {
-                      "text": "2.3 Then at 11 o’clock Marcel",
+                      "text": "1.3 Then at 11 o’clock Marcel",
                       "correctAnswer": ["puts"]
                     },
                     {
@@ -507,7 +507,7 @@
                 {
                   "block": [
                     {
-                      "text": "2.4 Then Céline",
+                      "text": "1.4 Then Céline",
                       "correctAnswer": ["closes"]
                     },
                     {
@@ -555,7 +555,7 @@
     {
       "exercises": [
         {
-          "title": "3. Look at paragraph 3 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 3 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -565,7 +565,7 @@
                 {
                   "block": [
                     {
-                      "text": "3.1 Marcel",
+                      "text": "1.1 Marcel",
                       "correctAnswer": ["walks"]
                     },
                     {
@@ -576,7 +576,7 @@
                 {
                   "block": [
                     {
-                      "text": "3.2 He",
+                      "text": "1.2 He",
                       "correctAnswer": ["stops"]
                     },
                     {
@@ -587,7 +587,7 @@
                 {
                   "block": [
                     {
-                      "text": "3.3 He",
+                      "text": "1.3 He",
                       "correctAnswer": ["runs"]
                     },
                     {
@@ -598,7 +598,7 @@
                 {
                   "block": [
                     {
-                      "text": "3.4 The man is",
+                      "text": "1.4 The man is",
                       "correctAnswer": ["stealing"]
                     },
                     {
@@ -646,7 +646,7 @@
     {
       "exercises": [
         {
-          "title": "4. Look at paragraph 4 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 4 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -656,7 +656,7 @@
                 {
                   "block": [
                     {
-                      "text": "4.1 The thief",
+                      "text": "1.1 The thief",
                       "correctAnswer": ["smiles"]
                     },
                     {
@@ -671,7 +671,7 @@
                 {
                   "block": [
                     {
-                      "text": "4.2 But a second later he",
+                      "text": "1.2 But a second later he",
                       "correctAnswer": ["puts"]
                     },
                     {
@@ -698,7 +698,7 @@
                 {
                   "block": [
                     {
-                      "text": "4.3 Marcel",
+                      "text": "1.3 Marcel",
                       "correctAnswer": ["thinks"]
                     },
                     {
@@ -758,7 +758,7 @@
     {
       "exercises": [
         {
-          "title": "5. Look at paragraph 5 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 5 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -768,7 +768,7 @@
                 {
                   "block": [
                     {
-                      "text": "5.1 There is no answer, but at that moment the bag",
+                      "text": "1.1 There is no answer, but at that moment the bag",
                       "correctAnswer": ["starts"]
                     },
                     {
@@ -783,7 +783,7 @@
                 {
                   "block": [
                     {
-                      "text": "5.2 Marcel",
+                      "text": "1.2 Marcel",
                       "correctAnswer": ["climbs"]
                     },
                     {
@@ -835,7 +835,7 @@
     {
       "exercises": [
         {
-          "title": "6. Look at paragraph 6 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 6 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -845,7 +845,7 @@
                 {
                   "block": [
                     {
-                      "text": "6.1 The guard",
+                      "text": "1.1 The guard",
                       "correctAnswer": ["gets"]
                     },
                     {
@@ -860,7 +860,7 @@
                 {
                   "block": [
                     {
-                      "text": "6.2 After that, the train",
+                      "text": "1.2 After that, the train",
                       "correctAnswer": ["starts"]
                     },
                     {
@@ -908,7 +908,7 @@
     {
       "exercises": [
         {
-          "title": "7. Look at paragraph 7 and fill in the blank with the correct answers."
+          "title": "1. Look at paragraph 7 and fill in the blank with the correct answers."
         },
         {
           "fillExercises": [
@@ -918,7 +918,7 @@
                 {
                   "block": [
                     {
-                      "text": "7.1 Marcel",
+                      "text": "1.1 Marcel",
                       "correctAnswer": ["goes"]
                     },
                     {
@@ -966,7 +966,7 @@
     {
       "exercises": [
         {
-          "title": "8. Look at paragraph 8 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 8 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -976,7 +976,7 @@
                 {
                   "block": [
                     {
-                      "text": "8.1 Marcel",
+                      "text": "1.1 Marcel",
                       "correctAnswer": ["opens"]
                     },
                     {
@@ -1032,7 +1032,7 @@
     {
       "exercises": [
         {
-          "title": "9. Look at paragraph 9 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 9 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1042,7 +1042,7 @@
                 {
                   "block": [
                     {
-                      "text": "9.1 Antoine",
+                      "text": "1.1 Antoine",
                       "correctAnswer": ["laughs"]
                     },
                     {
@@ -1057,7 +1057,7 @@
                 {
                   "block": [
                     {
-                      "text": "9.2 Inside the bag Marcel",
+                      "text": "1.2 Inside the bag Marcel",
                       "correctAnswer": ["hears"]
                     },
                     {
@@ -1105,7 +1105,7 @@
     {
       "exercises": [
         {
-          "title": "10. Look at paragraph 10 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 10 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1115,7 +1115,7 @@
                 {
                   "block": [
                     {
-                      "text": "10.1 An old woman",
+                      "text": "1.1 An old woman",
                       "correctAnswer": ["answers"]
                     },
                     {
@@ -1130,7 +1130,7 @@
                 {
                   "block": [
                     {
-                      "text": "10.2 She",
+                      "text": "1.2 She",
                       "correctAnswer": ["takes"]
                     },
                     {
@@ -1141,7 +1141,7 @@
                 {
                   "block": [
                     {
-                      "text": "10.3 He",
+                      "text": "1.3 He",
                       "correctAnswer": ["jumps out"]
                     },
                     {
@@ -1193,7 +1193,7 @@
     {
       "exercises": [
         {
-          "title": "11. Look at paragraph 11 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 11 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1203,7 +1203,7 @@
                 {
                   "block": [
                     {
-                      "text": "11.1 Marcel",
+                      "text": "1.1 Marcel",
                       "correctAnswer": ["remembers"]
                     },
                     {
@@ -1214,7 +1214,7 @@
                 {
                   "block": [
                     {
-                      "text": "11.2 Marcel",
+                      "text": "1.2 Marcel",
                       "correctAnswer": ["thinks"]
                     },
                     {
@@ -1266,7 +1266,7 @@
     {
       "exercises": [
         {
-          "title": "12. Look at paragraph 12 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 12 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1276,7 +1276,7 @@
                 {
                   "block": [
                     {
-                      "text": "12.1 Marcel",
+                      "text": "1.1 Marcel",
                       "correctAnswer": ["has"]
                     },
                     {
@@ -1287,7 +1287,7 @@
                 {
                   "block": [
                     {
-                      "text": "12.2 He",
+                      "text": "1.2 He",
                       "correctAnswer": ["jumps"]
                     },
                     {
@@ -1306,7 +1306,7 @@
                 {
                   "block": [
                     {
-                      "text": "12.3 Below him he",
+                      "text": "1.3 Below him he",
                       "correctAnswer": ["hears"]
                     },
                     {
@@ -1354,7 +1354,7 @@
     {
       "exercises": [
         {
-          "title": "13. Look at paragraph 13 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 13 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1364,7 +1364,7 @@
                 {
                   "block": [
                     {
-                      "text": "13.1 Spandini",
+                      "text": "1.1 Spandini",
                       "correctAnswer": ["stands up"]
                     },
                     {
@@ -1379,7 +1379,7 @@
                 {
                   "block": [
                     {
-                      "text": "13.2 Marcel",
+                      "text": "1.2 Marcel",
                       "correctAnswer": ["looks over"]
                     },
                     {
@@ -1390,7 +1390,7 @@
                 {
                   "block": [
                     {
-                      "text": "13.3 After that, he",
+                      "text": "1.3 After that, he",
                       "correctAnswer": ["runs"]
                     },
                     {
@@ -1446,7 +1446,7 @@
     {
       "exercises": [
         {
-          "title": "14. Look at paragraph 14 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 14 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1456,7 +1456,7 @@
                 {
                   "block": [
                     {
-                      "text": "14.1 Marcel",
+                      "text": "1.1 Marcel",
                       "correctAnswer": ["runs"]
                     },
                     {
@@ -1467,7 +1467,7 @@
                 {
                   "block": [
                     {
-                      "text": "14.2 Then, after twenty minutes, he",
+                      "text": "1.2 Then, after twenty minutes, he",
                       "correctAnswer": ["stops"]
                     },
                     {
@@ -1478,7 +1478,7 @@
                 {
                   "block": [
                     {
-                      "text": "14.3 The front door",
+                      "text": "1.3 The front door",
                       "correctAnswer": ["has"]
                     },
                     {
@@ -1493,7 +1493,7 @@
                 {
                   "block": [
                     {
-                      "text": "14.3 He",
+                      "text": "1.3 He",
                       "correctAnswer": ["stands up"]
                     },
                     {
@@ -1545,7 +1545,7 @@
     {
       "exercises": [
         {
-          "title": "15. Look at paragraph 15 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 15 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1555,7 +1555,7 @@
                 {
                   "block": [
                     {
-                      "text": "15.1 Two days later Marcel is in Paris again. At the station he",
+                      "text": "1.1 Two days later Marcel is in Paris again. At the station he",
                       "correctAnswer": ["sees"]
                     },
                     {
@@ -1566,7 +1566,7 @@
                 {
                   "block": [
                     {
-                      "text": "15.2 Marcel goes to the Louvre and",
+                      "text": "1.2 Marcel goes to the Louvre and",
                       "correctAnswer": ["tells"]
                     },
                     {

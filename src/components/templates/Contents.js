@@ -37,11 +37,6 @@ class Contents extends HTMLElement {
     whiteboard.data = content.whiteboard;
     contentContainer.appendChild(whiteboard);
 
-    // requestAnimationFrame(() => {
-    //   const rect = whiteboard.getBoundingClientRect();
-    //   console.log("Whiteboard bounding box", rect);
-    // }, 0);
-
     // Dictionary
     const dictionary = document.createElement("wc-dictionary-search");
     contentContainer.appendChild(dictionary);
@@ -68,10 +63,23 @@ class Contents extends HTMLElement {
         let anchorId = section.anchor;
 
         if (!anchorId && section.ribbon && section.ribbon.label) {
+          // O ! (negação) transforma qualquer valor falsy em true.
+          // Então !anchorId será verdadeiro quando anchorId for: undefined,	null, false, 0, NaN ou uma string vazia ("").
+          // !anchorId → verifica se a variável anchorId está vazia (ou seja, undefined, null, "", etc.);
+          // Ou seja, “não há anchorId definido” e passa a ser "true". Sendo isso aplicar o que está dentro do if... -> gerar o anchor automaticamente
+
           anchorId = section.ribbon.label
-            .toLowerCase()
+            .toLowerCase() // Converte todas as letras do texto para minúsculas
+
             .replace(/\s+/g, "-")
+            // \s = espaço, tab, quebra de linha, etc.
+            // + = um ou mais desses.
+            // g = global, ou seja, em todo o texto.
+
             .replace(/[^\w-]/g, "");
+            // Esse remove tudo que não for uma letra, número, underscore (_) ou hífen (-).
+            // [^\w-] = qualquer caractere que não seja (^) uma palavra (\w) ou um hífen.
+
         }
 
         if (anchorId) {

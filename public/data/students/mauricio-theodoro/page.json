@@ -297,7 +297,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Wed 1",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -307,7 +307,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "TC",
                       "date": "Fri 3",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -317,7 +317,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Wed 8",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -327,7 +327,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "TC",
                       "date": "Fri 10",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -337,17 +337,17 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "H",
                       "date": "Wed 15",
                       "classNotes": "",
-                      "homeworkNotes": ""
+                      "homeworkNotes": "Teacher's Day"
                     }
                   ]
                 },
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Fri 17",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -357,9 +357,9 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Wed 22",
-                      "classNotes": "",
+                      "classNotes": "Robin Hood - Chapter 2",
                       "homeworkNotes": ""
                     }
                   ]

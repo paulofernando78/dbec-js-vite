@@ -566,7 +566,7 @@
     {
       "exercises": [
         {
-          "title": "2. Look at paragraph 2 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 2 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -576,7 +576,7 @@
                 {
                   "block": [
                     {
-                      "text": "2.1 Every night Felix",
+                      "text": "1.1 Every night Felix",
                       "correctAnswer": ["looks up"]
                     },
                     {
@@ -587,7 +587,7 @@
                 {
                   "block": [
                     {
-                      "text": "2.2 He",
+                      "text": "1.2 He",
                       "correctAnswer": ["remembers"]
                     },
                     {
@@ -595,6 +595,28 @@
                     }
                   ]
                 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [{ "boldText": "2. Answer the questions." }],
+              "lineBreak": true
+            },
+            { "block": [{ "text": "2.1 What does Felix see from his cage?" }] },
+            {
+              "block": [{ "text": "2.2 What does he remember about Brazil?" }]
+            },
+            { "block": [{ "text": "2.3 What two men does Felix remember?" }] },
+            {
+              "block": [
+                { "text": "2.4 What shop is Felix taken to in New York?" }
               ]
             }
           ]
@@ -650,7 +672,7 @@
     {
       "exercises": [
         {
-          "title": "3. Look at paragraph 3 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 3 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -660,7 +682,7 @@
                 {
                   "block": [
                     {
-                      "text": "3.1 Felix",
+                      "text": "1.1 Felix",
                       "correctAnswer": ["closes"]
                     },
                     {
@@ -671,7 +693,7 @@
                 {
                   "block": [
                     {
-                      "text": "3.2 He",
+                      "text": "1.2 He",
                       "correctAnswer": ["puts"]
                     },
                     {
@@ -679,6 +701,25 @@
                     }
                   ]
                 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [{ "boldText": "2. Answer the questions." }],
+              "lineBreak": true
+            },
+            { "block": [{ "text": "2.1 What does Felix do with his eyes?" }] },
+            { "block": [{ "text": "2.2 What does he dream about?" }] },
+            {
+              "block": [
+                { "text": "2.3 What does he say to himself before sleeping?" }
               ]
             }
           ]
@@ -734,7 +775,7 @@
     {
       "exercises": [
         {
-          "title": "4. Look at paragraph 4 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 4 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -744,7 +785,7 @@
                 {
                   "block": [
                     {
-                      "text": "4.1 Mr. Baxter ",
+                      "text": "1.1 Mr. Baxter ",
                       "correctAnswer": ["opens"]
                     },
                     {
@@ -755,7 +796,7 @@
                 {
                   "block": [
                     {
-                      "text": "4.2 Mr. Baxter",
+                      "text": "1.2 Mr. Baxter",
                       "correctAnswer": ["hears"]
                     },
                     {
@@ -766,7 +807,7 @@
                 {
                   "block": [
                     {
-                      "text": "4.3 He",
+                      "text": "1.3 He",
                       "correctAnswer": ["goes"]
                     },
                     {
@@ -779,6 +820,24 @@
                   ]
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [{ "boldText": "2. Answer the questions." }],
+              "lineBreak": true
+            },
+            { "block": [{ "text": "2.1 What happens two weeks later?" }] },
+            { "block": [{ "text": "2.2 Why does Mr. Baxter open the cage?" }] },
+            { "block": [{ "text": "2.3 What does Mr. Baxter forget to do?" }] },
+            {
+              "block": [{ "text": "2.4 What does Felix see near the window?" }]
             }
           ]
         }
@@ -833,7 +892,7 @@
     {
       "exercises": [
         {
-          "title": "5. Look at paragraph 5 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 5 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -843,7 +902,7 @@
                 {
                   "block": [
                     {
-                      "text": "5.1 He",
+                      "text": "1.1 He",
                       "correctAnswer": ["flies out"]
                     },
                     {
@@ -858,7 +917,7 @@
                 {
                   "block": [
                     {
-                      "text": "5.2 He",
+                      "text": "1.2 He",
                       "correctAnswer": ["looks down"]
                     },
                     {
@@ -872,6 +931,25 @@
                 }
               ]
             }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [{ "boldText": "2. Answer the questions." }],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                { "text": "2.1 What does Felix do after leaving the cage?" }
+              ]
+            },
+            { "block": [{ "text": "2.2 Who sees Felix flying in the city?" }] },
+            { "block": [{ "text": "2.3 What is the girl’s mother doing?" }] }
           ]
         }
       ]
@@ -925,7 +1003,7 @@
     {
       "exercises": [
         {
-          "title": "6. Look at paragraph 6 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 6 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -935,7 +1013,7 @@
                 {
                   "block": [
                     {
-                      "text": "6.1 Felix",
+                      "text": "1.1 Felix",
                       "correctAnswer": ["stands on"]
                     },
                     {
@@ -946,7 +1024,7 @@
                 {
                   "block": [
                     {
-                      "text": "6.2 “Where are you from?,”",
+                      "text": "1.2 “Where are you from?,”",
                       "correctAnswer": ["asks"]
                     },
                     {
@@ -954,6 +1032,31 @@
                     }
                   ]
                 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [{ "boldText": "2. Answer the questions." }],
+              "lineBreak": true
+            },
+            {
+              "block": [{ "text": "2.1 Where does Felix stop after one hour?" }]
+            },
+            {
+              "block": [
+                { "text": "2.2 What question does the small bird ask Felix?" }
+              ]
+            },
+            {
+              "block": [
+                { "text": "2.3 What does Felix say when he flies away?" }
               ]
             }
           ]
@@ -1009,7 +1112,7 @@
     {
       "exercises": [
         {
-          "title": "7. Look at paragraph 7 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 7 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1019,7 +1122,7 @@
                 {
                   "block": [
                     {
-                      "text": "7.1 In the evening the sun",
+                      "text": "1.1 In the evening the sun",
                       "correctAnswer": ["starts"]
                     },
                     {
@@ -1030,13 +1133,36 @@
                 {
                   "block": [
                     {
-                      "text": "7.2 He",
+                      "text": "1.2 He",
                       "correctAnswer": ["wants"]
                     },
                     {
                       "text": "to fly all night."
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [{ "boldText": "2. Answer the questions." }],
+              "lineBreak": true
+            },
+            { "block": [{ "text": "2.1 Which direction does Felix fly?" }] },
+            {
+              "block": [{ "text": "2.2 What colors are in the evening sky?" }]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.3 How does Felix feel for the first time in two years?"
                 }
               ]
             }
@@ -1093,7 +1219,7 @@
     {
       "exercises": [
         {
-          "title": "8. Look at paragraph 8 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 8 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1103,7 +1229,7 @@
                 {
                   "block": [
                     {
-                      "text": "8.1 Two hours later it",
+                      "text": "1.1 Two hours later it",
                       "correctAnswer": ["starts"]
                     },
                     {
@@ -1114,7 +1240,7 @@
                 {
                   "block": [
                     {
-                      "text": "8.2 He",
+                      "text": "1.2 He",
                       "correctAnswer": ["remembers"]
                     },
                     {
@@ -1129,7 +1255,7 @@
                 {
                   "block": [
                     {
-                      "text": "8.3 He",
+                      "text": "1.3 He",
                       "correctAnswer": ["looks down"]
                     },
                     {
@@ -1143,6 +1269,25 @@
                 }
               ]
             }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [{ "boldText": "2. Answer the questions." }],
+              "lineBreak": true
+            },
+            { "block": [{ "text": "2.1 What happens two hours later?" }] },
+            {
+              "block": [
+                { "text": "2.2 What does Felix remember during the storm?" }
+              ]
+            },
+            { "block": [{ "text": "2.3 What does he see in the dark water?" }] }
           ]
         }
       ]
@@ -1196,7 +1341,7 @@
     {
       "exercises": [
         {
-          "title": "9. Look at paragraph 9 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 9 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1206,7 +1351,7 @@
                 {
                   "block": [
                     {
-                      "text": "9.1 He",
+                      "text": "1.1 He",
                       "correctAnswer": ["eats"]
                     },
                     {
@@ -1221,7 +1366,7 @@
                 {
                   "block": [
                     {
-                      "text": "9.2 The man only",
+                      "text": "1.2 The man only",
                       "correctAnswer": ["wants"]
                     },
                     {
@@ -1229,6 +1374,31 @@
                     }
                   ]
                 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [{ "boldText": "2. Answer the questions." }],
+              "lineBreak": true
+            },
+            { "block": [{ "text": "2.1 What does Felix find on the ship?" }] },
+            {
+              "block": [
+                {
+                  "text": "2.2 What does the man on the ship do when he sees Felix?"
+                }
+              ]
+            },
+            {
+              "block": [
+                { "text": "2.3 How does Felix feel after flying again?" }
               ]
             }
           ]
@@ -1284,7 +1454,7 @@
     {
       "exercises": [
         {
-          "title": "10. Look at paragraph 10 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 10 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1294,7 +1464,7 @@
                 {
                   "block": [
                     {
-                      "text": "10.1 Felix",
+                      "text": "1.1 Felix",
                       "correctAnswer": ["starts"]
                     },
                     {
@@ -1305,7 +1475,7 @@
                 {
                   "block": [
                     {
-                      "text": "10.2 Then he",
+                      "text": "1.2 Then he",
                       "correctAnswer": ["sees"]
                     },
                     {
@@ -1315,6 +1485,23 @@
                 }
               ]
             }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [{ "boldText": "2. Answer the questions." }],
+              "lineBreak": true
+            },
+            {
+              "block": [{ "text": "2.1 What country does Felix fly across?" }]
+            },
+            { "block": [{ "text": "2.2 What does he see below?" }] },
+            { "block": [{ "text": "2.3 What bird does he meet there?" }] }
           ]
         }
       ]
@@ -1368,7 +1555,7 @@
     {
       "exercises": [
         {
-          "title": "11. Look at paragraph 11 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 11 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1378,7 +1565,7 @@
                 {
                   "block": [
                     {
-                      "text": "11.1 Felix",
+                      "text": "1.1 Felix",
                       "correctAnswer": ["tells"]
                     },
                     {
@@ -1389,7 +1576,7 @@
                 {
                   "block": [
                     {
-                      "text": "11.2 He",
+                      "text": "1.2 He",
                       "correctAnswer": ["knows"]
                     },
                     {
@@ -1398,6 +1585,23 @@
                   ]
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [{ "boldText": "2. Answer the questions." }],
+              "lineBreak": true
+            },
+            { "block": [{ "text": "2.1 What does Felix tell the bird?" }] },
+            { "block": [{ "text": "2.2 Who is Aca?" }] },
+            {
+              "block": [{ "text": "2.3 Where does the bird tell Felix to go?" }]
             }
           ]
         }
@@ -1452,7 +1656,7 @@
     {
       "exercises": [
         {
-          "title": "12. Look at paragraph 12 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 12 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1462,7 +1666,7 @@
                 {
                   "block": [
                     {
-                      "text": "12.1  There he",
+                      "text": "1.1  There he",
                       "correctAnswer": ["sees"]
                     },
                     {
@@ -1475,6 +1679,25 @@
                   ]
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [{ "boldText": "2. Answer the questions." }],
+              "lineBreak": true
+            },
+            { "block": [{ "text": "2.1 Where does Felix fly from and to?" }] },
+            {
+              "block": [{ "text": "2.2 Who does Felix call when he arrives?" }]
+            },
+            {
+              "block": [{ "text": "2.3 What does the boy say to his father?" }]
             }
           ]
         }
@@ -1529,7 +1752,7 @@
     {
       "exercises": [
         {
-          "title": "13. Look at paragraph 13 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 13 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1539,7 +1762,7 @@
                 {
                   "block": [
                     {
-                      "text": "13.1 He",
+                      "text": "1.1 He",
                       "correctAnswer": ["fights"]
                     },
                     {
@@ -1550,7 +1773,7 @@
                 {
                   "block": [
                     {
-                      "text": "13.2 Then he",
+                      "text": "1.2 Then he",
                       "correctAnswer": ["tells"]
                     },
                     {
@@ -1560,6 +1783,23 @@
                 }
               ]
             }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [{ "boldText": "2. Answer the questions." }],
+              "lineBreak": true
+            },
+            {
+              "block": [{ "text": "2.1 Why does Felix fight with his wings?" }]
+            },
+            { "block": [{ "text": "2.2 Who helps Felix?" }] },
+            { "block": [{ "text": "2.3 What does Felix say to Aca?" }] }
           ]
         }
       ]
@@ -1613,7 +1853,7 @@
     {
       "exercises": [
         {
-          "title": "14. Look at paragraph 14 and fill in the blanks with the correct answers."
+          "title": "1. Look at paragraph 14 and fill in the blanks with the correct answers."
         },
         {
           "fillExercises": [
@@ -1623,7 +1863,7 @@
                 {
                   "block": [
                     {
-                      "text": "14.1 Felix",
+                      "text": "1.1 Felix",
                       "correctAnswer": ["stops"]
                     },
                     {
@@ -1634,7 +1874,7 @@
                 {
                   "block": [
                     {
-                      "text": "14.2 “Where’s my family?,”",
+                      "text": "1.2 “Where’s my family?,”",
                       "correctAnswer": ["asks"]
                     },
                     {
@@ -1642,6 +1882,25 @@
                     }
                   ]
                 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [{ "boldText": "2. Answer the questions." }],
+              "lineBreak": true
+            },
+            { "block": [{ "text": "2.1 Where do Felix and Aca fly?" }] },
+            { "block": [{ "text": "2.2 What do they see near the village?" }] },
+            {
+              "block": [
+                { "text": "2.3 What question does Felix ask at the end?" }
               ]
             }
           ]
@@ -1718,6 +1977,21 @@
                 }
               ]
             }
+          ]
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [{ "boldText": "2. Answer the questions." }],
+              "lineBreak": true
+            },
+            { "block": [{ "text": "2.1 What does Felix see in the air?" }] },
+            { "block": [{ "text": "2.2 Who are the birds above the trees?" }] },
+            { "block": [{ "text": "2.3 How does the story end?" }] }
           ]
         }
       ]

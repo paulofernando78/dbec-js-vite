@@ -27,7 +27,7 @@
                   "links": [
                     {
                       "icon": "bookmark",
-                      "link": "#starter",
+                      "link": "#starter-pre-a1",
                       "label": "Starter (Pre-A1)"
                     }
                   ]
@@ -36,7 +36,7 @@
                   "links": [
                     {
                       "icon": "bookmark",
-                      "link": "#beginner",
+                      "link": "#beginner-a1",
                       "label": "Beginner (A1)"
                     }
                   ]
@@ -45,7 +45,7 @@
                   "links": [
                     {
                       "icon": "bookmark",
-                      "link": "#elementary",
+                      "link": "#elementary-a2",
                       "label": "Elementary (A2)"
                     }
                   ]
@@ -54,7 +54,7 @@
                   "links": [
                     {
                       "icon": "bookmark",
-                      "link": "#pre-intermediate",
+                      "link": "#pre-intermediate-a2-b1",
                       "label": "Pre-Intermediate (A2)"
                     }
                   ]
@@ -63,7 +63,7 @@
                   "links": [
                     {
                       "icon": "bookmark",
-                      "link": "#intermediate",
+                      "link": "#intermediate-b1",
                       "label": "Intermediate (B1)"
                     }
                   ]
@@ -72,7 +72,7 @@
                   "links": [
                     {
                       "icon": "bookmark",
-                      "link": "#upper-intermediate",
+                      "link": "#upper-intermediate-c1",
                       "label": "Upper-Intermediate (C1)"
                     }
                   ]
@@ -81,7 +81,7 @@
                   "links": [
                     {
                       "icon": "bookmark",
-                      "link": "#advanced",
+                      "link": "#advanced-c1-c2",
                       "label": "Advanced (C1-C2)"
                     }
                   ]
@@ -93,10 +93,9 @@
       ]
     },
     {
-      "anchor": "starter",
       "ribbon": {
         "icon": "books",
-        "label": "Starter (Pre-A1) 200"
+        "label": "Starter (Pre A1)"
       }
     },
     {
@@ -216,7 +215,6 @@
       }
     },
     {
-      "anchor": "beginner",
       "ribbon": {
         "icon": "books",
         "label": "Beginner (A1)"
@@ -277,7 +275,6 @@
       }
     },
     {
-      "anchor": "elementary",
       "ribbon": {
         "icon": "books",
         "label": "Elementary (A2)"
@@ -307,7 +304,6 @@
       }
     },
     {
-      "anchor": "pre-intermediate",
       "ribbon": {
         "icon": "books",
         "label": "Pre-Intermediate (A2-B1)"
@@ -332,7 +328,6 @@
       }
     },
     {
-      "anchor": "intermediate",
       "ribbon": {
         "icon": "books",
         "label": "Intermediate (B1)"
@@ -362,7 +357,6 @@
       ]
     },
     {
-      "anchor": "upper-intermediate",
       "ribbon": {
         "icon": "books",
         "label": "Upper-Intermediate (C1)"
@@ -392,7 +386,6 @@
       ]
     },
     {
-      "anchor": "advanced",
       "ribbon": {
         "icon": "books",
         "label": "Advanced (C1-C2)"

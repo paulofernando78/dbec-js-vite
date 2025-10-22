@@ -381,13 +381,71 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "1.1 A window",
+                      "correctAnswer": ["opens"]
                     },
                     {
-                      "text": "..."
+                      "text": "and a man",
+                      "correctAnswer": ["comes in"]
+                    },
+                    {
+                      "text":	"."
                     }
                   ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.2 It is dark in the art gallery, but Harry",
+                      "correctAnswer": ["has"]
+                    },
+                    {
+                      "text": "a light."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.3 He",
+                      "correctAnswer": ["looks"]
+                    },
+                    {
+                      "text": "across the room at a painting."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+        {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 What time does the story take place?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 Who is Harry Black?"
                 }
               ]
             }
