@@ -123,7 +123,7 @@
                       "correctAnswer": ["painting"]
                     },
                     {
-                      "text":	"in the Louvre."
+                      "text": "in the Louvre."
                     }
                   ]
                 },
@@ -134,7 +134,7 @@
                       "correctAnswer": ["detective"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -145,7 +145,7 @@
                       "correctAnswer": ["bag"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -156,7 +156,7 @@
                       "correctAnswer": ["museum"]
                     },
                     {
-                      "text":	"in Paris."
+                      "text": "in Paris."
                     }
                   ]
                 },
@@ -167,7 +167,7 @@
                       "correctAnswer": ["knife"]
                     },
                     {
-                      "text":	"to steal the painting."
+                      "text": "to steal the painting."
                     }
                   ]
                 },
@@ -178,7 +178,7 @@
                       "correctAnswer": ["thief"]
                     },
                     {
-                      "text":	"stealing the Mona Lisa."
+                      "text": "stealing the Mona Lisa."
                     }
                   ]
                 },
@@ -189,7 +189,7 @@
                       "correctAnswer": ["steal"]
                     },
                     {
-                      "text":	"the painting back."
+                      "text": "the painting back."
                     }
                   ]
                 },
@@ -200,7 +200,7 @@
                       "correctAnswer": ["bookcase"]
                     },
                     {
-                      "text":	"to escape the cats."
+                      "text": "to escape the cats."
                     }
                   ]
                 },
@@ -211,7 +211,7 @@
                       "correctAnswer": ["candle"]
                     },
                     {
-                      "text":	"to stop the cat."
+                      "text": "to stop the cat."
                     }
                   ]
                 },
@@ -222,7 +222,7 @@
                       "correctAnswer": ["sunglasses"]
                     },
                     {
-                      "text":	"on the train."
+                      "text": "on the train."
                     }
                   ]
                 }
@@ -1587,7 +1587,7 @@
       }
     },
     {
-      "flipCardRetell": [
+      "flipCardBackImage": [
         {
           "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/marcel-and-the-mona-lisa/paragraph-1.avif"
         },
