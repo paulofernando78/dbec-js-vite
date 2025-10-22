@@ -2333,6 +2333,109 @@
           ]
         }
       ]
+    },
+    {
+      "flipCard": [
+        {
+          "ratio": "",
+          "front": {
+            "img": "",
+            "text": "What's the past of die?"
+          },
+          "back": {
+            "img": "",
+            "text": "died"
+          }
+        },
+        {
+          "ratio": "",
+          "front": {
+            "img": "",
+            "text": "What's the past of end?"
+          },
+          "back": {
+            "img": "",
+            "text": "ended"
+          }
+        },
+        {
+          "ratio": "",
+          "front": {
+            "img": "",
+            "text": "What's the past of enjoy?"
+          },
+          "back": {
+            "img": "",
+            "text": "enjoyed"
+          }
+        },
+        {
+          "ratio": "",
+          "front": {
+            "img": "",
+            "text": "What's the past of happen?"
+          },
+          "back": {
+            "img": "",
+            "text": "happened"
+          }
+        },
+        {
+          "ratio": "",
+          "front": {
+            "img": "",
+            "text": "What's the past of open?"
+          },
+          "back": {
+            "img": "",
+            "text": "opened"
+          }
+        },
+        {
+          "ratio": "",
+          "front": {
+            "img": "",
+            "text": "What's the past of rain?"
+          },
+          "back": {
+            "img": "",
+            "text": "rained"
+          }
+        },
+        {
+          "ratio": "",
+          "front": {
+            "img": "",
+            "text": "What's the past of brush?"
+          },
+          "back": {
+            "img": "",
+            "text": "brushed"
+          }
+        },
+        {
+          "ratio": "",
+          "front": {
+            "img": "",
+            "text": "What's the past of start?"
+          },
+          "back": {
+            "img": "",
+            "text": "started"
+          }
+        },
+        {
+          "ratio": "",
+          "front": {
+            "img": "",
+            "text": "What's the past of want?"
+          },
+          "back": {
+            "img": "",
+            "text": "wanted"
+          }
+        }
+      ]
     }
   ]
 }

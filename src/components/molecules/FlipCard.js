@@ -85,7 +85,9 @@ class FlipCard extends HTMLElement {
     }
 
     if (back) {
-      backEl.querySelector("img").src = back.img || "";
+      if (back.img) {
+        backEl.querySelector("img").src = back.img || "";
+      }
       backEl.querySelector("span").textContent = back.text || "";
     }
   }
