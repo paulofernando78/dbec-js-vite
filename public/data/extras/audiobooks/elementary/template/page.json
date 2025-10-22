@@ -102,9 +102,14 @@
                       "label": "Chapter 1"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-2-questions",
+                      "label": "Chapter 2 Questions"
+                    },
+                    {
                       "icon": "bookmark",
-                      "link": "#retelling-chapter-1",
-                      "label": "Retelling Chapter 1"
+                      "link": "#chapter-1-retelling-the-story",
+                      "label": "Chapter 1 Retelling the story"
                     }
                   ]
                 }
@@ -121,9 +126,14 @@
                       "label": "Chapter 2"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-2-questions",
+                      "label": "Chapter 2 Questions"
+                    },
+                    {
                       "icon": "bookmark",
-                      "link": "#retelling-chapter-2",
-                      "label": "Retelling Chapter 2"
+                      "link": "#chapter-2-retelling-the-story",
+                      "label": "Chapter 2 Retelling the story"
                     }
                   ]
                 }
@@ -140,9 +150,14 @@
                       "label": "Chapter 3"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-3-questions",
+                      "label": "Chapter 3 Questions"
+                    },
+                    {
                       "icon": "bookmark",
-                      "link": "#retelling-chapter-3",
-                      "label": "Retelling Chapter 3"
+                      "link": "#chapter-3-retelling-the-story",
+                      "label": "Chapter 3 Retelling the story"
                     }
                   ]
                 }
@@ -159,9 +174,14 @@
                       "label": "Chapter 4"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-4-questions",
+                      "label": "Chapter 4 Questions"
+                    },
+                    {
                       "icon": "bookmark",
-                      "link": "#retelling-chapter-4",
-                      "label": "Retelling Chapter 4"
+                      "link": "#chapter-4-retelling-the-story",
+                      "label": "Chapter 4 Retelling the story"
                     }
                   ]
                 }
@@ -178,9 +198,14 @@
                       "label": "Chapter 5"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-5-questions",
+                      "label": "Chapter 5 Questions"
+                    },
+                    {
                       "icon": "bookmark",
-                      "link": "#retelling-chapter-5",
-                      "label": "Retelling Chapter 5"
+                      "link": "#chapter-5-retelling-the-story",
+                      "label": "Chapter 5 Retelling the story"
                     }
                   ]
                 }
@@ -197,9 +222,14 @@
                       "label": "Chapter 6"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-6-questions",
+                      "label": "Chapter 6 Questions"
+                    },
+                    {
                       "icon": "bookmark",
-                      "link": "#retelling-chapter-6",
-                      "label": "Retelling Chapter 6"
+                      "link": "#chapter-6-retelling-the-story",
+                      "label": "Chapter 6 Retelling the story"
                     }
                   ]
                 }
@@ -216,9 +246,14 @@
                       "label": "Chapter 7"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-7-questions",
+                      "label": "Chapter 7 Questions"
+                    },
+                    {
                       "icon": "bookmark",
-                      "link": "#retelling-chapter-7",
-                      "label": "Retelling Chapter 7"
+                      "link": "#chapter-7-retelling-the-story",
+                      "label": "Chapter 7 Retelling the story"
                     }
                   ]
                 }
@@ -235,9 +270,14 @@
                       "label": "Chapter 8"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-8-questions",
+                      "label": "Chapter 8 Questions"
+                    },
+                    {
                       "icon": "bookmark",
-                      "link": "#retelling-chapter-8",
-                      "label": "Retelling Chapter 8"
+                      "link": "#chapter-8-retelling-the-story",
+                      "label": "Chapter 8 Retelling the story"
                     }
                   ]
                 }
@@ -254,9 +294,14 @@
                       "label": "Chapter 9"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-9-questions",
+                      "label": "Chapter 9 Questions"
+                    },
+                    {
                       "icon": "bookmark",
-                      "link": "#retelling-chapter-9",
-                      "label": "Retelling Chapter 9"
+                      "link": "#chapter-9-retelling-the-story",
+                      "label": "Chapter 9 Retelling the story"
                     }
                   ]
                 }
@@ -273,9 +318,14 @@
                       "label": "Chapter 10"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-10-questions",
+                      "label": "Chapter 10 Questions"
+                    },
+                    {
                       "icon": "bookmark",
-                      "link": "#retelling-chapter-10",
-                      "label": "Retelling Chapter 10"
+                      "link": "#chapter-10-retelling-the-story",
+                      "label": "Chapter 10 Retelling the story"
                     }
                   ]
                 }
@@ -327,18 +377,16 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "question",
+        "label": "Chapter 1 Questions"
+      }
+    },
+    {
       "text": [
         {
-          "card": true,
+          "card": false,
           "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Chapter 1 Questions"
-                }
-              ],
-              "lineBreak": true
-            },
             {
               "block": [
                 {
@@ -406,10 +454,9 @@
       ]
     },
     {
-      "anchor": "retelling-chapter-1",
       "ribbon": {
         "icon": "picture",
-        "label": "Retelling the Chapter 1"
+        "label": "Chapter 1 Retelling the story"
       }
     },
     {
@@ -457,18 +504,16 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "question",
+        "label": "Chapter 2 Questions"
+      }
+    },
+    {
       "text": [
         {
-          "card": true,
+          "card": false,
           "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Chapter 2 Questions"
-                }
-              ],
-              "lineBreak": true
-            },
             {
               "block": [
                 {
@@ -536,10 +581,9 @@
       ]
     },
     {
-      "anchor": "retelling-chapter-2",
       "ribbon": {
         "icon": "picture",
-        "label": "Retelling the Chapter 2"
+        "label": "Chapter 2 Retelling the story"
       }
     },
     {
@@ -588,18 +632,16 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "question",
+        "label": "Chapter 3 Questions"
+      }
+    },
+    {
       "text": [
         {
-          "card": true,
+          "card": false,
           "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Chapter 3 Questions"
-                }
-              ],
-              "lineBreak": true
-            },
             {
               "block": [
                 {
@@ -667,10 +709,9 @@
       ]
     },
     {
-      "anchor": "retelling-chapter-3",
       "ribbon": {
         "icon": "picture",
-        "label": "Retelling the Chapter 3"
+        "label": "Chapter 3 Retelling the story"
       }
     },
     {
@@ -718,18 +759,16 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "question",
+        "label": "Chapter 4 Questions"
+      }
+    },
+    {
       "text": [
         {
-          "card": true,
+          "card": false,
           "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Chapter 4 Questions"
-                }
-              ],
-              "lineBreak": true
-            },
             {
               "block": [
                 {
@@ -797,10 +836,9 @@
       ]
     },
     {
-      "anchor": "retelling-chapter-4",
       "ribbon": {
         "icon": "picture",
-        "label": "Retelling the Chapter 4"
+        "label": "Chapter 4 Retelling the story"
       }
     },
     {
@@ -848,18 +886,16 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "question",
+        "label": "Chapter 5 Questions"
+      }
+    },
+    {
       "text": [
         {
-          "card": true,
+          "card": false,
           "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Chapter 5 Questions"
-                }
-              ],
-              "lineBreak": true
-            },
             {
               "block": [
                 {
@@ -927,10 +963,9 @@
       ]
     },
     {
-      "anchor": "retelling-chapter-5",
       "ribbon": {
         "icon": "picture",
-        "label": "Retelling the Chapter 5"
+        "label": "Chapter 5 Retelling the story"
       }
     },
     {
@@ -978,18 +1013,16 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "question",
+        "label": "Chapter 6 Questions"
+      }
+    },
+    {
       "text": [
         {
-          "card": true,
+          "card": false,
           "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Chapter 6 Questions"
-                }
-              ],
-              "lineBreak": true
-            },
             {
               "block": [
                 {
@@ -1057,10 +1090,9 @@
       ]
     },
     {
-      "anchor": "retelling-chapter-6",
       "ribbon": {
         "icon": "picture",
-        "label": "Retelling the Chapter 6"
+        "label": "Chapter 6 Retelling the story"
       }
     },
     {
@@ -1108,9 +1140,15 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "question",
+        "label": "Chapter 7 Questions"
+      }
+    },
+    {
       "text": [
         {
-          "card": true,
+          "card": false,
           "blocks": [
             {
               "block": [
@@ -1187,10 +1225,9 @@
       ]
     },
     {
-      "anchor": "retelling-chapter-7",
       "ribbon": {
         "icon": "picture",
-        "label": "Retelling the Chapter 7"
+        "label": "Chapter 7 Retelling the story"
       }
     },
     {
@@ -1238,9 +1275,15 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "question",
+        "label": "Chapter 8 Questions"
+      }
+    },
+    {
       "text": [
         {
-          "card": true,
+          "card": false,
           "blocks": [
             {
               "block": [
@@ -1317,10 +1360,9 @@
       ]
     },
     {
-      "anchor": "retelling-chapter-8",
       "ribbon": {
         "icon": "picture",
-        "label": "Retelling the Chapter 8"
+        "label": "Chapter 8 Retelling the story"
       }
     },
     {
@@ -1368,18 +1410,16 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "question",
+        "label": "Chapter 9 Questions"
+      }
+    },
+    {
       "text": [
         {
-          "card": true,
+          "card": false,
           "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Chapter 9 Questions"
-                }
-              ],
-              "lineBreak": true
-            },
             {
               "block": [
                 {
@@ -1447,10 +1487,9 @@
       ]
     },
     {
-      "anchor": "retelling-chapter-9",
       "ribbon": {
         "icon": "picture",
-        "label": "Retelling the Chapter 9"
+        "label": "Chapter 9 Retelling the story"
       }
     },
     {
@@ -1498,18 +1537,16 @@
       ]
     },
     {
+      "ribbon": {
+        "icon": "question",
+        "label": "Chapter 10 Questions"
+      }
+    },
+    {
       "text": [
         {
-          "card": true,
+          "card": false,
           "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Chapter 10 Questions"
-                }
-              ],
-              "lineBreak": true
-            },
             {
               "block": [
                 {
@@ -1577,10 +1614,9 @@
       ]
     },
     {
-      "anchor": "retelling-chapter-10",
       "ribbon": {
         "icon": "picture",
-        "label": "Retelling the Chapter 10"
+        "label": "Chapter 10 Retelling the story"
       }
     },
     {

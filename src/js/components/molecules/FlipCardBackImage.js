@@ -1,7 +1,7 @@
 import cssImportsPath from "@css/imports.css?inline";
 import cssFlipCardPath from "@css/components/molecules/flip-card.css?inline";
 
-class FlipCardRetell extends HTMLElement {
+class FlipCardBackImage extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -62,4 +62,4 @@ class FlipCardRetell extends HTMLElement {
   }
 }
 
-export default FlipCardRetell;
+export default FlipCardBackImage;

@@ -203,7 +203,6 @@
       }
     },
     {
-      "anchor": "chapter-1",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 1"
@@ -301,20 +300,18 @@
         }
       ]
     },
+        {
+      "ribbon": {
+        "icon": "snippet",
+        "label": "Chapter 1 Questions"
+      }
+    },
     {
       "grid": false,
       "text": [
         {
-          "card": true,
+          "card": false,
           "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Chapter 1 • Questions"
-                }
-              ],
-              "lineBreak": true
-            },
             {
               "block": [
                 {
@@ -382,41 +379,15 @@
       ]
     },
     {
-      "text": [
+      "flipCardBackImage": [
         {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "icon": "mouse"
-                },
-                {
-                  "boldText": "Click or "
-                },
-                {
-                  "icon": "tap"
-                },
-                {
-                  "boldText": "tap the cards to flip, then retell the story."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "flipCard": [
+        "img": "/assets/images/extras/audiobooks/beginner/young-learners-adults/mother-teresa/chapter-1/flip-1.avif"
+        },
         {
-          "ratio": "portrait",
-          "front": {
-            "img": "",
-            "text": "1"
-          },
-          "back": {
-            "img": "",
-            "text": ""
-          }
+        "img": ""
+        },
+        {
+        "img": ""
         }
       ]
     },
@@ -509,16 +480,8 @@
       "grid": false,
       "text": [
         {
-          "card": true,
+          "card": false,
           "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Chapter 2 • Questions"
-                }
-              ],
-              "lineBreak": true
-            },
             {
               "block": [
                 {
