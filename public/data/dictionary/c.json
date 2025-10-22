@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "compensate",
+        "phonetics": "US /ˈkɑːm.pən.seɪt/ UK /ˈkɒmpənseɪt/",
+        "partOfSpeech": "verb",
+        "enDefinition": "to provide something good or useful in place of something bad or unpleasant; to give someone something, especially money, in recognition of loss, suffering, or work done.",
+        "ptDefinition": "oferecer algo bom ou útil em substituição a algo ruim ou desagradável; dar algo a alguém, especialmente dinheiro, como forma de reconhecimento por uma perda, sofrimento ou trabalho realizado.",
+        "examples": [
+          {
+            "enExample": "Nothing can compensate for the loss of a loved one.",
+            "ptExample": "Nada pode compensar a perda de um ente querido."
+          },
+          {
+            "enExample": "Employees were compensated for the extra hours they worked.",
+            "ptExample": "Os funcionários foram compensados pelas horas extras que trabalharam."
+          }
+        ],
+        "synonyms": ["reimburse", "repay", "make up for", "offset", "balance"],
+        "antonyms": ["deprive", "penalize"],
+        "seeAlso": ["recompense", "reward", "refund"],
+        "notes": [
+          {
+            "enNote": "Often used with 'for' — e.g., 'to compensate for something' means to make up for a loss or disadvantage.",
+            "ptNote": "Geralmente usado com 'for' — por exemplo, 'to compensate for something' significa compensar uma perda ou desvantagem."
+          }
+        ]
+      },
+      {
         "word": "cost an arm and a leg",
         "partOfSpeech": "idiom",
         "enDefinition": "To be extremely expensive; to cost a lot of money.",
