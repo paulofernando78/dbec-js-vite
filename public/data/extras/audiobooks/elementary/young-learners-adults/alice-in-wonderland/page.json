@@ -191,6 +191,11 @@
                       "label": "Chapter 1 Down the Rabbit-hole"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-1-questions",
+                      "label": "Chapter 1 Questions"
+                    },
+                    {
                       "icon": "picture",
                       "link": "#chapter-1-retelling",
                       "label": "Chapter 1 Retelling the story"
@@ -208,6 +213,11 @@
                       "icon": "bookmark",
                       "link": "#chapter-2",
                       "label": "Chapter 2 Alice's Tears"
+                    },
+                    {
+                      "icon": "question",
+                      "link": "#chapter-2-questions",
+                      "label": "Chapter 2 Questions"
                     },
                     {
                       "icon": "picture",
@@ -229,6 +239,11 @@
                       "label": "Chapter 3 A Race"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-3-questions",
+                      "label": "Chapter 3 Questions"
+                    },
+                    {
                       "icon": "picture",
                       "link": "#chapter-3-retelling",
                       "label": "Chapter 3 Retelling the story"
@@ -246,6 +261,11 @@
                       "icon": "bookmark",
                       "link": "#chapter-4",
                       "label": "Chapter 4 The White Rabbit's House"
+                    },
+                    {
+                      "icon": "question",
+                      "link": "#chapter-4-questions",
+                      "label": "Chapter 4 Questions"
                     },
                     {
                       "icon": "picture",
@@ -267,6 +287,11 @@
                       "label": "Chapter 5 The Caterpillar"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-5-questions",
+                      "label": "Chapter 5 Questions"
+                    },
+                    {
                       "icon": "bookmark",
                       "link": "#retelling-chapter-5",
                       "label": "Retelling Chapter 5"
@@ -284,6 +309,11 @@
                       "icon": "bookmark",
                       "link": "#chapter-6",
                       "label": "Chapter 6 The Duchess and the Cheshire Cat"
+                    },
+                    {
+                      "icon": "question",
+                      "link": "#chapter-6-questions",
+                      "label": "Chapter 6 Questions"
                     },
                     {
                       "icon": "picture",
@@ -305,6 +335,11 @@
                       "label": "Chapter 7 A Tea Party"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-7-questions",
+                      "label": "Chapter 7 Questions"
+                    },
+                    {
                       "icon": "picture",
                       "link": "#chapter-7-retelling",
                       "label": "Chapter 7 Retelling the story"
@@ -322,6 +357,11 @@
                       "icon": "bookmark",
                       "link": "#chapter-8",
                       "label": "Chapter 8 Inside the Garden"
+                    },
+                    {
+                      "icon": "question",
+                      "link": "#chapter-8-questions",
+                      "label": "Chapter 8 Questions"
                     },
                     {
                       "icon": "picture",
@@ -343,6 +383,11 @@
                       "label": "Chapter 9 Who Took the Tarts?"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-9-questions",
+                      "label": "Chapter 9 Questions"
+                    },
+                    {
                       "icon": "picture",
                       "link": "#chapter-9-retelling",
                       "label": "Chapter 9 Retelling the story"
@@ -362,6 +407,11 @@
                       "label": "Chapter 10 The End of the Trial"
                     },
                     {
+                      "icon": "question",
+                      "link": "#chapter-10-questions",
+                      "label": "Chapter 10 Questions"
+                    },
+                    {
                       "icon": "picture",
                       "link": "#chapter-10-retelling",
                       "label": "Chapter 10 Retelling the story"
@@ -375,7 +425,6 @@
       ]
     },
     {
-      "anchor": "chapter-1",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 1"
@@ -648,126 +697,23 @@
                 }
               ],
               "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "collapsible": {
-                    "title": "Translation",
-                    "contents": [
-                      {
-                        "content": "Alice e sua irmã mais velha estavam sentadas debaixo de uma árvore em um dia ensolarado. A irmã de Alice tinha um livro, mas Alice não tinha nada com ela. Ela olhou para o livro da irmã. Não havia figuras nem diálogos nele."
-                      },
-                      {
-                        "content": "‘Por que ela está lendo um livro sem figuras ou diálogos?’, pensou. ‘Estou entediada. Já sei! Vou procurar algumas flores.’ Depois pensou: ‘Não, está muito quente para isso e estou com sono.’"
-                      },
-                      {
-                        "content": "De repente, um coelho branco passou correndo por ela. Ele tirou um relógio do bolso do casaco e olhou para ele. ‘Oh! Oh! Estou atrasado!’, disse."
-                      },
-                      {
-                        "content": "‘Que estranho! Um coelho com um relógio!’, disse Alice."
-                      },
-                      {
-                        "content": "Ela se levantou e correu atrás do animal. Ele entrou em uma grande toca, e Alice também entrou. Ela não parou para perguntar: ‘Como vou sair daqui de novo?’"
-                      },
-                      {
-                        "content": "Alice caiu, caiu e caiu. Mas caiu bem devagar e não sentiu medo. ‘O que vai acontecer agora?’, pensou."
-                      },
-                      {
-                        "content": "Ela olhou ao redor. Havia armários nas paredes da toca. Alguns estavam abertos e havia livros dentro. Às vezes ela via figuras. Olhou para baixo, mas não conseguia ver nenhuma luz."
-                      },
-                      {
-                        "content": "Para baixo, para baixo, para baixo. ‘Quando essa toca vai acabar?’, ela pensou. ‘Talvez eu vá sair na Austrália! Vou ter que perguntar o nome do país. “Por favor, senhora, isto é a Austrália ou a Nova Zelândia?” Não, não posso fazer isso. Eles vão pensar que sou burra.’"
-                      },
-                      {
-                        "content": "Ela pensou em sua gata, Dinah. ‘O que será que a Dinah está fazendo? Será que vão lembrar de dar o leite dela hoje à noite? Ah, Dinah! Por que você não está aqui comigo? Talvez haja um rato aqui e você possa comê-lo!’"
-                      },
-                      {
-                        "content": "De repente, Alice chegou ao fundo da toca. ‘Isso não doeu’, disse, e sentou-se rapidamente. Ela viu o Coelho Branco e correu atrás dele de novo. Agora eles estavam em outra toca."
-                      },
-                      {
-                        "content": "‘Oh, minhas orelhas e meu nariz!’, gritou o Coelho Branco. ‘Está ficando muito tarde!’"
-                      },
-                      {
-                        "content": "Ele correu mais rápido e desapareceu por outra abertura. Alice o seguiu. Agora ela estava em uma sala muito comprida. Procurou o Coelho Branco, mas não conseguiu vê-lo em lugar nenhum."
-                      },
-                      {
-                        "content": "Havia quatro portas na sala, mas Alice não conseguiu abri-las. Também não conseguia ver a entrada da toca. ‘Como vou sair daqui?’, pensou."
-                      },
-                      {
-                        "content": "Então ela viu uma mesinha. Em cima dela havia uma chave bem pequena."
-                      },
-                      {
-                        "content": "‘Talvez sirva para abrir uma das portas’, pensou. Ela pegou a chave e tentou abrir cada porta. Mas não adiantou. A chave era muito pequena."
-                      },
-                      {
-                        "content": "‘Essa chave tem que abrir alguma coisa’, pensou."
-                      },
-                      {
-                        "content": "Então ela viu uma portinha de cerca de 40 centímetros de altura. A chave pequena a abriu. Ela abaixou a cabeça e olhou através da porta para um lindo jardim. Tentou passar por ela, mas era grande demais. Tristemente, fechou a porta de novo e colocou a chave de volta na mesa."
-                      },
-                      {
-                        "content": "‘Por que não posso ficar menor?’, pensou Alice. ‘Este é um lugar muito estranho – então talvez eu possa.’"
-                      },
-                      {
-                        "content": "Ela olhou para a mesa. Havia uma garrafinha em cima dela."
-                      },
-                      {
-                        "content": "‘Essa garrafa não estava na mesa antes’, pensou Alice."
-                      },
-                      {
-                        "content": "Na garrafa estava escrito “BEBE-ME” em letras grandes. Alice olhou para ela com cuidado."
-                      },
-                      {
-                        "content": "‘Será que é seguro beber?’, ela pensou."
-                      },
-                      {
-                        "content": "‘Vou beber um pouquinho’, decidiu. Tomou um gole e era muito gostoso. Então bebeu mais."
-                      },
-                      {
-                        "content": "‘Isso está estranho’, disse Alice. ‘Estou ficando menor e menor!’ Depois de pouco tempo, tinha apenas 25 centímetros de altura."
-                      },
-                      {
-                        "content": "‘Agora posso passar por aquela porta’, pensou. Foi até a porta, mas não conseguiu abri-la. A chave estava em cima da mesa. Voltou para a mesa. Mas Alice estava muito baixinha e não conseguiu pegar a chave. Tentou escalar as pernas da mesa, mas era muito difícil. A garotinha sentou-se e chorou."
-                      },
-                      {
-                        "content": "‘Alice! Alice!’, disse a si mesma após alguns minutos. ‘Não chore. Isso não vai te ajudar. Pare agora!’"
-                      },
-                      {
-                        "content": "Então ela viu uma caixinha debaixo da mesa. Abriu-a. Havia um bolo dentro. Nele, estavam escritas as palavras: “COMA-ME”."
-                      },
-                      {
-                        "content": "‘Sim, vou comê-lo’, disse Alice. ‘Talvez eu fique maior e então consiga pegar a chave. Ou talvez eu fique menor. Aí poderei passar pela porta para o jardim.’"
-                      },
-                      {
-                        "content": "Ela comeu um pedaço do bolo."
-                      },
-                      {
-                        "content": "‘Será que vou crescer ou diminuir?’, pensou. Tocou o topo da cabeça com a mão. Mas nada aconteceu – ela continuou do mesmo tamanho. Então terminou o bolo."
-                      }
-                    ]
-                  }
-                }
-              ]
             }
           ]
         }
       ]
     },
     {
+      "ribbon": {
+        "icon": "question",
+        "label": "Chapter 1 Questions"
+      }
+    },
+    {
       "grid": false,
       "text": [
         {
-          "card": true,
+          "card": false,
           "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Chapter 1 Questions"
-                }
-              ],
-              "lineBreak": true
-            },
             {
               "block": [
                 {
@@ -835,7 +781,6 @@
       ]
     },
     {
-      "anchor": "chapter-1-retelling",
       "ribbon": {
         "icon": "picture",
         "label": "Chapter 1 Retelling the story"
@@ -861,7 +806,6 @@
       ]
     },
     {
-      "anchor": "chapter-2",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 2"
@@ -1136,7 +1080,6 @@
       ]
     },
     {
-      "anchor": "chapter-2-retelling",
       "ribbon": {
         "icon": "picture",
         "label": "Chapter 2 Retelling the story"
@@ -1156,7 +1099,6 @@
       ]
     },
     {
-      "anchor": "chapter-3",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 3"
@@ -1490,7 +1432,6 @@
       ]
     },
     {
-      "anchor": "chapter-3-retelling",
       "ribbon": {
         "icon": "picture",
         "label": "Chapter 3 Retelling the story"
@@ -1510,7 +1451,6 @@
       ]
     },
     {
-      "anchor": "chapter-4",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 4"
@@ -1923,7 +1863,6 @@
       ]
     },
     {
-      "anchor": "chapter-4-retelling",
       "ribbon": {
         "icon": "picture",
         "label": "Chapter 4 Retelling the story"
@@ -1943,7 +1882,6 @@
       ]
     },
     {
-      "anchor": "chapter-5",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 5"
@@ -2061,7 +1999,6 @@
       ]
     },
     {
-      "anchor": "chapter-5-retelling",
       "ribbon": {
         "icon": "picture",
         "label": "Chapter 5 Retelling the story"
@@ -2081,7 +2018,6 @@
       ]
     },
     {
-      "anchor": "chapter-6",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 6"
@@ -2199,7 +2135,6 @@
       ]
     },
     {
-      "anchor": "chapter-6-retelling",
       "ribbon": {
         "icon": "picture",
         "label": "Chapter 6 Retelling the story"
@@ -2219,7 +2154,6 @@
       ]
     },
     {
-      "anchor": "chapter-7",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 7"
@@ -2337,7 +2271,6 @@
       ]
     },
     {
-      "anchor": "chapter-7-retelling",
       "ribbon": {
         "icon": "picture",
         "label": "Chapter 7 Retelling the story"
@@ -2357,7 +2290,6 @@
       ]
     },
     {
-      "anchor": "chapter-8",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 8"
@@ -2475,7 +2407,6 @@
       ]
     },
     {
-      "anchor": "chapter-8-retelling",
       "ribbon": {
         "icon": "picture",
         "label": "Chapter 8 Retelling the story"
@@ -2495,7 +2426,6 @@
       ]
     },
     {
-      "anchor": "chapter-9",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 9"
@@ -2613,7 +2543,6 @@
       ]
     },
     {
-      "anchor": "chapter-9-retelling",
       "ribbon": {
         "icon": "picture",
         "label": "Chapter 9 Retelling the story"
@@ -2633,7 +2562,6 @@
       ]
     },
     {
-      "anchor": "chapter-10",
       "ribbon": {
         "icon": "snippet",
         "label": "Chapter 10"
@@ -2751,7 +2679,6 @@
       ]
     },
     {
-      "anchor": "chapter-10-retelling",
       "ribbon": {
         "icon": "picture",
         "label": "Chapter 10 Retelling the story"

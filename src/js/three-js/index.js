@@ -1,19 +1,10 @@
-import "/src/css/three-js-logo.css";
+import "@css/three-js-logo.css";
 
 import * as THREE from "three";
-import { RoundedBoxGeometry } from "three/examples/jsm/Addons.js";
-
-const phraseList = [
-  "Hi there!",
-  "How are you doing?",
-  "How's it going?",
-  "What's up?",
-  "How are you?",
-  "How are you feeling?",
-];
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(75, 1, 0.1, 1000);
+camera.position.z = 1.5;
 
 const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
 renderer.setClearColor(0x000000, 0);
@@ -47,13 +38,20 @@ function createTextTexture(text) {
   return new THREE.CanvasTexture(canvas);
 }
 
-// Criar um metrial por face
+const geometry = new THREE.BoxGeometry(1, 1, 1);
+const phraseList = [
+  "Hi there!",
+  "How are you doing?",
+  "How's it going?",
+  "What's up?",
+  "How are you?",
+  "How are you feeling?",
+];
+
+// Cria matrial por face
 const materials = phraseList.map(
   (phrase) => new THREE.MeshBasicMaterial({ map: createTextTexture(phrase) })
 );
-
-// Material compatible with light
-const geometry = new THREE.BoxGeometry(1, 1, 1);
 const cube = new THREE.Mesh(geometry, materials);
 cube.position.y = 0.1
 scene.add(cube);
@@ -75,16 +73,15 @@ directional.shadow.mapSize.width = 1024;
 directional.shadow.mapSize.height = 1024;
 directional.shadow.camera.near = 1;
 directional.shadow.camera.far = 10;
-directional.shadow.camera.left = -2;
-directional.shadow.camera.right = 2;
-directional.shadow.camera.top = 2;
-directional.shadow.camera.bottom = -2;
+directional.shadow.camera.left = -3;
+directional.shadow.camera.right = 3;
+directional.shadow.camera.top = 3;
+directional.shadow.camera.bottom = -3;
 directional.shadow.radius = 15;
 directional.shadow.blurSamples = 16;
 
 scene.add(ambient, directional);
 
-camera.position.z = 1.5;
 
 function animate() {
   cube.rotation.x += 0.01;

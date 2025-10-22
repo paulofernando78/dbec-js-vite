@@ -6,10 +6,13 @@ export default defineConfig({
   },
   resolve: {
     alias: {
+      "@css": "/src/css",
+      "@js": "/src/js",
       "@fonts": "/src/assets/fonts",
       "@images": "/src/assets/images",
       "@audio": "/src/assets/audio",
-      "@components": "/src/components",
+      "@components": "/src/js/components",
+      "@utils": "/src/js/utils",
     },
   }
 });

@@ -1,0 +1,489 @@
+import cssImportsPath from "@css/imports.css?inline";
+import cssExercisePath from "@css/components/templates/exercise.css?inline";
+import { correct, incorrect } from "@images/svg-imports";
+
+const svgIcons = {
+  correct: correct,
+  incorrect: incorrect,
+};
+
+class Exercise extends HTMLElement {
+  constructor() {
+    super();
+    this.attachShadow({ mode: "open" });
+
+    [cssImportsPath, cssExercisePath].forEach((css) => {
+      const style = document.createElement("style");
+      style.textContent = css;
+      this.shadowRoot.appendChild(style);
+    });
+
+    const css = document.createElement("style"); /*css*/
+    css.textContent = `
+      .image-wrapper {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 6px
+      }
+    `;
+    this.shadowRoot.appendChild(css);
+
+    this.exerciseContainer = document.createElement("div");
+    this.exerciseContainer.classList.add("line-break");
+    this.shadowRoot.appendChild(this.exerciseContainer);
+  }
+
+  set data(exercises) {
+    exercises.forEach((section, idx) => {
+      if (section.title) {
+        this._renderTitleDescription(
+          section.title,
+          section.description,
+          section.audioSrc
+        );
+      }
+
+      if (section.texts) {
+        this._renderTexts(section.texts);
+      }
+
+      if (section.images) {
+        this._renderImages(section.images);
+      }
+
+      if (section.guessWord) {
+        this._renderGuessWord(section.guessWord);
+      }
+
+      // if (section.flipCard) {
+      //   this._renderFlipCard(section.flipCard);
+      // }
+
+      if (section.radioExercises) {
+        this._renderRadioExercises(section.radioExercises, idx);
+      }
+
+      if (section.checkboxExercises) {
+        this._renderCheckboxExercises(section.checkboxExercises, idx);
+      }
+
+      if (section.dropdownExercises) {
+        this._renderDropdownExercises(section.dropdownExercises, idx);
+      }
+
+      if (section.fillExercises) {
+        this._renderFillExercises(section.fillExercises);
+      }
+    });
+
+    this.renderButtons();
+  }
+
+  // Title / Description + Audio
+  _renderTitleDescription(title, description, audioSrc) {
+    const titleWrapper = document.createElement("div");
+
+    if (title) {
+      const titleElement = document.createElement("p");
+      titleElement.style.fontWeight = "bold";
+
+      if (audioSrc) {
+        const audio = document.createElement("wc-audio");
+        audio.data = {
+          audioSrc,
+        };
+        titleElement.appendChild(audio);
+      }
+
+      titleElement.appendChild(document.createTextNode(title));
+
+      titleWrapper.appendChild(titleElement);
+    }
+
+    if (description) {
+      const descriptionElement = document.createElement("p");
+      descriptionElement.textContent = description;
+      descriptionElement.style.fontStyle = "italic";
+      titleWrapper.appendChild(descriptionElement);
+    }
+    this.exerciseContainer.appendChild(titleWrapper);
+  }
+
+  // Texts
+  _renderTexts(texts) {
+    texts.forEach((textGroup) => {
+      const textContainer = document.createElement("div");
+      textContainer.style.width = "max-content";
+      textContainer.style.padding = "var(--padding)";
+      textContainer.style.border = "var(--border)";
+      textContainer.style.borderRadius = "var(--border-radius)";
+      textContainer.style.boxShadow = "var(--box-shadow)";
+
+      textGroup.blocks.forEach((block) => {
+        const p = document.createElement("p");
+
+        if (Array.isArray(block.block)) {
+          block.block.forEach((item) => {
+            if (item.text) {
+              const span = document.createElement("span");
+              span.textContent = item.text;
+              p.appendChild(span);
+            }
+          });
+        }
+
+        textContainer.appendChild(p);
+      });
+
+      this.exerciseContainer.appendChild(textContainer);
+    });
+  }
+
+  // Images
+  _renderImages(items) {
+    const imageWrapper = document.createElement("div");
+    imageWrapper.classList.add("image-wrapper");
+
+    items.forEach((item) => {
+      const images = document.createElement("wc-image");
+      images.classList.add("image-wrapper");
+      images.style.display = "flex";
+      images.data = item;
+      imageWrapper.appendChild(images);
+      // console.log("Rendering image:", images.data)
+    });
+    this.exerciseContainer.appendChild(imageWrapper);
+  }
+
+  // Guess Word
+  _renderGuessWord(items) {
+    const guess = document.createElement("wc-guess-word");
+    guess.data = items;
+    this.exerciseContainer.appendChild(guess);
+  }
+
+  //Flip Card
+  // _renderFlipCard(items) {
+  //   const flipCardWrapper = document.createElement("div");
+  //   flipCardWrapper.classList.add("flip-card-container");
+  //   this.exerciseContainer.appendChild(flipCardWrapper);
+
+  //   items.forEach((item) => {
+  //     const flip = document.createElement("wc-flip-card");
+  //     flip.data = item;
+  //     flipCardWrapper.appendChild(flip);
+  //   });
+  // }
+
+  // Radio
+  _renderRadioExercises(items, idxOffset) {
+    items.forEach((item, idx) => {
+      const radioContainer = document.createElement("div");
+      // radioContainer.style.marginBottom = "var(--line-break)";
+      radioContainer.classList.add("radio-exercise-group");
+
+      if (item.question) {
+        const question = document.createElement("p");
+        item.question.forEach((q) => {
+          if (q.audioSrc) {
+            const audio = document.createElement("wc-audio");
+            audio.data = {
+              audioSrc: q.audioSrc,
+            };
+            question.appendChild(audio);
+          }
+
+          if (q.boldText) {
+            const questionBold = document.createElement("span");
+            questionBold.textContent = q.boldText;
+            questionBold.style.fontWeight = "bold";
+            question.appendChild(questionBold);
+          }
+          if (q.text) {
+            const questionText = document.createElement("span");
+            questionText.textContent = q.text;
+            question.appendChild(questionText);
+          }
+
+          if (q.markedText) {
+            const questionMark = document.createElement("mark");
+            questionMark.textContent = q.markedText;
+            questionMark.style.backgroundColor = "var(--yellow-mark)";
+            question.appendChild(questionMark);
+          }
+        });
+        radioContainer.appendChild(question);
+      }
+
+      if (item.options) {
+        item.options.forEach((option, optIdx) => {
+          const optionWrapper = document.createElement("div");
+          optionWrapper.style.display = "flex";
+          optionWrapper.style.alignItems = "start";
+          optionWrapper.style.gap = "8px";
+          optionWrapper.style.marginTop = "10px";
+
+          // input
+          const input = document.createElement("input");
+          input.dataset.correct = option.isCorrect === true ? "true" : "false";
+          input.style.appearance = "none";
+          input.style.WebkitAppearance = "none"; // ???
+          input.style.MozAppearance = "none";
+
+          input.style.backgroundColor = "var(--button-color)";
+          input.style.boxShadow = "var(--neumorphism)";
+          input.style.cursor = "pointer";
+          input.style.minWidth = "20px";
+          input.style.minHeight = "20px";
+          input.style.borderRadius = "50%";
+          input.style.marginTop = "1px";
+          input.style.marginLeft = "3px";
+
+          input.style.position = "relative";
+          input.style.bottom = "1px";
+
+          input.addEventListener("mousedown", () => {
+            input.style.boxShadow = "var(--neumorphism-active)";
+            input.style.transform = "scale(0.95)";
+          });
+
+          input.addEventListener("mouseup", () => {
+            input.style.boxShadow = "var(--neumorphism)";
+            input.style.transform = "scale(1)";
+          });
+
+          // dot
+          const dot = document.createElement("span");
+          dot.style.position = "absolute";
+          dot.style.top = "2px";
+          dot.style.left = "5px";
+          dot.style.width = "15px";
+          dot.style.height = "15px";
+          dot.style.borderRadius = "50%";
+          dot.style.backgroundColor = "#A8A8A8";
+          dot.style.display = "none";
+
+          input.style.position = "relative";
+
+          input.addEventListener("change", () => {
+            const group = input.closest(".radio-exercise-group");
+            const alldots = group.querySelectorAll(".radio-dot");
+            alldots.forEach((p) => (p.style.display = "none"));
+            dot.style.display = "block";
+          });
+
+          dot.classList.add("radio-dot");
+          optionWrapper.style.position = "relative";
+          optionWrapper.appendChild(dot);
+
+          input.type = "radio";
+          input.name = `radio-${idx + idxOffset}`;
+          input.value = option.option;
+          optionWrapper.appendChild(input);
+
+          const label = document.createElement("label");
+          const optionLetter = String.fromCharCode(97 + optIdx); // 97 = 'a'
+          label.textContent = `${optionLetter}) ${option.option}`;
+          optionWrapper.appendChild(label);
+
+          const result = document.createElement("span");
+          result.classList.add("result");
+          result.style.display = "none";
+          label.appendChild(result);
+
+          radioContainer.appendChild(optionWrapper);
+        });
+      }
+
+      this.exerciseContainer.appendChild(radioContainer);
+    });
+  }
+
+  // Checkbox
+  _renderCheckboxExercises(items) {
+    items.forEach((item) => {
+      const checkboxContainer = document.createElement("div");
+      this.exerciseContainer.appendChild(checkboxContainer);
+    });
+  }
+
+  // Dropdown
+  _renderDropdownExercises(items) {
+    items.forEach((item) => {
+      const dropdownContainer = document.createElement("div");
+      this.exerciseContainer.appendChild(dropdownContainer);
+    });
+  }
+
+  // Fill in the blanks
+  _renderFillExercises(items) {
+    const fillContainer = document.createElement("div");
+
+    items.forEach((item) => {
+      if (item.blocks) {
+        item.blocks.forEach((group, groupIndex) => {
+          const fillGroupWrapper = document.createElement("div");
+
+          if (group.lineBreak) {
+            fillGroupWrapper.style.marginBottom = "var(--line-break)";
+          }
+
+          group.block.forEach((inputSet) => {
+            const fillWrapper = document.createElement("div");
+            fillWrapper.style.display = "inline";
+
+            if (inputSet.boldText) {
+              const bold = document.createElement("b");
+              bold.textContent = inputSet.boldText;
+              fillWrapper.appendChild(bold);
+            }
+
+            // text
+            const text = document.createElement("span");
+            text.textContent = inputSet.text;
+            fillWrapper.appendChild(text);
+
+            // input
+            if (inputSet.correctAnswer && inputSet.correctAnswer.length > 0) {
+              const blank = document.createElement("input");
+              const longestAnswer = inputSet.correctAnswer.reduce((a, b) =>
+                a.length > b.length ? a : b
+              );
+              const estimateWidth = `${longestAnswer.length + 2}ch`;
+              blank.style.width = inputSet.width || estimateWidth;
+
+              blank.type = "text";
+              blank.placeholder = inputSet.placeholder || "";
+              blank.style.fontFamily = "courier";
+              blank.style.borderRadius = "var(--border-radius)";
+              blank.style.border = "2px solid lightgray";
+              blank.style.paddingLeft = "5px";
+              blank.style.margin = "0 5px 2px 5px";
+              blank.dataset.answers = inputSet.correctAnswer.join(",");
+              fillWrapper.append(blank);
+            }
+            fillGroupWrapper.appendChild(fillWrapper);
+          });
+
+          fillContainer.appendChild(fillGroupWrapper);
+        });
+      }
+    });
+
+    this.exerciseContainer.appendChild(fillContainer);
+  }
+
+  renderButtons() {
+    const buttonsWrapper = document.createElement("div");
+    buttonsWrapper.style.display = "flex";
+    buttonsWrapper.style.gap = "8px";
+    buttonsWrapper.style.padding = "5px";
+
+    // Check answers
+    const checkAnswersButton = document.createElement("wc-button");
+    checkAnswersButton.setAttribute("data-icon", "check");
+    checkAnswersButton.addEventListener("click", () => {
+      // Radio check answers
+      const containers = this.shadowRoot.querySelectorAll(
+        ".radio-exercise-group"
+      );
+
+      containers.forEach((container) => {
+        const inputs = container.querySelectorAll("input[type='radio']");
+        const results = container.querySelectorAll("span.result");
+
+        inputs.forEach((input, i) => {
+          const isChecked = input.checked;
+          const isRadioCorrect = input.dataset.correct === "true";
+
+          const resultSpan = results[i];
+          if (isChecked && isRadioCorrect) {
+            resultSpan.innerHTML = svgIcons.correct;
+            const svg = resultSpan.querySelector("svg");
+            resultSpan.style.display = "inline";
+            svg.style.verticalAlign = "top";
+            resultSpan.style.position = "relative";
+            resultSpan.style.bottom = "3px";
+          } else if (isChecked) {
+            resultSpan.innerHTML = svgIcons.incorrect;
+            const svg = resultSpan.querySelector("svg");
+            resultSpan.style.display = "inline";
+            svg.style.verticalAlign = "top";
+            resultSpan.style.position = "relative";
+          } else {
+            resultSpan.innerHTML = "";
+            resultSpan.style.display = "";
+          }
+        });
+      });
+
+      // Fill in the blank check answers
+      const fillInputs = this.shadowRoot.querySelectorAll('input[type="text"]');
+
+      fillInputs.forEach((input) => {
+        const userAnswer = input.value.trim();
+
+        const validAnswers = input.dataset.answers
+          .split(",")
+          .map((a) => a.trim());
+        const isFillCorrect = validAnswers.includes(userAnswer);
+        input.style.border = isFillCorrect
+          ? "2px solid green"
+          : "2px solid red";
+      });
+    });
+
+    // const showAnswersButton = document.createElement("wc-button");
+    // showAnswersButton.setAttribute("data-icon", "visibility");
+
+    // Show audio
+    // if (isFillCorrect) {
+    //   const audio = document.createElement("wc-audio");
+    //   this.shadowRoot.appendChild(audio);
+    // }
+
+    // Confetti
+
+    // Reset button
+    const resetButton = document.createElement("wc-button");
+    resetButton.setAttribute("data-icon", "reset");
+
+    resetButton.addEventListener("click", () => {
+      // Radio reset
+      const containers = this.shadowRoot.querySelectorAll(
+        ".radio-exercise-group"
+      );
+
+      containers.forEach((container) => {
+        const inputs = container.querySelectorAll("input[type='radio']");
+        inputs.forEach((input) => {
+          input.checked = false;
+        });
+
+        const results = container.querySelectorAll("span.result");
+        results.forEach((resultSpan) => {
+          resultSpan.innerHTML = "";
+          resultSpan.style.display = "none";
+        });
+
+        const dots = container.querySelectorAll(".radio-dot");
+        dots.forEach((dot) => {
+          dot.style.display = "none";
+        });
+      });
+
+      // Fill reset
+      const fillInputs = this.shadowRoot.querySelectorAll("input[type='text']");
+      fillInputs.forEach((input) => {
+        input.value = "";
+        input.style.borderColor = "lightgray";
+      });
+    });
+
+    buttonsWrapper.append(checkAnswersButton, resetButton);
+    this.exerciseContainer.appendChild(buttonsWrapper);
+  }
+}
+
+export default Exercise;
