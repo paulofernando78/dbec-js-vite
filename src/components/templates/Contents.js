@@ -220,6 +220,24 @@ class Contents extends HTMLElement {
         });
       }
 
+      // Flip Cards
+      if (section.flipCardText) {
+        const flipCardWrapper = document.createElement("div");
+        flipCardWrapper.classList.add("flip-card-container");
+        contentContainer.appendChild(flipCardWrapper);
+
+        const p = document.createElement("p");
+        p.className = "bold";
+        p.textContent = section.flipCard.statement;
+        contentContainer.appendChild(p);
+
+        section.flipCard.forEach((item) => {
+          const flip = document.createElement("wc-flip-card");
+          flip.data = item;
+          flipCardWrapper.appendChild(flip);
+        });
+      }
+
       // Flip Cards Retell
       if (section.flipCardRetell) {
         const p = document.createElement("p");

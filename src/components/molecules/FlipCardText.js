@@ -50,10 +50,18 @@ class FlipCard extends HTMLElement {
     flipCardBack.className = "flip-card-back";
     flipCardInner.appendChild(flipCardBack);
 
+    const backImage = document.createElement("img");
+    backImage.className = "back-image";
+    flipCardBack.appendChild(backImage);
+
     const backText = document.createElement("span");
     backText.className = "back-text";
     backText.textContent = "Back";
     flipCardBack.appendChild(backText);
+
+    const board = document.createElement("textarea");
+    board.placeholder = "Notes";
+    container.appendChild(board);
   }
 
   set data({ ratio, front, back }) {
@@ -80,6 +88,7 @@ class FlipCard extends HTMLElement {
       const backImgEl = backEl.querySelector("img")
 
       if (back.img) {
+        backImgEl.src = back.img || "";
         backImgEl.src = this.style.display = "block";
       } else {
         backImgEl.src = this.style.display = "none";
