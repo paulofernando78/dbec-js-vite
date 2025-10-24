@@ -1,93 +1,119 @@
 import "@css/three-js-logo.css";
 
 import * as THREE from "three";
+import {
+  FontLoader,
+  OrbitControls,
+  TextGeometry,
+} from "three/examples/jsm/Addons.js";
+import { setupResizeObserver } from "../utils/setupRisizeObserver";
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(75, 1, 0.1, 1000);
-camera.position.z = 1.5;
+camera.position.z = 0.52;
 
 const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
 renderer.setClearColor(0x000000, 0);
-
 renderer.shadowMap.enabled = true;
 renderer.shadowMap.type = THREE.VSMShadowMap;
 
 const container = document.getElementById("three-js-logo");
 container.appendChild(renderer.domElement);
 
-// CSS controls it
+// SIZE (CSS controls it)
 renderer.setSize(container.clientWidth, container.clientHeight);
+setupResizeObserver(renderer, camera, container);
 
-function createTextTexture(text) {
-  const canvas = document.createElement("canvas");
-  const ctx = canvas.getContext("2d");
-  canvas.width = 512;
-  canvas.height = 512;
+const group = new THREE.Group();
+group.position.y = -0.1
+scene.add(group);
 
-  // Transparent background
-  ctx.clearRect(0, 0, canvas.width, canvas.height);
-  ctx.fillStyle = "#111";
-  ctx.fillRect(0, 0, canvas.width, canvas.height);
+// Text
+const loader = new FontLoader();
+loader.load("/fonts/Anton_Regular.json", (font) => {
+  //! DAILY BASIS
+  const geometry1 = new TextGeometry("DAILY BASIS", {
+    font: font,
+    size: 0.1,
+    depth: 0.01,
+  });
 
-  ctx.font = "bold 60px Poppins";
-  ctx.fillStyle = "#00ffcc";
-  ctx.textAlign = "center";
-  ctx.textBaseline = "middle";
-  ctx.fillText(text, canvas.width / 2, canvas.height / 2);
+  geometry1.center();
 
-  return new THREE.CanvasTexture(canvas);
-}
+  const material1 = new THREE.MeshStandardMaterial({
+    color: 0x333333,
+    metalness: 0.3, // 0 = fosco, 1 = metálico
+    roughness: 0.4,
+  });
+  const mesh1 = new THREE.Mesh(geometry1, material1);
+  // mesh1.position.y = 0.6;
+  mesh1.castShadow = true;
+  mesh1.receiveShadow = true;
+  scene.add(mesh1);
 
-const geometry = new THREE.BoxGeometry(1, 1, 1);
-const phraseList = [
-  "Hi there!",
-  "How are you doing?",
-  "How's it going?",
-  "What's up?",
-  "How are you?",
-  "How are you feeling?",
-];
+  //! ENGLISH COURSE
+  const geometry2 = new TextGeometry("ENGLISH COURSE", {
+    font: font,
+    size: 0.1,
+    depth: 0.01,
+  });
 
-// Cria matrial por face
-const materials = phraseList.map(
-  (phrase) => new THREE.MeshBasicMaterial({ map: createTextTexture(phrase) })
-);
-const cube = new THREE.Mesh(geometry, materials);
-cube.position.y = 0.1
-scene.add(cube);
+  geometry2.center();
 
-const planeGeometry = new THREE.PlaneGeometry(10, 10);
-const planeMaterial = new THREE.ShadowMaterial({ opacity: 0.3 });
+  const material2 = new THREE.MeshStandardMaterial({
+    color: 0x333333,
+    metalness: 0.3, // 0 = fosco, 1 = metálico
+    roughness: 0.4,
+  });
+  const mesh2 = new THREE.Mesh(geometry2, material2);
+  mesh2.castShadow = true;
+  mesh2.receiveShadow = true;
+  scene.add(mesh2);
+
+  mesh1.position.y = 0.15;
+  group.add(mesh1);
+
+  // mesh2.position.y = -0.3;
+  group.add(mesh2);
+
+  camera.lookAt(group.position);
+});
+
+const planeGeometry = new THREE.PlaneGeometry(5, 5);
+const planeMaterial = new THREE.ShadowMaterial({ opacity: 0.2 });
 const plane = new THREE.Mesh(planeGeometry, planeMaterial);
 plane.rotation.x = -Math.PI / 2;
-plane.position.y = -1;
+plane.position.y = -0.2;
 plane.receiveShadow = true;
 scene.add(plane);
 
 // Ambient light and directional
-const ambient = new THREE.AmbientLight(0xffffff, 0.1);
+const ambient = new THREE.AmbientLight(0xffffff, 0.2);
 const directional = new THREE.DirectionalLight(0xffffff, 1);
 directional.position.set(2, 2, 3);
 directional.castShadow = true;
-directional.shadow.mapSize.width = 1024;
-directional.shadow.mapSize.height = 1024;
-directional.shadow.camera.near = 1;
-directional.shadow.camera.far = 10;
-directional.shadow.camera.left = -3;
-directional.shadow.camera.right = 3;
-directional.shadow.camera.top = 3;
-directional.shadow.camera.bottom = -3;
-directional.shadow.radius = 15;
-directional.shadow.blurSamples = 16;
 
-scene.add(ambient, directional);
+directional.shadow.mapSize.set(2048, 2048);
+(directional.shadow.camera.near = 0.5),
+  (directional.shadow.camera.far = 10),
+  (directional.shadow.camera.left = -3),
+  (directional.shadow.camera.right = 3),
+  (directional.shadow.camera.top = 3),
+  (directional.shadow.camera.bottom = -3);
 
+const point = new THREE.PointLight(0xffddaa, 1.2, 10);
+point.position.set(-1, 0.5, 2);
+
+scene.add(ambient, directional, point);
+
+const controls = new OrbitControls(camera, renderer.domElement);
+controls.enableDamping = true;
 
 function animate() {
-  cube.rotation.x += 0.01;
-  cube.rotation.y += 0.01;
-  cube.castShadow = true;
-
+  requestAnimationFrame(animate);
+  // group.rotation.x += 0.001
+  group.rotation.y = Math.sin(Date.now() * 0.001) * 0.2
+  controls.update();
   renderer.render(scene, camera);
 }
-renderer.setAnimationLoop(animate);
+animate();

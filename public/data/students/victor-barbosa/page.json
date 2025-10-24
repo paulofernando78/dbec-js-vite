@@ -130,9 +130,9 @@
                 {
                   "day": [
                     {
-                      "status": "R",
+                      "status": "ROK",
                       "date": "Thu 2",
-                      "classNotes": "",
+                      "classNotes": "Class moved to Fri 17 15:00-16:00",
                       "homeworkNotes": ""
                     }
                   ]
@@ -170,7 +170,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Thu 16",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -180,9 +180,9 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "R",
                       "date": "Tue 21",
-                      "classNotes": "",
+                      "classNotes": "Class moved to ",
                       "homeworkNotes": ""
                     }
                   ]
@@ -190,7 +190,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Thu 23",
                       "classNotes": "",
                       "homeworkNotes": ""
