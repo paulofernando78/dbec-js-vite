@@ -111,6 +111,13 @@ const flagUSA = new GLTFLoader();
 flagUSA.load("/assets/models/flag-usa.glb", (gltf) => {
   const flagUSAmodel = gltf.scene;
 
+  flagUSAmodel.traverse((child) => {
+    if (child.isMesh) {
+      child.castShadow = true;
+      child.receiveShadow = true;
+    }
+  });
+
   flagUSAmodel.position.set(0.37, 0, 0.1);
   flagUSAmodel.scale.set(0.05, 0.05, 0.05);
   scene.add(flagUSAmodel);
@@ -121,13 +128,20 @@ const flagUK = new GLTFLoader();
 flagUK.load("/assets/models/flag-uk.glb", (gltf) => {
   const flagUKmodel = gltf.scene;
 
+  flagUKmodel.traverse((child) => {
+    if (child.isMesh) {
+      child.castShadow = true;
+      child.receiveShadow = true;
+    }
+  });
+
   flagUKmodel.position.set(0.39, 0, 0.2);
   flagUKmodel.scale.set(0.05, 0.05, 0.05);
   scene.add(flagUKmodel);
 });
 
 //! CAMERA POSITION
-const angle = Math.PI / 7;
+const angle = Math.PI / 7.1;
 const distance = 0.4;
 
 camera.position.set(
@@ -136,9 +150,21 @@ camera.position.set(
   Math.cos(angle) * distance
 );
 
+function updateCameraZoom() {
+  if (window.innerWidth < 600) {
+    camera.position.z = 0.6;
+  } else {
+    camera.position.z = 0.4;
+  }
+  camera.updateProjectionMatrix();
+}
+
+window.addEventListener("resize", updateCameraZoom);
+updateCameraZoom(); //run once initially
+
 const controls = new OrbitControls(camera, renderer.domElement);
 controls.enableDamping = true;
-controls.target.set(0, 0.14, 0)
+controls.target.set(0, 0.14, 0);
 
 function animate() {
   requestAnimationFrame(animate);
