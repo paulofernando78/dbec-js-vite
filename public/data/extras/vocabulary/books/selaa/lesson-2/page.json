@@ -12,7 +12,7 @@
       },
       {
         "icon": "page",
-        "description": "Lesson 1 • "
+        "description": "Lesson 2 • Bob Returns Home With Bad News"
       }
     ]
   },
@@ -20,7 +20,7 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets/audio/vocabulary/books/selaa/lesson-1.mp3"
+        "src": "/assets/audio/extras/vocabulary/books/selaa/lesson-2.mp3"
       }
     },
     {
@@ -34,7 +34,7 @@
                   "icon": "page"
                 },
                 {
-                  "boldText": "Lesson 1 • xxx"
+                  "boldText": "Lesson 2 • Bob Returns Home With Bad News"
                 }
               ],
               "lineBreak": true
@@ -42,7 +42,7 @@
             {
               "block": [
                 {
-                  "text": "xxx"
+                  "text": "Bob tells his wife Susan that he lost his job.Susan suggests that he start his own business."
                 }
               ]
             }
@@ -54,10 +54,10 @@
             {
               "block": [
                 {
-                  "boldText": "xxx: "
+                  "boldText": "Susan: "
                 },
                 {
-                  "text": "..."
+                  "text": "What’s the matter, dear?"
                 }
               ],
               "lineBreak": true
@@ -65,10 +65,164 @@
             {
               "block": [
                 {
-                  "boldText": "xxx: "
+                  "boldText": "Bob: "
                 },
                 {
-                  "text": "..."
+                  "text": "Susan, I got canned today at work."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Susan: "
+                },
+                {
+                  "text": "But Bob, you were Peter’s right-hand man!"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "Yes, and he stabbed me in the back."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Susan: "
+                },
+                {
+                  "text": "Keep your chin up. Maybe he’ll change his mind and take you back."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "When pigs fly! Once he makes up his mind, he never changes it. Besides, I told him off."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Susan: "
+                },
+                {
+                  "text": "Look on the bright side: you won’t have to set eyes on Peter ever again."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "Thank goodness for that!"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Susan: "
+                },
+                {
+                  "text": "Hang in there. I’m sure you won't be out of work for long."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "In the meantime, we’ll have to live from hand to mouth."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Susan: "
+                },
+                {
+                  "text": "Don’t get too stressed out, Bob. We’ll make ends meet."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "I can always get a job at McDonald’s as a last resort."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Susan: "
+                },
+                {
+                  "text": "I don't think they’re hiring right now."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "If worse comes to worst, we can sell our home and move into a tent."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Susan: "
+                },
+                {
+                  "text": "Let’s think big! Maybe you can start your own business."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "Easier said than done!"
                 }
               ],
               "lineBreak": true
@@ -81,15 +235,12 @@
       "ribbon": {
         "bgColor": "var(--gray-3)",
         "textColor": "black",
-        "icon": "exercises",
+        "icon": "exercise",
         "label": "Exercises"
       }
     },
     {
       "exercises": [
-        {
-          "title": "1. Look at the picture and click / tap the letters to guess the word. Don't be afraid of making mistakes."
-        },
         {
           "guessWord": [
             {
@@ -233,20 +384,41 @@
             {
               "question": [
                 {
-                  "text": "2.1 xxx "
+                  "text": "2.1 What's the _____ ? You look upset."
                 }
               ],
               "options": [
                 {
-                  "option": "xxx",
+                  "option": "situation",
                   "isCorrect": false
                 },
                 {
-                  "option": "xxx",
+                  "option": "issue",
+                  "isCorrect": false
+                },
+                {
+                  "option": "matter",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.2 I know I can trust you. You would never stab me in the _____ ."
+                }
+              ],
+              "options": [
+                {
+                  "option": "leg",
+                  "isCorrect": false
+                },
+                {
+                  "option": "back",
                   "isCorrect": true
                 },
                 {
-                  "option": "xxx",
+                  "option": "arm",
                   "isCorrect": false
                 }
               ]
@@ -254,20 +426,62 @@
             {
               "question": [
                 {
-                  "text": "2.2 xxx "
+                  "text": "2.3 If Bob and Susan run out of money, they can always borrow money from Susan's sister as _____ a resort."
                 }
               ],
               "options": [
                 {
-                  "option": "xxx",
+                  "option": "final",
                   "isCorrect": false
                 },
                 {
-                  "option": "xxx",
+                  "option": "first",
+                  "isCorrect": false
+                },
+                {
+                  "option": "last",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.4 You look really stressed _____. Why don't you sit down, relax, and have a cup of tea?"
+                }
+              ],
+              "options": [
+                {
+                  "option": "about",
+                  "isCorrect": false
+                },
+                {
+                  "option": "in",
+                  "isCorrect": false
+                },
+                {
+                  "option": "out",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.5 Bob, everything will be fine. You just need to keep your chin _____ and remember that tomorrow is another day."
+                }
+              ],
+              "options": [
+                {
+                  "option": "up",
                   "isCorrect": true
                 },
                 {
-                  "option": "xxx",
+                  "option": "down",
+                  "isCorrect": false
+                },
+                {
+                  "option": "above",
                   "isCorrect": false
                 }
               ]
@@ -275,20 +489,41 @@
             {
               "question": [
                 {
-                  "text": "2.3 xxx "
+                  "text": "2.6 I just can't make up my _____ whether to order chicken or fish."
                 }
               ],
               "options": [
                 {
-                  "option": "xxx",
+                  "option": "head",
                   "isCorrect": false
                 },
                 {
-                  "option": "xxx",
+                  "option": "brain",
+                  "isCorrect": false
+                },
+                {
+                  "option": "mind",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.7  Nicole accidentally stepped on Ted's guitar. Ted got really angry and told her _____."
+                }
+              ],
+              "options": [
+                {
+                  "option": "off",
                   "isCorrect": true
                 },
                 {
-                  "option": "xxx",
+                  "option": "out",
+                  "isCorrect": false
+                },
+                {
+                  "option": "away",
                   "isCorrect": false
                 }
               ]
@@ -296,104 +531,20 @@
             {
               "question": [
                 {
-                  "text": "2.4 xxx "
+                  "text": "2.8 Your husband left you for his psychologist? Hang _____ there! I'm sure he'll realize she's crazy and then come back to you."
                 }
               ],
               "options": [
                 {
-                  "option": "xxx",
+                  "option": "up",
                   "isCorrect": false
                 },
                 {
-                  "option": "xxx",
+                  "option": "in",
                   "isCorrect": true
                 },
                 {
-                  "option": "xxx",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "2.5 xxx "
-                }
-              ],
-              "options": [
-                {
-                  "option": "xxx",
-                  "isCorrect": false
-                },
-                {
-                  "option": "xxx",
-                  "isCorrect": true
-                },
-                {
-                  "option": "xxx",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "2.6 xxx "
-                }
-              ],
-              "options": [
-                {
-                  "option": "xxx",
-                  "isCorrect": false
-                },
-                {
-                  "option": "xxx",
-                  "isCorrect": true
-                },
-                {
-                  "option": "xxx",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "2.7 xxx "
-                }
-              ],
-              "options": [
-                {
-                  "option": "xxx",
-                  "isCorrect": false
-                },
-                {
-                  "option": "xxx",
-                  "isCorrect": true
-                },
-                {
-                  "option": "xxx",
-                  "isCorrect": false
-                }
-              ]
-            },
-            {
-              "question": [
-                {
-                  "text": "2.8 xxx "
-                }
-              ],
-              "options": [
-                {
-                  "option": "xxx",
-                  "isCorrect": false
-                },
-                {
-                  "option": "xxx",
-                  "isCorrect": true
-                },
-                {
-                  "option": "xxx",
+                  "option": "out",
                   "isCorrect": false
                 }
               ]
