@@ -3,6 +3,7 @@ import "@css/three-js-logo.css";
 import * as THREE from "three";
 import {
   FontLoader,
+  GLTFLoader,
   OrbitControls,
   TextGeometry,
 } from "three/examples/jsm/Addons.js";
@@ -10,7 +11,6 @@ import { setupResizeObserver } from "../utils/setupRisizeObserver";
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(75, 1, 0.1, 1000);
-camera.position.z = 0.52;
 
 const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
 renderer.setClearColor(0x000000, 0);
@@ -24,13 +24,43 @@ container.appendChild(renderer.domElement);
 renderer.setSize(container.clientWidth, container.clientHeight);
 setupResizeObserver(renderer, camera, container);
 
+// Ambient light and directional
+const ambient = new THREE.AmbientLight(0xffffff, 0.2);
+const directional = new THREE.DirectionalLight(0xffffff, 1);
+directional.position.set(2, 2, 3);
+directional.castShadow = true;
+
+directional.shadow.mapSize.set(2048, 2048);
+(directional.shadow.camera.near = 0.5),
+  (directional.shadow.camera.far = 10),
+  (directional.shadow.camera.left = -3),
+  (directional.shadow.camera.right = 3),
+  (directional.shadow.camera.top = 3),
+  (directional.shadow.camera.bottom = -3);
+
+const point = new THREE.PointLight(0xffddaa, 1.2, 10);
+point.position.x = -1;
+point.position.y = 0.5;
+point.position.z = -2;
+
+scene.add(ambient, directional, point);
+
+const planeGeometry = new THREE.PlaneGeometry(5, 5);
+const planeMaterial = new THREE.ShadowMaterial({ opacity: 0.2 });
+const plane = new THREE.Mesh(planeGeometry, planeMaterial);
+plane.rotation.x = -Math.PI / 2; // turns the plane horizontal (like a ground)
+plane.position.y = 0;
+plane.receiveShadow = true;
+scene.add(plane);
+
+//! GROUP
 const group = new THREE.Group();
-group.position.y = -0.1
+group.position.y = 0.1;
 scene.add(group);
 
 // Text
 const loader = new FontLoader();
-loader.load("/fonts/Anton_Regular.json", (font) => {
+loader.load("/assets/fonts/Anton_Regular.json", (font) => {
   //! DAILY BASIS
   const geometry1 = new TextGeometry("DAILY BASIS", {
     font: font,
@@ -71,48 +101,49 @@ loader.load("/fonts/Anton_Regular.json", (font) => {
   scene.add(mesh2);
 
   mesh1.position.y = 0.15;
+
   group.add(mesh1);
-
-  // mesh2.position.y = -0.3;
   group.add(mesh2);
-
-  camera.lookAt(group.position);
 });
 
-const planeGeometry = new THREE.PlaneGeometry(5, 5);
-const planeMaterial = new THREE.ShadowMaterial({ opacity: 0.2 });
-const plane = new THREE.Mesh(planeGeometry, planeMaterial);
-plane.rotation.x = -Math.PI / 2;
-plane.position.y = -0.2;
-plane.receiveShadow = true;
-scene.add(plane);
+//! Flag USA
+const flagUSA = new GLTFLoader();
+flagUSA.load("/assets/models/flag-usa.glb", (gltf) => {
+  const flagUSAmodel = gltf.scene;
 
-// Ambient light and directional
-const ambient = new THREE.AmbientLight(0xffffff, 0.2);
-const directional = new THREE.DirectionalLight(0xffffff, 1);
-directional.position.set(2, 2, 3);
-directional.castShadow = true;
+  flagUSAmodel.position.set(0.37, 0, 0.1);
+  flagUSAmodel.scale.set(0.05, 0.05, 0.05);
+  scene.add(flagUSAmodel);
+});
 
-directional.shadow.mapSize.set(2048, 2048);
-(directional.shadow.camera.near = 0.5),
-  (directional.shadow.camera.far = 10),
-  (directional.shadow.camera.left = -3),
-  (directional.shadow.camera.right = 3),
-  (directional.shadow.camera.top = 3),
-  (directional.shadow.camera.bottom = -3);
+//! Flag UK
+const flagUK = new GLTFLoader();
+flagUK.load("/assets/models/flag-uk.glb", (gltf) => {
+  const flagUKmodel = gltf.scene;
 
-const point = new THREE.PointLight(0xffddaa, 1.2, 10);
-point.position.set(-1, 0.5, 2);
+  flagUKmodel.position.set(0.39, 0, 0.2);
+  flagUKmodel.scale.set(0.05, 0.05, 0.05);
+  scene.add(flagUKmodel);
+});
 
-scene.add(ambient, directional, point);
+//! CAMERA POSITION
+const angle = Math.PI / 7;
+const distance = 0.4;
+
+camera.position.set(
+  -Math.sin(angle) * distance,
+  0.2,
+  Math.cos(angle) * distance
+);
 
 const controls = new OrbitControls(camera, renderer.domElement);
 controls.enableDamping = true;
+controls.target.set(0, 0.14, 0)
 
 function animate() {
   requestAnimationFrame(animate);
   // group.rotation.x += 0.001
-  group.rotation.y = Math.sin(Date.now() * 0.001) * 0.2
+  group.rotation.y = Math.sin(Date.now() * 0.001) * 0.1;
   controls.update();
   renderer.render(scene, camera);
 }
