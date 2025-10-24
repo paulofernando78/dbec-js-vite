@@ -1,10 +1,15 @@
 :root {
   --padding: 5px;
   --line-break: 1rem;
-  --margin-top: 16px;
+  --margin-top: 1rem;
   --margin-right: 5px;
-  --margin-bottom: 16px;
+  --margin-bottom: 1rem;
+  --margin-left: 1rem;
   --margin-left: 5px;
+}
+
+.wc-icon-item {
+  margin-bottom: 4px;
 }
 
 .line-break {
@@ -13,6 +18,19 @@
   gap: 1rem;
 }
 
-.wc-icon-item {
-  margin-bottom: 4px;
+.margin-top {
+  margin-top: var(--margin-top);
 }
+
+.margin-right {
+  margin-right: var(--margin-right);
+}
+
+.margin-bottom {
+  margin-bottom: var(--margin-bottom);
+}
+
+.margin-left {
+  margin-left: var(--margin-left);
+}
+
