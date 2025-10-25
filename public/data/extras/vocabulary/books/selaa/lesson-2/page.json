@@ -57,7 +57,10 @@
                   "boldText": "Susan: "
                 },
                 {
-                  "text": "What’s the matter, dear?"
+                  "markedText": "What’s the matter"
+                },
+                {
+                  "text":	", dear?"
                 }
               ],
               "lineBreak": true
@@ -68,7 +71,13 @@
                   "boldText": "Bob: "
                 },
                 {
-                  "text": "Susan, I got canned today at work."
+                  "text": "Susan, I "
+                },
+                {
+                  "markedText":	"got canned"
+                },
+                {
+                  "text":	" today at work."
                 }
               ],
               "lineBreak": true
@@ -79,7 +88,13 @@
                   "boldText": "Susan: "
                 },
                 {
-                  "text": "But Bob, you were Peter’s right-hand man!"
+                  "text": "But Bob, you were Peter’s "
+                },
+                {
+                  "markedText":	"right-hand man"
+                },
+                {
+                  "text":	"!"
                 }
               ],
               "lineBreak": true
@@ -90,7 +105,13 @@
                   "boldText": "Bob: "
                 },
                 {
-                  "text": "Yes, and he stabbed me in the back."
+                  "text": "Yes, and he "
+                },
+                {
+                  "markedText":	"stabbed me in the back"
+                },
+                {
+                  "text":	"."
                 }
               ],
               "lineBreak": true
