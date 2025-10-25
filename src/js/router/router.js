@@ -6,27 +6,11 @@ const Router = {
 
     inject();
 
-    document.body.addEventListener("click", (e) => {
-      const link = e.target.closest("a");
-      if (!link) return;
-
-      const href = link.getAttribute("href");
-      if (!href) return;
-
-      // 🔹 Se for externo, mailto, ou data-seo, abre normalmente fora da SPA
-      if (
-        href.startsWith("http") ||
-        href.startsWith("mailto:") ||
-        link.hasAttribute("data-seo")
-      ) {
-        e.preventDefault(); // impede o Router.nav
-        window.location.href = href; // força navegação real
-        return;
-      }
-
-      e.preventDefault(); // impede reload
-      Router.nav(href);
-    });
+    const path = window.location.pathname;
+    if (path.startsWith("/pages/")) {
+      // Esta URL é uma página pública real; não monte wc-layout aqui.
+      return;
+    }
 
     document.addEventListener("navigate", (e) => {
       const url = e.detail;

@@ -1,4 +1,5 @@
 import { defineConfig } from "vite";
+import { resolve } from 'path';
 
 export default defineConfig({
   server: {
@@ -14,5 +15,14 @@ export default defineConfig({
       "@components": "/src/js/components",
       "@utils": "/src/js/utils",
     },
-  }
+  },
+  build: {
+    rollupOptions: {
+      input: {
+        home: resolve(__dirname, 'index.html'),
+        sobre: resolve(__dirname, 'pages/sobre.html'),
+        testeNivelamento: resolve(__dirname, 'pages/teste-nivelamento.html'),
+      },
+    },
+  },
 });
