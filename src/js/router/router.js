@@ -6,6 +6,14 @@ const Router = {
 
     inject();
 
+    document.body.addEventListener("click", (e) => {
+      const link = e.target.closest("[data-link]");
+      if (!link) return; // se não tiver data-link, deixa o navegador agir normalmente
+
+      const href = link.getAttribute("href");
+      if (!href) return;
+    });
+
     document.addEventListener("navigate", (e) => {
       const url = e.detail;
       Router.nav(url);
@@ -27,7 +35,7 @@ const Router = {
 
   trackPageview: (path = window.location.pathname) => {
     if (window.__VERCEL_ANALYTICS?.track) {
-      window.__VERCEL_ANALYTICS.track('pageview', { path });
+      window.__VERCEL_ANALYTICS.track("pageview", { path });
     }
   },
 

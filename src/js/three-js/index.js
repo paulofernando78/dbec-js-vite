@@ -20,11 +20,11 @@ renderer.shadowMap.type = THREE.VSMShadowMap;
 const container = document.getElementById("three-js-logo");
 container.appendChild(renderer.domElement);
 
-// SIZE (CSS controls it)
+//! SIZE (CSS controls it)
 renderer.setSize(container.clientWidth, container.clientHeight);
 setupResizeObserver(renderer, camera, container);
 
-// Ambient light and directional
+//! LIGHT: Ambient and directional
 const ambient = new THREE.AmbientLight(0xffffff, 0.2);
 const directional = new THREE.DirectionalLight(0xffffff, 1);
 directional.position.set(2, 2, 3);
@@ -38,6 +38,7 @@ directional.shadow.mapSize.set(2048, 2048);
   (directional.shadow.camera.top = 3),
   (directional.shadow.camera.bottom = -3);
 
+// ! LIGHT: Point
 const point = new THREE.PointLight(0xffddaa, 1.2, 10);
 point.position.x = -1;
 point.position.y = 0.5;
