@@ -13,15 +13,18 @@ const Router = {
       const href = link.getAttribute("href");
       if (!href) return;
 
-      // ❗ Se for externo ou marcado com data-external → não intercepta
+      // 🔹 Se for externo, mailto, ou data-seo, abre normalmente fora da SPA
       if (
         href.startsWith("http") ||
         href.startsWith("mailto:") ||
         link.hasAttribute("data-seo")
-      )
+      ) {
+        e.preventDefault(); // impede o Router.nav
+        window.location.href = href; // força navegação real
         return;
+      }
 
-      e.preventDefault(); // impede o reload
+      e.preventDefault(); // impede reload
       Router.nav(href);
     });
 
