@@ -7,11 +7,22 @@ const Router = {
     inject();
 
     document.body.addEventListener("click", (e) => {
-      const link = e.target.closest("[data-link]");
-      if (!link) return; // se não tiver data-link, deixa o navegador agir normalmente
+      const link = e.target.closest("a");
+      if (!link) return;
 
       const href = link.getAttribute("href");
       if (!href) return;
+
+      // ❗ Se for externo ou marcado com data-external → não intercepta
+      if (
+        href.startsWith("http") ||
+        href.startsWith("mailto:") ||
+        link.hasAttribute("data-seo")
+      )
+        return;
+
+      e.preventDefault(); // impede o reload
+      Router.nav(href);
     });
 
     document.addEventListener("navigate", (e) => {
