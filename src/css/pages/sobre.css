@@ -1,5 +1,5 @@
 .sobre-img {
-  width: clamp(300px, 40vw, 400px);
+  width: clamp(200px, 40vw, 300px);
   margin: 25px auto;
   border-radius: 50%;
   outline: 5px solid var(--gray-1);
