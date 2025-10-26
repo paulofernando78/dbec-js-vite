@@ -1,6 +1,12 @@
-img {
+.sobre-img {
   width: 300px;
   margin: 25px auto;
   border-radius: 50%;
   outline: 5px solid var(--gray-1);
+}
+
+@media (max-width: 768px) {
+  .sobre-img {
+    width: 160px;
+  }
 }
