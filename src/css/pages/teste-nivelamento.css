@@ -1,0 +1,16 @@
+.container {
+  display: block;
+  padding: var(--padding);
+  border-radius: 5px 5px 0 0; 
+  font-weight: bold;
+  border: 1px solid var(--gray-4)
+}
+
+.task-container {
+  padding: var(--padding);
+  border-radius: 0 0 5px 5px;
+  border: 1px solid var(--gray-4);
+  display: grid;
+  grid-template-columns: 100px 1fr 1fr 1fr;
+}
+

@@ -7,10 +7,10 @@
 @import "/src/css/theme/colors.css";
 
 /* Ultilities */
-@import "/src/css/ultilities/borders.css";
-@import "/src/css/ultilities/display.css";
-@import "/src/css/ultilities/spacing.css";
-@import "/src/css/ultilities/text.css";
+@import "/src/css/utilities/borders.css";
+@import "/src/css/utilities/display.css";
+@import "/src/css/utilities/spacing.css";
+@import "/src/css/utilities/text.css";
 
 @import "/src/css/presentation.css";
 @import "/src/css/components.css"

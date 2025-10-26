@@ -47,6 +47,7 @@ import GuessWord from "@components/organisms/GuessWord";
 import Header from "@components/organisms/Header";
 import Layout from "@components/organisms/Layout";
 import NavBar from "@components/organisms/NavBar";
+import TesteNivelamento from "../components/organisms/TesteNivelamento";
 import StudentDashboard from "@components/organisms/StudentDashboard";
 import UnderConstruction from "@components/organisms/UnderConstruction";
 
@@ -114,6 +115,7 @@ customElements.define("wc-guess-word", GuessWord);
 customElements.define("wc-header", Header);
 customElements.define("wc-layout", Layout);
 customElements.define("wc-nav-bar", NavBar);
+customElements.define("wc-teste-nivelamento", TesteNivelamento);
 customElements.define("wc-student-dashboard", StudentDashboard);
 customElements.define("wc-under-construction", UnderConstruction);
 

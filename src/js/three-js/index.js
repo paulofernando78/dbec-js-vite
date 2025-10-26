@@ -9,9 +9,13 @@ import {
 } from "three/examples/jsm/Addons.js";
 import { setupResizeObserver } from "../utils/setupRisizeObserver";
 
+//! SCENE
 const scene = new THREE.Scene();
+
+//! CAMERA
 const camera = new THREE.PerspectiveCamera(75, 1, 0.1, 1000);
 
+//! RENDERER
 const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
 renderer.setClearColor(0x000000, 0);
 renderer.shadowMap.enabled = true;

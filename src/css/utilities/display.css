@@ -1,5 +1,6 @@
 .display-block {
   display: block;
+  white-space: pre-line;
 }
 .display-inline {
   display: inline;
