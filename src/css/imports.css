@@ -13,4 +13,8 @@
 @import "/src/css/utilities/text.css";
 
 @import "/src/css/presentation.css";
-@import "/src/css/components.css"
+@import "/src/css/components.css";
+
+/* Pages */
+@import "/src/css/pages/sobre.css";
+@import "/src/css/pages/teste-nivelamento.css"

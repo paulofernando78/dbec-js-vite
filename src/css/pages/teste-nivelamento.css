@@ -3,15 +3,39 @@
   padding: var(--padding);
   border-radius: 5px 5px 0 0;
   font-weight: bold;
-  border-width: 1px 1px 0 1px;
+  width: max-content;
+  /* Border */
+  border-width: 2px 2px 0 2px;
   border-style: solid;
   border-color: var(--gray-4);
+  margin-top: 1em;
 }
 
 .task-container {
   padding: var(--padding);
-  border-radius: 0 0 5px 5px;
-  border: 1px solid var(--gray-4);
   display: grid;
   grid-template-columns: 100px 1fr 1fr 1fr;
+  background-color: var(--gray-1);
+  /* Border */
+  border-width: 2px 2px 0 2px;
+  border-style: solid;
+  border-color: var(--gray-4);
+}
+
+.container + .task-container {
+  border-radius: 0 5px 0 0;
+}
+
+.task-container:last-child {
+  border-width: 2px;
+  border-style: solid;
+  border-color: var(--gray-4);
+  border-radius: 0 0 5px 5px;
+}
+
+@media (max-width: 768px) {
+  .task-container {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+  }
 }

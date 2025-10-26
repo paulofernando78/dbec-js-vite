@@ -7,7 +7,7 @@ import {
   OrbitControls,
   TextGeometry,
 } from "three/examples/jsm/Addons.js";
-import { setupResizeObserver } from "../utils/setupRisizeObserver";
+import { setupResizeObserver } from "../../utils/setupRisizeObserver";
 
 //! SCENE
 const scene = new THREE.Scene();
