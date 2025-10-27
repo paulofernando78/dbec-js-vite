@@ -142,7 +142,7 @@ class Logo extends HTMLElement {
     });
 
     //! CAMERA POSITION
-    const angle = Math.PI / 7.1;
+    const angle = Math.PI / 15;
     const distance = 0.4;
     camera.position.set(
       -Math.sin(angle) * distance,
@@ -150,8 +150,9 @@ class Logo extends HTMLElement {
       Math.cos(angle) * distance
     );
 
+    //! RESPONSIVE
     function updateCameraZoom() {
-      camera.position.z = window.innerWidth < 600 ? 0.6 : 0.5;
+      camera.position.z = window.innerWidth < 600 ? 0.6 : 0.4;
       camera.updateProjectionMatrix();
     }
     window.addEventListener("resize", updateCameraZoom);
@@ -160,7 +161,7 @@ class Logo extends HTMLElement {
     //! CONTROLS
     const controls = new OrbitControls(camera, renderer.domElement);
     controls.enableDamping = true;
-    controls.target.set(0, 0.14, 0);
+    controls.target.set(0.02, 0.14, 0);
 
     //! ANIMATE
     function animate() {
