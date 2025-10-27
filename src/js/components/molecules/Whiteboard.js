@@ -1,38 +1,21 @@
-import cssImportsPath from "@css/imports.css?inline";
+import styleImports from "@css/imports.css?inline";
+import styleWhiteboard from "@css/components/molecules/whiteboard.css?inline";
 
 class Whiteboard extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
+
+    [styleImports, styleWhiteboard].forEach((imports) => {
+      const style = document.createElement("style");
+      style.textContent = imports
+      this.shadowRoot.appendChild(style);
+    });
   }
 
   set data(whiteboard) {
-    const cssImports = document.createElement("style");
-    cssImports.textContent = cssImportsPath;
-    this.shadowRoot.appendChild(cssImports);
-
-    const css = document.createElement("style"); /*css*/
-    css.textContent = `
-      .container {
-        color: black;
-        padding-left: 5px;
-        border: 8px solid gray;
-        border-radius: 5px;
-        box-shadow: var(--box-shadow);
-        background-image: url("/assets/images/general/whiteboard.png");
-        background-size: cover;
-        background-position: center;
-        margin-bottom: 20px;
-      }
-
-      span {
-        display: block;
-      }
-    `;
-    this.shadowRoot.appendChild(css);
-
     const container = document.createElement("div");
-    container.classList.add("container");
+    container.className = "container";
 
     const title = document.createElement("h1");
     title.textContent = whiteboard.title;

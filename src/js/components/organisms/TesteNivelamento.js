@@ -332,7 +332,7 @@ class TesteNivelamento extends HTMLElement {
     containers.forEach((item) => {
       // Container
       const container = document.createElement("div");
-      container.className = "container";
+      container.className = "nivel-container";
       container.style.backgroundColor = item.bg;
       this.appendChild(container);
 

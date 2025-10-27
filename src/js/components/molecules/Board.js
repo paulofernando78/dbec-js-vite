@@ -1,25 +1,16 @@
-import cssImportsPath from "@css/imports.css?inline";
+import styleImports from "@css/imports.css?inline";
+import styleBoard from "@css/components/molecules/board.css?inline";
 
 class Board extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    const cssImports = document.createElement("style");
-    cssImports.textContent = cssImportsPath;
-    this.shadowRoot.appendChild(cssImports);
-
-    const css = document.createElement("style");
-    /*css*/
-    css.textContent = `
-      textarea {
-        width: 100%;
-        padding: var(--padding);
-        border-radius: var(--border-radius);
-      }
-    `;
-
-    this.shadowRoot.appendChild(css);
+    [styleImports, styleBoard].forEach((imports) => {
+      const cssImports = document.createElement("style");
+      cssImports.textContent = imports;
+      this.shadowRoot.appendChild(cssImports);
+    })
   }
 
   set data(board) {
