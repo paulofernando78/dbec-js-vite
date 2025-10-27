@@ -18,6 +18,7 @@ class FloatingBoard extends HTMLElement {
     wrapper.className = "wrapper";
     this.shadowRoot.appendChild(wrapper);
 
+    // SVG
     const openClose = document.createElement("div");
     openClose.innerHTML = write;
     openClose.className = "open-close";
@@ -25,7 +26,15 @@ class FloatingBoard extends HTMLElement {
     openClose.addEventListener("click", () => {
       const isHidden = getComputedStyle(floatingBoard).display === "none";
       floatingBoard.style.display = isHidden ? "block" : "none";
-      // openClose.innerHTML = isHidden ? arrowDropDown : arrowDropUp;
+
+      // Dispara evento para o Layout
+      this.dispatchEvent(
+        new CustomEvent("toggle-board", {
+          detail: { open: isHidden },
+          bubble: true, // importante para o evento subir até o Layout
+          compose: true,
+        })
+      );
 
       if (isHidden) {
         wrapper.classList.add("wrapper-extended");

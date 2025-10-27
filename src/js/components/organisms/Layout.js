@@ -40,6 +40,11 @@ class Layout extends HTMLElement {
     float.className = "floating-board";
     floatScrollWrapper.appendChild(float);
 
+    float.addEventListener("toggle-board", (e) => {
+      const isOpen = e.detail.open;
+      scrollTop.style.display = isOpen ? "none" : "block";
+    });
+
     // Referência ao container com scroll
     const scrollContainer = app; // já criado anteriormente
 
