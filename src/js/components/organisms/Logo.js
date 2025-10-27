@@ -49,17 +49,24 @@ class Logo extends HTMLElement {
     directional.shadow.camera.top = 3;
     directional.shadow.camera.bottom = -3;
 
-    const point = new THREE.PointLight();
-    point.color.set(0x66ccff);
-    point.intensity = 1.2;
-    point.distance = 8;
-    point.decay = 2;
-    point.position.set(1, 0.2, 1);
+    const point1 = new THREE.PointLight();
+    point1.color.set(0x66ccff);
+    point1.intensity = 1.2;
+    point1.distance = 8;
+    point1.decay = 2;
+    point1.position.set(1, 0.2, 1);
 
-    const pointHelper = new THREE.PointLightHelper(point, 0.1, 0xffddaa);
+    const point2 = new THREE.PointLight();
+    point2.color.set(0xff0000);
+    point2.intensity = 1.2;
+    point2.distance = 8;
+    point2.decay = 2;
+    point2.position.set(1, 0.2, 1);
+
+    const pointHelper = new THREE.PointLightHelper(point1, 0.1, 0xffddaa);
     scene.add(pointHelper);
 
-    scene.add(ambient, directional, point);
+    scene.add(ambient, directional, point1, point2);
 
     //! PLANE
     const planeGeometry = new THREE.PlaneGeometry(5, 5);
@@ -160,7 +167,8 @@ class Logo extends HTMLElement {
       requestAnimationFrame(animate);
       // renderer.setSize(container.clientWidth, container.clientHeight)
       // group.rotation.y = Math.sin(Date.now() * 0.001) * 0.1;
-      point.position.x = Math.sin(Date.now() * 0.001) * 0.8;
+      point1.position.x = Math.sin(Date.now() * 0.001) * 0.8;
+      point2.position.x = Math.sin(Date.now() * -0.001) * 0.8;
       controls.update();
       renderer.render(scene, camera);
     }
