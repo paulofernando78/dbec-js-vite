@@ -5,7 +5,8 @@ import {
   OrbitControls,
   TextGeometry,
 } from "three/examples/jsm/Addons.js";
-import { setupResizeObserver } from "../../utils/setupRisizeObserver";
+import { setupResizeObserver } from "@utils/setupRisizeObserver";
+import "/src/css/logo.css";
 
 class Logo extends HTMLElement {
   constructor() {
@@ -15,7 +16,7 @@ class Logo extends HTMLElement {
   connectedCallback() {
     // cria o container (Light DOM)
     const container = document.createElement("div");
-    container.id = "three-js-logo";
+    container.className = "logo";
     this.appendChild(container);
 
     //! SCENE
@@ -31,6 +32,7 @@ class Logo extends HTMLElement {
     renderer.shadowMap.type = THREE.VSMShadowMap;
     container.appendChild(renderer.domElement);
 
+    //! SIZE
     renderer.setSize(container.clientWidth, container.clientHeight);
     setupResizeObserver(renderer, camera, container);
 
@@ -128,10 +130,14 @@ class Logo extends HTMLElement {
     //! CAMERA POSITION
     const angle = Math.PI / 7.1;
     const distance = 0.4;
-    camera.position.set(-Math.sin(angle) * distance, 0.2, Math.cos(angle) * distance);
+    camera.position.set(
+      -Math.sin(angle) * distance,
+      0.2,
+      Math.cos(angle) * distance
+    );
 
     function updateCameraZoom() {
-      camera.position.z = window.innerWidth < 600 ? 0.6 : 0.4;
+      camera.position.z = window.innerWidth < 600 ? 0.6 : 0.5;
       camera.updateProjectionMatrix();
     }
     window.addEventListener("resize", updateCameraZoom);
@@ -145,6 +151,7 @@ class Logo extends HTMLElement {
     //! ANIMATE
     function animate() {
       requestAnimationFrame(animate);
+      // renderer.setSize(container.clientWidth, container.clientHeight)
       group.rotation.y = Math.sin(Date.now() * 0.001) * 0.1;
       controls.update();
       renderer.render(scene, camera);
