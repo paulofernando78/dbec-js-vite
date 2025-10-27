@@ -1,0 +1,30 @@
+header {
+  height: auto;
+  padding: var(--padding);
+  border: var(--border);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.right-div {
+  display: flex;
+  gap: 9px;
+  margin-right: 4px;
+}
+
+.home,
+.left-button,
+.right-button {
+  position: relative;
+  top: 2px;
+  left: 2px;
+}
+
+@media (min-width: 778px) {
+  #menu-button {
+    display: none;
+  }
+}

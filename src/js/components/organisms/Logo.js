@@ -54,14 +54,14 @@ class Logo extends HTMLElement {
     point1.intensity = 1.2;
     point1.distance = 8;
     point1.decay = 2;
-    point1.position.set(1, 0.2, 1);
+    point1.position.set(1, 0.4, 1);
 
     const point2 = new THREE.PointLight();
     point2.color.set(0xff0000);
     point2.intensity = 1.2;
     point2.distance = 8;
     point2.decay = 2;
-    point2.position.set(1, 0.2, 1);
+    point2.position.set(1, -0.1, 1);
 
     const pointHelper = new THREE.PointLightHelper(point1, 0.1, 0xffddaa);
     scene.add(pointHelper);

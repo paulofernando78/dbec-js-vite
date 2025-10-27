@@ -1,67 +1,51 @@
+import styleHome from "/src/css/components/organisms/header.css?inline";
+
 class Header extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    const css = document.createElement("style"); /*css*/
-    css.textContent = `
-      header {
-        height: auto;
-        padding: var(--padding);
-        border: var(--border);
-        border-radius: var(--border-radius);
-        box-shadow: var(--box-shadow);
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-      }
-
-      .left-button {
-        position: relative;
-        top: 2px;
-        left: 2px;
-      }
-
-       .right-button {
-        position: relative;
-        top: 2px;
-        right: 2px;
-        margin-left: 9px
-      }
-
-      @media (min-width: 778px) {
-        #menu-button {
-          display: none;
-        }
-      }
-    `;
-    this.shadowRoot.appendChild(css);
+    const style = document.createElement("style");
+    style.textContent = styleHome;
+    this.shadowRoot.appendChild(style);
 
     const header = document.createElement("header");
+
+    // Home
+    const home = document.createElement("wc-button");
+    home.className = "home";
+    home.setAttribute("data-icon", "home");
+    header.appendChild(home);
 
     // --- Left div ---
     const leftDiv = document.createElement("div");
     const menuButton = document.createElement("wc-button");
     menuButton.setAttribute("data-icon", "menu");
-    menuButton.classList.add("left-button");
+    menuButton.className = "left-button";
     menuButton.id = "menu-button";
     leftDiv.appendChild(menuButton);
 
-    // --- Righ div ---
+    // --- Right div ---
     const rightDiv = document.createElement("div");
-
-    const darkModeBtn = document.createElement("wc-button");
-    darkModeBtn.setAttribute("data-icon", "darkMode");
-    darkModeBtn.classList.add("right-button");
-
-    const loginBtn = document.createElement("wc-button");
-    loginBtn.setAttribute("data-icon", "login");
-    loginBtn.classList.add("right-button");
-    // loginBtn.style.display = "none";
+    rightDiv.className = "right-div"
     
+    //! Dark Mode
+    const darkModeBtn = document.createElement("wc-button");
+    darkModeBtn.className = "right-button";
+    darkModeBtn.id = "dark-mode",
+    darkModeBtn.setAttribute("data-icon", "darkMode");
+
+    //! Login
+    const loginBtn = document.createElement("wc-button");
+    loginBtn.className = "right-button";
+    loginBtn.id = "login",
+    loginBtn.setAttribute("data-icon", "login");
+
+    //! Logout
     const logoutBtn = document.createElement("wc-button");
+    logoutBtn.className = "right-button";
+    logoutBtn.id = "logout",
     logoutBtn.setAttribute("data-icon", "logout");
-    logoutBtn.classList.add("right-button");
 
     rightDiv.append(darkModeBtn, loginBtn, logoutBtn);
 
@@ -79,8 +63,26 @@ class Header extends HTMLElement {
   };
 
   connectedCallback() {
-    const menuBtn = this.shadowRoot.querySelector("#menu-button");
+    // Home
+    const home = this.shadowRoot.querySelector("[data-icon=home]");
+    home.addEventListener("click", () => {
+      window.location.href = "/";
 
+    });
+    if (
+      home &&
+      (
+        window.location.pathname.endsWith("/pages/sobre.html") ||
+        window.location.pathname.endsWith("/pages/teste-nivelamento.html")
+      )
+    ) {
+      home.style.display = "inline-block";
+    } else if (home) {
+      home.style.display = "none";
+    }
+
+    // Menu
+    const menuBtn = this.shadowRoot.querySelector("#menu-button");
     if (menuBtn) {
       menuBtn.addEventListener("click", () => {
         const layout = document.querySelector("wc-layout");
@@ -95,40 +97,36 @@ class Header extends HTMLElement {
 
     // Dark Mode
     const darkMode = this.shadowRoot.querySelector("[data-icon=darkMode]");
-    if (darkMode) {
-      darkMode.addEventListener("click", () => {
-        document.body.classList.toggle("dark");
+    darkMode.addEventListener("click", () => {
+      document.body.classList.toggle("dark");
 
-        const isDark = document.body.classList.contains("dark");
-        
-        // Updates button icon
-        darkMode.setIcon(isDark ? "lightMode" : "darkMode");
+      const isDark = document.body.classList.contains("dark");
 
-        // Saving at Local Storage 
-        localStorage.setItem("theme", isDark ? "dark" : "light")
-      });
-    }
+      // Updates button icon
+      darkMode.setIcon(isDark ? "lightMode" : "darkMode");
 
+      // Saving at Local Storage
+      localStorage.setItem("theme", isDark ? "dark" : "light");
+    });
+
+    // Login
     const login = this.shadowRoot.querySelector("[data-icon=login]");
-    
-      login.addEventListener("click", () => {
-        const navigateEvent = new CustomEvent("navigate", {
-          detail: "/dashboard",
-        });
-        this.dispatchEvent(navigateEvent);
+    login.addEventListener("click", () => {
+      const navigateEvent = new CustomEvent("navigate", {
+        detail: "/dashboard",
       });
+      this.dispatchEvent(navigateEvent);
+    });
 
-      if (login && window.location.pathname !== "/") {
-        login.style.display = "none";
-      }
-    
-
-    const logout = this.shadowRoot.querySelector("[data-icon=logout]");
-    if (logout) {
-      logout.addEventListener("click", () => {
-        window.location.href = "/";
-      });
+    if (login && window.location.pathname !== "/") {
+      login.style.display = "none";
     }
+
+    // Logout
+    const logout = this.shadowRoot.querySelector("[data-icon=logout]");
+    logout.addEventListener("click", () => {
+      window.location.href = "/";
+    });
 
     // Local Storage
     const savedTheme = localStorage.getItem("theme");
@@ -137,7 +135,7 @@ class Header extends HTMLElement {
 
       const darkModeBtn = this.shadowRoot.querySelector("[data-icon=darkMode]");
       if (darkModeBtn) {
-        darkModeBtn.setIcon("lightMode")
+        darkModeBtn.setIcon("lightMode");
       }
     }
   }

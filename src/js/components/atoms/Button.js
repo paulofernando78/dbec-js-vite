@@ -1,4 +1,5 @@
 import {
+  home,
   login,
   logout,
   menu,
@@ -26,6 +27,7 @@ const svgIcons = {
   reset: reset,
   close: close,
   save: save,
+  home: home
 };
 
 class Button extends HTMLElement {
