@@ -37,7 +37,7 @@ class Logo extends HTMLElement {
     setupResizeObserver(renderer, camera, container);
 
     //! LIGHTS
-    const ambient = new THREE.AmbientLight(0xffffff, 0.2);
+    const ambient = new THREE.AmbientLight(0xffffff, 1);
     const directional = new THREE.DirectionalLight(0xffffff, 1);
     directional.position.set(2, 2, 3);
     directional.castShadow = true;
@@ -49,8 +49,15 @@ class Logo extends HTMLElement {
     directional.shadow.camera.top = 3;
     directional.shadow.camera.bottom = -3;
 
-    const point = new THREE.PointLight(0xffddaa, 1.2, 10);
-    point.position.set(-1, 0.5, -2);
+    const point = new THREE.PointLight();
+    point.color.set(0x66ccff);
+    point.intensity = 1.2;
+    point.distance = 8;
+    point.decay = 2;
+    point.position.set(1, 0.2, 1);
+
+    const pointHelper = new THREE.PointLightHelper(point, 0.1, 0xffddaa);
+    scene.add(pointHelper);
 
     scene.add(ambient, directional, point);
 
@@ -152,7 +159,8 @@ class Logo extends HTMLElement {
     function animate() {
       requestAnimationFrame(animate);
       // renderer.setSize(container.clientWidth, container.clientHeight)
-      group.rotation.y = Math.sin(Date.now() * 0.001) * 0.1;
+      // group.rotation.y = Math.sin(Date.now() * 0.001) * 0.1;
+      point.position.x = Math.sin(Date.now() * 0.001) * 0.8;
       controls.update();
       renderer.render(scene, camera);
     }
