@@ -52,7 +52,7 @@
           "card": true,
           "images": [
             {
-              "width": "218px",
+              "width": "",
               "position": "",
               "src": "/assets/images/general/books(not-many).avif",
               "alt": "not many books"
@@ -829,7 +829,7 @@
     {
       "exercises": [
         {
-          "title": "8.1 Wrtie much or many."
+          "title": "8.1 Write much or many."
         },
         {
           "fillExercises": [
@@ -854,7 +854,7 @@
                       "correctAnswer": ["many"]
                     },
                     {
-                      "text":	"hotels in this town."
+                      "text": "hotels in this town."
                     }
                   ]
                 },
@@ -865,7 +865,7 @@
                       "correctAnswer": ["much"]
                     },
                     {
-                      "text":	"gas. We need to stop and get some."
+                      "text": "gas. We need to stop and get some."
                     }
                   ]
                 },
@@ -876,7 +876,7 @@
                       "correctAnswer": ["many"]
                     },
                     {
-                      "text":	"people on the train?"
+                      "text": "people on the train?"
                     }
                   ]
                 },
@@ -887,7 +887,7 @@
                       "correctAnswer": ["many"]
                     },
                     {
-                      "text":	"students fail the exam?"
+                      "text": "students fail the exam?"
                     }
                   ]
                 },
@@ -898,7 +898,7 @@
                       "correctAnswer": ["much"]
                     },
                     {
-                      "text":	"money."
+                      "text": "money."
                     }
                   ]
                 },
@@ -909,7 +909,7 @@
                       "correctAnswer": ["much"]
                     },
                     {
-                      "text":	"."
+                      "text": "."
                     }
                   ]
                 },
@@ -920,7 +920,7 @@
                       "correctAnswer": ["many"]
                     },
                     {
-                      "text":	"years."
+                      "text": "years."
                     }
                   ]
                 },
@@ -938,7 +938,7 @@
                       "correctAnswer": ["How many"]
                     },
                     {
-                      "text":	"people are coming to the store?"
+                      "text": "people are coming to the store?"
                     }
                   ]
                 },
@@ -949,7 +949,7 @@
                       "correctAnswer": ["How much"]
                     },
                     {
-                      "text":	"milk should I get at the store?"
+                      "text": "milk should I get at the store?"
                     }
                   ]
                 },
@@ -960,7 +960,7 @@
                       "correctAnswer": ["How much"]
                     },
                     {
-                      "text":	"bread did you buy?"
+                      "text": "bread did you buy?"
                     }
                   ]
                 },
@@ -971,53 +971,7 @@
                       "correctAnswer": ["How many"]
                     },
                     {
-                      "text":	"players are there on the football team?"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "exercises": [
-            {
-              "title": "Fill in the blanks with the correct answer.",
-              "description": "Description"
-            },
-            {
-              "images": [
-                {
-                  "width": "200px",
-                  "number": "1",
-                  "src": "",
-                  "alt": "..."
-                },
-                {
-                  "width": "200px",
-                  "number": "2",
-                  "src": "",
-                  "alt": "..."
-                },
-                {
-                  "width": "200px",
-                  "number": "3",
-                  "src": "",
-                  "alt": "..."
-                }
-              ]
-            },
-            {
-              "fillExercises": [
-                {
-                  "blocks": [
-                    {
-                      "block": [
-                        {
-                          "text": "...",
-                          "correctAnswer": ["..."]
-                        }
-                      ]
+                      "text": "players are there on the football team?"
                     }
                   ]
                 }
@@ -1036,48 +990,64 @@
                 {
                   "block": [
                     {
-                      "text": "1. ",
-                      "correctAnswer": ["..."]
+                      "text": "1. I don’t read very much. I don’t have",
+                      "placeholder": "many books",
+                      "correctAnswer": ["many books"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "2. ",
-                      "correctAnswer": ["..."]
+                      "text": "2. Hurry up! We don’t have",
+                      "correctAnswer": ["much time"]
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "3. ",
-                      "correctAnswer": ["..."]
+                      "text": "3. Do you travel a lot? Have you been to",
+                      "correctAnswer": ["many countries"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "4. ",
-                      "correctAnswer": ["..."]
+                      "text": "4. Hanah hasn’t lived here very long, so she doesn’t know",
+                      "correctAnswer": ["many countries"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "5. ",
-                      "correctAnswer": ["..."]
+                      "text": "5. “Do you have",
+                      "correctAnswer": ["much luggage"]
+                    },
+                    {
+                      "text": "? ” “No, only this bag.”"
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "6. ",
-                      "correctAnswer": ["..."]
+                      "text": "6. I don’t know New York very well. I haven’t been there",
+                      "correctAnswer": ["many times"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 }
@@ -1096,64 +1066,56 @@
                 {
                   "block": [
                     {
-                      "text": "1. ",
-                      "correctAnswer": ["..."]
+                      "text": "1. I like reading. I have",
+                      "placeholder": "many books",
+                      "correctAnswer": ["many books"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "2. ",
-                      "correctAnswer": ["..."]
+                      "text": "2. We enjoyed our visit to the museum. We saw",
+                      "correctAnswer": ["a lot of interesting things"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "3. ",
-                      "correctAnswer": ["..."]
+                      "text": "3. This road is very dangerous. There are",
+                      "correctAnswer": ["a lot of accidents"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "4. ",
-                      "correctAnswer": ["..."]
+                      "text": "4. We enjoyed our vacation. We had",
+                      "correctAnswer": ["a lot of fun"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "5. ",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
+                      "text": "5. It took me a long time to drive here. There was",
+                      "correctAnswer": ["a lot of traffic"]
+                    },
                     {
-                      "text": "6. ",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "7. ",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "8. ",
-                      "correctAnswer": ["..."]
+                      "text": "."
                     }
                   ]
                 }
@@ -1165,57 +1127,122 @@
           "title": "8.4 In some of these sentences much is not natural. Change the sentences or write OK."
         },
         {
-          "fillExercises": [
+          "radioExercises": [
             {
-              "blocks": [
+              "question": [
                 {
-                  "block": [
-                    {
-                      "text": "1. ",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
+                  "text": "1. Do you drink ",
+                  "markedText": "much coffee"
                 },
                 {
-                  "block": [
-                    {
-                      "text": "2. ",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "3. ",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "4. ",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "5. ",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
-                },
-                {
-                  "block": [
-                    {
-                      "text": "6. ",
-                      "correctAnswer": ["..."]
-                    }
-                  ]
+                  "text":	"?"
                 }
+              ],
+              "options": [
+                { "option": "OK", "isCorrect": true },
+                { "option": "Not OK", "isCorrect": false }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2. Do you drink ",
+                  "markedText": "much tea"
+                },
+                {
+                  "text":	"?"
+                }
+              ],
+              "options": [
+                { "option": "OK", "isCorrect": false },
+                { "option": "Not OK", "isCorrect": true }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "3 It was a cold winter. We had ",
+                  "markedText": "much snow"
+                },
+                {
+                  "text":	"."
+                }
+              ],
+              "options": [
+                { "option": "OK", "isCorrect": false },
+                { "option": "Not OK", "isCorrect": true }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "4. There wasn’t ",
+                  "markedText": "much snow"
+                },
+                {
+                  "text":	" last winter."
+                }
+              ],
+              "options": [
+                { "option": "OK", "isCorrect": true },
+                { "option": "Not OK", "isCorrect": false }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "5. It costs ",
+                  "markedText": "much money"
+                },
+                {
+                  "text":	"to travel around the world."
+                }
+              ],
+              "options": [
+                { "option": "OK", "isCorrect": false },
+                { "option": "Not OK", "isCorrect": true }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "6. This pen was cheap. It didn’t cost ",
+                  "markedText": "much"
+                }
+              ],
+              "options": [
+                { "option": "OK", "isCorrect": true },
+                { "option": "Not OK", "isCorrect": false }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "7. Do you know ",
+                  "markedText": "much"
+                },
+                {
+                  "text":	"about computers?"
+                }
+              ],
+              "options": [
+                { "option": "OK", "isCorrect": true },
+                { "option": "Not OK", "isCorrect": false }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "8. “Do you have any luggage?” “Yes, ”",
+                  "markedText": "much"
+                },
+                {
+                  "text":	"."
+                }
+              ],
+              "options": [
+                { "option": "OK", "isCorrect": false },
+                { "option": "Not OK", "isCorrect": true }
               ]
             }
           ]
@@ -1230,48 +1257,49 @@
                 {
                   "block": [
                     {
-                      "text": "1. ",
-                      "correctAnswer": ["..."]
+                      "text": "1. Jake loves movies. (go to the movies)",
+                      "placeholder": "He goes to the movies a lot.",
+                      "correctAnswer": ["He goes to the movies a lot."]
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "2. ",
-                      "correctAnswer": ["..."]
+                      "text": "2. Nicole thinks TV is boring. (watch TV)",
+                      "correctAnswer": ["She does not watch TV.", "She doesn’t watch TV.", "She doesn't watch TV."]
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "3. ",
-                      "correctAnswer": ["..."]
+                      "text": "3. Lauren is a good tennis player, (play tennis)",
+                      "correctAnswer": ["She plays tennis a lot."]
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "4. ",
-                      "correctAnswer": ["..."]
+                      "text": "4. Nick doesn’t like to drive. (use his car)",
+                      "correctAnswer": ["She does not use her car a lot.", "She doesn’t use her car a lot.", "She doesn't use her car a lot."]
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "5. ",
-                      "correctAnswer": ["..."]
+                      "text": "5. Matt spends most of the time at home. (go out)",
+                      "correctAnswer": ["He does not go out a lot.", "He doesn’t go out a lot.", "He doesn't go out a lot."]
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "6. ",
-                      "correctAnswer": ["..."]
+                      "text": "6. Sue has been all over the world. (travel)",
+                      "correctAnswer": ["She travels a lot."]
                     }
                   ]
                 }
