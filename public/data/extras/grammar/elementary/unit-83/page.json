@@ -34,7 +34,7 @@
             {
               "width": "",
               "position": "",
-              "src": "/assets/images/general/",
+              "src": "/assets/images/general/books.avif",
               "alt": ""
             }
           ],
@@ -42,7 +42,7 @@
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "boldText": "many books / A lot of books"
                 }
               ]
             }
@@ -52,37 +52,17 @@
           "card": true,
           "images": [
             {
-              "width": "",
+              "width": "218px",
               "position": "",
-              "src": "/assets/images/general/",
-              "alt": ""
+              "src": "/assets/images/general/books(not-many).avif",
+              "alt": "not many books"
             }
           ],
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "..."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "card": true,
-          "images": [
-            {
-              "width": "",
-              "position": "",
-              "src": "/assets/images/general/",
-              "alt": ""
-            }
-          ],
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
+                  "boldText": "not many books"
                 }
               ]
             }
@@ -111,7 +91,19 @@
             {
               "block": [
                 {
-                  "text": "(many books / manay people, etc.)"
+                  "text": "("
+                },
+                {
+                  "boldText": "many books"
+                },
+                {
+                  "text": " / "
+                },
+                {
+                  "boldText": "many people"
+                },
+                {
+                  "text": " , etc.)"
                 }
               ],
               "lineBreak": true
@@ -122,7 +114,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "Did you buy many books?"
+                  "text": "Did you buy "
+                },
+                {
+                  "markedText": "many books?"
+                },
+                {
+                  "text": "?"
                 }
               ]
             },
@@ -132,7 +130,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "We don't know many people."
+                  "text": "We don't know "
+                },
+                {
+                  "markedText": "many people."
+                },
+                {
+                  "text": "."
                 }
               ]
             },
@@ -143,7 +147,13 @@
                 },
 
                 {
-                  "text": "How many photos did you take?"
+                  "text": "How "
+                },
+                {
+                  "markedText": "many photos"
+                },
+                {
+                  "text": " did you take?"
                 }
               ]
             },
@@ -156,7 +166,13 @@
                   "text": "A: Did you take any photos? "
                 },
                 {
-                  "text": "B: I took some, but not many."
+                  "text": "B: I took some, but "
+                },
+                {
+                  "markedText": "not many"
+                },
+                {
+                  "text": "."
                 }
               ]
             }
@@ -173,7 +189,7 @@
             {
               "width": "",
               "position": "",
-              "src": "/assets/images/general/",
+              "src": "/assets/images/general/money.avif",
               "alt": ""
             }
           ],
@@ -181,7 +197,7 @@
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "boldText": "*much money? / a lot of money"
                 }
               ]
             }
@@ -193,7 +209,7 @@
             {
               "width": "",
               "position": "",
-              "src": "/assets/images/general/",
+              "src": "/assets/images/general/money(not-much).avif",
               "alt": ""
             }
           ],
@@ -201,27 +217,7 @@
             {
               "block": [
                 {
-                  "boldText": "..."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "card": true,
-          "images": [
-            {
-              "width": "",
-              "position": "",
-              "src": "/assets/images/general/",
-              "alt": ""
-            }
-          ],
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "..."
+                  "boldText": "not much money"
                 }
               ]
             }
@@ -250,7 +246,19 @@
             {
               "block": [
                 {
-                  "text": "(much food / much money, etc.)"
+                  "text": "("
+                },
+                {
+                  "boldText": "much food"
+                },
+                {
+                  "text": " / "
+                },
+                {
+                  "boldText": "much money, etc"
+                },
+                {
+                  "text": ".)"
                 }
               ],
               "lineBreak": true
@@ -261,7 +269,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "Did you buy much food?"
+                  "text": "Did you buy "
+                },
+                {
+                  "markedText": "much food"
+                },
+                {
+                  "text": "?"
                 }
               ]
             },
@@ -271,7 +285,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "We don't have much luggage."
+                  "text": "We don't "
+                },
+                {
+                  "markedText": "have much"
+                },
+                {
+                  "text": " luggage."
                 }
               ]
             },
@@ -281,7 +301,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "How much money do you want?"
+                  "text": "How "
+                },
+                {
+                  "markedText": "much money"
+                },
+                {
+                  "text": " do you want?"
                 }
               ]
             },
@@ -291,7 +317,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "A: Do you have any money? B: I have some, but not much."
+                  "text": "A: Do you have any money? B: I have some, but "
+                },
+                {
+                  "markedText": "not much"
+                },
+                {
+                  "text": "."
                 }
               ]
             }
@@ -311,7 +343,7 @@
                   "text": "We use "
                 },
                 {
-                  "boldText": "a lot of "
+                  "markedText": "a lot of "
                 },
                 {
                   "text": "+ both types of noun"
@@ -325,7 +357,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "We bought a lot of food."
+                  "text": "We bought "
+                },
+                {
+                  "markedText": "a lot of food"
+                },
+                {
+                  "text": "."
                 }
               ]
             },
@@ -336,6 +374,12 @@
                 },
                 {
                   "text": "Paula doesn’t have a lot of free time."
+                },
+                {
+                  "markedText": ""
+                },
+                {
+                  "text": ""
                 }
               ]
             },
@@ -346,6 +390,12 @@
                 },
                 {
                   "text": "We bought a lot of books."
+                },
+                {
+                  "markedText": ""
+                },
+                {
+                  "text": ""
                 }
               ]
             },
@@ -356,6 +406,12 @@
                 },
                 {
                   "text": "Did they ask a lot of questions?"
+                },
+                {
+                  "markedText": ""
+                },
+                {
+                  "text": ""
                 }
               ],
               "lineBreak": true
@@ -369,25 +425,25 @@
                   "text": "There "
                 },
                 {
-                  "markedText": "is"
+                  "underlinedText": "is"
                 },
                 {
-                  "text": " a lot of "
+                  "text": " "
                 },
                 {
-                  "boldText": "food"
-                },
-                {
-                  "text": " / "
-                },
-                {
-                  "boldText": "money"
+                  "markedText": "a lot of food"
                 },
                 {
                   "text": " / "
                 },
                 {
-                  "boldText": "water"
+                  "markedText": "money"
+                },
+                {
+                  "text": " / "
+                },
+                {
+                  "markedText": "water"
                 },
                 {
                   "text": ". "
@@ -403,22 +459,28 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "There are a lot of "
+                  "text": "There "
                 },
                 {
-                  "boldText": "tress"
+                  "underlinedText": "are"
+                },
+                {
+                  "text": " "
+                },
+                {
+                  "markedText": "a lot of trees"
                 },
                 {
                   "text": " / "
                 },
                 {
-                  "boldText": "stores"
+                  "markedText": "stores"
                 },
                 {
                   "text": " / "
                 },
                 {
-                  "boldText": "people"
+                  "markedText": "people"
                 },
                 {
                   "text": "."
@@ -431,7 +493,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "A lot of people speak English."
+                  "text": "A "
+                },
+                {
+                  "markedText": "lot of people"
+                },
+                {
+                  "text": " speak English."
                 }
               ]
             }
@@ -476,7 +544,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "Do you have many friends?"
+                  "text": "Do you have ?"
+                },
+                {
+                  "markedText": "many friends"
+                },
+                {
+                  "text": "?"
                 }
               ]
             },
@@ -486,7 +560,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "We don't have many friends."
+                  "text": "We don't have "
+                },
+                {
+                  "markedText": "many friends"
+                },
+                {
+                  "text": "."
                 }
               ]
             },
@@ -496,7 +576,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "Do you drink much coffee?"
+                  "text": "Do you drink "
+                },
+                {
+                  "markedText": "much coffee"
+                },
+                {
+                  "text": "?"
                 }
               ]
             },
@@ -506,7 +592,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "I don't drink much coffee."
+                  "text": "I don't drink "
+                },
+                {
+                  "markedText": "much coffee"
+                },
+                {
+                  "text": "."
                 }
               ],
               "lineBreak": true
@@ -520,7 +612,7 @@
                   "boldText": "a lot of"
                 },
                 {
-                  "text": " in all types of sentences (affirmative, negative, and questios)."
+                  "text": " in all types of sentences (affirmative, negative, and questions)."
                 }
               ],
               "lineBreak": true
@@ -531,7 +623,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "I drink a lot of coffee "
+                  "text": "I drink "
+                },
+                {
+                  "markedText": "a lot of coffee"
+                },
+                {
+                  "text": "."
                 }
               ]
             },
@@ -541,7 +639,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "We don’t have a lot of friends "
+                  "text": "We don’t have "
+                },
+                {
+                  "markedText": "a lot of friends"
+                },
+                {
+                  "text": "."
                 }
               ]
             },
@@ -551,7 +655,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "Do you know a lot of people? "
+                  "text": "Do you know "
+                },
+                {
+                  "markedText": "a lot of people"
+                },
+                {
+                  "text": "?"
                 }
               ],
               "lineBreak": true
@@ -559,7 +669,10 @@
             {
               "block": [
                 {
-                  "text": "Much is especially unusual in affirmative sentences:"
+                  "boldText": "Much"
+                },
+                {
+                  "text": " is especially unusual in affirmative sentences:"
                 }
               ],
               "lineBreak": true
@@ -570,7 +683,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "I eat a lot of fruit. ("
+                  "text": "I eat "
+                },
+                {
+                  "markedText": "a lot of fruit"
+                },
+                {
+                  "text": ". ("
                 },
                 {
                   "italicText": "not much fruit"
@@ -586,10 +705,13 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "“Do you eat much fruit?” “Yes, a lot”"
+                  "text": "“Do you eat "
                 },
                 {
-                  "markedText": ""
+                  "markedText": "much fruit"
+                },
+                {
+                  "text": "”?” “Yes, a lot."
                 }
               ],
               "lineBreak": true
@@ -614,20 +736,81 @@
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "text": "We can use "
                 },
                 {
-                  "text": ""
+                  "boldText": "much"
+                },
+                {
+                  "text": " and "
+                },
+                {
+                  "boldText": "a lot"
+                },
+                {
+                  "text": " without a noun:"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "Rachel spoke to me, but she didn’t say "
+                },
+                {
+                  "markedText": "much"
+                },
+                {
+                  "text": "."
                 }
               ]
             },
             {
               "block": [
                 {
-                  "text": "... "
+                  "text": "“Do you watch TV "
                 },
                 {
-                  "ptText": "..."
+                  "markedText": "much"
+                },
+                {
+                  "text": "?” “Not, not "
+                },
+                {
+                  "markedText": "much"
+                },
+                {
+                  "text": ".”"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "We like movies, so we go to the movies "
+                },
+                {
+                  "markedText": "a lot"
+                },
+                {
+                  "italicText": ". (not"
+                },
+                {
+                  "text": " go to the movies much)"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "I don’t like him very "
+                },
+                {
+                  "markedText": "much"
+                },
+                {
+                  "text": "."
                 }
               ]
             }
@@ -646,74 +829,7 @@
     {
       "exercises": [
         {
-          "title": "Choose the correct answer.",
-          "description": "Description"
-        },
-        {
-          "images": [
-            {
-              "width": "200px",
-              "number": "1",
-              "src": "",
-              "alt": "..."
-            },
-            {
-              "width": "200px",
-              "number": "2",
-              "src": "",
-              "alt": "..."
-            },
-            {
-              "width": "200px",
-              "number": "3",
-              "src": "",
-              "alt": "..."
-            }
-          ]
-        },
-        {
-          "radioExercises": [
-            {
-              "question": [
-                {
-                  "boldText": "1. ...",
-                  "text": "... ",
-                  "markedText": "..."
-                }
-              ],
-              "options": [
-                { "option": "a) ...", "isCorrect": true },
-                { "option": "b) ...", "isCorrect": false },
-                { "option": "c) ...", "isCorrect": false }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Look at paragraph 1 and fill in the blanks with the correct answers.",
-          "description": "Description"
-        },
-        {
-          "images": [
-            {
-              "width": "200px",
-              "number": "1",
-              "src": "",
-              "alt": "..."
-            },
-            {
-              "width": "200px",
-              "number": "2",
-              "src": "",
-              "alt": "..."
-            },
-            {
-              "width": "200px",
-              "number": "3",
-              "src": "",
-              "alt": "..."
-            }
-          ]
+          "title": "8.1 Wrtie much or many."
         },
         {
           "fillExercises": [
@@ -722,7 +838,439 @@
                 {
                   "block": [
                     {
-                      "text": "...",
+                      "text": "1. Did you buy",
+                      "placeholder": "much",
+                      "correctAnswer": ["much"]
+                    },
+                    {
+                      "text": "food?"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2. There aren’t",
+                      "correctAnswer": ["many"]
+                    },
+                    {
+                      "text":	"hotels in this town."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3. We don’t have",
+                      "correctAnswer": ["much"]
+                    },
+                    {
+                      "text":	"gas. We need to stop and get some."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4. Were there",
+                      "correctAnswer": ["many"]
+                    },
+                    {
+                      "text":	"people on the train?"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "5. Did",
+                      "correctAnswer": ["many"]
+                    },
+                    {
+                      "text":	"students fail the exam?"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "6. Samantha doesn’t have",
+                      "correctAnswer": ["much"]
+                    },
+                    {
+                      "text":	"money."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "7. I wasn’t hungry, so I didn’t eat",
+                      "correctAnswer": ["much"]
+                    },
+                    {
+                      "text":	"."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "8. I don’t know where Eric live these days. I haven’t seen him for",
+                      "correctAnswer": ["many"]
+                    },
+                    {
+                      "text":	"years."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "Write 'How much' or 'How many'."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "9. ",
+                      "correctAnswer": ["How many"]
+                    },
+                    {
+                      "text":	"people are coming to the store?"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "10. ",
+                      "correctAnswer": ["How much"]
+                    },
+                    {
+                      "text":	"milk should I get at the store?"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "11. ",
+                      "correctAnswer": ["How much"]
+                    },
+                    {
+                      "text":	"bread did you buy?"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "12. ",
+                      "correctAnswer": ["How many"]
+                    },
+                    {
+                      "text":	"players are there on the football team?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "title": "Fill in the blanks with the correct answer.",
+              "description": "Description"
+            },
+            {
+              "images": [
+                {
+                  "width": "200px",
+                  "number": "1",
+                  "src": "",
+                  "alt": "..."
+                },
+                {
+                  "width": "200px",
+                  "number": "2",
+                  "src": "",
+                  "alt": "..."
+                },
+                {
+                  "width": "200px",
+                  "number": "3",
+                  "src": "",
+                  "alt": "..."
+                }
+              ]
+            },
+            {
+              "fillExercises": [
+                {
+                  "blocks": [
+                    {
+                      "block": [
+                        {
+                          "text": "...",
+                          "correctAnswer": ["..."]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "81.2 Complete the sentences. Use much or many with these words.",
+          "description": "books • countries • luggage • people • time • times"
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "1. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "5. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "6. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "8.3 Complete the sentences. Use a lot of + these words.",
+          "description": "accidents • books • fun • interesting things • traffic"
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "1. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "5. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "6. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "7. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "8. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "8.4 In some of these sentences much is not natural. Change the sentences or write OK."
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "1. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "5. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "6. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "8.5 Write sentences about these people."
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "1. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "2. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "4. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "5. ",
+                      "correctAnswer": ["..."]
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "6. ",
                       "correctAnswer": ["..."]
                     }
                   ]

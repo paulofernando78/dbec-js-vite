@@ -1,0 +1,19 @@
+button {
+  width: 30px;
+  height: 30px;
+  padding: 1px;
+  border-radius: 20%;
+  background-color: var(--button-color);
+  box-shadow: var(--neumorphism);
+  border: none;
+  cursor: pointer;
+  transition: all 0.1s ease-in-out;
+}
+
+button.active {
+  box-shadow: var(--neumorphism-active);
+}
+
+button.active svg {
+  transform: scale(0.95);
+}

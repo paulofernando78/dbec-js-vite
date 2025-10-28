@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "shy",
+        "phonetics": "/ʃaɪ/",
+        "partOfSpeech": "adjective",
+        "enDefinition": "nervous or uncomfortable in the company of other people.",
+        "ptDefinition": "tímido; que sente vergonha ou desconforto na presença de outras pessoas",
+        "examples": [
+          {
+            "enExample": "He was too shy to ask her out.",
+            "ptExample": "Ele era tímido demais para chamá-la para sair."
+          },
+          {
+            "enExample": "Children can be shy when meeting new people.",
+            "ptExample": "Crianças podem ser tímidas ao conhecer pessoas novas."
+          }
+        ],
+        "synonyms": "timid, reserved, introverted, bashful",
+        "antonyms": "confident, outgoing, extroverted",
+        "seeAlso": "introvert, bashful, self-conscious",
+        "notes": [
+          {
+            "enNote": "Often used before nouns, e.g. 'a shy smile'.",
+            "ptNote": "Frequentemente usado antes de substantivos, ex.: 'um sorriso tímido'."
+          }
+        ]
+      },
+      {
         "word": "sharp as a tack",
         "partOfSpeech": "idiom",
         "enDefinition": "very intelligent, quick to understand or notice things, and mentally alert",

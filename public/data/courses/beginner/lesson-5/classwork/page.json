@@ -64,7 +64,7 @@
     {
       "videoPlayer": {
         "sticky": false,
-        "src": "https://www.youtube.com/embed/Iv4F-YV0TxY?rel=0"
+        "src": ""
       }
     },
     {
@@ -550,9 +550,9 @@
         {
           "images": [
             {
-              "width": "",
-              "position": "",
-              "src": "",
+              "width": "100%",
+              "position": "bottom",
+              "src": "/assets/images/courses/beginner/lesson-5/kevins-things.avif",
               "alt": "Insert image"
             }
           ],
@@ -560,7 +560,7 @@
             {
               "block": [
                 {
-                  "boldText": "Text"
+                  "boldText": "Help Kevin find his things. Ask and answer questions."
                 }
               ],
               "lineBreak": true
@@ -568,7 +568,29 @@
             {
               "block": [
                 {
-                  "text": "..."
+                  "text": "cell phone • hairbrush • laptop • umbrella • glasses • keys • tablet • credit card"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "A: "
+                },
+                {
+                  "text": "Where’s Kevin’s (his)... ? / Where are Kevin’s (his)... ?"
+                }
+              ]
+            },
+
+            {
+              "block": [
+                {
+                  "boldText": "B: "
+                },
+                {
+                  "text": "It's... / They're..."
                 }
               ]
             }

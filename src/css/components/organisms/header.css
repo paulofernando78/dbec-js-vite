@@ -12,18 +12,22 @@ header {
 .right-div {
   display: flex;
   gap: 9px;
-  margin-right: 4px;
+  margin: 3px 2px 2px 2px;
 }
 
-.home,
+.home {
+  margin-left: 2px;
+}
+
+/* .home,
 .left-button,
 .right-button {
   position: relative;
   top: 2px;
   left: 2px;
-}
+} */
 
-@media (min-width: 778px) {
+@media (min-width: 768px) {
   #menu-button {
     display: none;
   }

@@ -121,30 +121,6 @@
       }
     },
     {
-      "text": [
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "icon": "mouse"
-                },
-                {
-                  "boldText": "Click or "
-                },
-                {
-                  "icon": "tap"
-                },
-                {
-                  "boldText": "tap the letters to reveal the words."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "guessWord": [
         {
           "word": "airport",

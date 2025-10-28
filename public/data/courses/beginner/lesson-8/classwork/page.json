@@ -53,10 +53,9 @@
       }
     },
     {
-      "hangman": [
+      "guessWord": [
         {
           "imageSrc": "/assets/images/general/.avif",
-          "alt": "",
           "word": ""
         }
       ]
@@ -64,7 +63,7 @@
     {
       "videoPlayer": {
         "sticky": false,
-        "src": "https://www.youtube.com/embed/Iv4F-YV0TxY?rel=0"
+        "src": ""
       }
     },
     {
@@ -156,9 +155,9 @@
         {
           "images": [
             {
-              "width": "",
+              "width": "100%",
               "position": "",
-              "src": "/assets/images/general/",
+              "src": "/assets/images/courses/beginner/lesson-8/describing-people.avif",
               "alt": "Insert image"
             }
           ],
@@ -166,34 +165,163 @@
             {
               "block": [
                 {
-                  "boldText": "..."
+                  "boldText": "a. "
                 },
                 {
-                  "phonetics": ""
+                  "text": "pretty"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "b. "
                 },
                 {
-                  "partOfSpeech": ""
+                  "text": "handsome"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "c. "
                 },
                 {
-                  "text": ""
+                  "text": "good-looking"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "d. "
                 },
                 {
-                  "markedText": ""
+                  "text": "talkative"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "e. "
                 },
                 {
-                  "ptBoldText": ""
+                  "text": "friendly"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "f. "
                 },
                 {
-                  "ptText": ""
+                  "text": "kind"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "g. "
                 },
                 {
-                  "links": [
-                    {
-                      "icon": "",
-                      "link": "",
-                      "label": ""
-                    }
-                  ]
+                  "text": "funny"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "h. "
+                },
+                {
+                  "text": "quiet"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "i. "
+                },
+                {
+                  "text": "serious"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "j. "
+                },
+                {
+                  "text": "shy"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "k. "
+                },
+                {
+                  "text": "short"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "boldText": "l. "
+                },
+                {
+                  "text": "tall"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": true,
+      "text": [
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Personality"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Appearance"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
                 }
               ]
             }
@@ -286,22 +414,33 @@
       ]
     },
     {
-      "grid": false,
+      "grid": true,
       "text": [
         {
-          "images": [
-            {
-              "width": "",
-              "position": "",
-              "src": "",
-              "alt": "Insert image"
-            }
-          ],
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Text"
+                  "boldText": "Personality"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Appearance"
                 }
               ],
               "lineBreak": true

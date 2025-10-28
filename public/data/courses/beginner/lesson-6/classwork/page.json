@@ -17,11 +17,19 @@
     {
       "text": [
         {
+          "images": [
+            {
+              "width": "100%",
+              "position": "bottom",
+              "src": "/assets/images/courses/beginner/lesson-6/whats-wrong.avif",
+              "alt": ""
+            }
+          ],
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Under construction..."
+                  "boldText": "What's wrong with this room? Make a list of 10 things. (use the note-taking shortcut)"
                 }
               ]
             }

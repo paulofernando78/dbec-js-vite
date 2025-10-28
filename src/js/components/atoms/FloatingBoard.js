@@ -1,5 +1,5 @@
-import cssImportsPath from "@css/imports.css?inline";
-import cssComponentPath from "@css/components/atoms/floating-board.css?inline";
+import styleImports from "@css/imports.css?inline";
+import styleFloating from "@css/components/atoms/floating-board.css?inline";
 
 import { write } from "@images/svg-imports";
 
@@ -8,7 +8,7 @@ class FloatingBoard extends HTMLElement {
     super();
     this.attachShadow({ mode: "open" });
 
-    [cssImportsPath, cssComponentPath].forEach((css) => {
+    [styleImports, styleFloating].forEach((css) => {
       const style = document.createElement("style");
       style.textContent = css;
       this.shadowRoot.appendChild(style);

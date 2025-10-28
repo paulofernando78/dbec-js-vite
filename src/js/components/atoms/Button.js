@@ -1,3 +1,6 @@
+import styleImports from "@css/imports.css?inline";
+import styleButton from "@css/components/atoms/button.css?inline";
+
 import {
   home,
   login,
@@ -35,33 +38,11 @@ class Button extends HTMLElement {
     super();
     this.attachShadow({ mode: "open" });
 
-    const css = document.createElement("style"); /*css*/
-    css.textContent = `
-      button {
-        width: 33px;
-        height: 33px;
-        border-radius: 20%;
-        background-color: var(--button-color);
-        box-shadow: var(--neumorphism);
-        border: none;
-        cursor: pointer;
-        transition: all 0.1s ease-in-out;
-      }
-
-      button.active {
-        box-shadow: var(--neumorphism-active);
-      }
-
-      button svg {
-        width: 100%;
-        height: 100%;
-      }
-
-      button.active svg {
-        transform: scale(0.950);
-      }
-    `;
-    this.shadowRoot.appendChild(css);
+    [styleImports, styleButton].forEach((css) => {
+      const style = document.createElement("style");
+      style.textContent = css;
+      this.shadowRoot.appendChild(style);
+    });
 
     this.button = document.createElement("button");
     this.shadowRoot.appendChild(this.button);
