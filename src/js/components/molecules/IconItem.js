@@ -1,14 +1,14 @@
-import cssImportsPath from "@css/imports.css?inline";
-import cssIconItemPath from "@css/components/molecules/icon-item.css?inline";
+import styleImports from "@css/imports.css?inline";
+import styleIconItem from "@css/components/molecules/icon-item.css?inline";
 
 class IconItem extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    [cssImportsPath, cssIconItemPath].forEach((css) => {
+    [styleImports, styleIconItem].forEach((imports) => {
       const style = document.createElement("style");
-      style.textContent = css;
+      style.textContent = imports;
       this.shadowRoot.appendChild(style);
     });
 
@@ -23,6 +23,10 @@ class IconItem extends HTMLElement {
 
       :host(:not(:first-child)) {
       // margin-bottom: 5px
+      }
+
+      .line-through {
+        text-decoration: line-through
       }
     `;
 
@@ -44,13 +48,14 @@ class IconItem extends HTMLElement {
     this.shadowRoot.append(css);
   }
 
-  set data({ icon, link, target, label }) {
-    this._data = { icon, link, target, label }; // Salva internamente
+  set data(data) {
+    console.log("IconItem recebeu:", data);
+    const { icon, link, target, label, notAvailable } = data;
 
     const svgSpan = document.createElement("span");
 
     import("@images/svg-imports.js").then((svgIcons) => {
-  svgSpan.innerHTML = svgIcons[icon] || "";
+      svgSpan.innerHTML = svgIcons[icon] || "";
     });
 
     let textElement;
@@ -64,12 +69,18 @@ class IconItem extends HTMLElement {
       }
       anchor.textContent = label;
       // anchor.classList.add("link-shifted");
+      if (notAvailable) {
+        anchor.className = "line-through"
+        anchor.removeAttribute("href");
+      }
       textElement = anchor;
     } else {
       const desc = document.createElement("span");
-      desc.className = "label"
+      desc.className = "label";
       desc.textContent = label;
-      // desc.classList.add("link-shifted");
+      if (notAvailable) {
+        desc.className = "line-through"
+      }
       textElement = desc;
     }
 
