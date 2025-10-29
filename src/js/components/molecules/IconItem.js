@@ -6,9 +6,9 @@ class IconItem extends HTMLElement {
     super();
     this.attachShadow({ mode: "open" });
 
-    [styleImports, styleIconItem].forEach((imports) => {
+    [styleImports, styleIconItem].forEach((css) => {
       const style = document.createElement("style");
-      style.textContent = imports;
+      style.textContent = css;
       this.shadowRoot.appendChild(style);
     });
 
@@ -23,10 +23,6 @@ class IconItem extends HTMLElement {
 
       :host(:not(:first-child)) {
       // margin-bottom: 5px
-      }
-
-      .line-through {
-        text-decoration: line-through
       }
     `;
 
@@ -48,9 +44,8 @@ class IconItem extends HTMLElement {
     this.shadowRoot.append(css);
   }
 
-  set data(data) {
-    console.log("IconItem recebeu:", data);
-    const { icon, link, target, label, notAvailable } = data;
+  set data({ icon, link, target, label }) {
+    this._data = { icon, link, target, label }; // Salva internamente
 
     const svgSpan = document.createElement("span");
 
@@ -68,19 +63,19 @@ class IconItem extends HTMLElement {
         anchor.rel = "noopener noreferrer";
       }
       anchor.textContent = label;
-      // anchor.classList.add("link-shifted");
-      if (notAvailable) {
-        anchor.className = "line-through"
-        anchor.removeAttribute("href");
+
+      const color = this.getAttribute("color");
+      
+      if (color) {
+        anchor.style.color = color;
       }
+      
       textElement = anchor;
+    
     } else {
       const desc = document.createElement("span");
       desc.className = "label";
       desc.textContent = label;
-      if (notAvailable) {
-        desc.className = "line-through"
-      }
       textElement = desc;
     }
 

@@ -15,7 +15,9 @@ class Contents extends HTMLElement {
     this.addEventListener("anchor-clicked", (e) => {
       const anchor = e.detail.anchor;
 
-      const el = this.shadowRoot.getElementById(anchor);
+      const el =
+        this.shadowRoot.getElementById(anchor) ||
+        document.getElementById(anchor);
 
       if (el) {
         el.scrollIntoView({ behavior: "smooth" });
@@ -100,6 +102,8 @@ class Contents extends HTMLElement {
 
       //Card
       if (section.card) {
+        let cardId = section.cardId
+
         const card = document.createElement("wc-card");
         card.data = section.card;
         contentContainer.appendChild(card);

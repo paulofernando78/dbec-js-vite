@@ -246,6 +246,12 @@ class Text extends HTMLElement {
           });
 
           blockElement.appendChild(ul);
+
+          if (subItem.addHr) {
+            const hr = document.createElement("hr");
+            hr.className = "hr";
+            blockElement.appendChild(hr);
+          }
         }
       });
 
@@ -255,7 +261,7 @@ class Text extends HTMLElement {
       }
 
       // Hr
-      if (item.hr) {
+      if (item.addHr) {
         const hr = document.createElement("hr");
         blockElement.appendChild(hr);
       }

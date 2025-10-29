@@ -91,7 +91,12 @@ class Card extends HTMLElement {
           if (item.icon) {
             const iconItem = document.createElement("wc-icon-item");
             iconItem.data = item;
+            
             innerCard.appendChild(iconItem);
+            if (item.notAvailable) {
+              iconItem.className = "line-through";
+            }
+
           }
         });
       }

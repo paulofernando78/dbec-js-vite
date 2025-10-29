@@ -13,9 +13,463 @@
   },
   "contents": [
     {
+      "ribbon": {
+        "icon": "bookmarks",
+        "label": "TABLE OF CONTENTS (43 days)"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-1",
+                      "label": "Day 1 • Welcome / Icebreaker"
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-2",
+                      "label": "Day 2 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-3",
+                      "label": "Day 3 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-4",
+                      "label": "Day 4 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-5",
+                      "label": "Day 5 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-6",
+                      "color": "red",
+                      "label": "Day 6 • Review + Quiz • Lessons 2 - 5"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-7",
+                      "label": "Day 7 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-8",
+                      "label": "Day 8 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-9",
+                      "label": "Day 9 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-10",
+                      "label": "Day 10 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-11",
+                      "label": "Day 11 • Review + Quiz • Lessons 7 - 10"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-12",
+                      "label": "Day 12 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-13",
+                      "label": "Day 13 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-14",
+                      "label": "Day 14 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-15",
+                      "label": "Day 15 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-16",
+                      "label": "Day 16 • Review + Quiz • Lessons 12 - 15"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-17",
+                      "label": "Day 17 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-18",
+                      "label": "Day 18 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-19",
+                      "label": "Day 19 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-20",
+                      "label": "Day 20 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-21",
+                      "label": "Day 21 • Review + Quiz • Lessons 17 - 20"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#lesson-22",
+                      "label": "Day 22 • Review + Test Lessons 2 - 21"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-23",
+                      "label": "Day 23 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-24",
+                      "label": "Day 24 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-25",
+                      "label": "Day 25 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-26",
+                      "label": "Day 26 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-27",
+                      "label": "Day 27 • Review + Quiz • Lessons 23 - 26"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-28",
+                      "label": "Day 28 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-29",
+                      "label": "Day 29 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-30",
+                      "label": "Day 30 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-31",
+                      "label": "Day 31 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-32",
+                      "label": "Day 32 • Review + Quiz • Lessons 28 - 31"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-33",
+                      "label": "Day 33 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-34",
+                      "label": "Day 34 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-35",
+                      "label": "Day 35 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-36",
+                      "label": "Day 36 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-37",
+                      "label": "Day 37 • Review + Quiz • Lessons 33 - 36"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-38",
+                      "label": "Day 38 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-39",
+                      "label": "Day 39 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-40",
+                      "label": "Day 40 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-41",
+                      "label": "Day 41 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-42",
+                      "label": "Day 42 • Review + Quiz • Lessons 38 - 41"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#lesson-22",
+                      "label": "Day 43 • Review + Test Lessons 23 - 42"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "CEFR",
         "descriptions": [
           {
@@ -53,12 +507,12 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
+        "icon": "bookmarks",
         "label": "Lessons 1 - 6 + Quiz"
       },
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 1",
         "descriptions": [
           { "description": [{ "text": "Welcome / Icebreaker" }] },
@@ -73,7 +527,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 2",
         "descriptions": [
           {
@@ -92,8 +546,7 @@
               {
                 "icon": "homework",
                 "link": "/courses/beginner/lesson-2/homework",
-                "label": "Homework • What's your name? (Cycle 1)",
-                "notAvailable": true
+                "label": "Homework • What's your name? (Cycle 1)"
               }
             ]
           }
@@ -103,7 +556,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 3",
         "descriptions": [
           {
@@ -117,8 +570,7 @@
               {
                 "icon": "classwork",
                 "link": "/courses/beginner/lesson-3/classwork",
-                "label": "Classwork • What's your name? (Cycle 2)",
-                "notAvailable": true
+                "label": "Classwork • What's your name? (Cycle 2)"
               },
               {
                 "icon": "homework",
@@ -139,7 +591,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 4",
         "descriptions": [
           {
@@ -170,7 +622,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 5",
         "descriptions": [
           {
@@ -201,7 +653,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 6",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -225,14 +677,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
+        "icon": "bookmarks",
         "label": "Lessons 7 - 11 + Quiz"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 7",
         "descriptions": [
           {
@@ -263,7 +715,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 8",
         "descriptions": [
           {
@@ -294,7 +746,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 9",
         "descriptions": [
           {
@@ -325,7 +777,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 10",
         "descriptions": [
           {
@@ -356,7 +808,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 11",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -380,14 +832,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
+        "icon": "bookmarks",
         "label": "Lessons 12 - 16 + Quiz"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 12",
         "descriptions": [
           {
@@ -418,7 +870,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 13",
         "descriptions": [
           {
@@ -449,7 +901,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 14",
         "descriptions": [
           {
@@ -480,7 +932,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 15",
         "descriptions": [
           {
@@ -511,7 +963,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 16",
         "descriptions": [
           {
@@ -549,14 +1001,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
+        "icon": "bookmarks",
         "label": "Lessons 17 - 21 + Quiz"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 17",
         "descriptions": [
           {
@@ -587,7 +1039,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 18",
         "descriptions": [
           {
@@ -618,7 +1070,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 19",
         "descriptions": [
           {
@@ -649,7 +1101,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 20",
         "descriptions": [
           {
@@ -680,7 +1132,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 21",
         "descriptions": [
           {
@@ -708,14 +1160,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
-        "label": "Lessons 22 - 27 + Quiz"
+        "icon": "bookmarks",
+        "label": "Lessons 2 - 27 + Quiz"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 22",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -739,14 +1191,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
+        "icon": "bookmarks",
         "label": "Lessons 23 - 27 + Quiz"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 23",
         "descriptions": [
           {
@@ -777,7 +1229,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 24",
         "descriptions": [
           {
@@ -808,7 +1260,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 25",
         "descriptions": [
           {
@@ -839,7 +1291,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 26",
         "descriptions": [
           {
@@ -870,7 +1322,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 27",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -894,14 +1346,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
+        "icon": "bookmarks",
         "label": "Lessons 28 - 32 + Quiz"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 28",
         "descriptions": [
           {
@@ -932,7 +1384,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 29",
         "descriptions": [
           {
@@ -963,7 +1415,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 30",
         "descriptions": [
           {
@@ -994,7 +1446,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 31",
         "descriptions": [
           {
@@ -1025,7 +1477,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 32",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -1049,14 +1501,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
+        "icon": "bookmarks",
         "label": "Lessons 33 - 37 + Quiz"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 33",
         "descriptions": [
           {
@@ -1087,7 +1539,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 34",
         "descriptions": [
           {
@@ -1118,7 +1570,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 35",
         "descriptions": [
           {
@@ -1149,7 +1601,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 36",
         "descriptions": [
           {
@@ -1180,7 +1632,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 37",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -1204,14 +1656,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
+        "icon": "bookmarks",
         "label": "Lessons 38 - 42 + Quiz"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 38",
         "descriptions": [
           {
@@ -1242,7 +1694,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 39",
         "descriptions": [
           {
@@ -1273,7 +1725,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 40",
         "descriptions": [
           {
@@ -1304,7 +1756,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 41",
         "descriptions": [
           {
@@ -1335,7 +1787,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 42",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -1359,14 +1811,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
+        "icon": "bookmarks",
         "label": "Review lessons 23-41 + Test"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Lesson 43",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },

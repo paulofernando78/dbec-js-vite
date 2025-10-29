@@ -26,26 +26,22 @@
       }
     },
     {
-      "hangman": [
+      "grid": false,
+      "text": [
         {
-          "imageSrc": "/assets/images/general/names.avif",
-          "alt": "",
-          "word": "names"
-        },
-        {
-          "imageSrc": "/assets/images/general/nicknames.avif",
-          "alt": "",
-          "word": "nicknames"
-        },
-        {
-          "imageSrc": "/assets/images/general/nicknames.avif",
-          "alt": "",
-          "word": "alphabet"
-        },
-        {
-          "imageSrc": "/assets/images/general/nicknames.avif",
-          "alt": "",
-          "word": "titles"
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Remember the alphabet? Say it aloud. "
+                },
+                {
+                  "ptText":	"Lembra do alfabeto? Diga em voz alta."
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -154,7 +150,7 @@
                   "boldText": "Jack: "
                 },
                 {
-                  "text":	"Hey, Christy, this is Ben. He’s in our history class."
+                  "text": "Hey, Christy, this is Ben. He’s in our history class."
                 }
               ]
             },
@@ -164,7 +160,7 @@
                   "boldText": "Christy: "
                 },
                 {
-                  "text":	"Hi Ben."
+                  "text": "Hi Ben."
                 }
               ]
             },
@@ -174,7 +170,7 @@
                   "boldText": "Ben: "
                 },
                 {
-                  "text":	"Hi, Christy. Nice to meet you."
+                  "text": "Hi, Christy. Nice to meet you."
                 }
               ]
             }
