@@ -43,7 +43,7 @@ wc-iframe.bottom-position {
 }
 
 .dashed-hr {
-  border: 1px dashed var(--red-4);
+  border: 1px dashed var(--gray-4);
 }
 
 /* @media() {

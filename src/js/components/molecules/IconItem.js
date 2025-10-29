@@ -44,8 +44,8 @@ class IconItem extends HTMLElement {
     this.shadowRoot.append(css);
   }
 
-  set data({ icon, link, target, label }) {
-    this._data = { icon, link, target, label }; // Salva internamente
+  set data({ icon, link, target, label, quizColor, testColor }) {
+    this._data = { icon, link, target, label, quizColor, testColor };
 
     const svgSpan = document.createElement("span");
 
@@ -64,14 +64,15 @@ class IconItem extends HTMLElement {
       }
       anchor.textContent = label;
 
-      const color = this.getAttribute("color");
-      
-      if (color) {
-        anchor.style.color = color;
+      if (quizColor) {
+        anchor.style.color = "var(--red-4)";
       }
-      
+
+      if (testColor) {
+        anchor.style.color = "var(--red-7)";
+      }
+
       textElement = anchor;
-    
     } else {
       const desc = document.createElement("span");
       desc.className = "label";

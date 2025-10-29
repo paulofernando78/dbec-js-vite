@@ -239,6 +239,8 @@ class Text extends HTMLElement {
               link: link.link,
               target: link.target,
               label: link.label,
+              quizColor: link.quizColor,
+              testColor: link.testColor
             };
 
             li.appendChild(wcIconItem);
