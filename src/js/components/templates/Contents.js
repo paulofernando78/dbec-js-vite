@@ -88,11 +88,6 @@ class Contents extends HTMLElement {
           anchorWrapper.className = "scroll-anchor";
         }
 
-        // if (section.anchor) {
-        //   anchorWrapper.id = section.anchor;
-        //   anchorWrapper.className = "scroll-anchor";
-        // }
-
         const ribbon = document.createElement("wc-ribbon");
         ribbon.data = section.ribbon;
 
@@ -102,7 +97,25 @@ class Contents extends HTMLElement {
 
       //Card
       if (section.card) {
-        let cardId = section.cardId
+        const cardWrapper = document.createElement("div");
+
+        let cardId = section.cardId;
+
+        if (!cardId) {
+          // Try to derive from a label/title in section.card
+          const sourceLabel =
+            (section.card && (section.card.label || section.card.title)) || "";
+          if (sourceLabel) {
+            cardId = sourceLabel
+              .toLowerCase()
+              .replace(/\s+/g, "-")
+              .replace(/[^\w-]/g, "");
+          }
+        }
+
+        if (cardId) {
+          
+        }
 
         const card = document.createElement("wc-card");
         card.data = section.card;

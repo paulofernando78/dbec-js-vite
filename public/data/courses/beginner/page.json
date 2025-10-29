@@ -7,7 +7,7 @@
     "descriptions": [
       {
         "icon": "book",
-        "description": "Beginner"
+        "description": "Beginner (A1)"
       }
     ]
   },
@@ -141,7 +141,7 @@
                     {
                       "icon": "bookmark",
                       "link": "#day-11",
-                      "quizColor": "var(--red-4)",
+                      "quizColor": true,
                       "label": "Day 11 • Review + Quiz • Lessons 7 - 10"
                     }
                   ]
@@ -257,7 +257,7 @@
                   "links": [
                     {
                       "icon": "bookmark",
-                      "link": "#lesson-22",
+                      "link": "#day-22",
                       "testColor": true,
                       "label": "Day 22 • Review + Test Lessons 2 - 21"
                     }
@@ -476,7 +476,8 @@
                   "links": [
                     {
                       "icon": "bookmark",
-                      "link": "#lesson-22",
+                      "link": "#day-43",
+                      "testColor": true,
                       "label": "Day 43 • Review + Test Lessons 23 - 42"
                     }
                   ]

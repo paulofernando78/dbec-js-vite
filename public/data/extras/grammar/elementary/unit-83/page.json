@@ -42,7 +42,7 @@
             {
               "block": [
                 {
-                  "boldText": "many books / A lot of books"
+                  "boldText": "many books / a lot of books"
                 }
               ]
             }
@@ -117,7 +117,7 @@
                   "text": "Did you buy "
                 },
                 {
-                  "markedText": "many books?"
+                  "markedText": "many books"
                 },
                 {
                   "text": "?"
@@ -133,7 +133,7 @@
                   "text": "We don't know "
                 },
                 {
-                  "markedText": "many people."
+                  "markedText": "many people"
                 },
                 {
                   "text": "."
@@ -544,7 +544,7 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "Do you have ?"
+                  "text": "Do you have"
                 },
                 {
                   "markedText": "many friends"

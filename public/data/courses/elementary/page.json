@@ -4,16 +4,495 @@
     "descriptions": [
       {
         "icon": "book",
-        "description": "Elementary"
+        "description": "Elementary (A1-A2)"
       }
     ]
   },
   "contents": [
     {
+      "ribbon": {
+        "icon": "bookmarks",
+        "label": "TABLE OF CONTENTS (43 days)"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#cefr",
+                      "label": "CEFR (Common European Framework of Reference)"
+                    }
+                  ]
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-1",
+                      "label": "Day 1 • Welcome / Icebreaker"
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-2",
+                      "label": "Day 2 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-3",
+                      "label": "Day 3 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-4",
+                      "label": "Day 4 • W"
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-5",
+                      "label": "Day 5 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-6",
+                      "quizColor": true,
+                      "label": "Day 6 • Review + Quiz • Lessons 2 - 5"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-7",
+                      "label": "Day 7 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-8",
+                      "label": "Day 8 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-9",
+                      "label": "Day 9 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-10",
+                      "label": "Day 10 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-11",
+                      "quizColor": true,
+                      "label": "Day 11 • Review + Quiz • Lessons 7 - 10"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-12",
+                      "label": "Day 12 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-13",
+                      "label": "Day 13 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-14",
+                      "label": "Day 14 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-15",
+                      "label": "Day 15 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-16",
+                      "quizColor": true,
+                      "label": "Day 16 • Review + Quiz • Lessons 12 - 15"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-17",
+                      "label": "Day 17 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-18",
+                      "label": "Day 18 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-19",
+                      "label": "Day 19 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-20",
+                      "label": "Day 20 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-21",
+                      "quizColor": true,
+                      "label": "Day 21 • Review + Quiz • Lessons 17 - 20"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-22",
+                      "testColor": true,
+                      "label": "Day 22 • Review + Test Lessons 2 - 21"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-23",
+                      "label": "Day 23 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-24",
+                      "label": "Day 24 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-25",
+                      "label": "Day 25 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-26",
+                      "label": "Day 26 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-27",
+                      "quizColor": true,
+                      "label": "Day 27 • Review + Quiz • Lessons 23 - 26"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-28",
+                      "label": "Day 28 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-29",
+                      "label": "Day 29 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-30",
+                      "label": "Day 30 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-31",
+                      "label": "Day 31 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-32",
+                      "quizColor": true,
+                      "label": "Day 32 • Review + Quiz • Lessons 28 - 31"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-33",
+                      "label": "Day 33 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-34",
+                      "label": "Day 34 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-35",
+                      "label": "Day 35 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-36",
+                      "label": "Day 36 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-37",
+                      "quizColor": true,
+                      "label": "Day 37 • Review + Quiz • Lessons 33 - 36"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-38",
+                      "label": "Day 38 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-39",
+                      "label": "Day 39 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-40",
+                      "label": "Day 40 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-41",
+                      "label": "Day 41 • "
+                    }
+                  ]
+                },
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-42",
+                      "quizColor": true,
+                      "label": "Day 42 • Review + Quiz • Lessons 38 - 41"
+                    }
+                  ]
+                }
+              ],
+              "addHr": true
+            },
+            {
+              "block": [
+                {
+                  "links": [
+                    {
+                      "icon": "bookmark",
+                      "link": "#day-22",
+                      "testColor": true,
+                      "label": "Day 43 • Review + Test Lessons 23 - 42"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dashedHr": true
+    },
+    {
       "card": {
         "bgColor": "var(--gray-3)",
         "icon": "page",
-        "label": "CEFR (Common European Framework of Reference)",
+        "label": "CEFR",
         "descriptions": [
           {
             "description": [
