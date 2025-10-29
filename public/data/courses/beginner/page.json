@@ -459,12 +459,14 @@
                     }
                   ]
                 }
-              ],
-              "addHr": true
+              ]
             }
           ]
         }
       ]
+    },
+    {
+      "dashedHr":	true
     },
     {
       "card": {
