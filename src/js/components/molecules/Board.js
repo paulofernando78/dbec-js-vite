@@ -21,15 +21,6 @@ class Board extends HTMLElement {
     container.classList.add("line-break");
     this.shadowRoot.appendChild(container);
 
-    const ribbon = document.createElement("wc-ribbon");
-    ribbon.data = {
-      icon: "board",
-      label: "Board",
-    };
-
-    const boardDescription = document.createElement("p");
-    boardDescription.textContent = board.description;
-
     const textArea = document.createElement("textarea");
     textArea.style.height = board?.height || "68px";
 
@@ -46,7 +37,7 @@ class Board extends HTMLElement {
       localStorage.setItem(`board-text-${boardId}`, textArea.value);
     });
 
-    container.append(ribbon, boardDescription, textArea);
+    container.append(textArea);
   }
 }
 

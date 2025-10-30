@@ -105,21 +105,28 @@ class Contents extends HTMLElement {
           // Try to derive from a label/title in section.card
           const sourceLabel =
             (section.card && (section.card.label || section.card.title)) || "";
+
+          // If a label or title exists, generate a slug (URL-friendly id)
           if (sourceLabel) {
             cardId = sourceLabel
-              .toLowerCase()
-              .replace(/\s+/g, "-")
-              .replace(/[^\w-]/g, "");
+              .toLowerCase() // Convert all letters to lowercase
+              .replace(/\s+/g, "-") // Replace all spaces with hyphens
+              .replace(/[^\w-]/g, ""); // Remove any non-alphanumeric or non-hyphen characters
           }
         }
 
         if (cardId) {
-          
+          cardWrapper.id = cardId;
+          cardWrapper.className = "scroll-anchor";
         }
 
         const card = document.createElement("wc-card");
+
+        // Pass the card data (from JSON) to the component
         card.data = section.card;
-        contentContainer.appendChild(card);
+
+        cardWrapper.appendChild(card);
+        contentContainer.appendChild(cardWrapper);
       }
 
       // Text

@@ -234,7 +234,7 @@ class DateCard extends HTMLElement {
               dayCard.appendChild(statusDayWrapper);
 
               const classNote = document.createElement("wc-note");
-              classNote.classList.add("notes");
+              classNote.className = "notes";
               classNote.data = {
                 value: item.classNotes,
                 placeholder: "Class notes",

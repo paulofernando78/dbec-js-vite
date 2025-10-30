@@ -2,6 +2,58 @@
   {
     "definitions": [
       {
+        "word": "waive",
+        "phonetics": "/weɪv/",
+        "partOfSpeech": "verb",
+        "enDefinition": "To officially give up a right, rule, or claim, especially by stating that it is not required or will not be enforced.",
+        "ptDefinition": "Renunciar oficialmente a um direito, regra ou exigência, declarando que ela não será aplicada ou cobrada.",
+        "examples": [
+          {
+            "enExample": "The U.S. government may waive certain requirements for the National Interest Waiver category.",
+            "ptExample": "O governo dos EUA pode dispensar certos requisitos para a categoria National Interest Waiver."
+          },
+          {
+            "enExample": "He decided to waive his right to remain silent during the interview.",
+            "ptExample": "Ele decidiu renunciar ao seu direito de permanecer em silêncio durante a entrevista."
+          }
+        ],
+        "synonyms": "relinquish, forgo, renounce, give up, surrender",
+        "antonyms": "enforce, demand, require, claim",
+        "seeAlso": "waiver, exempt, renounce",
+        "notes": [
+          {
+            "enNote": "Used often in legal, financial, and immigration contexts to indicate that someone voluntarily gives up a right or condition.",
+            "ptNote": "Usado frequentemente em contextos jurídicos, financeiros e de imigração para indicar que alguém renuncia voluntariamente a um direito ou condição."
+          }
+        ]
+      },
+      {
+        "word": "waiver",
+        "phonetics": "US /ˈweɪ.vɚ/, UK /ˈweɪ.vər",
+        "partOfSpeech": "noun",
+        "enDefinition": "An official decision stating that a rule, requirement, or right can be ignored or not applied.",
+        "ptDefinition": "dispensa oficial que permite não seguir uma regra, requisito ou obrigação; renúncia, declaração de renúncia",
+        "examples": [
+          {
+            "enExample": "The National Interest Waiver allows applicants to bypass the job offer requirement.",
+            "ptExample": "O National Interest Waiver permite que os candidatos dispensem a exigência de uma oferta de emprego."
+          },
+          {
+            "enExample": "She signed a waiver giving up her right to a refund.",
+            "ptExample": "Ela assinou uma dispensa abrindo mão do direito ao reembolso."
+          }
+        ],
+        "synonyms": "exemption, release, dispensation, renunciation",
+        "antonyms": "requirement, obligation, mandate",
+        "seeAlso": "waive, exemption, permission",
+        "notes": [
+          {
+            "enNote": "Commonly used in legal, academic, and immigration contexts to indicate that a formal rule or condition is being set aside.",
+            "ptNote": "Comumente usado em contextos jurídicos, acadêmicos e de imigração para indicar que uma exigência formal foi dispensada."
+          }
+        ]
+      },
+      {
         "word": "watch",
         "phonetics": "/wɑːtʃ/",
         "partOfSpeech": "verb / noun",
@@ -9,16 +61,16 @@
         "ptDefinition": "Verbo: olhar ou observar atentamente por um período de tempo; monitorar. Substantivo: um pequeno relógio geralmente usado no pulso; o ato de observar.",
         "examples": [
           {
-        "enExample": "She likes to watch movies on weekends.",
-        "ptExample": "Ela gosta de assistir filmes nos finais de semana."
+            "enExample": "She likes to watch movies on weekends.",
+            "ptExample": "Ela gosta de assistir filmes nos finais de semana."
           },
           {
-        "enExample": "He checked his watch to see the time.",
-        "ptExample": "Ele olhou para o relógio para ver as horas."
+            "enExample": "He checked his watch to see the time.",
+            "ptExample": "Ele olhou para o relógio para ver as horas."
           },
           {
-        "enExample": "The guard kept watch all night.",
-        "ptExample": "O guarda ficou de vigia a noite toda."
+            "enExample": "The guard kept watch all night.",
+            "ptExample": "O guarda ficou de vigia a noite toda."
           }
         ],
         "synonyms": ["observe", "monitor", "look at", "timepiece"],
@@ -26,8 +78,8 @@
         "seeAlso": ["look", "see", "view", "clock"],
         "notes": [
           {
-        "enNote": "As a verb, 'watch' often implies paying close attention for a period of time. As a noun, it refers to a device for telling time or the act of keeping guard.",
-        "ptNote": "Como verbo, 'watch' geralmente implica prestar atenção por um período de tempo. Como substantivo, refere-se a um dispositivo para marcar o tempo ou ao ato de vigiar."
+            "enNote": "As a verb, 'watch' often implies paying close attention for a period of time. As a noun, it refers to a device for telling time or the act of keeping guard.",
+            "ptNote": "Como verbo, 'watch' geralmente implica prestar atenção por um período de tempo. Como substantivo, refere-se a um dispositivo para marcar o tempo ou ao ato de vigiar."
           }
         ]
       },

@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "forgo",
+        "phonetics": "US /fɔːrˈɡoʊ/, UK /fɔːˈɡəʊ/",
+        "partOfSpeech": "verb",
+        "enDefinition": "To choose not to have or do something that you want or have the right to.",
+        "ptDefinition": "Optar por não ter ou não fazer algo que se deseja ou a que se tem direito.",
+        "examples": [
+          {
+            "enExample": "Applicants for the EB-2 NIW may forgo a job offer if their work is in the national interest.",
+            "ptExample": "Os candidatos ao EB-2 NIW podem abrir mão de uma oferta de emprego se o seu trabalho for de interesse nacional."
+          },
+          {
+            "enExample": "He decided to forgo his vacation to focus on completing the project.",
+            "ptExample": "Ele decidiu abrir mão das férias para se concentrar em concluir o projeto."
+          }
+        ],
+        "synonyms": "give up, renounce, relinquish, abandon, sacrifice",
+        "antonyms": "claim, demand, pursue, insist on",
+        "seeAlso": "waive, relinquish, renounce, sacrifice",
+        "notes": [
+          {
+            "enNote": "Often used in formal or legal contexts to describe voluntarily giving up a benefit, right, or opportunity.",
+            "ptNote": "Usado frequentemente em contextos formais ou jurídicos para descrever a renúncia voluntária a um benefício, direito ou oportunidade."
+          }
+        ]
+      },
+      {
         "word": "(let’s) face it",
         "partOfSpeech": "idiom / phrasal expression",
         "enDefinition": "used to tell someone to accept an unpleasant or difficult truth; to acknowledge reality even if it is uncomfortable",

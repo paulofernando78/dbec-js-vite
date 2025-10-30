@@ -1,6 +1,7 @@
 import styleImportsPath from "@css/imports.css?inline";
 import styleTextPath from "@css/components/molecules/text.css?inline";
 import * as icons from "@images/svg-imports.js";
+import { subBuild } from "three/tsl";
 
 class Text extends HTMLElement {
   constructor() {
@@ -39,7 +40,7 @@ class Text extends HTMLElement {
       this.container.style.border = "var(--border)";
       this.container.style.borderRadius = "var(--border-radius)";
       this.container.style.boxShadow = "var(--box-shadow)";
-      this.container.style.padding = "4px 5px 1px 5px";
+      this.container.style.padding = "5px 7px 6px 7px";
       if (block.cardColor)
         this.container.style.backgroundColor = block.cardColor;
     }
@@ -225,6 +226,16 @@ class Text extends HTMLElement {
           blockElement.appendChild(mark);
         }
 
+        if (subItem.notes !== undefined && subItem.notes !== null) {
+          const notes = document.createElement("wc-note");
+          notes.data = {
+            value: subItem.notes,
+            placeholder: subItem.placeholder,
+            height: "76px"
+          }
+          blockElement.appendChild(notes)
+        }
+
         // Links
         if (Array.isArray(subItem.links) && subItem.links.length) {
           const ul = document.createElement("ul");
@@ -240,10 +251,31 @@ class Text extends HTMLElement {
               target: link.target,
               label: link.label,
               quizColor: link.quizColor,
-              testColor: link.testColor
+              testColor: link.testColor,
             };
 
             li.appendChild(wcIconItem);
+
+            if (link.subLinks && link.subLinks.length > 0) {
+              const subUl = document.createElement("ul");
+              link.subLinks.forEach((subLink) => {
+                const subLi = document.createElement("li");
+
+                const subIconItem = document.createElement("wc-icon-item");
+                subIconItem.className = "link-text";
+                subIconItem.data = {
+                  icon: subLink.icon,
+                  link: subLink.link,
+                  target: subLink.target,
+                  label: subLink.label,
+                };
+
+                subLi.appendChild(subIconItem);
+                subUl.appendChild(subLi);
+              });
+
+              li.appendChild(subUl);
+            }
             ul.appendChild(li);
           });
 
@@ -253,6 +285,12 @@ class Text extends HTMLElement {
             const hr = document.createElement("hr");
             hr.className = "hr";
             blockElement.appendChild(hr);
+          }
+
+          if (subItem.lineBreak) {
+            const spacer = document.createElement("div");
+            spacer.style.marginBottom = "var(--line-break)";
+            blockElement.appendChild(spacer);
           }
         }
       });

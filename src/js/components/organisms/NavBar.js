@@ -113,6 +113,11 @@ class NavBar extends HTMLElement {
         link: "/specific-purposes/finance",
         label: "Finance",
       },
+      {
+        icon: "page",
+        link: "/specific-purposes/interviews",
+        label: "Interviews",
+      },
     ];
 
     const nav = document.createElement("nav");

@@ -1022,7 +1022,7 @@
                   "block": [
                     {
                       "text": "4. Hanah hasn’t lived here very long, so she doesn’t know",
-                      "correctAnswer": ["many countries"]
+                      "correctAnswer": ["many people"]
                     },
                     {
                       "text": "."
@@ -1135,7 +1135,7 @@
                   "markedText": "much coffee"
                 },
                 {
-                  "text":	"?"
+                  "text": "?"
                 }
               ],
               "options": [
@@ -1150,7 +1150,7 @@
                   "markedText": "much tea"
                 },
                 {
-                  "text":	"?"
+                  "text": "?"
                 }
               ],
               "options": [
@@ -1165,7 +1165,7 @@
                   "markedText": "much snow"
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
               ],
               "options": [
@@ -1180,7 +1180,7 @@
                   "markedText": "much snow"
                 },
                 {
-                  "text":	" last winter."
+                  "text": " last winter."
                 }
               ],
               "options": [
@@ -1192,10 +1192,10 @@
               "question": [
                 {
                   "text": "5. It costs ",
-                  "markedText": "much money"
+                  "markedText": "much money "
                 },
                 {
-                  "text":	"to travel around the world."
+                  "text": " to travel around the world."
                 }
               ],
               "options": [
@@ -1208,6 +1208,9 @@
                 {
                   "text": "6. This pen was cheap. It didn’t cost ",
                   "markedText": "much"
+                },
+                {
+                  "text": "."
                 }
               ],
               "options": [
@@ -1222,7 +1225,7 @@
                   "markedText": "much"
                 },
                 {
-                  "text":	"about computers?"
+                  "text": " about computers?"
                 }
               ],
               "options": [
@@ -1237,7 +1240,7 @@
                   "markedText": "much"
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
               ],
               "options": [
@@ -1267,7 +1270,14 @@
                   "block": [
                     {
                       "text": "2. Nicole thinks TV is boring. (watch TV)",
-                      "correctAnswer": ["She does not watch TV.", "She doesn’t watch TV.", "She doesn't watch TV."]
+                      "correctAnswer": [
+                        "She does not watch much TV.",
+                        "She doesn’t watch much TV.",
+                        "She doesn't watch much TV.",
+                        "She does not watch a lot of TV.",
+                        "She doesn’t watch a lot of TV.",
+                        "She doesn't watch a lot of TV."
+                      ]
                     }
                   ]
                 },
@@ -1283,7 +1293,14 @@
                   "block": [
                     {
                       "text": "4. Nick doesn’t like to drive. (use his car)",
-                      "correctAnswer": ["She does not use her car a lot.", "She doesn’t use her car a lot.", "She doesn't use her car a lot."]
+                      "correctAnswer": [
+                        "He does not use his car much.",
+                        "He doesn’t use his car much.",
+                        "He doesn't use his car much.",
+                        "He does not use his car a lot.",
+                        "He doesn’t use his car a lot.",
+                        "He doesn't use his car a lot."
+                      ]
                     }
                   ]
                 },
@@ -1291,7 +1308,14 @@
                   "block": [
                     {
                       "text": "5. Matt spends most of the time at home. (go out)",
-                      "correctAnswer": ["He does not go out a lot.", "He doesn’t go out a lot.", "He doesn't go out a lot."]
+                      "correctAnswer": [
+                        "He does not go out much.",
+                        "He doesn’t go out much.",
+                        "He doesn't go out much.",
+                        "He does not go out a lot.",
+                        "He doesn’t go out a lot.",
+                        "He doesn't go out a lot."
+                      ]
                     }
                   ]
                 },

@@ -14,7 +14,7 @@
   "contents": [
     {
       "ribbon": {
-        "icon": "bookmarks",
+        "icon": "page",
         "label": "TABLE OF CONTENTS (43 days)"
       }
     },
@@ -35,8 +35,7 @@
                     }
                   ]
                 }
-              ],
-              "lineBreak": true
+              ]
             },
             {
               "block": [
@@ -47,16 +46,35 @@
                       "link": "#day-1",
                       "label": "Day 1 • Welcome / Icebreaker"
                     }
-                  ]
-                },
+                  ],
+                  "lineBreak": true
+                }
+              ]
+            },
+            {
+              "block": [
                 {
                   "links": [
                     {
-                      "icon": "bookmark",
+                      "icon": "bookmarks",
                       "link": "#day-2",
-                      "label": "Day 2 • What's your name? (Cycle 1)"
+                      "label": "Days 2 - 6 + Quiz",
+                      "subLinks": [
+                        {
+                          "icon": "bookmark",
+                          "link": "#day-2",
+                          "label": "Day 2 • What's your name? (Cycle 1)"
+                        }
+                      ]
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "links": []
                 },
                 {
                   "links": [
@@ -100,6 +118,12 @@
             },
             {
               "block": [
+                {
+                  "icon": "bookmarks"
+                },
+                {
+                  "boldText": "Days 7 - 11 + Quiz"
+                },
                 {
                   "links": [
                     {
