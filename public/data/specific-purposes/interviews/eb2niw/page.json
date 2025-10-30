@@ -32,7 +32,7 @@
                 {
                   "links": [
                     {
-                      "icon": "bookmarks",
+                      "icon": "bookmark",
                       "link": "#what-it-is",
                       "label": "What it is"
                     }
@@ -45,7 +45,7 @@
                 {
                   "links": [
                     {
-                      "icon": "bookmarks",
+                      "icon": "bookmark",
                       "link": "#who-qualifies",
                       "label": "Who qualifies"
                     }
@@ -58,7 +58,7 @@
                 {
                   "links": [
                     {
-                      "icon": "bookmarks",
+                      "icon": "bookmark",
                       "link": "#common-questions",
                       "label": "Common Questions"
                     }
@@ -72,7 +72,7 @@
     },
     {
       "ribbon": {
-        "icon": "page",
+        "icon": "bookmark",
         "label": "What It Is"
       }
     },
@@ -82,23 +82,6 @@
         {
           "card": false,
           "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "EB-2 NIW "
-                },
-                {
-                  "text": "stands for "
-                },
-                {
-                  "boldText": "Employment-Based Immigration, National Interest Waiver"
-                },
-                {
-                  "text": "."
-                }
-              ],
-              "lineBreak": true
-            },
             {
               "block": [
                 {
@@ -128,7 +111,7 @@
     },
     {
       "ribbon": {
-        "icon": "question",
+        "icon": "bookmark",
         "label": "Who qualifies"
       }
     },
@@ -166,7 +149,7 @@
     },
     {
       "ribbon": {
-        "icon": "question",
+        "icon": "bookmark",
         "label": "Common Questions"
       }
     },
