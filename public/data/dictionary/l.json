@@ -2,6 +2,35 @@
   {
     "definitions": [
       {
+        "word": "lost cause",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a person or thing that is certain to fail or that can no longer be helped or improved.",
+        "ptDefinition": "uma pessoa ou coisa que está destinada ao fracasso ou que não pode mais ser ajudada ou melhorada.",
+        "examples": [
+          {
+            "enExample": "Trying to convince him to study is a lost cause.",
+            "ptExample": "Tentar convencê-lo a estudar é uma causa perdida."
+          },
+          {
+            "enExample": "I thought the project was a lost cause, but somehow we made it work.",
+            "ptExample": "Achei que o projeto fosse uma causa perdida, mas de alguma forma conseguimos fazê-lo funcionar."
+          },
+          {
+            "enExample": "Some people think learning grammar is a lost cause, but it’s actually possible with practice.",
+            "ptExample": "Algumas pessoas acham que aprender gramática é uma causa perdida, mas na verdade é possível com prática."
+          }
+        ],
+        "synonyms": ["hopeless case", "failure", "no hope", "dead end"],
+        "antonyms": ["success", "hopeful case", "achievable goal"],
+        "seeAlso": ["give up", "waste of time", "beyond help"],
+        "notes": [
+          {
+            "enNote": "Often used to describe efforts or people that seem impossible to change or improve.",
+            "ptNote": "Usado frequentemente para descrever esforços ou pessoas que parecem impossíveis de mudar ou melhorar."
+          }
+        ]
+      },
+      {
         "word": "lose one’s temper",
         "partOfSpeech": "idiom",
         "enDefinition": "to suddenly become very angry or lose control of one’s emotions",

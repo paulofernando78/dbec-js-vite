@@ -1,12 +1,12 @@
-import styleImportsPath from "@css/imports.css?inline";
-import styleGuessWordPath from "@css/components/organisms/guess-word.css?inline";
+import styleImports from "@css/imports.css?inline";
+import styleGuessWord from "@css/components/organisms/guess-word.css?inline";
 
 class GuessWord extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    [styleImportsPath, styleGuessWordPath].forEach((imports) => {
+    [styleImports, styleGuessWord].forEach((imports) => {
       const style = document.createElement("style");
       style.textContent = imports;
       this.shadowRoot.appendChild(style);
@@ -49,12 +49,14 @@ class GuessWord extends HTMLElement {
     lettersWrapper.classList.add("letters-heart-display-wrapper");
     Wrapper.appendChild(lettersWrapper);
 
+    // Attempts Words
     const attemptWords = document.createElement("span");
     attemptWords.classList.add("attempt-words");
     attemptWords.textContent = "";
     lettersWrapper.appendChild(attemptWords);
     this.attemptWords = attemptWords;
 
+    // Letter Continer
     this.letterContainer = document.createElement("div");
     this.letterContainer.classList.add("letter-container");
     lettersWrapper.appendChild(this.letterContainer);
@@ -67,7 +69,7 @@ class GuessWord extends HTMLElement {
 
     letters.forEach((ch) => {
       const letter = document.createElement("wc-button");
-      letter.classList.add("letter");
+      letter.className = "letter";
       letter.setAttribute("data-label", ch);
       letter.setAttribute("data-font", "Slackey");
 

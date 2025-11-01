@@ -2,6 +2,61 @@
   {
     "definitions": [
       {
+        "word": "blow something",
+        "phonetics": "/bloʊ ˈsʌmθɪŋ/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to destroy, ruin, or waste something; to cause something to fail or be lost; sometimes used informally for losing an opportunity or making a mistake.",
+        "ptDefinition": "destruir, arruinar ou desperdiçar algo; causar a falha ou perda de algo; usado informalmente para perder uma oportunidade ou cometer um erro.",
+        "examples": [
+          {
+            "enExample": "He blew his chance at getting the job by arriving late to the interview.",
+            "ptExample": "Ele perdeu a chance de conseguir o emprego ao chegar atrasado para a entrevista."
+          },
+          {
+            "enExample": "Don’t blow your money on useless things.",
+            "ptExample": "Não desperdice seu dinheiro com coisas inúteis."
+          },
+          {
+            "enExample": "The explosion blew the roof off the building.",
+            "ptExample": "A explosão arrancou o telhado do prédio."
+          }
+        ],
+        "synonyms": ["ruin", "destroy", "waste", "lose", "mess up"],
+        "antonyms": ["preserve", "save", "maintain"],
+        "seeAlso": ["blow up", "blow off", "mess up"],
+        "notes": [
+          {
+            "enNote": "‘Blow something’ can mean either a literal explosion or a figurative failure, depending on the context.",
+            "ptNote": "‘Blow something’ pode significar tanto uma explosão literal quanto um fracasso figurado, dependendo do contexto."
+          }
+        ]
+      },
+      {
+        "word": "besides the point",
+        "partOfSpeech": "idiom",
+        "enDefinition": "not relevant to the main subject or issue being discussed; irrelevant.",
+        "ptDefinition": "não relevante para o assunto principal em discussão; irrelevante.",
+        "examples": [
+          {
+            "enExample": "You’re right that the food was delicious, but that’s beside the point — we were talking about the service.",
+            "ptExample": "Você tem razão que a comida estava deliciosa, mas isso não vem ao caso — estávamos falando do atendimento."
+          },
+          {
+            "enExample": "His personal opinion is beside the point; we need to focus on the facts.",
+            "ptExample": "A opinião pessoal dele não vem ao caso; precisamos focar nos fatos."
+          }
+        ],
+        "synonyms": ["irrelevant", "off-topic", "immaterial"],
+        "antonyms": ["relevant", "pertinent", "to the point"],
+        "seeAlso": ["off the topic", "beside the mark", "not the issue"],
+        "notes": [
+          {
+            "enNote": "Commonly used to dismiss comments that do not relate to the main issue being discussed.",
+            "ptNote": "Usado comumente para descartar comentários que não se relacionam ao assunto principal em discussão."
+          }
+        ]
+      },
+      {
         "word": "boat",
         "phonetics": "US /boʊt/, UK /bəʊt/",
         "partOfSpeech": "noun",

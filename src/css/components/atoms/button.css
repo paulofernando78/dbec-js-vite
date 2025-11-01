@@ -2,6 +2,7 @@ button {
   width: 30px;
   height: 30px;
   padding: 1px;
+  color: var(--letter-color);
   border-radius: 20%;
   background-color: var(--button-color);
   box-shadow: var(--neumorphism);

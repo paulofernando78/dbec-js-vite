@@ -1,14 +1,13 @@
-import styleImportsPath from "@css/imports.css?inline";
-import styleTextPath from "@css/components/molecules/text.css?inline";
+import styleImports from "@css/imports.css?inline";
+import styleText from "@css/components/molecules/text.css?inline";
 import * as icons from "@images/svg-imports.js";
-import { subBuild } from "three/tsl";
 
 class Text extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    [styleImportsPath, styleTextPath].forEach((imports) => {
+    [styleImports, styleText].forEach((imports) => {
       const style = document.createElement("style");
       style.textContent = imports;
       this.shadowRoot.appendChild(style);
@@ -94,6 +93,9 @@ class Text extends HTMLElement {
         wrapper.appendChild(audioPlayer);
         textWrapper.appendChild(wrapper);
       }
+
+      // Cria o UL uma única vez para todos os links principais
+      const mainUl = document.createElement("ul");
 
       const blockElement = document.createElement("p");
 
@@ -231,18 +233,21 @@ class Text extends HTMLElement {
           notes.data = {
             value: subItem.notes,
             placeholder: subItem.placeholder,
-            height: "76px"
-          }
-          blockElement.appendChild(notes)
+            height: "76px",
+          };
+          blockElement.appendChild(notes);
         }
 
-        // Links
-        if (Array.isArray(subItem.links) && subItem.links.length) {
-          const ul = document.createElement("ul");
+        if (blockElement.textContent.trim() !== "") {
+          textWrapper.appendChild(blockElement);
+        }
+      });
 
+      // Links
+      item.block.forEach((subItem) => {
+        if (Array.isArray(subItem.links) && subItem.links.length) {
           subItem.links.forEach((link) => {
             const li = document.createElement("li");
-
             const wcIconItem = document.createElement("wc-icon-item");
             wcIconItem.className = "link-text";
             wcIconItem.data = {
@@ -253,14 +258,17 @@ class Text extends HTMLElement {
               quizColor: link.quizColor,
               testColor: link.testColor,
             };
-
             li.appendChild(wcIconItem);
 
-            if (link.subLinks && link.subLinks.length > 0) {
+            if (link.lineBreak) {
+              li.style.marginBottom = "var(--line-break)";
+            }
+
+            // SubLinks
+            if (Array.isArray(link.subLinks) && link.subLinks.length > 0) {
               const subUl = document.createElement("ul");
               link.subLinks.forEach((subLink) => {
                 const subLi = document.createElement("li");
-
                 const subIconItem = document.createElement("wc-icon-item");
                 subIconItem.className = "link-text";
                 subIconItem.data = {
@@ -268,45 +276,37 @@ class Text extends HTMLElement {
                   link: subLink.link,
                   target: subLink.target,
                   label: subLink.label,
+                  quizColor: subLink.quizColor,
                 };
-
                 subLi.appendChild(subIconItem);
                 subUl.appendChild(subLi);
               });
-
               li.appendChild(subUl);
             }
-            ul.appendChild(li);
+
+            mainUl.appendChild(li);
           });
-
-          blockElement.appendChild(ul);
-
-          if (subItem.addHr) {
-            const hr = document.createElement("hr");
-            hr.className = "hr";
-            blockElement.appendChild(hr);
-          }
-
-          if (subItem.lineBreak) {
-            const spacer = document.createElement("div");
-            spacer.style.marginBottom = "var(--line-break)";
-            blockElement.appendChild(spacer);
-          }
         }
       });
 
+      // Adiciona o UL ao final (fora do loop)
+      if (mainUl.children.length > 0) {
+        textWrapper.appendChild(mainUl);
+      }
+
       // Line Break
       if (item.lineBreak) {
-        blockElement.style.marginBottom = "var(--line-break)";
+        const lastChild = textWrapper.lastChild;
+        if (lastChild) {
+          lastChild.style.marginBottom = "var(--line-break)";
+        }
       }
 
       // Hr
       if (item.addHr) {
         const hr = document.createElement("hr");
-        blockElement.appendChild(hr);
+        textWrapper.appendChild(hr);
       }
-
-      textWrapper.appendChild(blockElement);
     });
 
     // Image & Video Positisions

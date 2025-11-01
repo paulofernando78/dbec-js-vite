@@ -1,19 +1,18 @@
 {
   "whiteboard": {
-    "title": "Specific Purposes",
-    "subtitle": "Business",
+    "title": "Extras",
     "descriptions": [
       {
-        "icon": "business",
-        "description": "Business"
+        "icon": "vocabulary",
+        "description": "Vocabulary"
       },
       {
         "icon": "book",
-        "description": "Speak Business English Like an American"
+        "description": "Speak English Like an American"
       },
       {
         "icon": "page",
-        "description": "Lesson 15 • Shifting Blame"
+        "description": "Lesson 1 • xxx"
       }
     ]
   },
@@ -21,224 +20,448 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-15.mp3"
-      }
-    },
-    {
-      "card": {
-        "bgColor": "var(--gray-3)",
-        "icon": "page",
-        "label": "Lesson 15 • Shifting Blame",
-        "descriptions": [
-          {
-            "description": [
-              {
-                "text": "Rick and Ellen work for Attic Treasures Antiques, an antique shop. Max is the owner of the shop. Recently, a woman came in and sold them $10,000 worth of \"antique\" jewelry. Max takes one look at the jewelry and realizes it's fake."
-              }
-            ]
-          }
-        ]
+        "src": "/assets/audio/extras/vocabulary/books/selaa/lesson-1.mp3"
       }
     },
     {
       "text": [
         {
+          "card": true,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Max: "
+                  "icon": "page"
                 },
                 {
-                  "text": "I can't believe you two bought these fake antique necklaces! Didn't you examine them before "
-                },
+                  "boldText": "Lesson 1 • xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
                 {
-                  "markedText": "shelling out"
-                },
-                {
-                  "text": " 10 grand?"
-                },
-                {
-                  "text": ""
+                  "text": "xxx"
                 }
               ]
             }
           ]
         },
         {
+          "card": false,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Rick: "
+                  "boldText": "xxx: "
                 },
                 {
-                  "text": "Yeah, I thought they were fake, but I let Ellen "
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
                 },
                 {
-                  "markedText": "talk me into"
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
                 },
                 {
-                  "text": " buying them"
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
                 },
                 {
-                  "text": "."
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "exercises",
+        "label": "Exercises"
+      }
+    },
+    {
+      "exercises": [
+        {
+          "guessWord": [
+            {
+              "word": "cost an arm and a leg",
+              "imageSrc": "public/assets/images/general/cost-an-arm-and-a-leg.avif"
+            },
+            {
+              "word": "go back to the drawing board",
+              "imageSrc": "/assets/images/general/go-back-to-the-drawing board.avif"
+            },
+            {
+              "word": "there’s no point",
+              "imageSrc": "/assets/images/general/theres-no-point.avif"
+            },
+            {
+              "word": "sharp as a tack",
+              "imageSrc": "/assets/images/general/sharp-as-a-tack.avif"
+            },
+            {
+              "word": "give someone the creeps",
+              "imageSrc": "/assets/images/general/give-someone-the-creeps.avif"
+            },
+            {
+              "word": "break the news",
+              "imageSrc": "/assets/images/general/break-the-news.avif"
+            },
+            {
+              "word": "save the day",
+              "imageSrc": "/assets/images/general/save-the-day.avif"
+            },
+            {
+              "word": "put up with",
+              "imageSrc": "/assets/images/general/put-up-with.avif"
+            },
+            {
+              "word": "top dollar",
+              "imageSrc": "/assets/images/general/top-dollar.avif"
+            }
+          ]
+        },
+        {
+          "title": "1. Now fill in the blanks with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "1.1 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text":	"xxx"
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Ellen: "
-                },
-                {
-                  "text": "What? "
-                },
-                {
-                  "markedText": "I can't believe my ears"
-                },
-                {
-                  "text": "! You thought they were real. Now you're just trying to "
-                },
-                {
-                  "markedText": "cover yourself"
-                },
-                {
-                  "text": "!"
-                }
-              ]
-            }
-          ]
+          "title": "2. Choose the missing word:"
         },
         {
-          "blocks": [
+          "radioExercises": [
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Rick: "
+                  "text": "2.1 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "I don't want to be the "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "fall guy "
-                },
-                {
-                  "text": "here, Ellen. You were the one who looked at them under a magnifying glass."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Ellen: "
+                  "text": "2.2 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "For the record"
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "text": ", you were the one "
-                },
-                {
-                  "markedText": "going on about"
-                },
-                {
-                  "text": " how you "
-                },
-                {
-                  "markedText": "\"struck gold\""
-                },
-                {
-                  "text": " right after the woman left the shop!"
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Rick: "
+                  "text": "2.3 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "I don't remember saying that. Stop trying to "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "pass the buck"
-                },
-                {
-                  "text": ". Just "
-                },
-                {
-                  "markedText": "step up to the plate"
-                },
-                {
-                  "text": " and admit your mistake!"
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Ellen: "
+                  "text": "2.4 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Right, while you "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "wash your hands of"
-                },
-                {
-                  "text": " the whole thing. "
-                },
-                {
-                  "markedText": "Dream on"
-                },
-                {
-                  "text": "!"
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Max: "
+                  "text": "2.5 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Let's stop "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "pointing fingers at each other"
+                  "option": "",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.6 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": ". We need to "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "track down that woman"
+                  "option": "",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.7 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": " and get the money back!"
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "text": "!"
+                  "option": "",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.8 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
+                },
+                {
+                  "option": "",
+                  "isCorrect": false
+                },
+                {
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
             }

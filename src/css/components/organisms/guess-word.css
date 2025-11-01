@@ -1,116 +1,118 @@
 .container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 30px
-      }  
-    
-      .title {
-        display: block;
-        font-family: "Slackey";
-        font-size: 2rem;
-        text-align: center;
-        margin-top: 23px;
-        color: black;
-        text-shadow:
-        2px 2px 2px white,
-        2px 2px 2px black
-      }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
 
-      .image-title, .image-question, .complete-word, .hint {
-        display: block;
-        font-family: "Slackey";
-        font-size: 1rem;
-      }
+.title {
+  display: block;
+  font-family: "Slackey";
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 23px;
+  color: black;
+  text-shadow: 2px 2px 2px white, 2px 2px 2px black;
+}
 
-      .hint {
-        display: block;
-        font-family: "Slackey";
-        font-size: .9rem
-      }
+.image-title,
+.image-question,
+.complete-word,
+.hint {
+  display: block;
+  font-family: "Slackey";
+  font-size: 1rem;
+}
 
-      .attempt-words {
-        display: block;
-        font-family: "Slackey";
-        font-size: 1rem;
-        text-align: center;
-        margin-top: 20px
-      }
+.hint {
+  display: block;
+  font-family: "Slackey";
+  font-size: 0.9rem;
+}
 
-      .image-letters-wrapper {
-        display: grid;
-        grid-template-columns: 300px auto
-      }
+.attempt-words {
+  display: block;
+  font-family: "Slackey";
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 20px;
+}
 
-      .letters-heart-display-wrapper {
-        display: flex;
-        flex-direction: column;
-        gap: 30px
-      }
+.image-letters-wrapper {
+  display: grid;
+  grid-template-columns: 300px auto;
+}
 
-      .letter-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        align-content: flex-start;
-        margin-left: 5.5px
-      }
-      
-      .letter {
-        padding: var(--padding);
-      }
+.letters-heart-display-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
 
-      .attempts-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 4px;
-        margin-inline: 50px
-      }
+.letter-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+  margin-left: 5.5px;
+}
 
-      .attempts {
-        width: 25px;
-      }
+.letter {
+  padding: var(--padding);
+  color: var(--letter-color)
+}
 
-      .word-display {
-        display: block;
-        font-family: "Slackey";
-        font-size: 1.3rem;
-        text-align: center;
-        letter-spacing: 8px
-      }
+.attempts-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4px;
+  margin-inline: 50px;
+}
 
-      .messages {
-        display: none;
-        font-family: "Slackey";
-        font-size: 1.3rem;
-        text-align: center;
-        color: #333;
-      }
+.attempts {
+  width: 25px;
+}
 
-      .messages.show {
-        display: block;
-      }
+.word-display {
+  display: block;
+  font-family: "Slackey";
+  font-size: 1.3rem;
+  text-align: center;
+  letter-spacing: 8px;
+}
 
-      .messages.congrats {
-        color: #28a745;
-      }
+.messages {
+  display: none;
+  font-family: "Slackey";
+  font-size: 1.3rem;
+  text-align: center;
+  color: #333;
+}
 
-      .messages.error {
-        color: #dc3545;
-      }
+.messages.show {
+  display: block;
+}
 
-      .messages.complete {
-        color: #007bff;
-      }
+.messages.congrats {
+  color: #28a745;
+}
 
-      .reset {
-        margin: 0 auto
-      }
+.messages.error {
+  color: #dc3545;
+}
 
-      @media (width <= 500px) {
-        .image-letters-wrapper {
-          display: grid;
-          grid-template-columns: 1fr
-        }
-      }
+.messages.complete {
+  color: #007bff;
+}
+
+.reset {
+  margin: 0 auto;
+}
+
+@media (width <= 500px) {
+  .image-letters-wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}

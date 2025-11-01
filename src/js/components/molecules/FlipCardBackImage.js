@@ -1,12 +1,12 @@
-import cssImportsPath from "@css/imports.css?inline";
-import cssFlipCardPath from "@css/components/molecules/flip-card.css?inline";
+import styleImports from "@css/imports.css?inline";
+import styleFlipCard from "@css/components/molecules/flip-card.css?inline";
 
 class FlipCardBackImage extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    [cssImportsPath, cssFlipCardPath].forEach((css) => {
+    [styleImports, styleFlipCard].forEach((css) => {
       const style = document.createElement("style");
       style.textContent = css;
       this.shadowRoot.appendChild(style);

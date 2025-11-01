@@ -24,13 +24,7 @@
             {
               "block": [
                 {
-                  "links": [
-                    {
-                      "icon": "bookmark",
-                      "link": "#cefr",
-                      "label": "CEFR (Common European Framework of Reference)"
-                    }
-                  ]
+                  "links": []
                 }
               ],
               "lineBreak": true
@@ -41,441 +35,244 @@
                   "links": [
                     {
                       "icon": "bookmark",
+                      "link": "#cefr",
+                      "label": "CEFR (Common European Framework of Reference)",
+                      "lineBreak": true
+                    },
+                    {
+                      "icon": "bookmark",
                       "link": "#day-1",
-                      "label": "Day 1 • Welcome / Icebreaker"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                      "label": "Day 1 • Welcome / Icebreaker",
+                      "lineBreak": true
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-2",
                       "label": "Day 2 • Good memories (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-3",
                       "label": "Day 3 • Good memories (Cycle 2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-4",
                       "label": "Day 4 • Life in the city (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-5",
                       "label": "Day 5 • Life in the city (Cycle 2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-6",
                       "quizColor": true,
-                      "label": "Day 6 • Review + Quiz • Lessons 2 - 5"
-                    }
-                  ]
-                }
-              ],
-              "addHr": true
-            },
-            {
-              "block": [
-                {
-                  "links": [
+                      "label": "Day 6 • Review + Quiz",
+                      "lineBreak": true
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-7",
                       "label": "Day 7 • Making changes (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-8",
                       "label": "Day 8 • Making changes (Cycle 2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-9",
                       "label": "Day 9 • Have you ever tried it? (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-10",
                       "label": "Day 10 • Have you ever tried it? (Cycle 2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-11",
                       "quizColor": true,
-                      "label": "Day 11 • Review + Quiz • Lessons 7 - 10"
-                    }
-                  ]
-                }
-              ],
-              "addHr": true
-            },
-            {
-              "block": [
-                {
-                  "links": [
+                      "label": "Day 11 • Review + Quiz",
+                      "lineBreak": true
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-12",
                       "label": "Day 12 • Hit the road! (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-13",
                       "label": "Day 13 • Hit the road! (Cycle 12"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-14",
                       "label": "Day 14 • Sure! I'll do it. (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-15",
                       "label": "Day 15 • Sure! I'll do it. (Cycle 2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-16",
                       "quizColor": true,
-                      "label": "Day 16 • Review + Quiz • Lessons 12 - 15"
-                    }
-                  ]
-                }
-              ],
-              "addHr": true
-            },
-            {
-              "block": [
-                {
-                  "links": [
+                      "label": "Day 16 • Review + Quiz",
+                      "lineBreak": true
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-17",
                       "label": "Day 17 • What do you use this for? (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-18",
                       "label": "Day 18 • What do you use this for? (Cycle 2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-19",
                       "label": "Day 19 • Time to celebrate (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-20",
                       "label": "Day 20 • Time to celebrate (Cycle 2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-21",
                       "quizColor": true,
-                      "label": "Day 21 • Review + Quiz • Lessons 17 - 20"
-                    }
-                  ]
-                }
-              ],
-              "addHr": true
-            },
-            {
-              "block": [
-                {
-                  "links": [
+                      "label": "Day 21 • Review + Quiz",
+                      "lineBreak": true
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-22",
                       "testColor": true,
-                      "label": "Day 22 • Review + Test Lessons 2 - 21"
-                    }
-                  ]
-                }
-              ],
-              "addHr": true
-            },
-            {
-              "block": [
-                {
-                  "links": [
+                      "label": "Day 22 • Review + Test",
+                      "lineBreak": true
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-23",
                       "label": "Day 23 • Only time will tell. (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-24",
                       "label": "Day 24 • Only time will tell. (Cycle 2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-25",
                       "label": "Day 25 • I like working with people. (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-26",
                       "label": "Day 26 • I like working with people. (Cycle 2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-27",
                       "quizColor": true,
-                      "label": "Day 27 • Review + Quiz • Lessons 23 - 26"
-                    }
-                  ]
-                }
-              ],
-              "addHr": true
-            },
-            {
-              "block": [
-                {
-                  "links": [
+                      "label": "Day 27 • Review + Quiz",
+                      "lineBreak": true
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-28",
                       "label": "Day 28 • It's really worth seeing! (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-29",
                       "label": "Day 29 • It's really worth seeing! (Cycle 2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-30",
                       "label": "Day 30 • It's a long story. (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-31",
                       "label": "Day 31 • It's a long story. (Cycle 2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-32",
                       "quizColor": true,
-                      "label": "Day 32 • Review + Quiz • Lessons 28 - 31"
-                    }
-                  ]
-                }
-              ],
-              "addHr": true
-            },
-            {
-              "block": [
-                {
-                  "links": [
+                      "label": "Day 32 • Review + Quiz",
+                      "lineBreak": true
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-33",
                       "label": "Day 33 • That's entertainment! (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-34",
                       "label": "Day 34 • That's entertainment! (Cycle 2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-35",
                       "label": "Day 35 • Now I get it! (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-36",
                       "label": "Day 36 • Now I get it! (Cycle 2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-37",
                       "quizColor": true,
-                      "label": "Day 37 • Review + Quiz • Lessons 33 - 36"
-                    }
-                  ]
-                }
-              ],
-              "addHr": true
-            },
-            {
-              "block": [
-                {
-                  "links": [
+                      "label": "Day 37 • Review + Quiz",
+                      "lineBreak": true
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-38",
                       "label": "Day 38 • I wouldn't do that? (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-39",
                       "label": "Day 39 • I wouldn't do that? (Cycle 2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-40",
                       "label": "Day 40 • Making excuses (Cycle 1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-41",
                       "label": "Day 41 • Making excuses (Cycle 2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-42",
                       "quizColor": true,
-                      "label": "Day 42 • Review + Quiz • Lessons 38 - 41"
-                    }
-                  ]
-                }
-              ],
-              "addHr": true
-            },
-            {
-              "block": [
-                {
-                  "links": [
+                      "label": "Day 42 • Review + Quiz",
+                      "lineBreak": true
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#day-22",
                       "testColor": true,
-                      "label": "Day 43 • Review + Test Lessons 23 - 42"
+                      "label": "Day 43 • Review + Test"
                     }
                   ]
                 }
@@ -491,19 +288,28 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
-        "label": "CEFR (Common European Framework of Reference)",
-        "descriptions": [{ "description": [{ "text": "A2 ➜ B1" }] }]
+        "icon": "bookmark",
+        "label": "CEFR",
+        "descriptions": [
+          {
+            "description": [
+              {
+                "bold": "Common European Framework Reference"
+              }
+            ]
+          },
+          { "description": [{ "text": "A2 ➜ B1" }] }
+        ]
       }
     },
     {
       "ribbon": {
-        "icon": "pages",
-        "label": "Days 1 - 6 + Quiz"
+        "icon": "bookmarks",
+        "label": "Days 1 - 6"
       },
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 1",
         "descriptions": [
           { "description": [{ "text": "Welcome / Icebreaker" }] },
@@ -518,7 +324,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 2",
         "descriptions": [
           {
@@ -549,7 +355,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 3",
         "descriptions": [
           {
@@ -580,7 +386,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 4",
         "descriptions": [
           {
@@ -611,7 +417,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 5",
         "descriptions": [
           {
@@ -642,7 +448,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 6",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -666,14 +472,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
-        "label": "Days 7 - 11 + Quiz"
+        "icon": "bookmarks",
+        "label": "Days 7 - 11"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 7",
         "descriptions": [
           {
@@ -704,7 +510,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 8",
         "descriptions": [
           {
@@ -735,7 +541,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 9",
         "descriptions": [
           {
@@ -766,7 +572,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 10",
         "descriptions": [
           {
@@ -797,7 +603,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 11",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -821,14 +627,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
-        "label": "Days 12 - 16 + Quiz"
+        "icon": "bookmarks",
+        "label": "Days 12 - 16"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 12",
         "descriptions": [
           {
@@ -859,7 +665,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 13",
         "descriptions": [
           {
@@ -890,7 +696,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 14",
         "descriptions": [
           {
@@ -921,7 +727,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 15",
         "descriptions": [
           {
@@ -952,7 +758,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 16",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -976,14 +782,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
-        "label": "Days 17 - 21 + Quiz"
+        "icon": "bookmarks",
+        "label": "Days 17 - 21"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 17",
         "descriptions": [
           {
@@ -1014,7 +820,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 18",
         "descriptions": [
           {
@@ -1045,7 +851,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 19",
         "descriptions": [
           {
@@ -1076,7 +882,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 20",
         "descriptions": [
           {
@@ -1107,7 +913,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 21",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -1130,15 +936,9 @@
       }
     },
     {
-      "ribbon": {
-        "icon": "pages",
-        "label": "Days 22 + Test"
-      }
-    },
-    {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 22",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -1162,14 +962,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
-        "label": "Days 23 - 27 + Quiz"
+        "icon": "bookmarks",
+        "label": "Days 23 - 27"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 23",
         "descriptions": [
           {
@@ -1200,7 +1000,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 24",
         "descriptions": [
           {
@@ -1231,7 +1031,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 25",
         "descriptions": [
           {
@@ -1262,7 +1062,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 26",
         "descriptions": [
           {
@@ -1293,7 +1093,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 27",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -1317,14 +1117,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
-        "label": "Days 28 - 32 + Quiz"
+        "icon": "bookmarks",
+        "label": "Days 28 - 32"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 28",
         "descriptions": [
           {
@@ -1355,7 +1155,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 29",
         "descriptions": [
           {
@@ -1386,7 +1186,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 30",
         "descriptions": [
           {
@@ -1417,7 +1217,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 31",
         "descriptions": [
           {
@@ -1448,7 +1248,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 32",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -1472,14 +1272,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
-        "label": "Days 33 - 37 + Quiz"
+        "icon": "bookmarks",
+        "label": "Days 33 - 37"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 33",
         "descriptions": [
           {
@@ -1510,7 +1310,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 34",
         "descriptions": [
           {
@@ -1541,7 +1341,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 35",
         "descriptions": [
           {
@@ -1572,7 +1372,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 36",
         "descriptions": [
           {
@@ -1603,7 +1403,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 37",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -1627,14 +1427,14 @@
     },
     {
       "ribbon": {
-        "icon": "pages",
-        "label": "Days 38 - 42 + Quiz"
+        "icon": "bookmarks",
+        "label": "Days 38 - 42"
       }
     },
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 38",
         "descriptions": [
           {
@@ -1665,7 +1465,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 39",
         "descriptions": [
           {
@@ -1696,7 +1496,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 40",
         "descriptions": [
           {
@@ -1727,7 +1527,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 41",
         "descriptions": [
           {
@@ -1758,7 +1558,7 @@
     {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 42",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },
@@ -1781,15 +1581,9 @@
       }
     },
     {
-      "ribbon": {
-        "icon": "pages",
-        "label": "Days 23-41 - Test"
-      }
-    },
-    {
       "card": {
         "bgColor": "var(--gray-3)",
-        "icon": "page",
+        "icon": "bookmark",
         "label": "Day 43",
         "descriptions": [
           { "description": [{ "text": "Learning objectives:" }] },

@@ -417,6 +417,52 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 Where's Marcel from?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 What's his nationality?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.3 Where does he live?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.4 What does he do?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 2"
@@ -491,6 +537,31 @@
                       "correctAnswer": ["laughs"]
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1. What does Marcel see at the station?"
                 }
               ]
             }
@@ -592,6 +663,31 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 What are the man’s plan?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 4"
@@ -676,6 +772,38 @@
                       "text": "the White Star."
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 Where do Marcel get off?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 Why is Zaza Dupont calling the police?"
                 }
               ]
             }
@@ -769,6 +897,38 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1. What do the men also steal?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 Does Marcel follow them?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 6"
@@ -850,6 +1010,38 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 How long do the thieves drive for?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 Where does the car stop?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 7"
@@ -905,7 +1097,7 @@
                 {
                   "block": [
                     {
-                      "text": "7.2 The tall man",
+                      "text": "1.2 The tall man",
                       "correctAnswer": ["takes"]
                     },
                     {
@@ -923,6 +1115,31 @@
                       "text": "the box."
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 At the café, where does Marcel sit?"
                 }
               ]
             }
@@ -1016,6 +1233,38 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 What does Marcel do to get the diamond ring?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 How does Marcel carry the ring?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 9"
@@ -1089,6 +1338,31 @@
                       "text": "of the café and does not look back."
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 Can Marcel escape the café? How?"
                 }
               ]
             }
@@ -1189,6 +1463,31 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 How long does Marcel run?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 11"
@@ -1262,6 +1561,38 @@
                       "text": ", but nothing happens."
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 What's next to the window?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 How does he get to the table?"
                 }
               ]
             }
@@ -1366,6 +1697,31 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 How does the ring come off his neck?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 13"
@@ -1447,6 +1803,31 @@
       ]
     },
     {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1. What does Zaza Dupont do after she finds out the ring is back?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ribbon": {
         "icon": "snippet",
         "label": "Paragraph 14"
@@ -1502,6 +1883,31 @@
                       "text": "very happy in all of them."
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "1. How much is the diamond ring? / How much does the ring cost?"
                 }
               ]
             }
@@ -1591,6 +1997,38 @@
                       "text": "at the blue sky and smiles."
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "2. Now answer the questions."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1. What does Marcel do when he gets back to the boat?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 What does he see on the mirror?"
                 }
               ]
             }

@@ -1,19 +1,18 @@
 {
   "whiteboard": {
-    "title": "Specific Purposes",
-    "subtitle": "Business",
+    "title": "Extras",
     "descriptions": [
       {
-        "icon": "business",
-        "description": "Business"
+        "icon": "vocabulary",
+        "description": "Vocabulary"
       },
       {
         "icon": "book",
-        "description": "Speak Business English Like an American"
+        "description": "Speak English Like an American"
       },
       {
         "icon": "page",
-        "description": "Lesson 6 • Discussing good results"
+        "description": "Lesson 1 • xxx"
       }
     ]
   },
@@ -21,235 +20,448 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-6.mp3"
-      }
-    },
-    {
-      "card": {
-        "bgColor": "var(--gray-3)",
-        "icon": "page",
-        "label": "Lesson 6 • Discussing good results",
-        "descriptions": [
-          {
-            "description": [
-              {
-                "text": "Peter, Linda, and Todd work as managers at Capital City Bank, a retail bank. Linda’s creative idea for attracting new customers to the bank has generated lots of new business."
-              }
-            ]
-          }
-        ]
+        "src": "/assets/audio/extras/vocabulary/books/selaa/lesson-1.mp3"
       }
     },
     {
       "text": [
         {
+          "card": true,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Peter: "
+                  "icon": "page"
                 },
                 {
-                  "text": "Great news! We had a "
-                },
+                  "boldText": "Lesson 1 • xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
                 {
-                  "markedText": "record-breaking"
-                },
-                {
-                  "text": " quarter. We brought in revenues of $500,000."
+                  "text": "xxx"
                 }
               ]
             }
           ]
         },
         {
+          "card": false,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Linda: "
+                  "boldText": "xxx: "
                 },
                 {
-                  "text": "Wow, revenues really were "
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
                 },
                 {
-                  "markedText": "through the roof"
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
                 },
                 {
-                  "text": "!"
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "exercises",
+        "label": "Exercises"
+      }
+    },
+    {
+      "exercises": [
+        {
+          "guessWord": [
+            {
+              "word": "cost an arm and a leg",
+              "imageSrc": "public/assets/images/general/cost-an-arm-and-a-leg.avif"
+            },
+            {
+              "word": "go back to the drawing board",
+              "imageSrc": "/assets/images/general/go-back-to-the-drawing board.avif"
+            },
+            {
+              "word": "there’s no point",
+              "imageSrc": "/assets/images/general/theres-no-point.avif"
+            },
+            {
+              "word": "sharp as a tack",
+              "imageSrc": "/assets/images/general/sharp-as-a-tack.avif"
+            },
+            {
+              "word": "give someone the creeps",
+              "imageSrc": "/assets/images/general/give-someone-the-creeps.avif"
+            },
+            {
+              "word": "break the news",
+              "imageSrc": "/assets/images/general/break-the-news.avif"
+            },
+            {
+              "word": "save the day",
+              "imageSrc": "/assets/images/general/save-the-day.avif"
+            },
+            {
+              "word": "put up with",
+              "imageSrc": "/assets/images/general/put-up-with.avif"
+            },
+            {
+              "word": "top dollar",
+              "imageSrc": "/assets/images/general/top-dollar.avif"
+            }
+          ]
+        },
+        {
+          "title": "1. Now fill in the blanks with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "1.1 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text":	"xxx"
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Todd: "
-                },
-                {
-                  "text": "That’s great. "
-                },
-                {
-                  "markedText": "Kudos to"
-                },
-                {
-                  "text": " Linda! She deserves "
-                },
-                {
-                  "markedText": "a pat on the back"
-                },
-                {
-                  "text": ". The "
-                },
-                {
-                  "markedText": "guerrilla marketing"
-                },
-                {
-                  "text": " campaign she "
-                },
-                {
-                  "markedText": "dreamed up"
-                },
-                {
-                  "text": " was brilliant. She sent out e-mail to all of our customers asking them to e-mail a friend about our services. For each friend they e-mailed, they received a free gift."
-                }
-              ]
-            }
-          ]
+          "title": "2. Choose the missing word:"
         },
         {
-          "blocks": [
+          "radioExercises": [
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Peter: "
+                  "text": "2.1 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Linda, your campaign helped us "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "drum up a lot of business"
-                },
-                {
-                  "text": ". We "
-                },
-                {
-                  "markedText": "signed on 800 new customers"
-                },
-                {
-                  "text": "."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Linda: "
+                  "text": "2.2 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "I’m really glad my plan "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "panned out"
-                },
-                {
-                  "text": ". I thought it would, since everybody loves a "
-                },
-                {
-                  "markedText": " freebie"
-                },
-                {
-                  "text": "!"
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Todd: "
+                  "text": "2.3 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Linda, we can always count on you to "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "think outside the box"
-                },
-                {
-                  "text": "."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Linda: "
+                  "text": "2.4 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "For the record"
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "text": ", Peter helped me come up with the idea."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Peter: "
+                  "text": "2.5 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Thanks for "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "sharing the credit"
-                },
-                {
-                  "text": ", Linda. But it was your idea."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Todd: "
+                  "text": "2.6 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "The important thing is that we’re now "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "giving our"
+                  "option": "",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.7 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": " biggest competitor, U.S. Bank, a "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "run for their money"
+                  "option": "",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.8 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "."
+                  "option": "",
+                  "isCorrect": false
+                },
+                {
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
             }

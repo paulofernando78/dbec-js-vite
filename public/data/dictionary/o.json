@@ -2,6 +2,43 @@
   {
     "definitions": [
       {
+        "word": "over one’s head",
+        "partOfSpeech": "idiom",
+        "enDefinition": "too difficult for someone to understand; beyond someone’s ability or comprehension.",
+        "ptDefinition": "difícil demais para alguém entender; além da capacidade ou compreensão de alguém.",
+        "examples": [
+          {
+            "enExample": "That lecture on quantum mechanics went completely over my head.",
+            "ptExample": "Aquela palestra sobre mecânica quântica passou completamente acima da minha compreensão."
+          },
+          {
+            "enExample": "The movie’s plot was so complex that it went over most people’s heads.",
+            "ptExample": "O enredo do filme era tão complexo que passou acima da cabeça da maioria das pessoas."
+          },
+          {
+            "enExample": "Don’t worry if you didn’t get the joke — it went over everyone’s head.",
+            "ptExample": "Não se preocupe se você não entendeu a piada — passou despercebida por todos."
+          }
+        ],
+        "synonyms": [
+          "beyond comprehension",
+          "too complex",
+          "hard to understand"
+        ],
+        "antonyms": ["easy to understand", "clear", "simple"],
+        "seeAlso": [
+          "out of one's depth",
+          "fly over someone's head",
+          "beyond one's grasp"
+        ],
+        "notes": [
+          {
+            "enNote": "Often used when something is intellectually challenging or too advanced for the listener.",
+            "ptNote": "Usado frequentemente quando algo é intelectualmente desafiador ou muito avançado para o ouvinte."
+          }
+        ]
+      },
+      {
         "word": "out of one’s range",
         "partOfSpeech": "idiom",
         "enDefinition": "beyond someone’s ability, knowledge, or financial capacity",

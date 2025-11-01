@@ -1,19 +1,18 @@
 {
   "whiteboard": {
-    "title": "Specific Purposes",
-    "subtitle": "Business",
+    "title": "Extras",
     "descriptions": [
       {
-        "icon": "business",
-        "description": "Business"
+        "icon": "vocabulary",
+        "description": "Vocabulary"
       },
       {
         "icon": "book",
-        "description": "Speak Business English Like an American"
+        "description": "Speak English Like an American"
       },
       {
         "icon": "page",
-        "description": "Lesson 7 • Discussing bad results"
+        "description": "Lesson 1 • xxx"
       }
     ]
   },
@@ -21,232 +20,448 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-7.mp3"
-      }
-    },
-    {
-      "card": {
-        "bgColor": "var(--gray-3)",
-        "icon": "page",
-        "label": "Lesson 7 • Discussing bad results",
-        "descriptions": [
-          {
-            "description": [
-              {
-                "text": "Ron, Alex, and Pam work for Brooklyn Brewski, a company that brews and distributes beer throughout New York. The company’s recent results have been terrible."
-              }
-            ]
-          }
-        ]
+        "src": "/assets/audio/extras/vocabulary/books/selaa/lesson-1.mp3"
       }
     },
     {
       "text": [
         {
+          "card": true,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Alex: "
+                  "icon": "page"
                 },
                 {
-                  "text": "We need to "
-                },
+                  "boldText": "Lesson 1 • xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
                 {
-                  "markedText": "face the music"
-                },
-                {
-                  "text": " here. We’re "
-                },
-                {
-                  "markedText": "in deep trouble"
-                },
-                {
-                  "text": "! Sales are down by 50 percent versus last year."
+                  "text": "xxx"
                 }
               ]
             }
           ]
         },
         {
+          "card": false,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Pam: "
+                  "boldText": "xxx: "
                 },
                 {
-                  "text": "It looks like we’re going to be "
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
                 },
                 {
-                  "markedText": "in the red"
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
                 },
                 {
-                  "text": " for the year "
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
                 },
                 {
-                  "markedText": "to the tune of"
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
                 },
                 {
-                  "text": " $1 million."
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "exercises",
+        "label": "Exercises"
+      }
+    },
+    {
+      "exercises": [
+        {
+          "guessWord": [
+            {
+              "word": "cost an arm and a leg",
+              "imageSrc": "public/assets/images/general/cost-an-arm-and-a-leg.avif"
+            },
+            {
+              "word": "go back to the drawing board",
+              "imageSrc": "/assets/images/general/go-back-to-the-drawing board.avif"
+            },
+            {
+              "word": "there’s no point",
+              "imageSrc": "/assets/images/general/theres-no-point.avif"
+            },
+            {
+              "word": "sharp as a tack",
+              "imageSrc": "/assets/images/general/sharp-as-a-tack.avif"
+            },
+            {
+              "word": "give someone the creeps",
+              "imageSrc": "/assets/images/general/give-someone-the-creeps.avif"
+            },
+            {
+              "word": "break the news",
+              "imageSrc": "/assets/images/general/break-the-news.avif"
+            },
+            {
+              "word": "save the day",
+              "imageSrc": "/assets/images/general/save-the-day.avif"
+            },
+            {
+              "word": "put up with",
+              "imageSrc": "/assets/images/general/put-up-with.avif"
+            },
+            {
+              "word": "top dollar",
+              "imageSrc": "/assets/images/general/top-dollar.avif"
+            }
+          ]
+        },
+        {
+          "title": "1. Now fill in the blanks with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "1.1 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text":	"xxx"
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Ron: "
-                },
-                {
-                  "markedText": "No wonder"
-                },
-                {
-                  "text": ". We’re losing "
-                },
-                {
-                  "markedText": "market share"
-                },
-                {
-                  "text": " to Manhattan Beer."
-                }
-              ]
-            }
-          ]
+          "title": "2. Choose the missing word:"
         },
         {
-          "blocks": [
+          "radioExercises": [
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Alex: "
+                  "text": "2.1 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Why? We need to "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "get to the bottom of this"
-                },
-                {
-                  "text": "!"
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Pam: "
+                  "text": "2.2 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Every year they come up with new beers. They’re really "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "on top of trends"
-                },
-                {
-                  "text": ". For instance, last year they released a low-carb beer."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Ron: "
+                  "text": "2.3 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "No wonder they’re "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "eating our lunch"
-                },
-                {
-                  "text": "! They’re "
-                },
-                {
-                  "markedText": "cashing in on"
-                },
-                {
-                  "text": " the latest trends and bringing "
-                },
-                {
-                  "markedText": "great new products to market"
-                },
-                {
-                  "text": "."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Pam: "
+                  "text": "2.4 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Meanwhile, we’re "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "running in place"
-                },
-                {
-                  "text": ". We need a new product block and new ideas for marketing."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Alex: "
+                  "text": "2.5 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "It’s time to "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "clean house"
-                },
-                {
-                  "text": " and bring some"
-                },
-                {
-                  "markedText": " new blood"
-                },
-                {
-                  "text": " into this company."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Ron: "
+                  "text": "2.6 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "You took the words right out of my mouth"
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "text": "! We need some new people with fresh ideas."
+                  "option": "",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.7 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
+                },
+                {
+                  "option": "",
+                  "isCorrect": false
+                },
+                {
+                  "option": "",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.8 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
+                },
+                {
+                  "option": "",
+                  "isCorrect": false
+                },
+                {
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
             }

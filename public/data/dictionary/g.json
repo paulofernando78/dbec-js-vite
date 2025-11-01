@@ -2,6 +2,36 @@
   {
     "definitions": [
       {
+        "word": "get real!",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to tell someone to stop being unrealistic, naive, or overly idealistic; to face reality or be more practical.",
+        "ptDefinition": "usado para dizer a alguém para parar de ser irrealista, ingênuo ou idealista demais; para encarar a realidade ou ser mais prático.",
+        "examples": [
+          {
+            "enExample": "You think you can learn a new language in two days? Get real!",
+            "ptExample": "Você acha que pode aprender um novo idioma em dois dias? Cai na real!"
+          },
+          {
+            "enExample": "Get real — there’s no way we can finish this project by tomorrow.",
+            "ptExample": "Cai na real — não há como terminar este projeto até amanhã."
+          }
+        ],
+        "synonyms": [
+          "be realistic",
+          "face reality",
+          "wake up",
+          "come to your senses"
+        ],
+        "antonyms": ["daydream", "be unrealistic", "fantasize"],
+        "seeAlso": ["come on!", "be practical", "face the facts"],
+        "notes": [
+          {
+            "enNote": "Often said in informal conversations to express disbelief or to urge someone to be more realistic.",
+            "ptNote": "Usado em conversas informais para expressar descrença ou incentivar alguém a ser mais realista."
+          }
+        ]
+      },
+      {
         "word": "give someone the ax",
         "partOfSpeech": "idiom",
         "enDefinition": "to dismiss or fire someone from a job; to end someone’s employment or relationship suddenly and decisively",

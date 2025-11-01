@@ -2,6 +2,138 @@
   {
     "definitions": [
       {
+        "word": "hoot",
+        "phonetics": "/huːt/",
+        "partOfSpeech": "noun / verb",
+        "enDefinition": "1) (noun) a short, loud sound made by an owl or a horn; 2) (verb) to make a loud sound or to laugh loudly, often in amusement.",
+        "ptDefinition": "1) (substantivo) som curto e alto feito por uma coruja ou buzina; 2) (verbo) fazer um som alto ou rir alto, geralmente por diversão.",
+        "examples": [
+          {
+            "enExample": "We heard the hoot of an owl in the forest.",
+            "ptExample": "Ouvimos o pio de uma coruja na floresta."
+          },
+          {
+            "enExample": "The driver hooted at the pedestrians crossing the street.",
+            "ptExample": "O motorista buzinou para os pedestres que atravessavam a rua."
+          },
+          {
+            "enExample": "Everyone hooted with laughter at his silly jokes.",
+            "ptExample": "Todos riram alto das piadas bobas dele."
+          }
+        ],
+        "synonyms": ["toot", "honk", "laugh", "chuckle"],
+        "antonyms": ["silence", "quiet"],
+        "seeAlso": ["hoot with laughter", "not give a hoot"],
+        "notes": [
+          {
+            "enNote": "As a noun, 'hoot' often refers to a short sound made by owls or horns. As a verb, it can also mean to laugh loudly or to make a noise as a signal.",
+            "ptNote": "Como substantivo, 'hoot' geralmente se refere a um som curto feito por corujas ou buzinas. Como verbo, também pode significar rir alto ou fazer um som como sinal."
+          }
+        ]
+      },
+      {
+        "word": "not give a hoot",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to not care at all about something; to show complete lack of interest or concern.",
+        "ptDefinition": "não se importar nem um pouco com algo; demonstrar total falta de interesse ou preocupação.",
+        "examples": [
+          {
+            "enExample": "I don’t give a hoot what people think about my clothes.",
+            "ptExample": "Eu não dou a mínima para o que as pessoas pensam sobre minhas roupas."
+          },
+          {
+            "enExample": "She doesn’t give a hoot about politics.",
+            "ptExample": "Ela não está nem aí para política."
+          },
+          {
+            "enExample": "They don’t give a hoot if we’re late.",
+            "ptExample": "Eles não se importam se a gente se atrasar."
+          }
+        ],
+        "synonyms": [
+          "not care",
+          "not give a damn",
+          "not give a fig",
+          "not mind",
+          "be indifferent"
+        ],
+        "antonyms": ["care", "worry about", "be concerned", "take interest"],
+        "seeAlso": ["couldn’t care less", "not give a toss", "not bat an eye"],
+        "notes": [
+          {
+            "enNote": "Informal and often humorous way to express indifference. Variations include 'not give a damn' or 'not give a fig'.",
+            "ptNote": "Forma informal e frequentemente bem-humorada de expressar indiferença. Variações incluem 'not give a damn' ou 'not give a fig'."
+          }
+        ]
+      },
+      {
+        "word": "hit the books",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to begin studying very hard; to devote time and effort to academic work.",
+        "ptDefinition": "começar a estudar com afinco; dedicar tempo e esforço aos estudos.",
+        "examples": [
+          {
+            "enExample": "I can’t go out tonight. I need to hit the books for my math exam.",
+            "ptExample": "Não posso sair esta noite. Preciso estudar muito para minha prova de matemática."
+          },
+          {
+            "enExample": "After the holiday break, students are ready to hit the books again.",
+            "ptExample": "Após as férias, os alunos estão prontos para voltar a estudar."
+          },
+          {
+            "enExample": "If you want to pass the test, you’d better hit the books now.",
+            "ptExample": "Se você quer passar na prova, é melhor começar a estudar agora."
+          }
+        ],
+        "synonyms": ["study hard", "cram", "review", "prepare for exams"],
+        "antonyms": ["slack off", "procrastinate", "goof off"],
+        "seeAlso": [
+          "burn the midnight oil",
+          "study session",
+          "cram for a test"
+        ],
+        "notes": [
+          {
+            "enNote": "Commonly used by students to express the need to study intensively, especially before exams.",
+            "ptNote": "Usado comumente por estudantes para expressar a necessidade de estudar intensamente, especialmente antes de provas."
+          }
+        ]
+      },
+      {
+        "word": "have one’s heart set on",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to want something very much; to be determined to achieve or obtain something.",
+        "ptDefinition": "querer algo intensamente; estar determinado a alcançar ou conseguir algo.",
+        "examples": [
+          {
+            "enExample": "She has her heart set on studying abroad next year.",
+            "ptExample": "Ela está decidida a estudar no exterior no próximo ano."
+          },
+          {
+            "enExample": "He had his heart set on becoming a pilot since he was a child.",
+            "ptExample": "Ele sempre quis ser piloto desde criança."
+          },
+          {
+            "enExample": "If you have your heart set on that job, don’t give up so easily.",
+            "ptExample": "Se você realmente quer esse emprego, não desista tão facilmente."
+          }
+        ],
+        "synonyms": [
+          "desire strongly",
+          "be determined",
+          "long for",
+          "yearn for"
+        ],
+        "antonyms": ["lose interest", "give up on", "be indifferent"],
+        "seeAlso": ["set your sights on", "dream of", "aim for"],
+        "notes": [
+          {
+            "enNote": "This idiom emphasizes strong desire or emotional investment in achieving a goal.",
+            "ptNote": "Esse idiom enfatiza um forte desejo ou envolvimento emocional para alcançar um objetivo."
+          }
+        ]
+      },
+      {
         "word": "haggle",
         "phonetics": "/ˈhæɡ.əl/",
         "partOfSpeech": "verb",

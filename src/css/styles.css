@@ -5,6 +5,7 @@
   --background-color: #e0e5ec;
   --text-color: #000000;
   --button__color: #e0e0e0;
+  --letter-color: #222;
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -33,6 +34,7 @@ body.dark {
   --background-color: #18191f;
   --text-color: #ffffff;
   --button__color: #18191f;
+  --letter-color: #fff;
 
   /* Neumorphism */
   --neumorphism: 2px 2px 1px #000000, -1px -1px 1px #2c2c2c;

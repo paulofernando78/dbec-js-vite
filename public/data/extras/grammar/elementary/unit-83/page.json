@@ -544,7 +544,7 @@
                   "boldText": "• "
                 },
                 {
-                  "text": "Do you have"
+                  "text": "Do you have "
                 },
                 {
                   "markedText": "many friends"
@@ -1014,7 +1014,7 @@
                       "correctAnswer": ["many countries"]
                     },
                     {
-                      "text": "."
+                      "text": "?"
                     }
                   ]
                 },

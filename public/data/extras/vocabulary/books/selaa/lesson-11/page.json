@@ -1,19 +1,18 @@
 {
   "whiteboard": {
-    "title": "Specific Purposes",
-    "subtitle": "Business",
+    "title": "Extras",
     "descriptions": [
       {
-        "icon": "business",
-        "description": "Business"
+        "icon": "vocabulary",
+        "description": "Vocabulary"
       },
       {
         "icon": "book",
-        "description": "Speak Business English Like an American"
+        "description": "Speak English Like an American"
       },
       {
         "icon": "page",
-        "description": "Lesson 11 • Motivating Co-Workers"
+        "description": "Lesson 1 • xxx"
       }
     ]
   },
@@ -21,271 +20,448 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-11.mp3"
-      }
-    },
-    {
-      "card": {
-        "bgColor": "var(--gray-3)",
-        "icon": "page",
-        "label": "Lesson 11 • Motivating Co-Workers",
-        "descriptions": [
-          {
-            "description": [
-              {
-                "text": "Greg, Stan, and Donna work for Pack-It, a maker of trash bags and other consumer goods. After disappointing sales results, they discuss exiting the trash bag business. But a fresh new idea gives them hope for the future."
-              }
-            ]
-          }
-        ]
+        "src": "/assets/audio/extras/vocabulary/books/selaa/lesson-1.mp3"
       }
     },
     {
       "text": [
         {
+          "card": true,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Greg: "
+                  "icon": "page"
                 },
                 {
-                  "text": "Our sales were down again last quarter."
+                  "boldText": "Lesson 1 • xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "xxx"
                 }
               ]
             }
           ]
         },
         {
+          "card": false,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Donna: "
+                  "boldText": "xxx: "
                 },
                 {
-                  "text": "We’ve been "
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
                 },
                 {
-                  "markedText": "working our tails off"
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
                 },
                 {
-                  "text": " and our results are still lousy!"
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "exercises",
+        "label": "Exercises"
+      }
+    },
+    {
+      "exercises": [
+        {
+          "guessWord": [
+            {
+              "word": "cost an arm and a leg",
+              "imageSrc": "public/assets/images/general/cost-an-arm-and-a-leg.avif"
+            },
+            {
+              "word": "go back to the drawing board",
+              "imageSrc": "/assets/images/general/go-back-to-the-drawing board.avif"
+            },
+            {
+              "word": "there’s no point",
+              "imageSrc": "/assets/images/general/theres-no-point.avif"
+            },
+            {
+              "word": "sharp as a tack",
+              "imageSrc": "/assets/images/general/sharp-as-a-tack.avif"
+            },
+            {
+              "word": "give someone the creeps",
+              "imageSrc": "/assets/images/general/give-someone-the-creeps.avif"
+            },
+            {
+              "word": "break the news",
+              "imageSrc": "/assets/images/general/break-the-news.avif"
+            },
+            {
+              "word": "save the day",
+              "imageSrc": "/assets/images/general/save-the-day.avif"
+            },
+            {
+              "word": "put up with",
+              "imageSrc": "/assets/images/general/put-up-with.avif"
+            },
+            {
+              "word": "top dollar",
+              "imageSrc": "/assets/images/general/top-dollar.avif"
+            }
+          ]
+        },
+        {
+          "title": "1. Now fill in the blanks with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "1.1 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text":	"xxx"
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Greg: "
-                },
-                {
-                  "text": "Maybe we should exit the trash bag business—just "
-                },
-                {
-                  "markedText": "call it quits"
-                },
-                {
-                  "text": "!"
-                }
-              ]
-            }
-          ]
+          "title": "2. Choose the missing word:"
         },
         {
-          "blocks": [
+          "radioExercises": [
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Stan: "
+                  "text": "2.1 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Come on. Let’s not "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "throw in the towel"
-                },
-                {
-                  "text": " yet. "
-                },
-                {
-                  "markedText": "We’ve been down before, but we always come back fighting"
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Donna: "
+                  "text": "2.2 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "But this time "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "private-label products"
-                },
-                {
-                  "text": " are driving us out of business!"
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Stan: "
+                  "text": "2.3 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "We’ve got a successful "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "track record"
-                },
-                {
-                  "text": ". Everybody knows that we offer quality trash bags."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Donna: "
+                  "text": "2.4 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "That’s true, but we can’t just "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "rest on our laurels"
-                },
-                {
-                  "text": " forever."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Stan: "
+                  "text": "2.5 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Well, I have a new idea that’s going to "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "turn around our business"
-                },
-                {
-                  "text": ". It’s a new line of trash bags that smell like fresh fruits, such as apples and peaches."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Greg: "
+                  "text": "2.6 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "That sounds like a great idea. I’m ready to "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "roll up my sleeves"
-                },
-                {
-                  "text": " and "
-                },
-                {
-                  "markedText": "get down to business"
-                },
-                {
-                  "text": "!"
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Stan: "
+                  "text": "2.7 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "I appreciate your "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "team spirit"
-                },
-                {
-                  "text": "! Donna, are you "
-                },
-                {
-                  "markedText": "on board"
-                },
-                {
-                  "text": " too?"
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Donna: "
-                },
-                {
-                  "text": "Sure. "
-                },
-                {
-                  "markedText": "Count me in"
-                },
-                {
-                  "text": "."
+                  "text": "2.8 "
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "blocks": [
-            {
-              "block": [
+              ],
+              "options": [
                 {
-                  "boldText": "Stan: "
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Great. Let’s get everybody else in the Company excited about this plan, too. I’ll count on you two to "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "rally the troops."
-                },
-                {
-                  "text": "."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
             }

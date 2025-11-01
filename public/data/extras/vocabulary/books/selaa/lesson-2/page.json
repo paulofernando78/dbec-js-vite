@@ -60,7 +60,7 @@
                   "markedText": "What’s the matter"
                 },
                 {
-                  "text":	", dear?"
+                  "text": ", dear?"
                 }
               ],
               "lineBreak": true
@@ -74,10 +74,10 @@
                   "text": "Susan, I "
                 },
                 {
-                  "markedText":	"got canned"
+                  "markedText": "got canned"
                 },
                 {
-                  "text":	" today at work."
+                  "text": " today at work."
                 }
               ],
               "lineBreak": true
@@ -91,10 +91,10 @@
                   "text": "But Bob, you were Peter’s "
                 },
                 {
-                  "markedText":	"right-hand man"
+                  "markedText": "right-hand man"
                 },
                 {
-                  "text":	"!"
+                  "text": "!"
                 }
               ],
               "lineBreak": true
@@ -108,7 +108,127 @@
                   "text": "Yes, and he "
                 },
                 {
-                  "markedText":	"stabbed me in the back"
+                  "markedText": "stabbed me in the back"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Susan: "
+                },
+                {
+                  "text": "Keep your "
+                },
+                {
+                  "markedText": "chin up"
+                },
+                {
+                  "text": ". Maybe he’ll "
+                },
+                {
+                  "markedText": "change his mind"
+                },
+                {
+                  "text": " and take you back."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "markedText": "When pigs fly"
+                },
+                {
+                  "text": "! Once he "
+                },
+                {
+                  "markedText": "makes up his mind"
+                },
+                {
+                  "text": ", he never changes it. Besides, I "
+                },
+                {
+                  "markedText": "told him off"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Susan: "
+                },
+                {
+                  "markedText": "Look on the bright side"
+                },
+                {
+                  "text": ": you won’t have to "
+                },
+                {
+                  "markedText": "set eyes on"
+                },
+                {
+                  "text": " Peter ever again."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "markedText": "Thank goodness"
+                },
+                {
+                  "text": " for that!"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Susan: "
+                },
+                {
+                  "text": "Hang in there"
+                },
+                {
+                  "text":	". I’m sure you won't be "
+                },
+                {
+                  "markedText":	"out of work"
+                },
+                {
+                  "text":	" for long."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "In the meantime, we’ll have to "
+                },
+                {
+                  "markedText":	"live from hand to mouth"
                 },
                 {
                   "text":	"."
@@ -122,8 +242,21 @@
                   "boldText": "Susan: "
                 },
                 {
-                  "text": "Keep your chin up. Maybe he’ll change his mind and take you back."
+                  "text": "Don’t get too "
+                },
+                {
+                  "markedText":	"stressed out"
+                },
+                {
+                  "text":	", Bob. We’ll "
+                },
+                {
+                  "markedText":	"make ends meet"
+                },
+                {
+                  "text":	"."
                 }
+              
               ],
               "lineBreak": true
             },
@@ -133,73 +266,13 @@
                   "boldText": "Bob: "
                 },
                 {
-                  "text": "When pigs fly! Once he makes up his mind, he never changes it. Besides, I told him off."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "Susan: "
+                  "text": "I can always get a job at McDonald’s as a "
                 },
                 {
-                  "text": "Look on the bright side: you won’t have to set eyes on Peter ever again."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "Bob: "
+                  "markedText":	"last resort"
                 },
                 {
-                  "text": "Thank goodness for that!"
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "Susan: "
-                },
-                {
-                  "text": "Hang in there. I’m sure you won't be out of work for long."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "Bob: "
-                },
-                {
-                  "text": "In the meantime, we’ll have to live from hand to mouth."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "Susan: "
-                },
-                {
-                  "text": "Don’t get too stressed out, Bob. We’ll make ends meet."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "boldText": "Bob: "
-                },
-                {
-                  "text": "I can always get a job at McDonald’s as a last resort."
+                  "text":	"."
                 }
               ],
               "lineBreak": true
@@ -221,7 +294,10 @@
                   "boldText": "Bob: "
                 },
                 {
-                  "text": "If worse comes to worst, we can sell our home and move into a tent."
+                  "markedText": "If worse comes to worst"
+                },
+                {
+                  "text":	", we can sell our home and move into a tent."
                 }
               ],
               "lineBreak": true
@@ -232,7 +308,13 @@
                   "boldText": "Susan: "
                 },
                 {
-                  "text": "Let’s think big! Maybe you can start your own business."
+                  "text": "Let’s "
+                },
+                {
+                  "markedText":	"think big"
+                },
+                {
+                  "text":	"! Maybe you can start your own business."
                 }
               ],
               "lineBreak": true
@@ -243,7 +325,7 @@
                   "boldText": "Bob: "
                 },
                 {
-                  "text": "Easier said than done!"
+                  "markedText": "Easier said than done!"
                 }
               ],
               "lineBreak": true

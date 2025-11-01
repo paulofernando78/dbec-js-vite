@@ -1,19 +1,18 @@
 {
   "whiteboard": {
-    "title": "Specific Purposes",
-    "subtitle": "Business",
+    "title": "Extras",
     "descriptions": [
       {
-        "icon": "business",
-        "description": "Business"
+        "icon": "vocabulary",
+        "description": "Vocabulary"
       },
       {
         "icon": "book",
-        "description": "Speak Business English Like an American"
+        "description": "Speak English Like an American"
       },
       {
         "icon": "page",
-        "description": "Lesson 4 • Talking about manufacturing"
+        "description": "Lesson 1 • xxx"
       }
     ]
   },
@@ -21,272 +20,448 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-4.mp3"
-      }
-    },
-    {
-      "card": {
-        "bgColor": "var(--gray-3)",
-        "label": "Lesson 4 • Talking about manufacturing",
-        "descriptions": [
-          {
-            "description": [
-              {
-                "text": "Mike and Dan work for Swift Shoes, a manufacturer of sneakers. Mike is in charge of manufacturing. Dan is trying to push Mike to get some new shoes ready quickly."
-              }
-            ]
-          }
-        ]
+        "src": "/assets/audio/extras/vocabulary/books/selaa/lesson-1.mp3"
       }
     },
     {
       "text": [
         {
+          "card": true,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Dan: "
+                  "icon": "page"
                 },
                 {
-                  "text": "We’ve decided to launch our new spring shoe on April 20th."
+                  "boldText": "Lesson 1 • xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "text": "xxx"
                 }
               ]
             }
           ]
         },
         {
+          "card": false,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Mike: "
+                  "boldText": "xxx: "
                 },
                 {
-                  "text": "We’re still trying to "
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
                 },
                 {
-                  "markedText": "work out the kinks"
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
                 },
                 {
-                  "text": " in our manufacturing process. Our factory in China is having trouble with the soles."
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "xxx: "
+                },
+                {
+                  "text": "xxx"
+                }
+              ],
+              "lineBreak": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "exercises",
+        "label": "Exercises"
+      }
+    },
+    {
+      "exercises": [
+        {
+          "guessWord": [
+            {
+              "word": "cost an arm and a leg",
+              "imageSrc": "public/assets/images/general/cost-an-arm-and-a-leg.avif"
+            },
+            {
+              "word": "go back to the drawing board",
+              "imageSrc": "/assets/images/general/go-back-to-the-drawing board.avif"
+            },
+            {
+              "word": "there’s no point",
+              "imageSrc": "/assets/images/general/theres-no-point.avif"
+            },
+            {
+              "word": "sharp as a tack",
+              "imageSrc": "/assets/images/general/sharp-as-a-tack.avif"
+            },
+            {
+              "word": "give someone the creeps",
+              "imageSrc": "/assets/images/general/give-someone-the-creeps.avif"
+            },
+            {
+              "word": "break the news",
+              "imageSrc": "/assets/images/general/break-the-news.avif"
+            },
+            {
+              "word": "save the day",
+              "imageSrc": "/assets/images/general/save-the-day.avif"
+            },
+            {
+              "word": "put up with",
+              "imageSrc": "/assets/images/general/put-up-with.avif"
+            },
+            {
+              "word": "top dollar",
+              "imageSrc": "/assets/images/general/top-dollar.avif"
+            }
+          ]
+        },
+        {
+          "title": "1. Now fill in the blanks with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "1.1 xxx",
+                      "correctAnswer": [""]
+                    },
+                    {
+                      "text":	"xxx"
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Dan: "
-                },
-                {
-                  "text": "I know that, Mike. But you’ve still got three months. It should be plenty of time."
-                }
-              ]
-            }
-          ]
+          "title": "2. Choose the missing word:"
         },
         {
-          "blocks": [
+          "radioExercises": [
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Mike: "
+                  "text": "2.1 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "It could take another six months to "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "fine-tune"
-                },
-                {
-                  "text": " our manufacturing process."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Dan: "
+                  "text": "2.2 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Well, we don’t have that much time. "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "No ifs, ands, or buts"
-                },
-                {
-                  "text": ", we need to launch on April 20th."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Mike: "
+                  "text": "2.3 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "markedText": "Just for the record"
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "text": ", I think we’re "
-                },
-                {
-                  "markedText": "cutting it a little close"
-                },
-                {
-                  "text": ". I recommend we launch on July 20th instead."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Dan: "
+                  "text": "2.4 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "We can’t. We’ve already decided on the "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "tagblock"
-                },
-                {
-                  "text": ": “Spring into spring with Swift’s new spring shoe.”"
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Mike: "
+                  "text": "2.5 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "It’s time for a "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "reality check"
-                },
-                {
-                  "text": ". I’m telling you we might not be ready by April 20th, and you’re telling me we have to be because of a tagblock?"
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Dan: "
+                  "text": "2.6 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Mike, now’s the time to "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "step up to the plate"
-                },
-                {
-                  "text": " and "
-                },
-                {
-                  "markedText": "get the job done"
-                },
-                {
-                  "text": "."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Mike: "
+                  "text": "2.7 "
+                }
+              ],
+              "options": [
+                {
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Well, I’m going to be "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "working down to the wire."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Dan: "
-                },
-                {
-                  "text": "Just "
-                },
-                {
-                  "markedText": "do whatever it takes"
-                },
-                {
-                  "text": ". Just make sure we’ve got a million pairs of shoes in inventory by the April 20th deadblock."
+                  "text": "2.8 "
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "blocks": [
-            {
-              "block": [
+              ],
+              "options": [
                 {
-                  "boldText": "Mike: "
+                  "option": "",
+                  "isCorrect": true
                 },
                 {
-                  "text": "I’m going to have to run the factories "
+                  "option": "",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": " 24/7"
-                },
-                {
-                  "text": ". That’s going to be a lot of overtime pay."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Dan: "
-                },
-                {
-                  "markedText": "At the end of the day"
-                },
-                {
-                  "text": ", a little extra expense doesn’t matter. We just want those shoes ready by April 20th."
+                  "option": "",
+                  "isCorrect": false
                 }
               ]
             }

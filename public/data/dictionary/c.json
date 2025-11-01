@@ -2,6 +2,128 @@
   {
     "definitions": [
       {
+        "word": "cheek",
+        "phonetics": "/tʃiːk/",
+        "partOfSpeech": "noun",
+        "enDefinition": "1) the soft part of the face below the eye and between the nose and the ear; 2) (informal) rude or disrespectful behavior.",
+        "ptDefinition": "1) a parte macia do rosto abaixo do olho e entre o nariz e a orelha; 2) (informal) comportamento rude ou desrespeitoso.",
+        "examples": [
+          {
+            "enExample": "She kissed him on the cheek before saying goodbye.",
+            "ptExample": "Ela o beijou na bochecha antes de se despedir."
+          },
+          {
+            "enExample": "He had the cheek to ask for more money after being late to work!",
+            "ptExample": "Ele teve a cara de pau de pedir mais dinheiro depois de chegar atrasado ao trabalho!"
+          }
+        ],
+        "synonyms": ["face", "impudence", "sass", "nerve"],
+        "antonyms": ["respect", "politeness", "modesty"],
+        "seeAlso": ["cheeky", "blush", "face"],
+        "notes": [
+          {
+            "enNote": "In British English, 'cheek' can mean impudence or disrespect, while in literal sense it refers to the part of the face.",
+            "ptNote": "No inglês britânico, 'cheek' pode significar insolência ou desrespeito; literalmente, refere-se à parte do rosto."
+          }
+        ]
+      },
+      {
+        "word": "chin up",
+        "partOfSpeech": "idiom",
+        "enDefinition": "used to tell someone to stay cheerful and positive, especially in a difficult situation.",
+        "ptDefinition": "usado para dizer a alguém para manter o ânimo e permanecer positivo, especialmente em uma situação difícil.",
+        "examples": [
+          {
+            "enExample": "Chin up! Things will get better soon.",
+            "ptExample": "Cabeça erguida! As coisas vão melhorar em breve."
+          },
+          {
+            "enExample": "I know you failed the test, but chin up — you’ll do better next time.",
+            "ptExample": "Eu sei que você foi mal na prova, mas ânimo — você vai se sair melhor da próxima vez."
+          },
+          {
+            "enExample": "Keep your chin up even when life gets tough.",
+            "ptExample": "Mantenha a cabeça erguida mesmo quando a vida ficar difícil."
+          }
+        ],
+        "synonyms": [
+          "stay positive",
+          "keep your head up",
+          "cheer up",
+          "be strong"
+        ],
+        "antonyms": ["give up", "lose hope", "feel down"],
+        "seeAlso": [
+          "keep your chin up",
+          "look on the bright side",
+          "stay strong"
+        ],
+        "notes": [
+          {
+            "enNote": "Often used as an encouraging phrase to comfort or motivate someone feeling discouraged.",
+            "ptNote": "Frequentemente usado como uma frase de incentivo para confortar ou motivar alguém que está desanimado."
+          }
+        ]
+      },
+      {
+        "word": "cut class",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to deliberately not attend a class or course session without permission; to skip a class.",
+        "ptDefinition": "faltar intencionalmente a uma aula ou sessão do curso sem permissão; matar aula.",
+        "examples": [
+          {
+            "enExample": "He got in trouble for cutting class three times in one week.",
+            "ptExample": "Ele teve problemas por matar aula três vezes em uma semana."
+          },
+          {
+            "enExample": "We used to cut class and go to the beach when the weather was nice.",
+            "ptExample": "Nós costumávamos matar aula e ir para a praia quando o tempo estava bom."
+          }
+        ],
+        "synonyms": ["skip class", "play hooky", "miss school", "ditch school"],
+        "antonyms": ["attend class", "go to school"],
+        "seeAlso": ["truancy", "skip school"],
+        "notes": [
+          {
+            "enNote": "Often used informally by students. In British English, 'skive off' is a similar expression.",
+            "ptNote": "Usado informalmente por estudantes. No inglês britânico, a expressão equivalente é 'skive off'."
+          }
+        ]
+      },
+      {
+        "word": "can't stand",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to strongly dislike someone or something; to be unable to tolerate or endure something or someone.",
+        "ptDefinition": "detestar alguém ou algo; não conseguir tolerar ou suportar algo ou alguém.",
+        "examples": [
+          {
+            "enExample": "I can’t stand loud noises when I’m trying to concentrate.",
+            "ptExample": "Eu não suporto barulhos altos quando estou tentando me concentrar."
+          },
+          {
+            "enExample": "She can’t stand people who are always late.",
+            "ptExample": "Ela não suporta pessoas que estão sempre atrasadas."
+          },
+          {
+            "enExample": "He can’t stand waiting in long lines.",
+            "ptExample": "Ele detesta esperar em filas longas."
+          }
+        ],
+        "synonyms": ["hate", "dislike", "detest", "loathe", "despise"],
+        "antonyms": ["like", "enjoy", "tolerate", "bear"],
+        "seeAlso": [
+          "can't bear",
+          "get on someone's nerves",
+          "drive someone crazy"
+        ],
+        "notes": [
+          {
+            "enNote": "Often used in informal English to express a strong feeling of dislike or annoyance.",
+            "ptNote": "Usado frequentemente em inglês informal para expressar forte sentimento de desgosto ou irritação."
+          }
+        ]
+      },
+      {
         "word": "compensate",
         "phonetics": "US /ˈkɑːm.pən.seɪt/ UK /ˈkɒmpənseɪt/",
         "partOfSpeech": "verb",

@@ -43,11 +43,15 @@
 .icon {
   position: relative;
   bottom: 1px;
-  right: 1.5px
+  right: 1.5px;
 }
 
 .link-text {
   font-weight: bold;
+}
+
+ul ul {
+  margin-left: 1.6rem;
 }
 
 @media (max-width: 480px) {

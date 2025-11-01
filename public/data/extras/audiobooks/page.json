@@ -29,56 +29,32 @@
                       "icon": "bookmark",
                       "link": "#starter-pre-a1",
                       "label": "Starter (Pre-A1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#beginner-a1",
                       "label": "Beginner (A1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#elementary-a2",
                       "label": "Elementary (A2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#pre-intermediate-a2-b1",
                       "label": "Pre-Intermediate (A2)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#intermediate-b1",
                       "label": "Intermediate (B1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#upper-intermediate-c1",
                       "label": "Upper-Intermediate (C1)"
-                    }
-                  ]
-                },
-                {
-                  "links": [
+                    },
                     {
                       "icon": "bookmark",
                       "link": "#advanced-c1-c2",

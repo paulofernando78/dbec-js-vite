@@ -1,31 +1,16 @@
-import cssImportsPath from "@css/imports.css?inline";
+import styleImports from "@css/imports.css?inline";
+import styleCard from "@css/components/organisms/card.css?inline";
 
 class Card extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
-    const cssImports = document.createElement("style");
-    cssImports.textContent = cssImportsPath;
-    this.shadowRoot.appendChild(cssImports);
-
-    const css = document.createElement("style"); /*css */
-    css.textContent = `
-      .card-container {
-        border: var(--border);
-        border-radius: var(--border-radius);
-        box-shadow: var(--box-shadow);
-        overflow: hidden;
-      }
-
-      .card-label {
-        display: flex;
-        align-items: center;
-        gap: 4px;
-      }
-      
-    `;
-    this.shadowRoot.appendChild(css);
+    [styleImports, styleCard].forEach((imports) => {
+      const style = document.createElement("style");
+      style.textContent = imports;
+      this.shadowRoot.appendChild(style);
+    })
   }
 
   set data(card) {

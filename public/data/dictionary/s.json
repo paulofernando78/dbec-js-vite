@@ -2,6 +2,66 @@
   {
     "definitions": [
       {
+        "word": "stand a chance",
+        "phonetics": "/stænd ə tʃæns/",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to have a possibility of succeeding or achieving something.",
+        "ptDefinition": "ter uma possibilidade de sucesso ou de alcançar algo.",
+        "examples": [
+          {
+            "enExample": "Without proper training, you don’t stand a chance of winning the competition.",
+            "ptExample": "Sem o treinamento adequado, você não tem chance de vencer a competição."
+          },
+          {
+            "enExample": "Do you think we stand a chance against such a strong team?",
+            "ptExample": "Você acha que temos alguma chance contra um time tão forte?"
+          },
+          {
+            "enExample": "He didn’t stand a chance once the evidence was presented.",
+            "ptExample": "Ele não teve chance alguma depois que as provas foram apresentadas."
+          }
+        ],
+        "synonyms": ["have a shot", "have a hope", "be likely to succeed"],
+        "antonyms": ["have no chance", "be hopeless", "be unlikely to succeed"],
+        "seeAlso": ["stand no chance", "have a shot at", "be in the running"],
+        "notes": [
+          {
+            "enNote": "Often used in both positive and negative forms, e.g. 'stand a chance' or 'not stand a chance'.",
+            "ptNote": "Usado frequentemente em formas positiva e negativa, por exemplo: 'ter chance' ou 'não ter chance'."
+          }
+        ]
+      },
+      {
+        "word": "slack off",
+        "phonetics": "US /slæk ɑːf/, UK /slæk ɑːf/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to work less hard than usual or to become lazy or careless in doing something.",
+        "ptDefinition": "trabalhar com menos empenho do que o normal; tornar-se preguiçoso ou negligente em alguma tarefa.",
+        "examples": [
+          {
+            "enExample": "You’ve been slacking off lately — your performance has dropped.",
+            "ptExample": "Você tem relaxado ultimamente — seu desempenho caiu."
+          },
+          {
+            "enExample": "If you keep slacking off, you’ll never finish the project on time.",
+            "ptExample": "Se continuar enrolando, nunca vai terminar o projeto a tempo."
+          },
+          {
+            "enExample": "The team started to slack off after the manager left the room.",
+            "ptExample": "A equipe começou a relaxar depois que o gerente saiu da sala."
+          }
+        ],
+        "synonyms": ["be lazy", "loaf around", "waste time", "take it easy"],
+        "antonyms": ["work hard", "focus", "put effort", "buckle down"],
+        "seeAlso": ["procrastinate", "goof off", "fall behind"],
+        "notes": [
+          {
+            "enNote": "Used informally to describe when someone reduces their effort or productivity.",
+            "ptNote": "Usado informalmente para descrever quando alguém reduz o esforço ou a produtividade."
+          }
+        ]
+      },
+      {
         "word": "shy",
         "phonetics": "/ʃaɪ/",
         "partOfSpeech": "adjective",

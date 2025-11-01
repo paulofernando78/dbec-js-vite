@@ -1,19 +1,18 @@
 {
   "whiteboard": {
-    "title": "Specific Purposes",
-    "subtitle": "Business",
+    "title": "Extras",
     "descriptions": [
       {
-        "icon": "business",
-        "description": "Business"
+        "icon": "vocabulary",
+        "description": "Vocabulary"
       },
       {
         "icon": "book",
-        "description": "Speak Business English Like an American"
+        "description": "Speak English Like an American"
       },
       {
         "icon": "page",
-        "description": "Lesson 3 • Discussing a new ad campaign"
+        "description": "Lesson 3 • Ted’s Day at School"
       }
     ]
   },
@@ -21,266 +20,559 @@
     {
       "audioPlayer": {
         "sticky": true,
-        "src": "/assets/audio/specific-purposes/business/sbelaa/lesson-3.mp3"
-      }
-    },
-    {
-      "card": {
-        "bgColor": "var(--gray-3)",
-        "icon": "page",
-        "label": "Lesson 3 • Discussing a new ad campaign",
-        "descriptions": [
-          {
-            "description": [
-              {
-                "text": "Ted works for an advertising agency. He’s presenting to Sam and Lisa, who work for Pacific Beer Company."
-              }
-            ]
-          }
-        ]
+        "src": "/assets/audio/extras/vocabulary/books/selaa/lesson-3.mp3"
       }
     },
     {
       "text": [
         {
+          "card": true,
           "blocks": [
             {
               "block": [
                 {
-                  "boldText": "Lisa: "
-                },
+                  "boldText": "Lesson 3 • Ted’s Day at School"
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
                 {
-                  "text": "Ted would like to "
-                },
-                {
-                  "markedText": "run some"
-                },
-                {
-                  "text": " ideas by us for our new ad campaign."
+                  "text": "Ted tells his parents he did poorly on his cheтistry test. They tell him he needs to get serious and study more."
                 }
               ]
             }
           ]
         },
         {
+          "card": false,
           "blocks": [
+            {
+              "block": [
+                {
+                  "boldText": "Susan: "
+                },
+                {
+                  "text": "How was your day at school today, Ted?"
+                }
+              ],
+              "lineBreak": true
+            },
             {
               "block": [
                 {
                   "boldText": "Ted: "
                 },
                 {
-                  "text": "Please "
+                  "text": "Bad. I had a chemistry test, and I "
                 },
                 {
-                  "markedText": "keep an open mind"
-                },
-                {
-                  "text": ". Remember that "
-                },
-                {
-                  "markedText": "nothing is set in stone"
-                },
-                {
-                  "text": " yet. We’re still just"
-                },
-                {
-                  "markedText": " brainstorming."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Sam: "
-                },
-                {
-                  "text": "I hope that doesn’t mean we’re about to hear a lot of "
-                },
-                {
-                  "markedText": "half-baked ideas"
+                  "markedText": "blew it"
                 },
                 {
                   "text": "!"
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Susan: "
+                },
+                {
+                  "text": "Maybe if you didn't "
+                },
+                {
+                  "markedText": "cut class"
+                },
+                {
+                  "text": " so often, you'd do better."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "That's right, son. Stop "
+                },
+                {
+                  "markedText": "slacking off"
+                },
+                {
+                  "text": " and start "
+                },
+                {
+                  "markedText": "hitting the books"
+                },
+                {
+                  "text": "!"
+                }
+              ],
+              "lineBreak": true
+            },
             {
               "block": [
                 {
                   "boldText": "Ted: "
                 },
                 {
-                  "text": "I think you’re going to like this. Our idea is to use a black bear as our mascot.* Our "
+                  "text": "But I "
                 },
                 {
-                  "markedText": "tagblock"
+                  "markedText": "can't stand"
                 },
                 {
-                  "text": " can be: “Strong enough to satisfy a bear.”"
+                  "text": " chemistry class. Besides, it's a "
+                },
+                {
+                  "markedText": "lost cause"
+                },
+                {
+                  "text": ". That class is way "
+                },
+                {
+                  "markedText": "over my head"
+                },
+                {
+                  "text": "."
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+              ],
+              "lineBreak": true
+            },
             {
               "block": [
                 {
-                  "boldText": "Lisa: "
+                  "boldText": "Susan: "
                 },
                 {
-                  "text": "It would be great if people would associate our brand with a bear—strong and independent. That would really improve our brand equity. "
+                  "text": "You need to "
+                },
+                {
+                  "markedText": "buckle down"
+                },
+                {
+                  "text": "."
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Sam: "
-                },
-                {
-                  "text": "I don’t want to "
-                },
-                {
-                  "markedText": "throw cold water on"
-                },
-                {
-                  "text": " your idea, but where did you get the idea for a bear?"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+              ],
+              "lineBreak": true
+            },
             {
               "block": [
                 {
                   "boldText": "Ted: "
                 },
                 {
-                  "text": "Didn’t you hear about that bear at the campground a couple weeks ago? He entered a tent and drank two dozen Pacific beers! What a great endorsement for Pacific beer! "
+                  "text": "When I'm a famous musician, people won't "
+                },
+                {
+                  "markedText": "give a hoot"
+                },
+                {
+                  "text": " about my knowledge of atoms and molecules."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "That's "
+                },
+                {
+                  "markedText": "beside the point"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Susan: "
+                },
+                {
+                  "text": "We know you have your "
+                },
+                {
+                  "markedText": "heart set on"
+                },
+                {
+                  "text": " going to New York University."
+                }
+              ],
+              "lineBreak": true
+            },
+            {
+              "block": [
+                {
+                  "boldText": "Bob: "
+                },
+                {
+                  "text": "And you don't "
+                },
+                {
+                  "markedText": "stand a chance"
+                },
+                {
+                  "text": " of getting in there with such poor grades!"
+                }
+              ],
+              "lineBreak": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ribbon": {
+        "bgColor": "var(--gray-3)",
+        "textColor": "black",
+        "icon": "exercises",
+        "label": "Exercises"
+      }
+    },
+    {
+      "exercises": [
+        {
+          "guessWord": [
+            {
+              "word": "hit the books",
+              "imageSrc": "public/assets/images/general/study.avif"
+            },
+            {
+              "word": "slack off",
+              "imageSrc": "public/assets/images/general/slack-off.avif"
+            },
+            {
+              "word": "over one’s head",
+              "imageSrc": "public/assets/images/general/.avif"
+            }
+          ]
+        },
+        {
+          "title": "1. Now fill in the blanks with the correct answer."
+        },
+        {
+          "fillExercises": [
+            {
+              "blocks": [
+                {
+                  "block": [
+                    {
+                      "text": "3.1 I totally",
+                      "correctAnswer": ["blew it"]
+                    }, 
+                    {
+                      "text":	"on my driving test — I forgot to check the mirrors!"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.2 Mark usually",
+                      "correctAnswer": ["cuts class"]
+                    },
+                    {
+                      "text": "on Fridays to hang out with his friends instead of going to math class."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.3 You’ll never finish this project if you keep",
+                      "correctAnswer": ["slacking off"]
+                    },
+                    {
+                      "text": "all day."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.4 I can’t go to the party tonight. I need to",
+                      "correctAnswer": ["hit the books"]
+                    },
+                    {
+                      "text": "for my final exams."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.5 I",
+                      "correctAnswer": ["can't stand"]
+                    },
+                    {
+                      "text": "horror movies — they scare me too much!"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.6 Trying to change his mind is a",
+                      "correctAnswer": ["lost cause"]
+                    },
+                    {
+                      "text": "He never listens to anyone."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.7 That lecture was so complicated — it went completely",
+                      "correctAnswer": ["over my head"]
+                    },
+                    {
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.8 If you really want to improve your English, you’ll have to",
+                      "correctAnswer": ["buckle down"]
+                    },
+                    {
+                      "text": "and study regularly."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.9 I don’t",
+                      "correctAnswer": ["give a hoot"]
+                    },
+                    {
+                      "text": "what people say about me online."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.10 That argument is",
+                      "correctAnswer": ["beside the point"]
+                    },
+                    {
+                      "text": "— it doesn’t help us solve the real problem."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.11 She has her",
+                      "correctAnswer": ["heart set on"]
+                    },
+                    {
+                      "text": "becoming a professional dancer."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "3.12 We don’t",
+                      "correctAnswer": ["stand a chance"]
+                    },
+                    {
+                      "text": "of winning this competition, but we’ll try anyway!"
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "Lisa: "
-                },
-                {
-                  "text": "I think we’re "
-                },
-                {
-                  "markedText": "on the right track"
-                },
-                {
-                  "text": " with this campaign. The bear should "
-                },
-                {
-                  "markedText": "generate lots of buzz"
-                },
-                {
-                  "text": ". Everybody will be talking about the bear who loves Pacific beer!"
-                }
-              ]
-            }
-          ]
+          "title": "2. Choose the missing word:"
         },
         {
-          "blocks": [
+          "radioExercises": [
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Ted: "
+                  "text": "2.1 Bob: “Susan, I can't get my old job back. It's a lost cause.” Susan’s reply:"
+                }
+              ],
+              "options": [
+                {
+                  "option": "”Lost? Maybe I can help you find it.”",
+                  "isCorrect": true
                 },
                 {
-                  "text": "And here’s the "
+                  "option": "”Yes, I know it's not a good cause.”",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "icing on the cake"
-                },
-                {
-                  "text": ": he won’t demand an "
-                },
-                {
-                  "markedText": "arm and a leg"
-                },
-                {
-                  "text": " to "
-                },
-                {
-                  "markedText": "plug our product"
-                },
-                {
-                  "text": ". In fact, we can probably pay him in beer!"
+                  "option": "“I understand. You'll find something else.”",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Sam: "
+                  "text": "2.2 Susan: “How could Peter fire you? Were you slacking off?” Bob's reply:"
+                }
+              ],
+              "options": [
+                {
+                  "option": "“No. I was working very hard!”",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Okay, you’ve "
+                  "option": "“No. I talked on the phone to friends all day.”",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "twisted my arm"
-                },
-                {
-                  "text": ". Let’s "
-                },
-                {
-                  "markedText": " run with the idea."
+                  "option": "“Yes. I was working very hard!”",
+                  "isCorrect": false
                 }
               ]
-            }
-          ]
-        },
-        {
-          "blocks": [
+            },
             {
-              "block": [
+              "question": [
                 {
-                  "boldText": "Ted: "
+                  "text": "2.3 Ted: “It's getting late. I'd better start hitting the books.” Bob's reply:"
+                }
+              ],
+              "options": [
+                {
+                  "option": "“Yes, that's a good idea. Spend some time studying.”",
+                  "isCorrect": true
                 },
                 {
-                  "text": "Great. I’ll "
+                  "option": "“Hit the books? Why don't you read them instead?”",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "flesh it out"
+                  "option": "“Why don't you study instead?”",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.4 Peter: “I don't give a hoot how long you've been working here.” Bob's reply:"
+                }
+              ],
+              "options": [
+                {
+                  "option": "“I wouldn't give you a hoot either.”",
+                  "isCorrect": true
                 },
                 {
-                  "text": " some more and "
+                  "option": "“I guess our years together aren't important to you.”",
+                  "isCorrect": false
                 },
                 {
-                  "markedText": "touch base"
+                  "option": "“Yes, it was a long time.”",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.5 “Susan, the truth is that I couldn't stand Peter.” Susan's reply:"
+                }
+              ],
+              "options": [
+                {
+                  "option": "“I know. Peter really liked you too.”",
+                  "isCorrect": true
                 },
                 {
-                  "text": " with you in a couple of days."
+                  "option": "“I liked him too. He was a nice guy.”",
+                  "isCorrect": false
+                },
+                {
+                  "option": "“I didn't like him either. He was a jerk.”",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.6 “Nicole, do you ever cut class?” Nicole's reply:"
+                }
+              ],
+              "options": [
+                {
+                  "option": "“No. I've never missed a single class.”",
+                  "isCorrect": true
+                },
+                {
+                  "option": "“Yes. I had to leave my math class early yesterday.”",
+                  "isCorrect": false
+                },
+                {
+                  "option": "“No. Sometimes I go to the mall during class time.”",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.7 Bob: “This book on computers is way over my head.” Susan's reply:"
+                }
+              ],
+              "options": [
+                {
+                  "option": "“Over your head? It should be in front of your face!”",
+                  "isCorrect": true
+                },
+                {
+                  "option": "“Why don't you start with an easier book?”",
+                  "isCorrect": false
+                },
+                {
+                  "option": "“Here, try this book. It's more difficult.”",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": [
+                {
+                  "text": "2.8 Nicole: “I've got my heart set on going to the school picnic.” Susan's reply:"
+                }
+              ],
+              "options": [
+                {
+                  "option": "“Okay. You should definitely go.”",
+                  "isCorrect": true
+                },
+                {
+                  "option": "“Really? Why don't you want to go?”",
+                  "isCorrect": false
+                },
+                {
+                  "option": "“I understand. Picnics can be boring.”",
+                  "isCorrect": false
                 }
               ]
             }
