@@ -208,13 +208,13 @@
                   "text": "Hang in there"
                 },
                 {
-                  "text":	". I’m sure you won't be "
+                  "text": ". I’m sure you won't be "
                 },
                 {
-                  "markedText":	"out of work"
+                  "markedText": "out of work"
                 },
                 {
-                  "text":	" for long."
+                  "text": " for long."
                 }
               ],
               "lineBreak": true
@@ -228,10 +228,10 @@
                   "text": "In the meantime, we’ll have to "
                 },
                 {
-                  "markedText":	"live from hand to mouth"
+                  "markedText": "live from hand to mouth"
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
               ],
               "lineBreak": true
@@ -245,18 +245,17 @@
                   "text": "Don’t get too "
                 },
                 {
-                  "markedText":	"stressed out"
+                  "markedText": "stressed out"
                 },
                 {
-                  "text":	", Bob. We’ll "
+                  "text": ", Bob. We’ll "
                 },
                 {
-                  "markedText":	"make ends meet"
+                  "markedText": "make ends meet"
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
-              
               ],
               "lineBreak": true
             },
@@ -269,10 +268,10 @@
                   "text": "I can always get a job at McDonald’s as a "
                 },
                 {
-                  "markedText":	"last resort"
+                  "markedText": "last resort"
                 },
                 {
-                  "text":	"."
+                  "text": "."
                 }
               ],
               "lineBreak": true
@@ -297,7 +296,7 @@
                   "markedText": "If worse comes to worst"
                 },
                 {
-                  "text":	", we can sell our home and move into a tent."
+                  "text": ", we can sell our home and move into a tent."
                 }
               ],
               "lineBreak": true
@@ -311,10 +310,10 @@
                   "text": "Let’s "
                 },
                 {
-                  "markedText":	"think big"
+                  "markedText": "think big"
                 },
                 {
-                  "text":	"! Maybe you can start your own business."
+                  "text": "! Maybe you can start your own business."
                 }
               ],
               "lineBreak": true
@@ -390,88 +389,209 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 xxx",
-                      "correctAnswer": [""]
+                      "text": "1.1 After the company merger, several employees",
+                      "correctAnswer": ["got canned"]
                     },
                     {
-                      "text": "xxx"
+                      "text":	"and had to find new jobs."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "1.2 xxx",
-                      "correctAnswer": [""]
+                      "text": "1.2 Everyone knows that Mark is the boss’s",
+                      "correctAnswer": ["right-hand man"]
                     },
                     {
-                      "text": "xxx"
+                      "text": "— he helps with every decision."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "1.3 xxx",
-                      "correctAnswer": [""]
+                      "text": "1.3 I trusted Lisa completely, but she",
+                      "correctAnswer": ["stabbed me in the back"]
                     },
                     {
-                      "text": "xxx"
+                      "text": "and revealed my secret."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "1.4 xxx",
-                      "correctAnswer": [""]
+                      "text": "1.4",
+                      "correctAnswer": ["Chin up"]
                     },
                     {
-                      "text": "xxx"
+                      "text": ", things will get better soon — don’t lose hope!"
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "1.5 xxx",
-                      "correctAnswer": [""]
+                      "text": "1.5 Don’t worry, the manager may still",
+                      "correctAnswer": ["change his mind"]
                     },
                     {
-                      "text": "xxx"
+                      "text": "and give you another chance."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "1.6 xxx",
-                      "correctAnswer": [""]
+                      "text": "1.6 You think I’ll lend him money again?",
+                      "correctAnswer": ["When pigs fly"]
                     },
                     {
-                      "text": "xxx"
+                      "text": "!"
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "1.7 xxx",
-                      "correctAnswer": [""]
+                      "text": "1.7 She got angry and",
+                      "correctAnswer": ["told him off"]
                     },
                     {
-                      "text": "xxx"
+                      "text": "her boss after he blamed her unfairly."
                     }
                   ]
                 },
                 {
                   "block": [
                     {
-                      "text": "1.8 xxx",
-                      "correctAnswer": [""]
+                      "text": "1.8 Don’t be so negative — try to",
+                      "correctAnswer": ["look on the bright side"]
                     },
                     {
-                      "text": "xxx"
+                      "text": "and see something good in this situation."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.9 I never want to",
+                      "correctAnswer": ["set eyes on"]
+                    },
+                    {
+                      "text": "that liar again!"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.10",
+                      "correctAnswer": ["Thank goodness"]
+                    },
+                    {
+                      "text": "the storm is finally over!"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.11 Things are tough now, but",
+                      "correctAnswer": ["hang in there"]
+                    },
+                    {
+                      "text": "— better days are coming."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.12 He’s been",
+                      "correctAnswer": ["out of work"]
+                    },
+                    {
+                      "text": "for months, but he keeps trying to find a job."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.13 During the recession, many families had to",
+                      "correctAnswer": ["live from hand to mouth"]
+                    },
+                    {
+                      "text": "just to survive."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.14 She’s been really",
+                      "correctAnswer": ["stressed out"]
+                    },
+                    {
+                      "text": "lately because of her heavy workload."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.15 We don’t earn much, but we still manage to",
+                      "correctAnswer": ["make ends meet"]
+                    },
+                    {
+                      "text": "each month."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.16 As a",
+                      "correctAnswer": ["last resort"]
+                    },
+                    {
+                      "text": ", we can borrow money from my parents if things get worse."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.17",
+                      "correctAnswer": ["If worse comes to worst"]
+                    },
+                    {
+                      "text": ", we can move into my aunt’s house until we find a new place."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.18 Don’t be afraid to",
+                      "correctAnswer": ["think big"]
+                    },
+                    {
+                      "text": "— you might succeed if you take the risk!"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.19 Starting a business sounds easy, but it’s definitely",
+                      "correctAnswer": ["easier said than done"]
+                    },
+                    {
+                      "text": "."
                     }
                   ]
                 }
