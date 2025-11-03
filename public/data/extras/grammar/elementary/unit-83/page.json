@@ -1068,7 +1068,7 @@
                     {
                       "text": "1. I like reading. I have",
                       "placeholder": "many books",
-                      "correctAnswer": ["many books"]
+                      "correctAnswer": ["a lot of books"]
                     },
                     {
                       "text": "."
@@ -1330,6 +1330,34 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "flipCardBackImage": [
+        {
+          "img": "/assets/images/general/study.avif"
+        },
+        {
+          "img": "/assets/images/general/eat-fruit.avif"
+        },
+        {
+          "img": "/assets/images/general/sleep-study.avif"
+        },
+        {
+          "img": "/assets/images/general/stay-home.avif"
+        },
+        {
+          "img": "/assets/images/general/work.avif"
+        },
+        {
+          "img": "/assets/images/general/eat-not-fruit.avif"
+        },
+        {
+          "img": "/assets/images/general/watch-tv.avif"
+        },
+        {
+          "img": "/assets/images/general/drink-coffee.avif"
         }
       ]
     }

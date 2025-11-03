@@ -248,15 +248,15 @@
           "guessWord": [
             {
               "word": "hit the books",
-              "imageSrc": "public/assets/images/general/study.avif"
+              "imageSrc": "/assets/images/general/study.avif"
             },
             {
               "word": "slack off",
-              "imageSrc": "public/assets/images/general/slack-off.avif"
+              "imageSrc": "/assets/images/general/sleep.avif"
             },
             {
               "word": "over one’s head",
-              "imageSrc": "public/assets/images/general/.avif"
+              "imageSrc": "/assets/images/general/over-ones-head.avif"
             }
           ]
         },

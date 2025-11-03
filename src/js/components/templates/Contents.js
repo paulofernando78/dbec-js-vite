@@ -261,8 +261,27 @@ class Contents extends HTMLElement {
         });
       }
 
-      // Flip Cards Retell
+      // Flip Cards Back Image
       if (section.flipCardBackImage) {
+        const p = document.createElement("p");
+        p.className = "bold";
+        p.textContent =
+          "Click or tap to flip the cards and describe what you see.";
+        contentContainer.appendChild(p);
+
+        const flipCardWrapper = document.createElement("div");
+        flipCardWrapper.classList.add("flip-card-container");
+        contentContainer.appendChild(flipCardWrapper);
+
+        section.flipCardBackImage.forEach((item, index) => {
+          const flip = document.createElement("wc-flip-card-back-image");
+          flip.data = { ...item, index };
+          flipCardWrapper.appendChild(flip);
+        });
+      }
+
+      // Flip Cards Retell
+      if (section.flipCardRetell) {
         const p = document.createElement("p");
         p.className = "bold";
         p.textContent =
@@ -273,7 +292,7 @@ class Contents extends HTMLElement {
         flipCardWrapper.classList.add("flip-card-container");
         contentContainer.appendChild(flipCardWrapper);
 
-        section.flipCardBackImage.forEach((item, index) => {
+        section.flipCardRetell.forEach((item, index) => {
           const flip = document.createElement("wc-flip-card-back-image");
           flip.data = { ...item, index };
           flipCardWrapper.appendChild(flip);
