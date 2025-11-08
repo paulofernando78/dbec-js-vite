@@ -480,11 +480,11 @@
               "options": [
                 {
                   "option": "“I wouldn't give you a hoot either.”",
-                  "isCorrect": true
+                  "isCorrect": false
                 },
                 {
                   "option": "“I guess our years together aren't important to you.”",
-                  "isCorrect": false
+                  "isCorrect": true
                 },
                 {
                   "option": "“Yes, it was a long time.”",
@@ -501,7 +501,7 @@
               "options": [
                 {
                   "option": "“I know. Peter really liked you too.”",
-                  "isCorrect": true
+                  "isCorrect": false
                 },
                 {
                   "option": "“I liked him too. He was a nice guy.”",
@@ -509,7 +509,7 @@
                 },
                 {
                   "option": "“I didn't like him either. He was a jerk.”",
-                  "isCorrect": false
+                  "isCorrect": true
                 }
               ]
             },
@@ -543,11 +543,11 @@
               "options": [
                 {
                   "option": "“Over your head? It should be in front of your face!”",
-                  "isCorrect": true
+                  "isCorrect": false
                 },
                 {
                   "option": "“Why don't you start with an easier book?”",
-                  "isCorrect": false
+                  "isCorrect": true
                 },
                 {
                   "option": "“Here, try this book. It's more difficult.”",
