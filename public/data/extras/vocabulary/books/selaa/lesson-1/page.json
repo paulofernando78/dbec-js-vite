@@ -376,15 +376,12 @@
           "guessWord": [
             {
               "word": "cost an arm and a leg",
-              "imageSrc": "public/assets/images/general/cost-an-arm-and-a-leg.avif"
+              "imageSrc": "/assets/images/general/cost-an-arm-and-a-leg.avif"
             },
             {
               "word": "go back to the drawing board",
-              "imageSrc": "/assets/images/general/go-back-to-the-drawing board.avif"
-            },
-            {
-              "word": "there’s no point",
-              "imageSrc": "/assets/images/general/theres-no-point.avif"
+              "imageSrc": "/assets/images/general/go-back-to-the-drawing-board.avif"
+              
             },
             {
               "word": "sharp as a tack",
@@ -397,10 +394,6 @@
             {
               "word": "break the news",
               "imageSrc": "/assets/images/general/break-the-news.avif"
-            },
-            {
-              "word": "save the day",
-              "imageSrc": "/assets/images/general/save-the-day.avif"
             },
             {
               "word": "put up with",
