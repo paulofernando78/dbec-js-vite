@@ -15,9 +15,16 @@ class GuessWord extends HTMLElement {
     this.wordsArray = [];
     this.currentWordIndex = 0;
 
+    const description = document.createElement("p");
+    description.textContent = "Can you guess the words?"
+    description.style.fontWeight = "bold"
+    description.style.marginBottom = "16px"
+    this.shadowRoot.appendChild(description);
+
     const container = document.createElement("div");
     container.classList.add("container", "card");
     this.shadowRoot.appendChild(container);
+
 
     // const title = document.createElement("span");
     // title.classList.add("title");

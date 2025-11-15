@@ -9,12 +9,12 @@
         "ptDefinition": "perder tempo ou mover-se lentamente e sem propósito; demorar-se",
         "examples": [
           {
-        "enExample": "Stop dawdling and get ready for school!",
-        "ptExample": "Pare de enrolar e se prepare para a escola!"
+            "enExample": "Stop dawdling and get ready for school!",
+            "ptExample": "Pare de enrolar e se prepare para a escola!"
           },
           {
-        "enExample": "He dawdled over his breakfast, making himself late for work.",
-        "ptExample": "Ele demorou-se no café da manhã, fazendo-se atrasar para o trabalho."
+            "enExample": "He dawdled over his breakfast, making himself late for work.",
+            "ptExample": "Ele demorou-se no café da manhã, fazendo-se atrasar para o trabalho."
           }
         ],
         "synonyms": ["loiter", "linger", "dally", "procrastinate"],
@@ -22,8 +22,8 @@
         "seeAlso": ["delay", "waste time", "lag"],
         "notes": [
           {
-        "enNote": "Often used in situations where someone is taking longer than necessary to complete a task",
-        "ptNote": "Frequentemente usado em situações onde alguém está demorando mais que o necessário para completar uma tarefa"
+            "enNote": "Often used in situations where someone is taking longer than necessary to complete a task",
+            "ptNote": "Frequentemente usado em situações onde alguém está demorando mais que o necessário para completar uma tarefa"
           }
         ]
       },

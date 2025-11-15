@@ -1,32 +1,32 @@
 [
   {
-    "word": "buckle down",
-    "phonetics": "/ˈbʌkəl daʊn/",
-    "partOfSpeech": "phrasal verb",
-    "enDefinition": "to start to work or study in a serious and determined way",
-    "ptDefinition": "começar a trabalhar ou estudar de maneira séria e determinada",
-    "examples": [
-      {
-        "enExample": "You need to buckle down and study if you want to pass the exam.",
-        "ptExample": "Você precisa se dedicar e estudar se quiser passar no exame."
-      },
-      {
-        "enExample": "It's time to buckle down and finish this project.",
-        "ptExample": "É hora de se concentrar e terminar este projeto."
-      }
-    ],
-    "synonyms": "concentrate, focus, apply oneself",
-    "antonyms": "slack off, procrastinate",
-    "seeAlso": "get down to work, knuckle down",
-    "notes": [
-      {
-        "enNote": "Often used to encourage someone to focus on a task or responsibility that requires serious attention.",
-        "ptNote": "Frequentemente usado para encorajar alguém a focar em uma tarefa ou responsabilidade que requer atenção séria."
-      }
-    ]
-  },
-  {
     "definitions": [
+      {
+        "word": "buckle down",
+        "phonetics": "/ˈbʌkəl daʊn/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to start to work or study in a serious and determined way",
+        "ptDefinition": "começar a trabalhar ou estudar de maneira séria e determinada",
+        "examples": [
+          {
+            "enExample": "You need to buckle down and study if you want to pass the exam.",
+            "ptExample": "Você precisa se dedicar e estudar se quiser passar no exame."
+          },
+          {
+            "enExample": "It's time to buckle down and finish this project.",
+            "ptExample": "É hora de se concentrar e terminar este projeto."
+          }
+        ],
+        "synonyms": "concentrate, focus, apply oneself",
+        "antonyms": "slack off, procrastinate",
+        "seeAlso": "get down to work, knuckle down",
+        "notes": [
+          {
+            "enNote": "Often used to encourage someone to focus on a task or responsibility that requires serious attention.",
+            "ptNote": "Frequentemente usado para encorajar alguém a focar em uma tarefa ou responsabilidade que requer atenção séria."
+          }
+        ]
+      },
       {
         "word": "blow something",
         "phonetics": "/bloʊ ˈsʌmθɪŋ/",
