@@ -85,37 +85,6 @@
     },
     {
       "ribbon": {
-        "icon": "map",
-        "label": "Map of New Zealand"
-      }
-    },
-    {
-      "grid": false,
-      "text": [
-        {
-          "card": false,
-          "blocks": [
-            {
-              "block": [
-                {
-                  "audioSrc": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/auckland.mp3"
-                },
-                {
-                  "text": "Auckland is a major city in the north of New Zealand’s North Island."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "iframe": {
-        "src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3268890.664738037!2d174.706121!3d-36.859811!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0d47fb5a9ce6fb%3A0x500ef6143a29917!2sAuckland%2C%20New%20Zealand!5e0!3m2!1sen!2sus!4v1734803605582!5m2!1sen!2sus"
-      }
-    },
-    {
-      "ribbon": {
         "icon": "snippet",
         "label": "Vocabulary"
       }
@@ -383,6 +352,11 @@
                       "icon": "picture",
                       "link": "#retelling-the-story",
                       "label": "Retelling the story"
+                    },
+                    {
+                      "icon": "extra",
+                      "link": "#extra",
+                      "label": "Extra"
                     }
                   ]
                 }
@@ -805,7 +779,7 @@
                 {
                   "block": [
                     {
-                      "text": "4.1 What do the girls do at the Ninety Beach? They",
+                      "text": "1.1 What do the girls do at the Ninety Beach? They",
                       "correctAnswer": ["wait"]
                     },
                     {
@@ -836,7 +810,21 @@
             {
               "block": [
                 {
-                  "text": "2.1 ..."
+                  "text": "2.1 Where are buses driving?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 Do the girls see Michael on the bus?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.3 Does Michael wave to the girls?"
                 }
               ]
             }
@@ -903,7 +891,7 @@
                 {
                   "block": [
                     {
-                      "text": "5.1 Suddenly, they hear a beep. Sarah",
+                      "text": "1.1 Suddenly, they hear a beep. Sarah",
                       "correctAnswer": ["looks"]
                     },
                     {
@@ -942,7 +930,21 @@
             {
               "block": [
                 {
-                  "text": "2.1 ..."
+                  "text": "2.1 Are the girls in a taxi?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 Why does Sarah look at the mobile?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.3 Where can the girls find Michael the next day?"
                 }
               ]
             }
@@ -1009,7 +1011,7 @@
                 {
                   "block": [
                     {
-                      "text": "6.1 What does Sarah give to Jessica? She",
+                      "text": "1.1 What does Sarah give to Jessica? She",
                       "correctAnswer": ["gives"]
                     },
                     {
@@ -1044,7 +1046,14 @@
             {
               "block": [
                 {
-                  "text": "2.1 ..."
+                  "text": "2.1 Is Michael at the Sky Tower when they arrived there?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 What does Sarah want to do when they get there?"
                 }
               ]
             }
@@ -1111,7 +1120,7 @@
                 {
                   "block": [
                     {
-                      "text": "7.1 At the top of the tower Sarah",
+                      "text": "1.1 At the top of the tower Sarah",
                       "correctAnswer": ["jumps"]
                     },
                     {
@@ -1153,7 +1162,7 @@
             {
               "block": [
                 {
-                  "text": "2.1 ..."
+                  "text": "2.1 What does Jessica forget to take after Sarah jumps from the tower?"
                 }
               ]
             }
@@ -1970,6 +1979,37 @@
           "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/paragraph-14.avif"
         }
       ]
+    },
+    {
+      "ribbon": {
+        "icon": "extra",
+        "label": "Extra"
+      }
+    },
+    {
+      "grid": false,
+      "text": [
+        {
+          "card": false,
+          "blocks": [
+            {
+              "block": [
+                {
+                  "audioSrc": "/assets/audio/extras/audiobooks/starter/young-learners-adults/a-new-zealand-adventure/auckland.mp3"
+                },
+                {
+                  "text": "Auckland is a major city in the north of New Zealand’s North Island."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "iframe": {
+        "src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3268890.664738037!2d174.706121!3d-36.859811!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0d47fb5a9ce6fb%3A0x500ef6143a29917!2sAuckland%2C%20New%20Zealand!5e0!3m2!1sen!2sus!4v1734803605582!5m2!1sen!2sus"
+      }
     }
   ]
 }
