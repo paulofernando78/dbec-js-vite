@@ -1131,7 +1131,7 @@
                 {
                   "block": [
                     {
-                      "text": "7.2 Jessica",
+                      "text": "1.2 Jessica",
                       "correctAnswer": ["runs"]
                     },
                     {
@@ -1229,7 +1229,7 @@
                 {
                   "block": [
                     {
-                      "text": "8.1 They're unhappy because they can’t",
+                      "text": "1.1 They're unhappy because they can’t",
                       "correctAnswer": ["find"]
                     },
                     {
@@ -1273,7 +1273,14 @@
             {
               "block": [
                 {
-                  "text": "2.1 ..."
+                  "text": "2.1 Does Sarah have money?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.1 What tickets do they have for?"
                 }
               ]
             }
@@ -1340,7 +1347,7 @@
                 {
                   "block": [
                     {
-                      "text": "9.1 How do the girls get into the dark cave? They",
+                      "text": "1.1 How do the girls get into the dark cave? They",
                       "correctAnswer": ["go on"]
                     },
                     {
@@ -1371,7 +1378,14 @@
             {
               "block": [
                 {
-                  "text": "2.1 ..."
+                  "text": "2.1 How do they go into the dark cave?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 Why do people get angry in the cave?"
                 }
               ]
             }
@@ -1445,6 +1459,17 @@
                       "text": "Island."
                     }
                   ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "10.2 The boat is very",
+                      "correctAnswer": ["expensive"]
+                    },
+                    {
+                      "text":	"."
+                    }
+                  ]
                 }
               ]
             }
@@ -1469,7 +1494,7 @@
             {
               "block": [
                 {
-                  "text": "2.1 ..."
+                  "text": "2.1 How do they go to South Island?"
                 }
               ]
             }
@@ -1536,7 +1561,7 @@
                 {
                   "block": [
                     {
-                      "text": "11.1 After the beep, Sarah",
+                      "text": "1.1 After the beep, Sarah",
                       "correctAnswer": ["reads"]
                     },
                     {
@@ -1571,7 +1596,7 @@
             {
               "block": [
                 {
-                  "text": "2.1 ..."
+                  "text": "2.1 Where do Sarah and Jessica take Michael's phone?"
                 }
               ]
             }
@@ -1638,7 +1663,7 @@
                 {
                   "block": [
                     {
-                      "text": "12.1 They can't see the whales because the tickets are",
+                      "text": "1.1 They can't see the whales because the tickets are",
                       "correctAnswer": ["expensive"]
                     },
                     {
@@ -1669,7 +1694,14 @@
             {
               "block": [
                 {
-                  "text": "2.1 ..."
+                  "text": "2.1 What attraction do the girls want to see?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 Is it cheap?"
                 }
               ]
             }
@@ -1736,7 +1768,7 @@
                 {
                   "block": [
                     {
-                      "text": "13.1 After Michael gets the phone back he",
+                      "text": "1.1 After Michael gets the phone back he",
                       "correctAnswer": ["calls"]
                     },
                     {
@@ -1752,7 +1784,7 @@
                 {
                   "block": [
                     {
-                      "text": "13.2 Michael can",
+                      "text": "1.2 Michael can",
                       "correctAnswer": ["give"]
                     },
                     {
@@ -1783,7 +1815,21 @@
             {
               "block": [
                 {
-                  "text": "2.1 ..."
+                  "text": "2.1 Who does Michael call?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.2 What does Michael's parents say?"
+                }
+              ]
+            },
+            {
+              "block": [
+                {
+                  "text": "2.3 What surprise does Michael give to the girls?"
                 }
               ]
             }
@@ -1850,11 +1896,22 @@
                 {
                   "block": [
                     {
-                      "text": "14.1 Michael asks, “Do you like the”",
+                      "text": "1.1 Michael asks, “Do you like the”",
                       "correctAnswer": ["whales"]
                     },
                     {
                       "text": "?"
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.2 “Thank you for the",
+                      "correctAnswer": ["surprise"]
+                    },
+                    {
+                      "text": ",” Jessica says."
                     }
                   ]
                 }
@@ -1872,31 +1929,6 @@
                       }
                     ]
                   }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "grid": false,
-      "text": [
-        {
-          "card": false,
-          "blocks": [
-            {
-              "block": [
-                {
-                  "boldText": "2. Now answer the questions."
-                }
-              ],
-              "lineBreak": true
-            },
-            {
-              "block": [
-                {
-                  "text": "2.1 ..."
                 }
               ]
             }
