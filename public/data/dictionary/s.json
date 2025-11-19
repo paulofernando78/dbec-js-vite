@@ -2,6 +2,36 @@
   {
     "definitions": [
       {
+        "word": "struggle",
+        "phonetics": "/ˈstrʌɡ(ə)l/",
+        "partOfSpeech": "verb, noun",
+        "enDefinition": "verb: to make a great effort to overcome difficulty; noun: a forceful or determined effort to achieve or resist something",
+        "ptDefinition": "verbo: fazer um grande esforço para superar uma dificuldade; substantivo: um esforço determinado para alcançar ou resistir a algo",
+        "examples": [
+          {
+            "enExample": "She struggled to lift the heavy box.",
+            "ptExample": "Ela teve dificuldade para levantar a caixa pesada."
+          },
+          {
+            "enExample": "The small business struggled during the economic downturn.",
+            "ptExample": "A pequena empresa enfrentou dificuldades durante a recessão."
+          },
+          {
+            "enExample": "Their struggle for better working conditions lasted months.",
+            "ptExample": "A luta deles por melhores condições de trabalho durou meses."
+          }
+        ],
+        "synonyms": ["fight", "strive", "battle", "work hard"],
+        "antonyms": ["succeed easily", "coast", "give up"],
+        "seeAlso": ["strive", "battle", "cope"],
+        "notes": [
+          {
+            "enNote": "Used in physical, emotional, financial, and political contexts; can be transitive or intransitive as a verb.",
+            "ptNote": "Usado em contextos físicos, emocionais, financeiros e políticos; pode ser verbo transitivo ou intransitivo."
+          }
+        ]
+      },
+      {
         "word": "stand a chance",
         "phonetics": "/stænd ə tʃæns/",
         "partOfSpeech": "idiom",
