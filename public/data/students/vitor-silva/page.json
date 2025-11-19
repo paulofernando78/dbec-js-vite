@@ -617,7 +617,7 @@
                 {
                   "day": [
                     {
-                      "status": "R",
+                      "status": "OK",
                       "date": "Thu 31",
                       "classNotes": "Class moved to Fri 29",
                       "homeworkNotes": ""
@@ -801,9 +801,9 @@
                 {
                   "day": [
                     {
-                      "status": "R",
+                      "status": "ROK",
                       "date": "Thu 18",
-                      "classNotes": "",
+                      "classNotes": "Class moved to Wed 18 Nov",
                       "homeworkNotes": ""
                     }
                   ]
@@ -821,9 +821,9 @@
                 {
                   "day": [
                     {
-                      "status": "R",
+                      "status": "ROK",
                       "date": "Thu 25",
-                      "classNotes": "",
+                      "classNotes": "Class moved to Wed 19 Nov",
                       "homeworkNotes": ""
                     }
                   ]

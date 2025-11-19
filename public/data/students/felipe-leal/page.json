@@ -166,7 +166,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Wed 29",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -182,7 +182,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Wed 5",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -192,9 +192,9 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Wed 12",
-                      "classNotes": "",
+                      "classNotes": "Class moved to Fri 14 - 14:15",
                       "homeworkNotes": ""
                     }
                   ]
