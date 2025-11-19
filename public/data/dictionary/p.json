@@ -2,6 +2,32 @@
   {
     "definitions": [
       {
+        "word": "perk",
+        "phonetics": "US /pɝːk/, UK /pɜːk/",
+        "partOfSpeech": "noun",
+        "enDefinition": "a benefit or advantage offered as part of an employment package or membership",
+        "ptDefinition": "um benefício ou vantagem oferecido como parte de um pacote de emprego ou associação",
+        "examples": [
+          {
+        "enExample": "One of the perks of working here is the free coffee in the break room.",
+        "ptExample": "Um dos benefícios de trabalhar aqui é o café gratuito na sala de descanso."
+          },
+          {
+        "enExample": "Health insurance is a common perk offered by companies.",
+        "ptExample": "Seguro de saúde é um benefício comum oferecido pelas empresas."
+          }
+        ],
+        "synonyms": ["benefit", "advantage", "privilege"],
+        "antonyms": ["disadvantage", "burden"],
+        "seeAlso": ["benefit", "bonus", "incentive"],
+        "notes": [
+          {
+        "enNote": "Perks are often used as incentives to attract and retain employees.",
+        "ptNote": "Benefícios são frequentemente usados como incentivos para atrair e reter funcionários."
+          }
+        ]
+      },
+      {
         "word": "put up with",
         "partOfSpeech": "phrasal verb",
         "enDefinition": "to accept or tolerate something unpleasant or annoying without complaining or stopping it",
