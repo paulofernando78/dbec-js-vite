@@ -2,6 +2,35 @@
   {
     "definitions": [
       {
+        "word": "clean slate",
+        "partOfSpeech": "idiom",
+        "enDefinition": "a fresh start; a situation in which past mistakes, problems, or records are forgiven or set aside so someone can begin again",
+        "ptDefinition": "um recomeço; situação em que erros, problemas ou registros passados são perdoados ou deixados de lado para que alguém possa começar de novo",
+        "examples": [
+          {
+        "enExample": "After the scandal, the new management offered employees a clean slate to rebuild trust.",
+        "ptExample": "Após o escândalo, a nova gestão ofereceu aos funcionários um recomeço para reconstruir a confiança."
+          },
+          {
+        "enExample": "She moved to a different city for a clean slate and a chance to start over.",
+        "ptExample": "Ela se mudou para outra cidade em busca de um recomeço e a chance de começar de novo."
+          },
+          {
+        "enExample": "If you apologize and show you're willing to change, we'll give you a clean slate.",
+        "ptExample": "Se você pedir desculpas e mostrar que está disposto a mudar, nós lhe daremos uma nova chance."
+          }
+        ],
+        "synonyms": ["fresh start", "new beginning", "blank slate", "tabula rasa"],
+        "antonyms": ["record kept", "no second chances", "past remembered"],
+        "seeAlso": ["wipe the slate clean", "fresh start", "tabula rasa"],
+        "notes": [
+          {
+        "enNote": "Commonly used to describe forgiveness or restarting a relationship, job, or situation without holding past actions against someone.",
+        "ptNote": "Comumente usado para descrever perdão ou recomeço em um relacionamento, emprego ou situação sem levar em conta ações passadas."
+          }
+        ]
+      },
+      {
         "word": "cheek",
         "phonetics": "/tʃiːk/",
         "partOfSpeech": "noun",
