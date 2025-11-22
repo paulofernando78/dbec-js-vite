@@ -2,6 +2,31 @@
   {
     "definitions": [
       {
+        "word": "look on the bright side",
+        "partOfSpeech": "idiom",
+        "enDefinition": "to try to see the positive aspects of a situation; to focus on good things rather than bad ones",
+        "ptDefinition": "tentar ver os aspectos positivos de uma situação; focar nas coisas boas em vez das ruins",
+        "examples": [
+          {
+        "enExample": "I know you lost your job, but look on the bright side – you'll have more time for your family.",
+        "ptExample": "Sei que você perdeu seu emprego, mas veja o lado positivo – você terá mais tempo para sua família."
+          },
+          {
+        "enExample": "The project failed, but we can look on the bright side and learn from our mistakes.",
+        "ptExample": "O projeto falhou, mas podemos ver o lado positivo e aprender com nossos erros."
+          }
+        ],
+        "synonyms": ["see the silver lining", "accentuate the positive", "focus on the good"],
+        "antonyms": ["dwell on negatives", "be pessimistic"],
+        "seeAlso": ["silver lining", "optimism", "glass half full"],
+        "notes": [
+          {
+        "enNote": "Often used to encourage someone to maintain a positive perspective during difficult times.",
+        "ptNote": "Frequentemente usado para encorajar alguém a manter uma perspectiva positiva durante tempos difíceis."
+          }
+        ]
+      },
+      {
         "word": "buckle down",
         "phonetics": "/ˈbʌkəl daʊn/",
         "partOfSpeech": "phrasal verb",

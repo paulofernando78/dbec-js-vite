@@ -2,6 +2,96 @@
   {
     "definitions": [
       {
+        "word": "stammer",
+        "phonetics": "/ˈstæmər/",
+        "partOfSpeech": "verb, noun",
+        "enDefinition": "verb: to speak with involuntary repetition, prolongation, or blocks of sounds or syllables; noun: a speech disorder or an instance of such disrupted speech.",
+        "ptDefinition": "verbo: falar com repetições involuntárias, prolongamentos ou bloqueios de sons ou sílabas; substantivo: um distúrbio de fala ou um caso de fala interrompida.",
+        "examples": [
+          {
+        "enExample": "He tends to stammer when he's nervous.",
+        "ptExample": "Ele tende a gaguejar quando está nervoso."
+          },
+          {
+        "enExample": "With practice and therapy her stammer became much less noticeable.",
+        "ptExample": "Com prática e terapia, a gagueira dela ficou muito menos perceptível."
+          },
+          {
+        "enExample": "Don't finish his sentences for him — it can make his stammer worse.",
+        "ptExample": "Não termine as frases por ele — isso pode piorar a gagueira."
+          }
+        ],
+        "synonyms": ["stutter"],
+        "antonyms": ["speak fluently", "articulate"],
+        "seeAlso": ["stutter", "speech therapy", "fluency"],
+        "notes": [
+          {
+        "enNote": "Stammering can be developmental (beginning in childhood) or acquired; treatment often includes speech therapy and strategies to manage anxiety and fluency.",
+        "ptNote": "A gagueira pode ser desenvolvimental (iniciando na infância) ou adquirida; o tratamento frequentemente inclui terapia da fala e estratégias para controlar a ansiedade e a fluência."
+          }
+        ]
+      },
+      {
+        "word": "stutter",
+        "phonetics": "/ˈstʌtər/",
+        "partOfSpeech": "verb, noun",
+        "enDefinition": "verb: to speak with involuntary repetition, prolongation, or blocks of sounds or syllables; noun: a speech disorder characterized by such disruptions in fluency.",
+        "ptDefinition": "verbo: falar com repetições involuntárias, prolongamento ou bloqueios de sons ou sílabas; substantivo: um distúrbio de fala caracterizado por essas interrupções na fluência.",
+        "examples": [
+          {
+        "enExample": "He tends to stutter when he's nervous.",
+        "ptExample": "Ele tende a gaguejar quando está nervoso."
+          },
+          {
+        "enExample": "With speech therapy she reduced her stutter significantly.",
+        "ptExample": "Com terapia da fala, ela reduziu bastante a gagueira."
+          },
+          {
+        "enExample": "Try not to finish his sentences for him — it can make his stutter worse.",
+        "ptExample": "Não termine as frases por ele — isso pode piorar a gagueira."
+          }
+        ],
+        "synonyms": ["stammer"],
+        "antonyms": ["speak fluently", "articulate"],
+        "seeAlso": ["stammer", "speech therapy", "fluency"],
+        "notes": [
+          {
+        "enNote": "Stuttering can be developmental (beginning in childhood) or acquired; environmental and emotional factors influence severity and treatment.",
+        "ptNote": "A gagueira pode ser desenvolvimental (iniciando na infância) ou adquirida; fatores ambientais e emocionais influenciam a gravidade e o tratamento."
+          }
+        ]
+      },
+      {
+        "word": "stab someone in the back",
+        "phonetics": "/stæb ˈsʌm.wʌn ɪn ðə bæk/",
+        "partOfSpeech": "idiom (figurative)",
+        "enDefinition": "to betray or act disloyally toward someone who trusts you, especially by doing something harmful without their knowledge.",
+        "ptDefinition": "trair ou agir de forma desleal com alguém que confia em você, especialmente fazendo algo prejudicial sem o conhecimento dessa pessoa.",
+        "examples": [
+          {
+        "enExample": "I thought she was my friend, but she stabbed me in the back by spreading those rumors.",
+        "ptExample": "Eu pensei que ela fosse minha amiga, mas ela me traiu pelas costas espalhando esses boatos."
+          },
+          {
+        "enExample": "Don't stab your colleagues in the back just to get a promotion.",
+        "ptExample": "Não traia seus colegas pelas costas só para conseguir uma promoção."
+          },
+          {
+        "enExample": "He felt betrayed when his partner stabbed him in the back and signed the deal without him.",
+        "ptExample": "Ele se sentiu traído quando seu sócio o apunhalou pelas costas e assinou o contrato sem ele."
+          }
+        ],
+        "synonyms": ["betray", "backstab", "double-cross", "sell out"],
+        "antonyms": ["support", "stand by", "be loyal", "have someone's back"],
+        "seeAlso": ["backstab", "betrayal", "sell someone's trust"],
+        "notes": [
+          {
+        "enNote": "Common informal idiom used figuratively to describe acts of betrayal; not a literal reference to physical stabbing.",
+        "ptNote": "Expressão informal comum usada figurativamente para descrever atos de traição; não se refere literalmente a esfaqueamento."
+          }
+        ]
+      },
+      {
         "word": "struggle",
         "phonetics": "/ˈstrʌɡ(ə)l/",
         "partOfSpeech": "verb, noun",

@@ -2,6 +2,36 @@
   {
     "definitions": [
       {
+        "word": "tell someone off",
+        "phonetics": " (US) /tɛl ˈsʌmwən ɔːf/ , (UK) /tɛl ˈsʌmwən ɒf/",
+        "partOfSpeech": "phrasal verb",
+        "enDefinition": "to angrily scold or reprimand someone for doing something wrong or inappropriate",
+        "ptDefinition": "repreender alguém com raiva por fazer algo errado ou inapropriado; dar uma bronca",
+        "examples": [
+          {
+        "enExample": "The teacher told him off for talking during the exam.",
+        "ptExample": "O professor o repreendeu por falar durante a prova."
+          },
+          {
+        "enExample": "She told him off for being late to the meeting again.",
+        "ptExample": "Ela o mandou uma bronca por chegar atrasado à reunião novamente."
+          },
+          {
+        "enExample": "I was told off by my manager after the client complained.",
+        "ptExample": "Fui repreendido pelo meu gerente depois que o cliente reclamou."
+          }
+        ],
+        "synonyms": ["scold", "reprimand", "berate", "chew out"],
+        "antonyms": ["praise", "commend", "forgive"],
+        "seeAlso": ["reprimand", "scold", "chew out", "tell off for"],
+        "notes": [
+          {
+        "enNote": "Informal expression commonly used in spoken English; more frequent in British English than formal alternatives like 'reprimand'.",
+        "ptNote": "Expressão informal, comum na fala; mais frequente no inglês britânico do que termos formais como 'reprimand'."
+          }
+        ]
+      },
+      {
         "word": "talk over",
         "phonetics": "/tɑːk ˈoʊ.vɚ/ US, /tɔːk ˈoʊ.vər/ UK",
         "partOfSpeech": "phrasal verb",
