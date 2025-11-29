@@ -2287,10 +2287,7 @@
                     {
                       "text": "1. They",
                       "placeholder": "just arrived.",
-                      "correctAnswer": ["just arrived"]
-                    },
-                    {
-                      "text": "."
+                      "correctAnswer": ["just arrived."]
                     }
                   ]
                 },
@@ -2298,10 +2295,7 @@
                   "block": [
                     {
                       "text": "2. She",
-                      "correctAnswer": [" just woke up"]
-                    },
-                    {
-                      "text": "."
+                      "correctAnswer": [" just woke up."]
                     }
                   ]
                 },
@@ -2309,10 +2303,7 @@
                   "block": [
                     {
                       "text": "3. They",
-                      "correctAnswer": ["just bought a new car"]
-                    },
-                    {
-                      "text": "."
+                      "correctAnswer": ["just bought a new car."]
                     }
                   ]
                 },
@@ -2320,56 +2311,13 @@
                   "block": [
                     {
                       "text": "4. The race",
-                      "correctAnswer": ["just started", "just began"]
-                    },
-                    {
-                      "text": "."
+                      "correctAnswer": ["just started.", "just began."]
                     }
                   ]
                 }
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "flipCardText": [
-        {
-          "front": "What's the past of die?",
-          "back": "died"
-        },
-        {
-          "front": "What's the past of end?",
-          "back": "ended"
-        },
-        {
-          "front": "What's the past of enjoy?",
-          "back": "enjoyed"
-        },
-        {
-          "front": "What's the past of happen?",
-          "back": "happened"
-        },
-        {
-          "front": "What's the past of open?",
-          "back": "opened"
-        },
-        {
-          "front": "What's the past of rain?",
-          "back": "rained"
-        },
-        {
-          "front": "What's the past of brush?",
-          "back": "brushed"
-        },
-        {
-          "front": "What's the past of start?",
-          "back": "started"
-        },
-        {
-          "front": "What's the past of want?",
-          "back": "wanted"
         }
       ]
     }

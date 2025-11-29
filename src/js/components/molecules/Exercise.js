@@ -164,17 +164,17 @@ class Exercise extends HTMLElement {
   }
 
   //Flip Card
-  // _renderFlipCard(items) {
-  //   const flipCardWrapper = document.createElement("div");
-  //   flipCardWrapper.classList.add("flip-card-container");
-  //   this.exerciseContainer.appendChild(flipCardWrapper);
+  _renderFlipCard(items) {
+    const flipCardWrapper = document.createElement("div");
+    flipCardWrapper.classList.add("flip-card-container");
+    this.exerciseContainer.appendChild(flipCardWrapper);
 
-  //   items.forEach((item) => {
-  //     const flip = document.createElement("wc-flip-card");
-  //     flip.data = item;
-  //     flipCardWrapper.appendChild(flip);
-  //   });
-  // }
+    items.forEach((item) => {
+      const flip = document.createElement("wc-flip-card");
+      flip.data = item;
+      flipCardWrapper.appendChild(flip);
+    });
+  }
 
   // Radio
   _renderRadioExercises(items, idxOffset) {

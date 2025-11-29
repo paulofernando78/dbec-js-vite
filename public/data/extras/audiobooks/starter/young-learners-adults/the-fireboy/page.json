@@ -343,11 +343,22 @@
                 {
                   "block": [
                     {
-                      "text": "1.1 ...",
-                      "correctAnswer": ["..."]
+                      "text": "1.1 Hapu",
+                      "correctAnswer": ["lives"]
                     },
                     {
-                      "text": "..."
+                      "text": "in Ancient Egypt."
+                    }
+                  ]
+                },
+                {
+                  "block": [
+                    {
+                      "text": "1.2 Bak.",
+                      "correctAnswer": ["has"]
+                    },
+                    {
+                      "text": "a small factory"
                     }
                   ]
                 }
@@ -1129,49 +1140,49 @@
     {
       "flipCardBackImage": [
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-fireboy/paragraph-1.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-fireboy/paragraph-2.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-fireboy/paragraph-3.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-fireboy/paragraph-4.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-fireboy/paragraph-5.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-fireboy/paragraph-6.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-fireboy/paragraph-7.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-fireboy/paragraph-8-9.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-fireboy/paragraph-8-9.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-fireboy/paragraph-10.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-fireboy/paragraph-11.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-fireboy/paragraph-12.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-fireboy/paragraph-13.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-fireboy/paragraph-14.avif"
         },
         {
-          "img": ""
+          "img": "/assets/images/extras/audiobooks/starter/young-learners-adults/the-fireboy/paragraph-15.avif"
         }
       ]
     }

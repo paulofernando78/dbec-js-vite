@@ -225,7 +225,7 @@
                 {
                   "day": [
                     {
-                      "status": "SC",
+                      "status": "R",
                       "date": "Tue 4",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -235,7 +235,7 @@
                 {
                   "day": [
                     {
-                      "status": "SC",
+                      "status": "R",
                       "date": "Thu 6",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -245,7 +245,7 @@
                 {
                   "day": [
                     {
-                      "status": "SC",
+                      "status": "R",
                       "date": "Tue 11",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -255,7 +255,7 @@
                 {
                   "day": [
                     {
-                      "status": "SC",
+                      "status": "R",
                       "date": "Thu 13",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -275,7 +275,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "H",
                       "date": "Thu 20",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -285,7 +285,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "R",
                       "date": "Tue 25",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -295,7 +295,7 @@
                 {
                   "day": [
                     {
-                      "status": "...",
+                      "status": "OK",
                       "date": "Thu 27",
                       "classNotes": "",
                       "homeworkNotes": ""
@@ -312,7 +312,7 @@
                     {
                       "status": "...",
                       "date": "Tue 2",
-                      "classNotes": "",
+                      "classNotes": "Goes on vacation",
                       "homeworkNotes": ""
                     }
                   ]

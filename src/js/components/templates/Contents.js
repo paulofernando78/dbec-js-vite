@@ -243,7 +243,7 @@ class Contents extends HTMLElement {
         });
       }
 
-      // Flip Cards
+      // Flip Cards Text
       if (section.flipCardText) {
         const flipCardWrapper = document.createElement("div");
         flipCardWrapper.classList.add("flip-card-container");
